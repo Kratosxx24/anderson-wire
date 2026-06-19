@@ -20,17 +20,21 @@ stories you want per run.
 RSS_FEEDS = [
     # --- NBA / basketball (heavy — your main lane) ---
     ("ESPN NBA", "https://www.espn.com/espn/rss/nba/news"),
-    ("Hoops Rumors", "https://www.hoopsrumors.com/feed"),
     ("HoopsHype", "https://hoopshype.com/feed/"),
     ("r/NBA", "https://www.reddit.com/r/nba/.rss"),
     ("r/NBA Discussion", "https://www.reddit.com/r/nbadiscussion/.rss"),
     ("r/NBA Analytics", "https://www.reddit.com/r/nbaanalysis/.rss"),
 
-    # --- Volleyball / other sports ---
+    # --- Sports (volleyball, fantasy football, general) ---
     ("Volleyball Mag", "https://volleyballmag.com/feed/"),
     ("ESPN Sports", "https://www.espn.com/espn/rss/news"),
+    ("r/FantasyFootball", "https://www.reddit.com/r/fantasyfootball/.rss"),
 
-    # --- Tech / AI / predictive modeling ---
+    # --- Tech / AI (Apple, Anthropic/LLMs, consumer tech) ---
+    ("Stratechery", "https://stratechery.com/feed/"),
+    ("Daring Fireball", "https://daringfireball.net/feeds/main"),
+    ("Simon Willison", "https://simonwillison.net/atom/everything/"),
+    ("MKBHD", "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"),
     ("Hacker News", "https://hnrss.org/frontpage"),
     ("r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
     ("r/Artificial", "https://www.reddit.com/r/artificial/.rss"),
@@ -42,6 +46,9 @@ RSS_FEEDS = [
 
     # --- Film / scores ---
     ("IndieWire", "https://www.indiewire.com/feed/"),
+
+    # --- Music ---
+    ("Pitchfork", "https://pitchfork.com/feed/feed-album-reviews/rss"),
 
     # --- World Cup 2026 / soccer ---
     ("ESPN Soccer", "https://www.espn.com/espn/rss/soccer/news"),
@@ -88,10 +95,15 @@ relevance WELL WITHIN each area:
 - Faith: Reformed/Presbyterian theology and culture (The Gospel Coalition,
   Desiring God, Ligonier). Score substantive theology and thoughtful cultural
   commentary high; score surface devotional filler and prosperity-gospel low.
-- Sports: volleyball especially, plus basketball/football analysis.
-- Tech/AI: predictive modeling, applied ML, forecasting — especially applied to
-  sports or real-world decisions.
-- Film: high-concept sci-fi and great film scores; jazz.
+- Sports: volleyball especially, plus basketball/football analysis and fantasy
+  football (lineup/start-sit/waiver strategy).
+- Tech/AI: predictive modeling, applied ML, and forecasting — especially applied
+  to sports or real decisions. Also Apple (products, the company), Anthropic and
+  the broader LLM/AI race (Claude, frontier models), and sharp consumer-tech
+  reviews and analysis (MKBHD-style). Score thoughtful analysis high, rumor-mill
+  churn lower.
+- Film: high-concept sci-fi and great film scores.
+- Music: album reviews and music criticism (Pitchfork), jazz, and film scores.
 - World Cup 2026: results, storylines, tactical breakdowns.
 - World: genuinely important news an informed person should know.
 
@@ -117,13 +129,14 @@ CATEGORY_MINIMUMS = {
     "Sports":  3,
     "Tech/AI": 3,
     "Film":    2,
+    "Music":   2,
     "World":   3,
     "Other":   1,
 }
 
 # How many raw headlines to triage per run. Bigger pool = better odds of filling
 # 50 and hitting minimums. The triage pass is cheap (no summaries), so go big.
-MAX_HEADLINES_TO_AI = 1000
+MAX_HEADLINES_TO_AI = 150
 
 # Only consider articles published within this many hours (keeps it fresh).
 # Widen this if you aren't consistently filling 50 stories.
