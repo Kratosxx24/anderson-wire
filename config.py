@@ -18,22 +18,27 @@ stories you want per run.
 # ---------------------------------------------------------------------------
 
 RSS_FEEDS = [
-    # --- NBA / basketball ---
+    # --- NBA / basketball (heavy — your main lane) ---
     ("ESPN NBA", "https://www.espn.com/espn/rss/nba/news"),
-    ("r/NBA", "https://www.reddit.com/r/nba/.rss"),
+    ("Hoops Rumors", "https://www.hoopsrumors.com/feed"),
     ("HoopsHype", "https://hoopshype.com/feed/"),
-    ("Reddit NBA Analytics", "https://www.reddit.com/r/nbadiscussion/.rss"),
+    ("r/NBA", "https://www.reddit.com/r/nba/.rss"),
+    ("r/NBA Discussion", "https://www.reddit.com/r/nbadiscussion/.rss"),
+    ("r/NBA Analytics", "https://www.reddit.com/r/nbaanalysis/.rss"),
 
     # --- Volleyball / other sports ---
     ("Volleyball Mag", "https://volleyballmag.com/feed/"),
+    ("ESPN Sports", "https://www.espn.com/espn/rss/news"),
 
     # --- Tech / AI / predictive modeling ---
     ("Hacker News", "https://hnrss.org/frontpage"),
     ("r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
+    ("r/Artificial", "https://www.reddit.com/r/artificial/.rss"),
 
-    # --- Faith / culture ---
-    ("Christianity Today", "https://www.christianitytoday.com/rss/"),
+    # --- Faith / culture (Presbyterian/Reformed lean) ---
     ("The Gospel Coalition", "https://www.thegospelcoalition.org/feed/"),
+    ("Desiring God", "https://www.desiringgod.org/articles.rss"),
+    ("Ligonier", "https://www.ligonier.org/blog/feed/"),
 
     # --- Film / scores ---
     ("IndieWire", "https://www.indiewire.com/feed/"),
@@ -42,6 +47,7 @@ RSS_FEEDS = [
     ("ESPN Soccer", "https://www.espn.com/espn/rss/soccer/news"),
 
     # --- General / world ---
+    ("AP Top News", "https://rsshub.app/apnews/topics/apf-topnews"),
     ("Reuters Top News", "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best"),
 ]
 
@@ -74,21 +80,23 @@ INTEREST_PROFILE = """
 I'm Anderson — a college student, builder, and sports/analytics nerd. Here's
 what I actually care about, roughly in priority order:
 
-1. NBA, but the THINKING side of it: lineup construction, advanced stats,
-   roster building, trades and their second-order effects, front-office moves.
-   I care less about gossip and highlight noise, more about why teams win.
-2. Volleyball (my favorite sport to play), plus basketball and football
-   generally.
-3. Predictive modeling, applied ML, and data-driven forecasting — especially
-   anything I could apply to sports or business.
-4. Christian faith and culture, from a thoughtful Protestant/Presbyterian lens.
-5. High-concept sci-fi film and great film scores (think Interstellar, Blade
-   Runner 2049, Dune) and jazz.
-6. The 2026 FIFA World Cup.
-7. Genuinely major world news I should know about as an informed person.
+1. NBA, but the THINKING side: lineup construction, advanced stats, roster
+   building, trades and their second-order effects, front-office strategy,
+   draft analysis. Less gossip, more signal — why teams win or lose.
+2. Volleyball (my favorite sport to play) and sports analytics broadly.
+3. Predictive modeling, applied ML, data-driven forecasting — especially
+   applied to sports or real-world decision-making.
+4. Christian faith and culture from a Reformed/Presbyterian lens — theology,
+   culture commentary, the intersection of faith and modern life. Sources I
+   trust: The Gospel Coalition, Desiring God, Ligonier. Skip surface-level
+   devotional content and anything from a prosperity-gospel angle.
+5. High-concept sci-fi film and great film scores (Interstellar, Blade Runner
+   2049, Dune, Ex Machina) and jazz.
+6. The 2026 FIFA World Cup — results, storylines, tactical breakdowns.
+7. Genuinely important world news I should know as an informed person.
 
-Skip: celebrity gossip, clickbait, pure opinion ragebait, marketing/advertising
-industry news, and anything that's all heat and no signal.
+Skip entirely: celebrity gossip, clickbait, marketing/advertising industry
+news, prosperity gospel, opinion ragebait, and anything that's heat over signal.
 """
 
 
