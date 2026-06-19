@@ -22,6 +22,7 @@ def main():
 
     articles = fetcher.fetch_all()
     stories = summarizer.summarize(articles)
+    stories = fetcher.enrich_published_dates(stories)
 
     payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
