@@ -27,11 +27,6 @@ RSS_FEEDS = [
     # --- Volleyball / other sports ---
     ("Volleyball Mag", "https://volleyballmag.com/feed/"),
 
-    # --- Marketing / home services / direct mail / cold email ---
-    ("Marketing Brew", "https://www.marketingbrew.com/feed"),
-    ("r/marketing", "https://www.reddit.com/r/marketing/.rss"),
-    ("r/Emailmarketing", "https://www.reddit.com/r/Emailmarketing/.rss"),
-
     # --- Tech / AI / predictive modeling ---
     ("Hacker News", "https://hnrss.org/frontpage"),
     ("r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
@@ -62,7 +57,6 @@ RSS_FEEDS = [
 
 NEWSAPI_KEYWORDS = [
     "NBA trade",
-    "direct mail marketing",
     "FIFA World Cup 2026",
 ]
 
@@ -83,21 +77,18 @@ what I actually care about, roughly in priority order:
 1. NBA, but the THINKING side of it: lineup construction, advanced stats,
    roster building, trades and their second-order effects, front-office moves.
    I care less about gossip and highlight noise, more about why teams win.
-2. Marketing & growth in the home-services / direct-mail / cold-email world —
-   automation, deliverability, lead gen, B2B outreach tooling. Practical
-   tactics over thought-leadership fluff.
-3. Volleyball (my favorite sport to play), plus basketball and football
+2. Volleyball (my favorite sport to play), plus basketball and football
    generally.
-4. Predictive modeling, applied ML, and data-driven forecasting — especially
+3. Predictive modeling, applied ML, and data-driven forecasting — especially
    anything I could apply to sports or business.
-5. Christian faith and culture, from a thoughtful Protestant/Presbyterian lens.
-6. High-concept sci-fi film and great film scores (think Interstellar, Blade
+4. Christian faith and culture, from a thoughtful Protestant/Presbyterian lens.
+5. High-concept sci-fi film and great film scores (think Interstellar, Blade
    Runner 2049, Dune) and jazz.
-7. The 2026 FIFA World Cup.
-8. Genuinely major world news I should know about as an informed person.
+6. The 2026 FIFA World Cup.
+7. Genuinely major world news I should know about as an informed person.
 
-Skip: celebrity gossip, clickbait, pure opinion ragebait, and anything that's
-all heat and no signal.
+Skip: celebrity gossip, clickbait, pure opinion ragebait, marketing/advertising
+industry news, and anything that's all heat and no signal.
 """
 
 
@@ -106,11 +97,11 @@ all heat and no signal.
 # ---------------------------------------------------------------------------
 
 # How many stories the AI should surface each run.
-MAX_STORIES = 10
+MAX_STORIES = 25
 
 # How many raw headlines to feed the AI per run. Higher = more to choose from
-# but a bigger prompt. 60–80 is a good balance for the free tier.
-MAX_HEADLINES_TO_AI = 70
+# but a bigger prompt. 60–100 is a good balance for the free tier.
+MAX_HEADLINES_TO_AI = 90
 
 # Only consider articles published within this many hours (keeps it fresh).
 FRESHNESS_HOURS = 24
