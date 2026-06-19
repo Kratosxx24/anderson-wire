@@ -1,6 +1,7 @@
 """
 fetcher.py — pulls raw headlines from RSS feeds and (optionally) NewsAPI,
-normalizes them into a common shape, drops stale and duplicate items.
+normalizes them into a common shape, drops stale and duplicate items, and
+resolves true publication dates (in parallel) for the final selection.
 """
 
 import os
@@ -10,10 +11,16 @@ import html
 import urllib.request
 import json
 from datetime import datetime, timezone, timedelta
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 import feedparser
 
 import config
+
+# How many article pages to fetch at once when resolving true publish dates.
+DATE_RESOLVE_WORKERS = 12
+# Per-page fetch timeout (seconds). Lower = a slow site can't stall the run.
+DATE_RESOLVE_TIMEOUT = 5
 
 
 def _strip_html(text: str) -> str:
@@ -145,12 +152,13 @@ def fetch_all() -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# True publication date enrichment
+# True publication date enrichment (parallel)
 # ---------------------------------------------------------------------------
 # RSS pubDates are unreliable on wire/aggregator feeds (ESPN, Hacker News, AP
 # hubs) — they reflect when an item hit the feed, not when the article was
 # published. Most news pages embed the real date in a meta tag, so for the
 # handful of stories that make the final cut we fetch the page and read it.
+# We fetch many pages concurrently so this stays fast even with ~50 stories.
 
 _PUB_PATTERNS = [
     re.compile(r'<meta[^>]+?(?:property|name)=["\']article:published_time["\'][^>]+?content=["\']([^"\']+)["\']', re.I),
@@ -165,7 +173,7 @@ def _true_published(url: str) -> str | None:
     Returns an ISO date string, or None if the page has no usable date."""
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (newswire)"})
-        with urllib.request.urlopen(req, timeout=8) as resp:
+        with urllib.request.urlopen(req, timeout=DATE_RESOLVE_TIMEOUT) as resp:
             # The head (where meta tags live) is near the top — 250KB is plenty.
             html_text = resp.read(250_000).decode("utf-8", "ignore")
     except Exception:
@@ -179,16 +187,26 @@ def _true_published(url: str) -> str | None:
 
 def enrich_published_dates(stories: list[dict]) -> list[dict]:
     """Overwrite each story's feed date with its true publication date where we
-    can find one. Falls back silently to the feed date on any failure."""
-    print("Resolving true publication dates...")
+    can find one. Fetches pages concurrently; falls back silently to the feed
+    date on any failure."""
+    print("Resolving true publication dates (parallel)...")
+    targets = [s for s in stories if s.get("url")]
+    if not targets:
+        print("  - nothing to resolve")
+        return stories
+
     fixed = 0
-    for s in stories:
-        url = s.get("url")
-        if not url:
-            continue
-        real = _true_published(url)
-        if real:
-            s["published"] = real
-            fixed += 1
-    print(f"  - resolved {fixed}/{len(stories)} from the source page")
+    with ThreadPoolExecutor(max_workers=DATE_RESOLVE_WORKERS) as pool:
+        future_to_story = {pool.submit(_true_published, s["url"]): s for s in targets}
+        for fut in as_completed(future_to_story):
+            s = future_to_story[fut]
+            try:
+                real = fut.result()
+            except Exception:
+                real = None
+            if real:
+                s["published"] = real
+                fixed += 1
+
+    print(f"  - resolved {fixed}/{len(targets)} from the source page")
     return stories
