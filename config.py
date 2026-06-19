@@ -20,7 +20,6 @@ stories you want per run.
 RSS_FEEDS = [
     # --- NBA / basketball (heavy — your main lane) ---
     ("ESPN NBA", "https://www.espn.com/espn/rss/nba/news"),
-    ("HoopsHype", "https://hoopshype.com/feed/"),
     ("r/NBA", "https://www.reddit.com/r/nba/.rss"),
     ("r/NBA Discussion", "https://www.reddit.com/r/nbadiscussion/.rss"),
     ("r/NBA Analytics", "https://www.reddit.com/r/nbaanalysis/.rss"),
@@ -41,7 +40,6 @@ RSS_FEEDS = [
 
     # --- Faith / culture (Presbyterian/Reformed lean) ---
     ("The Gospel Coalition", "https://www.thegospelcoalition.org/feed/"),
-    ("Desiring God", "https://rss.desiringgod.org"),
 
     # --- Film / scores ---
     ("IndieWire", "https://www.indiewire.com/feed/"),
@@ -134,17 +132,16 @@ CATEGORY_MINIMUMS = {
     "Other":   1,
 }
 
-# How many raw headlines to triage per run. Bigger pool = better odds of filling
-# 50 and hitting minimums. The triage pass is cheap (no summaries), so go big.
-MAX_HEADLINES_TO_AI = 150
+# How many raw headlines to triage per run. The 8b model on Groq's free tier
+# has a 6,000 tokens-per-minute limit. Each headline is ~20 tokens, plus ~500
+# for the system prompt and interest profile, so the safe ceiling is ~50-55
+# headlines per triage call. Set to 50 to stay comfortably under.
+MAX_HEADLINES_TO_AI = 75
 
 # Only consider articles published within this many hours (keeps it fresh).
 # Widen this if you aren't consistently filling 50 stories.
 FRESHNESS_HOURS = 24
 
-# Groq model. llama-3.1-8b-instant has a far higher daily token limit than the
-# 70b model (which is only ~100k tokens/day free) and is faster — the right
-# choice at 50-story volume. Summaries are slightly simpler but plenty good.
-# Swap back to "llama-3.3-70b-versatile" if you want richer summaries and are
-# running infrequently enough to stay under its limit.
-GROQ_MODEL = "llama-3.1-8b-instant"
+# Primary model. The fallback chain in summarizer.py automatically waterfalls
+# to Groq 8b, Groq legacy, Gemini, Cerebras, and Together if this hits limits.
+GROQ_MODEL = "llama-3.3-70b-versatile"
