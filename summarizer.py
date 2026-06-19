@@ -3,12 +3,11 @@ summarizer.py — two-pass AI pipeline with code-enforced category quotas
 and a multi-provider fallback chain.
 
 Provider waterfall (tried in order, automatic fallback on any rate-limit):
-  1. Groq  — llama-3.3-70b-versatile  (best quality, 100k TPD free)
-  2. Groq  — llama-3.1-8b-instant     (same key, separate limit, ~500k TPD)
-  3. Groq  — llama3-70b-8192          (legacy Groq model, separate limit)
-  4. Gemini — gemini-1.5-flash        (GEMINI_API_KEY, 1M tokens/day free)
-  5. Cerebras — llama-3.3-70b         (CEREBRAS_API_KEY, fast, generous free)
-  6. Together — Llama-3.3-70b         (TOGETHER_API_KEY, free $25 credit)
+  1. Groq     — llama-3.3-70b-versatile  (best quality, 100k TPD free)
+  2. Cerebras — llama-3.3-70b            (CEREBRAS_API_KEY, same weights, generous free)
+  3. Gemini   — gemini-1.5-flash         (GEMINI_API_KEY, 1M tokens/day free)
+  4. Groq     — llama3-70b-8192          (same key, older model, separate limit)
+  5. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
 
 Any provider without a key set is skipped automatically. You only need to add
 keys for providers you've signed up for — everything else keeps working.
@@ -108,36 +107,33 @@ def _openai_compat_call(base_url: str, key: str, model: str):
 
 
 def _build_provider_chain():
-    """Build the list of available providers at runtime based on which keys exist."""
+    """Build the list of available providers at runtime based on which keys exist.
+    Ordered by output quality — best first, last-resort fallbacks last."""
     chain = []
     groq_key = os.environ.get("GROQ_API_KEY")
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    cerebras_key = os.environ.get("CEREBRAS_API_KEY")
+
+    # Tier 1 — llama-3.3-70b across multiple providers (same weights, best quality)
     if groq_key:
         chain.append(("Groq/llama-3.3-70b-versatile",
                        _groq_call("llama-3.3-70b-versatile", groq_key)))
-        chain.append(("Groq/llama-3.1-8b-instant",
-                       _groq_call("llama-3.1-8b-instant", groq_key)))
-        chain.append(("Groq/llama3-70b-8192",
-                       _groq_call("llama3-70b-8192", groq_key)))
-
-    gemini_key = os.environ.get("GEMINI_API_KEY")
-    if gemini_key:
-        chain.append(("Gemini/gemini-1.5-flash", _gemini_call(gemini_key)))
-
-    cerebras_key = os.environ.get("CEREBRAS_API_KEY")
     if cerebras_key:
         chain.append(("Cerebras/llama-3.3-70b",
                        _openai_compat_call(
                            "https://api.cerebras.ai/v1",
-                           cerebras_key,
-                           "llama-3.3-70b")))
+                           cerebras_key, "llama-3.3-70b")))
 
-    together_key = os.environ.get("TOGETHER_API_KEY")
-    if together_key:
-        chain.append(("Together/Llama-3.3-70b",
-                       _openai_compat_call(
-                           "https://api.together.xyz/v1",
-                           together_key,
-                           "meta-llama/Llama-3.3-70B-Instruct-Turbo")))
+    # Tier 2 — Gemini Flash (different architecture, still very capable)
+    if gemini_key:
+        chain.append(("Gemini/gemini-1.5-flash", _gemini_call(gemini_key)))
+
+    # Tier 3 — older/smaller Groq models (last resort, same key)
+    if groq_key:
+        chain.append(("Groq/llama3-70b-8192",
+                       _groq_call("llama3-70b-8192", groq_key)))
+        chain.append(("Groq/llama-3.1-8b-instant",
+                       _groq_call("llama-3.1-8b-instant", groq_key)))
 
     if not chain:
         raise RuntimeError("No AI provider keys found. Set at least GROQ_API_KEY.")
@@ -354,8 +350,8 @@ def summarize(articles: list[dict]) -> list[dict]:
         return []
 
     n = min(len(articles), config.MAX_HEADLINES_TO_AI)
-    print(f"Triaging {n} headlines (provider chain: Groq-70b → Groq-8b → "
-          f"Groq-legacy → Gemini → Cerebras → Together)...")
+    print(f"Triaging {n} headlines (chain: Groq-70b → Cerebras-70b → "
+          f"Gemini-Flash → Groq-legacy → Groq-8b)...")
     pool, triaged = triage(articles)
     print(f"  - categorized {len(triaged)} headlines")
 
