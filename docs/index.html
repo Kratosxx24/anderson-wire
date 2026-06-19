@@ -1,270 +1,274 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>The Anderson Wire</title>
+<meta name="robots" content="noindex, nofollow" />
+<script>try{var t=localStorage.getItem('wire-theme')||'light';document.documentElement.setAttribute('data-theme',t);}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
 <style>
+  /* ---------- LIGHT (default, minimalist) ---------- */
   :root {
-    --ink:        #13161b;   /* base, near-black cool ink */
-    --ink-2:      #191d24;   /* raised panel */
-    --ink-3:      #20252e;   /* hover / border */
-    --paper:      #ece9e0;   /* warm off-white text */
-    --muted:      #878d99;   /* secondary text */
-    --faint:      #565c66;   /* tertiary / rules */
-    --signal:     #e0a04d;   /* warm amber accent */
-    --signal-dim: #8a6a39;
-    --channel:    #79b0b3;   /* desaturated cyan for channels */
-    --maxw: 760px;
+    --bg:        #fcfcfb;
+    --surface:   #f6f6f3;
+    --text:      #1a1a17;
+    --muted:     #6e6e66;
+    --faint:     #a0a097;
+    --border:    #eaeae4;
+    --border-hov:#d6d6cd;
+    --accent:    #bd7019;
+    --meter-off: #e2e2da;
+    --chip-on-txt:#fcfcfb;
+    --maxw: 1040px;
+  }
+  /* ---------- DARK (minimal) ---------- */
+  [data-theme="dark"] {
+    --bg:        #131312;
+    --surface:   #1b1b19;
+    --text:      #ededea;
+    --muted:     #8a8a81;
+    --faint:     #5c5c54;
+    --border:    #272724;
+    --border-hov:#363632;
+    --accent:    #d99544;
+    --meter-off: #33332f;
+    --chip-on-txt:#131312;
   }
 
   * { box-sizing: border-box; }
-
   html { -webkit-text-size-adjust: 100%; }
-
   body {
     margin: 0;
-    background:
-      radial-gradient(1200px 600px at 50% -10%, #1a1f28 0%, var(--ink) 55%) fixed;
-    color: var(--paper);
-    font-family: "Newsreader", Georgia, serif;
-    font-size: 18px;
-    line-height: 1.55;
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Inter", -apple-system, system-ui, sans-serif;
+    font-size: 15px; line-height: 1.5;
     -webkit-font-smoothing: antialiased;
+    transition: background .3s ease, color .3s ease;
   }
+  .wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 28px 80px; }
 
-  .wrap {
-    max-width: var(--maxw);
-    margin: 0 auto;
-    padding: 0 22px 96px;
-  }
-
-  /* ---------- Masthead / transmission header ---------- */
-  header.mast {
-    padding: 40px 0 22px;
-    border-bottom: 1px solid var(--ink-3);
-    margin-bottom: 8px;
-  }
-
+  /* ---------- Masthead ---------- */
+  header.mast { padding: 36px 0 20px; border-bottom: 1px solid var(--border); }
+  .topbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
   .transmit {
-    display: flex;
-    align-items: center;
-    gap: 9px;
-    font-family: "Space Mono", monospace;
-    font-size: 11.5px;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--muted);
+    display: flex; align-items: center; gap: 8px;
+    font-family: "Space Mono", monospace; font-size: 11px;
+    letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted);
   }
-
   .dot {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: var(--signal);
-    box-shadow: 0 0 0 0 rgba(224,160,77,0.6);
-    animation: pulse 2.6s infinite;
+    width: 7px; height: 7px; border-radius: 50%; background: var(--accent);
+    box-shadow: 0 0 0 0 rgba(189,112,25,.5);
   }
-  @keyframes pulse {
-    0%   { box-shadow: 0 0 0 0 rgba(224,160,77,0.55); }
-    70%  { box-shadow: 0 0 0 7px rgba(224,160,77,0); }
-    100% { box-shadow: 0 0 0 0 rgba(224,160,77,0); }
+  .theme-toggle {
+    font-family: "Space Mono", monospace; font-size: 10.5px;
+    letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted);
+    background: transparent; border: 1px solid var(--border);
+    border-radius: 100px; padding: 6px 12px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 6px;
+    transition: border-color .15s, color .15s;
   }
+  .theme-toggle:hover { border-color: var(--border-hov); color: var(--text); }
+  .theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
   h1.title {
-    font-family: "Bricolage Grotesque", sans-serif;
-    font-weight: 800;
-    font-size: clamp(38px, 8vw, 62px);
-    line-height: 0.96;
-    letter-spacing: -0.02em;
-    margin: 16px 0 14px;
+    font-family: "Space Grotesk", sans-serif; font-weight: 700;
+    font-size: clamp(30px, 5vw, 44px); line-height: 1; letter-spacing: -0.02em;
+    margin: 18px 0 8px;
   }
-  h1.title .the { color: var(--muted); font-weight: 500; }
-  h1.title .glow { color: var(--signal); }
-
+  h1.title .the { color: var(--faint); font-weight: 500; }
+  h1.title .glow { color: var(--accent); }
   .subline {
-    font-family: "Space Mono", monospace;
-    font-size: 12px;
-    letter-spacing: 0.04em;
-    color: var(--faint);
+    font-family: "Space Mono", monospace; font-size: 11.5px;
+    letter-spacing: 0.03em; color: var(--faint);
   }
   .subline b { color: var(--muted); font-weight: 400; }
 
-  /* ---------- Channel filter ---------- */
-  .channels {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 7px;
-    margin: 20px 0 4px;
-  }
+  /* ---------- Layout: feed + sidebar ---------- */
+  .layout { display: grid; grid-template-columns: 1fr 232px; gap: 44px; margin-top: 22px; }
+
+  .channels { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 6px; }
   .chan {
-    font-family: "Space Mono", monospace;
-    font-size: 11px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--muted);
-    background: transparent;
-    border: 1px solid var(--ink-3);
-    border-radius: 100px;
-    padding: 5px 12px;
-    cursor: pointer;
+    font-family: "Space Mono", monospace; font-size: 10.5px;
+    letter-spacing: 0.07em; text-transform: uppercase; color: var(--muted);
+    background: transparent; border: 1px solid var(--border);
+    border-radius: 100px; padding: 5px 11px; cursor: pointer;
     transition: border-color .15s, color .15s, background .15s;
   }
-  .chan:hover { border-color: var(--faint); color: var(--paper); }
-  .chan[aria-pressed="true"] {
-    color: var(--ink);
-    background: var(--signal);
-    border-color: var(--signal);
-  }
-  .chan:focus-visible { outline: 2px solid var(--channel); outline-offset: 2px; }
+  .chan:hover { border-color: var(--border-hov); color: var(--text); }
+  .chan[aria-pressed="true"] { color: var(--chip-on-txt); background: var(--accent); border-color: var(--accent); }
+  .chan:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
-  /* ---------- Story feed ---------- */
-  .feed { margin-top: 14px; }
-
-  article.story {
-    padding: 26px 0;
-    border-bottom: 1px solid var(--ink-3);
-  }
-  article.story:first-child { padding-top: 22px; }
-
+  /* ---------- Condensed story ---------- */
+  .feed { margin-top: 4px; }
+  article.story { padding: 17px 0; border-bottom: 1px solid var(--border); }
+  article.story:first-child { padding-top: 8px; }
   .story-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    gap: 12px;
-    margin-bottom: 11px;
+    display: flex; align-items: center; gap: 10px; margin-bottom: 6px;
   }
-
+  .rank {
+    font-family: "Space Mono", monospace; font-size: 11px; color: var(--faint);
+    min-width: 20px;
+  }
   .chan-tag {
-    font-family: "Space Mono", monospace;
-    font-size: 11px;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--channel);
+    font-family: "Space Mono", monospace; font-size: 10px; font-weight: 700;
+    letter-spacing: 0.09em; text-transform: uppercase; color: var(--accent);
   }
-
-  /* signal-strength meter for relevance */
-  .signal-meter { display: flex; align-items: flex-end; gap: 2px; height: 13px; }
-  .signal-meter i {
-    width: 3px;
-    background: var(--faint);
-    border-radius: 1px;
-    display: block;
-  }
-  .signal-meter i.on { background: var(--signal); }
-  .signal-meter i:nth-child(1){ height: 4px; }
-  .signal-meter i:nth-child(2){ height: 6px; }
-  .signal-meter i:nth-child(3){ height: 8px; }
-  .signal-meter i:nth-child(4){ height: 10px; }
-  .signal-meter i:nth-child(5){ height: 13px; }
+  .signal-meter { display: flex; align-items: flex-end; gap: 2px; height: 11px; margin-left: auto; }
+  .signal-meter i { width: 2.5px; background: var(--meter-off); border-radius: 1px; display: block; }
+  .signal-meter i.on { background: var(--accent); }
+  .signal-meter i:nth-child(1){ height: 3px; }
+  .signal-meter i:nth-child(2){ height: 5px; }
+  .signal-meter i:nth-child(3){ height: 7px; }
+  .signal-meter i:nth-child(4){ height: 9px; }
+  .signal-meter i:nth-child(5){ height: 11px; }
 
   h2.head {
-    font-family: "Bricolage Grotesque", sans-serif;
-    font-weight: 700;
-    font-size: 25px;
-    line-height: 1.16;
-    letter-spacing: -0.015em;
-    margin: 0 0 8px;
+    font-family: "Space Grotesk", sans-serif; font-weight: 600; font-size: 18px;
+    line-height: 1.22; letter-spacing: -0.01em; margin: 0 0 5px; padding-left: 30px;
   }
   h2.head a {
-    color: var(--paper);
-    text-decoration: none;
-    background-image: linear-gradient(var(--signal), var(--signal));
-    background-size: 0% 1.5px;
-    background-position: 0 100%;
-    background-repeat: no-repeat;
-    transition: background-size .2s ease;
+    color: var(--text); text-decoration: none;
+    border-bottom: 1px solid transparent; transition: border-color .15s;
   }
-  h2.head a:hover { background-size: 100% 1.5px; }
-  h2.head a:focus-visible { outline: 2px solid var(--signal); outline-offset: 3px; }
+  h2.head a:hover { border-bottom-color: var(--accent); }
+  h2.head a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
   p.summary {
-    margin: 0 0 12px;
-    color: #d4d1c8;
-    font-size: 18px;
+    margin: 0 0 8px; padding-left: 30px; color: var(--muted); font-size: 14px;
+    line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
   }
-
   .story-foot {
-    font-family: "Space Mono", monospace;
-    font-size: 11px;
-    letter-spacing: 0.03em;
-    color: var(--faint);
-    display: flex;
-    gap: 14px;
-    align-items: center;
+    padding-left: 30px;
+    font-family: "Space Mono", monospace; font-size: 10.5px;
+    letter-spacing: 0.02em; color: var(--faint);
+    display: flex; gap: 12px; align-items: center;
   }
   .story-foot .src { color: var(--muted); }
-  .story-foot a.read {
-    color: var(--signal);
-    text-decoration: none;
-    margin-left: auto;
-  }
+  .story-foot a.read { color: var(--accent); text-decoration: none; margin-left: auto; }
   .story-foot a.read:hover { text-decoration: underline; }
 
-  /* ---------- Empty / loading states ---------- */
+  /* ---------- Sidebar ---------- */
+  aside.side { position: sticky; top: 28px; align-self: start; }
+  .side-block { margin-bottom: 26px; }
+  .side-title {
+    font-family: "Space Mono", monospace; font-size: 10px; font-weight: 700;
+    letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint);
+    margin: 0 0 12px; padding-bottom: 8px; border-bottom: 1px solid var(--border);
+  }
+  .src-item {
+    display: flex; align-items: center; justify-content: space-between;
+    width: 100%; background: transparent; border: 0; cursor: pointer;
+    padding: 6px 0; text-align: left;
+    font-family: "Inter", sans-serif; font-size: 13px; color: var(--muted);
+    transition: color .12s;
+  }
+  .src-item:hover { color: var(--text); }
+  .src-item[aria-pressed="true"] { color: var(--accent); font-weight: 500; }
+  .src-item .count {
+    font-family: "Space Mono", monospace; font-size: 11px; color: var(--faint);
+    background: var(--surface); border-radius: 4px; padding: 1px 7px; margin-left: 8px;
+  }
+  .src-item[aria-pressed="true"] .count { color: var(--accent); }
+  .src-name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .clearfilter {
+    font-family: "Space Mono", monospace; font-size: 10px; letter-spacing: .06em;
+    text-transform: uppercase; color: var(--accent); background: transparent;
+    border: 0; cursor: pointer; padding: 8px 0 0; display: none;
+  }
+  .clearfilter.show { display: block; }
+
+  /* ---------- States ---------- */
   .state {
-    text-align: center;
-    padding: 80px 20px;
-    color: var(--muted);
-    font-family: "Space Mono", monospace;
-    font-size: 13px;
-    letter-spacing: 0.04em;
-    line-height: 1.9;
+    text-align: center; padding: 70px 20px; color: var(--muted);
+    font-family: "Space Mono", monospace; font-size: 12px; letter-spacing: .03em; line-height: 1.9;
   }
   .state .big {
-    font-family: "Bricolage Grotesque", sans-serif;
-    font-size: 22px;
-    color: var(--paper);
-    letter-spacing: -0.01em;
-    margin-bottom: 10px;
-    display: block;
+    font-family: "Space Grotesk", sans-serif; font-size: 19px; font-weight: 600;
+    color: var(--text); letter-spacing: -.01em; margin-bottom: 8px; display: block;
   }
-
   footer.sig {
-    margin-top: 40px;
-    padding-top: 18px;
-    border-top: 1px solid var(--ink-3);
-    font-family: "Space Mono", monospace;
-    font-size: 11px;
-    letter-spacing: 0.06em;
-    color: var(--faint);
-    text-transform: uppercase;
+    margin-top: 44px; padding-top: 16px; border-top: 1px solid var(--border);
+    font-family: "Space Mono", monospace; font-size: 10px; letter-spacing: .05em;
+    color: var(--faint); text-transform: uppercase;
   }
 
-  @media (max-width: 480px) {
-    body { font-size: 17px; }
-    h2.head { font-size: 22px; }
+  @media (max-width: 760px) {
+    .wrap { padding: 0 20px 70px; }
+    .layout { grid-template-columns: 1fr; gap: 8px; }
+    aside.side {
+      position: static; order: -1; margin-bottom: 10px;
+      padding-bottom: 16px; border-bottom: 1px solid var(--border);
+    }
+    .side-block { margin-bottom: 14px; }
+    .side-title { margin-bottom: 8px; }
+    .src-list { display: flex; flex-wrap: wrap; gap: 6px; }
+    .src-item { width: auto; padding: 5px 10px; border: 1px solid var(--border); border-radius: 100px; }
+    .src-item .count { background: transparent; padding: 0 0 0 4px; }
   }
-
-  @media (prefers-reduced-motion: reduce) {
-    .dot { animation: none; }
-    * { transition: none !important; }
-  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
   <div class="wrap">
     <header class="mast">
-      <div class="transmit"><span class="dot" aria-hidden="true"></span><span id="status">Establishing signal…</span></div>
+      <div class="topbar">
+        <div class="transmit"><span class="dot" aria-hidden="true"></span><span id="status">Establishing signal…</span></div>
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle light or dark theme">
+          <span class="glyph" id="themeGlyph">☾</span><span id="themeLabel">Dark</span>
+        </button>
+      </div>
       <h1 class="title"><span class="the">The</span> Anderson <span class="glow">Wire</span></h1>
       <div class="subline" id="meta">A private dispatch · filtered from the noise</div>
-      <nav class="channels" id="channels" aria-label="Filter by channel"></nav>
     </header>
 
-    <main class="feed" id="feed">
-      <div class="state"><span class="big">Tuning in…</span>Pulling the latest transmission.</div>
-    </main>
+    <div class="layout">
+      <main>
+        <nav class="channels" id="channels" aria-label="Filter by channel"></nav>
+        <div class="feed" id="feed">
+          <div class="state"><span class="big">Tuning in…</span>Pulling the latest transmission.</div>
+        </div>
+      </main>
+
+      <aside class="side">
+        <div class="side-block">
+          <p class="side-title">Sources</p>
+          <div class="src-list" id="sources"></div>
+          <button class="clearfilter" id="clearFilter" type="button">✕ Clear filter</button>
+        </div>
+      </aside>
+    </div>
 
     <footer class="sig">Curated by an AI editor · refreshed on a schedule · only what you'd care about</footer>
   </div>
 
 <script>
-  const CATEGORY_ORDER = ["NBA","Sports","Marketing","Tech/AI","Faith","Film","World","Other"];
+  /* ---------- Theme ---------- */
+  const THEME_KEY = "wire-theme";
+  const root = document.documentElement;
+  function syncToggle(theme) {
+    document.getElementById("themeLabel").textContent = theme === "dark" ? "Light" : "Dark";
+    document.getElementById("themeGlyph").textContent = theme === "dark" ? "☀" : "☾";
+  }
+  function setTheme(theme) {
+    root.setAttribute("data-theme", theme);
+    try { localStorage.setItem(THEME_KEY, theme); } catch (e) {}
+    syncToggle(theme);
+  }
+  syncToggle(root.getAttribute("data-theme") || "light");
+  document.getElementById("themeToggle").addEventListener("click", () => {
+    setTheme(root.getAttribute("data-theme") === "dark" ? "light" : "dark");
+  });
+
+  /* ---------- Feed ---------- */
+  const CATEGORY_ORDER = ["NBA","Sports","Tech/AI","Faith","Film","World","Other"];
   let allStories = [];
-  let activeChannel = "All";
+  let filter = { type: "all", value: null };  // all | category | source
 
   function timeAgo(iso) {
     if (!iso) return "";
@@ -277,31 +281,30 @@
     if (hrs < 24) return hrs + "h ago";
     return Math.floor(hrs / 24) + "d ago";
   }
-
   function signalMeter(relevance) {
-    const filled = Math.max(1, Math.round((Number(relevance) || 5) / 2)); // 1-10 -> 1-5
+    const filled = Math.max(1, Math.round((Number(relevance) || 5) / 2));
     let bars = "";
     for (let i = 1; i <= 5; i++) bars += `<i class="${i <= filled ? "on" : ""}"></i>`;
-    return `<span class="signal-meter" title="Relevance ${relevance}/10" aria-label="Relevance ${relevance} of 10">${bars}</span>`;
+    return `<span class="signal-meter" title="Relevance ${relevance}/10">${bars}</span>`;
   }
-
   function esc(s) {
     return String(s || "").replace(/[&<>"]/g, c =>
       ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;" }[c]));
   }
-
+  function visible() {
+    if (filter.type === "category") return allStories.filter(s => (s.category||"Other") === filter.value);
+    if (filter.type === "source")   return allStories.filter(s => (s.source||"") === filter.value);
+    return allStories;
+  }
   function render() {
     const feed = document.getElementById("feed");
-    const list = activeChannel === "All"
-      ? allStories
-      : allStories.filter(s => (s.category || "Other") === activeChannel);
-
+    const list = visible();
+    document.getElementById("clearFilter").classList.toggle("show", filter.type !== "all");
     if (!list.length) {
-      feed.innerHTML = `<div class="state"><span class="big">Quiet on this channel</span>Nothing in ${esc(activeChannel)} right now. Try another.</div>`;
+      feed.innerHTML = `<div class="state"><span class="big">Quiet here</span>Nothing matches this filter right now.</div>`;
       return;
     }
-
-    feed.innerHTML = list.map(s => {
+    feed.innerHTML = list.map((s, i) => {
       const url = esc(s.url);
       const ago = timeAgo(s.published);
       const foot = [
@@ -309,9 +312,10 @@
         ago ? `<span>${ago}</span>` : "",
         url ? `<a class="read" href="${url}" target="_blank" rel="noopener">Read →</a>` : ""
       ].filter(Boolean).join("");
-
+      const n = String(i + 1).padStart(2, "0");
       return `<article class="story">
         <div class="story-top">
+          <span class="rank">${n}</span>
           <span class="chan-tag">${esc(s.category || "Other")}</span>
           ${signalMeter(s.relevance)}
         </div>
@@ -321,52 +325,66 @@
       </article>`;
     }).join("");
   }
-
   function buildChannels() {
     const present = new Set(allStories.map(s => s.category || "Other"));
     const ordered = ["All", ...CATEGORY_ORDER.filter(c => present.has(c))];
     const nav = document.getElementById("channels");
-    nav.innerHTML = ordered.map(c =>
-      `<button class="chan" role="button" aria-pressed="${c === activeChannel}" data-ch="${esc(c)}">${esc(c)}</button>`
-    ).join("");
+    nav.innerHTML = ordered.map(c => {
+      const on = (c === "All" && filter.type === "all") || (filter.type === "category" && filter.value === c);
+      return `<button class="chan" type="button" aria-pressed="${on}" data-ch="${esc(c)}">${esc(c)}</button>`;
+    }).join("");
     nav.querySelectorAll(".chan").forEach(btn => {
       btn.addEventListener("click", () => {
-        activeChannel = btn.dataset.ch;
-        nav.querySelectorAll(".chan").forEach(b =>
-          b.setAttribute("aria-pressed", b.dataset.ch === activeChannel));
-        render();
+        filter = btn.dataset.ch === "All" ? { type:"all", value:null } : { type:"category", value: btn.dataset.ch };
+        refreshUI();
       });
     });
   }
+  function buildSources() {
+    const counts = {};
+    allStories.forEach(s => { const k = s.source || "—"; counts[k] = (counts[k]||0)+1; });
+    const sorted = Object.entries(counts).sort((a,b) => b[1]-a[1]);
+    const box = document.getElementById("sources");
+    box.innerHTML = sorted.map(([name, n]) => {
+      const on = filter.type === "source" && filter.value === name;
+      return `<button class="src-item" type="button" aria-pressed="${on}" data-src="${esc(name)}">
+        <span class="src-name">${esc(name)}</span><span class="count">${n}</span>
+      </button>`;
+    }).join("");
+    box.querySelectorAll(".src-item").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const name = btn.dataset.src;
+        filter = (filter.type==="source" && filter.value===name) ? { type:"all", value:null } : { type:"source", value:name };
+        refreshUI();
+      });
+    });
+  }
+  function refreshUI() { buildChannels(); buildSources(); render(); }
+  document.getElementById("clearFilter").addEventListener("click", () => {
+    filter = { type:"all", value:null }; refreshUI();
+  });
 
   async function load() {
     try {
       const res = await fetch("output.json?t=" + Date.now());
-      if (!res.ok) throw new Error("no feed yet");
+      if (!res.ok) throw new Error("no feed");
       const data = await res.json();
       allStories = data.stories || [];
-
-      document.getElementById("status").textContent =
-        "Last transmission · " + timeAgo(data.generated_at);
-      document.getElementById("meta").innerHTML =
-        `<b>${allStories.length}</b> stories · filtered from the noise`;
-
+      document.getElementById("status").textContent = "Last transmission · " + timeAgo(data.generated_at);
+      document.getElementById("meta").innerHTML = `<b>${allStories.length}</b> stories · filtered from the noise`;
       if (!allStories.length) {
         document.getElementById("feed").innerHTML =
-          `<div class="state"><span class="big">Signal's clear</span>Nothing met the bar this cycle. That's the filter working.</div>`;
+          `<div class="state"><span class="big">Signal's clear</span>Nothing met the bar this cycle.</div>`;
         return;
       }
-      buildChannels();
-      render();
+      refreshUI();
     } catch (e) {
       document.getElementById("status").textContent = "No signal yet";
       document.getElementById("feed").innerHTML =
-        `<div class="state"><span class="big">Awaiting first transmission</span>Once the scheduler runs, your dispatch lands here.<br>Trigger it manually from the repo's Actions tab to see it now.</div>`;
+        `<div class="state"><span class="big">Awaiting first transmission</span>Run the pipeline from the Actions tab to populate this.</div>`;
     }
   }
-
   load();
-  // Re-check for a fresh dispatch every 5 minutes while the tab is open.
   setInterval(load, 5 * 60 * 1000);
 </script>
 </body>
