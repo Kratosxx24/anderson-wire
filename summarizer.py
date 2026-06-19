@@ -19,12 +19,14 @@ specific reader would genuinely want, rank them by how much they'd care, and \
 write a tight 2-sentence summary of each in a clear, direct voice.
 
 Hard rules:
-- Quality over quantity. If only 4 stories are truly relevant, return 4. Never \
-pad with filler the reader said they don't want.
+- Aim for a full digest. If there's enough relevant material, return close to \
+the maximum requested rather than trimming aggressively — lean toward including \
+a story when it's plausibly interesting to this reader. Only drop things that \
+are clearly noise or clearly outside their interests.
 - Each summary is your OWN words — never copy article text verbatim. Two \
 sentences max. Lead with the substance, not "This article discusses...".
-- Assign each story a category from this set: NBA, Sports, Marketing, Tech/AI, \
-Faith, Film, World, Other.
+- Assign each story a category from this set: NBA, Sports, Tech/AI, Faith, \
+Film, World, Other.
 - Give each a relevance score 1-10 for THIS reader.
 - Return STRICT JSON only. No markdown, no backticks, no preamble."""
 
@@ -51,7 +53,7 @@ Return a JSON object with this exact shape:
       "index": <the [n] index of the source article>,
       "headline": "<a clean, punchy headline you write>",
       "summary": "<your 2-sentence summary>",
-      "category": "<one of: NBA, Sports, Marketing, Tech/AI, Faith, Film, World, Other>",
+      "category": "<one of: NBA, Sports, Tech/AI, Faith, Film, World, Other>",
       "relevance": <1-10 integer>
     }}
   ]
