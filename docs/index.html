@@ -14,13 +14,13 @@
     --bg:#faf9f4; --surface:#f2efe7; --text:#1a1a17; --muted:#6e6e66; --faint:#a0a097;
     --border:#e9e6dd; --border-hov:#d4d0c4; --accent:#bd7019; --accent-soft:#f3e6d4;
     --chip-on-txt:#fcfcfb; --skel:#ece9e1; --skel-hi:#f6f3ec; --maxw:1060px;
-    --spectrum:linear-gradient(90deg,#d2702a,#2f8f55,#3f6dc7,#7d5bc0,#c14d63,#2f8f8f);
+    --spectrum:linear-gradient(90deg,#d2702a,#2f8f55,#3f6dc7,#7d5bc0,#c14d63,#c94f93,#2f8f8f);
   }
   [data-theme="dark"] {
     --bg:#131312; --surface:#1d1d1a; --text:#ededea; --muted:#8a8a81; --faint:#5c5c54;
     --border:#272724; --border-hov:#3a3a35; --accent:#d99544; --accent-soft:#2a2218;
     --chip-on-txt:#131312; --skel:#1e1e1c; --skel-hi:#26262300;
-    --spectrum:linear-gradient(90deg,#e88a45,#5cc483,#7aa0e8,#a98fe0,#e07f92,#5ec0c0);
+    --spectrum:linear-gradient(90deg,#e88a45,#5cc483,#7aa0e8,#a98fe0,#e07f92,#e589c0,#5ec0c0);
   }
 
   body::before { content:""; position:fixed; top:0; left:0; right:0; height:3px;
@@ -272,6 +272,7 @@
     "Tech/AI":{l:"#3f6dc7", d:"#7aa0e8"},
     "Faith":  {l:"#7d5bc0", d:"#a98fe0"},
     "Film":   {l:"#c14d63", d:"#e07f92"},
+    "Music":  {l:"#c94f93", d:"#e589c0"},
     "World":  {l:"#2f8f8f", d:"#5ec0c0"},
     "Other":  {l:"#7a7a72", d:"#9a9a90"}
   };
@@ -286,7 +287,7 @@
     return `rgba(${parseInt(h.substr(0,2),16)},${parseInt(h.substr(2,2),16)},${parseInt(h.substr(4,2),16)},${a})`; }
 
   /* ---------- State ---------- */
-  const CATEGORY_ORDER=["NBA","Sports","Tech/AI","Faith","Film","World","Other"];
+  const CATEGORY_ORDER=["NBA","Sports","Tech/AI","Faith","Film","Music","World","Other"];
   let allStories=[];
   let filter={type:"all",value:null};
   let sortMode="newest";
