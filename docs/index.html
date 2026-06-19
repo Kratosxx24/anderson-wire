@@ -11,15 +11,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
 <style>
   :root {
-    --bg:#fcfcfb; --surface:#f6f6f3; --text:#1a1a17; --muted:#6e6e66; --faint:#a0a097;
-    --border:#eaeae4; --border-hov:#d6d6cd; --accent:#bd7019; --accent-soft:#f3e6d4;
-    --chip-on-txt:#fcfcfb; --skel:#eeeee9; --skel-hi:#f7f7f3; --maxw:1060px;
+    --bg:#faf9f4; --surface:#f2efe7; --text:#1a1a17; --muted:#6e6e66; --faint:#a0a097;
+    --border:#e9e6dd; --border-hov:#d4d0c4; --accent:#bd7019; --accent-soft:#f3e6d4;
+    --chip-on-txt:#fcfcfb; --skel:#ece9e1; --skel-hi:#f6f3ec; --maxw:1060px;
+    --spectrum:linear-gradient(90deg,#d2702a,#2f8f55,#3f6dc7,#7d5bc0,#c14d63,#2f8f8f);
   }
   [data-theme="dark"] {
-    --bg:#131312; --surface:#1b1b19; --text:#ededea; --muted:#8a8a81; --faint:#5c5c54;
+    --bg:#131312; --surface:#1d1d1a; --text:#ededea; --muted:#8a8a81; --faint:#5c5c54;
     --border:#272724; --border-hov:#3a3a35; --accent:#d99544; --accent-soft:#2a2218;
     --chip-on-txt:#131312; --skel:#1e1e1c; --skel-hi:#26262300;
+    --spectrum:linear-gradient(90deg,#e88a45,#5cc483,#7aa0e8,#a98fe0,#e07f92,#5ec0c0);
   }
+
+  body::before { content:""; position:fixed; top:0; left:0; right:0; height:3px;
+    background:var(--spectrum); z-index:50; }
 
   * { box-sizing:border-box; }
   html { -webkit-text-size-adjust:100%; }
@@ -101,7 +106,8 @@
   .story-top { display:flex; align-items:center; gap:9px; margin-bottom:6px; }
   .rank { font-family:"Space Mono",monospace; font-size:11px; color:var(--faint); min-width:20px; }
   .chan-tag { font-family:"Space Mono",monospace; font-size:10px; font-weight:700;
-    letter-spacing:.09em; text-transform:uppercase; }
+    letter-spacing:.09em; text-transform:uppercase; display:inline-block;
+    padding:2px 8px; border-radius:5px; }
   .new-badge { font-family:"Space Mono",monospace; font-size:8.5px; font-weight:700;
     letter-spacing:.1em; color:var(--chip-on-txt); background:var(--accent);
     border-radius:3px; padding:2px 5px; }
@@ -276,6 +282,8 @@
     const f=v=>v<=.03928?v/12.92:Math.pow((v+.055)/1.055,2.4);
     return .2126*f(r)+.7152*f(g)+.0722*f(b); }
   function textOn(hex){ return luminance(hex)>.55?"#16160f":"#ffffff"; }
+  function hexToRgba(hex,a){ const h=hex.replace("#","");
+    return `rgba(${parseInt(h.substr(0,2),16)},${parseInt(h.substr(2,2),16)},${parseInt(h.substr(4,2),16)},${a})`; }
 
   /* ---------- State ---------- */
   const CATEGORY_ORDER=["NBA","Sports","Tech/AI","Faith","Film","World","Other"];
@@ -330,7 +338,7 @@
     return `<article class="story${isRead?" read":""}${firstRender?" anim":""}" style="${firstRender?`animation-delay:${delay}ms;`:""}border-left-color:${col}" data-url="${url}">
       <div class="story-top">
         <span class="rank">${rank}</span>
-        <span class="chan-tag" style="color:${col}">${esc(s.category||"Other")}</span>
+        <span class="chan-tag" style="color:${col};background:${hexToRgba(col,0.13)}">${esc(s.category||"Other")}</span>
         ${isNew?`<span class="new-badge">NEW</span>`:""}
         <span class="spacer"></span>
         <span class="relbadge rel-${tier}" title="How relevant this is to you: ${Number(s.relevance)||0} out of 10">
@@ -375,7 +383,8 @@
     nav.innerHTML=ordered.map(c=>{
       const on=(c==="All"&&filter.type==="all")||(filter.type==="category"&&filter.value===c);
       const sw=c==="All"?"":`<span class="swatch" style="background:${catColor(c)}"></span>`;
-      return `<button class="chan" type="button" aria-pressed="${on}" data-ch="${esc(c)}">${sw}${esc(c)}</button>`;
+      const st=(on&&c!=="All")?`style="background:${catColor(c)};border-color:${catColor(c)};color:${textOn(catColor(c))}"`:"";
+      return `<button class="chan" type="button" aria-pressed="${on}" data-ch="${esc(c)}" ${st}>${sw}${esc(c)}</button>`;
     }).join("");
     nav.querySelectorAll(".chan").forEach(btn=>btn.addEventListener("click",()=>{
       filter=btn.dataset.ch==="All"?{type:"all",value:null}:{type:"category",value:btn.dataset.ch};
@@ -401,13 +410,10 @@
     }));
   }
   function updateDash(genIso){
-    const counts={}; allStories.forEach(s=>{const c=s.category||"Other"; counts[c]=(counts[c]||0)+1;});
-    const top=Object.entries(counts).sort((a,b)=>b[1]-a[1])[0];
     const newest=allStories.reduce((m,s)=>Math.max(m,pubTs(s)),-Infinity);
     const nw=formatWhen(newest>-Infinity?new Date(newest).toISOString():null);
     const newCount = prevSeen>0 ? allStories.filter(s=>pubTs(s)>prevSeen && !(s.url&&readSet.has(s.url))).length : 0;
     let bits=[`<b>${allStories.length}</b> stories`];
-    if(top) bits.push(`<span class="pip">${top[1]} ${esc(top[0])}</span>`);
     if(newCount) bits.push(`<span class="new-pip">${newCount} new</span>`);
     if(nw) bits.push(`<span class="pip">newest ${nw.rel}</span>`);
     document.getElementById("dash").innerHTML=bits.join(" · ");
