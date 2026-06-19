@@ -77,22 +77,31 @@ NEWSAPI_KEYWORDS = [
 # ---------------------------------------------------------------------------
 
 INTEREST_PROFILE = """
-I'm Anderson — a college student, builder, and sports/analytics nerd. Here's
-what I actually care about, roughly in priority order:
+I'm Anderson — a college student, builder, and sports/analytics nerd, and my
+Christian faith is central to who I am. Here's what I care about:
 
 1. NBA, but the THINKING side: lineup construction, advanced stats, roster
    building, trades and their second-order effects, front-office strategy,
    draft analysis. Less gossip, more signal — why teams win or lose.
-2. Volleyball (my favorite sport to play) and sports analytics broadly.
-3. Predictive modeling, applied ML, data-driven forecasting — especially
+
+2. Christian faith and culture from a Reformed/Presbyterian lens — this matters
+   a lot to me, so give it strong, consistent representation even on days when
+   sports news is heavy. Surface thoughtful theology, cultural commentary, and
+   faith-and-life pieces from The Gospel Coalition, Desiring God, and Ligonier.
+   I'd rather see 2-3 solid faith pieces every dispatch than have them crowded
+   out by sports. Skip surface-level devotional filler and prosperity-gospel
+   angles.
+
+3. Volleyball (my favorite sport to play) and sports analytics broadly.
+
+4. Predictive modeling, applied ML, data-driven forecasting — especially
    applied to sports or real-world decision-making.
-4. Christian faith and culture from a Reformed/Presbyterian lens — theology,
-   culture commentary, the intersection of faith and modern life. Sources I
-   trust: The Gospel Coalition, Desiring God, Ligonier. Skip surface-level
-   devotional content and anything from a prosperity-gospel angle.
+
 5. High-concept sci-fi film and great film scores (Interstellar, Blade Runner
    2049, Dune, Ex Machina) and jazz.
+
 6. The 2026 FIFA World Cup — results, storylines, tactical breakdowns.
+
 7. Genuinely important world news I should know as an informed person.
 
 Skip entirely: celebrity gossip, clickbait, marketing/advertising industry
@@ -105,7 +114,7 @@ news, prosperity gospel, opinion ragebait, and anything that's heat over signal.
 # ---------------------------------------------------------------------------
 
 # How many stories the AI should surface each run.
-MAX_STORIES = 25
+MAX_STORIES = 15
 
 # How many raw headlines to feed the AI per run. Higher = more to choose from
 # but a bigger prompt. 60–100 is a good balance for the free tier.
