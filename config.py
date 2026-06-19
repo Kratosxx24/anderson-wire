@@ -77,35 +77,26 @@ NEWSAPI_KEYWORDS = [
 # ---------------------------------------------------------------------------
 
 INTEREST_PROFILE = """
-I'm Anderson — a college student, builder, and sports/analytics nerd, and my
-Christian faith is central to who I am. Here's what I care about:
+I'm Anderson — a college student and builder. My Christian faith is central to
+who I am, and I'm a serious sports/analytics nerd. There's no strict ranking
+between these areas (balance is handled separately) — what matters is judging
+relevance WELL WITHIN each area:
 
-1. NBA, but the THINKING side: lineup construction, advanced stats, roster
-   building, trades and their second-order effects, front-office strategy,
-   draft analysis. Less gossip, more signal — why teams win or lose.
+- NBA: the THINKING side — lineup construction, advanced stats, roster building,
+  trades and their second-order effects, front-office strategy, draft analysis.
+  Score analytical/strategic pieces high; score gossip and pure highlights low.
+- Faith: Reformed/Presbyterian theology and culture (The Gospel Coalition,
+  Desiring God, Ligonier). Score substantive theology and thoughtful cultural
+  commentary high; score surface devotional filler and prosperity-gospel low.
+- Sports: volleyball especially, plus basketball/football analysis.
+- Tech/AI: predictive modeling, applied ML, forecasting — especially applied to
+  sports or real-world decisions.
+- Film: high-concept sci-fi and great film scores; jazz.
+- World Cup 2026: results, storylines, tactical breakdowns.
+- World: genuinely important news an informed person should know.
 
-2. Christian faith and culture from a Reformed/Presbyterian lens — this matters
-   a lot to me, so give it strong, consistent representation even on days when
-   sports news is heavy. Surface thoughtful theology, cultural commentary, and
-   faith-and-life pieces from The Gospel Coalition, Desiring God, and Ligonier.
-   I'd rather see 2-3 solid faith pieces every dispatch than have them crowded
-   out by sports. Skip surface-level devotional filler and prosperity-gospel
-   angles.
-
-3. Volleyball (my favorite sport to play) and sports analytics broadly.
-
-4. Predictive modeling, applied ML, data-driven forecasting — especially
-   applied to sports or real-world decision-making.
-
-5. High-concept sci-fi film and great film scores (Interstellar, Blade Runner
-   2049, Dune, Ex Machina) and jazz.
-
-6. The 2026 FIFA World Cup — results, storylines, tactical breakdowns.
-
-7. Genuinely important world news I should know as an informed person.
-
-Skip entirely: celebrity gossip, clickbait, marketing/advertising industry
-news, prosperity gospel, opinion ragebait, and anything that's heat over signal.
+Always score as noise (low relevance): celebrity gossip, clickbait,
+marketing/advertising industry news, prosperity gospel, and opinion ragebait.
 """
 
 
@@ -113,16 +104,31 @@ news, prosperity gospel, opinion ragebait, and anything that's heat over signal.
 # 4. TUNING
 # ---------------------------------------------------------------------------
 
-# How many stories the AI should surface each run.
-MAX_STORIES = 15
+# How many stories to show per dispatch (hard cap; you'll only see fewer if the
+# feeds genuinely didn't produce this many fresh, relevant articles this run).
+MAX_STORIES = 50
 
-# How many raw headlines to feed the AI per run. Higher = more to choose from
-# but a bigger prompt. 60–100 is a good balance for the free tier.
-MAX_HEADLINES_TO_AI = 90
+# Per-category minimums. Code guarantees at least this many of each — IF that
+# many relevant articles exist in the pool. Remaining slots (up to MAX_STORIES)
+# fill by overall relevance. Minimums should sum to <= MAX_STORIES.
+CATEGORY_MINIMUMS = {
+    "NBA":     8,
+    "Faith":   3,
+    "Sports":  3,
+    "Tech/AI": 3,
+    "Film":    2,
+    "World":   3,
+    "Other":   1,
+}
+
+# How many raw headlines to triage per run. Bigger pool = better odds of filling
+# 50 and hitting minimums. The triage pass is cheap (no summaries), so go big.
+MAX_HEADLINES_TO_AI = 1000
 
 # Only consider articles published within this many hours (keeps it fresh).
+# Widen this if you aren't consistently filling 50 stories.
 FRESHNESS_HOURS = 24
 
-# Groq model. llama-3.3-70b-versatile is free and strong. If you ever hit
-# rate limits, swap to "llama-3.1-8b-instant" (faster, lighter).
+# Groq model. llama-3.3-70b-versatile is free and strong. If you hit rate limits
+# at this volume, swap to "llama-3.1-8b-instant" (faster, higher limits).
 GROQ_MODEL = "llama-3.3-70b-versatile"
