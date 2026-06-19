@@ -1,19 +1,26 @@
 """
-summarizer.py — two-pass AI pipeline with code-enforced category quotas.
+summarizer.py — two-pass AI pipeline with code-enforced category quotas
+and a multi-provider fallback chain.
 
-Pass 1 (triage): the AI categorizes and scores EVERY headline (cheap, no
-                 summaries written).
-Selection:       code picks stories to satisfy per-category minimums, then
-                 fills remaining slots by overall relevance, capped at MAX_STORIES.
-Pass 2 (write):  the AI writes a headline + 2-sentence summary for only the
-                 selected stories (done in small batches to stay light).
+Provider waterfall (tried in order, automatic fallback on any rate-limit):
+  1. Groq  — llama-3.3-70b-versatile  (best quality, 100k TPD free)
+  2. Groq  — llama-3.1-8b-instant     (same key, separate limit, ~500k TPD)
+  3. Groq  — llama3-70b-8192          (legacy Groq model, separate limit)
+  4. Gemini — gemini-1.5-flash        (GEMINI_API_KEY, 1M tokens/day free)
+  5. Cerebras — llama-3.3-70b         (CEREBRAS_API_KEY, fast, generous free)
+  6. Together — Llama-3.3-70b         (TOGETHER_API_KEY, free $25 credit)
 
-This guarantees the minimums in config.CATEGORY_MINIMUMS whenever enough
-relevant articles exist, instead of hoping the model self-balances.
+Any provider without a key set is skipped automatically. You only need to add
+keys for providers you've signed up for — everything else keeps working.
+
+Pass 1 (triage): AI categorizes + scores every headline (no summaries).
+Selection:       code enforces per-category minimums, fills to MAX_STORIES.
+Pass 2 (write):  AI writes headline + 2-sentence summary for selected stories.
 """
 
 import os
 import json
+import time
 from collections import Counter
 
 from groq import Groq
@@ -21,14 +28,160 @@ from groq import Groq
 import config
 
 CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Film", "Music", "World", "Other"]
-SUMMARY_BATCH = 20   # how many summaries to request per call (keeps responses small)
+SUMMARY_BATCH = 10
+BATCH_SLEEP = 12   # seconds between summary batches to stay under TPM limits
 
 
-def _client() -> Groq:
-    key = os.environ.get("GROQ_API_KEY")
-    if not key:
-        raise RuntimeError("GROQ_API_KEY is not set. Add it as a repo secret.")
-    return Groq(api_key=key)
+# ---------------------------------------------------------------------------
+# Multi-provider fallback engine
+# ---------------------------------------------------------------------------
+
+# Each provider entry: (name, key_env_var, call_fn)
+# call_fn(messages, temperature, max_tokens, json_mode) -> str (raw JSON text)
+
+def _groq_call(model: str, key: str):
+    """Returns a call function for a specific Groq model."""
+    def call(messages, temperature, max_tokens, json_mode):
+        client = Groq(api_key=key)
+        kwargs = dict(
+            model=model,
+            messages=messages,
+            temperature=temperature,
+            max_tokens=max_tokens,
+        )
+        if json_mode:
+            kwargs["response_format"] = {"type": "json_object"}
+        resp = client.chat.completions.create(**kwargs)
+        return resp.choices[0].message.content
+    return call
+
+
+def _gemini_call(key: str):
+    """Call Google Gemini via its REST API (no extra package needed)."""
+    import urllib.request
+    def call(messages, temperature, max_tokens, json_mode):
+        # Flatten messages to a single prompt for Gemini
+        prompt = "\n\n".join(
+            f"{'System' if m['role']=='system' else 'User'}: {m['content']}"
+            for m in messages
+        )
+        if json_mode:
+            prompt += "\n\nRespond with valid JSON only."
+        body = json.dumps({
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {
+                "temperature": temperature,
+                "maxOutputTokens": max_tokens,
+            }
+        }).encode()
+        url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+               f"gemini-1.5-flash:generateContent?key={key}")
+        req = urllib.request.Request(url, data=body,
+                                     headers={"Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode())
+        return data["candidates"][0]["content"]["parts"][0]["text"]
+    return call
+
+
+def _openai_compat_call(base_url: str, key: str, model: str):
+    """OpenAI-compatible endpoint (Cerebras, Together, etc.)"""
+    import urllib.request
+    def call(messages, temperature, max_tokens, json_mode):
+        body = json.dumps({
+            "model": model,
+            "messages": messages,
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+            **({"response_format": {"type": "json_object"}} if json_mode else {}),
+        }).encode()
+        req = urllib.request.Request(
+            f"{base_url}/chat/completions",
+            data=body,
+            headers={"Content-Type": "application/json",
+                     "Authorization": f"Bearer {key}"},
+        )
+        with urllib.request.urlopen(req, timeout=30) as r:
+            data = json.loads(r.read().decode())
+        return data["choices"][0]["message"]["content"]
+    return call
+
+
+def _build_provider_chain():
+    """Build the list of available providers at runtime based on which keys exist."""
+    chain = []
+    groq_key = os.environ.get("GROQ_API_KEY")
+    if groq_key:
+        chain.append(("Groq/llama-3.3-70b-versatile",
+                       _groq_call("llama-3.3-70b-versatile", groq_key)))
+        chain.append(("Groq/llama-3.1-8b-instant",
+                       _groq_call("llama-3.1-8b-instant", groq_key)))
+        chain.append(("Groq/llama3-70b-8192",
+                       _groq_call("llama3-70b-8192", groq_key)))
+
+    gemini_key = os.environ.get("GEMINI_API_KEY")
+    if gemini_key:
+        chain.append(("Gemini/gemini-1.5-flash", _gemini_call(gemini_key)))
+
+    cerebras_key = os.environ.get("CEREBRAS_API_KEY")
+    if cerebras_key:
+        chain.append(("Cerebras/llama-3.3-70b",
+                       _openai_compat_call(
+                           "https://api.cerebras.ai/v1",
+                           cerebras_key,
+                           "llama-3.3-70b")))
+
+    together_key = os.environ.get("TOGETHER_API_KEY")
+    if together_key:
+        chain.append(("Together/Llama-3.3-70b",
+                       _openai_compat_call(
+                           "https://api.together.xyz/v1",
+                           together_key,
+                           "meta-llama/Llama-3.3-70B-Instruct-Turbo")))
+
+    if not chain:
+        raise RuntimeError("No AI provider keys found. Set at least GROQ_API_KEY.")
+    return chain
+
+
+_RATE_LIMIT_CODES = {429, 413, 503}
+_RATE_LIMIT_PHRASES = ("rate limit", "quota", "too large", "capacity", "overloaded")
+
+def _is_rate_limit(e: Exception) -> bool:
+    msg = str(e).lower()
+    if hasattr(e, "status_code") and e.status_code in _RATE_LIMIT_CODES:
+        return True
+    if any(p in msg for p in _RATE_LIMIT_PHRASES):
+        return True
+    return False
+
+
+def llm_complete(messages: list[dict], temperature: float = 0.2,
+                 max_tokens: int = 4000, json_mode: bool = True) -> str:
+    """Try each provider in the chain; fall through on rate limits."""
+    chain = _build_provider_chain()
+    last_err = None
+    for name, call_fn in chain:
+        try:
+            result = call_fn(messages, temperature, max_tokens, json_mode)
+            if chain[0][0] != name:   # only log if we actually fell back
+                print(f"  ✓ using fallback provider: {name}")
+            return result
+        except Exception as e:
+            if _is_rate_limit(e):
+                print(f"  ! {name} rate-limited, trying next provider...")
+                last_err = e
+                continue
+            raise   # non-rate-limit errors bubble up immediately
+    raise RuntimeError(
+        f"All providers exhausted. Last error: {last_err}"
+    )
+
+
+def _parse_json(raw: str) -> dict:
+    """Strip markdown fences if a model wraps its JSON, then parse."""
+    clean = raw.strip().replace("```json", "").replace("```", "").strip()
+    return json.loads(clean)
 
 
 # ---------------------------------------------------------------------------
@@ -44,7 +197,8 @@ only — no markdown, no backticks, no commentary."""
 
 def triage(articles: list[dict]):
     pool = articles[: config.MAX_HEADLINES_TO_AI]
-    lines = [f"[{i}] ({a.get('source','')}) {a.get('title','')}" for i, a in enumerate(pool)]
+    lines = [f"[{i}] ({a.get('source','')}) {a.get('title','')}"
+             for i, a in enumerate(pool)]
 
     user = f"""READER PROFILE:
 {config.INTEREST_PROFILE}
@@ -52,21 +206,20 @@ def triage(articles: list[dict]):
 HEADLINES:
 {chr(10).join(lines)}
 
-Return JSON of this exact shape, with one entry for EVERY index from 0 to {len(pool)-1}:
+Return JSON with one entry for EVERY index from 0 to {len(pool)-1}:
 {{"items": [{{"index": <int>, "category": "<one of: {', '.join(CATEGORIES)}>", "relevance": <1-10 integer>}}]}}
 
-Rules: category must be from the list; relevance is how relevant to THIS reader.
+Rules: category must be exactly from the list; relevance is for THIS reader.
 Return only the JSON."""
 
-    resp = _client().chat.completions.create(
-        model=config.GROQ_MODEL,
+    raw = llm_complete(
         messages=[{"role": "system", "content": _TRIAGE_SYSTEM},
                   {"role": "user", "content": user}],
         temperature=0.2,
-        max_tokens=8000,
-        response_format={"type": "json_object"},
+        max_tokens=4000,
+        json_mode=True,
     )
-    data = json.loads(resp.choices[0].message.content)
+    data = _parse_json(raw)
 
     out = []
     for it in data.get("items", []):
@@ -77,23 +230,21 @@ Return only the JSON."""
         if cat not in CATEGORIES:
             cat = "Other"
         try:
-            rel = int(it.get("relevance", 5))
+            rel = max(1, min(10, int(it.get("relevance", 5))))
         except (TypeError, ValueError):
             rel = 5
-        rel = max(1, min(10, rel))
         out.append({"index": idx, "category": cat, "relevance": rel})
     return pool, out
 
 
 # ---------------------------------------------------------------------------
-# Selection: enforce minimums, then fill by relevance, cap at MAX_STORIES
+# Selection: enforce category minimums, fill to MAX_STORIES by relevance
 # ---------------------------------------------------------------------------
 
 def select_with_quotas(triaged: list[dict]) -> list[dict]:
     mins = config.CATEGORY_MINIMUMS
     target = config.MAX_STORIES
 
-    # de-dupe by index, keep highest relevance per index
     best = {}
     for t in triaged:
         i = t["index"]
@@ -107,14 +258,12 @@ def select_with_quotas(triaged: list[dict]) -> list[dict]:
 
     selected, chosen = [], set()
 
-    # Phase 1 — satisfy each category's minimum (highest-relevance items first)
     for cat, m in mins.items():
         for t in by_cat.get(cat, [])[:m]:
             if t["index"] not in chosen:
                 selected.append(t)
                 chosen.add(t["index"])
 
-    # Phase 2 — fill remaining slots with the best of what's left
     for t in items:
         if len(selected) >= target:
             break
@@ -128,38 +277,36 @@ def select_with_quotas(triaged: list[dict]) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Pass 2: write headline + summary for the selected stories (batched)
+# Pass 2: write headline + summary for selected stories (batched)
 # ---------------------------------------------------------------------------
 
-_SUMMARY_SYSTEM = """You are a sharp, no-nonsense personal news editor. You are \
-given a set of pre-selected headlines, each with an index. For each one, write a \
-clean, punchy headline and a tight 2-sentence summary in your OWN words — never \
-copy article text verbatim. Lead with substance, not "This article discusses". \
-Return STRICT JSON only — no markdown, no backticks, no commentary."""
+_SUMMARY_SYSTEM = """You are a sharp, no-nonsense personal news editor. For each \
+headline given, write a clean punchy headline and a tight 2-sentence summary in \
+your OWN words — never copy article text verbatim. Lead with substance, not \
+"This article discusses". Return STRICT JSON only — no markdown, no backticks."""
 
 
 def _summarize_batch(pool: list[dict], batch: list[dict]) -> dict:
     lines = []
     for s in batch:
         a = pool[s["index"]]
-        lines.append(f"[{s['index']}] ({a.get('source','')}) {a.get('title','')}\n    {a.get('summary','')[:400]}")
+        lines.append(
+            f"[{s['index']}] ({a.get('source','')}) {a.get('title','')}\n"
+            f"    {a.get('summary','')[:300]}"
+        )
+    user = (f"Write a headline and 2-sentence summary for each:\n"
+            f"{chr(10).join(lines)}\n\n"
+            f'Return JSON: {{"stories": [{{"index": <int>, "headline": "<headline>", "summary": "<two sentences>"}}]}}\n'
+            f"Return only the JSON.")
 
-    user = f"""Write a headline and 2-sentence summary for each, keyed by index:
-{chr(10).join(lines)}
-
-Return JSON:
-{{"stories": [{{"index": <int>, "headline": "<your headline>", "summary": "<two sentences>"}}]}}
-Return only the JSON."""
-
-    resp = _client().chat.completions.create(
-        model=config.GROQ_MODEL,
+    raw = llm_complete(
         messages=[{"role": "system", "content": _SUMMARY_SYSTEM},
                   {"role": "user", "content": user}],
         temperature=0.3,
-        max_tokens=6000,
-        response_format={"type": "json_object"},
+        max_tokens=3000,
+        json_mode=True,
     )
-    data = json.loads(resp.choices[0].message.content)
+    data = _parse_json(raw)
     smap = {}
     for st in data.get("stories", []):
         idx = st.get("index")
@@ -170,13 +317,16 @@ Return only the JSON."""
 
 def write_summaries(pool: list[dict], selected: list[dict]) -> list[dict]:
     smap = {}
-    for i in range(0, len(selected), SUMMARY_BATCH):
-        batch = selected[i:i + SUMMARY_BATCH]
-        print(f"  - summarizing batch {i // SUMMARY_BATCH + 1} ({len(batch)} stories)")
+    batches = [selected[i:i+SUMMARY_BATCH]
+               for i in range(0, len(selected), SUMMARY_BATCH)]
+    for n, batch in enumerate(batches, 1):
+        print(f"  - summarizing batch {n}/{len(batches)} ({len(batch)} stories)")
         try:
             smap.update(_summarize_batch(pool, batch))
         except Exception as e:
-            print(f"    ! batch failed ({e}); falling back to raw titles for it")
+            print(f"    ! batch {n} failed ({e}); using raw titles")
+        if n < len(batches):
+            time.sleep(BATCH_SLEEP)
 
     final = []
     for s in selected:
@@ -184,18 +334,18 @@ def write_summaries(pool: list[dict], selected: list[dict]) -> list[dict]:
         st = smap.get(s["index"], {})
         final.append({
             "headline": st.get("headline") or a.get("title", ""),
-            "summary": st.get("summary", ""),
+            "summary":  st.get("summary", ""),
             "category": s["category"],
             "relevance": s["relevance"],
-            "url": a.get("url", ""),
-            "source": a.get("source", ""),
+            "url":      a.get("url", ""),
+            "source":   a.get("source", ""),
             "published": a.get("published"),
         })
     return final
 
 
 # ---------------------------------------------------------------------------
-# Orchestrator (public entry point — main.py calls this)
+# Orchestrator
 # ---------------------------------------------------------------------------
 
 def summarize(articles: list[dict]) -> list[dict]:
@@ -204,7 +354,8 @@ def summarize(articles: list[dict]) -> list[dict]:
         return []
 
     n = min(len(articles), config.MAX_HEADLINES_TO_AI)
-    print(f"Triaging {n} headlines with Groq ({config.GROQ_MODEL})...")
+    print(f"Triaging {n} headlines (provider chain: Groq-70b → Groq-8b → "
+          f"Groq-legacy → Gemini → Cerebras → Together)...")
     pool, triaged = triage(articles)
     print(f"  - categorized {len(triaged)} headlines")
 
