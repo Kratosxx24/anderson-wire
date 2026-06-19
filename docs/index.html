@@ -150,6 +150,7 @@
     display: flex; gap: 12px; align-items: center;
   }
   .story-foot .src { color: var(--muted); }
+  .story-foot .abs { color: var(--faint); }
   .story-foot a.read { color: var(--accent); text-decoration: none; margin-left: auto; }
   .story-foot a.read:hover { text-decoration: underline; }
 
@@ -271,23 +272,24 @@
   let filter = { type: "all", value: null };  // all | category | source
 
   function formatWhen(iso) {
-    if (!iso) return null;                       // no date -> show nothing, never fake it
+    if (!iso) return null;
     const d = new Date(iso);
     if (isNaN(d.getTime())) return null;
     const mins = Math.floor((Date.now() - d.getTime()) / 60000);
-    let text;
-    if (mins < 1)        text = "just now";
-    else if (mins < 60)  text = mins + "m ago";
-    else if (mins < 1440) text = Math.floor(mins / 60) + "h ago";
-    else {                                       // 24h+ -> show the real date
-      const now = new Date();
-      const opts = { month: "short", day: "numeric" };
-      if (d.getFullYear() !== now.getFullYear()) opts.year = "numeric";
-      text = d.toLocaleDateString("en-US", opts);
-    }
-    const full = d.toLocaleString("en-US",
-      { month:"short", day:"numeric", year:"numeric", hour:"numeric", minute:"2-digit" });
-    return { text, title: full };                // title = exact timestamp on hover
+    let rel;
+    if (mins < 1)         rel = "just now";
+    else if (mins < 60)   rel = mins + "m ago";
+    else if (mins < 1440) rel = Math.floor(mins / 60) + "h ago";
+    else                  rel = Math.floor(mins / 1440) + "d ago";
+    const now = new Date();
+    const opts = { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" };
+    if (d.getFullYear() !== now.getFullYear()) opts.year = "numeric";
+    const abs = d.toLocaleString("en-US", opts);   // e.g. "Jun 19, 2:30 PM"
+    return { rel, abs };
+  }
+  function pubTs(s) {
+    const t = s.published ? new Date(s.published).getTime() : NaN;
+    return isNaN(t) ? -Infinity : t;               // undated stories sort to the bottom
   }
   function signalMeter(relevance) {
     const filled = Math.max(1, Math.round((Number(relevance) || 5) / 2));
@@ -317,7 +319,7 @@
       const w = formatWhen(s.published);
       const foot = [
         `<span class="src">${esc(s.source)}</span>`,
-        w ? `<span title="${esc(w.title)}">${esc(w.text)}</span>` : "",
+        w ? `<span class="when">${esc(w.rel)} · <span class="abs">${esc(w.abs)}</span></span>` : "",
         url ? `<a class="read" href="${url}" target="_blank" rel="noopener">Read →</a>` : ""
       ].filter(Boolean).join("");
       const n = String(i + 1).padStart(2, "0");
@@ -378,8 +380,9 @@
       if (!res.ok) throw new Error("no feed");
       const data = await res.json();
       allStories = data.stories || [];
+      allStories.sort((a, b) => pubTs(b) - pubTs(a));   // newest first, undated last
       const w = formatWhen(data.generated_at);
-      document.getElementById("status").textContent = "Last transmission · " + (w ? w.text : "just now");
+      document.getElementById("status").textContent = "Last transmission · " + (w ? w.rel : "just now");
       document.getElementById("meta").innerHTML = `<b>${allStories.length}</b> stories · filtered from the noise`;
       if (!allStories.length) {
         document.getElementById("feed").innerHTML =
