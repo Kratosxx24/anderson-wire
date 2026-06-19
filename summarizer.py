@@ -20,7 +20,7 @@ from groq import Groq
 
 import config
 
-CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Film", "World", "Other"]
+CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Film", "Music", "World", "Other"]
 SUMMARY_BATCH = 20   # how many summaries to request per call (keeps responses small)
 
 
