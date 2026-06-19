@@ -41,8 +41,7 @@ RSS_FEEDS = [
 
     # --- Faith / culture (Presbyterian/Reformed lean) ---
     ("The Gospel Coalition", "https://www.thegospelcoalition.org/feed/"),
-    ("Desiring God", "https://www.desiringgod.org/articles.rss"),
-    ("Ligonier", "https://www.ligonier.org/blog/feed/"),
+    ("Desiring God", "https://rss.desiringgod.org"),
 
     # --- Film / scores ---
     ("IndieWire", "https://www.indiewire.com/feed/"),
@@ -54,8 +53,8 @@ RSS_FEEDS = [
     ("ESPN Soccer", "https://www.espn.com/espn/rss/soccer/news"),
 
     # --- General / world ---
-    ("AP Top News", "https://rsshub.app/apnews/topics/apf-topnews"),
-    ("Reuters Top News", "https://www.reutersagency.com/feed/?best-topics=top-news&post_type=best"),
+    ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("NPR News", "https://feeds.npr.org/1001/rss.xml"),
 ]
 
 
@@ -68,10 +67,11 @@ RSS_FEEDS = [
 # run on RSS alone (fully free, no key needed).
 # ---------------------------------------------------------------------------
 
-NEWSAPI_KEYWORDS = [
-    "NBA trade",
-    "FIFA World Cup 2026",
-]
+# NewsAPI keyword layer — DISABLED. The key was returning 401 (invalid/not set),
+# and the RSS feeds provide plenty of material. To re-enable: add a valid
+# NEWSAPI_KEY repo secret and put keywords back in this list (keep it short —
+# each keyword is 1 of 100 free daily requests).
+NEWSAPI_KEYWORDS = []
 
 
 # ---------------------------------------------------------------------------
@@ -142,6 +142,9 @@ MAX_HEADLINES_TO_AI = 150
 # Widen this if you aren't consistently filling 50 stories.
 FRESHNESS_HOURS = 24
 
-# Groq model. llama-3.3-70b-versatile is free and strong. If you hit rate limits
-# at this volume, swap to "llama-3.1-8b-instant" (faster, higher limits).
-GROQ_MODEL = "llama-3.3-70b-versatile"
+# Groq model. llama-3.1-8b-instant has a far higher daily token limit than the
+# 70b model (which is only ~100k tokens/day free) and is faster — the right
+# choice at 50-story volume. Summaries are slightly simpler but plenty good.
+# Swap back to "llama-3.3-70b-versatile" if you want richer summaries and are
+# running infrequently enough to stay under its limit.
+GROQ_MODEL = "llama-3.1-8b-instant"
