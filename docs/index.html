@@ -270,16 +270,24 @@
   let allStories = [];
   let filter = { type: "all", value: null };  // all | category | source
 
-  function timeAgo(iso) {
-    if (!iso) return "";
-    const then = new Date(iso).getTime();
-    if (isNaN(then)) return "";
-    const mins = Math.floor((Date.now() - then) / 60000);
-    if (mins < 1) return "just now";
-    if (mins < 60) return mins + "m ago";
-    const hrs = Math.floor(mins / 60);
-    if (hrs < 24) return hrs + "h ago";
-    return Math.floor(hrs / 24) + "d ago";
+  function formatWhen(iso) {
+    if (!iso) return null;                       // no date -> show nothing, never fake it
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return null;
+    const mins = Math.floor((Date.now() - d.getTime()) / 60000);
+    let text;
+    if (mins < 1)        text = "just now";
+    else if (mins < 60)  text = mins + "m ago";
+    else if (mins < 1440) text = Math.floor(mins / 60) + "h ago";
+    else {                                       // 24h+ -> show the real date
+      const now = new Date();
+      const opts = { month: "short", day: "numeric" };
+      if (d.getFullYear() !== now.getFullYear()) opts.year = "numeric";
+      text = d.toLocaleDateString("en-US", opts);
+    }
+    const full = d.toLocaleString("en-US",
+      { month:"short", day:"numeric", year:"numeric", hour:"numeric", minute:"2-digit" });
+    return { text, title: full };                // title = exact timestamp on hover
   }
   function signalMeter(relevance) {
     const filled = Math.max(1, Math.round((Number(relevance) || 5) / 2));
@@ -306,10 +314,10 @@
     }
     feed.innerHTML = list.map((s, i) => {
       const url = esc(s.url);
-      const ago = timeAgo(s.published);
+      const w = formatWhen(s.published);
       const foot = [
         `<span class="src">${esc(s.source)}</span>`,
-        ago ? `<span>${ago}</span>` : "",
+        w ? `<span title="${esc(w.title)}">${esc(w.text)}</span>` : "",
         url ? `<a class="read" href="${url}" target="_blank" rel="noopener">Read →</a>` : ""
       ].filter(Boolean).join("");
       const n = String(i + 1).padStart(2, "0");
@@ -370,7 +378,8 @@
       if (!res.ok) throw new Error("no feed");
       const data = await res.json();
       allStories = data.stories || [];
-      document.getElementById("status").textContent = "Last transmission · " + timeAgo(data.generated_at);
+      const w = formatWhen(data.generated_at);
+      document.getElementById("status").textContent = "Last transmission · " + (w ? w.text : "just now");
       document.getElementById("meta").innerHTML = `<b>${allStories.length}</b> stories · filtered from the noise`;
       if (!allStories.length) {
         document.getElementById("feed").innerHTML =
