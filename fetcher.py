@@ -4,6 +4,7 @@ normalizes them into a common shape, drops stale and duplicate items.
 """
 
 import os
+import re
 import time
 import html
 import urllib.request
@@ -141,3 +142,53 @@ def fetch_all() -> list[dict]:
     combined = dedupe(rss + napi)
     print(f"\nTotal fresh, de-duplicated articles: {len(combined)}")
     return combined
+
+
+# ---------------------------------------------------------------------------
+# True publication date enrichment
+# ---------------------------------------------------------------------------
+# RSS pubDates are unreliable on wire/aggregator feeds (ESPN, Hacker News, AP
+# hubs) — they reflect when an item hit the feed, not when the article was
+# published. Most news pages embed the real date in a meta tag, so for the
+# handful of stories that make the final cut we fetch the page and read it.
+
+_PUB_PATTERNS = [
+    re.compile(r'<meta[^>]+?(?:property|name)=["\']article:published_time["\'][^>]+?content=["\']([^"\']+)["\']', re.I),
+    re.compile(r'<meta[^>]+?content=["\']([^"\']+)["\'][^>]+?(?:property|name)=["\']article:published_time["\']', re.I),
+    re.compile(r'<meta[^>]+?(?:property|name)=["\']og:published_time["\'][^>]+?content=["\']([^"\']+)["\']', re.I),
+    re.compile(r'"datePublished"\s*:\s*"([^"]+)"', re.I),
+]
+
+
+def _true_published(url: str) -> str | None:
+    """Fetch an article page and read its real publication date from meta tags.
+    Returns an ISO date string, or None if the page has no usable date."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (newswire)"})
+        with urllib.request.urlopen(req, timeout=8) as resp:
+            # The head (where meta tags live) is near the top — 250KB is plenty.
+            html_text = resp.read(250_000).decode("utf-8", "ignore")
+    except Exception:
+        return None
+    for pat in _PUB_PATTERNS:
+        m = pat.search(html_text)
+        if m and m.group(1).strip():
+            return m.group(1).strip()
+    return None
+
+
+def enrich_published_dates(stories: list[dict]) -> list[dict]:
+    """Overwrite each story's feed date with its true publication date where we
+    can find one. Falls back silently to the feed date on any failure."""
+    print("Resolving true publication dates...")
+    fixed = 0
+    for s in stories:
+        url = s.get("url")
+        if not url:
+            continue
+        real = _true_published(url)
+        if real:
+            s["published"] = real
+            fixed += 1
+    print(f"  - resolved {fixed}/{len(stories)} from the source page")
+    return stories
