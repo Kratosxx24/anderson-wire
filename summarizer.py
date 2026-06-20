@@ -26,6 +26,7 @@ representation in the pool.
 """
 
 import os
+import re
 import json
 import time
 from collections import Counter, defaultdict
@@ -343,6 +344,33 @@ your OWN words — never copy article text verbatim. Lead with substance, not \
 "This article discusses". Return STRICT JSON only — no markdown, no backticks."""
 
 
+_WORD_RE = re.compile(r"[a-z0-9]+")
+
+def _content_words(text: str) -> set[str]:
+    """Significant (4+ char) lowercase word tokens, for a cheap topic check."""
+    return {w for w in _WORD_RE.findall((text or "").lower()) if len(w) > 3}
+
+
+def _headline_matches_source(article: dict, story: dict) -> bool:
+    """Guard against Pass-2 index crossing.
+
+    When the writer model summarizes a batch of stories, it occasionally
+    attaches one story's rewritten headline to a DIFFERENT story's index — so a
+    Gospel Coalition (Faith) link ends up displaying a 'Miami Heat championship'
+    headline. The URL/source/category are always correct (they come from the
+    selection step), but the headline text is for the wrong article.
+
+    A genuine rewrite of an article shares at least one significant word with
+    that article's own title or summary. A crossed headline shares NONE. So if
+    the overlap is empty, the rewrite belongs to another story — reject it and
+    fall back to the real title (which by definition matches the link)."""
+    original = _content_words(article.get("title", "")) | _content_words(article.get("summary", ""))
+    rewritten = _content_words(story.get("headline", "")) | _content_words(story.get("summary", ""))
+    if not original or not rewritten:
+        return True  # nothing meaningful to compare — don't second-guess it
+    return bool(original & rewritten)
+
+
 def _summarize_batch(pool: list[dict], batch: list[dict]) -> dict:
     lines = []
     for s in batch:
@@ -389,6 +417,13 @@ def write_summaries(pool: list[dict], selected: list[dict]) -> list[dict]:
     for s in selected:
         a = pool[s["index"]]
         st = smap.get(s["index"], {})
+        # Reject a rewrite that clearly belongs to a different story (the writer
+        # crossed indices within its batch) and fall back to the real title.
+        if st and not _headline_matches_source(a, st):
+            print(f"    ! headline/source mismatch at index {s['index']} "
+                  f"({a.get('source','')}: '{a.get('title','')[:50]}') — "
+                  f"discarding crossed rewrite, using original title")
+            st = {}
         final.append({
             "headline": st.get("headline") or a.get("title", ""),
             "summary":  st.get("summary", ""),

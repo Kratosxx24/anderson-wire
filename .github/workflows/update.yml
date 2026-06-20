@@ -4,8 +4,12 @@ on:
   schedule:
     # NOTE: do NOT use "0 * * * *". The top of the hour is the single most
     # congested slot on GitHub's free runners — those jobs get delayed 10-40 min
-    # and are sometimes silently dropped. An odd minute runs far more reliably.
-    - cron: "37 * * * *"        # hourly at :37. Use "7,37 * * * *" for ~every 30 min.
+    # and are sometimes silently dropped. Off-the-hour minutes run far more
+    # reliably. GitHub also drops/delays scheduled runs on free runners, so the
+    # *effective* cadence is always coarser than the cron — listing more slots
+    # gives more attempts, which is the real lever on how often it actually runs.
+    - cron: "7,37 * * * *"      # every ~30 min (:07 and :37). For ~15 min use
+                                # "7,22,37,52 * * * *"; for hourly use "37 * * * *".
   workflow_dispatch:
 
 permissions:
