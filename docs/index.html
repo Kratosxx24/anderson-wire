@@ -109,7 +109,7 @@
   .utoggle:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
 
   /* Layout */
-  .layout { display:grid; grid-template-columns:1fr 234px; gap:46px; margin-top:18px; }
+  .layout { margin-top:18px; }
 
   /* Group dividers */
   .group-divider { font-family:"Space Mono",monospace; font-size:10px; font-weight:700;
@@ -169,8 +169,36 @@
   @keyframes riseIn { from { opacity:0; transform:translateY(7px); } to { opacity:1; transform:none; } }
   .anim { animation:riseIn .42s cubic-bezier(.2,.7,.3,1) both; }
 
-  /* Sidebar */
-  aside.side { position:sticky; top:26px; align-self:start; }
+  /* Hamburger button */
+  .menu-btn { font-family:"Space Mono",monospace; font-size:10.5px; letter-spacing:.07em;
+    text-transform:uppercase; color:var(--muted); background:transparent; border:1px solid var(--border);
+    border-radius:100px; padding:6px 12px; cursor:pointer; display:inline-flex; align-items:center; gap:7px;
+    position:relative; transition:border-color .15s,color .15s,background .15s; }
+  .menu-btn:hover { border-color:var(--border-hov); color:var(--text); }
+  .menu-btn:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  .menu-btn .bars { display:inline-flex; flex-direction:column; gap:2.5px; }
+  .menu-btn .bars span { display:block; width:13px; height:1.6px; background:currentColor; border-radius:2px; }
+  .menu-btn .fdot { position:absolute; top:-2px; right:-2px; width:8px; height:8px; border-radius:50%;
+    background:var(--accent); border:1.5px solid var(--bg); display:none; }
+  .menu-btn.filtered .fdot { display:block; }
+
+  /* Sources drawer */
+  .drawer-backdrop { position:fixed; inset:0; background:rgba(12,11,8,.42); opacity:0;
+    transition:opacity .25s ease; z-index:90; }
+  [data-theme="dark"] .drawer-backdrop { background:rgba(0,0,0,.6); }
+  .drawer-backdrop.show { opacity:1; }
+  .drawer { position:fixed; top:0; right:0; height:100%; width:300px; max-width:86vw; z-index:91;
+    background:var(--bg); border-left:1px solid var(--border); transform:translateX(100%);
+    transition:transform .28s cubic-bezier(.2,.7,.3,1); display:flex; flex-direction:column;
+    padding:24px 22px 28px; overflow-y:auto; box-shadow:-18px 0 50px -30px rgba(0,0,0,.55); }
+  .drawer.open { transform:none; }
+  .drawer-head { display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:14px; }
+  .drawer-head .side-title { margin:0; padding:0; border:0; }
+  .drawer-close { font-size:15px; line-height:1; color:var(--muted); background:transparent;
+    border:1px solid var(--border); border-radius:8px; width:30px; height:30px; cursor:pointer; flex:none;
+    display:inline-flex; align-items:center; justify-content:center; transition:border-color .15s,color .15s; }
+  .drawer-close:hover { border-color:var(--border-hov); color:var(--text); }
+  .drawer-close:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
   .side-block { margin-bottom:26px; }
   .side-title { font-family:"Space Mono",monospace; font-size:10px; font-weight:700;
     letter-spacing:.14em; text-transform:uppercase; color:var(--faint); margin:0 0 12px;
@@ -214,16 +242,8 @@
 
   @media (max-width:760px) {
     .wrap { padding:0 20px 70px; }
-    .layout { grid-template-columns:1fr; gap:10px; }
-    aside.side { position:static; order:-1; margin-bottom:8px; padding-bottom:16px;
-      border-bottom:1px solid var(--border); }
-    .side-block { margin-bottom:14px; }
-    .src-list { display:flex; flex-wrap:wrap; gap:6px; }
-    .src-item { width:auto; padding:5px 10px; border:1px solid var(--border); border-radius:100px; }
-    .src-item .bar { display:none; }
-    .src-item .count { background:transparent; padding:0 0 0 4px; }
-    .hint { display:none; }
     .controls { gap:10px; }
+    .drawer { width:320px; }
   }
   @media (prefers-reduced-motion:reduce) {
     *, .anim { animation:none !important; transition:none !important; }
@@ -246,6 +266,9 @@
     <div class="controls">
       <nav class="channels" id="channels" aria-label="Filter by category"></nav>
       <div class="toolbar">
+        <button class="menu-btn" id="menuBtn" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="drawer">
+          <span class="bars" aria-hidden="true"><span></span><span></span><span></span></span>Sources<span class="fdot" aria-hidden="true"></span>
+        </button>
         <label class="search">
           <span class="sicon" aria-hidden="true">⌕</span>
           <input id="search" type="search" placeholder="Search  /" aria-label="Search stories" autocomplete="off" spellcheck="false" />
@@ -266,19 +289,21 @@
           <div class="skel-card"><div class="skel-line" style="width:28%"></div><div class="skel-line" style="width:85%"></div><div class="skel-line" style="width:52%"></div></div>
         </div>
       </main>
-
-      <aside class="side">
-        <div class="side-block">
-          <p class="side-title">Sources</p>
-          <div class="src-list" id="sources"></div>
-          <button class="clearfilter" id="clearFilter" type="button">✕ Clear filter</button>
-        </div>
-        <div class="side-block">
-          <p class="side-title">Keys</p>
-          <div class="hint"><kbd>J</kbd>/<kbd>K</kbd> move · <kbd>O</kbd> open · <kbd>/</kbd> search · <kbd>R</kbd> theme</div>
-        </div>
-      </aside>
     </div>
+
+    <div class="drawer-backdrop" id="drawerBackdrop" hidden></div>
+    <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="Sources and shortcuts" aria-hidden="true">
+      <div class="drawer-head">
+        <p class="side-title">Sources</p>
+        <button class="drawer-close" id="drawerClose" type="button" aria-label="Close sources">✕</button>
+      </div>
+      <div class="src-list" id="sources"></div>
+      <button class="clearfilter" id="clearFilter" type="button">✕ Clear filter</button>
+      <div class="side-block" style="margin-top:28px;">
+        <p class="side-title">Keys</p>
+        <div class="hint"><kbd>J</kbd>/<kbd>K</kbd> move · <kbd>O</kbd> open · <kbd>/</kbd> search · <kbd>M</kbd> sources · <kbd>R</kbd> theme</div>
+      </div>
+    </aside>
 
     <footer class="sig">Curated by an AI editor · refreshed on a schedule · only what you'd care about</footer>
   </div>
@@ -456,7 +481,7 @@
     box.querySelectorAll(".src-item").forEach(btn=>btn.addEventListener("click",()=>{
       const name=btn.dataset.src;
       filter=(filter.type==="source"&&filter.value===name)?{type:"all",value:null}:{type:"source",value:name};
-      saveView(); refreshUI(true);
+      saveView(); refreshUI(true); closeDrawer();
     }));
   }
   function updateDash(genIso){
@@ -468,14 +493,14 @@
     if(nw) bits.push(`<span class="pip">newest ${nw.rel}</span>`);
     document.getElementById("dash").innerHTML=bits.join(" · ");
   }
-  function refreshUI(animate){ buildChannels(); buildSources(); render(!!animate); }
+  function refreshUI(animate){ buildChannels(); buildSources(); syncMenuBtn(); render(!!animate); }
 
   const searchEl=document.getElementById("search");
   const unreadBtn=document.getElementById("unreadToggle");
 
   function clearAllFilters(){
     filter={type:"all",value:null}; unreadOnly=false; searchQuery=""; searchEl.value="";
-    unreadBtn.setAttribute("aria-pressed","false"); saveView(); refreshUI(false);
+    unreadBtn.setAttribute("aria-pressed","false"); saveView(); refreshUI(false); closeDrawer();
   }
   document.getElementById("clearFilter").addEventListener("click",clearAllFilters);
   document.getElementById("sortNewest").addEventListener("click",()=>setSort("newest"));
@@ -500,9 +525,29 @@
   }
   syncControls();
 
+  /* ---------- Sources drawer ---------- */
+  const menuBtn=document.getElementById("menuBtn");
+  const drawer=document.getElementById("drawer");
+  const drawerBackdrop=document.getElementById("drawerBackdrop");
+  const drawerClose=document.getElementById("drawerClose");
+  let drawerOpen=false;
+  function openDrawer(){ drawerOpen=true; drawerBackdrop.hidden=false;
+    requestAnimationFrame(()=>{ drawer.classList.add("open"); drawerBackdrop.classList.add("show"); });
+    drawer.setAttribute("aria-hidden","false"); menuBtn.setAttribute("aria-expanded","true"); drawerClose.focus(); }
+  function closeDrawer(){ if(!drawerOpen) return; drawerOpen=false;
+    drawer.classList.remove("open"); drawerBackdrop.classList.remove("show");
+    drawer.setAttribute("aria-hidden","true"); menuBtn.setAttribute("aria-expanded","false");
+    setTimeout(()=>{ if(!drawerOpen) drawerBackdrop.hidden=true; },300); }
+  function toggleDrawer(){ drawerOpen?closeDrawer():openDrawer(); }
+  function syncMenuBtn(){ menuBtn.classList.toggle("filtered", filter.type==="source"); }
+  menuBtn.addEventListener("click",toggleDrawer);
+  drawerClose.addEventListener("click",()=>{ closeDrawer(); menuBtn.focus(); });
+  drawerBackdrop.addEventListener("click",closeDrawer);
+
   /* ---------- Keyboard nav ---------- */
   document.addEventListener("keydown",e=>{
     if(e.metaKey||e.ctrlKey||e.altKey) return;
+    if(e.key==="Escape" && drawerOpen){ e.preventDefault(); closeDrawer(); menuBtn.focus(); return; }
     const tag=(e.target.tagName||"").toLowerCase();
     if(tag==="input"||tag==="textarea") return;
     if(e.key==="/"){ e.preventDefault(); searchEl.focus(); searchEl.select(); return; }
@@ -517,6 +562,8 @@
       const url=cards[kIndex].dataset.url; if(url){ markRead(url); window.open(url,"_blank","noopener"); }
     } else if(e.key==="r"){
       setTheme(root.getAttribute("data-theme")==="dark"?"light":"dark");
+    } else if(e.key==="m"){
+      toggleDrawer();
     }
   });
 
