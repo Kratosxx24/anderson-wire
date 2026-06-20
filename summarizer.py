@@ -16,12 +16,19 @@ provider without a key set is skipped automatically.
 Pass 1 (triage): AI categorizes + scores every headline (no summaries).
 Selection:       code enforces per-category minimums, fills to MAX_STORIES.
 Pass 2 (write):  AI writes headline + 2-sentence summary for selected stories.
+
+CHANGE (this version): the triage pool is now built by ROUND-ROBIN across
+sources, not raw feed order. Previously `articles[:MAX_HEADLINES_TO_AI]` took
+the first N in feed order, which let high-volume early feeds (ESPN) crowd out
+thin, late-listed lanes (Faith/Film/Music/World) before the AI ever saw them —
+so the quota had nothing to protect. Interleaving guarantees every feed gets
+representation in the pool.
 """
 
 import os
 import json
 import time
-from collections import Counter
+from collections import Counter, defaultdict
 
 from groq import Groq
 
@@ -196,6 +203,26 @@ THIS specific reader. Do not write summaries. Be decisive. Return STRICT JSON \
 only — no markdown, no backticks, no commentary."""
 
 
+def _interleave_by_source(articles: list[dict]) -> list[dict]:
+    """Round-robin articles across their sources so a head-slice samples every
+    feed instead of gobbling whatever's first in feed order. Within-source
+    order is preserved (so each feed's freshest items still come first)."""
+    buckets: dict[str, list] = defaultdict(list)
+    for a in articles:
+        buckets[a.get("source", "")].append(a)
+
+    queues = list(buckets.values())
+    out: list[dict] = []
+    while queues:
+        next_queues = []
+        for q in queues:
+            out.append(q.pop(0))
+            if q:
+                next_queues.append(q)
+        queues = next_queues
+    return out
+
+
 def _triage_chunk(pool: list[dict], start: int, end: int) -> list[dict]:
     """Categorize + score one slice of headlines (indices start..end-1)."""
     lines = [f"[{i}] ({pool[i].get('source','')}) {pool[i].get('title','')}"
@@ -242,9 +269,17 @@ Return only the JSON."""
 def triage(articles: list[dict]):
     """Triage EVERY article (up to the cap) in small batches, so all categories
     get seen and the quotas can be enforced — not just whatever's first in the
-    feed order."""
-    pool = articles[: config.MAX_HEADLINES_TO_AI]
+    feed order. The pool is interleaved across sources BEFORE the cap so thin,
+    late-listed lanes survive the truncation."""
+    pool = _interleave_by_source(articles)[: config.MAX_HEADLINES_TO_AI]
     n = len(pool)
+
+    # Confirm the pool actually spans every lane — if a source is missing here,
+    # it produced 0 fresh items this run (check the fetcher log for HTTP 403/429).
+    src_spread = Counter(a.get("source", "") for a in pool)
+    print(f"  - triage pool: {n} headlines across {len(src_spread)} sources")
+    print(f"    {dict(src_spread.most_common())}")
+
     starts = list(range(0, n, TRIAGE_BATCH))
     out = []
     for b, start in enumerate(starts, 1):
