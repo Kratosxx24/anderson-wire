@@ -2,15 +2,16 @@
 summarizer.py — two-pass AI pipeline with code-enforced category quotas
 and a multi-provider fallback chain.
 
-Provider waterfall (tried in order, automatic fallback on any rate-limit):
+Provider waterfall (tried in order, automatic fallback on ANY failure):
   1. Groq     — llama-3.3-70b-versatile  (best quality, 100k TPD free)
   2. Cerebras — llama-3.3-70b            (CEREBRAS_API_KEY, same weights, generous free)
   3. Gemini   — gemini-1.5-flash         (GEMINI_API_KEY, 1M tokens/day free)
-  4. Groq     — llama3-70b-8192          (same key, older model, separate limit)
+  4. Groq     — openai/gpt-oss-120b      (same key, strong production model)
   5. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
 
-Any provider without a key set is skipped automatically. You only need to add
-keys for providers you've signed up for — everything else keeps working.
+The chain falls through on any provider error (rate-limit, decommissioned
+model, network blip), so one provider breaking never kills the run. Any
+provider without a key set is skipped automatically.
 
 Pass 1 (triage): AI categorizes + scores every headline (no summaries).
 Selection:       code enforces per-category minimums, fills to MAX_STORIES.
@@ -27,8 +28,10 @@ from groq import Groq
 import config
 
 CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Film", "Music", "World", "Other"]
-SUMMARY_BATCH = 10
-BATCH_SLEEP = 12   # seconds between summary batches to stay under TPM limits
+SUMMARY_BATCH = 10   # stories summarized per AI call
+TRIAGE_BATCH = 40    # headlines categorized per AI call (small enough for any model's TPM)
+BATCH_SLEEP = 12     # seconds between summary batches
+TRIAGE_SLEEP = 5     # seconds between triage batches
 
 
 # ---------------------------------------------------------------------------
@@ -128,10 +131,10 @@ def _build_provider_chain():
     if gemini_key:
         chain.append(("Gemini/gemini-1.5-flash", _gemini_call(gemini_key)))
 
-    # Tier 3 — older/smaller Groq models (last resort, same key)
+    # Tier 3 — other Groq production models (last resort, same key)
     if groq_key:
-        chain.append(("Groq/llama3-70b-8192",
-                       _groq_call("llama3-70b-8192", groq_key)))
+        chain.append(("Groq/gpt-oss-120b",
+                       _groq_call("openai/gpt-oss-120b", groq_key)))
         chain.append(("Groq/llama-3.1-8b-instant",
                        _groq_call("llama-3.1-8b-instant", groq_key)))
 
@@ -154,7 +157,10 @@ def _is_rate_limit(e: Exception) -> bool:
 
 def llm_complete(messages: list[dict], temperature: float = 0.2,
                  max_tokens: int = 4000, json_mode: bool = True) -> str:
-    """Try each provider in the chain; fall through on rate limits."""
+    """Try each provider in the chain, falling through on ANY failure — a
+    rate-limit, a decommissioned model, a network blip, a bad response. The
+    whole point of the chain is resilience, so one provider breaking should
+    never kill the run. Only raise if every provider has failed."""
     chain = _build_provider_chain()
     last_err = None
     for name, call_fn in chain:
@@ -164,14 +170,13 @@ def llm_complete(messages: list[dict], temperature: float = 0.2,
                 print(f"  ✓ using fallback provider: {name}")
             return result
         except Exception as e:
-            if _is_rate_limit(e):
-                print(f"  ! {name} rate-limited, trying next provider...")
-                last_err = e
-                continue
-            raise   # non-rate-limit errors bubble up immediately
-    raise RuntimeError(
-        f"All providers exhausted. Last error: {last_err}"
-    )
+            reason = "rate-limited" if _is_rate_limit(e) else "error"
+            # keep the message short so logs stay readable
+            short = str(e).split("\n")[0][:120]
+            print(f"  ! {name} {reason} ({short}); trying next provider...")
+            last_err = e
+            continue
+    raise RuntimeError(f"All providers failed. Last error: {last_err}")
 
 
 def _parse_json(raw: str) -> dict:
@@ -191,10 +196,11 @@ THIS specific reader. Do not write summaries. Be decisive. Return STRICT JSON \
 only — no markdown, no backticks, no commentary."""
 
 
-def triage(articles: list[dict]):
-    pool = articles[: config.MAX_HEADLINES_TO_AI]
-    lines = [f"[{i}] ({a.get('source','')}) {a.get('title','')}"
-             for i, a in enumerate(pool)]
+def _triage_chunk(pool: list[dict], start: int, end: int) -> list[dict]:
+    """Categorize + score one slice of headlines (indices start..end-1)."""
+    lines = [f"[{i}] ({pool[i].get('source','')}) {pool[i].get('title','')}"
+             for i in range(start, end)]
+    idx_list = ", ".join(str(i) for i in range(start, end))
 
     user = f"""READER PROFILE:
 {config.INTEREST_PROFILE}
@@ -202,7 +208,7 @@ def triage(articles: list[dict]):
 HEADLINES:
 {chr(10).join(lines)}
 
-Return JSON with one entry for EVERY index from 0 to {len(pool)-1}:
+Return JSON with one entry for EACH of these indices: {idx_list}
 {{"items": [{{"index": <int>, "category": "<one of: {', '.join(CATEGORIES)}>", "relevance": <1-10 integer>}}]}}
 
 Rules: category must be exactly from the list; relevance is for THIS reader.
@@ -212,7 +218,7 @@ Return only the JSON."""
         messages=[{"role": "system", "content": _TRIAGE_SYSTEM},
                   {"role": "user", "content": user}],
         temperature=0.2,
-        max_tokens=4000,
+        max_tokens=2500,
         json_mode=True,
     )
     data = _parse_json(raw)
@@ -220,7 +226,7 @@ Return only the JSON."""
     out = []
     for it in data.get("items", []):
         idx = it.get("index")
-        if not isinstance(idx, int) or not (0 <= idx < len(pool)):
+        if not isinstance(idx, int) or not (start <= idx < end):
             continue
         cat = it.get("category", "Other")
         if cat not in CATEGORIES:
@@ -230,6 +236,26 @@ Return only the JSON."""
         except (TypeError, ValueError):
             rel = 5
         out.append({"index": idx, "category": cat, "relevance": rel})
+    return out
+
+
+def triage(articles: list[dict]):
+    """Triage EVERY article (up to the cap) in small batches, so all categories
+    get seen and the quotas can be enforced — not just whatever's first in the
+    feed order."""
+    pool = articles[: config.MAX_HEADLINES_TO_AI]
+    n = len(pool)
+    starts = list(range(0, n, TRIAGE_BATCH))
+    out = []
+    for b, start in enumerate(starts, 1):
+        end = min(start + TRIAGE_BATCH, n)
+        print(f"  - triage batch {b}/{len(starts)} (headlines {start}–{end-1})")
+        try:
+            out.extend(_triage_chunk(pool, start, end))
+        except Exception as e:
+            print(f"    ! triage batch {b} failed ({e})")
+        if end < n:
+            time.sleep(TRIAGE_SLEEP)
     return pool, out
 
 
@@ -350,14 +376,24 @@ def summarize(articles: list[dict]) -> list[dict]:
         return []
 
     n = min(len(articles), config.MAX_HEADLINES_TO_AI)
-    print(f"Triaging {n} headlines (chain: Groq-70b → Cerebras-70b → "
-          f"Gemini-Flash → Groq-legacy → Groq-8b)...")
+    print(f"Triaging {n} headlines in batches of {TRIAGE_BATCH} "
+          f"(chain: Groq-70b → Cerebras-70b → Gemini-Flash → Groq-legacy → Groq-8b)...")
     pool, triaged = triage(articles)
     print(f"  - categorized {len(triaged)} headlines")
+
+    # show what was actually available per category (helps debug thin lanes)
+    avail = dict(Counter(t["category"] for t in triaged))
+    print(f"  - available by category: {avail}")
 
     selected = select_with_quotas(triaged)
     spread = dict(Counter(s["category"] for s in selected))
     print(f"Selected {len(selected)}/{config.MAX_STORIES} after quotas: {spread}")
+
+    # flag any minimum we couldn't hit (feeds didn't supply enough)
+    for cat, m in config.CATEGORY_MINIMUMS.items():
+        got = spread.get(cat, 0)
+        if got < m:
+            print(f"  ! {cat}: wanted {m}, only {got} available this run")
 
     print("Writing summaries...")
     final = write_summaries(pool, selected)
