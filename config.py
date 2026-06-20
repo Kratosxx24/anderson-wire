@@ -40,9 +40,9 @@ RSS_FEEDS = [
 
     # --- Faith / culture (Presbyterian/Reformed lean) ---
     ("The Gospel Coalition", "https://www.thegospelcoalition.org/feed/"),
-
-    # --- Film / scores ---
-    ("IndieWire", "https://www.indiewire.com/feed/"),
+    ("Challies", "https://www.challies.com/feed/"),
+    ("Tabletalk", "https://tabletalkmagazine.com/feed/"),
+    ("9Marks", "https://www.9marks.org/feed/"),
 
     # --- Music ---
     ("Pitchfork", "https://pitchfork.com/feed/feed-album-reviews/rss"),
@@ -100,7 +100,6 @@ relevance WELL WITHIN each area:
   the broader LLM/AI race (Claude, frontier models), and sharp consumer-tech
   reviews and analysis (MKBHD-style). Score thoughtful analysis high, rumor-mill
   churn lower.
-- Film: high-concept sci-fi and great film scores.
 - Music: album reviews and music criticism (Pitchfork), jazz, and film scores.
 - World Cup 2026: results, storylines, tactical breakdowns.
 - World: genuinely important news an informed person should know.
@@ -123,10 +122,9 @@ MAX_STORIES = 50
 # fill by overall relevance. Minimums should sum to <= MAX_STORIES.
 CATEGORY_MINIMUMS = {
     "NBA":     8,
-    "Faith":   3,
+    "Faith":   7,
     "Sports":  3,
     "Tech/AI": 3,
-    "Film":    2,
     "Music":   2,
     "World":   3,
     "Other":   1,

@@ -20,7 +20,7 @@ Pass 2 (write):  AI writes headline + 2-sentence summary for selected stories.
 CHANGE (this version): the triage pool is now built by ROUND-ROBIN across
 sources, not raw feed order. Previously `articles[:MAX_HEADLINES_TO_AI]` took
 the first N in feed order, which let high-volume early feeds (ESPN) crowd out
-thin, late-listed lanes (Faith/Film/Music/World) before the AI ever saw them —
+thin, late-listed lanes (Faith/Music/World) before the AI ever saw them —
 so the quota had nothing to protect. Interleaving guarantees every feed gets
 representation in the pool.
 """
@@ -34,7 +34,7 @@ from groq import Groq
 
 import config
 
-CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Film", "Music", "World", "Other"]
+CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Music", "World", "Other"]
 SUMMARY_BATCH = 10   # stories summarized per AI call
 TRIAGE_BATCH = 40    # headlines categorized per AI call (small enough for any model's TPM)
 BATCH_SLEEP = 12     # seconds between summary batches

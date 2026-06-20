@@ -5,22 +5,24 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>The Anderson Wire</title>
 <meta name="robots" content="noindex, nofollow" />
+<link rel="icon" type="image/png" sizes="512x512" href="favicon.png" />
+<link rel="apple-touch-icon" href="apple-touch-icon.png" />
 <script>try{var t=localStorage.getItem('wire-theme')||'light';document.documentElement.setAttribute('data-theme',t);}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;450;500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
 <style>
   :root {
     --bg:#faf9f4; --surface:#f2efe7; --text:#1a1a17; --muted:#6e6e66; --faint:#a0a097;
     --border:#e9e6dd; --border-hov:#d4d0c4; --accent:#bd7019; --accent-soft:#f3e6d4;
     --chip-on-txt:#fcfcfb; --skel:#ece9e1; --skel-hi:#f6f3ec; --maxw:1060px;
-    --spectrum:linear-gradient(90deg,#d2702a,#2f8f55,#3f6dc7,#7d5bc0,#c14d63,#c94f93,#2f8f8f);
+    --spectrum:linear-gradient(90deg,#d2702a,#2f8f55,#3f6dc7,#7d5bc0,#c94f93,#2f8f8f);
   }
   [data-theme="dark"] {
     --bg:#131312; --surface:#1d1d1a; --text:#ededea; --muted:#8a8a81; --faint:#5c5c54;
     --border:#272724; --border-hov:#3a3a35; --accent:#d99544; --accent-soft:#2a2218;
     --chip-on-txt:#131312; --skel:#1e1e1c; --skel-hi:#26262300;
-    --spectrum:linear-gradient(90deg,#e88a45,#5cc483,#7aa0e8,#a98fe0,#e07f92,#e589c0,#5ec0c0);
+    --spectrum:linear-gradient(90deg,#e88a45,#5cc483,#7aa0e8,#a98fe0,#e589c0,#5ec0c0);
   }
 
   body::before { content:""; position:fixed; top:0; left:0; right:0; height:3px;
@@ -30,8 +32,11 @@
   html { -webkit-text-size-adjust:100%; }
   body {
     margin:0; background:var(--bg); color:var(--text);
-    font-family:"Inter",-apple-system,system-ui,sans-serif; font-size:15px; line-height:1.5;
-    -webkit-font-smoothing:antialiased; transition:background .35s ease,color .35s ease;
+    font-family:"Inter",-apple-system,system-ui,sans-serif; font-size:15px; line-height:1.55;
+    -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale;
+    text-rendering:optimizeLegibility; font-optical-sizing:auto;
+    font-feature-settings:"cv05" 1,"cv11" 1,"ss01" 1,"calt" 1;
+    transition:background .35s ease,color .35s ease;
   }
   .wrap { max-width:var(--maxw); margin:0 auto; padding:0 28px 90px; }
 
@@ -50,12 +55,13 @@
   .theme-toggle:hover { border-color:var(--border-hov); color:var(--text); }
   .theme-toggle:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
 
-  h1.title { font-family:"Space Grotesk",sans-serif; font-weight:700;
-    font-size:clamp(30px,5vw,44px); line-height:1; letter-spacing:-.02em; margin:18px 0 10px; }
-  h1.title .the { color:var(--faint); font-weight:500; }
+  h1.title { font-family:"Fraunces","Space Grotesk",Georgia,serif; font-weight:600;
+    font-optical-sizing:auto; font-size:clamp(34px,5.4vw,50px); line-height:1.02;
+    letter-spacing:-.018em; margin:18px 0 12px; text-align:center; }
+  h1.title .the { color:var(--faint); font-weight:500; font-style:italic; }
   h1.title .glow { color:var(--accent); }
 
-  .dash { display:flex; flex-wrap:wrap; align-items:center; gap:6px 14px;
+  .dash { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:6px 14px;
     font-family:"Space Mono",monospace; font-size:11.5px; letter-spacing:.02em; color:var(--faint); }
   .dash b { color:var(--text); font-weight:700; }
   .dash .pip { color:var(--muted); }
@@ -271,7 +277,6 @@
     "Sports": {l:"#2f8f55", d:"#5cc483"},
     "Tech/AI":{l:"#3f6dc7", d:"#7aa0e8"},
     "Faith":  {l:"#7d5bc0", d:"#a98fe0"},
-    "Film":   {l:"#c14d63", d:"#e07f92"},
     "Music":  {l:"#c94f93", d:"#e589c0"},
     "World":  {l:"#2f8f8f", d:"#5ec0c0"},
     "Other":  {l:"#7a7a72", d:"#9a9a90"}
@@ -287,7 +292,7 @@
     return `rgba(${parseInt(h.substr(0,2),16)},${parseInt(h.substr(2,2),16)},${parseInt(h.substr(4,2),16)},${a})`; }
 
   /* ---------- State ---------- */
-  const CATEGORY_ORDER=["NBA","Sports","Tech/AI","Faith","Film","Music","World","Other"];
+  const CATEGORY_ORDER=["NBA","Sports","Tech/AI","Faith","Music","World","Other"];
   let allStories=[];
   let filter={type:"all",value:null};
   let sortMode="newest";
@@ -459,7 +464,7 @@
       prevSeen = (()=>{ try{return +localStorage.getItem("wire-lastseen")||0;}catch(e){return 0;} })();
       allStories=incoming;
       const w=formatWhen(data.generated_at);
-      document.getElementById("status").textContent="Last transmission · "+(w?w.rel:"just now");
+      document.getElementById("status").textContent="Last Refresh · "+(w?w.rel:"just now");
       if(!allStories.length){
         document.getElementById("dash").textContent="No stories this cycle";
         document.getElementById("feed").innerHTML=`<div class="state"><span class="big">Signal's clear</span>Nothing met the bar this cycle. That's the filter working.</div>`;
