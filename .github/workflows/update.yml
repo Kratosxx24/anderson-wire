@@ -2,11 +2,19 @@ name: Update Newswire
 
 on:
   schedule:
-    - cron: "0 * * * *"        # change to "*/30 * * * *" for every 30 min
+    # NOTE: do NOT use "0 * * * *". The top of the hour is the single most
+    # congested slot on GitHub's free runners — those jobs get delayed 10-40 min
+    # and are sometimes silently dropped. An odd minute runs far more reliably.
+    - cron: "37 * * * *"        # hourly at :37. Use "7,37 * * * *" for ~every 30 min.
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Stop a slow scheduled run and a manual run from clobbering each other.
+concurrency:
+  group: newswire-update
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -19,7 +27,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"                      # <-- caches deps across runs (~30s saved)
+          cache: "pip"                      # caches deps across runs (~30s saved)
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -39,5 +47,11 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "Update digest $(date -u +'%Y-%m-%d %H:%M UTC')"
+            # Pull first in case a manual run committed while this one was working.
+            git pull --rebase origin main || true
             git push
           fi
+
+      - name: Heartbeat
+        if: always()
+        run: echo "Newswire run finished at $(date -u +'%Y-%m-%d %H:%M:%S UTC') — status ${{ job.status }}"
