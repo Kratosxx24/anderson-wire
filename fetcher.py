@@ -2,6 +2,16 @@
 fetcher.py — pulls raw headlines from RSS feeds and (optionally) NewsAPI,
 normalizes them into a common shape, drops stale and duplicate items, and
 resolves true publication dates (in parallel) for the final selection.
+
+CHANGES (this version):
+  * Sends a real browser User-Agent on every feed request. feedparser's default
+    UA is blocked (403) by a lot of CDNs and by Reddit specifically, which is
+    why entire lanes were silently coming back empty in GitHub Actions.
+  * Logs the HTTP status for every feed, so the Action log tells you exactly
+    which feeds 403/429/200 instead of failing invisibly.
+  * Retries once with a short backoff on 403/429 (Reddit's new RSS limit is
+    ~1 request/minute — see note below).
+  * Rewrites www.reddit.com feeds to old.reddit.com, which is less aggressive.
 """
 
 import os
@@ -21,6 +31,15 @@ import config
 DATE_RESOLVE_WORKERS = 12
 # Per-page fetch timeout (seconds). Lower = a slow site can't stall the run.
 DATE_RESOLVE_TIMEOUT = 5
+
+# A browser-like User-Agent. The single most important line in this file:
+# without it, feedparser identifies as a bot and Reddit / Cloudflare / various
+# CDNs return 403 or 429, so the feed comes back with zero entries.
+BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/124.0.0.0 Safari/537.36"
+)
 
 
 def _strip_html(text: str) -> str:
@@ -47,21 +66,51 @@ def _entry_time(entry) -> datetime | None:
     return None
 
 
+def _normalize_url(url: str) -> str:
+    """old.reddit.com is far less aggressive about rate-limiting RSS than the
+    www host, so route Reddit feeds through it."""
+    return url.replace("https://www.reddit.com", "https://old.reddit.com")
+
+
+def _fetch_feed(url: str, retries: int = 1):
+    """Parse a feed with a browser UA. Retries once on 403/429 after a brief
+    backoff. Returns (parsed, http_status)."""
+    url = _normalize_url(url)
+    parsed = feedparser.parse(url, agent=BROWSER_UA)
+    status = getattr(parsed, "status", None)
+    attempt = 0
+    while status in (403, 429) and attempt < retries:
+        attempt += 1
+        # Reddit's current RSS limit is ~1 request per minute. A short wait
+        # recovers an occasional 429 without stalling the whole run; it will
+        # NOT defeat a hard per-IP block (see the note in fetch_all docs).
+        time.sleep(6)
+        parsed = feedparser.parse(url, agent=BROWSER_UA)
+        status = getattr(parsed, "status", None)
+    return parsed, status
+
+
 def fetch_rss() -> list[dict]:
     """Pull every configured RSS feed. Network errors on one feed never
-    kill the run — we just skip it and move on."""
+    kill the run — we just skip it and move on. Every feed now prints its
+    HTTP status so you can see what's actually happening."""
     cutoff = datetime.now(timezone.utc) - timedelta(hours=config.FRESHNESS_HOURS)
     articles = []
 
     for label, url in config.RSS_FEEDS:
         try:
-            parsed = feedparser.parse(url)
+            parsed, status = _fetch_feed(url)
         except Exception as e:
-            print(f"  ! {label}: failed to parse ({e})")
+            print(f"  ! {label}: failed to fetch ({e})")
+            continue
+
+        # Surface blocks loudly — this is the line that explains "only sports".
+        if status in (401, 403, 429):
+            print(f"  ! {label}: HTTP {status} — blocked/rate-limited from this IP, 0 entries")
             continue
 
         if parsed.bozo and not parsed.entries:
-            print(f"  ! {label}: no entries (feed may be down)")
+            print(f"  ! {label}: HTTP {status} — no entries (feed may be down/changed)")
             continue
 
         kept = 0
@@ -77,7 +126,7 @@ def fetch_rss() -> list[dict]:
                 "published": published.isoformat() if published else None,
             })
             kept += 1
-        print(f"  - {label}: {kept} fresh")
+        print(f"  - {label}: {kept} fresh / {len(parsed.entries)} in feed (HTTP {status})")
 
     return articles
 
@@ -148,6 +197,11 @@ def fetch_all() -> list[dict]:
     napi = fetch_newsapi()
     combined = dedupe(rss + napi)
     print(f"\nTotal fresh, de-duplicated articles: {len(combined)}")
+
+    # Quick per-source tally — makes lane collapse obvious at a glance.
+    from collections import Counter
+    by_source = Counter(a["source"] for a in combined)
+    print("By source: " + ", ".join(f"{s}:{n}" for s, n in by_source.most_common()))
     return combined
 
 
@@ -172,7 +226,7 @@ def _true_published(url: str) -> str | None:
     """Fetch an article page and read its real publication date from meta tags.
     Returns an ISO date string, or None if the page has no usable date."""
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (newswire)"})
+        req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
         with urllib.request.urlopen(req, timeout=DATE_RESOLVE_TIMEOUT) as resp:
             # The head (where meta tags live) is near the top — 250KB is plenty.
             html_text = resp.read(250_000).decode("utf-8", "ignore")
