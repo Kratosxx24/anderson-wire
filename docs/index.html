@@ -90,6 +90,24 @@
     box-shadow:0 1px 2px rgba(0,0,0,.06); }
   .sort button:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
 
+  .toolbar { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .search { position:relative; display:inline-flex; align-items:center; }
+  .search .sicon { position:absolute; left:11px; color:var(--faint); font-size:12px;
+    pointer-events:none; line-height:1; }
+  .search input { font-family:"Space Mono",monospace; font-size:11px; letter-spacing:.03em;
+    color:var(--text); background:var(--surface); border:1px solid var(--border);
+    border-radius:100px; padding:6px 12px 6px 27px; width:148px;
+    transition:border-color .15s,width .2s,background .15s; }
+  .search input::placeholder { color:var(--faint); }
+  .search input:focus { outline:none; border-color:var(--accent); width:188px; background:var(--bg); }
+  .search input::-webkit-search-cancel-button { -webkit-appearance:none; }
+  .utoggle { font-family:"Space Mono",monospace; font-size:10.5px; letter-spacing:.07em;
+    text-transform:uppercase; color:var(--muted); background:transparent; border:1px solid var(--border);
+    border-radius:100px; padding:6px 12px; cursor:pointer; transition:border-color .15s,color .15s,background .15s; }
+  .utoggle:hover { border-color:var(--border-hov); color:var(--text); }
+  .utoggle[aria-pressed="true"] { color:var(--chip-on-txt); background:var(--accent); border-color:var(--accent); }
+  .utoggle:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+
   /* Layout */
   .layout { display:grid; grid-template-columns:1fr 234px; gap:46px; margin-top:18px; }
 
@@ -227,9 +245,16 @@
 
     <div class="controls">
       <nav class="channels" id="channels" aria-label="Filter by category"></nav>
-      <div class="sort" role="group" aria-label="Sort order">
-        <button id="sortNewest" type="button" aria-pressed="true">Newest</button>
-        <button id="sortTop" type="button" aria-pressed="false">Top picks</button>
+      <div class="toolbar">
+        <label class="search">
+          <span class="sicon" aria-hidden="true">⌕</span>
+          <input id="search" type="search" placeholder="Search  /" aria-label="Search stories" autocomplete="off" spellcheck="false" />
+        </label>
+        <button class="utoggle" id="unreadToggle" type="button" aria-pressed="false">Unread</button>
+        <div class="sort" role="group" aria-label="Sort order">
+          <button id="sortNewest" type="button" aria-pressed="true">Newest</button>
+          <button id="sortTop" type="button" aria-pressed="false">Top picks</button>
+        </div>
       </div>
     </div>
 
@@ -250,7 +275,7 @@
         </div>
         <div class="side-block">
           <p class="side-title">Keys</p>
-          <div class="hint"><kbd>J</kbd>/<kbd>K</kbd> move · <kbd>O</kbd> open · <kbd>R</kbd> theme</div>
+          <div class="hint"><kbd>J</kbd>/<kbd>K</kbd> move · <kbd>O</kbd> open · <kbd>/</kbd> search · <kbd>R</kbd> theme</div>
         </div>
       </aside>
     </div>
@@ -296,12 +321,24 @@
   let allStories=[];
   let filter={type:"all",value:null};
   let sortMode="newest";
+  let searchQuery="";
+  let unreadOnly=false;
   let prevSeen=0;
   let readSet=new Set();
   let firstRender=true;
   let kIndex=-1;
   try{ readSet=new Set(JSON.parse(localStorage.getItem("wire-read")||"[]")); }catch(e){}
   function saveRead(){ try{localStorage.setItem("wire-read",JSON.stringify([...readSet]));}catch(e){} }
+
+  /* ---------- View state (sort/filter/unread) persistence ---------- */
+  const VIEW_KEY="wire-view";
+  function saveView(){ try{localStorage.setItem(VIEW_KEY,JSON.stringify({sortMode,filter,unreadOnly}));}catch(e){} }
+  function loadView(){ try{ const v=JSON.parse(localStorage.getItem(VIEW_KEY)||"{}");
+    if(v.sortMode==="top"||v.sortMode==="newest") sortMode=v.sortMode;
+    if(v.filter&&v.filter.type) filter=v.filter;
+    if(typeof v.unreadOnly==="boolean") unreadOnly=v.unreadOnly;
+  }catch(e){} }
+  loadView();
 
   /* ---------- Helpers ---------- */
   function formatWhen(iso){ if(!iso)return null; const d=new Date(iso); if(isNaN(d.getTime()))return null;
@@ -322,10 +359,14 @@
     let list = allStories.slice();
     if(filter.type==="category") list=list.filter(s=>(s.category||"Other")===filter.value);
     if(filter.type==="source")   list=list.filter(s=>(s.source||"")===filter.value);
+    if(unreadOnly)               list=list.filter(s=>!(s.url&&readSet.has(s.url)));
+    if(searchQuery){ const q=searchQuery.toLowerCase();
+      list=list.filter(s=>(`${s.headline||""} ${s.summary||""} ${s.source||""} ${s.category||""}`).toLowerCase().includes(q)); }
     if(sortMode==="top") list.sort((a,b)=>(Number(b.relevance)||0)-(Number(a.relevance)||0) || pubTs(b)-pubTs(a));
     else                 list.sort((a,b)=>pubTs(b)-pubTs(a));
     return list;
   }
+  function anyFilterActive(){ return filter.type!=="all" || unreadOnly || !!searchQuery; }
 
   function cardHTML(s, idx){
     const url=esc(s.url);
@@ -361,9 +402,12 @@
     if(animate!==undefined) firstRender=animate;
     const feed=document.getElementById("feed");
     const list=visible();
-    document.getElementById("clearFilter").classList.toggle("show", filter.type!=="all");
+    document.getElementById("clearFilter").classList.toggle("show", anyFilterActive());
     if(!list.length){
-      feed.innerHTML=`<div class="state"><span class="big">Quiet here</span>Nothing matches this filter right now. Try another channel or clear it.</div>`;
+      const reason = searchQuery ? `No stories match “${esc(searchQuery)}”.`
+        : unreadOnly ? "You're all caught up — nothing unread here."
+        : "Nothing matches this filter right now.";
+      feed.innerHTML=`<div class="state"><span class="big">Quiet here</span>${reason} Try another channel or clear filters.</div>`;
       kIndex=-1; firstRender=false; return;
     }
     let html=""; let lastBucket=null;
@@ -394,7 +438,7 @@
     }).join("");
     nav.querySelectorAll(".chan").forEach(btn=>btn.addEventListener("click",()=>{
       filter=btn.dataset.ch==="All"?{type:"all",value:null}:{type:"category",value:btn.dataset.ch};
-      refreshUI(true);
+      saveView(); refreshUI(true);
     }));
   }
   function buildSources(){
@@ -412,7 +456,7 @@
     box.querySelectorAll(".src-item").forEach(btn=>btn.addEventListener("click",()=>{
       const name=btn.dataset.src;
       filter=(filter.type==="source"&&filter.value===name)?{type:"all",value:null}:{type:"source",value:name};
-      refreshUI(true);
+      saveView(); refreshUI(true);
     }));
   }
   function updateDash(genIso){
@@ -426,19 +470,42 @@
   }
   function refreshUI(animate){ buildChannels(); buildSources(); render(!!animate); }
 
-  document.getElementById("clearFilter").addEventListener("click",()=>{ filter={type:"all",value:null}; refreshUI(false); });
+  const searchEl=document.getElementById("search");
+  const unreadBtn=document.getElementById("unreadToggle");
+
+  function clearAllFilters(){
+    filter={type:"all",value:null}; unreadOnly=false; searchQuery=""; searchEl.value="";
+    unreadBtn.setAttribute("aria-pressed","false"); saveView(); refreshUI(false);
+  }
+  document.getElementById("clearFilter").addEventListener("click",clearAllFilters);
   document.getElementById("sortNewest").addEventListener("click",()=>setSort("newest"));
   document.getElementById("sortTop").addEventListener("click",()=>setSort("top"));
   function setSort(m){ sortMode=m;
     document.getElementById("sortNewest").setAttribute("aria-pressed",m==="newest");
     document.getElementById("sortTop").setAttribute("aria-pressed",m==="top");
-    render(false); }
+    saveView(); render(false); }
+
+  let searchTimer=null;
+  searchEl.addEventListener("input",()=>{ clearTimeout(searchTimer);
+    searchTimer=setTimeout(()=>{ searchQuery=searchEl.value.trim(); render(false); },110); });
+  searchEl.addEventListener("keydown",e=>{ if(e.key==="Escape"){ searchEl.value=""; searchQuery=""; searchEl.blur(); render(false); } });
+
+  unreadBtn.addEventListener("click",()=>{ unreadOnly=!unreadOnly;
+    unreadBtn.setAttribute("aria-pressed",unreadOnly); saveView(); render(true); });
+
+  function syncControls(){
+    document.getElementById("sortNewest").setAttribute("aria-pressed",sortMode==="newest");
+    document.getElementById("sortTop").setAttribute("aria-pressed",sortMode==="top");
+    unreadBtn.setAttribute("aria-pressed",unreadOnly);
+  }
+  syncControls();
 
   /* ---------- Keyboard nav ---------- */
   document.addEventListener("keydown",e=>{
     if(e.metaKey||e.ctrlKey||e.altKey) return;
     const tag=(e.target.tagName||"").toLowerCase();
     if(tag==="input"||tag==="textarea") return;
+    if(e.key==="/"){ e.preventDefault(); searchEl.focus(); searchEl.select(); return; }
     const cards=[...document.querySelectorAll("article.story")];
     if(e.key==="j"||e.key==="k"){
       if(!cards.length) return; e.preventDefault();
@@ -463,6 +530,11 @@
       // capture "new since last visit" only after we know there was a prior visit
       prevSeen = (()=>{ try{return +localStorage.getItem("wire-lastseen")||0;}catch(e){return 0;} })();
       allStories=incoming;
+      // drop a restored filter that no longer matches anything in this cycle
+      if(filter.type!=="all" && !allStories.some(s=> filter.type==="category"
+          ? (s.category||"Other")===filter.value : (s.source||"")===filter.value)){
+        filter={type:"all",value:null}; saveView();
+      }
       const w=formatWhen(data.generated_at);
       document.getElementById("status").textContent="Last Refresh · "+(w?w.rel:"just now");
       if(!allStories.length){
