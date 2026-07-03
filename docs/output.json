@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-07-03T08:40:56.786870+00:00",
+  "generated_at": "2026-07-03T16:02:26.061650+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Guard Your Soul Amid the Noise of a Post‑Truth Age",
-      "summary": "Brett McCracken argues that constant streams of data erode spiritual discernment, urging believers to cultivate habits that protect inner life. He offers practical steps for focusing on timeless truths rather than fleeting headlines.",
+      "headline": "Celtics Lock Up Queta with $56 Million Extension",
+      "summary": "The Boston Celtics have secured a key piece of their roster with a new four-year, $56 million extension for 7-footer Neemias Queta. Queta has become a crucial contributor to the team, averaging 10.2 points, 8.4 rebounds, and 1.3 blocks per game.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1umed47/charania_boston_celtics_7footer_neemias_queta/",
+      "source": "r/NBA",
+      "published": "2026-07-03T13:22:31+00:00"
+    },
+    {
+      "headline": "Warriors Not Top Contenders for LeBron's Services",
+      "summary": "Despite initial hopes, the Golden State Warriors are not the top team on LeBron James' list of potential destinations. The Warriors' chances of landing James hinge on their ability to also sign Anthony Davis, as part of a package deal.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1umfq1s/charania_warriors_are_not_the_top_team_on_lebrons/",
+      "source": "r/NBA",
+      "published": "2026-07-03T14:18:20+00:00"
+    },
+    {
+      "headline": "Prioritizing Spiritual Growth in a Post-Truth World",
+      "summary": "In a world where information is abundant and often misleading, it's essential to focus on spiritual growth and wisdom. By doing so, individuals can cultivate a deeper understanding of themselves and the world around them, despite the challenges posed by a post-truth society.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/prioritize-soul-post-truth-world-classic/",
@@ -12,8 +30,8 @@
       "published": "2026-07-03T04:04:00+00:00"
     },
     {
-      "headline": "Loving Nation While Living as Heaven’s Citizens",
-      "summary": "The article calls Christians to view themselves as strangers on earth, holding loyalty to both their country and the kingdom of God. It encourages a balanced patriotism that never compromises biblical identity.",
+      "headline": "Loving One's Country as a Dual Citizen",
+      "summary": "As Christians, individuals are called to love their country while also recognizing their status as dual citizens, with allegiance to both their earthly nation and their heavenly kingdom. This dual citizenship should shape their perspective on patriotism and national loyalty.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/article/blessed-nation-god-peoples-good/",
@@ -21,35 +39,44 @@
       "published": "2026-07-03T04:00:00+00:00"
     },
     {
-      "headline": "crustc Rewrites the Rust Compiler in C",
-      "summary": "A developer has ported the entire Rust compiler, rustc, into C code, making the toolchain more accessible to non‑Rust environments. The project showcases the feasibility of cross‑language compiler recreation and invites community testing.",
+      "headline": "Running State-of-the-Art Language Models Locally",
+      "summary": "A new guide provides instructions on how to run state-of-the-art language models locally, allowing developers to harness the power of these models without relying on cloud services. The guide offers a step-by-step approach to setting up and running local language models.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://github.com/FractalFir/crustc",
+      "url": "https://github.com/jamesob/local-llm",
       "source": "Hacker News",
-      "published": "2026-07-02T22:57:35+00:00"
+      "published": "2026-07-03T15:03:43+00:00"
     },
     {
-      "headline": "Hackers Exploit Meta AI to Hijack Instagram Accounts",
-      "summary": "Researchers on Telegram shared step‑by‑step videos showing how they prompted Meta’s AI to grant access, allowing them to commandeer user accounts with minimal effort. The breach highlights unexpected security gaps in AI‑driven permission systems.",
+      "headline": "Unpacking the Layers of Persistent Memory in AI Agents",
+      "summary": "A new analysis explores the three layers of persistent memory in AI agents, comparing different approaches such as ContextNest, Mem0, and Zep. The study provides insights into the strengths and weaknesses of each approach, shedding light on the complexities of persistent memory in AI systems.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.404media.co/hackers-simply-asked-meta-ai-to-give-them-access-to-high-profile-instagram-accounts-it-worked/",
-      "source": "Daring Fireball",
-      "published": "2026-06-01T17:03:36.000Z"
-    },
-    {
-      "headline": "‘Short‑Leash’ AI Technique Beats Fable Game",
-      "summary": "A new approach limits AI’s autonomy while guiding it through puzzle‑solving, enabling it to outperform human players in the game Fable. The method demonstrates how constrained prompting can boost AI performance on specific tasks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "url": "https://promptowl.ai/resources/persistent-memory-ai-agents/",
       "source": "Hacker News",
-      "published": "2026-07-02T19:11:57+00:00"
+      "published": "2026-06-30T00:00:00.000Z"
     },
     {
-      "headline": "Russia Launches Its Heaviest Strike on Kyiv, 30 Dead",
-      "summary": "Ukrainian officials report that the latest barrage used an unprecedented number of weapons, hitting multiple districts across the capital. The assault marks the deadliest single attack since the war began, raising fears of escalation.",
+      "headline": "PostgreSQL and the Importance of Memory Management",
+      "summary": "A recent blog post highlights the importance of strict memory overcommit in PostgreSQL, citing the risks of the OOM killer and the need for careful memory management. By adopting a strict memory overcommit approach, developers can help prevent crashes and ensure the stability of their PostgreSQL databases.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+      "source": "Hacker News",
+      "published": "2026-07-03T13:00:31+00:00"
+    },
+    {
+      "headline": "Heat Wave Threatens July 4th Celebrations, Russia Strikes Ukraine",
+      "summary": "A severe heat wave is threatening to disrupt July 4th celebrations across the United States, while Russia has launched a series of retaliatory attacks on Ukraine's capital, resulting in multiple casualties. The heat wave and ongoing conflict in Ukraine are both causing significant concerns for public safety and international stability.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
+      "source": "NPR News",
+      "published": "2026-07-03T07:39:07-04:00"
+    },
+    {
+      "headline": "Russia Launches Devastating Attack on Kyiv, Killing Dozens",
+      "summary": "Russia has unleashed its most massive attack on Kyiv to date, deploying a large number of weapons and striking a wide area of the city, resulting in at least 30 deaths. The attack is part of a broader escalation of violence in the region, with Russia seeking to assert its military presence in Ukraine.",
       "category": "World",
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
@@ -57,53 +84,35 @@
       "published": "2026-07-02T01:55:18.523Z"
     },
     {
-      "headline": "Claude‑Real‑Video Lets LLMs Process Full‑Motion Clips",
-      "summary": "An open‑source project equips the Claude language model with the ability to ingest and analyze video content frame‑by‑frame. This breakthrough expands LLM applications into visual domains such as surveillance and media summarization.",
+      "headline": "Introducing Program-as-Weights, a New Programming Paradigm",
+      "summary": "Researchers have introduced a novel programming paradigm called Program-as-Weights, which enables the creation of fuzzy functions with a unique approach to programming. This new paradigm has the potential to revolutionize the field of programming, allowing for more flexible and adaptive code.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "url": "https://arxiv.org/abs/2607.02512",
       "source": "Hacker News",
-      "published": "2026-07-02T19:10:12+00:00"
+      "published": "2026-07-03T12:46:30+00:00"
     },
     {
-      "headline": "Jeff Teague Fires Back at Stephen A. on Racial Double Standards in Sports",
-      "summary": "After Smith questioned the Lakers’ chances with three white players, Teague retorted by pointing out the absurdity of similar critiques aimed at Black athletes in other sports. The exchange sparked a broader debate on race and performance narratives in professional leagues.",
+      "headline": "Lebron's Future Plans Revealed by Rich Paul",
+      "summary": "Rich Paul has outlined Lebron's options on his podcast, giving insight into the NBA star's potential future plans. The podcast discussion has sparked interest among fans and analysts alike, who are eager to see what Lebron's next move will be.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1um30ha/in_response_to_stephen_a_smith_questioning_how/",
+      "url": "https://old.reddit.com/r/nba/comments/1umaebs/rich_paul_just_plainly_laid_out_lebrons_options/",
       "source": "r/NBA",
-      "published": "2026-07-03T03:22:21+00:00"
+      "published": "2026-07-03T10:09:02+00:00"
     },
     {
-      "headline": "Kyle Lowry Announces Retirement with the Toronto Raptors",
-      "summary": "After a 20‑year NBA career and nine seasons in Toronto, Lowry confirms he will hang up his jersey as a Raptor, fulfilling a long‑standing promise. The veteran point guard is celebrated for his gritty leadership during the franchise’s most successful era.",
+      "headline": "Trailblazers Pass on Jaylen Brown Due to Analytics",
+      "summary": "The Portland Trailblazers reportedly had no interest in acquiring Jaylen Brown, despite widespread speculation about a potential trade. The team's analytics department viewed Brown as a negative player, which ultimately led to their decision to pass on him.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1ultfgq/michael_grange_kyle_lowry_will_be_retiring_as_a/",
+      "url": "https://old.reddit.com/r/nba/comments/1umho72/amick_despite_widely_reported_to_have_interest/",
       "source": "r/NBA",
-      "published": "2026-07-02T20:22:17+00:00"
-    },
-    {
-      "headline": "Billy Donovan Joins Spurs as Lead Assistant Under New Head Coach",
-      "summary": "Former head coach Donovan accepts a senior assistant role with San Antonio, supporting incoming coach Mitch Johnson. The move signals a strategic shift for the defending Western Conference champion as they reshape their coaching staff.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1ulxb2m/charania_billy_donovan_has_agreed_to_become_the/",
-      "source": "r/NBA",
-      "published": "2026-07-02T22:54:48+00:00"
-    },
-    {
-      "headline": "Rui Hachimura's Future in NBA Remains Uncertain",
-      "summary": "Lakers free agent forward Rui Hachimura is still unsigned as the league enters its third day of free agency, with the player reportedly in contact with Minnesota and Golden State. Hachimura is said to be the Timberwolves' top choice at his position, following initial interest from San Antonio before they signed Tobias Harris.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1um5098/stein_sources_say_hachimura_was_very_much_in_play/",
-      "source": "r/NBA",
-      "published": "2026-07-03T05:02:42+00:00"
+      "published": "2026-07-03T15:34:29+00:00"
     },
     {
       "headline": "Agricultural Imagery in the Bible",
-      "summary": "The Bible uses vivid agricultural images to describe God's relationship with his people, including comparisons to a fruitful tree and a vineyard that yields wild grapes. These images convey the idea of God's people being nurtured and expected to produce spiritual fruit.",
+      "summary": "The Bible uses vivid agricultural images to describe God's relationship with his people, including comparisons to vineyards and fruitful trees. These metaphors are used to convey important spiritual lessons and themes, and are still studied and interpreted by scholars today.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://tabletalkmagazine.com/posts/why-does-paul-call-the-church-gods-field/",
@@ -111,44 +120,26 @@
       "published": "2026-07-03T04:00:00+00:00"
     },
     {
-      "headline": "Assessing Readiness for Baptism",
-      "summary": "Churches must carefully consider whether a young person is ready for baptism, ensuring they understand the commitment and responsibilities involved. This process involves clarifying questions and considerations to determine the individual's spiritual maturity and readiness.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.9marks.org/article/is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches/?utm_source=rss&utm_medium=rss&utm_campaign=is-this-young-person-ready-to-be-baptized-clarifying-questions-and-considerations-for-churches",
-      "source": "9Marks",
-      "published": "2026-07-02T14:20:38+00:00"
-    },
-    {
-      "headline": "The Society of St. Pius X: A Schismatic Group",
-      "summary": "The Society of St. Pius X was excommunicated by Pope Leo due to its ordination of bishops without permission, reflecting deeper issues with the church. The group's schismatic status stems from its disagreements with the church's teachings and practices.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/02/g-s1-131791/what-to-know-about-the-society-of-st-pius-x-the-schismatic-group-excommunicated-by-the-pope",
-      "source": "NPR News",
-      "published": "2026-07-02T14:26:43-04:00"
-    },
-    {
-      "headline": "Uneasy Calm Returns to the Strait of Hormuz",
-      "summary": "The BBC has visited the Iranian side of the Strait of Hormuz, finding a mix of seized ships and shark fishermen as an uneasy calm settles in the region. The visit provides a rare glimpse into the situation on the ground, where international tensions remain high.",
+      "headline": "Monaco Bomb Attack Suspect Sought by Police",
+      "summary": "A suspect is being hunted by police in connection with a recent bomb attack in Monaco, with officials believing the individual may have had accomplices. The suspect, who was reportedly disguised as a man, is thought to have spent several days casing the area before carrying out the attack.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-02T23:15:22.208Z"
+      "published": "2026-07-03T00:21:45.754Z"
     },
     {
-      "headline": "Instagram Ads Promote Child Abuse Material",
-      "summary": "An investigation by the BBC has found that Instagram is running ads that promote child sexual abuse material in India, using terms like 'rape' and 'child video' to link to content on Telegram. The discovery raises serious concerns about the platform's ability to regulate its advertising content.",
-      "category": "World",
+      "headline": "Markets and Computational Complexity",
+      "summary": "A new study has explored the relationship between market competitiveness and computational complexity, with surprising results. The research suggests that markets are competitive if and only if a certain fundamental problem in computer science can be solved efficiently.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-03T03:50:18.555Z"
+      "url": "https://arxiv.org/abs/2602.20415",
+      "source": "Hacker News",
+      "published": "2026-07-03T15:41:44+00:00"
     },
     {
-      "headline": "Introducing llm-coding-agent 0.1a0",
-      "summary": "A new Python library called llm-coding-agent has been released, built on an agent framework that evolved from an LLM library. The library is an experiment in creating a simple coding agent, marking another step in the development of AI-powered coding tools.",
+      "headline": "New Coding Agent Released",
+      "summary": "A new coding agent, built on a library framework, has been released as part of an experiment in artificial intelligence. The agent is designed to simplify and streamline coding tasks, and is the latest development in a series of innovative projects.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
@@ -156,8 +147,17 @@
       "published": "2026-07-02T19:33:12+00:00"
     },
     {
-      "headline": "Evaluating Datasette Agent's SQL System Prompts",
-      "summary": "Research is underway to evaluate and improve the SQL system prompts used by Datasette Agent, using a tool called DSPy to assess and refine the prompts. The goal is to enhance the performance and effectiveness of the agent's SQL system.",
+      "headline": "France Records Excess Deaths During Heatwave",
+      "summary": "France has reported a significant number of excess deaths during a recent heatwave, with the country struggling to cope with the extreme weather. Forecasters are warning of further high temperatures in the coming days, raising concerns about the potential for more heat-related deaths.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T10:08:35.964Z"
+    },
+    {
+      "headline": "Improving SQL Prompts with DSPy",
+      "summary": "A new research project is using a tool called DSPy to evaluate and improve the SQL system prompts used by a datasette agent. The goal of the project is to develop more effective and efficient prompts that can help the agent to better understand and respond to user queries.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://simonwillison.net/2026/Jul/2/dspy-datasette-agent-prompts/#atom-everything",
@@ -165,161 +165,161 @@
       "published": "2026-07-02T18:25:00+00:00"
     },
     {
-      "headline": "Manticore Rebuilds ONNX Path for Faster Embeddings",
-      "summary": "Manticore has rebuilt its ONNX path, resulting in a significant speedup of 14 times for embeddings. The improvement is expected to enhance the performance of AI models that rely on embeddings, making them more efficient and effective.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
-      "source": "Hacker News",
-      "published": "2026-06-25T00:00:00.00Z"
-    },
-    {
-      "headline": "The Future of Artificial Intelligence",
-      "summary": "A recent article suggests that AI is 'not smart' and explores what's next in the field of artificial intelligence. As AI continues to evolve, researchers and experts are reevaluating its capabilities and limitations, seeking to develop more advanced and sophisticated AI systems.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.bbc.com/news/articles/cj6gr0xkyr3o",
-      "source": "Hacker News",
-      "published": "2026-07-02T23:02:09.864Z"
-    },
-    {
-      "headline": "US Faces Growing Privacy Concerns",
-      "summary": "The US is experiencing a growing privacy emergency, with recent developments including the Census Bureau's ban on noise infusion in statistical products. This issue has sparked intense debate and discussion, with many calling for greater protections for individual privacy.",
+      "headline": "Fertilizer Shortage May Impact US Food Prices",
+      "summary": "A shortage of fertilizer caused by the Iran war may have an impact on US food prices, although the effects are likely to be limited. The disruption to fertilizer shipments has already had significant consequences for the global agricultural industry, and is being closely monitored by economists and policymakers.",
       "category": "World",
       "relevance": 8,
-      "url": "https://scottaaronson.blog/?p=9902",
-      "source": "Hacker News",
-      "published": "2026-07-02T20:26:38+00:00"
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
+      "source": "NPR News",
+      "published": "2026-07-03T05:00:00-04:00"
     },
     {
-      "headline": "American Dream Fades for Many",
-      "summary": "Faith in the American Dream, a concept that has endured for over 250 years, is beginning to wane as many struggle to achieve the ideal. Despite its persistence, the dream of upward mobility and success is becoming increasingly elusive for many Americans.",
+      "headline": "Empowering Smart People with Better Tools",
+      "summary": "A new article is arguing that smart people need to be given the right tools in order to do their best work and achieve their full potential. By providing access to the latest technology and resources, individuals and organizations can unlock new levels of productivity and innovation.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://superuserdone.com/posts/2026-07-03-give-smart-people-the-tools/",
+      "source": "Hacker News",
+      "published": "2026-07-03T00:00:00+00:00"
+    },
+    {
+      "headline": "TaskPeace Unveils AI-Powered Task Queue",
+      "summary": "TaskPeace is a new task queue designed for AI coding agents, allowing them to pull work over a communication protocol. This innovative platform streamlines task management and enables more efficient collaboration between humans and AI agents.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://taskpeace.com/",
+      "source": "Hacker News",
+      "published": "2026-05-25"
+    },
+    {
+      "headline": "US Troops Withdraw from Nigeria After Successful Mission",
+      "summary": "The US has withdrawn its troops from Nigeria following a successful joint operation against the Islamic State that began in December last year. The mission's success marks a significant milestone in the global fight against terrorism and extremism.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cx2vpz2qee5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-02T23:14:29.946Z"
+      "published": "2026-07-03T14:00:50.056Z"
     },
     {
-      "headline": "US Government Restricts AI Model Access",
-      "summary": "The US government has imposed export controls on Anthropic's newest AI models, Claude Fable 5 and Claude Mythos 5, limiting access to foreign nationals. This sudden restriction has significant implications for the development and deployment of AI technology.",
+      "headline": "Valve Open-Sources Steam Machine E-Ink Screen",
+      "summary": "Valve has made the Steam Machine e-ink screen open-source, allowing developers and enthusiasts to create their own custom versions. This move is expected to spark innovation and creativity in the gaming community, as users can now modify and improve the screen to suit their needs.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "source": "Daring Fireball",
-      "published": "2026-07-02T18:29:01+00:00"
-    },
-    {
-      "headline": "Virginia Cracks Down on Geolocation Data Sales",
-      "summary": "Virginia has become the latest state to ban the sale of geolocation data, marking a significant step towards protecting individual privacy. This move is expected to have far-reaching consequences for companies that collect and sell location data.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
       "source": "Hacker News",
-      "published": "2026-07-02T21:03:45+00:00"
+      "published": "2026-07-03T07:38:31Z"
     },
     {
-      "headline": "LMDB Database Manager Released",
-      "summary": "The Lightning Memory-Mapped Database Manager, or LMDB, has reached version 1.0, offering a highly efficient and scalable database solution. This release is expected to have a significant impact on the development of data-intensive applications.",
-      "category": "Tech/AI",
+      "headline": "Overcrowded Bus Plunges into Ravine in Pakistan, Killing 32",
+      "summary": "A devastating bus accident in Pakistan's Dana Sar mountain range has resulted in the deaths of at least 32 people, with many more injured. The bus was traveling from Quetta to Peshawar when it crashed, highlighting the need for improved road safety and regulations in the region.",
+      "category": "World",
       "relevance": 8,
-      "url": "http://www.lmdb.tech/doc/",
-      "source": "Hacker News",
-      "published": "2026-07-02T20:01:20+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/czrxezg60x1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T09:34:16.829Z"
     },
     {
-      "headline": "EFF Urges FTC to Reject X Consent Order",
-      "summary": "The Electronic Frontier Foundation has submitted a letter to the FTC, arguing that a proposed consent order for X should be rejected due to concerns over user privacy. The EFF is advocating for stronger protections for users and greater transparency in the handling of personal data.",
-      "category": "Tech/AI",
+      "headline": "Bomb Blast at Damascus Cafe Kills Nine",
+      "summary": "A bomb explosion at a cafe in Damascus has killed nine people, according to Syrian state media, with no immediate claim of responsibility. The blast occurred near a major government building, raising concerns about the ongoing security situation in the region.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://www.eff.org/deeplinks/2026/06/eff-and-allies-xs-ftc-petition-waive-privacy-violation-order-should-be-rejected",
-      "source": "Hacker News",
-      "published": "2026-07-02T08:04:54-07:00"
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-02T17:56:18.363Z"
     },
     {
-      "headline": "LeBron James Weighs Options for Final Season",
-      "summary": "NBA star LeBron James is considering his options for his final season, with a potential documentary series offering a lucrative opportunity to offset a lower contract salary. James is reportedly considering a return to either the Cavaliers or the Heat, with both teams offering compelling storylines for a documentary series.",
+      "headline": "Ebola Treatments Trial Begins in DR Congo",
+      "summary": "A new trial for Ebola treatments has commenced in the Democratic Republic of Congo, where the disease has claimed hundreds of lives. The trial aims to find effective treatments for the deadly virus, which has infected over 1,400 people in the country.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-02T21:21:36.405Z"
+    },
+    {
+      "headline": "Killers of British Couple in South Africa Sentenced to Life",
+      "summary": "The perpetrators of a brutal murder of a British couple in South Africa have been sentenced to life imprisonment, bringing some closure to the victims' families. The couple was found dead in a river after being reported missing while collecting rare plants and seeds.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-02T18:43:07.901Z"
+    },
+    {
+      "headline": "Bill Simmons Speculates on LeBron's Free Agency",
+      "summary": "Sports analyst Bill Simmons has proposed an intriguing scenario where LeBron James might not sign with any team, instead choosing to take his time and keep the league guessing. This move would allow James to maintain his leverage and keep the spotlight on himself, even if it means delaying his decision for several months.",
       "category": "NBA",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1um5a68/stein_it_has_been_long_assumed_that_james_is/",
+      "url": "https://old.reddit.com/r/nba/comments/1umblqp/bill_simmons_on_lebrons_free_agency_i_havent_seen/",
       "source": "r/NBA",
-      "published": "2026-07-03T05:16:50+00:00"
+      "published": "2026-07-03T11:13:19+00:00"
     },
     {
-      "headline": "Kuzma Responds to Anthony Davis' Criticism",
-      "summary": "Los Angeles Lakers player Kyle Kuzma has responded to criticism from teammate Anthony Davis, who had expressed frustration over the team's inability to acquire a center. Kuzma pointed out that the team's salary cap constraints, due to the high salaries of himself and Davis, make it difficult to sign a quality center.",
+      "headline": "Jaylen Brown Shares Thoughts on Recent Trade",
+      "summary": "Jaylen Brown has spoken out about the recent trade, expressing some reservations about how the conversations were facilitated by his team's management. While Brown acknowledges that there may be more to the story, he seems to be taking a nuanced view of the situation and its potential implications.",
       "category": "NBA",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1ulvuw5/kuzma_responds_to_anthony_davis_criticizing/",
+      "url": "https://old.reddit.com/r/nba/comments/1ulzfak/jaylen_brown_on_the_trade_brad_is_getting_a_lot/",
       "source": "r/NBA",
-      "published": "2026-07-02T21:56:00+00:00"
+      "published": "2026-07-03T00:30:03+00:00"
     },
     {
-      "headline": "Madonna Returns with Vital New Album",
-      "summary": "Madonna has released a new dance album, CONFESSIONS II, which marks a triumphant return to form for the legendary artist. The album has been praised for its fresh and honest sound, and is being hailed as one of Madonna's best works in over 20 years.",
-      "category": "Music",
+      "headline": "Challies Shares Favorite Books of 2026 So Far",
+      "summary": "Challies has released a list of his favorite books from 2026, covering a range of genres including Christian titles, church history, memoir, and general market nonfiction. The list provides a unique glimpse into Challies' reading preferences and offers recommendations for readers looking to explore new authors and topics.",
+      "category": "Faith",
       "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/madonna-confessions-ii/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:03:00+00:00"
-    },
-    {
-      "headline": "New Artist Emerges in Georgia Rap Scene",
-      "summary": "A model-turned-rapper has released a remarkably polished debut, earning cosigns from notable artists such as Carti and Tezzus. This new talent is being hailed as a key figure in the next generation of Georgia rap, with a bright future ahead in the music industry.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/pz-no-turning-back/",
-      "source": "Pitchfork",
+      "url": "https://www.challies.com/articles/my-favorite-books-of-2026-so-far/",
+      "source": "Challies",
       "published": "2026-07-03T04:02:00+00:00"
     },
     {
-      "headline": "Switzerland Leaves US in the Dust with 25Gbit Internet",
-      "summary": "The US lags behind Switzerland in internet speeds, with the European country boasting an impressive 25Gbit internet connection. This disparity raises questions about the state of internet infrastructure in America and what can be done to bridge the gap.",
+      "headline": "Safari Introduces MCP Server for Faster Web Development",
+      "summary": "Apple has introduced the Safari MCP server, a new tool designed to streamline web development and debugging workflows. This server is now available in Safari Technology Preview 247, offering web developers a more efficient way to work.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-      "source": "Hacker News",
-      "published": "2026-04-03T10:30:16+02:00"
+      "url": "https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/",
+      "source": "Daring Fireball",
+      "published": "2026-07-01T14:28:16-07:00"
     },
     {
-      "headline": "Miracle Rescue in Venezuela as Quake Survivor Found Alive",
-      "summary": "A devastating earthquake in Venezuela has seen a remarkable rescue effort, with a survivor being pulled out alive after eight days trapped under a collapsed car park. The rescue of Hernán Gil is a beacon of hope in a disaster that has caused widespread destruction and loss of life.",
+      "headline": "Germany Debates Requiring Sick Notes from Day One of Illness",
+      "summary": "A proposed policy in Germany would require workers to obtain a doctor's note on their first day of illness, sparking criticism from medical professionals. The policy has been met with resistance, with some arguing it is impractical and unnecessary.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-02T11:31:19.019Z"
+      "published": "2026-07-03T14:56:30.648Z"
     },
     {
-      "headline": "French Twins Find Solace in Rhythm on New Album",
-      "summary": "The daughters of Cuban conguero Miguel 'Angá' Diaz have released their fourth album, using music as a means of finding freedom and solace in a chaotic world. The album is a testament to the power of rhythm and the twins' ability to find comfort in the beat.",
-      "category": "Music",
+      "headline": "5G vs LTE: Battery Life Comparison",
+      "summary": "A previous study found that using LTE instead of 5G can significantly improve battery life on iPhones and iPads. The findings highlight the importance of considering network technology when evaluating device performance and battery life.",
+      "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/ibeyi-offering/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:01:00+00:00"
+      "url": "https://daringfireball.net/linked/2022/03/23/5g-battery-life",
+      "source": "Daring Fireball",
+      "published": "2026-07-02T20:32:31+00:00"
     },
     {
-      "headline": "Surf Gang Producer Drops New Tape with Eclectic Collaborations",
-      "summary": "The Surf Gang producer has released a new tape, bringing together 25 collaborators for a unique and eclectic sound. The tape is a showcase for the producer's shimmery beats and ability to blend different styles and genres.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/evilgiane-heavensgate-vol-2/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:00:00+00:00"
-    },
-    {
-      "headline": "Former Hong Kong Bookseller Dies in Taiwan at 70",
-      "summary": "Lam Wing-kee, a former Hong Kong bookseller who was detained by Chinese authorities in 2015, has died in Taiwan at the age of 70. Lam's story is a testament to the risks faced by those who challenge the status quo in China and the importance of standing up for freedom of expression.",
+      "headline": "NASA Launches Mission to Rescue Falling Space Telescope",
+      "summary": "A NASA-funded robot has been launched to intercept a falling space telescope and propel it back to a safe orbit. The mission aims to prevent the telescope from burning up in the atmosphere and preserve its functionality.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/07/03/g-s1-131904/ex-hk-bookseller-lam-wing-kee-detained-by-china-in-2015-dies-in-taiwan-at-70",
-      "source": "NPR News",
-      "published": "2026-07-03T00:25:07-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T10:28:17.005Z"
     },
     {
-      "headline": "Meta's Engineering Organization in Disarray",
-      "summary": "Meta's engineering organization is facing significant challenges, with a focus on performative work over real results. The company's leadership has introduced new policies that are causing concern among employees and raising questions about the future of the organization.",
+      "headline": "Young Americans Reflect on National Identity",
+      "summary": "As the United States celebrates its 250th birthday, young people are sharing their thoughts on what it means to be American and the significance of the country's founding principles. Their perspectives offer insight into the evolving concept of American identity and its relevance to contemporary society.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5869537/student-podcast-challenge-america-250",
+      "source": "NPR News",
+      "published": "2026-07-03T05:00:00-04:00"
+    },
+    {
+      "headline": "Meta's Engineering Organization Under Scrutiny",
+      "summary": "Meta's leadership has introduced changes to its engineering organization, sparking concerns about the impact on productivity and employee motivation. Critics argue that the new policies may lead to a focus on superficial achievements rather than meaningful work.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
@@ -327,89 +327,62 @@
       "published": "2026-06-16T16:27:43+00:00"
     },
     {
-      "headline": "Bomb Blast Rocks Damascus Cafe, Killing Nine",
-      "summary": "A bomb blast at a cafe in Damascus has killed nine people, with no immediate claim of responsibility. The attack is a reminder of the ongoing instability and violence in Syria, where civilians continue to bear the brunt of the conflict.",
+      "headline": "Venezuela Earthquake Survivor Rescued After Eight Days",
+      "summary": "A man has been pulled alive from the rubble of a collapsed car park in Venezuela, eight days after a devastating earthquake struck the region. The rescue is a rare positive outcome in the aftermath of the disaster, which has claimed many lives.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-02T17:56:18.363Z"
+      "published": "2026-07-02T11:31:19.019Z"
     },
     {
-      "headline": "Ebola Treatments Trial Begins in Democratic Republic of Congo",
-      "summary": "A new trial for Ebola treatments has begun in the Democratic Republic of Congo, where the disease has claimed hundreds of lives. The trial is a crucial step in the fight against Ebola, which continues to pose a significant threat to public health in the region.",
+      "headline": "Hakeem Jeffries Addresses Democratic Party Divisions",
+      "summary": "House Minority Leader Hakeem Jeffries has spoken about the challenges facing the Democratic Party, emphasizing the need for unity in the face of opposition from former President Trump. Jeffries argues that the party's internal divisions are less significant than the threat posed by Trump and his allies.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-02T21:21:36.405Z"
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5879082/hakeem-jeffries-democratic-party-divisions-trump-midterms",
+      "source": "NPR News",
+      "published": "2026-07-03T04:15:00-04:00"
     },
     {
-      "headline": "Chinese Pilot Crashes Plane into Skyscraper in Apparent Suicide",
-      "summary": "A 66-year-old pilot has crashed a small plane into a skyscraper in China, with authorities suggesting that the incident was a deliberate act of suicide. The pilot had been struggling with anxiety and had expressed a desire to end his life, highlighting the need for greater support and resources for mental health.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-02T09:07:24.104Z"
-    },
-    {
-      "headline": "Jaylen Brown Speaks Out on Intelligence and Sports",
-      "summary": "Jaylen Brown has responded to reports that he thinks he's the smartest person in the room, saying that the bar is low in the sports world. Brown's comments have sparked a wider conversation about intelligence and athletics, and the ways in which these two concepts intersect.",
+      "headline": "LeBron James' Potential Move to Denver Denied",
+      "summary": "Rich Paul, LeBron James' agent, has dismissed the idea of the basketball star joining the Denver team, stating that the city is not a viable destination for his client. The comment has sparked speculation about James' future plans and potential moves in the NBA.",
       "category": "NBA",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1um7urr/jaylen_brown_on_reports_claiming_he_thinks_hes/",
+      "url": "https://old.reddit.com/r/nba/comments/1umbon5/max_is_denver_actually_a_legitimate_destination/",
       "source": "r/NBA",
-      "published": "2026-07-03T07:39:57+00:00"
+      "published": "2026-07-03T11:17:34+00:00"
     },
     {
-      "headline": "NBA Star Jaylen Brown Defends Livestreaming, Says Fans Crave Authenticity",
-      "summary": "Jaylen Brown responded to criticism from Colin Cowherd, stating that the world wants genuine emotions and unscripted content. Brown's comments highlight the growing demand for authenticity in the public sphere, particularly among athletes and celebrities.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1um5476/jaylen_brown_strėamed_live_his_response_to_colin/",
-      "source": "r/NBA",
-      "published": "2026-07-03T05:08:27+00:00"
-    },
-    {
-      "headline": "Christian Book Reviewer Shares Top Picks for 2026",
-      "summary": "A book reviewer has released their favorite Christian titles and nonfiction books of 2026, covering a range of genres including memoir, biography, and church history. The list aims to provide readers with a curated selection of standout books from both Christian and general markets.",
+      "headline": "Christian Blog Features Articles on Faith and Community",
+      "summary": "A recent blog post features a collection of articles and resources on topics such as faith, baptism, and community, offering insights and perspectives for Christian readers. The post covers a range of subjects, from the importance of defending one's faith to the value of vibrant prayer meetings.",
       "category": "Faith",
       "relevance": 6,
-      "url": "https://www.challies.com/articles/my-favorite-books-of-2026-so-far/",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-3-2026/",
       "source": "Challies",
-      "published": "2026-07-03T04:02:00+00:00"
+      "published": "2026-07-03T04:01:00+00:00"
     },
     {
-      "headline": "Croatia vs Portugal Match Ends in Chaotic Final Minutes",
-      "summary": "The highly anticipated match between Croatia and Portugal ended in dramatic fashion, with 10 minutes of added time packed with intense action. The final minutes of the game were marked by unexpected twists and turns, leaving fans on the edge of their seats.",
-      "category": "Sports",
+      "headline": "Madonna Returns to Form with Honest Dance Record",
+      "summary": "Madonna's latest album is a fresh and honest dance record that marks her best work in 20 years. The album is a vital addition to her canon, showcasing her ability to create meaningful and engaging music.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5880386/croatia-portugal-chaotic-minutes",
-      "source": "NPR News",
-      "published": "2026-07-03T02:42:15-04:00"
+      "url": "https://pitchfork.com/reviews/albums/madonna-confessions-ii/",
+      "source": "Pitchfork",
+      "published": "2026-07-03T04:03:00+00:00"
     },
     {
-      "headline": "English-Speaking Fans Flock to Telemundo for World Cup Coverage",
-      "summary": "Despite the language barrier, many English-speaking fans are choosing to watch the World Cup on Telemundo, drawn in by the network's energetic announcers and uninterrupted coverage. The decision to stay on the field during hydration breaks, rather than cutting to commercials, has also been a major factor in the network's appeal.",
-      "category": "Sports",
+      "headline": "French Twins Find Freedom in Rhythm on New Album",
+      "summary": "The French twins' fourth album is a reflection of their search for solace in the rhythm of change and their journey to find freedom in letting go of control. The album features a unique blend of rhythms and sounds, showcasing the twins' musical growth and experimentation.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/02/nx-s1-5876380/telemundo-world-cup-fox",
-      "source": "NPR News",
-      "published": "2026-07-02T15:59:34-04:00"
+      "url": "https://pitchfork.com/reviews/albums/ibeyi-offering/",
+      "source": "Pitchfork",
+      "published": "2026-07-03T04:01:00+00:00"
     },
     {
-      "headline": "Bay Area Fans Gather for US vs Bosnia-Herzegovina World Cup Match",
-      "summary": "Thousands of fans gathered in the Bay Area to watch the US take on Bosnia-Herzegovina in the World Cup, with the US emerging victorious and advancing to the Round of 16. The watch parties, held in Santa Clara and San Francisco, provided a lively and supportive atmosphere for fans to cheer on their team.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.npr.org/sections/the-picture-show/2026/07/02/g-s1-131712/photos-fans-gather-in-the-bay-area-for-the-world-cup-match-between-the-u-s-and-bosnia-herzegovina",
-      "source": "NPR News",
-      "published": "2026-07-02T13:51:50-04:00"
-    },
-    {
-      "headline": "Ookla Report Highlights Resurgence of mmWave 5G",
-      "summary": "A new report from Ookla, the company behind the Speedtest app, notes a return to mmWave 5G technology after a period of focus on mid-band spectrum. The report suggests that mmWave 5G may be making a comeback, with potential implications for the future of wireless connectivity.",
+      "headline": "mmWave 5G Makes a Comeback in Latest Report",
+      "summary": "A recent report from Ookla highlights the return of mmWave 5G, a technology that was initially adopted by the US but not widely followed by other countries. The report suggests that mmWave 5G is making a comeback, with international spectrum regulators reassessing its potential.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://www.ookla.com/articles/a-return-to-mmwave-5g",
@@ -417,40 +390,67 @@
       "published": "2026-04-13T06:00:00"
     },
     {
-      "headline": "US Celebrations, Russia-Ukraine Conflict, and Democratic Party Infighting Make Headlines",
-      "summary": "The US is preparing to celebrate its 250th anniversary, while Russia's advances in Ukraine have slowed and the Democratic Party is facing internal conflicts. The combination of these stories has created a complex and dynamic news landscape, with multiple major events unfolding simultaneously.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5873962/newsbrief-usa-250-russia-strikes-ukraine-democratic-party-future",
-      "source": "NPR News",
-      "published": "2026-07-03T04:15:28-04:00"
-    },
-    {
-      "headline": "Understanding the Importance of Collaboration in Coding",
-      "summary": "A recent talk by Geoffrey Litt emphasized the need for collaboration and understanding in coding, particularly when working with coding agents. The idea of \"understand to participate\" highlights the importance of shared knowledge and comprehension in achieving successful outcomes.",
+      "headline": "EveryMac Celebrates 30 Years of Providing Mac Information",
+      "summary": "EveryMac has reached a milestone of 30 years, providing detailed information on every Mac model from the original 128k to the current line. The website has been a reliable source for Mac enthusiasts, offering a wealth of information and resources over the years.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-02T17:07:14+00:00"
+      "url": "https://everymac.com/whatsnew/",
+      "source": "Daring Fireball",
+      "published": "2026-07-02T21:31:04+00:00"
     },
     {
-      "headline": "Christian Blog Features Weekly Roundup of News and Resources",
-      "summary": "A popular Christian blog has released its weekly roundup of news, articles, and resources, covering topics such as faith, prayer, and church leadership. The post provides a curated selection of content for readers, including links to relevant articles and books.",
-      "category": "Faith",
+      "headline": "Former USAID Head Reflects on Agency's Closure and Future",
+      "summary": "The former head of USAID is reflecting on the agency's closure and the new direction of US foreign aid, one year after the shutdown. The former administrator is hopeful for the future of US foreign aid, despite the challenges and changes that have taken place.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5877408/former-usaid-head-grieves-its-closure-while-hoping-for-its-future",
+      "source": "NPR News",
+      "published": "2026-07-03T07:00:00-04:00"
+    },
+    {
+      "headline": "Surf Gang Producer Releases New Tape with Eclectic Collaborators",
+      "summary": "The Surf Gang producer has released a new tape, featuring an eclectic cast of 25 collaborators and his signature shimmery beats. The tape is a showcase of the producer's versatility and ability to bring together a diverse range of artists and sounds.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/evilgiane-heavensgate-vol-2/",
+      "source": "Pitchfork",
+      "published": "2026-07-03T04:00:00+00:00"
+    },
+    {
+      "headline": "Iran Begins Public Mourning for Slain Ayatollah",
+      "summary": "Iran has begun public mourning for the Ayatollah who was killed in February, with his body lying in state in Tehran's Grand Mosalla. The mourning period is expected to last for several days, with funeral events planned to honor the late Ayatollah.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T05:53:56.350Z"
+    },
+    {
+      "headline": "Zuma's Meeting with Gupta Brother Reignites Corruption Scandal",
+      "summary": "Former President Zuma's trip to India and meeting with a Gupta brother has reignited anger over a decade-old corruption scandal. The meeting has been seen as a provocative move by Zuma, who is showing disregard for the concerns of the South African people.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T15:35:07.724Z"
+    },
+    {
+      "headline": "Rich Paul Reveals Knicks Championship Impact on LeBron's Decision",
+      "summary": "Rich Paul has revealed that the Knicks' championship win had a significant impact on LeBron's decision-making process, making his next destination a foregone conclusion. The championship win was seen as a crucial factor in LeBron's decision, with Paul suggesting that it would have been a different story if the Knicks had not won.",
+      "category": "NBA",
       "relevance": 5,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-3-2026/",
-      "source": "Challies",
-      "published": "2026-07-03T04:01:00+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1umen7o/if_the_knicks_hadnt_won_there_would_be_no_board/",
+      "source": "r/NBA",
+      "published": "2026-07-03T13:34:26+00:00"
     },
     {
-      "headline": "Mystery of 'Green Boots' Climber on Everest Finally Solved",
-      "summary": "The identity of the climber known as 'Green Boots,' who died on Mount Everest and became a macabre landmark, has been revealed through a DNA test. The solution to the mystery has brought closure to the climber's family and provides a poignant reminder of the risks and challenges of high-altitude climbing.",
+      "headline": "100-Year-Old Report Offers Insights into America's Past",
+      "summary": "A forgotten 100-year-old report is offering insights into America's past, providing a unique perspective on the country's history and identity. The report is a fascinating look at the social, economic, and cultural landscape of America in 1926, and what it reveals about the country's values and priorities.",
       "category": "Other",
       "relevance": 3,
-      "url": "https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html",
+      "url": "https://www.derekthompson.org/p/america-1926-an-absurdly-deep-dive",
       "source": "Hacker News",
-      "published": "2026-07-02T22:44:04+00:00"
+      "published": "2026-07-03T10:02:45+00:00"
     }
   ]
 }
