@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-04T00:20:34.119094+00:00",
+  "generated_at": "2026-07-04T09:32:03.751728+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "NBA Players Feel Betrayed by New CBA",
-      "summary": "Kyle Kuzma expressed frustration with the new Collective Bargaining Agreement, stating it has created a de facto hard cap that hinders player movement and team continuity. The current system seems to favor owners, who consistently outmaneuver players in negotiations.",
+      "headline": "Timberwolves Intensify Pursuit of LeBron James",
+      "summary": "The Minnesota Timberwolves are increasing their efforts to recruit LeBron James, with a championship-winning team as the main selling point. The team's pitch includes the opportunity to play alongside Ant, LaMelo, Jaden, and Rudy in a bid to cement James' status as the greatest player of all time.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1umyeuu/krawczynski_the_timberwolves_are_ramping_up_their/",
+      "source": "r/NBA",
+      "published": "2026-07-04T03:35:11+00:00"
+    },
+    {
+      "headline": "Kyle Kuzma Criticizes New CBA for Limiting Player Value",
+      "summary": "Kyle Kuzma has spoken out against the new Collective Bargaining Agreement, stating that it functions like a hard cap and restricts player movement and team continuity. Kuzma believes that the owners and the league have too much power in negotiations, leaving players at a disadvantage.",
       "category": "NBA",
       "relevance": 9,
       "url": "https://old.reddit.com/r/nba/comments/1umqhr6/kyle_kuzma_the_new_cba_was_sold_as_parity_but_the/",
@@ -12,8 +21,26 @@
       "published": "2026-07-03T21:20:48+00:00"
     },
     {
+      "headline": "Timberwolves Confident in LeBron James Pursuit",
+      "summary": "The Minnesota Timberwolves are ramping up their efforts to sign LeBron James, with the team believing they have a strong chance of landing the NBA superstar. The team's pitch includes the opportunity to play alongside Edwards, Ball, McDaniels, and Gobert in a bid to win a championship and solidify James' legacy.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1umyf46/krawczynski_the_minnesota_timberwolves_have/",
+      "source": "r/NBA",
+      "published": "2026-07-04T03:35:36+00:00"
+    },
+    {
+      "headline": "Lakers Trade Deandre Ayton to Wizards",
+      "summary": "The Los Angeles Lakers have traded Deandre Ayton to the Washington Wizards in exchange for Jaden Hardy and two second-round draft picks. The move is part of the Lakers' efforts to restructure their roster and build a competitive team.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1umk8ty/charania_just_in_the_los_angeles_lakers_are/",
+      "source": "r/NBA",
+      "published": "2026-07-03T17:12:29+00:00"
+    },
+    {
       "headline": "Celtics Had Concerns About Jaylen Brown's Playoff Performance",
-      "summary": "The Boston Celtics were worried about Jaylen Brown's tendency to deviate from the team's strategy during playoff games, which contributed to their loss to the Philadelphia 76ers. Brown's statistics over the final three games of the series were underwhelming, with the Celtics being outscored by 57 points when he was on the court.",
+      "summary": "The Boston Celtics had concerns about Jaylen Brown's performance during the playoffs, particularly his tendency to deviate from the team's script. Brown's inconsistent play was a factor in the Celtics' loss to the Philadelphia 76ers, with the team being outscored by 57 points when he was on the court over the final three games.",
       "category": "NBA",
       "relevance": 9,
       "url": "https://old.reddit.com/r/nba/comments/1umn571/amick_the_celtics_believed_that_brown_went_off/",
@@ -21,26 +48,8 @@
       "published": "2026-07-03T19:04:55+00:00"
     },
     {
-      "headline": "Trail Blazers Passed on Jaylen Brown Due to Analytics",
-      "summary": "The Portland Trail Blazers decided not to pursue Jaylen Brown despite reported interest, as their analytics department viewed him as a negative player. This assessment was a key factor in the team's decision not to engage in trade talks for the Celtics forward.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1umho72/amick_despite_widely_reported_to_have_interest/",
-      "source": "r/NBA",
-      "published": "2026-07-03T15:34:29+00:00"
-    },
-    {
-      "headline": "Teams Were Reluctant to Trade Top Assets for Jaylen Brown",
-      "summary": "Several teams made offers for Jaylen Brown, but they were unwilling to part with their most valuable assets, such as Brandon Miller, Jamal Murray, and Alperen Sengun. The Celtics, seeking a significant haul in return, rejected these proposals and continued to explore other options.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1umm4nr/siegel_multiple_teams_made_offers_for_jaylen/",
-      "source": "r/NBA",
-      "published": "2026-07-03T18:25:14+00:00"
-    },
-    {
-      "headline": "Open Source AI Initiative Launches Gap Map",
-      "summary": "A non-profit organization called Current AI has introduced an Open Source AI Gap Map, aiming to identify and address gaps in the development of artificial intelligence. The project has received significant backing, with $400 million in committed funding, and seeks to create a public option for AI.",
+      "headline": "Open Source AI Gap Map Launches",
+      "summary": "The Open Source AI Gap Map has been launched, aiming to index the current state of open-source AI and identify areas for improvement. The project is part of a global partnership to build a public option for AI, with $400 million in committed funding.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
@@ -48,35 +57,8 @@
       "published": "2026-07-03T22:04:31+00:00"
     },
     {
-      "headline": "New Method Recovers Finetuning Data from Logits",
-      "summary": "Researchers have developed a technique called Contrastive Decoding Diffing, which can recover verbatim content from finetuned language models using only logit access. This method has significant implications for data privacy and security, as it can potentially expose sensitive information.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1umn2dk/contrastive_decoding_diffing_cdd_recovering/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-03T19:01:48+00:00"
-    },
-    {
-      "headline": "The Challenge of Creating Safe AI",
-      "summary": "The development of safe AI poses significant challenges, particularly in preventing post-release fine-tuning that can compromise a model's safety behavior. Researchers are exploring ways to study and defend against such vulnerabilities, but the task remains complex and daunting.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-03T09:07:26+00:00"
-    },
-    {
-      "headline": "Reevaluating Software Development from First Principles",
-      "summary": "A recent article encourages software developers to rethink their approach to programming by examining the fundamental principles that underlie their work. By doing so, developers can gain a deeper understanding of the software development process and create more effective, efficient solutions.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://fazamhd.com/mental-models/software/",
-      "source": "Hacker News",
-      "published": "2026-07-03T18:30:00.000Z"
-    },
-    {
-      "headline": "New Vulnerabilities Emerge with Claude Mythos Preview",
-      "summary": "The release of the Claude Mythos Preview has been accompanied by a spike in serious vulnerabilities, highlighting the ongoing challenges of ensuring software security. As developers continue to push the boundaries of AI and other technologies, they must also prioritize the identification and mitigation of potential risks.",
+      "headline": "New Vulnerabilities Emerge with Claude Mythos Preview Release",
+      "summary": "The release of the Claude Mythos Preview has been accompanied by a spike in serious vulnerabilities, highlighting concerns about the security of the AI system. The vulnerabilities have been identified and reported, with efforts underway to address the issues and improve the overall security of the platform.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://epoch.ai/data-insights/cve-severity-spike",
@@ -84,35 +66,44 @@
       "published": "2026-07-03T21:16:16+00:00"
     },
     {
-      "headline": "Lakers Trade Deandre Ayton to Wizards",
-      "summary": "The Los Angeles Lakers have traded center Deandre Ayton to the Washington Wizards in exchange for guard Jaden Hardy and two second-round draft picks. The move marks a significant shift in the Lakers' roster and may have implications for the team's performance in the upcoming season.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1umk8ty/charania_just_in_the_los_angeles_lakers_are/",
-      "source": "r/NBA",
-      "published": "2026-07-03T17:12:29+00:00"
+      "headline": "Iran Holds Days-Long Funeral for Late Supreme Leader",
+      "summary": "Iran has begun a days-long funeral for the late Supreme Leader Ayatollah Ali Khamenei, who was killed in an airstrike at the start of the war. The funeral is a significant event, with Khamenei having played a major role in Iranian politics and society.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882083/iran-funeral-ayatollah-ali-khamenei",
+      "source": "NPR News",
+      "published": "2026-07-04T01:04:16-04:00"
     },
     {
-      "headline": "Celtics' Success Without Tatum Sparks Trade Rumors",
-      "summary": "The Boston Celtics have maintained a remarkable win percentage without Jayson Tatum over the last three seasons, prompting speculation about potentially trading their star player. This impressive record has led to questions about whether the team can sustain success without Tatum's significant salary.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1umpjqp/the_boston_celtics_are_5826_without_jayson_tatum/",
-      "source": "r/NBA",
-      "published": "2026-07-03T20:42:09+00:00"
+      "headline": "Venezuela Earthquake Victims Identified at Makeshift Morgue",
+      "summary": "Families of those killed in the Venezuela earthquake are being forced to identify their loved ones at a makeshift morgue, as local services struggle to cope with the disaster. The earthquake has caused widespread destruction and chaos, with many people still missing or unaccounted for.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T21:00:53.565Z"
     },
     {
-      "headline": "Rockets Trade Finney-Smith to Hornets in Multi-Pick Deal",
-      "summary": "The Houston Rockets have agreed to trade Dorian Finney-Smith and three second-round picks to the Charlotte Hornets, according to sources. This move marks a significant roster adjustment for the Rockets, who are reshaping their lineup with the addition of draft picks.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1umj4g7/charania_the_houston_rockets_are_trading_dorian/",
-      "source": "r/NBA",
-      "published": "2026-07-03T16:29:44+00:00"
+      "headline": "Iran Seeks to Charge Toll for Ships Passing Through Strait of Hormuz",
+      "summary": "Iran is seeking to charge a toll for ships passing through the Strait of Hormuz, a key shipping lane that is crucial for global trade. The move is part of Iran's efforts to exert control over the region and gain leverage in negotiations with the US and other countries.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
+      "source": "NPR News",
+      "published": "2026-07-03T16:51:04-04:00"
     },
     {
-      "headline": "The Lakers-Wizards Big Man Trade Cycle Continues",
-      "summary": "The recent trade of Deandre Ayton is the latest example of a peculiar trend in the NBA, where big men often move between the Los Angeles Lakers and the Washington Wizards. This cycle has seen several players, including AD and Dwight, make the same journey, sparking curiosity about the reasons behind this phenomenon.",
+      "headline": "Knicks Sign Andre Drummond to One-Year Deal",
+      "summary": "The New York Knicks have agreed to a one-year, $3.9 million deal with free agent center Andre Drummond. This move adds depth to the Knicks' roster, providing a veteran presence in the paint.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1umrywa/charania_free_agent_center_andre_drummond_has/",
+      "source": "r/NBA",
+      "published": "2026-07-03T22:23:38+00:00"
+    },
+    {
+      "headline": "Lakers-Wizards Big Man Pipeline Continues with Deandre Ayton Trade",
+      "summary": "The recent trade of Deandre Ayton highlights a peculiar trend in the NBA, where big men often find themselves playing for either the Los Angeles Lakers or the Washington Wizards at some point in their careers. This cycle has seen several notable players make the switch between the two teams, sparking interest and debate among fans and analysts.",
       "category": "NBA",
       "relevance": 8,
       "url": "https://old.reddit.com/r/nba/comments/1umt5ki/katz_the_deandre_ayton_trade_further_proves_one/",
@@ -120,53 +111,26 @@
       "published": "2026-07-03T23:16:28+00:00"
     },
     {
-      "headline": "Navigating a Post-Truth World with Spiritual Wisdom",
-      "summary": "In a world where information is abundant and often misleading, it's essential to cultivate spiritual wisdom to discern truth and prioritize one's soul. By doing so, individuals can develop a deeper understanding of themselves and the world around them, leading to a more fulfilling life.",
+      "headline": "Trail Blazers Pass on Jaylen Brown Due to Analytics Concerns",
+      "summary": "The Portland Trail Blazers reportedly had no interest in acquiring Jaylen Brown, citing concerns from their analytics department that viewed him as a negative player. This decision suggests that the team's front office is heavily influenced by data-driven evaluations when making personnel decisions.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1umho72/amick_despite_widely_reported_to_have_interest/",
+      "source": "r/NBA",
+      "published": "2026-07-03T15:34:29+00:00"
+    },
+    {
+      "headline": "Prayer for America on Its 250th Anniversary",
+      "summary": "As America celebrates its 250th anniversary, many are taking a moment to reflect on the nation's history and express gratitude for its freedoms. This milestone birthday serves as an opportunity for Americans to come together and appreciate the country's strengths and weaknesses.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/prioritize-soul-post-truth-world-classic/",
+      "url": "https://www.thegospelcoalition.org/article/prayer-america-250/",
       "source": "The Gospel Coalition",
-      "published": "2026-07-03T04:04:00+00:00"
+      "published": "2026-07-04T04:00:08+00:00"
     },
     {
-      "headline": "Loving One's Country as a Dual Citizen of Heaven",
-      "summary": "As Christians, people are called to love their country while also recognizing their citizenship in heaven, which can create a sense of tension and dual loyalty. By embracing this dual identity, individuals can navigate the complexities of patriotism and faith, striving to honor both their earthly and heavenly homes.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/blessed-nation-god-peoples-good/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-03T04:00:00+00:00"
-    },
-    {
-      "headline": "Iran's Control of Strait of Hormuz Remains a Key Bargaining Chip",
-      "summary": "Iran's ability to control the Strait of Hormuz gives the country significant leverage in international negotiations, particularly with the United States. Despite efforts to resolve the issue, Iran is seeking to impose a toll on ships passing through the strait, further complicating the already tense relationship between the two nations.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5879278/irans-control-of-the-strait-of-hormuz-remains-a-powerful-bargaining-chip",
-      "source": "NPR News",
-      "published": "2026-07-03T16:51:04-04:00"
-    },
-    {
-      "headline": "Venezuela Earthquake Victims Identified at Makeshift Morgue",
-      "summary": "A devastating earthquake in Venezuela has overwhelmed local services, forcing families to identify their loved ones at a makeshift morgue. The disaster has resulted in a significant loss of life, with many bodies being stored in tents or outside due to the lack of adequate facilities.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-03T21:00:53.565Z"
-    },
-    {
-      "headline": "Iran Plans Grand Funeral for Supreme Leader Khamenei",
-      "summary": "Following the death of Supreme Leader Khamenei, Iran is preparing for a massive, days-long funeral procession, expecting millions to attend and pay their respects. The event is expected to be a grand display of mourning, similar to the funeral of Ayatollah Ruhollah Khomeini in 1989, and will be a significant moment in the country's history.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
-      "source": "NPR News",
-      "published": "2026-07-03T15:45:24-04:00"
-    },
-    {
-      "headline": "Electron App Criticized for Poor Design Choices",
-      "summary": "A recent Electron app has been criticized for its poor design and questionable development choices, with many pointing to the involvement of Felix Rieseberg as a potential reason for these issues. The app's problems have sparked a wider discussion about the importance of considering user experience and design principles in software development.",
+      "headline": "Electron App Criticized for Poor Design",
+      "summary": "A recent critique of the Electron app Claude has sparked controversy, with many pointing to its poorly designed interface and functionality. The app's use of Electron technology has raised questions about the priorities of its developers and the potential conflicts of interest.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
@@ -174,53 +138,107 @@
       "published": "2026-07-03T21:24:05+00:00"
     },
     {
-      "headline": "Researchers Build 249M-Parameter Transformer Model from Scratch",
-      "summary": "A team of researchers has successfully built a large-scale transformer model, called H64LM, using PyTorch, with the goal of better understanding modern language models. The model features 249 million parameters and was implemented from scratch, allowing the researchers to gain valuable insights into the inner workings of these complex systems.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-03T21:18:10+00:00"
-    },
-    {
-      "headline": "New Approach to Training Transformers Reveals Optimal Rank",
-      "summary": "Researchers have discovered that training transformers with factorized weights from the start can lead to a corpus-determined optimal rank, eliminating the need for post-hoc compression. This novel approach, called Native Factorized Weights, has shown promising results in initial experiments.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1umtiqk/training_transformers_where_every_layer_w_vuᵀ/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-03T23:33:36+00:00"
-    },
-    {
-      "headline": "Heat Wave Threatens July 4th Events as Russia Strikes Ukraine",
-      "summary": "A severe heat wave is posing a threat to July 4th celebrations across the US, while Russia has launched a series of strikes on Ukraine's capital, resulting in multiple casualties. The attacks have been described as retaliatory by Russia, escalating tensions in the region.",
+      "headline": "Swing Voters Weigh in on America's 250th Birthday",
+      "summary": "As America marks its 250th anniversary, swing voters are sharing their thoughts on the state of the nation, expressing a range of emotions from uncertainty to cautious optimism. These voters' perspectives offer a glimpse into the complexities and challenges facing the country as it looks to the future.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5877727/swing-voters-america-250-midterms",
       "source": "NPR News",
-      "published": "2026-07-03T07:39:07-04:00"
+      "published": "2026-07-04T05:00:00-04:00"
     },
     {
-      "headline": "Dispersion Loss Helps Prevent Embedding Condensation in Small Language Models",
-      "summary": "A new technique called dispersion loss has been found to counteract embedding condensation in small language models, improving their performance and efficiency. By introducing dispersion loss, researchers can prevent the model's embeddings from becoming too similar, leading to better results.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
-      "source": "Hacker News",
-      "published": "2026-07-03T22:35:47+00:00"
-    },
-    {
-      "headline": "Turkish Comedian Detained for Jokes About Erdoğan and Islam",
-      "summary": "A popular Turkish comedian has been arrested for making jokes about President Erdoğan and Islam, sparking concerns about freedom of speech in the country. The comedian is accused of inciting hatred and hostility, and his detention has been widely criticized as an attack on artistic expression.",
+      "headline": "Keiko Fujimori Declared Winner of Peru's Presidential Election",
+      "summary": "After a tightly contested race, Keiko Fujimori has been declared the winner of Peru's presidential election, nearly a month after the initial vote took place. Fujimori, the daughter of a former president, will now face the task of leading the country and addressing its various challenges.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-03T11:30:58.040Z"
+      "published": "2026-07-04T07:52:55.248Z"
     },
     {
-      "headline": "GLM5.2 Achieves Breakthrough Performance on AMD MI355X",
-      "summary": "The GLM5.2 model has achieved a significant milestone by reaching 2626 tokens per second on the AMD MI355X, outperforming other models while reducing costs. This breakthrough demonstrates the potential of the GLM5.2 model and the AMD MI355X hardware for efficient and cost-effective language processing.",
+      "headline": "Police Hunt for Ukrainian Suspect in Monaco Bomb Attack",
+      "summary": "Authorities are searching for a Ukrainian suspect in connection with a recent bomb attack in Monaco, with evidence suggesting the individual may have been disguised as a man at the time of the incident. The investigation is ongoing, with officials working to determine if the suspect acted alone or had accomplices.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T00:21:45.754Z"
+    },
+    {
+      "headline": "Reflections on America's 250th Birthday",
+      "summary": "As America celebrates its 250th anniversary, people from across the country are sharing their thoughts and reflections on the nation's history and its current state. These personal perspectives offer a unique glimpse into the complexities and diversity of American experiences and opinions.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5876246/reflections-on-americas-250th-birthday",
+      "source": "NPR News",
+      "published": "2026-07-04T00:00:00-04:00"
+    },
+    {
+      "headline": "The Challenges of Synthesis in Complex Systems",
+      "summary": "A recent article highlights the difficulties of synthesis, or the process of combining elements to create something new, in complex systems. This challenge is particularly relevant in fields such as science, technology, and engineering, where synthesis is often more difficult than analysis, or the process of breaking down complex systems into their component parts.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "source": "Hacker News",
+      "published": "2026-07-04T01:56:38+00:00"
+    },
+    {
+      "headline": "Iran Mourns Slain Ayatollah",
+      "summary": "Iran has begun a period of public mourning for Ayatollah Khamenei, who was killed in February, with his body lying in state in Tehran. The country is preparing for days of funeral events, expected to draw millions of mourners to the capital.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T05:53:56.350Z"
+    },
+    {
+      "headline": "Threat Modeling Guide Released",
+      "summary": "A new informal guide to threat models has been published, providing insight into potential security risks and how to mitigate them. The guide offers a comprehensive overview of threat modeling, a crucial aspect of cybersecurity.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
+      "source": "Hacker News",
+      "published": "2026-06-30T09:58:05+00:00"
+    },
+    {
+      "headline": "Flamingo Revolution Sweeps Albania",
+      "summary": "Thousands of protesters have taken to the streets of Albania, demanding the resignation of the prime minister and adopting the flamingo as a national symbol of resistance. The protests were sparked by opposition to a luxury development project, which has become a focal point for wider discontent.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c8925jnl0z3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-04T00:43:26.046Z"
+    },
+    {
+      "headline": "Europe Braces for Extreme Weather",
+      "summary": "France has recorded over 2,000 excess deaths during a recent heatwave, and forecasters are warning of further extreme temperatures across the continent. The region is preparing for more hot weather, with authorities urging citizens to take precautions to stay safe.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T10:08:35.964Z"
+    },
+    {
+      "headline": "Iran Prepares for Khamenei Funeral",
+      "summary": "Iran is preparing for a massive funeral procession for Supreme Leader Khamenei, with millions expected to attend the ceremony in the capital. The event is likely to be a significant display of national mourning, with the country's theocracy hoping to showcase its strength and unity.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
+      "source": "NPR News",
+      "published": "2026-07-03T15:45:24-04:00"
+    },
+    {
+      "headline": "Poland Prepares for Russian Threat",
+      "summary": "Polish Prime Minister Tusk has warned of critical months ahead, as the country prepares for potential scenarios involving Russia. The warning comes amid reports of a planned Russian attack, with Poland taking steps to bolster its defenses and respond to the perceived threat.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T16:41:00.429Z"
+    },
+    {
+      "headline": "Computing Power Increases as Costs Decrease",
+      "summary": "The performance per dollar of computing power is improving rapidly, with significant advancements in technology leading to faster and cheaper processing. This trend is expected to continue, with major implications for industries relying on high-performance computing.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.wafer.ai/blog/glm52-amd",
@@ -228,8 +246,8 @@
       "published": "2026-07-03T21:49:06+00:00"
     },
     {
-      "headline": "Applied Category Theory Course Offers Valuable Insights",
-      "summary": "An online course on applied category theory, first introduced in 2018, provides a comprehensive introduction to the subject and its applications. The course covers a range of topics, from basic concepts to advanced techniques, making it a valuable resource for researchers and students.",
+      "headline": "Category Theory Course Available",
+      "summary": "A free online course on applied category theory is available, providing an introduction to the subject and its applications. The course, which was first offered in 2018, covers a range of topics and is suitable for those with a background in mathematics or computer science.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://math.ucr.edu/home/baez/act_course/index.html",
@@ -237,80 +255,62 @@
       "published": "2026-07-03T20:42:00+00:00"
     },
     {
-      "headline": "Russia Launches Devastating Attack on Kyiv, Killing Dozens",
-      "summary": "Russia has launched one of its most massive attacks on Kyiv, resulting in at least 30 deaths and widespread destruction. The attack, which involved a large number of weapons, has been condemned by the international community, and its impact on the ongoing conflict remains to be seen.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-02T01:55:18.523Z"
-    },
-    {
-      "headline": "Exploring the Biblical Metaphor of the Church as God's Field",
-      "summary": "The Bible uses agricultural imagery to describe God's relationship with his people, with the church being compared to a field that requires nurturing and care. This metaphor offers valuable insights into the nature of the church and its role in the world, highlighting the importance of spiritual growth and development.",
+      "headline": "The Dangers of Explicit Content",
+      "summary": "Explicit content in books can be just as damaging as that found in other media, with the potential to cause harm to readers. It is essential to be mindful of the content we consume and to take steps to avoid exposure to explicit material, particularly for vulnerable individuals.",
       "category": "Faith",
       "relevance": 7,
-      "url": "https://tabletalkmagazine.com/posts/why-does-paul-call-the-church-gods-field/",
-      "source": "Tabletalk",
-      "published": "2026-07-03T04:00:00+00:00"
+      "url": "https://www.thegospelcoalition.org/article/avoid-spicy-books/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-04T04:02:00+00:00"
     },
     {
-      "headline": "Polish PM Warns of Critical Months Ahead Amid Russian Threat",
-      "summary": "Poland's prime minister has warned that the country is preparing for various scenarios in response to the ongoing Russian threat, amid reports of a potential attack. The situation remains volatile, and Poland is taking steps to ensure its security and defense in the face of uncertainty.",
-      "category": "World",
+      "headline": "Cape Verde's World Cup Debut Ends",
+      "summary": "Cape Verde's historic World Cup campaign has come to an end, despite the team's failure to win a match. The African nation's debut on the world stage was marked by impressive performances, and their participation has been hailed as a success, regardless of the outcome.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-03T16:41:00.429Z"
+      "url": "https://www.npr.org/2026/07/04/nx-s1-5882086/cape-verde-world-cup-ends",
+      "source": "NPR News",
+      "published": "2026-07-04T01:44:19-04:00"
     },
     {
-      "headline": "France Records Excess Deaths as Europe Braces for Extreme Weather",
-      "summary": "France has reported over 2,000 excess deaths during the peak of a recent heatwave, as Europe prepares for further extreme weather events. Forecasters are warning of high temperatures and other severe weather conditions, prompting concerns about public health and safety across the continent.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-03T10:08:35.964Z"
-    },
-    {
-      "headline": "Knicks Sign Andre Drummond to One-Year Deal",
-      "summary": "The New York Knicks have agreed to a one-year, $3.9 million deal with free agent center Andre Drummond. This move strengthens the team's roster, providing a veteran presence in the paint.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1umrywa/charania_free_agent_center_andre_drummond_has/",
-      "source": "r/NBA",
-      "published": "2026-07-03T22:23:38+00:00"
-    },
-    {
-      "headline": "Preparing for Small Language Model Internship",
-      "summary": "With an on-campus internship approaching, a student is seeking guidance on how to prepare for a small language model project. The student has experience with local models and is looking for last-minute tips to get up to speed.",
+      "headline": "Fable's Autonomy",
+      "summary": "The Claude Code team suggests giving Fable and Opus more autonomy in their operations, rather than dictating their every move. This approach can lead to more efficient testing and overall performance.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1umissr/small_language_model_slm_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-03T16:17:27+00:00"
+      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-03T18:51:06+00:00"
     },
     {
-      "headline": "Germany Debates Sick Note Requirement",
-      "summary": "A proposed plan in Germany would require workers to obtain a sick note on their first day of illness, sparking controversy among doctors' groups. Critics argue that this requirement is impractical and borders on madness.",
-      "category": "World",
+      "headline": "MSI Center Vulnerability",
+      "summary": "A security flaw in the MSI Center has been discovered, allowing users to gain SYSTEM privileges in a matter of seconds. This vulnerability poses a significant risk to users' systems and data.",
+      "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-03T14:56:30.648Z"
+      "url": "https://mrbruh.com/msicenter/",
+      "source": "Hacker News",
+      "published": "2026-06-30T00:00:00+00:00"
     },
     {
-      "headline": "Fertilizer Shortage May Impact US Food Prices",
-      "summary": "A fertilizer shortage caused by the Iran war may have a ripple effect on US food prices, although significant price hikes are unlikely. The closure of the Strait of Hormuz has disrupted shipments of fertilizer and natural gas, a key component in fertilizer manufacturing.",
+      "headline": "Heat Wave and Conflict",
+      "summary": "A severe heat wave is threatening July 4th events across the US, while Russia has launched strikes on Ukraine's capital, resulting in multiple casualties. The heat wave is expected to persist, causing widespread disruptions.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5877344/fertilizer-shortage-food-prices",
+      "url": "https://www.npr.org/2026/07/03/g-s1-131920/up-first-newsletter-america-250-heat-wave-ukraine-russia-democratic-party",
       "source": "NPR News",
-      "published": "2026-07-03T05:00:00-04:00"
+      "published": "2026-07-03T07:39:07-04:00"
     },
     {
-      "headline": "US Withdraws Troops from Nigeria",
-      "summary": "The US has withdrawn its troops from Nigeria after a successful joint operation against the Islamic State. The mission, which began in December last year, has come to an end, marking a significant milestone in the region.",
+      "headline": "Celtics' Tatum Conundrum",
+      "summary": "The Boston Celtics have a remarkable win percentage without Jayson Tatum, sparking debate about his value to the team. With the Celtics performing well without Tatum, the question arises whether trading him could be a viable option.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1umpjqp/the_boston_celtics_are_5826_without_jayson_tatum/",
+      "source": "r/NBA",
+      "published": "2026-07-03T20:42:09+00:00"
+    },
+    {
+      "headline": "US Troops Withdraw from Nigeria",
+      "summary": "The US has withdrawn its troops from Nigeria after a successful joint operation against the Islamic State. The mission, which began in December last year, has been deemed a success.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
@@ -318,98 +318,62 @@
       "published": "2026-07-03T14:00:50.056Z"
     },
     {
-      "headline": "Africans Turn to Starlink for Internet Access",
-      "summary": "Many Africans are turning to Starlink, a satellite internet constellation, to access the internet. This shift is driven by the need for reliable and fast internet connectivity in areas where traditional infrastructure is lacking.",
+      "headline": "SearXNG: Free Metasearch Engine",
+      "summary": "SearXNG is a free internet metasearch engine that provides an alternative to traditional search engines. This open-source engine offers a private and customizable search experience.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
+      "url": "https://github.com/searxng/searxng",
       "source": "Hacker News",
-      "published": "2026-07-03T21:08:37+00:00"
+      "published": "2026-07-03T20:15:49+00:00"
     },
     {
-      "headline": "Rich Paul Weighs in on LeBron's Next Move",
-      "summary": "Rich Paul, a prominent sports agent, believes that the Knicks' championship win has significant implications for LeBron's next destination. According to Paul, the Knicks' victory has made them a more attractive option for top players.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1umen7o/if_the_knicks_hadnt_won_there_would_be_no_board/",
+      "headline": "VJ Edgecombe Leads Bahamas to Victory",
+      "summary": "VJ Edgecombe delivered an impressive performance, leading the Bahamas to a blowout win against Jamaica with 26 points, 9 rebounds, and 5 steals. The win brings the Bahamas closer to qualifying for the FIBA World Cup.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1umwfod/vj_edgecombe_in_blowout_win_vs_jamaica_2691_with/",
       "source": "r/NBA",
-      "published": "2026-07-03T13:34:26+00:00"
+      "published": "2026-07-04T01:55:42+00:00"
     },
     {
-      "headline": "European Parliament Targeted by Espionage",
-      "summary": "A recent report has revealed that a member of the European Parliament's committee investigating spyware was hacked using Pegasus. This incident highlights the growing concern of espionage against government institutions and officials.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "source": "Hacker News",
-      "published": "2026-07-03T05:00:00+00:00"
-    },
-    {
-      "headline": "Madonna Releases Fresh and Honest Dance Record",
-      "summary": "Madonna's latest album is a return to form, offering a fresh and honest take on dance music. The record is being hailed as her best work in 20 years, cementing her status as a vital and innovative artist.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/madonna-confessions-ii/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:03:00+00:00"
-    },
-    {
-      "headline": "Model-Turned-Rapper Makes Polished Debut",
-      "summary": "A model-turned-rapper has released a remarkably polished debut, earning cosigns from prominent figures in the music industry. The rapper's debut marks a promising entry into the next generation of Georgia rap.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/pz-no-turning-back/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:02:00+00:00"
-    },
-    {
-      "headline": "Monaco Bomb Attack: Disguised Suspect Sought",
-      "summary": "A Ukrainian suspect, believed to have been disguised as a man, is being hunted by police after a bomb attack in Monaco. Authorities think the suspect may have had accomplices and spent several days casing the area before the attack.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-03T00:21:45.754Z"
-    },
-    {
-      "headline": "French Twins Find Freedom in Rhythm",
-      "summary": "The French twins, daughters of a renowned Cuban conguero, have released their fourth album, which explores the solace of rhythm and the freedom of letting go. Their music is a reflection of their unique heritage and perspective, blending different styles and emotions.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/ibeyi-offering/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:01:00+00:00"
-    },
-    {
-      "headline": "Hand-Held AI Learning: Is It Worth the Investment?",
-      "summary": "A user is considering investing in Tom Yeh's AI by hand course to gain a deeper understanding of machine learning and improve their skills in building AI tools. The course promises to provide a stronger foundation in machine learning, but its effectiveness is still being debated.",
+      "headline": "The Hidden Bottleneck",
+      "summary": "Research suggests that high CO2 levels in the air can significantly impact decision-making and cognitive function. This often-overlooked factor can have a substantial effect on productivity and overall well-being.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1umqf58/tom_yehs_ai_by_hand_is_it_worth_it_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-03T21:17:55+00:00"
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "source": "Hacker News",
+      "published": "2026-07-03T00:00:00-07:00"
     },
     {
-      "headline": "Surf Gang Producer Drops New Tape with Eclectic Collaborations",
-      "summary": "The Surf Gang producer has released a new tape, featuring shimmery beats and collaborations with 25 eclectic artists. The tape is a showcase of the producer's versatility and ability to blend different styles and genres.",
-      "category": "Music",
+      "headline": "David Beazley's Programming Courses",
+      "summary": "David Beazley offers a range of programming courses, providing learners with valuable skills and knowledge. His courses cover various topics, from beginner to advanced levels.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/evilgiane-heavensgate-vol-2/",
-      "source": "Pitchfork",
-      "published": "2026-07-03T04:00:00+00:00"
+      "url": "https://www.dabeaz.com/courses.html",
+      "source": "Hacker News",
+      "published": "2026-07-04T05:43:01+00:00"
     },
     {
-      "headline": "Iran Begins Public Mourning for Slain Ayatollah",
-      "summary": "Iran has begun public mourning for Ayatollah Ali Khamenei, who was killed in February, with his body lying in state in Tehran's Grand Mosalla. The mourning period is expected to last for several days, with various funeral events and ceremonies taking place.",
+      "headline": "Heat Wave Cancels July 4th Events",
+      "summary": "A brutal heat wave is forcing the cancellation of July 4th events across the US, with over 165 million people affected by the extreme temperatures. The heat wave is expected to persist, causing widespread disruptions and health concerns.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-03T05:53:56.350Z"
+      "published": "2026-07-02T18:56:36.539Z"
+    },
+    {
+      "headline": "Simon Willison's June Newsletter Covers AI and Tech Updates",
+      "summary": "Simon Willison's latest newsletter is out, covering topics such as Claude Fable 5, GPT-5.6, and US export restrictions, as well as updates on open weights models and Datasette Apps. The newsletter is available to sponsors and provides insights into the latest developments in the tech and AI world.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Jul/3/june-newsletter/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-03T14:50:50+00:00"
     },
     {
       "headline": "Jayson Tatum Bids Farewell to Jaylen Brown",
-      "summary": "Jayson Tatum has bid farewell to his teammate Jaylen Brown, expressing gratitude for their time together and the accomplishments they achieved. Tatum praised Brown as a player and a person, wishing him well as he moves on to a new chapter in his career.",
+      "summary": "Jayson Tatum has expressed his gratitude and respect for Jaylen Brown as they part ways after nine years of playing together. Tatum reflected on their time together, from first-round exits to winning a championship, and wished Brown well in his future endeavors.",
       "category": "NBA",
       "relevance": 6,
       "url": "https://old.reddit.com/r/nba/comments/1umr2rc/jayson_tatum_bids_farewell_to_jaylen_brown/",
@@ -417,35 +381,71 @@
       "published": "2026-07-03T21:45:12+00:00"
     },
     {
-      "headline": "Top Christian and Non-Christian Books of 2026",
-      "summary": "A list of the top books of 2026 so far has been released, featuring standout Christian titles, church history, memoirs, biographies, and general market nonfiction. The list highlights a range of genres and topics, showcasing the diversity of Christian and non-Christian literature.",
+      "headline": "Family Steps in to Revive Dying Casino Town of Primm, Nevada",
+      "summary": "The town of Primm, Nevada, was on the verge of decline, but the family it was named after has stepped in to revive it. The family faces the challenge of restoring the once-thriving casino town to its former glory.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/03/nx-s1-5822582/demise-and-possible-resurrection-of-primm-nevada",
+      "source": "NPR News",
+      "published": "2026-07-03T15:55:39-04:00"
+    },
+    {
+      "headline": "Odin and Wikipedia Engagement Farming Discussed",
+      "summary": "An article on katamari64.se explores the topic of Odin and Wikipedia engagement farming, sparking a discussion on Hacker News. The article and subsequent comments delve into the intricacies of engagement farming and its implications.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://katamari64.se/posts/2026/odin-wikipedia/",
+      "source": "Hacker News",
+      "published": "2026-07-03T23:24:35+00:00"
+    },
+    {
+      "headline": "NASA Launches Mission to Save Falling Space Telescope",
+      "summary": "A NASA-funded robot has been launched to rescue a falling space telescope and prevent it from burning up in the atmosphere. The mission aims to catch the telescope in mid-orbit and blast it back to safety.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T10:28:17.005Z"
+    },
+    {
+      "headline": "Turkish Comedian Detained for Jokes About Erdoğan and Islam",
+      "summary": "Deniz Göktaş, a popular Turkish comedian, has been accused of inciting hatred and hostility for his jokes about Erdoğan and Islam. The comedian's detention is part of a broader crackdown on free speech in Turkey.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c36yrlzew39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T11:30:58.040Z"
+    },
+    {
+      "headline": "Dissident Hong Kong Bookseller Lam Wing-kee Passes Away",
+      "summary": "Lam Wing-kee, a prominent Hong Kong bookseller who defied China by selling material critical of Beijing, has died at the age of 70. Wing-kee's passing is a significant loss for the pro-democracy movement in Hong Kong.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cwy0wy0nenvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-03T16:31:40.087Z"
+    },
+    {
+      "headline": "Weekend A La Carte Features Faith, History, and Culture",
+      "summary": "The latest Weekend A La Carte features a collection of articles and resources on faith, history, and culture, including the Presbyterian rebellion and the Gettysburg Address. The compilation offers a diverse range of topics and perspectives.",
       "category": "Faith",
       "relevance": 4,
-      "url": "https://www.challies.com/articles/my-favorite-books-of-2026-so-far/",
+      "url": "https://www.challies.com/a-la-carte/weekend-a-la-carte-july-4-2026/",
       "source": "Challies",
-      "published": "2026-07-03T04:02:00+00:00"
+      "published": "2026-07-04T04:01:00+00:00"
     },
     {
-      "headline": "Weekly Roundup of Christian Articles and Resources",
-      "summary": "A weekly roundup of Christian articles and resources has been published, featuring topics such as faith, prayer, and baptism. The roundup includes a range of perspectives and insights, covering various aspects of Christian life and practice.",
+      "headline": "Free Stuff Fridays Offers Study Bible and Other Resources",
+      "summary": "The Free Stuff Fridays initiative is offering a study Bible and other resources from B&H Publishing and Moody Publishers. The free resources are available for a limited time and provide valuable tools for spiritual growth and development.",
       "category": "Faith",
       "relevance": 3,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-3-2026/",
-      "source": "Challies",
-      "published": "2026-07-03T04:01:00+00:00"
-    },
-    {
-      "headline": "Free Christian Study Bible Giveaway",
-      "summary": "A free Christian study Bible is being given away as part of a weekly promotion, offering readers a chance to deepen their understanding of scripture. The giveaway is a valuable resource for those looking to explore their faith and engage with the Bible in a more meaningful way.",
-      "category": "Faith",
-      "relevance": 2,
       "url": "https://www.challies.com/giveaways/free-stuff-fridays-bh-publishing-2/",
       "source": "Challies",
       "published": "2026-07-03T16:01:00+00:00"
     },
     {
-      "headline": "Amsterdam's Historic Role in Fire Department Development",
-      "summary": "Amsterdam is credited with inventing the fire department, with a rich history of innovation and development in firefighting. The city's early efforts in establishing a fire department have had a lasting impact on modern firefighting practices and emergency services.",
+      "headline": "17th Century Amsterdam's Firefighting System Explored",
+      "summary": "An article on Works in Progress explores the firefighting system developed by the Van der Heyden brothers in 17th century Amsterdam. The system, which was a precursor to modern fire departments, is a fascinating example of innovation and problem-solving in history.",
       "category": "Other",
       "relevance": 2,
       "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
