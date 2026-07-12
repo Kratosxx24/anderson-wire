@@ -1,28 +1,46 @@
 {
-  "generated_at": "2026-07-12T22:31:59.491519+00:00",
+  "generated_at": "2026-07-12T23:35:30.599952+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "US Declares Strait of Hormuz Open Amid Iranian Claims of Closure",
-      "summary": "The United States says navigation through the Strait remains safe, contradicting Iran’s announcement that it had shut the waterway. Iran simultaneously launched broad attacks on U.S. allies and regional bases.",
-      "category": "World",
+      "headline": "Autonomous LLM Agent Executes Full-Scale Ransomware Attack Without Human Input",
+      "summary": "Researchers observed a large‑language‑model driven tool that infiltrated servers, exfiltrated credentials, encrypted data and left a ransom note after a single command. The proof‑of‑concept shows AI can automate the entire cyber‑extortion workflow.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-11T19:30:36.397Z"
+      "url": "https://old.reddit.com/r/artificial/comments/1uuouu7/someone_built_an_ai_agent_that_hacks_networks_and/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T19:22:25+00:00"
     },
     {
-      "headline": "LeBron’s Free‑Agency Timeline Hinges on Pending Aspiration Ruling",
-      "summary": "LeBron James and the teams courting him are waiting for a court decision that could set a new evidentiary standard for cap violations. If the ruling raises the proof bar, it would effectively let clubs skirt salary‑cap limits.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1uuikrk/lebron_is_not_waiting_on_the_wc_to_end_he_and_the/",
-      "source": "r/NBA",
-      "published": "2026-07-12T15:29:57+00:00"
+      "headline": "System UI Clarity Is Sliding Back, Not Forward",
+      "summary": "Daring Fireball notes that both Windows and macOS interfaces have shifted from improving visual clarity to becoming muddier and less consistent. The trend suggests a broader design fatigue across operating systems.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://grumpy.website/1723",
+      "source": "Daring Fireball",
+      "published": "2026-07-12T19:51:16+00:00"
     },
     {
-      "headline": "Why Hell Remains a Powerful Evangelical Message",
-      "summary": "The article argues that humanity’s original goodness has been marred by a fallen world, explaining the persistence of evil. It suggests that the concept of hell can serve as a compelling motivator for evangelism.",
+      "headline": "macOS 27 Introduces Command‑Line Access to Private Cloud AI Models",
+      "summary": "Apple’s new ‘fm’ tool lets users run local or cloud‑based foundation models directly from Terminal, opening scriptable AI capabilities for developers. The feature works without special entitlements, expanding AI integration into everyday Mac apps.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/insidegui/TwoMillionKit",
+      "source": "Daring Fireball",
+      "published": "2026-07-12T18:04:05+00:00"
+    },
+    {
+      "headline": "Researcher Builds 113‑Million‑Parameter LLM for Seismic Forecasting From Scratch",
+      "summary": "Using the NanoGPT framework, a developer trained a language model on earthquake data to generate seismological predictions. The open‑source project demonstrates that modest compute can produce domain‑specific AI tools.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/jiazhe868/nanogpt-seis",
+      "source": "Hacker News",
+      "published": "2026-07-12T21:58:38+00:00"
+    },
+    {
+      "headline": "The Gospel Coalition Warns Against Ignoring Hell’s Persuasive Pull",
+      "summary": "The article argues that humanity’s fallen state makes evil attractive and that believers must recognize hell’s role in tempting people. It calls for vigilance in preaching the reality of judgment.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/hell-evangelistic-appeal/",
@@ -30,53 +48,35 @@
       "published": "2026-07-12T04:00:00+00:00"
     },
     {
-      "headline": "System UI Clarity Is Declining Across Windows and macOS",
-      "summary": "The author observes that both Windows and macOS have moved from a period of improving interface clarity to one of gradual degradation. This trend makes everyday dialogs and alerts harder to read and use.",
-      "category": "Tech/AI",
+      "headline": "Matthew 25 Sparks Fierce Political Clash Over U.S. Immigration Policy",
+      "summary": "Pastors, Black church leaders, and the Pope cite the biblical call to welcome strangers, while evangelical politicians defend Trump’s restrictive stance. The dispute highlights how scripture is being wielded on both sides of the immigration debate.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://grumpy.website/1723",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T19:51:16+00:00"
-    },
-    {
-      "headline": "Apple’s New ‘fm’ CLI Lets macOS 27 Run Private‑Cloud AI Models Without Entitlements",
-      "summary": "macOS 27 ships a command‑line tool called fm that can invoke local or private‑cloud foundation models from Terminal or scripts. Developers can now embed AI inference directly into Mac apps without special entitlements.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/insidegui/TwoMillionKit",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T18:04:05+00:00"
-    },
-    {
-      "headline": "Report Analyzes 2026 State of MCP Security",
-      "summary": "The linked PDF surveys the current security posture of MCP systems, highlighting emerging threats and gaps. It offers a set of recommendations aimed at hardening defenses for the coming year.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
-      "source": "Hacker News",
-      "published": "2026-07-12T20:49:46+00:00"
-    },
-    {
-      "headline": "Bangkok Bar Fire Leaves at Least 27 Dead",
-      "summary": "Firefighters arrived at a crowded bar in Chatuchak district to find patrons scrambling through intense flames. The blaze resulted in a death toll of at least 27 people.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T19:45:05.750Z"
-    },
-    {
-      "headline": "Bangkok Pub Blaze Kills 27, Video Shows Inferno at Front Door",
-      "summary": "First‑responder footage captured a massive fire engulfing a Bangkok pub, with thick smoke pouring from the entrance. Officials confirmed that at least 27 people lost their lives in the incident.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
       "source": "NPR News",
-      "published": "2026-07-12T15:53:24-04:00"
+      "published": "2026-07-12T07:57:10-04:00"
     },
     {
-      "headline": "Senator Lindsey Graham Dies at 71; Trump Calls Him a Patriot",
-      "summary": "Longtime South Carolina senator and close ally of Donald Trump passed away after a brief illness. Trump issued a tribute, describing Graham as a true American patriot who will be greatly missed.",
+      "headline": "Pitchfork Revisits Rush’s 1985 ‘Power Windows’ Album",
+      "summary": "In its weekly deep‑dive series, Pitchfork examines the prog‑rock trio’s synth‑laden record, noting its blend of technical prowess and pop sensibility. The review positions the album as a high point of the band’s 1980s output.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/rush-power-windows/",
+      "source": "Pitchfork",
+      "published": "2026-07-12T04:00:00+00:00"
+    },
+    {
+      "headline": "U.S. Declares Strait of Hormuz Open Amid Ongoing Exchanges With Iran",
+      "summary": "While Iranian forces claim to have closed the vital shipping lane and launched attacks on regional assets, the United States maintains that navigation remains unhindered. Tensions continue as both sides trade strikes in the strategic waterway.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-11T19:30:36.397Z"
+    },
+    {
+      "headline": "Senator Lindsey Graham Dies at 71 After Sudden Illness",
+      "summary": "The South Carolina Republican, a longtime ally of Donald Trump, passed away with early reports linking his death to a heart‑related issue. Officials released a brief statement confirming the cause remains under investigation.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
@@ -84,8 +84,8 @@
       "published": "2026-07-12T06:24:17.882Z"
     },
     {
-      "headline": "Typhoon Forces Near‑Two‑Million Evacuations in China’s Zhejiang Province",
-      "summary": "A powerful typhoon made landfall in eastern China, prompting the evacuation of almost two million residents. Schools, workplaces and many transport services were suspended in Zhejiang province.",
+      "headline": "Typhoon Hits Zhejiang, Prompting Evacuation of Almost Two Million in China",
+      "summary": "Authorities suspended schools, work and outdoor events as the storm made landfall, and many transport services were halted. The massive relocation underscores the typhoon’s severity and its impact on daily life.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
@@ -93,8 +93,62 @@
       "published": "2026-07-11T12:06:47.009Z"
     },
     {
-      "headline": "Flash-MSA Boosts Million-Token Training via Sparse Attention",
-      "summary": "The Flash-MSA library introduces sparse attention kernels that cut compute time for training massive token sequences. By leveraging GPU‑friendly operations, it enables models to handle over a million tokens without prohibitive memory costs.",
+      "headline": "WorkOS Tackles OAuth Chaos for Faster App Integration",
+      "summary": "WorkOS sponsored the recent DF event, highlighting how developers spend weeks building OAuth flows and token management for each integration. Their platform aims to streamline these processes so product teams can focus on core features.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+      "source": "Daring Fireball",
+      "published": "2026-07-12T22:17:54+00:00"
+    },
+    {
+      "headline": "SwiftUI Mac App Guide Gains Unexpected Buzz",
+      "summary": "Paulo Andrade’s tutorial on building Mac‑focused apps with SwiftUI has gone viral, earning mentions on Mastodon, iOS Dev Weekly, and the Swift Blog Carnival. The post even caught John Gruber’s attention, boosting its visibility among developers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
+      "source": "Daring Fireball",
+      "published": "2026-07-12T21:18:24+00:00"
+    },
+    {
+      "headline": "Survey of Architecture Description Languages Released",
+      "summary": "A comprehensive paper on Architecture Description Languages (ADLs) has been posted, detailing their role in system design and analysis. The work, shared on Hacker News, invites discussion on formalizing software architecture specifications.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://ics.uci.edu/~taylor/documents/2000-ADLs-TSE.pdf",
+      "source": "Hacker News",
+      "published": "2026-07-12T22:54:07+00:00"
+    },
+    {
+      "headline": "Proposed Computational Speed Limit Sparks Debate",
+      "summary": "Caolan’s recent note argues that hardware performance may soon hit practical limits, prompting reconsideration of efficiency over raw speed. The article, circulating on Hacker News, explores implications for future software development.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://caolan.uk/notes/2026-07-02_a_speed_limit_for_computers.cm",
+      "source": "Hacker News",
+      "published": "2026-07-12T22:29:46+00:00"
+    },
+    {
+      "headline": "Nobel Chemist Heads to China to Lead AI Materials Lab",
+      "summary": "A Nobel laureate in chemistry has departed the United States to direct a new artificial‑intelligence‑driven materials research center in China. The move underscores growing international competition in AI‑enabled scientific research.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/artificial/comments/1uupe2p/nobelwinning_chemist_leaves_us_to_direct_ai/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T19:42:52+00:00"
+    },
+    {
+      "headline": "Beyond Passing Tests: Choosing Online Evaluations for AI Agents",
+      "summary": "The post discusses the next steps after an AI agent clears benchmark tests, focusing on online evaluation methods. It offers guidance on selecting metrics that reflect real‑world performance and reliability.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/artificial/comments/1uuswa9/your_ai_agent_passed_all_tests_now_what_what_are/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T22:00:50+00:00"
+    },
+    {
+      "headline": "Flash‑MSA Boosts Million‑Token Training via Sparse Attention",
+      "summary": "Researchers introduced Flash‑MSA, a library that speeds up large‑scale language model training using sparse attention kernels. Early results show significant reductions in compute time without sacrificing accuracy.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://nanduruganesh.github.io/flash-msa/",
@@ -102,26 +156,17 @@
       "published": "2026-07-12T20:46:43+00:00"
     },
     {
-      "headline": "Causality Theory Meets Mechanistic Interpretability in LLMs",
-      "summary": "Researchers apply formal causal analysis to dissect how large language models process information. Their framework aims to pinpoint which internal components drive specific behaviors, offering a systematic path to model transparency.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
-      "source": "Hacker News",
-      "published": "2026-07-12T18:04:41+00:00"
-    },
-    {
-      "headline": "Raptors Trade for Kawhi Leonard Despite No ‘Smoking Gun’ Evidence",
-      "summary": "Toronto’s front office justified acquiring the star forward by noting the investigation uncovered no definitive wrongdoing. Executives said any serious issue would have already surfaced, so they moved forward with the deal.",
+      "headline": "EuroLeague Star Alpha Diallo Joins Nuggets on $1.4M Deal",
+      "summary": "Defender of the Year Alpha Diallo, fresh from a standout EuroLeague season, has inked a one‑year, $1.4 million contract with Denver. The 29‑year‑old makes his NBA debut after a successful stint in Europe.",
       "category": "NBA",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1uum2xb/haynes_the_kawhi_leonard_aspiration_investigation/",
+      "url": "https://old.reddit.com/r/nba/comments/1uuq0us/charania_euroleague_defender_of_the_year_alpha/",
       "source": "r/NBA",
-      "published": "2026-07-12T17:40:13+00:00"
+      "published": "2026-07-12T20:06:44+00:00"
     },
     {
-      "headline": "DeAndre Jordan Signs Two‑Year, $7.9 M Return Deal with New Orleans",
-      "summary": "The veteran center agreed to rejoin the Pelicans on a fully guaranteed contract through 2025. The modest salary reflects both his experience and the team’s salary‑cap strategy.",
+      "headline": "DeAndre Jordan Re‑Signs with Pelicans on Two‑Year, $7.9M Deal",
+      "summary": "Veteran center DeAndre Jordan has agreed to a fully guaranteed two‑year contract worth $7.9 million to return to the New Orleans Pelicans. The move reunites him with the team that drafted him, adding experience to the roster.",
       "category": "NBA",
       "relevance": 7,
       "url": "https://old.reddit.com/r/nba/comments/1uulmfx/fischer_deandre_jordans_agreement_to_return_to/",
@@ -129,35 +174,35 @@
       "published": "2026-07-12T17:23:28+00:00"
     },
     {
-      "headline": "Matthew 25 Sparks Fierce Debate Over U.S. Immigration Policy",
-      "summary": "A biblical passage about caring for strangers has become a flashpoint between mainline clergy, Black Protestant leaders, the Pope, and evangelical politicians defending Trump’s stance. The clash highlights how scripture is wielded in the culture war over migrants.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
-      "source": "NPR News",
-      "published": "2026-07-12T07:57:10-04:00"
-    },
-    {
-      "headline": "Rush’s ‘Power Windows’ Revisited: Synth‑Heavy Prog Meets Pop Ambition",
-      "summary": "Pitchfork’s deep‑dive examines the 1985 album that marked the trio’s shift toward glossy keyboards and radio‑friendly hooks. While the musicianship remains impressive, the record divides fans between classic prog purists and 80s pop enthusiasts.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/rush-power-windows/",
-      "source": "Pitchfork",
-      "published": "2026-07-12T04:00:00+00:00"
-    },
-    {
-      "headline": "Paulo Andrade’s SwiftUI Mac App Tutorial Gains Unexpected Buzz",
-      "summary": "A detailed walkthrough of building a macOS‑focused app with SwiftUI went viral, earning mentions on Mastodon, iOS Dev Weekly, and Daring Fireball. The post’s popularity underscores growing developer interest in SwiftUI for desktop software.",
+      "headline": "First DIY PCB Project Walkthrough Published",
+      "summary": "An enthusiast shares a step‑by‑step account of designing and building their inaugural printed circuit board. The tutorial covers schematic creation, layout, fabrication, and testing, offering practical tips for beginners.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T21:18:24+00:00"
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "source": "Hacker News",
+      "published": "2026-07-12T22:56:56+00:00"
     },
     {
-      "headline": "Toronto Police Seek Suspects After Festival Shooting Leaves Two Dead",
-      "summary": "A celebration of Latin culture turned tragic when gunfire claimed at least two lives and injured four others. Authorities are canvassing the area and reviewing footage to identify the shooters.",
+      "headline": "27 Dead as Bangkok Bar Blaze Engulfs Patrons",
+      "summary": "Firefighters arrived at a crowded bar in Chatuchak district to find customers fleeing through flames. The inferno claimed at least 27 lives, overwhelming emergency responders.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-12T19:45:05.750Z"
+    },
+    {
+      "headline": "Bangkok Pub Inferno Leaves 27 Fatalities",
+      "summary": "First‑responder footage shows a massive fire roaring from the front entrance of a northern‑city pub. Officials confirm at least 27 people died in the blaze.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
+      "source": "NPR News",
+      "published": "2026-07-12T15:53:24-04:00"
+    },
+    {
+      "headline": "Two Killed, Four Injured in Toronto Latin Festival Shooting",
+      "summary": "Police are searching for suspects after a gun attack at a Latin‑culture celebration in Canada’s largest city. The Saturday night shooting left at least two dead and four wounded.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
@@ -165,8 +210,44 @@
       "published": "2026-07-12T13:22:29-04:00"
     },
     {
-      "headline": "Adaptive Recall Introduces Persistent Memory for AI Assistants",
-      "summary": "The new platform lets conversational agents store and retrieve information across sessions using a modular memory core. By integrating with existing models, it aims to make assistants more consistent and context‑aware.",
+      "headline": "‘Every Frame Perfect’: Why UI Consistency Builds Trust",
+      "summary": "Nikita Prokopov argues that an app’s visual state at any moment must be explainable, as users judge quality solely by the interface. Maintaining pixel‑perfect frames, he says, is essential for credibility.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "source": "Daring Fireball",
+      "published": "2026-06-13"
+    },
+    {
+      "headline": "Cyclosporiasis Spreads to 31 U.S. States, Source Still Unknown",
+      "summary": "Health officials report a surge in intestinal illness causing diarrhea and nausea across more than half the country. Investigators are still trying to pinpoint the contamination source.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
+      "source": "NPR News",
+      "published": "2026-07-12T12:48:41-04:00"
+    },
+    {
+      "headline": "Musk and Altman Trade Barbs Over Who’s Pulling the Bigger Scam",
+      "summary": "Elon Musk tweeted that Sam Altman excels at scamming, while Altman retorted that Musk is selling investors on short‑term space data centers. The public spat highlights their rivalry over AI and space ventures.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://x.com/sama/status/2075982617976230043",
+      "source": "Daring Fireball",
+      "published": "2026-07-11T16:36:40.000Z"
+    },
+    {
+      "headline": "Data‑Driven Look at the ‘Abundance’ Housing Bottleneck",
+      "summary": "An analysis examines why housing supply outpaces capacity yet yields lower throughput, using real‑world metrics. The post invites discussion on structural constraints in urban development.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://laxmena.com/same-capacity-less-throughput",
+      "source": "Hacker News",
+      "published": "2026-07-12T21:38:10Z"
+    },
+    {
+      "headline": "Adaptive Recall Launches Persistent Memory for AI Assistants",
+      "summary": "The startup introduces a system that lets AI agents retain information across sessions via a memory layer. Early adopters can integrate the technology to improve continuity in conversational tools.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.adaptiverecall.com/",
@@ -174,44 +255,35 @@
       "published": "2026-07-12T21:08:20+00:00"
     },
     {
-      "headline": "The One‑Step Trap: Pitfalls of Short‑Horizon Optimization in AI Research",
-      "summary": "The article warns that focusing on immediate performance gains can lead researchers into deceptive local optima. It advocates broader evaluation criteria to avoid misleading progress signals.",
+      "headline": "Zero‑Parameter Go Model Holds Its Own Against KataGo in Early Tests",
+      "summary": "After four games, the new model split results 2‑2 with the strong KataGo engine. Proponents claim that expanding the test set will prove the theory’s superiority.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-      "source": "Hacker News",
-      "published": "2026-07-12T18:41:15+00:00"
+      "url": "https://old.reddit.com/r/artificial/comments/1uuguzn/testing_a_zeroparameter_model_against_katago/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T14:23:05+00:00"
     },
     {
-      "headline": "Claude Code Burns 33K Tokens Pre‑Prompt, Far Outpacing OpenCode’s 7K",
-      "summary": "After a forced switch from OpenCode due to Meridian problems, the team observed token usage soaring with Claude Code. A brief test confirmed Claude Code consumes roughly five times more tokens before even reading the prompt.",
+      "headline": "LLMs Appear Indifferent to Message Age Within a Thread",
+      "summary": "Users notice that large language models treat a week‑old query the same as one posted minutes earlier in the same conversation. The behavior suggests the models lack temporal context across thread interactions.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-      "source": "Hacker News",
-      "published": "2026-07-12T17:36:18.269Z"
+      "url": "https://old.reddit.com/r/artificial/comments/1uudl7w/anyone_else_notice_llms_treat_a_weekold_message/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T12:02:14+00:00"
     },
     {
-      "headline": "EuroLeague Defender Alpha Diallo Lands $1.4M One‑Year Deal with Denver",
-      "summary": "The 29‑year‑old former Providence star, named EuroLeague Defender of the Year, will join the Nuggets on a guaranteed contract. Agents Jared Mucha and Javon Phillips confirmed the move to ESPN.",
+      "headline": "LeBron’s Next Move Hinges on Aspiration Ruling, Not World Cup",
+      "summary": "LeBron and the teams courting him are waiting for a court decision on the Aspiration case before making any contract moves. If the ruling demands iron‑clad proof of wrongdoing, it could set a template for future salary‑cap circumvention.",
       "category": "NBA",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1uuq0us/charania_euroleague_defender_of_the_year_alpha/",
+      "url": "https://old.reddit.com/r/nba/comments/1uuikrk/lebron_is_not_waiting_on_the_wc_to_end_he_and_the/",
       "source": "r/NBA",
-      "published": "2026-07-12T20:06:44+00:00"
+      "published": "2026-07-12T15:29:57+00:00"
     },
     {
-      "headline": "Should the NBA Crack Down on Flopping Like Soccer’s Red Cards?",
-      "summary": "A World Cup red‑card incident sparked a question about why the NBA still treats flopping lightly. While the league issues fines and technical calls, it lacks the severe penalties seen in soccer.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1uu3dv6/after_embolos_red_card_vs_argentina_should_the/",
-      "source": "r/NBA",
-      "published": "2026-07-12T02:52:16+00:00"
-    },
-    {
-      "headline": "Works & Wonders July 12: Viking Christians, Giant Egg‑Chicken Puzzle, and More",
-      "summary": "The latest issue curates quirky stories ranging from medieval faith to Amazon knockoffs and a mind‑bending chicken‑egg paradox. It also includes a brief devotional.",
+      "headline": "Works & Wonders July Issue Serves Up Quirky Curiosities",
+      "summary": "The latest edition bundles oddities from Viking Christians to a giant chicken‑and‑egg puzzle, plus a short devotional. It continues the series that mixes strange facts with uplifting reflections.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/works-wonders-july-12/",
@@ -219,35 +291,26 @@
       "published": "2026-07-12T04:01:00+00:00"
     },
     {
-      "headline": "WorkOS Powers Seamless OAuth Integrations for Developers",
-      "summary": "WorkOS sponsors Daring Fireball, highlighting how each new integration demands a distinct OAuth flow and token lifecycle. The piece stresses the hidden infrastructure work before any product code is written.",
+      "headline": "Anthropic Extends Claude Fable Access After GPT‑5.6 Classification",
+      "summary": "Anthropic announced that Claude Fable 5 will stay available across all paid plans despite reclassifying the model as a mythic‑class system. The company also kept the weekly rate limit for Claude Code unchanged.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T22:17:54+00:00"
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-12T21:20:07+00:00"
     },
     {
-      "headline": "Chromium 148 Makes Math.tanh a New OS Fingerprint Vector",
-      "summary": "Researchers show that the tanh function now leaks subtle timing differences that reveal the underlying operating system. The finding adds another tool for browser‑based tracking.",
+      "headline": "OpenAI’s Court Battle Over Training Data Gets Messier",
+      "summary": "Reports suggest OpenAI told the court it cannot search its training logs for copyrighted material, yet evidence hints they may have done such searches and deleted billions of chat logs. The contradictions are fueling a growing legal and public‑relations crisis.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
-      "source": "Hacker News",
-      "published": "2026-07-12T00:00:00Z"
+      "url": "https://old.reddit.com/r/artificial/comments/1uul5ef/this_openai_court_story_is_starting_to_look_ugly/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T17:06:34+00:00"
     },
     {
-      "headline": "‘Every Frame Perfect’: UI Transparency as Trust Builder",
-      "summary": "Nikita “Tonsky” Prokopov argues that any screenshot of an app should be explainable, making UI the primary trust signal. Consistent visual fidelity across frames signals quality to users who can’t inspect code.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
-      "source": "Daring Fireball",
-      "published": "2026-06-13"
-    },
-    {
-      "headline": "Lindsey Graham: From Trump Critic to GOP Ally, a Maga‑Era Survivor",
-      "summary": "The BBC profile traces Graham’s shift from opposing Donald Trump to aligning with him, showcasing his adaptability. His career reflects a broader trend of politicians reshaping stances to stay relevant.",
+      "headline": "Lindsey Graham: From Trump Critic to GOP Ally in the MAGA Era",
+      "summary": "The BBC profile traces Graham’s shift from outspoken Trump opponent to a pragmatic collaborator as the Republican base transformed. His adaptability has kept him relevant throughout the party’s turbulent recent history.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
@@ -255,17 +318,35 @@
       "published": "2026-07-12T19:42:26.525Z"
     },
     {
-      "headline": "Zen Mode: Open‑Source Global Focus Tool for macOS",
-      "summary": "The GitHub project offers a system‑wide distraction‑free mode that dims notifications and windows. Early Hacker News comments note its simplicity and potential for deep work.",
+      "headline": "Codebase Posters Turns Git History Into Live Art Exhibits",
+      "summary": "The open‑source utility renders commit logs into generative poster images that display locally without uploading data. Users can run a single command in any repository to view an on‑the‑fly visual history of their code.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://github.com/cabeen/zen-mode",
+      "url": "https://github.com/unable12/codebase-posters",
       "source": "Hacker News",
-      "published": "2026-07-12T20:52:04+00:00"
+      "published": "2026-07-12T22:26:14+00:00"
+    },
+    {
+      "headline": "Burned British Couple Pulled from Spanish Wildfire Ravine",
+      "summary": "Two Brits with severe burns were found semi‑conscious after being trapped by flames in Almería province. Emergency crews rescued them and are treating their injuries.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-12T10:06:38.420Z"
+    },
+    {
+      "headline": "Why Full‑Scale AI Automation Remains a Fantasy",
+      "summary": "An observer argues that automating an entire Fortune 500 operation without human oversight is unrealistic given AI’s inherent limits. The piece outlines a framework emphasizing the need for verification and control.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/artificial/comments/1uuio0p/framework_for_understanding_the_current_problem/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T15:33:30+00:00"
     },
     {
       "headline": "Stacks Brings Classic HyperCard Stacks to Modern macOS",
-      "summary": "The app runs archived HyperCard files natively, preserving original typography, sound, and speech synthesis without emulation. Users can browse the Internet Archive collection and interact with stacks instantly.",
+      "summary": "The new app runs vintage HyperCard files natively, offering period‑accurate typography, sound, and speech synthesis without emulation. Users can browse the Internet Archive’s collection and launch stacks with a single click.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://morphing.cloud/hypercard/",
@@ -273,26 +354,35 @@
       "published": "2026-07-12T15:42:21+00:00"
     },
     {
-      "headline": "Hijax Extends JAX with Custom Types",
-      "summary": "The JAX docs introduce hijax, a tool for defining user‑created array types that integrate with JAX’s transformation pipeline. It shows how to register new types so they work with JIT compilation and autodiff.",
+      "headline": "High‑School Student Seeks Roadmap into AI and Tech Careers",
+      "summary": "A sophomore asks for guidance on navigating the broad AI field, noting they’re taking Harvard’s CS50P to build coding fundamentals. The post invites practical steps and resources for aspiring technologists.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://docs.jax.dev/en/latest/hijax_types.html",
-      "source": "Hacker News",
-      "published": "2026-07-12T19:54:30+00:00"
+      "url": "https://old.reddit.com/r/artificial/comments/1uu60b8/how_to_break_into_techai_need_help_pls_any_advice/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T05:04:43+00:00"
     },
     {
-      "headline": "Geohot Calls Out LLM Hype While Praising Their Value",
-      "summary": "In a candid blog post, the author praises large language models for their practical utility but warns against inflated expectations and buzz. He argues that realistic deployment, not hype, will drive lasting impact.",
+      "headline": "Qatar's Former Emir Dies at 74, Leaving Behind a Gas-Rich Legacy",
+      "summary": "Sheikh Hamad bin Khalifa Al Thani transformed Qatar into a global power after staging a bloodless coup in 1996. His reign saw Qatar's economy boom thanks to its vast gas reserves.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-12T16:07:59.880Z"
+    },
+    {
+      "headline": "AI Tools for 3D Character Models: Separating Fact from Fiction",
+      "summary": "The quest for ready-to-use 3D character models has led to a mix-and-match approach, with different tools suited for various projects like animation, 3D printing, and gaming.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
-      "source": "Hacker News",
-      "published": "2026-07-12T00:00:00-07:00"
+      "url": "https://old.reddit.com/r/artificial/comments/1uuc5oh/which_ai_tools_can_generate_readytouse_3d/",
+      "source": "r/Artificial",
+      "published": "2026-07-12T10:50:30+00:00"
     },
     {
-      "headline": "UNC’s Caleb Wilson Logs 2,500 Shots Daily, No Mechanical Changes",
-      "summary": "Wilson says he’s been taking up to 2,500 shots each day for two‑and‑a‑half months, focusing on confidence through volume rather than tweaking his form. He notes the NBA schedule now lets him treat practice as his full‑time job.",
+      "headline": "Caleb Wilson's Shot-Filled Regimen Fuels NBA Ambitions",
+      "summary": "Caleb Wilson is taking 2,000 to 2,500 shots every day to boost his confidence and NBA prospects, a regimen he couldn't pursue during his college days.",
       "category": "NBA",
       "relevance": 5,
       "url": "https://old.reddit.com/r/nba/comments/1uuszsp/lorenzi_caleb_wilson_on_what_mechanical_work_he/",
@@ -300,125 +390,17 @@
       "published": "2026-07-12T22:04:51+00:00"
     },
     {
-      "headline": "76ers’ No.2 Salary Player Makes First Summer League Appearance",
-      "summary": "The team’s second‑highest earner was unveiled to teammates during the Vegas Summer League, sparking buzz about his role. Fans and analysts are watching to see how his contract translates to on‑court performance.",
-      "category": "NBA",
+      "headline": "BBC's Veteran Vatican Correspondent David Willey Dies at 93",
+      "summary": "David Willey, a renowned BBC correspondent, spent decades reporting on the Vatican, witnessing five papacies and leaving an indelible mark on the BBC's foreign reporting.",
+      "category": "Faith",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uu5wyh/2nd_highest_paid_76er_is_introduced_to_teammates/",
-      "source": "r/NBA",
-      "published": "2026-07-12T05:00:13+00:00"
-    },
-    {
-      "headline": "Kode Dot: Tiny Programmable Gadget for Makers and Pentesters",
-      "summary": "The Kode Dot is a pocket‑sized, open‑source device that runs custom scripts for hardware hacking and security testing. Its compact form factor gives developers a portable platform for on‑the‑go experimentation.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://kode.diy",
-      "source": "Hacker News",
-      "published": "2026-07-12T21:27:29+00:00"
-    },
-    {
-      "headline": "sqlite-utils 4.1 Adds Python Code Hooks to Insert and Upsert",
-      "summary": "The latest sqlite‑utils update introduces a --code flag, letting users supply Python functions that generate rows during insert or upsert operations. This enhancement streamlines complex data transformations directly from the command line.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Jul/11/sqlite-utils/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-11T23:50:20+00:00"
-    },
-    {
-      "headline": "Cyclospora Outbreak Spreads to Over Half of U.S. States",
-      "summary": "Health officials report a sharp rise in cyclospora infections, now confirmed in 31 states, causing gastrointestinal symptoms. The source remains unknown, prompting investigations into food and water supplies.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
-      "source": "NPR News",
-      "published": "2026-07-12T12:48:41-04:00"
-    },
-    {
-      "headline": "Severely Burned British Couple Found Alive in Spain Wildfire Ravine",
-      "summary": "Firefighters rescued a couple with extensive burns after they became trapped in a ravine during the Almería wildfires. They were discovered semi‑conscious, with roughly 40% of their bodies affected.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-12T10:06:38.420Z"
+      "published": "2026-07-12T15:22:52.464Z"
     },
     {
-      "headline": "Altman and Musk Trade Barbs Over Alleged ‘Scams’",
-      "summary": "Elon Musk tweeted that Sam Altman excels at scamming, while Altman retorted that Musk is selling investors on speculative space data centers. The exchange highlights the rivalry between the two tech leaders.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://x.com/sama/status/2075982617976230043",
-      "source": "Daring Fireball",
-      "published": "2026-07-11T16:36:40.000Z"
-    },
-    {
-      "headline": "AI‑Powered Text Bots Poised to Flood Voters with Personalized Messages",
-      "summary": "Political campaigns are deploying language‑model‑driven bots that mimic a candidate’s voice to send targeted SMS outreach. While the technology could boost engagement, it also raises concerns about voter fatigue and manipulation.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5867763/ai-artificial-intelligence-data-texts-bots-voters-campaigns",
-      "source": "NPR News",
-      "published": "2026-07-12T05:00:00-04:00"
-    },
-    {
-      "headline": "Tiny8Bit Emulator Demos Run Classic Games in Browser",
-      "summary": "The site showcases a collection of minimalist 8‑bit emulators that run directly in the browser, demonstrating how much can be achieved with a few hundred lines of code. It highlights the educational value of compact emulator design.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "source": "Hacker News",
-      "published": "2026-07-12T20:23:05+00:00"
-    },
-    {
-      "headline": "OpenAI Guides Users to Upgrade from ChatGPT Classic to New Desktop App",
-      "summary": "The help page explains the steps to download the latest ChatGPT desktop client and sign in with existing credentials, noting the new version may coexist with the old one. It aims to smooth the transition for legacy users.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://help.openai.com/en/articles/20001276-moving-to-the-new-chatgpt-desktop-app",
-      "source": "Daring Fireball",
-      "published": "2026-07-11T22:38:39+00:00"
-    },
-    {
-      "headline": "Irish Data Centers Now Consume Nearly a Quarter of National Power",
-      "summary": "A recent analysis shows that data‑center operations account for about 23 % of Ireland’s electricity usage, raising concerns about sustainability and grid strain. The report calls for policy and efficiency measures as the sector expands.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
-      "source": "Hacker News",
-      "published": "2026-07-11T10:00:00.000Z"
-    },
-    {
-      "headline": "South Africa Deports Over 53,000 Migrants in Recent Crackdown",
-      "summary": "In response to large anti‑immigration protests, the government intensified removal operations, targeting undocumented foreigners across the country. Human‑rights groups warn the campaign may violate due process.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T18:57:17.723Z"
-    },
-    {
-      "headline": "Indian Muslim Judge Receives Death Threats After Sentencing Cow‑Vigilante Lynching",
-      "summary": "Judge Tabassum Khan, who convicted 14 Hindu men for a mob killing, has been subjected to online harassment and threats to his life. The case underscores rising sectarian tensions and intimidation of the judiciary.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T00:49:24.500Z"
-    },
-    {
-      "headline": "Russian Shelling Forces Panic Near Ukrainian Coffee Shop in Sumy",
-      "summary": "Surveillance footage captured civilians ducking and fleeing as artillery struck a street close to a popular coffee venue in the northeastern city. The incident highlights the ongoing danger to civilians even in everyday locations.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T09:03:17+00:00"
-    },
-    {
-      "headline": "Rookie Yaxel Appeals to LeBron for Spot on Warriors, Citing Mentorship Benefits",
-      "summary": "In a Reddit post, the newcomer expresses admiration for LeBron and suggests playing alongside veteran sharpshooter Stephen Curry could boost his development. He frames the request as a chance to learn from the league’s greatest shooter.",
+      "headline": "Young Player Seeks LeBron's Guidance and the Warriors' Roster",
+      "summary": "A young player has expressed his desire to learn from LeBron James and join the Warriors, citing the opportunity to play alongside the greatest shooter of all time and a close friend.",
       "category": "NBA",
       "relevance": 4,
       "url": "https://old.reddit.com/r/nba/comments/1uurvxs/yaxel_to_lebron_i_know_you_dont_like_rookies_that/",
@@ -426,31 +408,49 @@
       "published": "2026-07-12T21:19:50+00:00"
     },
     {
-      "headline": "Anthropic Extends Claude Fable 5 Access Across Paid Plans",
-      "summary": "Following the classification of GPT‑5.6 as a “Fable/Mythos” model, Anthropic announced it will keep Claude Fable 5 available to all paying customers and maintain the weekly limits for Claude Code. The move signals continued support for advanced creative AI features.",
-      "category": "Tech/AI",
+      "headline": "A Free Islamic Prayer App Aims to Help Users Stay Consistent",
+      "summary": "A new app offers a free Islamic prayer schedule to help users stay consistent in their daily prayers, aiming to make the practice more accessible and convenient.",
+      "category": "Faith",
       "relevance": 4,
-      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-12T21:20:07+00:00"
+      "url": "https://better-prayer.com",
+      "source": "Hacker News",
+      "published": "2026-07-12T21:41:04+00:00"
     },
     {
-      "headline": "NPR Explores Georgia’s Revolutionary Role Through Its Roadside Markers",
-      "summary": "Host Don Gonyea talks with producer Andrew Iden about a podcast that tours the state’s 2,000 historic markers, revealing lesser‑known stories of Georgia’s contribution to independence. The series uses the markers as a narrative framework to bring history to life.",
-      "category": "World",
-      "relevance": 4,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5886144/georgias-unique-in-the-american-revolution-told-through-its-historical-markers",
-      "source": "NPR News",
-      "published": "2026-07-12T17:08:15-04:00"
-    },
-    {
-      "headline": "Board‑Game Importer Discovers Challenges of Manufacturing Monopoly in the U.S.",
-      "summary": "After tariffs made imported Monopoly sets costly, entrepreneur Jonathan Silva attempted domestic production and encountered supply‑chain, cost, and regulatory hurdles. His experience illustrates the complexities of reshoring even simple consumer goods.",
-      "category": "Other",
+      "headline": "Can owners marry the players to circumvent the cap/apron?",
+      "summary": "",
+      "category": "NBA",
       "relevance": 3,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5887378/monopoly-tariffs-china-manufacturing-made-inusa",
-      "source": "NPR News",
-      "published": "2026-07-12T05:00:00-04:00"
+      "url": "https://old.reddit.com/r/nba/comments/1uurhyt/can_owners_marry_the_players_to_circumvent_the/",
+      "source": "r/NBA",
+      "published": "2026-07-12T21:04:19+00:00"
+    },
+    {
+      "headline": "Fans Predict the Next NBA MVP: A Look Back at 2021's Unlikely Choices",
+      "summary": "Reddit users predicted the next NBA MVP in 2021, with some surprising choices including Bradley Beal, Jonathan Isaac, and Aleksej Pokuševski, who may have been overlooked by experts.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1uul1i3/2021_rnba_predicts_the_next_unexpected_future_mvp/",
+      "source": "r/NBA",
+      "published": "2026-07-12T17:02:35+00:00"
+    },
+    {
+      "headline": "LeBron's 'I'm Coming Home' Essay: A 12-Year Anniversary",
+      "summary": "LeBron James' 2014 essay, where he announced his return to the Cavaliers, has become a benchmark for his career, with him now having played longer since writing it than he had before.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1uuhqii/yesterday_was_the_12year_anniversary_of_lebrons/",
+      "source": "r/NBA",
+      "published": "2026-07-12T14:57:54+00:00"
+    },
+    {
+      "headline": "Exploring the World of Cyberpunk Comics, Manga, and Graphic Novels",
+      "summary": "A new online publication has curated a list of cyberpunk comics, manga, and graphic novels, offering a glimpse into the genre's rich and diverse storytelling landscape.",
+      "category": "Other",
+      "relevance": 2,
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "source": "Hacker News",
+      "published": "2026-07-07T02:08:00+00:00"
     }
   ]
 }
