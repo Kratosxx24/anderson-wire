@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-13T08:29:06.559707+00:00",
+  "generated_at": "2026-07-13T11:42:58.445173+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Pelicans Lose $3M Due to Contract Technicality",
-      "summary": "The New Orleans Pelicans have lost approximately $3 million due to a contract technicality involving DeAndre Jordan's two-year deal. By signing Jordan to a guaranteed two-year contract instead of two separate one-year contracts, the team is not eligible for the NBA's veteran minimum deal proration.",
+      "headline": "The NBA prorate of veteran minimum deals only applies to 1-year deals. By signing DeAndre Jordan for 2 years guaranteed instead of 2 1-year contracts, Joe Dumars has cost the Pelicans' owners ~$3M as the NBA will not cover the remainder amount as they would in a standard 1-year veteran minimum deal",
+      "summary": "",
       "category": "NBA",
       "relevance": 9,
       "url": "https://old.reddit.com/r/nba/comments/1uuyfhb/the_nba_prorate_of_veteran_minimum_deals_only/",
@@ -12,35 +12,44 @@
       "published": "2026-07-13T02:05:38+00:00"
     },
     {
-      "headline": "Rural Churches Face Decline",
-      "summary": "Thousands of rural churches are struggling to maintain their congregations and keep their doors open. The decline of these small churches has significant implications for the communities they serve.",
+      "headline": "AI and Work: What Happens When AI Can Do Your Job Better?",
+      "summary": "",
       "category": "Faith",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/little-white-church/",
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-and-work-what-happens-when-ai-can-do-your-job-better/",
       "source": "The Gospel Coalition",
-      "published": "2026-07-13T04:00:00+00:00"
+      "published": "2026-07-13T04:02:00+00:00"
     },
     {
-      "headline": "Simple Code Change Quadruples Performance",
-      "summary": "A programmer has discovered that adding a seemingly unnecessary if statement to their code can quadruple its performance. This unexpected optimization has sparked interest in the programming community, with many seeking to understand the underlying reasons for the improvement.",
+      "headline": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
       "source": "Hacker News",
-      "published": "2026-07-13T07:37:06+00:00"
+      "published": "2026-07-13T08:39:39+00:00"
     },
     {
-      "headline": "The Case for Vanilla JavaScript",
-      "summary": "A recent article argues in favor of using vanilla JavaScript, citing its simplicity and versatility as key benefits. By avoiding the use of frameworks and libraries, developers can create more efficient and effective code.",
+      "headline": "TwoMillionKit: Use Private Cloud Compute in MacOS 27 Foundation Models Without an Entitlement",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
-      "source": "Hacker News",
-      "published": "2026-07-12T22:53:51+00:00"
+      "url": "https://github.com/insidegui/TwoMillionKit",
+      "source": "Daring Fireball",
+      "published": "2026-07-12T18:04:05+00:00"
     },
     {
-      "headline": "Introducing the Kode Dot Programmable Pocket Device",
-      "summary": "The Kode Dot is a new programmable pocket device designed for makers, pentesters, and geeks. This compact device offers a range of features and capabilities, making it an exciting tool for those interested in programming and electronics.",
+      "headline": "Designing and assembling my first PCB",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "source": "Hacker News",
+      "published": "2026-07-12T22:56:56+00:00"
+    },
+    {
+      "headline": "Kode Dot Programmable pocket device for makers, pentesters and geeks",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://kode.diy",
@@ -48,26 +57,8 @@
       "published": "2026-07-12T21:27:29+00:00"
     },
     {
-      "headline": "Cyclosporiasis Outbreak Spreads Across the US",
-      "summary": "A surge in cases of the intestinal illness cyclosporiasis has been reported in 31 states, according to federal health authorities. The source of the outbreak is still under investigation, but officials are working to contain the spread of the disease.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5890935/cyclosporiasis-outbreak-diarrhea-nausea-where-states-us",
-      "source": "NPR News",
-      "published": "2026-07-12T12:48:41-04:00"
-    },
-    {
-      "headline": "Tiny Emulators Revolutionize Retro Gaming",
-      "summary": "A new collection of tiny emulators has been released, allowing users to play classic games on a range of devices. These emulators are highly compact and efficient, making them ideal for use on low-power devices.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-      "source": "Hacker News",
-      "published": "2026-07-12T20:23:05+00:00"
-    },
-    {
-      "headline": "Claude Code's Excessive Token Usage Exposed",
-      "summary": "A recent comparison has revealed that Claude Code uses significantly more tokens than OpenCode, with some tests showing a 33,000 token difference. This discrepancy has raised concerns about the efficiency and cost-effectiveness of Claude Code.",
+      "headline": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
@@ -75,26 +66,8 @@
       "published": "2026-07-12T17:36:18.269Z"
     },
     {
-      "headline": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "headline": "I don't get it. The 2nd apron rules have been a major contributor to unprecedented league parity... its working as intended",
       "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-      "source": "Hacker News",
-      "published": "2026-07-09T00:00:00.000Z"
-    },
-    {
-      "headline": "Frank Vogel Joins Golden State Warriors as Associate Head Coach",
-      "summary": "Longtime NBA coach Frank Vogel has agreed to become the associate head coach for the Golden State Warriors, working under head coach Steve Kerr. This move is expected to bring significant experience and expertise to the Warriors' coaching staff.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1uuuso1/charania_longtime_nba_coach_frank_vogel_has/",
-      "source": "r/NBA",
-      "published": "2026-07-12T23:20:27+00:00"
-    },
-    {
-      "headline": "NBA’s New ‘Second‑Apron’ Rule Fuels Unprecedented Parity",
-      "summary": "The league’s recent salary‑cap tweak, the second‑apron restriction, has broken the long‑standing dominance of a few teams, leading to fresh finals matchups. Fans and media, tired of repeat champions, are welcoming the increased competition.",
       "category": "NBA",
       "relevance": 8,
       "url": "https://old.reddit.com/r/nba/comments/1uuzxd2/i_dont_get_it_the_2nd_apron_rules_have_been_a/",
@@ -102,89 +75,98 @@
       "published": "2026-07-13T03:17:51+00:00"
     },
     {
-      "headline": "Christian Perspective on AI‑Driven Job Displacement",
-      "summary": "Christopher Watkin and Rachel Gilson explore how artificial intelligence threatens traditional work roles and what core Christian values should endure. They argue believers must anchor their identity beyond productivity as technology reshapes creation and service.",
+      "headline": "The Little White Church Is Empty",
+      "summary": "",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-and-work-what-happens-when-ai-can-do-your-job-better/",
+      "url": "https://www.thegospelcoalition.org/article/little-white-church/",
       "source": "The Gospel Coalition",
+      "published": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "headline": "Comparing Claude Code and OpenCode Token Usage",
+      "summary": "A study has found that Claude Code sends significantly more tokens before reading a prompt compared to OpenCode, highlighting differences in their approaches to AI-powered coding. The findings have implications for the development of more efficient coding tools.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/the-rolling-stones-foreign-tongues/",
+      "source": "Pitchfork",
+      "published": "2026-07-13T04:03:00+00:00"
+    },
+    {
+      "headline": "Montreal Trio Unleashes Restless Energy on Third Album 'Florida Water Blues'",
+      "summary": "The record bursts with kinetic drive and weary, sincere songwriting, marking a bold step beyond their earlier work. It blends bluesy grit with a world‑weary perspective that feels both urgent and reflective.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/twisted-teens-florida-water-blues/",
+      "source": "Pitchfork",
       "published": "2026-07-13T04:02:00+00:00"
     },
     {
-      "headline": "Matthew 25 Sparks Fierce U.S. Immigration Debate",
-      "summary": "The biblical call to welcome strangers has become a flashpoint, with mainline pastors, Black churches, and the Pope urging compassion while evangelical politicians defend stricter policies. The clash highlights how scripture is wielded on both sides of the immigration argument.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5885947/a-bibe-passage-is-at-the-center-of-a-debate-over-how-the-u-s-should-treat-immigrants",
-      "source": "NPR News",
-      "published": "2026-07-12T07:57:10-04:00"
-    },
-    {
-      "headline": "Senator Lindsey Graham Dies at 71 After Sudden Illness",
-      "summary": "The South Carolina Republican, a longtime ally of former President Trump, passed away, with early reports pointing to a heart‑related cause. His death marks the loss of a prominent figure in the Senate’s foreign‑policy and judiciary committees.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T06:24:17.882Z"
-    },
-    {
-      "headline": "Deadly Shooting Rocks Toronto’s Latin‑Music Festival",
-      "summary": "At least two people were killed and four injured when gunfire erupted at a cultural celebration in Canada’s largest city. Police are canvassing the area and seeking witnesses to identify the suspects.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
-      "source": "NPR News",
-      "published": "2026-07-12T13:22:29-04:00"
-    },
-    {
-      "headline": "Understanding the ‘Directly Responsible Individual’ Role",
-      "summary": "The DRI concept, popularized by Apple and later GitLab, designates a single person accountable for a project’s outcome. It aims to clarify ownership and streamline decision‑making in complex teams.",
+      "headline": "Apple Takes Legal Aim at OpenAI Over Trade‑Secret Theft",
+      "summary": "Apple alleges an OpenAI employee stole confidential data, but the lawsuit appears more like a corporate venting than a substantive case. The move underscores Apple's broader anxiety about AI encroachment.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-12T23:57:14+00:00"
+      "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "source": "Stratechery",
+      "published": "2026-07-13T10:00:00+00:00"
     },
     {
-      "headline": "Why Modern System UIs Are Losing Clarity",
-      "summary": "The author observes that once‑sleek Windows and macOS interface elements have become cluttered and less legible over time. This regression, he argues, undermines user experience across platforms.",
+      "headline": "Paulo Andrade’s SwiftUI Mac App Guide Gains Unexpected Buzz",
+      "summary": "Andrade’s tutorial on building a Mac‑centric app with SwiftUI has been amplified across Mastodon, iOS Dev Weekly, and the Swift Blog Carnival. The surge of attention highlights growing developer interest in SwiftUI for desktop apps.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://grumpy.website/1723",
+      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
       "source": "Daring Fireball",
-      "published": "2026-07-12T19:51:16+00:00"
+      "published": "2026-07-12T21:18:24+00:00"
     },
     {
-      "headline": "TwoMillionKit Lets macOS 27 Run Private‑Cloud Models Without Entitlements",
-      "summary": "Apple’s new “fm” command‑line tool enables developers to invoke local or cloud‑based foundation models directly from Terminal or scripts. The feature opens doors for app‑level AI processing without needing special permissions.",
-      "category": "Tech/AI",
+      "headline": "London Saxophonist Crafts Global‑Trance Jazz Fusion on 'Terra Incognita'",
+      "summary": "The album weaves Moroccan gnawa, Berlin kosmische, and other world sounds into a hypnotic, utopian soundscape. Its spiritual ambition pushes jazz into new, border‑less territory.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://github.com/insidegui/TwoMillionKit",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T18:04:05+00:00"
+      "url": "https://pitchfork.com/reviews/albums/akusmi-terra-incognita/",
+      "source": "Pitchfork",
+      "published": "2026-07-13T04:01:00+00:00"
     },
     {
-      "headline": "First‑Time PCB Designer Shares Build Journey",
-      "summary": "The author documents the step‑by‑step process of creating a printed circuit board, from schematic drafting to fabrication. Community feedback highlights common pitfalls and tips for newcomers.",
+      "headline": "A ‘Useless’ If Statement Quadruples Code Speed",
+      "summary": "A blog post shows how inserting a seemingly redundant conditional can trigger compiler optimizations that boost performance fourfold. The trick sparked lively discussion among HN readers about low‑level code tricks.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "url": "https://purplesyringa.moe/blog/quadrupling-code-performance-with-a-useless-if/",
       "source": "Hacker News",
-      "published": "2026-07-12T22:56:56+00:00"
+      "published": "2026-07-13T07:37:06+00:00"
     },
     {
-      "headline": "India Releases First Comprehensive Brainstem Atlas",
-      "summary": "Researchers have mapped the brainstem in unprecedented detail, providing a vital reference for neuroscience and clinical work. The atlas promises to accelerate studies of neurological disorders linked to this elusive region.",
+      "headline": "Detroit’s TOY COLLAGES Skewers Social Climbers with Frenzied Post‑Punk",
+      "summary": "The debut album mixes post‑punk aggression and electro‑pop sheen to lampoon status‑obsessed culture. Lyrically it also wrestles with personal existential delusions, delivering a cathartic punch.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/jasper-dean-toy-collages/",
+      "source": "Pitchfork",
+      "published": "2026-07-13T04:00:00+00:00"
+    },
+    {
+      "headline": "Jeff Halter Revives HyperCard with Modern ‘Lunacy’ Player",
+      "summary": "The new HyperCard‑style application, originally from the early ’90s, has been updated for contemporary macOS, offering a nostalgic yet functional environment. Halter’s site showcases the tool alongside other retro‑tech experiments.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-13T00:08:11.222Z"
+      "url": "https://morphing.cloud/lunacy/",
+      "source": "Daring Fireball",
+      "published": "2026-07-12T17:19:36+00:00"
     },
     {
-      "headline": "Hacker News Community Asks: What Are You Working On?",
-      "summary": "A lively Ask HN thread invites users to reveal their current projects and ideas, sparking a flood of responses. The post has earned 139 points and attracted 446 comments.",
+      "headline": "HN Users Debate Adding an AI‑Generated Article Flag",
+      "summary": "A proposal suggests a non‑ranking flag to label posts written by AI, letting readers skip content they prefer not to read. The community weighs transparency against potential moderation complexities.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "source": "Hacker News",
+      "published": "2026-07-13T01:24:20+00:00"
+    },
+    {
+      "headline": "July 2026 HN Thread: What Projects Are Folks Building?",
+      "summary": "The monthly “What are you working on?” thread draws hundreds of submissions, from indie games to AI research. It serves as a pulse check on current tech creativity and collaboration.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://news.ycombinator.com/item?id=48884984",
@@ -192,62 +174,53 @@
       "published": "2026-07-12T21:26:41+00:00"
     },
     {
-      "headline": "BBC Footage Shows Aftermath of Bangkok Bar Fire That Killed 27",
-      "summary": "BBC’s Southeast Asia correspondent tours the charred site of the deadly Bangkok bar fire. The report underscores the scale of destruction that claimed at least 27 lives.",
-      "category": "World",
+      "headline": "Tiny8Bit Emulator Brings Retro Computing to the Browser",
+      "summary": "A lightweight 8‑bit emulator runs classic software directly in a web page, showcasing efficient JavaScript engineering. The project has attracted attention for its simplicity and educational value.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/videos/clyrd9nwn9wo?at_medium=RSS&at_campaign=rss",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "source": "Hacker News",
+      "published": "2026-07-12T20:23:05+00:00"
+    },
+    {
+      "headline": "LeBron’s Next Move Hinges on Aspiration Ruling, Not World Cup",
+      "summary": "LeBron James and his prospective suitors are waiting for a pending court decision on the Aspiration case before making any free‑agency moves. If the ruling demands near‑absolute proof before penalizing alleged violations, it could create a loophole for bypassing the NBA salary cap.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1uuikrk/lebron_is_not_waiting_on_the_wc_to_end_he_and_the/",
+      "source": "r/NBA",
+      "published": "2026-07-12T15:29:57+00:00"
+    },
+    {
+      "headline": "FIFA Chief Signals 64‑Team World Cup After 2026",
+      "summary": "Gianni Infantino says the next expansion will be examined after the 2026 tournament, arguing the sport should be inclusive worldwide. The proposal would add 16 more nations to the men’s finals, reshaping the competition’s format.",
+      "category": "Other",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-13T04:58:01+00:00"
+      "published": "2026-07-12T19:09:37.127Z"
     },
     {
-      "headline": "Caleb Wilson Claims 2,500 Daily Shots Boost Confidence",
-      "summary": "Wilson says he’s shooting between 2,000 and 2,500 shots each day to build confidence, without making mechanical changes. He notes that college schedules limited his practice time, but the NBA allows him to treat training as a full‑time job.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1uuszsp/lorenzi_caleb_wilson_on_what_mechanical_work_he/",
-      "source": "r/NBA",
-      "published": "2026-07-12T22:04:51+00:00"
-    },
-    {
-      "headline": "EuroLeague Defender Alpha Diallo Signs One‑Year Deal with Nuggets",
-      "summary": "Alpha Diallo, the EuroLeague Defender of the Year, has agreed to a guaranteed $1.4 million contract for the 2026‑27 season with Denver. The 29‑year‑old makes his NBA debut after a standout career in Europe and at Providence.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1uuq0us/charania_euroleague_defender_of_the_year_alpha/",
-      "source": "r/NBA",
-      "published": "2026-07-12T20:06:44+00:00"
-    },
-    {
-      "headline": "Challies Reflection: “Everything I Might Have Been”",
-      "summary": "The article muses on the unfairness of wondering about unfulfilled potential while affirming God’s sovereign placement of each person. It encourages readers to see their current circumstances as the best arena for service.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.challies.com/articles/everything-i-might-have-been/",
-      "source": "Challies",
-      "published": "2026-07-13T04:02:00+00:00"
-    },
-    {
-      "headline": "Paulo Andrade’s SwiftUI Mac‑App Guide Gains Unexpected Buzz at WWDC 27",
-      "summary": "Andrade’s tutorial on building a Mac‑focused app with SwiftUI went viral, earning mentions in iOS Dev Weekly and the Swift Blog Carnival. John Gruber later highlighted the piece on Daring Fireball, amplifying its reach.",
+      "headline": "DRI: The Accountability Role Originating at Apple",
+      "summary": "The term “Directly Responsible Individual” designates the person ultimately answerable for a project's success or failure. It gained popularity through the GitLab handbook and is now a staple in modern tech org charts.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://pfandrade.me/blog/swiftui-mac-assed-wwdc27-update/",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T21:18:24+00:00"
+      "url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-12T23:57:14+00:00"
     },
     {
-      "headline": "“Every Frame Perfect”: Prokopov’s Call for Transparent UI Design",
-      "summary": "Nikita Prokopov argues that any screenshot of an app should be instantly explainable, linking visual fidelity to trust. He stresses that flawless frame‑by‑frame rendering is the primary way users judge software quality.",
+      "headline": "System UI Clarity Is Sliding, From Windows to macOS",
+      "summary": "Once‑modern interface elements have gradually lost visual precision, with both Windows and macOS showing more cluttered, less distinct chrome. The trend reflects a broader shift away from clean design toward functional but muddier aesthetics.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "url": "https://grumpy.website/1723",
       "source": "Daring Fireball",
-      "published": "2026-06-13"
+      "published": "2026-07-12T19:51:16+00:00"
     },
     {
-      "headline": "Altman‑Musk Twitter War Over Who’s Running the Bigger Scam",
-      "summary": "Elon Musk posted that Sam Altman is a master scammer, prompting Altman to fire back that Musk is selling investors on short‑term space data centers. The exchange has ignited a public feud between the two tech leaders.",
+      "headline": "Altman vs. Musk: Clash Over Who’s Pulling the Bigger Con",
+      "summary": "Elon Musk tweeted that Sam Altman is “super good at scamming,” prompting Altman to fire back about Musk’s short‑term space‑data‑center hype. The exchange highlights a public feud between the two tech leaders over credibility and market narratives.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://x.com/sama/status/2075982617976230043",
@@ -255,35 +228,17 @@
       "published": "2026-07-11T16:36:40.000Z"
     },
     {
-      "headline": "Jeff Halter’s “Lunacy” Revives HyperCard on Modern Macs",
-      "summary": "The review spotlights Halter’s Lunacy, a contemporary HyperCard player that traces its lineage to early ’90s Macintosh software. It offers nostalgic creators a way to run classic stacks on today’s systems.",
+      "headline": "HyperCard Stacks Run Natively on Modern Macs",
+      "summary": "A new app lets users launch classic HyperCard stacks without emulators, preserving original typography, sound, and speech synthesis. It also provides one‑click access to the Internet Archive’s HyperCard collection.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://morphing.cloud/lunacy/",
+      "url": "https://morphing.cloud/hypercard/",
       "source": "Daring Fireball",
-      "published": "2026-07-12T17:19:36+00:00"
-    },
-    {
-      "headline": "South Africa Deports Over 53,000 Migrants Amid Crackdown",
-      "summary": "Following widespread anti‑immigration protests, South Africa’s government has intensified its migration campaign, resulting in more than 53,000 deportations. Officials say the measures target undocumented foreigners to restore order.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-12T18:57:17.723Z"
-    },
-    {
-      "headline": "Chinese Graduate Charged as Mexico’s ‘Fentanyl King’ Over Chemical Supply Chain",
-      "summary": "Chinese national Zhang Zhidong is alleged to have funneled precursor chemicals from China to Mexican drug labs, fueling a surge in fentanyl production. Former colleagues and cartel insiders describe his role in bridging the two markets.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-13T00:05:46.209Z"
+      "published": "2026-07-12T15:42:21+00:00"
     },
     {
       "headline": "SpaceX’s Historic IPO Faces Early Momentum Dip",
-      "summary": "A month after SpaceX debuted on the stock market, analysts note a slowdown in investor enthusiasm. The scrutiny has also clarified how the company currently generates revenue, highlighting reliance on launch services and satellite offerings.",
+      "summary": "A month after debuting on the public markets, analysts are reassessing how SpaceX generates revenue. The scrutiny reveals that the company’s earnings still rely heavily on launch services and satellite contracts.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c3wyj6e4210o?at_medium=RSS&at_campaign=rss",
@@ -291,35 +246,62 @@
       "published": "2026-07-13T05:01:54.393Z"
     },
     {
-      "headline": "Magic Johnson Says He Quit Lakers Presidency Over Refusal to Fire Coach",
-      "summary": "Former NBA star Magic Johnson alleges he stepped down because the team’s owners blocked his plan to dismiss coach Luke Walton. He says he left to avoid damaging his relationship with ownership.",
+      "headline": "Veteran Coach Frank Vogel Joins Warriors as Associate Head Coach",
+      "summary": "After a long NBA coaching career, Frank Vogel has accepted a role under Steve Kerr with Golden State. The move adds seasoned experience to a roster already stacked with talent.",
       "category": "NBA",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1uuzv3w/magic_johnson_claims_he_resigned_as_the_lakers/",
+      "url": "https://old.reddit.com/r/nba/comments/1uuuso1/charania_longtime_nba_coach_frank_vogel_has/",
       "source": "r/NBA",
-      "published": "2026-07-13T03:14:45+00:00"
+      "published": "2026-07-12T23:20:27+00:00"
     },
     {
-      "headline": "LeBron’s Free Agency Delay Tied to Pending Aspiration Ruling",
-      "summary": "Sources claim LeBron James and courting teams are holding off until a legal decision on the Aspiration case clarifies cap enforcement. The ruling could set a precedent for bypassing salary‑cap restrictions.",
+      "headline": "Steph Curry Takes Third Place at Celebrity Golf Classic",
+      "summary": "The NBA star placed third in the American Century Championship, while his father Dell Curry finished tenth. Other notable participants included Ray Allen, Reaves, and Charles Barkley, who landed near the bottom.",
       "category": "NBA",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1uuikrk/lebron_is_not_waiting_on_the_wc_to_end_he_and_the/",
+      "url": "https://old.reddit.com/r/nba/comments/1uuwhje/steph_curry_finishes_3rd_at_american_century/",
       "source": "r/NBA",
-      "published": "2026-07-12T15:29:57+00:00"
+      "published": "2026-07-13T00:34:51+00:00"
     },
     {
-      "headline": "Challies ‘A La Carte’ July 13 Issue Highlights Faith, Worship, and Ministry Guidance",
-      "summary": "The latest edition covers topics from the necessity of worship songs to protecting women’s ministries from false teaching. It also includes devotional prompts and promotional content.",
+      "headline": "Reflecting on Unlived Paths: A Faith‑Based Perspective",
+      "summary": "The piece muses on the unfairness of wondering about alternate lives, emphasizing that divine sovereignty places each person where they can best serve. It encourages trust in God’s plan despite lingering “what‑ifs.”",
       "category": "Faith",
       "relevance": 6,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-13-2026/",
+      "url": "https://www.challies.com/articles/everything-i-might-have-been/",
       "source": "Challies",
-      "published": "2026-07-13T04:01:00+00:00"
+      "published": "2026-07-13T04:02:00+00:00"
     },
     {
-      "headline": "Daring Fireball Reviews WorkOS Pipes Integration Challenges",
-      "summary": "The article thanks WorkOS for sponsoring and discusses the complexity of building OAuth flows for various tools. It emphasizes the hidden infrastructure work required before any product code is written.",
+      "headline": "Federal Prison Guards Preempt Inmate Lawsuits, Retaliation Looms",
+      "summary": "Inmates can file mistreatment complaints, but guards often intervene early to block legal action. An NPR and Marshall Project probe reveals that filing complaints frequently triggers retaliation against prisoners.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5825915/prison-grievance-retaliation-complaints",
+      "source": "NPR News",
+      "published": "2026-07-13T05:10:00-04:00"
+    },
+    {
+      "headline": "Memphis Task Force Shoots Man in Mental Health Crisis",
+      "summary": "Jonah Neal, 25, was shot by a Homeland Security Investigations agent during a crisis in May. The incident adds to at least four fatal shootings linked to the task force.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5888618/memphis-safe-task-force-shooting-jonah-neal",
+      "source": "NPR News",
+      "published": "2026-07-13T05:00:00-04:00"
+    },
+    {
+      "headline": "South Africa Deports Over 53,000 Migrants Amid Crackdown",
+      "summary": "Following large anti-immigration protests, the government intensified its migration campaign. Officials report more than 53,000 undocumented foreigners have been removed.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-12T18:57:17.723Z"
+    },
+    {
+      "headline": "WorkOS Pipes Simplify OAuth Integration for Developers",
+      "summary": "WorkOS sponsors Daring Fireball, highlighting the complexity of connecting apps to existing tools. Their solution streamlines token handling and reduces weeks of infrastructure work.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://workos.com/pipes?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
@@ -327,130 +309,148 @@
       "published": "2026-07-12T22:17:54+00:00"
     },
     {
-      "headline": "Deadly Fire Rips Through Bangkok Bar, Leaving 27 Dead",
-      "summary": "A blaze in a Chatuchak district bar claimed at least 27 lives and critically injured 22 patrons. Firefighters arrived to find people fleeing through flames as the fire engulfed the venue.",
-      "category": "World",
+      "headline": "‘Every Frame Perfect’: UI Transparency as Trust Builder",
+      "summary": "Designer Nikita “Tonsky” Prokopov argues that any screenshot of an app should be explainable. Consistent, high‑quality UI, he says, is the only way users assess software quality when code is hidden.",
+      "category": "Tech/AI",
       "relevance": 6,
+      "url": "https://tonsky.me/blog/every-frame-perfect/",
+      "source": "Daring Fireball",
+      "published": "2026-06-13"
+    },
+    {
+      "headline": "Backtrack‑Free Cursive Algorithm Gains Hacker News Buzz",
+      "summary": "A new technique for generating cursive text without backtracking has attracted attention online. The post has earned 101 points and sparked 44 comments on Hacker News.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "source": "Hacker News",
+      "published": "2026-07-12"
+    },
+    {
+      "headline": "Open‑Source Beavis Ultrasound ISA Card Recreates Vintage Audio",
+      "summary": "Developer schlae released a replica of the classic Beavis Ultrasound plug‑and‑play ISA sound card on GitHub. The project has gathered 68 points and 25 comments on Hacker News.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/schlae/BeavisUltrasound",
+      "source": "Hacker News",
+      "published": "2026-07-13T05:15:14+00:00"
+    },
+    {
+      "headline": "India Unveils Detailed Atlas of the Brainstem",
+      "summary": "Researchers have compiled the most comprehensive map of the brain's elusive stem region. The new atlas promises to accelerate studies of neurological disorders.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cg53l737v1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-13T00:08:11.222Z"
+    },
+    {
+      "headline": "Rookie Yaxel Pleads to Join Warriors, Praises LeBron and Draymond",
+      "summary": "In a Reddit thread, aspiring player Yaxel writes to LeBron James, emphasizing his unique rookie status. He asks for a chance to learn alongside the NBA’s top shooter and teammate Draymond Green.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1uurvxs/yaxel_to_lebron_i_know_you_dont_like_rookies_that/",
+      "source": "r/NBA",
+      "published": "2026-07-12T21:19:50+00:00"
+    },
+    {
+      "headline": "Bangkok Bar Fire Kills 27, Injures 25",
+      "summary": "A blaze ripped through a bar in Bangkok’s Chatuchak district, prompting frantic escapes. Firefighters found patrons fleeing through flames as the death toll rose to at least 27 with dozens more critically hurt.",
+      "category": "World",
+      "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-12T19:45:05.750Z"
     },
     {
-      "headline": "shot-scraper 1.11 Released with Minor Enhancements",
-      "summary": "The new version improves command‑option consistency and stabilizes the server: mechanism for both video and multi‑scrape modes. Adjustments ensure smoother operation when server startup exceeds a second.",
+      "headline": "shot-scraper 1.11 Improves Command Consistency and Handles Slow Server Starts",
+      "summary": "The new version tightens option handling across commands and updates the server: feature used by both video and multi modes to tolerate startup delays longer than a second. These tweaks aim to make the tool more reliable in varied environments.",
       "category": "Tech/AI",
-      "relevance": 6,
+      "relevance": 5,
       "url": "https://simonwillison.net/2026/Jul/12/shot-scraper/#atom-everything",
       "source": "Simon Willison",
       "published": "2026-07-12T23:46:52+00:00"
     },
     {
-      "headline": "Claude Fable Access Extended as Anthropic Adjusts Plans",
-      "summary": "Anthropic announced an extension of Claude Fable 5 availability across all paid subscriptions, keeping Claude Code’s weekly rate limit. The change follows the model’s classification as a Fable/Mythos class under GPT‑5.6 Sol.",
+      "headline": "Anthropic Extends Claude Fable 5 Access Across Paid Plans",
+      "summary": "Following the classification of GPT‑5.6 Sol as a Fable‑class model, Anthropic announced that Claude Fable 5 will remain available to all paying customers. The company also maintains the existing weekly rate limit for Claude Code.",
       "category": "Tech/AI",
-      "relevance": 6,
+      "relevance": 5,
       "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
       "source": "Simon Willison",
       "published": "2026-07-12T21:20:07+00:00"
     },
     {
-      "headline": "British Couple Returns to Spanish Village After Fatal Almería Wildfire",
-      "summary": "After a wildfire in Almería province killed at least 13, including five Britons, a couple has moved back to the affected village. Their return underscores the community’s resilience amid the tragedy.",
+      "headline": "French Minister Suggests Paris‑Area Wildfire May Be Arson, Deploys Southern Firefighting Planes",
+      "summary": "A blaze south of Paris, suspected to be intentionally ignited, prompted the unprecedented use of aircraft from the typically hotter southern region. Authorities are investigating the cause while battling the rapidly spreading fire.",
       "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-13T00:29:21.897Z"
-    },
-    {
-      "headline": "sqlite-utils 4.1.1 Patches Edge‑Case Crash in Table Transform",
-      "summary": "The new version corrects a rare bug discovered while testing ON DELETE behavior, now causing table.transform() to throw a TransactionError when a transaction is active with foreign key enforcement. This prevents silent data corruption and improves reliability for developers.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-12T20:55:30+00:00"
-    },
-    {
-      "headline": "Firefighting Aircraft Deployed to Paris Wildfires for First Time",
-      "summary": "French authorities dispatched planes from the traditionally dry southern region to combat unprecedented wildfires encircling Paris. The move underscores the escalating scale of the blazes and the need for resources beyond local fleets.",
-      "category": "World",
-      "relevance": 6,
+      "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-13T03:34:29.365Z"
     },
     {
-      "headline": "Deadly Blaze Engulfs Bangkok Pub, 27 Confirmed Dead",
-      "summary": "A massive fire ripped through a popular northern Bangkok bar, killing at least 27 people according to officials. Video from responders shows towering flames and thick smoke pouring from the venue’s front entrance.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/12/g-s1-133238/fire-breaks-out-at-a-pub-in-bangkok-killing-at-least-27-people-officials-say",
-      "source": "NPR News",
-      "published": "2026-07-12T15:53:24-04:00"
-    },
-    {
-      "headline": "HN Users Debate Introducing AI‑Generated Content Flag",
-      "summary": "A discussion on Hacker News proposes a non‑ranking flag to label posts created by artificial intelligence, letting readers skip them if desired. Critics question implementation and whether it aligns with existing moderation tools.",
+      "headline": "sqlite-utils 4.1.1 Patches TransactionError Bug in table.transform()",
+      "summary": "Version 4.1.1 addresses an edge case where invoking table.transform() during an active transaction with foreign key enforcement triggered a TransactionError. The fix improves stability for developers using the library.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://news.ycombinator.com/item?id=48886741",
-      "source": "Hacker News",
-      "published": "2026-07-13T01:24:20+00:00"
+      "relevance": 5,
+      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-12T20:55:30+00:00"
     },
     {
-      "headline": "Lindsey Graham’s Political Survival: From Trump Critic to Ally",
-      "summary": "BBC commentator Anthony Zurcher traces Graham’s shift from opposing Donald Trump to aligning with the former president’s base, highlighting his adaptability in the volatile MAGA era. The piece frames the senator’s career as a study in political pragmatism.",
+      "headline": "Assassins Posing as Police Murder Ecuadorian Drug Lord’s Brother",
+      "summary": "David Macías, sibling of notorious trafficker 'El Fito', was shot dead by men impersonating police officers. The killing occurs while his brother faces trial in the United States.",
       "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/clyrdn216k2o?at_medium=RSS&at_campaign=rss",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-12T19:42:26.525Z"
+      "published": "2026-07-13T10:30:51.634Z"
     },
     {
-      "headline": "Stacks Brings Classic HyperCard Stacks to Modern macOS",
-      "summary": "The new Stacks app lets users run original HyperCard stacks on current Macs without emulation, offering authentic typography, sound, and speech synthesis. It also provides one‑click access to the Internet Archive’s HyperCard collection.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://morphing.cloud/hypercard/",
-      "source": "Daring Fireball",
-      "published": "2026-07-12T15:42:21+00:00"
-    },
-    {
-      "headline": "Jeremy Lin Seen Shooting Hoops in the Philippines",
-      "summary": "Former NBA guard Jeremy Lin was photographed playing basketball while visiting the Philippines, sparking excitement among local fans. The sighting was shared on Reddit’s r/NBA, confirming his presence on the court abroad.",
-      "category": "NBA",
+      "headline": "NPR Briefing: US Hits Iran Again, Iran Strikes Gulf, Senator Graham Passes, Congress Returns",
+      "summary": "The United States launched its third consecutive weekend strike against Iran, prompting Iranian retaliation against Gulf states. Meanwhile, Senator Lindsey Graham died at 71, and lawmakers reconvened after recess.",
+      "category": "World",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uuz3bc/jeremy_lin_spotted_playing_in_the_philippines/",
-      "source": "r/NBA",
-      "published": "2026-07-13T02:37:33+00:00"
-    },
-    {
-      "headline": "Foreign Tongues Delivers Funk‑Infused Rhythm on New Release",
-      "summary": "The latest record from the Stones showcases a tighter, funkier groove compared to their recent output, building on the momentum of the Hackney Diamonds era. Critics note the robust beats and expanded sonic palette.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/the-rolling-stones-foreign-tongues/",
-      "source": "Pitchfork",
-      "published": "2026-07-13T04:03:00+00:00"
-    },
-    {
-      "headline": "Florida Water Blues Radiates Restless Energy and World‑Weary Songwriting",
-      "summary": "Montreal trio’s third album bursts with kinetic drive and sincere lyricism, marking a departure from their earlier work. The record blends bluesy tones with introspective narratives, earning praise for its vigor.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/twisted-teens-florida-water-blues/",
-      "source": "Pitchfork",
-      "published": "2026-07-13T04:02:00+00:00"
-    },
-    {
-      "headline": "‘Gus’ the T. rex Fossil Set for $30 Million Auction",
-      "summary": "The massive Tyrannosaurus rex skeleton dubbed “Gus” will be sold at auction, with estimates topping $30 million. This high‑profile sale follows previous multimillion‑dollar dinosaur transactions, highlighting the market for prehistoric collectibles.",
-      "category": "Other",
-      "relevance": 2,
-      "url": "https://www.npr.org/2026/07/12/nx-s1-5890988/t-rex-gus-dinosaur-auction-sothebys-millions",
+      "url": "https://www.npr.org/2026/07/13/nx-s1-5885745/morning-news-brief",
       "source": "NPR News",
-      "published": "2026-07-12T20:14:03-04:00"
+      "published": "2026-07-13T04:48:40-04:00"
+    },
+    {
+      "headline": "Bangladesh Floods Claim 51 Lives, Displace Thousands",
+      "summary": "Intense monsoon rains triggered flash floods and landslides across Bangladesh, killing at least 51 people. The disaster has rendered thousands homeless and caused widespread damage.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-13T06:19:49.232Z"
+    },
+    {
+      "headline": "Caleb Wilson Logs Up to 2,500 Daily Shots for 2½ Months, Stays Mechanically Unchanged",
+      "summary": "The former UNC player reports maintaining a rigorous shooting routine of 2,000‑2,500 attempts each day without altering his mechanics. He credits the volume for building confidence as he transitions to the NBA.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1uuszsp/lorenzi_caleb_wilson_on_what_mechanical_work_he/",
+      "source": "r/NBA",
+      "published": "2026-07-12T22:04:51+00:00"
+    },
+    {
+      "headline": "Ray Allen Dismisses LeBron as GOAT, Citing Lack of Dribbling, 3‑Point and FT Skills",
+      "summary": "In a viral comment, former sharpshooter Ray Allen argued that LeBron James should not be considered the greatest of all time because he allegedly struggles with dribbling, three‑point shooting, and free throws. The remark sparked debate among fans.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1uv5ruq/ray_allen_tells_young_fan_lebron_can_never_be_in/",
+      "source": "r/NBA",
+      "published": "2026-07-13T08:38:25+00:00"
+    },
+    {
+      "headline": "Challies ‘A La Carte’ July 13 Issues Spiritual Guidance and Practical Tips",
+      "summary": "The latest edition covers a range of topics, from the role of worship songs and prayer strategies to protecting women’s ministries from false teaching. It also includes encouragements for Christian living and a roundup of Kindle deals.",
+      "category": "Faith",
+      "relevance": 4,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-13-2026/",
+      "source": "Challies",
+      "published": "2026-07-13T04:01:00+00:00"
     }
   ]
 }
