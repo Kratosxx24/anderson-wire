@@ -1,28 +1,19 @@
 {
-  "generated_at": "2026-07-15T16:43:40.930330+00:00",
+  "generated_at": "2026-07-15T18:19:36.242015+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Adam Silver Says NBA’s Second‑Apron System Is Working as Intended",
-      "summary": "Silver defended the league’s draft‑lottery‑style mechanism, stating it deliberately creates competition across all teams. He claimed the results show the system is achieving its goal.",
-      "category": "NBA",
+      "headline": "Argentina and England Meet in World Cup Semifinal Showdown",
+      "summary": "Argentina and England, historic rivals, face off for a place in the final. The match carries fresh political and sporting stakes beyond past encounters.",
+      "category": "Sports",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1ux4faa/adam_silver_on_the_nba_second_aprons_consequences/",
-      "source": "r/NBA",
-      "published": "2026-07-15T12:26:49+00:00"
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal",
+      "source": "NPR News",
+      "published": "2026-07-15T10:05:39-04:00"
     },
     {
-      "headline": "J. Gresham Machen Sacrificed Privilege for Faith",
-      "summary": "Machen left behind his affluent family background and Princeton career to pursue his theological convictions. His choice underscores the importance he placed on where he would ultimately die for his beliefs.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/machen-where-died/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-15T04:00:00+00:00"
-    },
-    {
-      "headline": "How a Claude Prompt Exploit Revealed Sensitive Data",
-      "summary": "Developer Simon Willison demonstrated a flaw that lets Claude’s web_fetch tool leak private information. The exploit highlights ongoing risks of data exfiltration in AI chat interfaces.",
+      "headline": "Researcher Exploits Claude AI to Reveal Sensitive Data",
+      "summary": "A developer demonstrated a method to coax the Claude model into disclosing private information. The experiment highlights lingering vulnerabilities in AI safeguards despite recent defenses.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
@@ -30,44 +21,80 @@
       "published": "2026-07-15T14:21:54+00:00"
     },
     {
-      "headline": "Gemma‑4 26B Runs at 5 Tokens/sec on a 13‑Year‑Old Xeon, No GPU",
-      "summary": "Neomind Labs showed the 26‑billion‑parameter model can generate text at modest speed on legacy hardware. The result proves large language models can be deployed without modern GPUs, albeit slowly.",
-      "category": "Tech/AI",
+      "headline": "Hong Kong Booksellers Detained Over Alleged Seditious Publications",
+      "summary": "Authorities arrested several independent booksellers accused of selling material deemed subversive. The crackdown signals a tightening grip on the city’s once‑vibrant publishing scene.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
-      "source": "Hacker News",
-      "published": "2026-07-15T15:34:05+00:00"
+      "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+      "source": "NPR News",
+      "published": "2026-07-15T11:37:22-04:00"
     },
     {
-      "headline": "Does Betting Edge from Closing Lines Transfer to Early Predictions?",
-      "summary": "A sports‑prediction researcher found a consistent advantage when back‑testing against final odds. The question now is whether that edge holds when the model must rely on opening lines hours before games.",
-      "category": "Tech/AI",
+      "headline": "Iran Vows to Close Trade Routes Amid New US Military Strikes",
+      "summary": "In response to fresh American attacks, Iran warned it would shut key maritime corridors. The escalation raises fears of broader disruption to global commerce.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1ux1n0v/if_your_model_finds_edge_against_closing_lines/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T10:11:16+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T11:08:59.508Z"
     },
     {
-      "headline": "Adam Silver Pressured WNBA to Suspend Alyssa Thomas After Fist Incident",
-      "summary": "Sources say the NBA commissioner urged WNBA commissioner Cathy Engelbert to impose a one‑game suspension and fine on Thomas for striking Caitlin Clark. Engelbert initially hesitated, but reversed after Silver’s intervention.",
+      "headline": "Trump Pulls Back on Hormuz Pressure, Signaling Stalemate in Iran Conflict",
+      "summary": "The president reversed a hardline stance on the Strait of Hormuz after facing diplomatic pushback. Analysts see the move as evidence that the U.S. strategy to force Iran’s compliance is faltering.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-14T22:09:37.570Z"
+    },
+    {
+      "headline": "Russian Strikes Kill Eight Civilians as Ukraine Targets Black Sea Tankers",
+      "summary": "Russian missile attacks resulted in eight civilian deaths across four Ukrainian regions. Meanwhile, Kyiv launched a series of hits that damaged twenty Russian vessels in the Black Sea.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T10:17:38.110Z"
+    },
+    {
+      "headline": "NBA Historian Zachariah Winterspring Hosts AMA on Forgotten Players",
+      "summary": "The author of “Who’s Who in Hoops History” will answer questions about underrated athletes and hidden narratives. Fans can join the live chat on July 16 to explore basketball’s deeper stories.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1ux8mx1/friend_wnba_commissioner_cathy_engelbert_was_not/",
-      "source": "r/NBA",
-      "published": "2026-07-15T15:11:27+00:00"
+      "url": "https://old.reddit.com/r/nbadiscussion/comments/1uwizvj/ama_basketball_historian_and_author_of_whos_who/",
+      "source": "r/NBA Discussion",
+      "published": "2026-07-14T19:39:30+00:00"
     },
     {
-      "headline": "Church Leaders Offered Practical Steps to Foster Unity Amid Differences",
-      "summary": "Dr. H.B. Charles Jr. outlined foundational principles for bridging cultural, generational, and doctrinal gaps within congregations. He emphasized relational humility and shared purpose as keys to lasting unity.",
+      "headline": "Remembering Pau Gasol’s Standout 2005‑06 Campaign",
+      "summary": "Gasol’s performance that season helped cement his reputation as a versatile big man. The discussion also nods to cultural moments of 2006, from music hits to iconic sports events.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nbadiscussion/comments/1ux4ezo/pau_gasols_epic_20052006_season/",
+      "source": "r/NBA Discussion",
+      "published": "2026-07-15T12:26:29+00:00"
+    },
+    {
+      "headline": "Adam Silver Defends Second‑Apron System as Competitive Equalizer",
+      "summary": "The commissioner explained that the draft‑lottery‑style “second apron” is designed to boost parity across the league. He argued the policy is delivering the intended competitive balance.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1ux4faa/adam_silver_on_the_nba_second_aprons_consequences/",
+      "source": "r/NBA",
+      "published": "2026-07-15T12:26:49+00:00"
+    },
+    {
+      "headline": "The Significance of J. Gresham Machen’s Final Resting Place",
+      "summary": "Machen relinquished wealth and elite academic comforts to pursue his theological convictions. His death location underscores the personal sacrifices he made for his faith.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://tabletalkmagazine.com/posts/how-can-church-leaders-encourage-unity-amid-differences/",
-      "source": "Tabletalk",
-      "published": "2026-07-15T04:00:59+00:00"
+      "url": "https://www.thegospelcoalition.org/article/machen-where-died/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-15T04:00:00+00:00"
     },
     {
-      "headline": "The Psalms as a Blueprint for Expressing Emotions to God",
-      "summary": "Dr. David Strain explained how the biblical Psalms model honest emotional dialogue with the divine. He argued that the range of feelings in the Psalms validates bringing all our inner experiences before God.",
+      "headline": "Psalms Offer a Blueprint for Embracing Emotional Vulnerability with God",
+      "summary": "The Psalms serve as a model for Christians in expressing a wide range of emotions to God, providing a safe space for vulnerability and authenticity. By examining the Psalms, believers can learn to bring their emotions before God with honesty and faith.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://tabletalkmagazine.com/posts/what-do-the-psalms-teach-us-about-bringing-our-emotions-before-god/",
@@ -75,107 +102,89 @@
       "published": "2026-07-15T04:00:55+00:00"
     },
     {
-      "headline": "Argentina‑England World Cup Semifinal Revives Historic Rivalry",
-      "summary": "The South American giants face England in a high‑stakes semifinal that could decide the tournament’s champion. The match reignites a decades‑long football rivalry on the world stage.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal",
-      "source": "NPR News",
-      "published": "2026-07-15T10:05:39-04:00"
-    },
-    {
-      "headline": "Iran Threatens Trade Blockades as U.S. Plans New Strikes",
-      "summary": "Tehran warned it would close additional shipping routes if Washington proceeds with further attacks on Iranian infrastructure. The escalation follows recent U.S. strikes targeting bridges and power plants.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-15T11:08:59.508Z"
-    },
-    {
-      "headline": "Trump Pulls Back on Hormuz Toll Plan, Signaling Iran War Stalemate",
-      "summary": "The president abruptly abandoned a proposed toll on ships passing the Strait of Hormuz, marking the latest reversal in a conflict that has now stretched beyond four months. Analysts see the move as evidence that Washington is having trouble forcing a cease‑fire with Tehran.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-14T22:09:37.570Z"
-    },
-    {
-      "headline": "Hormuz Tensions Reveal Cracks in US‑Iran Ceasefire Accord",
-      "summary": "Control of the strategic waterway has become a flashpoint as the cease‑fire agreement falters, highlighting the fragility of the broader diplomatic arrangement. Both sides are using the strait to pressure the other, underscoring the deal’s limited leverage.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-14T19:13:49.515Z"
-    },
-    {
-      "headline": "First Study Dissects Single Convolution Neuron in InceptionV1",
-      "summary": "A new preprint details a method for isolating and analyzing a 1×1 convolutional neuron within the InceptionV1 network, advancing mechanistic interpretability. The author demonstrates how the approach can be extended to other neurons in the same layer.",
+      "headline": "Machine Learning Operations Face Unresolved Challenges",
+      "summary": "Researchers have identified several unsolved problems in the field of machine learning operations, hindering the development of more efficient and effective AI systems. Addressing these challenges is crucial for the continued advancement of artificial intelligence.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T06:59:41+00:00"
-    },
-    {
-      "headline": "PyTorch Tracker 170× Slower on T4 vs A100 – What’s Bottlenecking?",
-      "summary": "A user reports a dramatic performance drop when running a point‑tracking model on an NVIDIA T4 compared to an A100, with inference time ballooning from 0.5 s to 85 s per clip. Potential causes include tensor core utilization, memory bandwidth, or kernel mismatches that merit investigation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1ux6a9x/pytorch_model_running_170x_slower_on_t4_vs_a100/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T13:44:23+00:00"
-    },
-    {
-      "headline": "Slipstreaming 2.0 Enables Remote Access to Any TCP/UDP Service",
-      "summary": "The latest version of the Slipstreaming exploit can tunnel arbitrary traffic to reach any TCP or UDP endpoint without authentication. Security researchers warn that the technique could be weaponized to bypass firewalls and compromise network services.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://sa.my/slipstream/",
+      "url": "https://spawn-queue.acm.org/doi/pdf/10.1145/3762989",
       "source": "Hacker News",
-      "published": "2026-07-15T15:46:39+00:00"
+      "published": "2026-07-15T16:15:01+00:00"
     },
     {
-      "headline": "NeurIPS 2026 Review Release Set for July 22, AoE",
-      "summary": "Community chatter predicts that paper reviews for the 2026 NeurIPS conference will drop on July 22 at 5:30 pm AoE, prompting authors to brace for feedback. Participants are sharing expectations and anxieties about the upcoming evaluation timeline.",
+      "headline": "Outdated Hardware Surprisingly Powers Advanced AI Model",
+      "summary": "A team of researchers has successfully run a large-scale AI model on a 13-year-old Xeon processor without a graphics processing unit, pushing the boundaries of what is possible with outdated hardware. This achievement highlights the potential for innovation in resource-constrained environments.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1ux8p0a/neurips_reviews_coming_in_soon_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T15:13:26+00:00"
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "source": "Hacker News",
+      "published": "2026-07-15T15:34:05+00:00"
     },
     {
-      "headline": "Iran Threatens Full Oil Route Blockade Amid US Maritime Pressure",
-      "summary": "Tehran warned it could shut down all oil export routes through the Strait of Hormuz in retaliation for a U.S. naval blockade of Iranian ports. The escalation raises concerns about global oil supply disruptions and regional security.",
+      "headline": "France Approves Assisted Dying Law with Strict Criteria",
+      "summary": "French lawmakers have passed a bill allowing assisted dying for terminally ill adults who meet specific conditions, bringing an end to years of debate and controversy. The law aims to provide a compassionate and dignified option for those facing the end of life.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T17:29:26.710Z"
+    },
+    {
+      "headline": "Federal Funding Shifts Disrupt Cancer Disparities Research",
+      "summary": "Changes in federal policy have disrupted the work of cancer researchers studying disparities, making it harder to secure funding and slowing progress in the field. The impact of these changes is evident in a recent survey of researchers.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
       "source": "NPR News",
-      "published": "2026-07-15T05:56:31-04:00"
+      "published": "2026-07-15T11:16:35-04:00"
     },
     {
-      "headline": "Lessons Learned from Building an Incremental Vector Indexing Pipeline",
-      "summary": "A developer recounts recurring bugs encountered while keeping a vector store synchronized with evolving data, with deletions proving especially tricky. After extensive testing, they share fixes that stabilize the pipeline over long‑term operation.",
-      "category": "Tech/AI",
+      "headline": "China's Economy Expands at Slowest Pace Since 2022",
+      "summary": "China's economic growth has slowed to 4.3% in the second quarter, driven by weak consumer spending and business investment. The country's strong exports, fueled by the growth of artificial intelligence, have been unable to offset these declines.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uwnb3g/things_i_got_wrong_building_an_incremental/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-14T22:21:51+00:00"
+      "url": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+      "source": "NPR News",
+      "published": "2026-07-15T10:11:41-04:00"
     },
     {
-      "headline": "Classic 1982 Paper on Well‑Calibrated Bayesian Inference Revisited",
-      "summary": "The linked PDF revisits Dawid’s foundational work on Bayesian calibration, a cornerstone for modern probabilistic modeling. The Hacker News discussion highlights its lasting relevance to current statistical practice.",
-      "category": "Tech/AI",
+      "headline": "Global Poll Suggests Growing Confidence in China Over the US",
+      "summary": "A recent survey indicates that more people around the world now have confidence in China's leader, Xi Jinping, than in the US leader, Donald Trump. This shift in global opinion reflects changing attitudes towards the two nations.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://fitelson.org/seminar/dawid.pdf",
-      "source": "Hacker News",
-      "published": "2026-07-15T14:11:12+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T17:02:41.616Z"
     },
     {
-      "headline": "OKC Reluctant Rookie Joe Sparks OT Win After G‑League Snub",
-      "summary": "After refusing a G‑League scrimmage, Joe was initially sidelined but entered a game when Oklahoma City trailed by 16 with four minutes left, scoring 15 points to force overtime and secure victory. Coach Daigneault admitted the player’s attitude was unconventional but ultimately justified.",
+      "headline": "South African Police Investigate Killing of Anti-Migrant Leader",
+      "summary": "A special police team has been formed to investigate the shooting of an anti-migrant leader in South Africa, which occurred several days before he died from his injuries. The incident has sparked concerns about violence and extremism in the region.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T14:37:45.017Z"
+    },
+    {
+      "headline": "China's Economic Growth Falls Short of Target",
+      "summary": "China's economic growth has fallen sharply, missing its target due to weak domestic demand and the impact of the Iran war on oil prices. The country's strong exports have been unable to offset these declines, leading to a slowdown in economic activity.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T02:22:23.759Z"
+    },
+    {
+      "headline": "The Tragic Rise and Fall of NBA Star Roy Tarpley",
+      "summary": "Roy Tarpley, a talented NBA player, struggled with addiction and personal demons, which ultimately derailed his promising career. Despite his short time in the league, Tarpley showed flashes of brilliance and was on track to become a perennial All-Star.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nbadiscussion/comments/1uxaooi/oc_the_tragic_story_of_roy_tarpley_mavericks/",
+      "source": "r/NBA Discussion",
+      "published": "2026-07-15T16:21:40+00:00"
+    },
+    {
+      "headline": "G-League Snub Turns into Game-Changing Moment for OKC",
+      "summary": "A player's refusal to play in a G-League scrimmage was vindicated when he was called up to the main team and scored 15 points in an overtime win. The coach later admitted the player's instincts were correct.",
       "category": "NBA",
       "relevance": 7,
       "url": "https://old.reddit.com/r/nba/comments/1uxafsz/after_joe_was_claimed_off_waivers_by_okc_in_2022/",
@@ -183,26 +192,26 @@
       "published": "2026-07-15T16:13:26+00:00"
     },
     {
-      "headline": "Silver Says Kawhi Trade Could Close This Summer, but Parties Pulled Back Amid Ongoing Probe",
-      "summary": "NBA commissioner Adam Silver expressed optimism that the Kawhi Leonard trade could be finalized before the season starts. He emphasized the league never halted the deal; the teams themselves stopped negotiations while the investigation remains open.",
+      "headline": "Will KD's Legacy Fade Like Moses Malone's?",
+      "summary": "A discussion on whether Kevin Durant will be remembered as a great player in the future, similar to Moses Malone, who is largely forgotten today despite being a three-time MVP. Malone's dominance is often overlooked by casual NBA fans.",
       "category": "NBA",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1uwt3tq/adam_silver_on_the_kawhi_trade_im_hopeful_that_it/",
-      "source": "r/NBA",
-      "published": "2026-07-15T02:33:31+00:00"
+      "url": "https://old.reddit.com/r/nbadiscussion/comments/1uwn5qz/will_kd_start_to_be_forgotten_in_40_years_similar/",
+      "source": "r/NBA Discussion",
+      "published": "2026-07-14T22:15:58+00:00"
     },
     {
-      "headline": "NBA Launches Probe Into Kawhi Leonard’s Second Aspiration Sponsorship",
-      "summary": "The league is reviewing a new sponsorship agreement between Kawhi Leonard and Aspiration, adding it to an existing investigation. Leonard was seen courtside at a Raptors game while the inquiry continues, leaving his future uncertain.",
-      "category": "NBA",
+      "headline": "Church Leaders Struggle to Unite Diverse Congregations",
+      "summary": "Pastors and church leaders face challenges in promoting unity among members with different cultural, generational, or doctrinal backgrounds. A video offers practical suggestions for addressing these differences.",
+      "category": "Faith",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1uwiffi/nba_investigating_second_kawhi_leonard/",
-      "source": "r/NBA",
-      "published": "2026-07-14T19:18:23+00:00"
+      "url": "https://tabletalkmagazine.com/posts/how-can-church-leaders-encourage-unity-amid-differences/",
+      "source": "Tabletalk",
+      "published": "2026-07-15T04:00:59+00:00"
     },
     {
-      "headline": "Deja‑Vu: Open‑Source Shared Memory for Coding Agents Over SSH",
-      "summary": "A new GitHub project, Deja‑Vu, offers a memory‑sharing layer that lets AI coding agents access and edit codebases remotely via SSH. The tool aims to streamline collaborative development by providing a synchronized, low‑latency workspace.",
+      "headline": "Open-Source Memory Syncs Coding Agents Over SSH",
+      "summary": "A new open-source project allows developers to share memory between coding agents and synchronize data over SSH connections. This could simplify collaboration and workflow automation.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://github.com/vshulcz/deja-vu/",
@@ -210,98 +219,80 @@
       "published": "2026-07-15T16:15:03+00:00"
     },
     {
-      "headline": "Hong Kong Police Detain Booksellers Over Alleged Seditious Publications",
-      "summary": "Authorities in Hong Kong arrested several independent booksellers accused of distributing material deemed seditious. The crackdown highlights the city’s tightening control over publishing after years of relative freedom.",
+      "headline": "Hong Kong Police Crack Down on Independent Bookshops",
+      "summary": "Five people were arrested in a police raid on independent bookshops in Hong Kong, accused of selling books that incite hatred against authorities. The move has raised concerns about censorship and freedom of expression.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
-      "source": "NPR News",
-      "published": "2026-07-15T11:37:22-04:00"
-    },
-    {
-      "headline": "Discussion: What Resources Are Truly Needed for Cutting‑Edge AI Research?",
-      "summary": "A community post reflects on the rapid evolution of AI since the GPT‑2 era and questions the essential ingredients for successful research. Contributors debate funding, compute, talent, and open collaboration as key drivers.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T13:38:27+00:00"
-    },
-    {
-      "headline": "Show HN: misa77 Codec Achieves Double LZ4 Decompression Speed with Superior Compression",
-      "summary": "Developer misa77 released a new compression codec that outperforms LZ4 in both throughput and compression ratio, especially during decompression. While encoding remains slower, the design minimizes branching to boost decode performance.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-      "source": "Hacker News",
-      "published": "2026-07-15T15:58:59+00:00"
-    },
-    {
-      "headline": "J‑Space Visualizations Compare Latent Structures of Open‑Source Language Models",
-      "summary": "An interactive web tool maps the internal representations of various open models using J‑space techniques. The visualizations help researchers spot similarities and differences in how models encode information.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://eliebak.com/viz/jspace-open-v2",
-      "source": "Hacker News",
-      "published": "2026-07-15T15:57:16+00:00"
-    },
-    {
-      "headline": "Russian Strikes Kill Eight Civilians as Ukraine Targets 20 Russian Vessels in Black Sea",
-      "summary": "Recent Russian attacks across four Ukrainian regions resulted in eight civilian deaths, while Kyiv’s navy claimed to have hit twenty Russian ships in the Black Sea. The escalation underscores the intensifying maritime and land confrontations.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq61660qpdpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-15T10:17:38.110Z"
+      "published": "2026-07-15T16:51:07.183Z"
     },
     {
-      "headline": "South Africa Forms Special Unit to Probe Murder of Anti‑Migrant Leader",
-      "summary": "A dedicated police task force has been established to investigate the shooting death of a provincial anti‑migration activist who succumbed to injuries. The case has drawn national attention amid rising tensions over migration policies.",
+      "headline": "US-Iran Tensions Escalate in the Strait of Hormuz",
+      "summary": "Iran threatened to block oil exports in the Strait of Hormuz in response to a US maritime blockade, escalating tensions between the two nations. The move could disrupt global oil supplies.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cm2d2qlgj71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-15T14:37:45.017Z"
-    },
-    {
-      "headline": "Acting Attorney General Todd Blanche Heads to Senate Hearing as ICE Halts Most Traffic Stops",
-      "summary": "Todd Blanche, the acting U.S. Attorney General, will appear before the Senate for a pivotal confirmation hearing amid ongoing debates over his policies. Meanwhile, ICE announced a pause on routine traffic stops following a series of fatal encounters.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
       "source": "NPR News",
-      "published": "2026-07-15T08:04:13-04:00"
+      "published": "2026-07-15T05:56:31-04:00"
     },
     {
-      "headline": "Godel's Paradox Strikes Again in Unstable Neural Networks",
-      "summary": "A paper on unstable neural networks has reignited interest in Kurt Godel's work, highlighting the paradoxical nature of complex systems. Godel's ideas continue to influence modern research in artificial intelligence and machine learning.",
+      "headline": "Launch HN: Coasty API for Computer-Use Agents",
+      "summary": "A new API, Coasty, enables developers to build computer-use agents that can automate workflows within legacy software and web applications. The platform uses natural-language tasks to simplify development.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uwxveq/infinities_impossibilities_and_the_man_in_the/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T06:36:54+00:00"
-    },
-    {
-      "headline": "Critical Vulnerability Discovered in n8n Workflow Automation Tool",
-      "summary": "A security researcher has identified a cross-issuer account takeover vulnerability in the popular workflow automation tool n8n, which could allow attackers to gain unauthorized access to user accounts.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.strix.ai/blog/n8n-cross-issuer-account-takeover",
+      "url": "https://coasty.ai/docs",
       "source": "Hacker News",
-      "published": "2026-07-15"
+      "published": "2026-07-15T15:51:20+00:00"
     },
     {
-      "headline": "NBA Investigation into Kawhi's Aspiration Stalls",
-      "summary": "The NBA's investigation into Kawhi's aspiration has dragged on for nearly 10 months, sparking comparisons to the Warren Commission's probe into the JFK assassination. The league's thoroughness has left some wondering if they're leaving no stone unturned.",
+      "headline": "Venezuela Government to Engage in Formal Talks with Opposition",
+      "summary": "The Venezuelan government has agreed to formal talks with opposition members, aiming to strengthen democratic institutions and the electoral system. The move is seen as a step towards resolving the country's political crisis.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T12:21:21.326Z"
+    },
+    {
+      "headline": "OpenAI Loses Trademark Dispute in EU Court",
+      "summary": "OpenAI has lost a trademark dispute at the EU court, which could have implications for the company's branding and intellectual property rights. The decision has sparked debate among tech enthusiasts and lawyers.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "source": "Hacker News",
+      "published": "2026-07-15T14:24:25+02:00"
+    },
+    {
+      "headline": "The Well-Calibrated Bayesian: A 40-Year-Old Insight",
+      "summary": "A 1982 paper on Bayesian inference has been rediscovered and discussed on Hacker News, highlighting the importance of calibration in statistical modeling. The paper's insights remain relevant today, despite being written decades ago.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://fitelson.org/seminar/dawid.pdf",
+      "source": "Hacker News",
+      "published": "2026-07-15T14:11:12+00:00"
+    },
+    {
+      "headline": "WNBA Commissioner Reverses Course on Suspension After NBA Intervention",
+      "summary": "WNBA Commissioner Cathy Engelbert initially declined to suspend Alyssa Thomas for a violent on-court incident, but was persuaded to do so by NBA Commissioner Adam Silver. Thomas was ultimately suspended for one game and fined $1,000.",
       "category": "NBA",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1uwu6p8/the_warren_commission_which_investigated_the_jfk/",
+      "url": "https://old.reddit.com/r/nba/comments/1ux8mx1/friend_wnba_commissioner_cathy_engelbert_was_not/",
       "source": "r/NBA",
-      "published": "2026-07-15T03:25:10+00:00"
+      "published": "2026-07-15T15:11:27+00:00"
     },
     {
-      "headline": "Devotion Refresh Fails to Revitalize Spiritual Routine",
-      "summary": "A blogger's attempt to shake up their daily devotions has ended in disappointment, highlighting the challenges of maintaining a consistent spiritual practice in a rapidly changing world.",
+      "headline": "Iman Shumpert Warns LeBron James Against Returning to Cleveland",
+      "summary": "Iman Shumpert cautioned LeBron James against returning to the Cleveland Cavaliers, suggesting that James would not be happy with the team's prospects for winning. Shumpert's comments come as James is reportedly considering a return to the Cavaliers.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1ux6szb/iman_shumpert_on_lebrons_free_agency_if_this/",
+      "source": "r/NBA",
+      "published": "2026-07-15T14:03:42+00:00"
+    },
+    {
+      "headline": "Author Struggles to Shake Up Devotional Routine",
+      "summary": "A writer found it difficult to change their devotional habits, which had been stuck in a rut for 15-20 years. The attempt to mix things up ended in disappointment and a return to the familiar.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/im-finding-it-harder-to-change/",
@@ -309,8 +300,8 @@
       "published": "2026-07-15T04:02:00+00:00"
     },
     {
-      "headline": "New York Punk Band Seeks Reinvention with Streamlined Sound",
-      "summary": "The New York punk band has teamed up with producer Kenneth Blume to create a sleek, streamlined new album that marks a bold departure from their earlier work.",
+      "headline": "New York Punk Band Seeks Reinvention on Latest Album",
+      "summary": "The New York punk band has released a new album that marks a departure from their previous sound, with a sleek and streamlined style. The album was produced by Kenneth Blume and is a result of the band's efforts to reinvent themselves.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/show-me-the-body-alone-together/",
@@ -318,8 +309,8 @@
       "published": "2026-07-15T04:02:00+00:00"
     },
     {
-      "headline": "Boston Hardcore Group Honors Loved Ones with Grief-Stricken EP",
-      "summary": "The Boston hardcore group has released a three-song EP rooted in the pain of losing loved ones, reaffirming the bonds between bandmates and paying tribute to those who have passed on.",
+      "headline": "Boston Hardcore Group Honors Lost Loved Ones with New EP",
+      "summary": "The Boston hardcore group has released a three-song EP that pays tribute to loved ones who have passed away. The EP is a reflection of the band's mutual bonds and their experiences with grief.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/fiddlehead-baby-ill-change-ep/",
@@ -327,62 +318,62 @@
       "published": "2026-07-15T04:00:00+00:00"
     },
     {
-      "headline": "IBM's Mainframe Moat Begins to Show Cracks",
-      "summary": "IBM's preliminary results have spooked the software market, but the real story lies in the company's struggling mainframe franchise, which is facing increased competition and declining demand.",
+      "headline": "Researchers Develop General Goal-Conditioned Minecraft Model",
+      "summary": "A team of researchers has created a Minecraft model that can learn to achieve a wide range of goals. The model is a significant advancement in the field of artificial intelligence and has potential applications in game development and beyond.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
-      "source": "Stratechery",
-      "published": "2026-07-15T10:00:19+00:00"
-    },
-    {
-      "headline": "OpenAI Unveils Codex Micro, a New AI-Powered Tool",
-      "summary": "OpenAI has introduced Codex Micro, a new AI-powered tool that aims to make it easier for developers to work with code, but details about the tool's capabilities and limitations remain scarce.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "url": "https://pantograph.com/journal/pan-1",
       "source": "Hacker News",
-      "published": "2026-07-15T16:12:58+00:00"
+      "published": "2026-07-15T16:35:09+00:00"
     },
     {
-      "headline": "Federal Funding Changes Disrupt Cancer Disparities Research",
-      "summary": "A survey of cancer researchers has found that federal policy changes have disrupted their work, making it harder to secure funding and slowing progress in the field of cancer disparities research.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5893653/cancer-disparities-gaps-research-funding-grant-disruptions",
-      "source": "NPR News",
-      "published": "2026-07-15T11:16:35-04:00"
-    },
-    {
-      "headline": "Machine Learning Conference Ecosystem Loses Its Luster",
-      "summary": "Researchers are lamenting the decline of the traditional conference ecosystem in machine learning, which has seen a concentration of flagship conferences and a decline in community engagement.",
+      "headline": "Lobsters Community Site Migrates to SQLite Database",
+      "summary": "The Lobsters community site has completed a migration to a SQLite database, marking a significant change from their previous MariaDB setup. The migration was a long time coming, with plans dating back to 2018.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uwy25k/does_anyone_else_miss_the_old_conference/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T06:47:28+00:00"
+      "url": "https://simonwillison.net/2026/Jul/14/lobsters-sqlite/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-14T19:44:11+00:00"
     },
     {
-      "headline": "China's economy grows 4.3% in Q2, slowest since late 2022",
-      "summary": "",
+      "headline": "Rookie Caleb Wilson Vows to Stay in Chicago and Work on His Game",
+      "summary": "Caleb Wilson, a rookie in the NBA, has expressed his commitment to staying in Chicago and putting in the work to improve his game. He believes that he has learned everything he needs to from Summer League and is ready to take the next step.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1uxdb5s/caleb_wilson_on_if_hes_taking_time_off_after/",
+      "source": "r/NBA",
+      "published": "2026-07-15T17:53:28+00:00"
+    },
+    {
+      "headline": "Acting AG Todd Blanche Faces Senate Confirmation Hearing, ICE Pauses Traffic Stops",
+      "summary": "Acting Attorney General Todd Blanche is set to appear before the Senate for his confirmation hearing, a key test of his qualifications for the role. Meanwhile, Immigration and Customs Enforcement has paused most traffic stops following recent deadly shootings.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133652/up-first-newsletter-todd-blanche-iran-strait-of-hormuz-ice-traffic-stops",
       "source": "NPR News",
-      "published": "2026-07-15T10:11:41-04:00"
+      "published": "2026-07-15T08:04:13-04:00"
     },
     {
-      "headline": "Junior Machine Learning Engineer Interview [D]",
-      "summary": "",
+      "headline": "New Codec Offers Faster Decompression and Better Ratios",
+      "summary": "A new codec has been developed that offers faster decompression and better compression ratios than existing solutions. The codec, called misa77, is a result of several months of work and has the potential to improve performance in a range of applications.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1ux8i9g/junior_machine_learning_engineer_interview_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-15T15:06:44+00:00"
+      "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+      "source": "Hacker News",
+      "published": "2026-07-15T15:58:59+00:00"
     },
     {
-      "headline": "When A.I. Is a Member of the Family",
-      "summary": "",
+      "headline": "Italy's Meloni Faces Backlash After Electoral Reform Defeat",
+      "summary": "Italian Prime Minister Giorgia Meloni suffered a surprise setback in a close vote on electoral reform, sparking opposition calls for her resignation ahead of next year's general election. The defeat has dealt a significant blow to Meloni's government, which is already facing growing opposition.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T11:44:28.467Z"
+    },
+    {
+      "headline": "The Rise of AI as Family Members",
+      "summary": "As AI technology advances, it's becoming increasingly common for people to treat AI systems as part of their family, raising questions about the boundaries between humans and machines. This shift has significant implications for how we interact with and understand AI.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://www.newyorker.com/magazine/2026/07/20/when-ai-is-a-member-of-the-family",
@@ -390,67 +381,76 @@
       "published": "2026-07-13T10:00:00.000Z"
     },
     {
-      "headline": "Venezuela government to launch formal talks with opposition members",
-      "summary": "",
+      "headline": "Sierra Leone Drops Treason Charges Against Ex-President",
+      "summary": "Sierra Leone has dropped treason charges against former President Ernest Bai Koroma, who was arrested in 2023 after an attempted coup. The move is seen as a significant development in the country's ongoing efforts to rebuild and move forward.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c1eye5320g5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-15T12:21:21.326Z"
+      "published": "2026-07-15T10:44:15.260Z"
     },
     {
-      "headline": "SendLang: A DSL for Email Automation",
-      "summary": "",
+      "headline": "Air India Crash Report Expected in October",
+      "summary": "Investigations into the Air India crash that killed 260 people are expected to be completed by October, with a report detailing the causes of the disaster. The crash was one of the deadliest in recent aviation history.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cjrgrgx2d9qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-15T09:45:21.229Z"
+    },
+    {
+      "headline": "Seven Britons Killed in Spain Wildfires",
+      "summary": "A devastating wildfire in Spain has claimed the lives of seven British nationals, with 12 of the 13 victims being foreign nationals. The tragedy has sparked an outpouring of grief and support for those affected.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-14T23:33:57.302Z"
+    },
+    {
+      "headline": "The Future of Wearable Technology",
+      "summary": "Researchers are working on developing a wearable device that can do anything, from tracking fitness goals to controlling smart home devices. The technology has the potential to revolutionize the way we interact with our surroundings.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.sendlang.com",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
       "source": "Hacker News",
-      "published": "2026-07-15T15:23:43+00:00"
+      "published": "2026-07-15T14:08:28+00:00"
     },
     {
-      "headline": "CDC director nominee Erica Schwartz faces Senate for confirmation hearing",
-      "summary": "",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5892482/cdc-director-erica-schwartz-senate-confirmation-hearing",
-      "source": "NPR News",
-      "published": "2026-07-15T05:00:00-04:00"
+      "headline": "Future's Quest for Authenticity",
+      "summary": "Rapper Future is reflecting on his 15-year career, grappling with the tension between his public persona and his true self. The introspection has led him to question the nature of his art and his place in the music industry.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://pitchfork.com/reviews/albums/future-the-real-me/",
+      "source": "Pitchfork",
+      "published": "2026-07-15T04:03:00+00:00"
     },
     {
-      "headline": "Lebron announced his decision in 2010 3 days before Spain won the world cup. Spain is now back in the World Cup Finals on Sunday and likely to win. So LeBron decision on Thursday?",
-      "summary": "",
+      "headline": "CJ McCollum's Financial Struggles",
+      "summary": "Former NBA player CJ McCollum has spoken out about the financial struggles he faced during his playing career, revealing that he often lived off of small endorsement deals. The candid admission has sparked a conversation about the financial realities of professional sports.",
       "category": "NBA",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uwv8hd/lebron_announced_his_decision_in_2010_3_days/",
+      "url": "https://old.reddit.com/r/nba/comments/1uxbxrf/cj_mccollum_lets_say_i_was_making_2_million_after/",
       "source": "r/NBA",
-      "published": "2026-07-15T04:16:32+00:00"
+      "published": "2026-07-15T17:05:16+00:00"
     },
     {
-      "headline": "Tracy McGrady Tells Vince Carter That Kyle Korver Does Not Belong in The 2003 NBA Draft Debate Alongside LeBron, Wade, Bosh and Melo",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uwy2lw/tracy_mcgrady_tells_vince_carter_that_kyle_korver/",
-      "source": "r/NBA",
-      "published": "2026-07-15T06:48:10+00:00"
-    },
-    {
-      "headline": "A La Carte (July 15)",
-      "summary": "",
+      "headline": "A La Carte: Reflections on Ministry and Evangelism",
+      "summary": "The latest installment of A La Carte features a collection of articles on topics ranging from the evangelistic appeal of hell to the importance of a sending church. The series offers a thoughtful exploration of the challenges and opportunities facing Christian ministry.",
       "category": "Faith",
-      "relevance": 5,
+      "relevance": 4,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-july-15-2026/",
       "source": "Challies",
       "published": "2026-07-15T04:01:00+00:00"
     },
     {
-      "headline": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
-      "summary": "",
+      "headline": "A Collection of Digital Clock Designs",
+      "summary": "A website has compiled a collection of digital clock designs, showcasing the creativity and innovation of designers working in the field. The clocks are a testament to the power of design to transform and improve our daily lives.",
       "category": "Other",
       "relevance": 2,
-      "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
-      "source": "NPR News",
-      "published": "2026-07-15T08:40:50-04:00"
+      "url": "https://clocks.dev",
+      "source": "Hacker News",
+      "published": "2026-07-15T16:33:15+00:00"
     }
   ]
 }
