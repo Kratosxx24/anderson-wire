@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-17T14:52:51.004683+00:00",
+  "generated_at": "2026-07-17T16:25:58.280618+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Untangling the Trinity: A Simple Guide",
-      "summary": "The piece walks readers through the core concepts of the Holy Trinity, showing how each Person relates to the others. By following this thread, the author argues, the mystery of the universe becomes clearer.",
+      "headline": "Untangling the Trinity: A Fresh Lens on God’s Three‑in‑One",
+      "summary": "The piece argues that tracing the logical thread of the Trinity reveals a coherent picture of the cosmos, showing how each Person relates to creation. By following that thread, believers can see the universe’s design unfold.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/understand-holy-trinity/",
@@ -12,17 +12,26 @@
       "published": "2026-07-17T04:02:00+00:00"
     },
     {
-      "headline": "OpenRAG: Structured EU AI Act Corpus for Legal‑NLP",
-      "summary": "A new dataset called EU AI Act OpenRAG packages Regulation (EU) 2024/1689 into legally‑structured chunks with BGE‑M3 embeddings, all stored in a single SQLite file. It’s aimed at researchers who need ready‑to‑use retrieval‑augmented generation for legal‑NLP tasks.",
+      "headline": "Mozilla Maps the Landscape of Open‑Source AI",
+      "summary": "The report surveys current open‑source AI projects, funding models, and community health, highlighting both rapid innovation and sustainability challenges. It calls for coordinated effort to keep AI development transparent and accessible.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-17T08:18:09+00:00"
+      "url": "https://stateofopensource.ai/",
+      "source": "Hacker News",
+      "published": "2026-07-17T14:31:10+00:00"
     },
     {
-      "headline": "Dithering Episode: Apple Takes Legal Action Against OpenAI",
-      "summary": "Daring Fireball released a free‑to‑listen episode of its Dithering podcast covering Apple’s lawsuit against OpenAI. The episode is posted outside the paywall, though an RSS feed is not yet available.",
+      "headline": "Claude Code’s Flawed Feature Exposed",
+      "summary": "The article dissects a recent addition to Anthropic’s Claude that unintentionally hampers developer workflows, detailing how design oversights led to the issue. It serves as a cautionary tale about premature feature releases.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+      "source": "Hacker News",
+      "published": "2026-07-17T00:00:00Z"
+    },
+    {
+      "headline": "Dithering Episode Goes Free: Apple vs. OpenAI Lawsuit Spotlighted",
+      "summary": "The latest Dithering show, now freely available, dives into Apple’s legal battle accusing OpenAI of misappropriating trade secrets. The episode offers analysis for the Daring Fireball audience without a paywall.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://dithering.passport.online/member/episode/apple-sues-open-ai",
@@ -30,8 +39,8 @@
       "published": "2026-07-16T23:28:09+00:00"
     },
     {
-      "headline": "OpenAI Denies Merit in Apple Trade‑Secret Suit",
-      "summary": "OpenAI issued a statement to Bloomberg denying that Apple’s trade‑secret lawsuit has any merit. The company emphasized its commitment to fair competition and continued innovation.",
+      "headline": "OpenAI Denies Merit in Apple Trade‑Secret Claim",
+      "summary": "In a Bloomberg interview, OpenAI said it sees no evidence supporting Apple’s allegations and reaffirmed its commitment to fair competition. The company emphasized focus on innovation while the legal dispute continues.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://www.bloomberg.com/news/articles/2026-07-14/openai-says-it-s-not-aware-of-any-evidence-that-apple-lawsuit-has-merit",
@@ -39,44 +48,26 @@
       "published": "2026-07-16T19:44:47+00:00"
     },
     {
-      "headline": "US and Iran Exchange Strikes Amid Hormuz Tensions",
-      "summary": "The United States struck bridges in Iran while Tehran responded by targeting U.S. bases in the Gulf, escalating the conflict over the Strait of Hormuz. Both sides warned that the exchange could spiral into a broader war.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
-      "source": "NPR News",
-      "published": "2026-07-17T07:13:58-04:00"
-    },
-    {
-      "headline": "Inkling: New 975‑Billion‑Parameter Open‑Weights Model Released",
-      "summary": "Mira Murati’s Thinking Machines Lab unveiled Inkling, a 975‑billion‑parameter mixture‑of‑experts transformer with 41 billion active weights. Released under an Apache‑2.0 license, the multimodal model was trained on 45 trillion tokens of text, images, audio, and video.",
+      "headline": "AI Uncovers Critical Bugs in OpenVM’s ZkVM",
+      "summary": "Researchers used AI tools to audit the OpenVM zero‑knowledge virtual machine, revealing several security flaws that could compromise privacy guarantees. The findings underscore the growing role of AI in cryptographic code review.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-16T15:35:25+00:00"
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "source": "Hacker News",
+      "published": "July 17, 2026"
     },
     {
-      "headline": "Researcher Calls for Partners to Scale and Test New DABSN Language Model",
-      "summary": "An independent researcher shared a preprint and code for DABSN, a Dynamic Adaptive Bias State Network recurrent language model. They are seeking collaborators to scale the architecture and conduct independent evaluations.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-16T19:17:01+00:00"
-    },
-    {
-      "headline": "Pat Riley Hints at LeBron’s Potential Miami Move, Highlights Tax Benefits",
-      "summary": "Pat Riley told ESPN that discussions with LeBron’s camp are going well and hinted that Miami could lure him with perks like a golf course and no state tax. He contrasted these incentives with California’s higher tax burden.",
+      "headline": "Bucks Eye Sign‑and‑Trade for Peyton Watson",
+      "summary": "Reports suggest Milwaukee is considering a sign‑and‑trade to acquire the young forward, joining the Clippers and Hawks as potential destinations. The move could reshape the Bucks’ roster ahead of the next season.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1uz0rll/espn_pat_riley_weve_had_conversations_with_rich/",
+      "url": "https://old.reddit.com/r/nba/comments/1uyztm2/jones_the_milwaukee_bucks_have_emerged_as_a_team/",
       "source": "r/NBA",
-      "published": "2026-07-17T14:06:47+00:00"
+      "published": "2026-07-17T13:31:03+00:00"
     },
     {
-      "headline": "From Judgment to Restoration: Repentance as the Path to Divine Fellowship",
-      "summary": "The article explores how believers can move from a state of divine judgment to restoration through genuine repentance. It argues that turning away from sin reopens the path to God’s blessing and fellowship.",
+      "headline": "From Judgment to Restoration: A Path Back to Divine Fellowship",
+      "summary": "The piece explores how believers can transition from a season of judgment to one of restoration through repentance and renewed communion with God. It frames repentance as the road that leads to renewed blessings.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://tabletalkmagazine.com/posts/judgment-unto-restoration-jeremiah-christ-and-us-2020-05/",
@@ -84,8 +75,8 @@
       "published": "2026-07-17T04:00:00+00:00"
     },
     {
-      "headline": "Waiting for Cultural Reckoning: Prophetic Patience in a Dismissive Age",
-      "summary": "The author urges Christians to adopt a prophetic mindset, expecting cultural warnings to be ignored until consequences arrive. Patience and vigilance are presented as essential while awaiting a broader societal reckoning.",
+      "headline": "Patience for the Coming Cultural Reckoning",
+      "summary": "The article urges Christians to adopt a prophetic stance, warning that society often ignores cautions until crises erupt. It calls for steadfast readiness as cultural tides shift.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/wait-cultural-reckoning/",
@@ -93,8 +84,8 @@
       "published": "2026-07-17T04:00:00+00:00"
     },
     {
-      "headline": "Iran Blames US for Striking Civilian Targets",
-      "summary": "Iran says US attacks hit civilian infrastructure, while Washington maintains the strikes were meant to degrade Iranian military capabilities.",
+      "headline": "Iran Blames U.S. Strikes for Damage to Civilian Sites",
+      "summary": "Tehran alleges that recent American attacks targeted non‑military infrastructure, while the U.S. maintains the operations aimed to degrade Iran’s military capabilities. The dispute heightens tensions between the two nations.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
@@ -102,8 +93,8 @@
       "published": "2026-07-16T21:44:37.929Z"
     },
     {
-      "headline": "Over 500 Rohingya Missing After Two Boats Vanish",
-      "summary": "Two vessels carrying roughly 530 Rohingya left Myanmar on June 29 and have not been heard from, prompting fears they sank at sea.",
+      "headline": "Rohingya Refugees Vanish at Sea Amid Uncertainty",
+      "summary": "Two boats carrying over 500 Rohingya migrants disappeared in the ocean after leaving Myanmar, sparking concerns about their fate. The incident highlights the ongoing crisis faced by the Rohingya community.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
@@ -111,62 +102,44 @@
       "published": "2026-07-17T03:07:11.800Z"
     },
     {
-      "headline": "Mozilla Reviews the Current State of Open‑Source AI",
-      "summary": "Mozilla’s latest report evaluates progress, challenges, and community dynamics in open‑source artificial intelligence, highlighting funding gaps and governance issues.",
+      "headline": "Google and Epic End Android App Store Dispute",
+      "summary": "Google and Epic Games have reached a settlement, paving the way for third-party Android app stores to launch next week. The agreement marks a significant shift in the Android ecosystem.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://stateofopensource.ai/",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZpdmhlVXFoV0giLCJwIjoiL3BvbGljeS85NjU3OTIvZ29vZ2xlLWVwaWMtd2l0aGRyYXctaW5qdW5jdGlvbi10aGlyZC1wYXJ0eS1hcHAtc3RvcmVzLWNvbWluZy1nb29nbGUtcGxheSIsImV4cCI6MTc4NDczNTA1NSwiaWF0IjoxNzg0MzAzMDU1fQ.zPHCDeRVkCOK73sdt6bKC2evAofTI582EsJ0N-rk79g",
+      "source": "Daring Fireball",
+      "published": "2026-07-15T03:28:53+00:00"
+    },
+    {
+      "headline": "Quiche Browser Ditches AI Search Results by Default",
+      "summary": "Quiche Browser has updated its search functionality to disable AI-generated results by default, prioritizing human-created websites. This change aims to promote transparency and user control.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://mastodon.social/@quicheindustries/116918456229212087",
+      "source": "Daring Fireball",
+      "published": "2026-07-14T13:01:01Z"
+    },
+    {
+      "headline": "AI Agents Launch On-Chain Bond Market",
+      "summary": "A new protocol, sellbonds.now, has been developed to enable AI agents to issue, lend, and borrow USDC on-chain. This innovation explores the concept of autonomous finance with AI agents.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://selbonds.now",
       "source": "Hacker News",
-      "published": "2026-07-17T14:31:10+00:00"
+      "published": "2026-07-17T14:25:20+00:00"
     },
     {
-      "headline": "AI Researchers Uncover Flaws in OpenVM’s Zero‑Knowledge VM",
-      "summary": "A security blog details how AI tools identified vulnerabilities in OpenVM’s ZkVM, raising concerns about cryptographic soundness in emerging AI‑assisted audits.",
+      "headline": "Apple's Lawsuit Against OpenAI Takes a Misstep",
+      "summary": "A lawyer for Apple accidentally sent an email to the wrong OpenAI employee, casting doubt on the company's claims of trade secret theft. The mix-up has raised questions about the validity of Apple's lawsuit.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-      "source": "Hacker News",
-      "published": "July 17, 2026"
+      "url": "https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376",
+      "source": "Daring Fireball",
+      "published": "2026-07-14T21:18:57.030Z"
     },
     {
-      "headline": "Seeking a Streamlined Way to Track AI/ML News",
-      "summary": "A Reddit user asks the community for a concise, low‑maintenance method to stay updated on AI and machine‑learning developments beyond existing newsletters.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uyecez/whats_the_best_and_complete_way_to_keep_up_with/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-16T20:28:38+00:00"
-    },
-    {
-      "headline": "Debate Over Value of New Visual Research Framework",
-      "summary": "A Reddit post presents a visual model mapping the research process from data collection to breakthrough, inviting feedback on whether it offers genuine insight or is merely superficial.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uyys70/researchers_is_this_framework_useful_or_complete/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-17T12:49:02+00:00"
-    },
-    {
-      "headline": "Are AI Memory Systems Targeting the Wrong Goals?",
-      "summary": "An author questions whether current AI architectures for memory and persistent context are optimized for the appropriate abstractions, suggesting alternative design considerations.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uy6yht/are_current_ai_memory_architectures_optimizing/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-16T16:00:01+00:00"
-    },
-    {
-      "headline": "Schema Harness Claims Near‑Perfect ARC‑AGI‑3 Scores",
-      "summary": "The newly released Schema harness, built on Claude Opus 4.8 and Fable 5, achieves 99% accuracy on the ARC‑AGI‑3 benchmark without altering model weights, instead modifying the inference pipeline.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-16T21:02:45+00:00"
-    },
-    {
-      "headline": "NBA Commissioner Says LeBron’s Destination Will Shape Season Schedule",
-      "summary": "Adam Silver tells reporters that finalizing the NBA calendar hinges on where LeBron James signs, as his team affects opening‑week and holiday game planning.",
+      "headline": "NBA Schedule Hinges on LeBron James' Team Decision",
+      "summary": "NBA Commissioner Adam Silver has acknowledged that LeBron James' team choice will impact the league's schedule, particularly for opening week and Christmas games. Silver is awaiting James' decision to finalize the schedule.",
       "category": "NBA",
       "relevance": 7,
       "url": "https://old.reddit.com/r/nba/comments/1uyhks2/adam_silver_we_have_to_finish_up_the_schedule_and/",
@@ -174,8 +147,8 @@
       "published": "2026-07-16T22:30:23+00:00"
     },
     {
-      "headline": "Defending a Controversial Position on Gender Roles in Church Debates",
-      "summary": "A blog post argues that recurring disputes over gender roles persist in religious circles, contrasting them with issues that have been definitively settled.",
+      "headline": "Defending Complementarianism in the Church",
+      "summary": "A recent article has offered a strong defense of complementarianism, a position that emphasizes the importance of gender roles in the church. The author argues that this perspective is a vital part of Christian doctrine.",
       "category": "Faith",
       "relevance": 7,
       "url": "https://www.challies.com/book-reviews/a-solid-defense-of-a-very-defensible-position/",
@@ -183,8 +156,35 @@
       "published": "2026-07-17T04:02:00+00:00"
     },
     {
-      "headline": "Pakistani Forces Kill 24 Militants in Border Raids Near Afghanistan",
-      "summary": "The Pakistani military said intelligence‑driven operations over a 24‑hour period eliminated 24 militants in border districts, targeting those responsible for recent attacks. The raids were presented as a direct retaliation for earlier militant assaults.",
+      "headline": "Trump Alleges Chinese Meddling in 2020 Election",
+      "summary": "Former President Donald Trump has claimed that China interfered in the 2020 US presidential election, sparking concerns about voting security ahead of the upcoming midterms. China has denied the allegations, calling them fabricated.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T04:08:27.064Z"
+    },
+    {
+      "headline": "EU Exempts Watches and Earbuds from Battery Removal Rules",
+      "summary": "The European Commission has introduced new exemptions for watches and earbuds from EU regulations requiring portable batteries to be removable and replaceable. This change aims to simplify product design and reduce electronic waste.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en",
+      "source": "Daring Fireball",
+      "published": "2026-07-14T14:00:00+02:00"
+    },
+    {
+      "headline": "Firefox Runs in WebAssembly, Inside Another Browser",
+      "summary": "A team has successfully compiled Firefox to run in WebAssembly, allowing the browser to execute within another browser. This innovation showcases the potential of WebAssembly for complex applications.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-16T23:34:16+00:00"
+    },
+    {
+      "headline": "Pakistani Forces Target Militants in Border Raids",
+      "summary": "Pakistani forces conducted a series of raids near the Afghanistan border, killing 24 militants in response to recent attacks. The military used intelligence sources to target the militants over a 24-hour period.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/17/g-s1-134175/pakistani-forces-kill-24-militants-in-border-raids-near-afghanistan",
@@ -192,17 +192,8 @@
       "published": "2026-07-17T09:15:49-04:00"
     },
     {
-      "headline": "Quiche Browser Turns Off AI Search Overviews by Default",
-      "summary": "Quiche Browser now disables AI‑generated search result summaries out of the box, aiming to reduce wasted bandwidth and highlight human‑crafted links. The change reflects the developer’s preference for a cleaner, faster web experience.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://mastodon.social/@quicheindustries/116918456229212087",
-      "source": "Daring Fireball",
-      "published": "2026-07-14T13:01:01Z"
-    },
-    {
-      "headline": "Moonshot AI Unveils Kimi K3, a 2.8‑Trillion‑Parameter Model",
-      "summary": "Chinese lab Moonshot AI announced Kimi K3, its most powerful model yet with 2.8 trillion parameters, available now via website and API. Full model weights are promised for release by July 27, 2026, and early benchmarks reference the pelican test.",
+      "headline": "Moonshot AI Unveils Kimi K3, a Powerful New AI Model",
+      "summary": "Moonshot AI has announced Kimi K3, a highly capable AI model with 2.8 trillion parameters, available via their website and API, with an open weight release promised soon.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
@@ -210,62 +201,35 @@
       "published": "2026-07-16T20:19:30+00:00"
     },
     {
-      "headline": "Apple Lawyer Misaddresses OpenAI Staff, Sends Email to Wrong Person",
-      "summary": "In February, Apple counsel David Ingram confused two OpenAI employees and emailed the incorrect individual, undermining Apple’s claim that OpenAI ignored its trade‑secret concerns. The mix‑up was revealed through emails obtained by NBC News.",
-      "category": "Tech/AI",
+      "headline": "Trump's Speech Raises Voting Concerns Amid Texas Flooding",
+      "summary": "President Trump delivered a primetime speech raising concerns about voting vulnerabilities without providing new evidence, while Texas faces severe flooding that has claimed at least two lives.",
+      "category": "World",
       "relevance": 7,
-      "url": "https://www.nbcnews.com/tech/apple/apple-openai-lawsuit-suit-trade-product-hardware-email-sam-altman-rcna587376",
-      "source": "Daring Fireball",
-      "published": "2026-07-14T21:18:57.030Z"
-    },
-    {
-      "headline": "Louie Mantia Critiques the ‘Squircle’ Trend in App Icon Design",
-      "summary": "Designer Louie Mantia argues that the squircle shape isn’t a universal improvement, noting that some of the best icons look worse and some of the worst look better. His essay questions the aesthetic bias driving the current app‑icon controversy.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://parakeet.co/blog/the-shape-of-apps/",
-      "source": "Daring Fireball",
-      "published": "2026-07-16T18:07:28+00:00"
-    },
-    {
-      "headline": "PennyLane: Open‑Source Platform for Quantum Machine Learning",
-      "summary": "PennyLane provides an open‑source toolkit that lets developers build and run quantum‑enhanced machine‑learning models on simulators and real hardware. The framework aims to democratize access to quantum computing for research and industry.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/PennyLaneAI/pennylane",
-      "source": "Hacker News",
-      "published": "2026-07-17T13:30:47+00:00"
-    },
-    {
-      "headline": "Multi‑Primary Color Displays Promise Next‑Gen Color Accuracy",
-      "summary": "A new display technology adds extra color primaries beyond the standard RGB trio, delivering a wider gamut and more faithful color reproduction. Early prototypes suggest significant benefits for both professional imaging and consumer devices.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
-      "source": "Hacker News",
-      "published": "2026-07-02T15:05:58+00:00"
-    },
-    {
-      "headline": "Challies ‘A La Carte’ July 17 Issue Mixes Finance, AI, Faith and More",
-      "summary": "The latest “A La Carte” issue offers a manifesto on financial goal‑setting, a piece on generative‑AI writing, reflections on biblical karma, and commentary on social‑media fatigue, plus book reviews and deals. It continues the newsletter’s eclectic blend of personal essays and cultural analysis.",
-      "category": "Faith",
-      "relevance": 6,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-17-2026/",
-      "source": "Challies",
-      "published": "2026-07-17T04:01:00+00:00"
-    },
-    {
-      "headline": "Kalshi Insists It’s a Prediction Market, Not a Sportsbook, Amid World Cup Betting Boom",
-      "summary": "Kalshi argues that its platform operates as a regulated prediction market, distancing itself from traditional sports‑betting classifications despite a surge in World Cup wagers. The distinction helps the company sidestep gambling‑related tax liabilities.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5884848/kalshi-sports-betting-prediction-markets-draftkings-fanduel-world-cup",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134162/up-first-newsletter-trump-speech-illegal-voting-texas-flooding-wildfires-air-quality",
       "source": "NPR News",
-      "published": "2026-07-17T05:00:00-04:00"
+      "published": "2026-07-17T07:27:01-04:00"
     },
     {
-      "headline": "‘Daughter From Hell’ Delivers Pop‑Folk Fusion with Aaron Dessner",
-      "summary": "The new record pairs the artist’s trademark bullet‑proof pop sensibility with melancholic indie folk, enhanced by Aaron Dessner’s production. Limited experimental forays push the songwriting into its strongest territory yet.",
+      "headline": "OpenAI Releases Overpriced Hardware Keypad, Codex Micro",
+      "summary": "OpenAI has launched Codex Micro, a $230 hardware keypad, as part of its efforts to focus on core products, despite criticism of the device's high price and limited functionality.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "source": "Daring Fireball",
+      "published": "2026-07-16T17:45:59+00:00"
+    },
+    {
+      "headline": "Pat Riley Courts LeBron James with Golf and Tax Incentives",
+      "summary": "Pat Riley has hinted at the possibility of LeBron James joining the Miami Heat, offering a golf course, nice weather, and lower taxes as incentives to lure the star player away from California.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1uz0rll/espn_pat_riley_weve_had_conversations_with_rich/",
+      "source": "r/NBA",
+      "published": "2026-07-17T14:06:47+00:00"
+    },
+    {
+      "headline": "FKA twigs Returns with Best Songs Yet on New Album",
+      "summary": "FKA twigs has released a new album, working with Aaron Dessner to create a blend of pop and indie folk, with the songwriter taking risks to produce her most compelling work yet.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/gracie-abrams-daughter-from-hell/",
@@ -273,8 +237,8 @@
       "published": "2026-07-17T04:03:00+00:00"
     },
     {
-      "headline": "Rapper Wrestles with Guilt on New Album",
-      "summary": "The rapper's latest record explores themes of survivor's guilt and the adaptability of East Coast boom-bap, a genre he's helping to keep alive. With its glitzy production and paranoid lyrics, the album is a complex and thought-provoking listen.",
+      "headline": "Rapper Tackles Survivor's Guilt on Glitzy New Record",
+      "summary": "The rapper has released a new album that explores themes of survivor's guilt and the adaptability of East Coast boom-bap, with a focus on glitzy production and paranoid lyrics.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/rome-streetz-sock-it-2-my-pocket/",
@@ -282,35 +246,17 @@
       "published": "2026-07-17T04:02:00+00:00"
     },
     {
-      "headline": "EU Exempts Watches and Earbuds from Battery Removal Rules",
-      "summary": "The European Commission has introduced new rules exempting certain products, including watches and earbuds, from EU requirements on portable battery removal. The move aims to reduce electronic waste and promote sustainability.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://environment.ec.europa.eu/news/commission-adds-exemptions-portable-battery-removal-rules-2026-07-14_en",
-      "source": "Daring Fireball",
-      "published": "2026-07-14T14:00:00+02:00"
-    },
-    {
-      "headline": "Trump Accuses China of Election Meddling",
-      "summary": "US President Donald Trump has claimed that China interfered in the 2020 election and questioned the security of the US voting system ahead of the midterms. China has denied the allegations, calling them 'fabricated'.",
+      "headline": "Protect Yourself from Wildfire Smoke's Health Risks",
+      "summary": "As Canadian wildfires spread smoke across the US, residents are advised to take precautions to protect their health, with measures including air purifiers and masks.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T04:08:27.064Z"
+      "url": "https://www.npr.org/2026/07/17/g-s1-134227/wildfire-smoke-canada-us",
+      "source": "NPR News",
+      "published": "2026-07-17T11:24:49-04:00"
     },
     {
-      "headline": "Firefox Runs Inside Another Browser",
-      "summary": "Developers have successfully compiled Firefox to run inside another browser using WebAssembly, a technology that allows code to be executed in web browsers. This achievement demonstrates the potential of WebAssembly for complex applications.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/16/firefox-in-webassembly/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-16T23:34:16+00:00"
-    },
-    {
-      "headline": "Alabama Rapper Redefines Southern Rap",
-      "summary": "The Alabama rapper's new album showcases his unique vision of neotraditionalist Southern rap, blending soulful beats with sharp character studies and humor. The result is a refreshing take on a genre often associated with the South.",
+      "headline": "Alabama Rapper's New Album Offers Neotraditionalist Take",
+      "summary": "The Alabama rapper has released a new album that showcases his vision of neotraditionalist Southern rap, with soulful beats and casual technique.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/rylo-rodriguez-skate/",
@@ -318,17 +264,8 @@
       "published": "2026-07-17T04:01:00+00:00"
     },
     {
-      "headline": "Watch Bots Interact with SSH Honeypot",
-      "summary": "A new website allows users to watch bots interact with an SSH honeypot in real-time, providing a unique glimpse into the world of cybersecurity. The honeypot is designed to attract and trap malicious actors.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://honeypotlive.cc/",
-      "source": "Hacker News",
-      "published": "2026-07-17T14:05:15+00:00"
-    },
-    {
-      "headline": "Okkervil River Songwriter Explores the Human Condition",
-      "summary": "The Okkervil River songwriter's new solo album is a deeply personal and introspective work, exploring themes of existential crisis and the weight of the world. The result is a cosmically chilled-out and neurotically afflicted sound.",
+      "headline": "Okkervil River Songwriter's Solo Album Explores Cosmic Themes",
+      "summary": "The Okkervil River songwriter has released a new solo album that sounds both cosmically chilled out and neurotically afflicted by the weight of the world, recorded with longtime bandmates.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/will-sheff-extra-mile/",
@@ -336,8 +273,8 @@
       "published": "2026-07-17T04:00:00+00:00"
     },
     {
-      "headline": "Japan Relaxes Royal Succession Rules",
-      "summary": "Japan has relaxed its royal succession rules, allowing the adoption of male distant relatives over 15 into the imperial family. However, the ban on female emperors remains in place.",
+      "headline": "Japan relaxes royal succession rules - but ban on female emperors remains",
+      "summary": "",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
@@ -345,80 +282,143 @@
       "published": "2026-07-17T05:16:34.728Z"
     },
     {
-      "headline": "Three Ways People Respond to Problems",
-      "summary": "A new article explores three common ways people respond to problems, including avoidance, denial, and rationalization. These responses can hinder progress and prevent meaningful change.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://improvesomething.today/responses-to-problems/",
-      "source": "Hacker News",
-      "published": "2026-05-21T18:18:03.000Z"
-    },
-    {
-      "headline": "Parents Dispute Trump's Claim on USAID Cuts",
-      "summary": "US President Donald Trump's team has claimed that no children have died as a result of USAID funding cuts. However, several parents have come forward to tell a different story, highlighting the human cost of the cuts.",
+      "headline": "Philippines condemns monkey video on Chinese media as racist",
+      "summary": "",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/17/g-s1-133651/usaid-elon-musk-rubio-deaths",
-      "source": "NPR News",
-      "published": "2026-07-17T06:37:02-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T02:37:45.705Z"
     },
     {
-      "headline": "OpenAI's $230 Hardware Keypad Raises Eyebrows",
-      "summary": "OpenAI's latest product, Codex Micro, has been met with skepticism due to its hefty price tag and unclear purpose. The company's focus on core product development seems to be taking a backseat to flashy but expensive gadgets.",
+      "headline": "U.S. strikes bridges in Iran; Tehran targets U.S. bases in the Gulf",
+      "summary": "",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/17/g-s1-134158/us-iran-war-updates",
+      "source": "NPR News",
+      "published": "2026-07-17T07:13:58-04:00"
+    },
+    {
+      "headline": "Louie Mantia: ‘The Shape of Apps’",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "url": "https://parakeet.co/blog/the-shape-of-apps/",
       "source": "Daring Fireball",
-      "published": "2026-07-16T17:45:59+00:00"
+      "published": "2026-07-16T18:07:28+00:00"
     },
     {
-      "headline": "NeurIPS 2026 Workshop Seeks Submissions on Real-Time Conversational Agents",
-      "summary": "The inaugural Real-Time Conversational Agents workshop at NeurIPS 2026 is now accepting papers and demos on the topic of natural multimodal interaction. The event aims to bring together researchers and developers to advance the field of conversational AI.",
+      "headline": "PennyLane is an open-source quantum software platform for quantum",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1uy8e0v/cfp_rtca_neurips_2026_r/",
-      "source": "r/MachineLearning",
-      "published": "2026-07-16T16:51:34+00:00"
+      "url": "https://github.com/PennyLaneAI/pennylane",
+      "source": "Hacker News",
+      "published": "2026-07-17T13:30:47+00:00"
     },
     {
-      "headline": "Immigration Takes Center Stage in Republican Campaigns",
-      "summary": "Ahead of the midterms, Republican campaigns are focusing on immigration as a key issue, with significant ad spend and messaging efforts. This shift in strategy could have significant implications for the election's outcome.",
-      "category": "World",
+      "headline": "VulnHunter: Capital One's agentic AI code security tool",
+      "summary": "",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/17/g-s1-133702/midterm-election-ads-immigration-republicans-democrats",
-      "source": "NPR News",
-      "published": "2026-07-17T05:00:00-04:00"
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "source": "Hacker News",
+      "published": "2026-07-16T17:00:00.000Z"
     },
     {
-      "headline": "NBA History: LeBron and Kobe's Epic Showdown Falls Short",
-      "summary": "In 2006, LeBron James and Kobe Bryant engaged in a thrilling playoff series, but the Lakers ultimately fell short of a championship. The series remains one of the most memorable in NBA history.",
+      "headline": "The Lakers are 4–0 in Summer League, led by 6’7”, 225-lb PF Arthur Kaluma, who’s averaging 20.3 PPG on 63/54.5/86.7 shooting splits.",
+      "summary": "",
       "category": "NBA",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uyzzvd/highlight_january_12_2006_lebron_and_kobe_going/",
+      "url": "https://old.reddit.com/r/nba/comments/1uynowv/the_lakers_are_40_in_summer_league_led_by_67/",
       "source": "r/NBA",
-      "published": "2026-07-17T13:37:57+00:00"
+      "published": "2026-07-17T03:02:12+00:00"
     },
     {
-      "headline": "LeBron Breaks Scoring Record, Russell Westbrook Refuses to Give Way",
-      "summary": "When LeBron James broke the all-time scoring record, Russell Westbrook refused to sub out of the game, showcasing the respect and camaraderie between the two NBA legends. The moment was a testament to the enduring bonds between teammates.",
-      "category": "NBA",
-      "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1uyfey6/highlight_on_the_day_lebron_james_broke_the/",
-      "source": "r/NBA",
-      "published": "2026-07-16T21:09:35+00:00"
+      "headline": "A La Carte (July 17)",
+      "summary": "",
+      "category": "Faith",
+      "relevance": 5,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-17-2026/",
+      "source": "Challies",
+      "published": "2026-07-17T04:01:00+00:00"
     },
     {
-      "headline": "World Cup Fever Grips Local Communities",
-      "summary": "As the World Cup brought the world together, local communities around the globe came alive with watch parties, street gatherings, and public celebrations. The event's impact on local life was palpable and widespread.",
-      "category": "Other",
-      "relevance": 4,
+      "headline": "Olympic cyclist admits to driving despite ban after crash that killed wife",
+      "summary": "",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c62q3ywep1ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T05:09:14.425Z"
+    },
+    {
+      "headline": "Pele's 1958 World Cup final shirt sells for $4.9m",
+      "summary": "",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn8n7dejqy2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-16T20:42:30.933Z"
+    },
+    {
+      "headline": "Breathe Easier at Home Amid Wildfire Smoke",
+      "summary": "Millions of people are facing hazardous air quality due to wildfires in Canada and Minnesota. A simple air purifier using a box fan can help alleviate the issue.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/17/g-s1-134179/is-smoke-in-your-home-heres-how-to-make-an-air-purifier-using-a-box-fan",
+      "source": "NPR News",
+      "published": "2026-07-17T11:07:09-04:00"
+    },
+    {
+      "headline": "World Cup Fever Hits Local Communities",
+      "summary": "NPR member station photographers captured the excitement of World Cup watch parties in public spaces, showcasing the tournament's impact on local life.",
+      "category": "World",
+      "relevance": 5,
       "url": "https://www.npr.org/sections/the-picture-show/2026/07/17/g-s1-133556/world-cup-watch-party-photos",
       "source": "NPR News",
       "published": "2026-07-17T07:17:24-04:00"
     },
     {
-      "headline": "LeBron Sets Ambitious Scoring Goal for Himself",
-      "summary": "LeBron James has vowed to average 10 points per game until he's 65, a remarkable feat that would cement his status as one of the greatest scorers in NBA history. The 38-year-old superstar remains committed to his craft.",
+      "headline": "Real-Time SSH Honeypot Interaction",
+      "summary": "A live demonstration showcases how bots interact with an SSH honeypot, providing a unique glimpse into cybersecurity threats.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://honeypotlive.cc/",
+      "source": "Hacker News",
+      "published": "2026-07-17T14:05:15+00:00"
+    },
+    {
+      "headline": "Uganda Mourns Deadliest Bus Crash Involving Children",
+      "summary": "A devastating bus crash in Uganda has claimed the lives of 20 pupils, highlighting the country's alarming road safety record.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T05:36:22.364Z"
+    },
+    {
+      "headline": "Exploring the World of Lisp Programming",
+      "summary": "A blog post delves into the various Lisp dialects, providing insights for those interested in exploring this programming language.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+      "source": "Hacker News",
+      "published": "2026-07-17T00:00:00.000Z"
+    },
+    {
+      "headline": "LeBron James' Next Move Sparks Speculation",
+      "summary": "LeBron James' potential new team is the subject of much speculation, with fans eagerly awaiting his announcement.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1uz1s4b/lebron_james_announced_the_decision_in_july_of/",
+      "source": "r/NBA",
+      "published": "2026-07-17T14:44:39+00:00"
+    },
+    {
+      "headline": "LeBron James' Unwavering Commitment to Basketball",
+      "summary": "LeBron James has expressed his confidence in maintaining a high level of performance well into his 60s, a testament to his dedication to the sport.",
       "category": "NBA",
       "relevance": 3,
       "url": "https://old.reddit.com/r/nba/comments/1uyp2iw/lebron_says_he_can_average_10_points_until_hes_65/",
@@ -426,31 +426,31 @@
       "published": "2026-07-17T04:08:42+00:00"
     },
     {
-      "headline": "Tyrese Haliburton's LeBron Recruitment Efforts Fall Flat",
-      "summary": "Tyrese Haliburton attempted to recruit LeBron James to the Indiana Pacers, but the NBA legend's response was a resounding rejection. The Pacers' star guard has spoken publicly about the humorous exchange.",
+      "headline": "A Classic NBA Rivalry That Never Was",
+      "summary": "A highlight reel showcases the intense matchup between LeBron James and Kobe Bryant in 2006, a game that would have been a thrilling NBA Finals showdown.",
       "category": "NBA",
       "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1uyab54/dave_mcmenamin_tyrese_haliburton_said_he_made_a/",
+      "url": "https://old.reddit.com/r/nba/comments/1uyzzvd/highlight_january_12_2006_lebron_and_kobe_going/",
       "source": "r/NBA",
-      "published": "2026-07-16T18:00:20+00:00"
+      "published": "2026-07-17T13:37:57+00:00"
     },
     {
-      "headline": "LeBron Debuts New Bald Look",
-      "summary": "LeBron James has shaved his head, revealing a new, bald look that has sparked widespread attention on social media. The NBA superstar's bold new style is sure to inspire fans and haters alike.",
+      "headline": "[OC] What if every NBA team had the opposite name?",
+      "summary": "",
       "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uyoliv/lebron_debuts_the_new_bald_look/",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1uz2yrh/oc_what_if_every_nba_team_had_the_opposite_name/",
       "source": "r/NBA",
-      "published": "2026-07-17T03:45:34+00:00"
+      "published": "2026-07-17T15:28:11+00:00"
     },
     {
-      "headline": "Dwight Howard and Andrew Bynum Reunite in NYC",
-      "summary": "Dwight Howard and Andrew Bynum, two former NBA teammates, were spotted together in New York City, rekindling memories of their time on the court. The chance encounter has sparked nostalgia among fans and insiders.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uyrhhf/dwight_howard_randomly_runs_into_andrew_bynum_in/",
-      "source": "r/NBA",
-      "published": "2026-07-17T06:16:57+00:00"
+      "headline": "Beetle Larvae Aid Scientists in Animal Skeleton Preparation",
+      "summary": "A beetle native to South and Central America is being used to help scientists prepare animal skeletons for scientific use, solving a sticky problem.",
+      "category": "Other",
+      "relevance": 3,
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5896494/superworms-clean-animal-specimens-skeleton-research",
+      "source": "NPR News",
+      "published": "2026-07-17T07:00:00-04:00"
     }
   ]
 }
