@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-18T01:05:25.239631+00:00",
+  "generated_at": "2026-07-18T04:11:25.656769+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Isomorphic Labs’ New Engine Pushes Drug Design Past AlphaFold",
-      "summary": "Isomorphic Labs unveiled a generative AI platform that predicts protein structures and designs novel molecules, aiming to speed up drug discovery. The system claims to go beyond AlphaFold by adding dynamic simulation and synthesis planning.",
+      "headline": "Isomorphic Labs' New Engine Pushes Drug Design Past AlphaFold Limits",
+      "summary": "The company unveiled a generative AI platform that predicts protein structures and designs novel molecules, extending beyond AlphaFold's static predictions. It aims to accelerate pharmaceutical discovery by enabling rapid virtual screening and optimization of drug candidates.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
@@ -12,35 +12,71 @@
       "published": "2026-07-17T23:26:35+00:00"
     },
     {
-      "headline": "OpenAI Consolidates ChatGPT, Codex, and API Under One Team",
-      "summary": "OpenAI announced a restructuring that merges its ChatGPT chatbot, Codex coding assistant, and developer API into a single product group. The consolidation is intended to unify its AI services and extend Codex’s capabilities across all offerings.",
+      "headline": "OpenAI Rolls Out Fixes for Flawed ChatGPT Desktop App",
+      "summary": "After a rocky launch, OpenAI's engineering lead Tibo Sottiaux announced updates addressing user complaints and stability issues. The revised desktop client promises smoother performance and tighter integration with the cloud service.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "url": "https://x.com/thsottiaux/status/2077928427936710901",
       "source": "Daring Fireball",
-      "published": "2026-05-15T17:09:17.825Z"
+      "published": "2026-07-17T01:28:37.000Z"
     },
     {
-      "headline": "A Simple Thread to Grasp the Holy Trinity",
-      "summary": "The piece presents a metaphorical thread to help readers grasp the Christian doctrine of the Father, Son, and Holy Spirit as a single divine reality. By following this logical line, the mystery of the Trinity becomes more accessible.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/understand-holy-trinity/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-17T04:02:00+00:00"
-    },
-    {
-      "headline": "Apple Books and Amazon Flooded with AI‑Generated Knockoffs",
-      "summary": "Joanna Stern discovered AI‑generated impostor versions of her ebook appearing on Apple Books and Amazon shortly after its launch. The incident underscores the rising threat of synthetic books crowding out legitimate authors.",
+      "headline": "Linus Torvalds Defends AI as a Legitimate Tool for Linux Development",
+      "summary": "Torvalds publicly stated that artificial intelligence should be treated like any other productivity aid, and he will not ban its use in the kernel community. He warned that opponents can simply fork the project if they disagree.",
       "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://thenewthings.com/p/apple-big-ai-book-slop-problem",
+      "relevance": 9,
+      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
       "source": "Daring Fireball",
-      "published": "2026-06-26T16:05:00.000Z"
+      "published": "2026-07-17T18:13:16+00:00"
     },
     {
-      "headline": "ICE Improperly Accessed Medicaid Data via Palantir Partnership",
-      "summary": "A federal lawsuit reveals that ICE shared sensitive Medicaid records with Palantir, violating privacy regulations. The data was allegedly used to support deportation efforts, sparking bipartisan criticism.",
+      "headline": "Trump Vows Tariffs on Canada Over Smoke From Wildfires",
+      "summary": "The former president warned of imposing trade penalties on Canada, blaming its wildfire smoke for polluted air in U.S. cities. Canadian officials countered that climate responsibility is shared between the two nations.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T12:45:23.004Z"
+    },
+    {
+      "headline": "U.S. Conducts Seventh Night of Airstrikes Targeting Iranian Forces",
+      "summary": "The United States intensified its campaign, launching additional missiles to degrade Iran's military capabilities near the Strait of Hormuz. Iran reported explosions and warned of retaliation.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-18T01:16:11.030Z"
+    },
+    {
+      "headline": "Static Search Trees Deliver 40× Speed Boost Over Traditional Binary Search",
+      "summary": "A new data structure leverages compile‑time ordering to enable constant‑time lookups, dramatically outpacing binary search in benchmarks. The technique is especially useful for read‑only datasets where performance is critical.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "source": "Hacker News",
+      "published": "2024-12-18T00:00:00+01:00"
+    },
+    {
+      "headline": "Nuggets' Bench Lacks Depth Compared to Rival Contenders",
+      "summary": "Denver's reserve roster features players like DaRon Holmes and Zeke Nnaji, many of whom saw limited minutes last season. Critics argue the lineup falls short of the talent depth seen on other playoff teams.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1uz9s16/the_denver_nuggets_bench_currently_consists_of/",
+      "source": "r/NBA",
+      "published": "2026-07-17T19:34:13+00:00"
+    },
+    {
+      "headline": "Four Tet’s New Glyph Project Delivers High‑Energy, Rapid‑Tempo Compilation",
+      "summary": "The latest release from Kieran Hebden’s experimental alias showcases crisp beats and vibrant synth work, marking some of his most polished output. Listeners can expect a whirlwind of intricate electronic textures throughout.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/four-tet-wingdings-2026/",
+      "source": "Pitchfork",
+      "published": "2026-07-18T04:00:00+00:00"
+    },
+    {
+      "headline": "ICE Accused of Illegally Sharing Medicaid Records with Palantir",
+      "summary": "Court filings reveal that Immigration and Customs Enforcement transferred sensitive health data to the data‑analytics firm for immigration enforcement. The disclosure has sparked bipartisan criticism over privacy violations.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/17/nx-s1-5898504/ice-medicaid-palantir-data",
@@ -48,26 +84,53 @@
       "published": "2026-07-17T19:32:02-04:00"
     },
     {
-      "headline": "Roblox to Roll Out AI‑Powered Game Builder, Even on iOS",
-      "summary": "Roblox announced an AI‑driven game‑building tool that automates design and scripting for creators. The feature will launch across platforms, including iOS, reinforcing the company’s creator‑first mission.",
+      "headline": "AI‑Generated Knockoffs Flood Apple Books and Amazon, Undermining Authors",
+      "summary": "Joanna Stern reported a surge of automatically produced titles mimicking legitimate works, appearing on major e‑book platforms. The influx raises concerns about copyright infringement and the platforms’ content moderation.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+      "url": "https://thenewthings.com/p/apple-big-ai-book-slop-problem",
       "source": "Daring Fireball",
-      "published": "2026-07-16T12:00:00.000Z"
+      "published": "2026-06-26T16:05:00.000Z"
     },
     {
-      "headline": "Kaiser Nurses Claim AI Surveillance Undermines Care",
-      "summary": "Kaiser nurses report that AI monitoring and constant workplace surveillance are increasing their workload and degrading patient care. They are demanding policy reforms to protect clinical judgment and privacy.",
+      "headline": "Ex-Husband of ICE Agent Accused of Fatal Shooting Had Racist Beliefs",
+      "summary": "The ex-wife of an ICE agent who fatally shot a man in Maine claims her former husband had racist beliefs and a history of violent tendencies. The agent, identified as David Brouillette, allegedly called his ex-wife to inform her that he was the one responsible for the shooting.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
+      "source": "NPR News",
+      "published": "2026-07-17T18:36:02-04:00"
+    },
+    {
+      "headline": "Ukrainian Soldiers Protest Removal of Defense Minister",
+      "summary": "Ukrainian soldiers are speaking out against the removal of their defense minister, with many expressing outrage and disappointment over the decision. The move has sparked protests and criticism from within the military, with some soldiers telling the BBC that they are unhappy with the change in leadership.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T19:04:09.455Z"
+    },
+    {
+      "headline": "OpenAI Restructures Product Team to Focus on AI Development",
+      "summary": "OpenAI has announced a major shake-up of its product team, with plans to combine several of its AI-powered tools into a single core product team. The move aims to streamline the company's development process and improve the performance of its AI-powered products, including ChatGPT and Codex.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "source": "Hacker News",
-      "published": "2026-07-15T23:00:00+00:00"
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "source": "Daring Fireball",
+      "published": "2026-05-15T17:09:17.825Z"
     },
     {
-      "headline": "TP‑Link Kasa Cameras Exposed Home GPS Data for Six Years",
-      "summary": "Researchers found that TP‑Link Kasa smart cameras have been broadcasting precise GPS coordinates via unauthenticated UDP packets for six years. The flaw could expose users’ locations to anyone on the same network.",
+      "headline": "Russia Cracks Down on Anti-War Critics with Fines and Detention",
+      "summary": "The Russian government has intensified its crackdown on anti-war critics, with one prominent critic fined and another detained for speaking out against the war. The move is part of a broader effort by the Russian authorities to suppress dissent and silence opposition voices.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T20:00:54.356Z"
+    },
+    {
+      "headline": "TP-Link Kasa Cameras Exposed Home GPS Locations for Six Years",
+      "summary": "A major security flaw in TP-Link Kasa cameras has been discovered, with the devices leaking home GPS locations via unauthenticated UDP for six years. The vulnerability has raised concerns about the security of smart home devices and the potential risks to users' personal data.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
@@ -75,80 +138,98 @@
       "published": "2026-07-17T21:42:43+00:00"
     },
     {
-      "headline": "MG Siegler Says OpenAI Is Re‑branding ChatGPT as It Was",
-      "summary": "MG Siegler argues in Spyglass that OpenAI’s recent tweaks are effectively reverting ChatGPT to its earlier, less polished version. He suggests the changes reflect internal conflict over the product’s direction.",
+      "headline": "Open-Source E-Reader 'Open Book Touch' Launches on Crowdsupply",
+      "summary": "A new open-source e-reader called Open Book Touch has been launched on the Crowdsupply platform, offering a unique alternative to traditional e-readers. The device is designed to be highly customizable and community-driven, with a focus on open-source software and hardware.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://spyglass.org/chatgpt-brings-back-chatgpt/",
-      "source": "Daring Fireball",
-      "published": "2026-07-17T10:18:29.000Z"
+      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
+      "source": "Hacker News",
+      "published": "2026-07-17T20:47:57+00:00"
     },
     {
-      "headline": "OpenAI Begins Overhaul of Flawed ChatGPT Desktop App",
-      "summary": "OpenAI’s engineering lead Thibault Sottiaux announced a series of fixes for the ChatGPT desktop app after early user complaints. The updates aim to resolve usability problems and restore confidence in the client.",
+      "headline": "Google and Epic Games End Fight Over Android App Stores",
+      "summary": "Google and Epic Games have reached a settlement in their dispute over Android app stores, with Google agreeing to allow third-party app stores on its platform. The move marks a significant shift in Google's approach to app distribution and could have major implications for the Android ecosystem.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://x.com/thsottiaux/status/2077928427936710901",
+      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZpdmhlVXFoV0giLCJwIjoiL3BvbGljeS85NjU3OTIvZ29vZ2xlLWVwaWMtd2l0aGRyYXctaW5qdW5jdGlvbi10aGlyZC1wYXJ0eS1hcHAtc3RvcmVzLWNvbWluZy1nb29nbGUtcGxheSIsImV4cCI6MTc4NDczNTA1NSwiaWF0IjoxNzg0MzAzMDU1fQ.zPHCDeRVkCOK73sdt6bKC2evAofTI582EsJ0N-rk79g",
       "source": "Daring Fireball",
-      "published": "2026-07-17T01:28:37.000Z"
+      "published": "2026-07-15T03:28:53+00:00"
     },
     {
-      "headline": "Linus Torvalds Stands Firm on AI in Linux",
-      "summary": "Linus Torvalds has made it clear that Linux will not be an anti-AI project, and those who disagree can fork it. This stance reflects his view that AI is a useful tool, just like other open-source technologies.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://lore.kernel.org/linux-media/CAHk-=wi4zC+Ze8e+p3tMv8TtG_80KzsZ1syL9anBtmEh5Z40vg@mail.gmail.com/",
-      "source": "Daring Fireball",
-      "published": "2026-07-17T18:13:16+00:00"
-    },
-    {
-      "headline": "Paving the Road to Restoration",
-      "summary": "To escape judgment and regain God's blessing, individuals must take the road paved with repentance. This path requires a genuine change of heart and a willingness to leave the past behind.",
-      "category": "Faith",
+      "headline": "Spain Aims to Make History with Back-to-Back World Cup Wins",
+      "summary": "Spain's men's national team is on the verge of making history by winning the World Cup, following the country's women's team victory in 2023. A win against Argentina in the final would make Spain the first country to win both the men's and women's World Cup trophies in consecutive years.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://tabletalkmagazine.com/posts/judgment-unto-restoration-jeremiah-christ-and-us-2020-05/",
-      "source": "Tabletalk",
-      "published": "2026-07-17T04:00:00+00:00"
-    },
-    {
-      "headline": "ICE Agent's Ex-Wife Reveals Racist Past",
-      "summary": "Ashley Brouillette has come forward to identify her ex-husband as the ICE agent responsible for a fatal shooting in Maine, alleging he held racist beliefs and violent tendencies. Her revelation raises questions about the agent's fitness for duty.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5897460/maine-ice-shooting-brouillette",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134232/spain-world-cup-history-women-men",
       "source": "NPR News",
-      "published": "2026-07-17T18:36:02-04:00"
+      "published": "2026-07-17T16:17:27-04:00"
     },
     {
-      "headline": "Mexico Hit by Powerful Earthquake",
-      "summary": "A magnitude 7.3 earthquake struck off the coast of Mexico, triggering small tsunami waves in Puerto Madero and Chiapas. The quake's impact is still being assessed, but initial reports suggest minimal damage.",
+      "headline": "New AI Model Converts Stereo Music to Spatialized Binaural Mixes",
+      "summary": "A new AI model called Stereo2Spatial has been developed to convert stereo music tracks into spatialized binaural mixes, offering a more immersive listening experience. The model uses a flow-matching diffusion process to create high-quality spatial audio from traditional stereo recordings.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+      "source": "r/MachineLearning",
+      "published": "2026-07-17T22:55:00+00:00"
+    },
+    {
+      "headline": "Roblox to Introduce AI-Powered Game-Building Feature",
+      "summary": "Roblox is set to introduce a new AI-powered game-building feature that will allow users to create games more easily and efficiently. The feature, which will be available on iOS and other platforms, is designed to democratize game development and make it more accessible to a wider range of users.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://about.roblox.com/newsroom/2026/07/build-without-limits-on-roblox",
+      "source": "Daring Fireball",
+      "published": "2026-07-16T12:00:00.000Z"
+    },
+    {
+      "headline": "EU AI Act Corpus Released for Machine Learning",
+      "summary": "A new downloadable corpus called EU AI Act OpenRAG has been released, providing a structured dataset of the EU's AI Act for machine learning experimentation. The corpus is designed to facilitate research in legal-NLP and question answering.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1uytlac/eu_ai_act_openrag_933_legally_structured_chunks/",
+      "source": "r/MachineLearning",
+      "published": "2026-07-17T08:18:09+00:00"
+    },
+    {
+      "headline": "China May Restore US Trade Privileges to Hong Kong",
+      "summary": "China is considering reinstating US trade privileges for Hong Kong, a move that could signal improving relations between the two nations. The decision comes after a meeting between President Donald Trump and Xi Jinping, potentially paving the way for warmer ties.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
+      "source": "NPR News",
+      "published": "2026-07-17T15:16:16-04:00"
+    },
+    {
+      "headline": "Indian Activist Forcibly Hospitalized After 20-Day Hunger Strike",
+      "summary": "Indian activist Sonam Wangchuk was taken to hospital against his will after going on a 20-day hunger strike to protest various issues. Wangchuk had called for a protest march to parliament, which is scheduled to take place on July 20.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-17T16:08:43.662Z"
+      "published": "2026-07-18T03:54:51.230Z"
     },
     {
-      "headline": "Google Ordered to Pay Record EU Fine",
-      "summary": "The European Court of Justice has upheld a $4.67 billion fine against Google for alleged anti-competitive practices, marking a significant victory for EU regulators. The ruling is a major setback for the tech giant.",
+      "headline": "BMVC Rebuttal Period Now Open for Reviewers",
+      "summary": "The rebuttal period for the British Machine Vision Conference (BMVC) is now open, allowing reviewers to access and modify their reviews. Any changes made during this period will be reflected in the final scores, even if they are not currently visible to authors.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
-      "source": "Daring Fireball",
-      "published": "2026-07-17T23:47:16+00:00"
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1uz7hbu/bmvc_rebuttals_update_d/",
+      "source": "r/MachineLearning",
+      "published": "2026-07-17T18:11:07+00:00"
     },
     {
-      "headline": "Apple Hikes Music and One Subscriptions",
-      "summary": "Apple has raised prices for its Apple Music and Apple One subscriptions, with individual plans now costing $11.99 and $19.95, respectively. The changes aim to reflect the growing value of the services.",
+      "headline": "TACL Journal Review Process Sparks Concerns",
+      "summary": "Authors who submitted papers to the TACL journal are expressing concerns about the review process, with some wondering when they can expect to receive feedback. The review process for TACL typically takes several months, but the exact timeline can vary depending on several factors.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
-      "source": "Daring Fireball",
-      "published": "2026-07-17T18:07:18+00:00"
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1uyw0i0/tacl_journal_doubts_d/",
+      "source": "r/MachineLearning",
+      "published": "2026-07-17T10:37:21+00:00"
     },
     {
-      "headline": "Strait of Hormuz Tensions Escalate",
-      "summary": "The ongoing battle between the US and Iran over the Strait of Hormuz has raised concerns about the potential for other countries to claim important waterways, sparking fears of global instability. Analysts warn that recognizing Iran's control could set a dangerous precedent.",
+      "headline": "US-Iran Tensions Over Strait of Hormuz Raise Global Concerns",
+      "summary": "The ongoing dispute between the US and Iran over the Strait of Hormuz is raising concerns about the security of global waterways. Analysts warn that recognizing Iran's control over the strait could set a dangerous precedent, encouraging other countries to claim important waterways.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/17/nx-s1-5884849/us-iran-strait-hormuz-global-shipping-risk",
@@ -156,53 +237,44 @@
       "published": "2026-07-17T12:50:10-04:00"
     },
     {
-      "headline": "Somali Pirates Hijack Second Tanker in Months",
-      "summary": "A second tanker has been hijacked off the coast of Yemen by suspected Somali pirates, highlighting a resurgence of piracy in the region. The incident raises concerns about the safety of global waterways.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T17:01:16.933Z"
-    },
-    {
-      "headline": "Google and Epic End Android App Store Fight",
-      "summary": "Google and Epic have agreed to withdraw their proposed modifications to a US court's injunction, paving the way for third-party Android app stores to launch next week. The move marks a significant shift in the Android ecosystem.",
+      "headline": "Topcoat: A New Full-Stack Framework for Rust",
+      "summary": "A new full-stack framework called Topcoat has been released for the Rust programming language, providing a comprehensive set of tools for building web applications. Topcoat is designed to simplify the development process and provide a more efficient alternative to existing frameworks.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IkZpdmhlVXFoV0giLCJwIjoiL3BvbGljeS85NjU3OTIvZ29vZ2xlLWVwaWMtd2l0aGRyYXctaW5qdW5jdGlvbi10aGlyZC1wYXJ0eS1hcHAtc3RvcmVzLWNvbWluZy1nb29nbGUtcGxheSIsImV4cCI6MTc4NDczNTA1NSwiaWF0IjoxNzg0MzAzMDU1fQ.zPHCDeRVkCOK73sdt6bKC2evAofTI582EsJ0N-rk79g",
-      "source": "Daring Fireball",
-      "published": "2026-07-15T03:28:53+00:00"
+      "url": "https://github.com/tokio-rs/topcoat",
+      "source": "Hacker News",
+      "published": "2026-07-17T20:41:43+00:00"
     },
     {
-      "headline": "Waiting for Cultural Reckoning",
-      "summary": "As the world grapples with its flaws, individuals must learn to wait patiently for cultural reckoning, just as prophets did in the past. This requires a willingness to speak truth to power, even in the face of resistance.",
-      "category": "Faith",
+      "headline": "Trump Alleges Chinese Meddling in 2020 Election",
+      "summary": "Former President Donald Trump has accused China of interfering in the 2020 US presidential election, a claim that has been denied by Chinese officials. Trump's allegations have sparked concerns about the security of upcoming elections, with some critics accusing him of trying to undermine the democratic process.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T04:08:27.064Z"
+    },
+    {
+      "headline": "Zilog Z80 Microprocessor Turns 50",
+      "summary": "The Zilog Z80 microprocessor, a pioneering chip that played a significant role in the development of the computer industry, has turned 50. The Z80 was widely used in early personal computers and remains a popular choice among retro computing enthusiasts and hobbyists.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://goliath32.com/blog/z80.html",
+      "source": "Hacker News",
+      "published": "2026-07-17T19:41:02+00:00"
+    },
+    {
+      "headline": "Pat Riley Hints at Possible LeBron James Return to Miami",
+      "summary": "Miami Heat president Pat Riley has hinted that the team may be interested in signing LeBron James, who is currently a free agent. Riley cited the team's attractive location, favorable tax climate, and golf courses as potential draws for the basketball superstar.",
+      "category": "NBA",
       "relevance": 6,
-      "url": "https://www.thegospelcoalition.org/article/wait-cultural-reckoning/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-17T04:00:00+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1uz0rll/espn_pat_riley_weve_had_conversations_with_rich/",
+      "source": "r/NBA",
+      "published": "2026-07-17T14:06:47+00:00"
     },
     {
-      "headline": "Singer's Signature Sound Evolves with New Risks",
-      "summary": "The songwriter's latest collaboration with Aaron Dessner results in her best songs yet, blending bulletproof pop and melancholic indie folk. She takes calculated risks to push her sound forward.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/gracie-abrams-daughter-from-hell/",
-      "source": "Pitchfork",
-      "published": "2026-07-17T04:03:00+00:00"
-    },
-    {
-      "headline": "Rapper Confronts Survivor's Guilt on New Record",
-      "summary": "The East Coast rapper's new album explores themes of survivor's guilt, paranoia, and the adaptability of boom-bap. He delivers a glitzy and introspective record that showcases his growth as an artist.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/rome-streetz-sock-it-2-my-pocket/",
-      "source": "Pitchfork",
-      "published": "2026-07-17T04:02:00+00:00"
-    },
-    {
-      "headline": "Tech and Entertainment News Roundup",
-      "summary": "The latest Stratechery content covers the end of the mainframe, OpenAI's continued advancements, and the question of whether Netflix is washed up. The week's top stories are summarized in this roundup.",
+      "headline": "Stratechery Week 13: Mainframes Fade, OpenAI Expands, Netflix Under Scrutiny",
+      "summary": "Ben Thompson reviews the winding down of legacy mainframe business, tracks OpenAI’s latest product moves, and asks whether Netflix’s growth has plateaued. The newsletter ties these trends to broader tech industry shifts.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://stratechery.com/2026/mainframes-and-main-characters/",
@@ -210,161 +282,125 @@
       "published": "2026-07-17T17:00:00+00:00"
     },
     {
-      "headline": "US Denies Hitting Civilian Infrastructure in Strikes",
-      "summary": "The US military claims its attacks on Iran were aimed at degrading Iranian military capabilities. The statement comes amid Iranian claims of civilian infrastructure being hit.",
+      "headline": "EU Court Confirms Record €4.1 B Fine Against Google",
+      "summary": "The European Court of Justice upheld the European Commission’s 2018 antitrust penalty, keeping Google on the hook for roughly $4.7 billion. The ruling reinforces strict competition enforcement on big tech platforms.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "source": "Daring Fireball",
+      "published": "2026-07-17T23:47:16+00:00"
+    },
+    {
+      "headline": "Qwen 35B MoE Model Runs on Snapdragon 26 Ultra with 90 TPS",
+      "summary": "Developers managed to fit a private 35‑billion‑parameter MoE LLM onto a Snapdragon 26 Ultra device, staying within memory limits. Early benchmarks suggest the model can process about 90 inputs per second after optimization.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
+      "source": "r/MachineLearning",
+      "published": "2026-07-18T01:40:59+00:00"
+    },
+    {
+      "headline": "Apple Hikes Music and One Bundle Prices Across the Board",
+      "summary": "Apple Music now costs $11.99 for individuals, $19.99 for families, and $6.99 for students, up from previous rates. Apple One’s family tier also rose to $27.95, while the individual plan stays at $19.95.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://9to5mac.com/2026/07/17/apple-raises-prices-for-apple-music-and-apple-one-subscriptions/",
+      "source": "Daring Fireball",
+      "published": "2026-07-17T18:07:18+00:00"
+    },
+    {
+      "headline": "White House Backs Argentine Squad After Falklands Banner Controversy",
+      "summary": "The U.S. administration defended the Argentine football team amid criticism over a banner referencing the disputed Falkland Islands. The stance adds pressure on the UK, which has called for a FIFA investigation.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-16T21:44:37.929Z"
+      "published": "2026-07-17T22:12:54.151Z"
     },
     {
-      "headline": "Alabama Rapper's Neotraditionalist Vision",
-      "summary": "The Alabama rapper's new album showcases his unique blend of soulful beats, casual technique, and sharp character studies. His vision of neotraditionalist Southern rap is on full display.",
-      "category": "Music",
+      "headline": "MG Siegler Says OpenAI Is Repeating Its Own Mistakes With ChatGPT",
+      "summary": "In a Spyglass column, Siegler argues that OpenAI’s recent rollout mirrors earlier missteps, sparking backlash despite rapid fixes. He suggests the company overlooked better deployment strategies.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/rylo-rodriguez-skate/",
-      "source": "Pitchfork",
-      "published": "2026-07-17T04:01:00+00:00"
+      "url": "https://spyglass.org/chatgpt-brings-back-chatgpt/",
+      "source": "Daring Fireball",
+      "published": "2026-07-17T10:18:29.000Z"
     },
     {
-      "headline": "Ukrainian Soldiers Protest Defence Minister's Removal",
-      "summary": "Protests erupted in Ukraine after the removal of defence minister Mykhailo Fedorov, with soldiers now criticising the move. The situation remains tense as soldiers express their outrage.",
+      "headline": "Trump’s Face on $1 Commemorative Coin Sparks Legal Outcry",
+      "summary": "A new 250th‑anniversary coin featuring former President Donald Trump has drawn criticism for violating U.S. statutes that bar living persons on currency. Legal experts say the issue may breach the Constitution’s Emoluments Clause and other regulations.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
+      "source": "NPR News",
+      "published": "2026-07-17T14:59:36-04:00"
+    },
+    {
+      "headline": "7.3‑Magnitude Quake Rocks Offshore Mexico, Triggers Small Tsunami",
+      "summary": "A powerful earthquake struck off Mexico’s western coast, prompting the U.S. Tsunami Warning Center to issue alerts as waves reached up to 0.3 m in Puerto Madero and Chiapas. No major damage has been reported yet, but authorities remain on watch.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-17T19:04:09.455Z"
+      "published": "2026-07-17T16:08:43.662Z"
     },
     {
-      "headline": "Okkervil River Songwriter's Cosmic and Neurotic Solo Album",
-      "summary": "The Okkervil River songwriter's new solo album is a chilled-out yet neurotically afflicted record that explores the weight of the world. Recorded with longtime bandmates, the album showcases his growth as a solo artist.",
-      "category": "Music",
+      "headline": "BBEdit 16 Launches With Shortcuts, Image Search, and Vi Mode",
+      "summary": "The latest BBEdit version arrives just before WWDC, adding extensive Shortcuts integration, text‑in‑image search, and a W3C HTML validator. It also introduces a vi‑style keyboard emulation for power users.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/will-sheff-extra-mile/",
-      "source": "Pitchfork",
-      "published": "2026-07-17T04:00:00+00:00"
+      "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+      "source": "Daring Fireball",
+      "published": "2026-07-17T17:31:11+00:00"
     },
     {
-      "headline": "Bigger and Splashier World Cup Halftime Show",
-      "summary": "The World Cup halftime show is expected to be bigger and more spectacular than the Super Bowl, with a 11-minute performance airing on Fox and Telemundo. The show promises to be a major event.",
+      "headline": "Another Tanker Seized Off Yemen as Piracy Resurges",
+      "summary": "A second oil tanker was hijacked within three months near Yemen, suspected to be the work of Somali pirates. The incident highlights a worrying revival of piracy in the Gulf of Aden despite recent security efforts.",
       "category": "World",
       "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T17:01:16.933Z"
+    },
+    {
+      "headline": "White Paint on Rail Sides Cuts Derailment Risk",
+      "summary": "Researchers found that applying white paint to the outer edges of rails reflects heat, keeping steel cooler and less prone to buckling. This simple, low‑cost measure could improve safety on hot tracks.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "source": "Hacker News",
+      "published": "2026-07-17T20:12:59+00:00"
+    },
+    {
+      "headline": "Michael Porter Jr. Channels Card Sales to Brother’s Addiction Fund",
+      "summary": "The NBA forward is donating proceeds from a signed memorabilia card to a charity founded by his brother Jontay Porter, who struggles with gambling addiction. Critics note the timing amid Jontay’s recent league suspension.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1uzg6pf/michael_porter_jr_donates_proceeds_from_signed/",
+      "source": "r/NBA",
+      "published": "2026-07-17T23:51:40+00:00"
+    },
+    {
+      "headline": "World Cup Halftime Spectacle Set to Eclipse Super Bowl",
+      "summary": "FIFA’s upcoming tournament will feature an elaborate halftime performance lasting about 11 minutes, broadcast across multiple Fox platforms and Peacock. Organizers aim to create a global showcase that rivals the NFL’s marquee event.",
+      "category": "Sports",
+      "relevance": 5,
       "url": "https://www.npr.org/2026/07/17/nx-s1-5897510/bts-bieber-madonna-shakira-world-cup-halftime-show",
       "source": "NPR News",
       "published": "2026-07-17T15:24:52-04:00"
     },
     {
-      "headline": "Russia Cracks Down on Anti-War Critics",
-      "summary": "Russia has fined one anti-war critic and held another in custody, clamping down on opponents of the war. The move is seen as a further restriction on free speech.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T20:00:54.356Z"
-    },
-    {
-      "headline": "China Signals Return of US Trade Privileges for Hong Kong",
-      "summary": "China has signaled a possible return of US trade privileges for Hong Kong, potentially warming ties ahead of Xi Jinping's expected US visit. The decision comes after a meeting between President Donald Trump and Xi Jinping.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/17/g-s1-134269/china-signals-possible-return-of-u-s-trade-privileges-for-hong-kong",
-      "source": "NPR News",
-      "published": "2026-07-17T15:16:16-04:00"
-    },
-    {
-      "headline": "EU Emissions Plan Hits Roadblock",
-      "summary": "The European Union is proposing to slow down its carbon emissions reduction targets for businesses, citing a need for more time to adapt. The move has sparked concerns about the bloc's commitment to environmental protection.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T17:52:06.750Z"
-    },
-    {
-      "headline": "Rust Developers Unveil Topcoat Framework",
-      "summary": "A new full-stack framework for the Rust programming language has been released, promising to simplify development and improve performance. Topcoat is the brainchild of Tokio-RS, a team of experienced Rust developers.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://github.com/tokio-rs/topcoat",
-      "source": "Hacker News",
-      "published": "2026-07-17T20:41:43+00:00"
-    },
-    {
-      "headline": "Breakthrough in Data Search Speed",
-      "summary": "Researchers have created a new static search tree algorithm that outperforms traditional binary search by a factor of 40. The innovation has significant implications for data-intensive applications and could lead to major efficiency gains.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
-      "source": "Hacker News",
-      "published": "2024-12-18T00:00:00+01:00"
-    },
-    {
-      "headline": "Air Conditioner Triggers Orphanage Fire",
-      "summary": "An air conditioner is believed to have sparked a devastating fire at a children's orphanage, resulting in the deaths of 11 people and injuring 19 others. The tragedy highlights the risks of electrical appliances in high-risk environments.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T16:20:45.586Z"
-    },
-    {
-      "headline": "China Slams UK Steel Nationalization",
-      "summary": "China has criticized the UK government's decision to take British Steel into public ownership, calling it a \"violation of market principles.\" The move is seen as a bid to safeguard the country's steel industry and protect jobs.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T02:50:36.946Z"
-    },
-    {
-      "headline": "Uganda Mourns Bus Crash Victims",
-      "summary": "A horrific bus crash in Uganda has claimed the lives of 20 children and left many more injured. The tragedy is a stark reminder of the country's poor road safety record and the need for urgent action to protect vulnerable road users.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c151gegwqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T05:36:22.364Z"
-    },
-    {
-      "headline": "Tips for Running SQLite Efficiently",
-      "summary": "A seasoned developer has shared valuable insights into optimizing SQLite performance, including strategies for indexing, caching, and query tuning. The advice is aimed at helping developers squeeze the most out of this popular database management system.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "source": "Hacker News",
-      "published": "2026-07-17T17:45:41+00:00"
-    },
-    {
-      "headline": "Denver Nuggets' Bench a Concern",
-      "summary": "The Denver Nuggets' bench is seen as a major weakness compared to other top teams in the NBA, with several players struggling to make an impact. The team's front office faces a challenge in revamping the bench to compete with the league's best.",
+      "headline": "LeBron’s ‘Trust the Process’ Quip Ignites Crowd Frenzy",
+      "summary": "During a recent interview, the Lakers star referenced the phrase popularized by the Philadelphia 76ers, prompting an enthusiastic reaction from fans. The moment quickly trended on social media.",
       "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uz9s16/the_denver_nuggets_bench_currently_consists_of/",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1uz4p2g/a_trust_the_process_mention_from_lebron_james/",
       "source": "r/NBA",
-      "published": "2026-07-17T19:34:13+00:00"
+      "published": "2026-07-17T16:31:25+00:00"
     },
     {
-      "headline": "Pat Riley Courts LeBron and Rich Paul",
-      "summary": "Miami Heat president Pat Riley has confirmed that his team has had discussions with LeBron James and his agent Rich Paul, with a potential move to South Florida on the table. Riley highlighted the benefits of living in Miami, including a golf course and no state tax.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uz0rll/espn_pat_riley_weve_had_conversations_with_rich/",
-      "source": "r/NBA",
-      "published": "2026-07-17T14:06:47+00:00"
-    },
-    {
-      "headline": "Trump Threatens Canada Over Wildfires",
-      "summary": "US President Donald Trump has threatened to impose new tariffs on Canada in response to wildfires that have sent \"filthy\" air into US cities. Canadian leader Mark Carney has pushed back, emphasizing the need for joint action to combat climate change.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T12:45:23.004Z"
-    },
-    {
-      "headline": "Anthony Edwards Mentors KAT Before Finals",
-      "summary": "Anthony Edwards claims to have given advice to Karl-Anthony Towns before every finals game, showing a unique mentorship dynamic between the two NBA players.",
+      "headline": "Anthony Edwards Credits Mentor ‘KAT’ for Finals Guidance",
+      "summary": "The Mavericks guard revealed he consulted with his mentor, known as KAT, before each championship game to receive strategic advice against the Spurs. He says the counsel helped him stay focused under pressure.",
       "category": "NBA",
       "relevance": 4,
       "url": "https://old.reddit.com/r/nba/comments/1uzdjli/anthony_edwards_says_he_talked_to_kat_before/",
@@ -372,17 +408,35 @@
       "published": "2026-07-17T21:59:43+00:00"
     },
     {
-      "headline": "Church Debate on Gender Roles Continues",
-      "summary": "The issue of gender roles in the church remains a contentious topic, with some arguing that it's a settled matter and others seeing it as a recurring problem.",
-      "category": "Faith",
+      "headline": "Imagining the NBA with Reverse Team Names",
+      "summary": "A Reddit user posted a whimsical list swapping each franchise’s moniker for its opposite, turning the Bulls into “Bears” and the Warriors into “Pacifists.” The post sparked playful debate over branding and identity.",
+      "category": "NBA",
       "relevance": 4,
-      "url": "https://www.challies.com/book-reviews/a-solid-defense-of-a-very-defensible-position/",
-      "source": "Challies",
-      "published": "2026-07-17T04:02:00+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1uz2yrh/oc_what_if_every_nba_team_had_the_opposite_name/",
+      "source": "r/NBA",
+      "published": "2026-07-17T15:28:11+00:00"
     },
     {
-      "headline": "Free Book Offer from B&H Publishing",
-      "summary": "B&H Publishing is giving away free books as part of their Free Stuff Fridays promotion, offering a chance for readers to access new titles.",
+      "headline": "Giannis Nostalgic for Heat’s ‘Harlem Shake’ Era",
+      "summary": "While touring Miami’s locker room, the Bucks star recalled the viral “Harlem Shake” clip featuring LeBron, Wade, and Bosh, calling it an iconic moment. Fans responded with a mix of amusement and nostalgia.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1uzbym5/wasnt_this_like_when_lebron_d_wade_and_chris_bosh/",
+      "source": "r/NBA",
+      "published": "2026-07-17T20:56:21+00:00"
+    },
+    {
+      "headline": "Lillard’s Buzzer‑Beater Sends Rockets Packing",
+      "summary": "In a dramatic playoff showdown, Damian Lillard sank a game‑winning shot with under a second remaining, clinching the series for the Portland Trail Blazers. The buzzer‑beater ended the Rockets’ postseason run.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1uz8gt5/highlight_damian_lillard_hits_the_series_winner/",
+      "source": "r/NBA",
+      "published": "2026-07-17T18:46:10+00:00"
+    },
+    {
+      "headline": "B&H Publishing Offers Free Book This Friday",
+      "summary": "The publisher’s weekly “Free Stuff Friday” promotion features a complimentary e‑book download for subscribers. Readers can claim the title via the linked page before the offer expires.",
       "category": "Faith",
       "relevance": 3,
       "url": "https://www.challies.com/giveaways/free-stuff-fridays-bh-publishing-3/",
@@ -390,67 +444,13 @@
       "published": "2026-07-17T16:01:00+00:00"
     },
     {
-      "headline": "A La Carte: A Mix of Faith, Finance, and Culture",
-      "summary": "The latest A La Carte newsletter from Challies features a range of articles on topics including financial planning, AI writing, and social media.",
-      "category": "Faith",
-      "relevance": 3,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-17-2026/",
-      "source": "Challies",
-      "published": "2026-07-17T04:01:00+00:00"
-    },
-    {
-      "headline": "Lego's Evolution of Building Instructions",
-      "summary": "Lego has released a retrospective on the evolution of its building instructions, showcasing the company's commitment to innovation and customer satisfaction.",
+      "headline": "AI Personality Kimi K3 Declines Prompt Leak Request",
+      "summary": "In a recent exchange, the chatbot Kimi K3 responded to a request for its system prompt with a polite refusal, highlighting ongoing debates about AI transparency. The interaction was shared by developer Simon Willison.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time",
-      "source": "Hacker News",
-      "published": "2026-07-17T18:21:14+00:00"
-    },
-    {
-      "headline": "Reaves and Luka's Epic New Year's Bowling Session",
-      "summary": "Reaves and Luka Doncic had an unforgettable New Year's Eve, bowling until 5:30 in the morning at Doncic's house in a friendly competition.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uzfk50/reaves_talks_about_spending_nye_at_lukas_house_we/",
-      "source": "r/NBA",
-      "published": "2026-07-17T23:23:51+00:00"
-    },
-    {
-      "headline": "LeBron's 'Trust the Process' Moment",
-      "summary": "LeBron James invoked the 'trust the process' mantra when discussing his decision, sending the crowd into a frenzy with his words of wisdom.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uz4p2g/a_trust_the_process_mention_from_lebron_james/",
-      "source": "r/NBA",
-      "published": "2026-07-17T16:31:25+00:00"
-    },
-    {
-      "headline": "Giannis Recalls Iconic Miami Heat Harlem Shake",
-      "summary": "Giannis Antetokounmpo reminisced about the Miami Heat's iconic Harlem Shake video, drawing a comparison to the team's current roster and locker room.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uzbym5/wasnt_this_like_when_lebron_d_wade_and_chris_bosh/",
-      "source": "r/NBA",
-      "published": "2026-07-17T20:56:21+00:00"
-    },
-    {
-      "headline": "Dennis Rodman's Hilarious Response to Fan Question",
-      "summary": "Dennis Rodman playfully dodged a fan's question about who he thinks is the modern version of himself, joking that he doesn't watch basketball.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uzg5uy/fan_is_josh_hart_the_version_of_you_hes_small_he/",
-      "source": "r/NBA",
-      "published": "2026-07-17T23:50:36+00:00"
-    },
-    {
-      "headline": "Zach Edey Honors Brandon Clarke with Memorial",
-      "summary": "Zach Edey revealed a memorial in the Grizzlies' locker room dedicated to Brandon Clarke, showing a touching tribute to the late player.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1uzarv6/zach_edey_reveals_a_brandon_clarke_memorial_in/",
-      "source": "r/NBA",
-      "published": "2026-07-17T20:11:24+00:00"
+      "relevance": 1,
+      "url": "https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-17T13:43:53+00:00"
     }
   ]
 }
