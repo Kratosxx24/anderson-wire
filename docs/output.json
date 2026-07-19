@@ -1,73 +1,190 @@
 {
-  "generated_at": "2026-07-19T00:07:01.456655+00:00",
+  "generated_at": "2026-07-19T03:48:43.679820+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "GPT-5.6 Bridges Three Decades of Convex Optimization Gap with Clever Prompt",
-      "summary": "Researchers showed that a carefully crafted prompt enabled GPT-5.6 to solve convex‑optimization problems that have eluded automated methods for 30 years. The result marks a notable leap in how language models can be steered toward advanced mathematical reasoning.",
+      "headline": "Fantasy Football's Next Big Things",
+      "summary": "A new crop of second-year players is poised to make a significant impact in fantasy football, building on their promising rookie seasons. Emeka Egbuka is one of several young stars expected to break out and become household names.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzxybh/secondyear_breakouts_5_players_expected_to_build/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T14:52:16+00:00"
+    },
+    {
+      "headline": "Fantasy Football Draft Prep Heats Up",
+      "summary": "Fantasy football enthusiasts are gearing up for draft season with updated tiers and research tools to help inform their decisions. With regular updates throughout the week, fans can stay ahead of the curve and make informed choices for their teams.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v05luk/fantasy_football_tiers_predraft_july_18_2026/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T19:53:36+00:00"
+    },
+    {
+      "headline": "Expert Advice for Fantasy Football's Most Dedicated Fans",
+      "summary": "For those deeply invested in dynasty, best ball, and guillotine leagues, a community of experts is on hand to offer guidance and support. By sharing specific league rules and details, fans can get tailored advice to help them succeed in even the most complex fantasy football formats.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzsvy8/official_dynasty_best_ball_and_guillotine/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T11:00:25+00:00"
+    },
+    {
+      "headline": "Unlocking the Power of SQLite Queries",
+      "summary": "A new interactive tool is helping to demystify SQLite queries, making it easier for users to understand and optimize their database operations. By running SQLite in the browser, users can explore and explain query plans in a more intuitive and accessible way.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "source": "Hacker News",
-      "published": "2026-07-18T13:00:52+00:00"
+      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-18T17:19:10+00:00"
     },
     {
-      "headline": "U.S. and Iran Exchange Strikes, Escalating Toward Full‑Scale War",
-      "summary": "Both nations launched attacks on each other's infrastructure and military assets, intensifying the standoff over the Strait of Hormuz. The exchange pushes diplomatic red lines past the point of no return, raising fears of a broader conflict.",
+      "headline": "The Dark Side of AI-Driven Decision Making",
+      "summary": "The increasing reliance on artificial intelligence in global decision-making is having a profound impact, with some warning that it is eroding the quality of choices being made. As AI becomes more pervasive, there are growing concerns about the potential risks and unintended consequences of relying on machines to make critical decisions.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "source": "Hacker News",
+      "published": "2026-07-19T01:29:19+00:00"
+    },
+    {
+      "headline": "Breathing New Life into Old Macs with Claude Code",
+      "summary": "A step-by-step guide is helping users repurpose their spare Macs, transforming them into powerful tools controlled by Claude Code. This innovative approach is giving old devices a new lease on life, opening up fresh possibilities for creativity and productivity.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "source": "Hacker News",
+      "published": "2026-07-18T16:12:08+00:00"
+    },
+    {
+      "headline": "US-Iran Tensions Escalate After Deadly Attack",
+      "summary": "A recent attack in Jordan has resulted in the deaths of two US troops, with one more missing, as tensions between the US and Iran continue to escalate. The incident is the latest in a series of exchanges between the two nations, with both sides trading strikes and accusations.",
       "category": "World",
       "relevance": 9,
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
-      "source": "NPR News",
-      "published": "2026-07-18T02:01:20-04:00"
-    },
-    {
-      "headline": "NBA Players Union Defends 2023 Deal, Says Higher Pay Offsets Roster Limits",
-      "summary": "Nate Duncan argued that the collective‑bargaining outcome gave every player more money, even if it means teams may carry slightly smaller rosters. He dismissed criticism that the union was “kicked” in negotiations, emphasizing financial gains for athletes.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1v02fxf/nate_duncan_a_lot_of_people_are_saying_the/",
-      "source": "r/NBA",
-      "published": "2026-07-18T17:49:32+00:00"
-    },
-    {
-      "headline": "Study Shows Self‑Replication and Function Co‑Evolve in Digital 'Primordial Soup'",
-      "summary": "A new arXiv paper models a simulated environment where replicators and functional agents evolve together, mirroring early life dynamics. The findings suggest that replication and utility can arise synergistically without external direction.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arxiv.org/abs/2607.09211",
-      "source": "Hacker News",
-      "published": "2026-07-18T21:09:01+00:00"
-    },
-    {
-      "headline": "Fable 5 and GPT‑5.6 Tackle NP‑Hard Challenge; Researchers Test Impact of /goal Prompt",
-      "summary": "The blog compares how Fable 5 and GPT‑5.6 solve a classic NP‑hard problem, probing whether a /goal directive improves outcomes. Results indicate modest gains for GPT‑5.6 when explicitly guided toward a target solution.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "source": "Hacker News",
-      "published": "2026-07-18T11:00:29+00:00"
-    },
-    {
-      "headline": "Iranian Strike in Jordan Kills Two U.S. Soldiers, Leaves One Missing",
-      "summary": "Iran and the United States escalated hostilities after Tehran hit a U.S. installation in Jordan, killing two service members and prompting a missing‑in‑action report. The incident follows a series of reciprocal attacks across the Gulf region.",
-      "category": "World",
-      "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-18T17:49:39.781Z"
     },
     {
-      "headline": "U.S. Fires Back After Jordan Attack That Killed Two Service Members",
-      "summary": "CENTCOM confirmed that two American troops died defending partner forces against Iranian missiles and drones, prompting a retaliatory strike. The response underscores the widening clash between the two powers.",
+      "headline": "US Launches Airstrikes in Response to Iranian Aggression",
+      "summary": "The US has launched a new wave of airstrikes against Iran, seeking to punish the country for its role in the deaths of two American service members. The move is the latest escalation in a conflict that has been simmering for years, with both sides engaging in a cycle of retaliation and counter-retaliation.",
       "category": "World",
-      "relevance": 8,
+      "relevance": 9,
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899039/us-troops-killed-missing-iran-jordan",
       "source": "NPR News",
       "published": "2026-07-18T14:14:11-04:00"
     },
     {
-      "headline": "Ukrainian Drones Hit Russian Territories, Killing Eight and Injuring Over 60",
-      "summary": "Kyiv’s aerial campaign struck energy and military sites inside Russia, resulting in eight deaths and more than sixty injuries. The attacks aim to degrade Moscow’s war‑fighting capacity by targeting critical infrastructure.",
+      "headline": "The Future of Christian Music: 15 Artists to Watch",
+      "summary": "A new generation of Christian artists is making waves in the music industry, bringing a fresh sound and perspective to the genre. From diverse styles to global influences, these 15 artists are helping to shape the future of Christian music and inspire a new audience.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/quality-christian-music-2026/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-18T04:02:00+00:00"
+    },
+    {
+      "headline": "Russia's Wartime Economy Shows Signs of Strain",
+      "summary": "As the conflict with Ukraine drags on, Russia's economy is feeling the pinch, with citizens turning to cash and businesses seeking to avoid taxes. The country's wartime economy is facing significant challenges, from mobile internet shutdowns to a decline in consumer spending, as the population struggles to cope with the ongoing crisis.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-18T23:59:26.851Z"
+    },
+    {
+      "headline": "Women Fans Bring Fresh Joy to World Cup Coverage",
+      "summary": "While broadcasts often spotlight rowdy male crowds, NPR reporter found a different kind of excitement talking to women who are passionate about the game. Their perspectives highlight how the tournament resonates beyond the usual fan stereotypes.",
+      "category": "Other",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/18/nx-s1-5897607/2026-world-cup-fifa-argentina-spain-women-fans",
+      "source": "NPR News",
+      "published": "2026-07-18T11:30:00-04:00"
+    },
+    {
+      "headline": "Reddit’s Official Fantasy Football Hub Launches $2,800 FanDuel Contest Series",
+      "summary": "The r/FantasyFootball community announced a partnership with FanDuel to run exclusive, free contests for Redditors, offering a total prize pool of $2,800. Participants can join weekly challenges from weeks 1 through 20, with detailed posting rules and a wiki of resources.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzswg0/official_index_for_all_your_teamleague_questions/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T11:01:03+00:00"
+    },
+    {
+      "headline": "AI-Powered Multivariable Calculus Course Goes Live",
+      "summary": "A new online class combines large language models with traditional calculus instruction, aiming to make advanced math more interactive. The project, hosted at calculus.academa.ai, has attracted modest attention on Hacker News.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://calculus.academa.ai/",
+      "source": "Hacker News",
+      "published": "2026-07-19T02:55:43+00:00"
+    },
+    {
+      "headline": "Fantasy Fans Debate Value of Early Middle‑Round Wideouts",
+      "summary": "Redditors discuss whether receivers like Jaylen Waddle, Davante Adams, and others merit mid‑round picks, citing mixed performance and injury concerns. Some users also throw Jameson Williams into the conversation, seeking reasons to draft them.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v0d1cx/middle_round_wrs/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-19T01:18:05+00:00"
+    },
+    {
+      "headline": "Apple Sends Legal Letters to Ex‑Employees Working at OpenAI",
+      "summary": "Around 40 former Apple staff now at OpenAI have been asked to preserve internal documents and meet with Apple lawyers, according to sources. The move reflects growing corporate tension over talent and intellectual property.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
+      "source": "Daring Fireball",
+      "published": "2026-07-18T22:47:59+00:00"
+    },
+    {
+      "headline": "Five Late‑Round Running Backs to Target in 2026 Fantasy Drafts",
+      "summary": "Reddit user highlights Jonathon Brooks, Rachaad White, and three other backs as undervalued picks with upside for the upcoming season. Each player offers a blend of recent production and favorable schedule or depth chart situations.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v00g3e/5_lateround_running_backs_to_target_in_fantasy/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T16:31:42+00:00"
+    },
+    {
+      "headline": "Ukrainian Drone Strikes Damage Russian Online Retail Hubs",
+      "summary": "Drones targeted Wildberries distribution centers near Moscow and in Tambov, striking facilities that supply sanctioned components. Ukrainian officials framed the attacks as hits on major logistics nodes supporting the Russian war effort.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-18T10:22:46.648Z"
+    },
+    {
+      "headline": "Updated Top‑50 Dynasty Tight End Rankings Released",
+      "summary": "User ASmithFS posted a refreshed list of the best tight ends for dynasty fantasy leagues, reflecting recent performances and future outlooks. The rankings aim to guide managers in drafting and trading decisions.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v00n3o/updated_dynasty_tight_end_rankings_top_50/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T16:39:15+00:00"
+    },
+    {
+      "headline": "Why U.S. Military Campaigns Often Fall Short of Their Goals",
+      "summary": "NPR examines the pattern of American presidents promising quick, decisive victories in conflicts like Afghanistan, Iraq, and Iran, only to encounter prolonged, costly wars. The analysis points to strategic miscalculations and shifting political objectives.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
+      "source": "NPR News",
+      "published": "2026-07-18T08:45:13-04:00"
+    },
+    {
+      "headline": "Pete Nova Unveils Ultimate 2026 Defense/Special Teams Rankings",
+      "summary": "Fantasy analyst Pete Nova shares his methodology for ranking defenses and special teams, emphasizing value‑finding over splurging. The post includes actionable insights for managers looking to gain an edge in upcoming drafts.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v00h52/ultimate_2026_dst_rankings_pete_nova/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T16:32:53+00:00"
+    },
+    {
+      "headline": "Ukrainian Drone Strike Slaughters 8, Injures Over 60 in Russian Heartland",
+      "summary": "Kyiv’s air campaign continues, targeting energy sites and military assets inside Russia to erode Moscow’s war capacity. The latest raid hit multiple regions, leaving eight dead and more than sixty civilians wounded.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
@@ -75,8 +192,53 @@
       "published": "2026-07-18T06:45:43-04:00"
     },
     {
-      "headline": "Inside Jeffrey Epstein’s ‘Cult’: Control, Threats, and Forced Surgery",
-      "summary": "A former assistant, identified only as “Anya,” describes how Epstein manipulated and abused his inner circle through intimidation and coerced medical procedures. Her account offers a rare, personal glimpse into the financier’s secretive network.",
+      "headline": "Bucky Irving Emerges as a Hidden Top‑8 Running Back",
+      "summary": "Despite a sophomore slump in raw stats, Irving’s decline stems from a busted 2024 offensive line rather than his talent. Fantasy owners who overlook him miss a high‑upside back poised for a breakout.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzn7q2/bucky_irving_is_the_top_8_rb_everyone_is_sleeping/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T05:34:26+00:00"
+    },
+    {
+      "headline": "Jaguars 2026 Fantasy Outlook: What the Offseason Signals",
+      "summary": "The latest installment of the “Tea Leaves” series breaks down roster moves, draft picks, and coaching changes that could shape Jacksonville’s fantasy value. Readers get a concise guide to betting on the Jags’ upcoming season.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzsjzo/jacksonville_jaguars_fantasy_2026_reading_the_tea/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T10:41:34+00:00"
+    },
+    {
+      "headline": "Keeper Draft Forum: Post Your ‘Who Do I Keep?’ Questions Here",
+      "summary": "This subreddit thread consolidates keeper‑eligibility queries, requiring full league settings and rule details for accurate advice. Users are urged to include roster formats, scoring, and keeper limits to get tailored recommendations.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzsvyg/official_keeper_sat_07182026/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T11:00:26+00:00"
+    },
+    {
+      "headline": "Run a Fully Independent Site for Just $0.01 a Day",
+      "summary": "The piece shows how to host an IndieWeb‑compatible website on ultra‑cheap cloud resources, keeping data under personal control. Hacker News users praised the guide, sparking discussion on low‑cost self‑hosting.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "source": "Hacker News",
+      "published": "2026-07-18T21:45:12+00:00"
+    },
+    {
+      "headline": "Commissioner & League Issues: Central Hub for Policy Questions",
+      "summary": "This subreddit thread is the designated spot for questions about waivers, scoring, collusion, and other administrative matters, not for lineup or trade advice. Posting clear league parameters helps moderators provide precise guidance.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1uzsvyv/official_league_commissioner_and_platform_issues/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T11:00:27+00:00"
+    },
+    {
+      "headline": "Inside Jeffrey Epstein’s ‘Cult’: A Survivor’s Harrowing Tale",
+      "summary": "“Anya” recounts how Epstein manipulated and abused his assistants through intimidation, threats, and forced surgeries. The BBC interview offers a rare, personal glimpse into the financier’s coercive network.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
@@ -84,368 +246,206 @@
       "published": "2026-07-18T05:10:44.050Z"
     },
     {
-      "headline": "Comprehensive Look at NBA Teams’ Local TV Rights Reveals Patchwork Deals",
-      "summary": "An analysis of each franchise’s broadcast agreements uncovers a varied landscape, from over‑the‑air moves by the Hawks to lucrative regional sports network contracts. The piece highlights how market size and negotiation timing shape revenue streams.",
+      "headline": "Adou Thiero Drops 18‑10 in Summer League Showdown vs. Warriors",
+      "summary": "Thiero posted a flawless shooting night, adding rebounds and steals, but his Lakers fell short, ending their run. The stat line highlights his efficiency despite the team’s elimination.",
       "category": "NBA",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1uzysi9/oc_the_state_of_every_nba_teams_local/",
+      "url": "https://old.reddit.com/r/nba/comments/1v0eim4/adou_thiero_in_the_summer_league_semifinals/",
       "source": "r/NBA",
-      "published": "2026-07-18T15:25:49+00:00"
+      "published": "2026-07-19T02:32:02+00:00"
     },
     {
-      "headline": "Beyond the Bros: Women's Passion for Soccer Shines at the World Cup",
-      "summary": "While male fans dominate World Cup coverage, a group of women soccer enthusiasts share their love for the game, bringing a fresh perspective to the tournament. Their stories highlight the diversity and depth of the sport's global fan base.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5897607/2026-world-cup-fifa-argentina-spain-women-fans",
-      "source": "NPR News",
-      "published": "2026-07-18T11:30:00-04:00"
-    },
-    {
-      "headline": "Apple Cracks Down on Former Employees at OpenAI",
-      "summary": "Apple has sent letters to dozens of former employees now working at OpenAI, demanding they preserve documents and communications, and meet with the company's lawyers. The move suggests Apple is taking a closer look at its intellectual property and potential leaks.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-      "source": "Daring Fireball",
-      "published": "2026-07-18T22:47:59+00:00"
-    },
-    {
-      "headline": "Claude's Fable 5 Upgrade Brings More Value to Max and Team Premium Plans",
-      "summary": "Claude, an AI assistant, has made Fable 5 a permanent feature for Max and Team Premium users, offering 50% of its limits. Existing Pro and Team Standard users will continue to access Fable via usage credits, with a one-time $10 credit.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-18T06:00:13+00:00"
-    },
-    {
-      "headline": "Ukrainian Strikes Hit Russian Online Retail Warehouses",
-      "summary": "Ukraine's military has targeted Russian online retail warehouses, including those operated by Wildberries, in a series of drone strikes. The attacks aim to disrupt Russia's supply chain and hit its economy.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T10:22:46.648Z"
-    },
-    {
-      "headline": "Russia's Wartime Economy Faces Strain as Cash Becomes the Preferred Currency",
-      "summary": "Russia's economy is struggling due to mobile internet shutdowns and a growing trend of businesses seeking to dodge taxes. The move away from digital payments and towards cash is putting additional pressure on the economy.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T23:59:26.851Z"
-    },
-    {
-      "headline": "Hungary's President Agrees to Step Down Amid Parliament's Removal Vote",
-      "summary": "Hungary's president, Tamás Sulyok, has agreed to end his term after the country's parliament voted to remove him. The decision marks a significant shift in the country's leadership and politics.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T17:33:28.774Z"
-    },
-    {
-      "headline": "The Elusive Goal: Why the US Struggles to Win Wars",
-      "summary": "US presidents have consistently promised short, decisive wars, but these conflicts have consistently proven more difficult and longer-lasting than anticipated. The failure to achieve clear goals has become a recurring theme in US military interventions.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-      "source": "NPR News",
-      "published": "2026-07-18T08:45:13-04:00"
-    },
-    {
-      "headline": "Indian Activist's Hunger Strike Takes a Turn for the Worse",
-      "summary": "Abhijeet Dipke, the founder of the Cockroach Janta Party, has been forcibly taken to the hospital after beginning an indefinite fast in solidarity with another activist. The move has sparked concerns about the activist's health and well-being.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T03:54:51.230Z"
-    },
-    {
-      "headline": "Setting Up Your Spare Mac for Claude Code Control: A Step-by-Step Guide",
-      "summary": "A new guide provides a detailed walkthrough on how to set up your spare Mac for Claude Code control, allowing users to harness the power of AI on their devices. The guide offers a comprehensive resource for those looking to integrate Claude into their workflow.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "source": "Hacker News",
-      "published": "2026-07-18T16:12:08+00:00"
-    },
-    {
-      "headline": "The Impact of AI on Stack Overflow: A Visual Representation",
-      "summary": "A recent analysis has visualized the impact of AI on Stack Overflow, highlighting the changes in user behavior and content. The graph offers a unique perspective on how AI has influenced the platform and its users.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "source": "Hacker News",
-      "published": "2026-07-18T11:12:46+00:00"
-    },
-    {
-      "headline": "Knicks Make Move on Cisse, Mavericks Have 48 Hours to Respond",
-      "summary": "Moussa Cisse has agreed to a two-year contract offer sheet with the New York Knicks, but the Dallas Mavericks have a 48-hour window to match the deal. The offer sheet includes a half-guaranteed salary in the first year and a non-guaranteed second year.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1v02iy9/charania_restricted_free_agent_moussa_cisse_has/",
-      "source": "r/NBA",
-      "published": "2026-07-18T17:52:47+00:00"
-    },
-    {
-      "headline": "Terry's Dagger Shot Still Haunts LeBron",
-      "summary": "Jason Terry's game-winning shot over LeBron James in the 2011 NBA Finals remains an iconic moment in basketball history, showcasing Terry's clutch shooting ability. The shot has become a memorable highlight in the NBA's archives.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1v0197i/jason_terry_hits_the_dagger_over_lebron_james/",
-      "source": "r/NBA",
-      "published": "2026-07-18T17:03:30+00:00"
-    },
-    {
-      "headline": "NBA Teams Have Had Lackluster Efforts in the Past",
-      "summary": "The recent World Cup match between France and England highlighted a lack of effort from the French team, prompting fans to recall similar instances in the NBA. The Knicks' performance against the Mavericks in MSG this season was cited as one such example.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1v08fw4/whats_the_worst_effort_youve_seen_a_team_play_with/",
-      "source": "r/NBA",
-      "published": "2026-07-18T21:50:54+00:00"
-    },
-    {
-      "headline": "Codex Resets Its Platform",
-      "summary": "Codex has announced a reset of its platform, but details about the changes and their impact on users are scarce. The move has sparked curiosity among users and observers alike.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://codex-resets.com/",
-      "source": "Hacker News",
-      "published": "2026-07-18T23:24:26+00:00"
-    },
-    {
-      "headline": "AI-Generated Books Flood Apple Books and Amazon",
-      "summary": "Authors are facing a new challenge as AI-generated books are flooding online stores, including Apple Books and Amazon, with some of these knockoffs even using the original authors' names. This has raised concerns about copyright and intellectual property rights.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://thenewthings.com/p/apple-big-ai-book-slop-problem",
-      "source": "Daring Fireball",
-      "published": "2026-06-26T16:05:00.000Z"
-    },
-    {
-      "headline": "Wildfire Smoke Shifts Direction in the US",
-      "summary": "Wildfire smoke continues to affect air quality in the US, with the Midwest experiencing unhealthy conditions. Meanwhile, the Northeast is seeing improvements in air quality.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5899009/us-canada-wildfire-smoke",
-      "source": "NPR News",
-      "published": "2026-07-18T14:15:42-04:00"
-    },
-    {
-      "headline": "Mayor Bans AI-Generated Images in Property Ads",
-      "summary": "A mayor has issued a ruling that prohibits landlords from using AI-generated images to advertise properties, citing concerns about transparency and authenticity. The move aims to protect consumers from misleading advertisements.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "source": "Hacker News",
-      "published": "2026-07-16T20:39:10+00:00"
-    },
-    {
-      "headline": "German Politician Resigns Over Surrogacy Controversy",
-      "summary": "A German politician has resigned amid criticism over his use of a surrogate mother, despite previously backing a ban on the practice. The controversy has sparked debate about the ethics of surrogacy.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T14:20:32.600Z"
-    },
-    {
-      "headline": "India Launches Its First Commercial Rocket",
-      "summary": "Skyroot Aerospace, an Indian space-tech company, has successfully launched its first commercial rocket, Vikram-1, marking a significant milestone in the country's space program. The launch has generated excitement among space enthusiasts and industry experts.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T00:39:18.367Z"
-    },
-    {
-      "headline": "Laos Unable to Determine Cause of Tourist Deaths",
-      "summary": "Laos officials have admitted that they cannot determine the cause of the deaths of several tourists in 2024, citing a lack of evidence due to incomplete autopsies. The incident has raised concerns about the country's ability to investigate and respond to health crises.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T09:30:32.583Z"
-    },
-    {
-      "headline": "Trump Threatens Tariffs Over Canada's Wildfires, Ignoring Climate Change Responsibility",
-      "summary": "The US president has vowed to impose new tariffs on Canada, citing the country's wildfires as a reason, despite experts attributing the worsening conditions to climate change. Canadian leader Mark Carney has called for cooperation to address the issue.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-17T12:45:23.004Z"
-    },
-    {
-      "headline": "Congressman's Seat Sparks Funding Fears for Local Community",
-      "summary": "Residents are worried that if Shomari Figures loses his seat, federal funding for their community could disappear, highlighting the importance of his role in securing resources. Figures made history in Congress, but a Supreme Court decision has put his position at risk.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T01:35:33.782Z"
-    },
-    {
-      "headline": "Google and DeepMind Collaborate on Bioresilience Research",
-      "summary": "Isomorphic Labs and Google DeepMind have joined forces to explore the concept of bioresilience, aiming to develop new approaches to understanding and addressing complex biological systems. The collaboration has the potential to drive innovation in fields like medicine and biotechnology.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-      "source": "Hacker News",
-      "published": "2026-07-16T11:00:00+00:00"
-    },
-    {
-      "headline": "Quake 3 Map Editor Now Runs in Browser, Enabling Seamless Level Creation",
-      "summary": "A developer has created a level editor for Quake 3 that runs entirely in the browser, allowing users to edit and play maps directly within the web application. The tool offers a range of features, including brush and patch editing, CSG, and entity editing.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://q3edit.com",
-      "source": "Hacker News",
-      "published": "2026-07-18T15:12:40+00:00"
-    },
-    {
-      "headline": "LeBron's Longevity Inspires Speculation About Future Stats",
-      "summary": "As LeBron James approaches 42, fans are pondering what his stats might look like in the 2026-2027 season, given his remarkable longevity and continued performance at an advanced age. His 2025-26 numbers were impressive, but can he sustain this level of play?",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nbadiscussion/comments/1uzjgq5/lebron_at_age_42_in_year_23_what_could_be_his/",
-      "source": "r/NBA Discussion",
-      "published": "2026-07-18T02:24:26+00:00"
-    },
-    {
-      "headline": "Celtics Rookies Test Their Knowledge of Joe Mazzulla and Ancient Philosophy",
-      "summary": "Celtics rookies were tasked with identifying whether quotes were from their coach, Joe Mazzulla, or an ancient philosopher, showcasing their knowledge of both basketball and philosophy. The exercise highlights the unique approach to team-building and leadership in the Celtics organization.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1uzv40g/celtics_rookies_guess_if_quotes_are_from_joe/",
-      "source": "r/NBA",
-      "published": "2026-07-18T12:52:11+00:00"
-    },
-    {
-      "headline": "David Stern Receives a Warm Welcome in Brooklyn, Despite Controversy",
-      "summary": "David Stern, the former NBA commissioner, received a warm welcome in Brooklyn, despite the controversy surrounding his tenure. Stern's presence at the event highlights the complex legacy of his time in the league.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1v06sq6/david_stern_revels_in_the_boos_good_evening_and/",
-      "source": "r/NBA",
-      "published": "2026-07-18T20:41:26+00:00"
-    },
-    {
-      "headline": "Unhealthy Marriage Signs and How to Address Them",
-      "summary": "A healthy marriage is not one without conflict, but rather one where both partners feel heard and valued, even in the midst of disagreements. Identifying the signs of an unhealthy marriage is crucial for addressing underlying issues and working towards a stronger relationship.",
+      "headline": "5 Red Flags of an Unhealthy Marriage and How to Fix Them",
+      "summary": "The article warns that a lack of conflict often masks deeper defeat or resignation within a partnership. It offers practical steps for couples to restore communication and mutual respect.",
       "category": "Faith",
-      "relevance": 5,
+      "relevance": 7,
       "url": "https://www.thegospelcoalition.org/article/5-signs-marriage-unhealthy/",
       "source": "The Gospel Coalition",
       "published": "2026-07-18T04:00:00+00:00"
     },
     {
-      "headline": "British Athlete Breaks 27-Year-Old World Record in the Mile",
-      "summary": "Josh Kerr of Britain has broken the 27-year-old world record in the mile, achieving his goal of setting a new benchmark in the event. Kerr's dedication and hard work have paid off, cementing his place in the history books.",
+      "headline": "Cupertino Mornings Smell Like Napalm, Says Daring Fireball",
+      "summary": "The writer muses that Apple exec John Ternus might be asking, “What would Steve do?” in today’s AI turmoil. He predicts Steve Jobs would have taken an aggressive stance against the challenge.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://daringfireball.net/2026/07/mornings_in_cupertino_have_the_aroma_of_napalm_once_again",
+      "source": "Daring Fireball",
+      "published": "2026-07-19T00:38:17+00:00"
+    },
+    {
+      "headline": "Miami Dolphins Receivers Barely Drafted in Standard 12‑Man Leagues",
+      "summary": "A veteran fantasy player notes that no Miami pass‑catchers are being selected in typical 12‑team drafts. The team’s struggling offense and lack of proven talent at the position explain the disinterest.",
       "category": "Sports",
-      "relevance": 5,
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v03aay/miami_dolphin_pass_catchers/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-18T18:21:57+00:00"
+    },
+    {
+      "headline": "Experts Advise Ignoring Tight Ends After Early Picks in 2026 Draft",
+      "summary": "Fantasy analysts recommend dropping tight ends unless you secure one of the top three or four options. While the position has seen increased usage, most mid‑range TEs offer limited upside.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1v0fkbn/te_deadzone/",
+      "source": "r/FantasyFootball",
+      "published": "2026-07-19T03:25:21+00:00"
+    },
+    {
+      "headline": "Codex Resets: New Initiative to Reboot AI Model Training Pipelines",
+      "summary": "The Codex Resets project proposes periodic weight resets for large language models to curb drift and improve safety. Hacker News discussion highlights both enthusiasm for the idea and concerns about the computational cost.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://codex-resets.com/",
+      "source": "Hacker News",
+      "published": "2026-07-18T23:24:26+00:00"
+    },
+    {
+      "headline": "EU Border Checks to Triple Wait Times, Ryanair Warns Travelers",
+      "summary": "An EU airport authority announced a new passport‑control system that will increase processing times threefold. Ryanair cautioned passengers heading to Europe this summer to expect significantly longer queues.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-19T01:47:59.170Z"
+    },
+    {
+      "headline": "Mayor Mamdani Bans AI‑Generated Images in Rental Ads",
+      "summary": "The mayor announced a regulation prohibiting landlords from using AI‑created photos to market properties, citing deception concerns. The move sparked debate on Hacker News over enforcement and artistic freedom.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "source": "Hacker News",
+      "published": "2026-07-16T20:39:10+00:00"
+    },
+    {
+      "headline": "Trump Threatens Tariffs on Canada Over Smoke‑Filled Air",
+      "summary": "President Trump warned of new duties on Canadian goods, claiming wildfires are sending polluted air into U.S. cities. Canadian officials responded that climate action is a shared responsibility.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-17T12:45:23.004Z"
+    },
+    {
+      "headline": "Study Shows Co‑Evolution of Replication and Function in Digital Life Simulations",
+      "summary": "Researchers present an arXiv paper demonstrating how self‑replicating code can evolve functional traits in a simulated environment. The findings shed light on early evolutionary dynamics in artificial systems.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://arxiv.org/abs/2607.09211",
+      "source": "Hacker News",
+      "published": "2026-07-18T21:09:01+00:00"
+    },
+    {
+      "headline": "LeBron’s High‑School Coach Warned He’d Be a Draft Bust Without Hall‑of‑Fame Talent",
+      "summary": "A former high‑school mentor recalled telling a young LeBron James that failing to become a top‑ballot Hall of Famer would label him a bust. The anecdote underscores the early pressure on the future star.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v04rhl/lebron_in_high_school_being_told_if_hes_not_at/",
+      "source": "r/NBA",
+      "published": "2026-07-18T19:19:45+00:00"
+    },
+    {
+      "headline": "Westbrook Opens Up About Backlash, Calls It ‘Westbrick’ Shaming",
+      "summary": "Russell Westbrook addressed the harsh criticism he’s faced, describing the narrative as a personal shaming of his legacy. He emphasized that basketball is a game, not his entire identity.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1uzsumq/when_russell_westbrook_opened_up_about_the_tough/",
+      "source": "r/NBA",
+      "published": "2026-07-18T10:58:33+00:00"
+    },
+    {
+      "headline": "Yaxel Lendeborg’s Summer‑League Size Appears to Defy His College Frame",
+      "summary": "Observers note that the Michigan forward looks noticeably slimmer and less imposing in summer league than his draft‑day measurements suggested. The visual discrepancy has sparked speculation about his development and role.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v03y03/watching_yaxel_lendeborg_in_summer_league_feels/",
+      "source": "r/NBA",
+      "published": "2026-07-18T18:47:49+00:00"
+    },
+    {
+      "headline": "UK’s Tate Brothers Detained in Miami as U.S. Seeks Extradition on Rape and Trafficking Charges",
+      "summary": "U.S. Marshals arrested the brothers on a sealed warrant in Miami. British prosecutors are pushing for their extradition to face alleged sexual assault and human‑trafficking crimes.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+      "source": "NPR News",
+      "published": "2026-07-18T20:57:08-04:00"
+    },
+    {
+      "headline": "Claude AI’s ‘Fable 5’ Becomes Standard Feature on Premium Plans Starting July 20",
+      "summary": "The AI service will embed Fable 5 in all Max and Team Premium subscriptions at half the usual usage caps. Users on lower tiers retain access via credits and receive a one‑time $10 credit.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-18T06:00:13+00:00"
+    },
+    {
+      "headline": "Briton Josh Kerr Shatters 27‑Year‑Old Mile Record in London",
+      "summary": "Kerr announced his intent months ahead and delivered, running a new world‑best time in the mile on Saturday. His performance eclipsed the previous mark set in 1997.",
+      "category": "Sports",
+      "relevance": 6,
       "url": "https://www.npr.org/2026/07/18/nx-s1-5899057/josh-kerr-mile-world-record-time",
       "source": "NPR News",
       "published": "2026-07-18T16:06:35-04:00"
     },
     {
-      "headline": "Interactive Tool Explains SQLite Queries in Detail",
-      "summary": "A new tool has been developed to help users understand SQLite queries, providing an interactive explanation of the query plan and how it is executed. The tool aims to make complex database concepts more accessible to developers and data analysts.",
+      "headline": "‘Transcribe.cpp’ Project Gains Traction on Hacker News",
+      "summary": "A C++ utility for converting audio to text has attracted attention, earning 167 points and 30 comments on HN. The tool’s repository showcases its performance and ease of integration.",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Jul/18/sqlite-query-explainer/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-18T17:19:10+00:00"
-    },
-    {
-      "headline": "Quixote Web Framework Still Alive After 21 Years",
-      "summary": "The Quixote web framework has seen recent activity, with the latest commit made just six hours ago. The oldest commit in the repository dates back to 2005, when Quixote 2.4 was imported from Subversion to Git.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Jul/18/quixote/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-18T05:27:49+00:00"
-    },
-    {
-      "headline": "Captain Sully's Continued Courage in the Face of Alzheimer's",
-      "summary": "Retired pilot Chesley Sullenberger, known for safely landing a plane on the Hudson River in 2009, has announced that he has been diagnosed with Alzheimer's disease. Despite this, Sully remains a symbol of courage and resilience.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/18/nx-s1-5882194/opinion-the-continued-courage-of-captain-sully",
-      "source": "NPR News",
-      "published": "2026-07-18T08:00:00-04:00"
-    },
-    {
-      "headline": "Run Your Own Website Independently for Just $0.01 a Day",
-      "summary": "A recent article highlights the benefits of running a personal website independently, with the author showcasing how to do so for just $0.01 a day. This approach allows individuals to maintain control over their online presence.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.neatnik.net/hardcore-indieweb",
+      "relevance": 6,
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "source": "Hacker News",
-      "published": "2026-07-18T21:45:12+00:00"
+      "published": "2026-07-19T00:38:26+00:00"
     },
     {
-      "headline": "Norway Fire Destroys Homes and Spreads to Nearby Forest",
-      "summary": "A massive fire in Norway has destroyed over 100 homes in Drammen and spread to a nearby forest, with authorities working to contain the blaze. The fire has had a devastating impact on the local community.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/c4gj5944n4ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-18T07:13:07+00:00"
-    },
-    {
-      "headline": "The Power of Building Something from Scratch",
-      "summary": "A recent article highlights the importance of building something from scratch, whether it's a website, a business, or a community. By taking ownership of a project, individuals can create something truly unique and meaningful.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "source": "Hacker News",
-      "published": "2026-07-18T02:36:41+00:00"
-    },
-    {
-      "headline": "Brayden Burries Wins Game with Last-Second Layup",
-      "summary": "In a thrilling finish, Brayden Burries scored a game-winning lefty layup to beat the Philadelphia 76ers, showcasing his impressive skills on the court. The win was a highlight of the NBA season so far.",
+      "headline": "Charles Barkley and Michael Jordan Publicly Reconcile",
+      "summary": "The former NBA stars posted a joint video confirming they have settled past differences. Fans reacted positively to the unexpected reunion.",
       "category": "NBA",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1v0aa9m/highlight_brayden_burries_with_the_gamewinning/",
+      "url": "https://old.reddit.com/r/nba/comments/1uzu34m/charles_barkley_and_mj_have_officially_reconciled/",
       "source": "r/NBA",
-      "published": "2026-07-18T23:11:33+00:00"
+      "published": "2026-07-18T12:03:38+00:00"
     },
     {
-      "headline": "15 Christian Artists to Watch in 2026",
-      "summary": "A recent list highlights 15 Christian artists who are making significant contributions to the world of Christian music. These artists are pushing the boundaries of the genre and inspiring a new generation of fans.",
+      "headline": "Anthony Davis Forecasts AJ Dybantsa as Rookie of the Year and Wizards 40‑Win Season",
+      "summary": "Davis also claimed he will log every game of the upcoming NBA season. His bold statements sparked debate among fans.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1v0dm9b/anthony_davis_says_aj_dybantsa_will_win_roty_and/",
+      "source": "r/NBA",
+      "published": "2026-07-19T01:46:59+00:00"
+    },
+    {
+      "headline": "Klay Thompson Replies to Fan’s ‘We Miss You’ Message with Optimistic ‘Never Say Never’",
+      "summary": "After a supporter expressed longing for his return, Thompson thanked them and hinted at a possible comeback. The exchange went viral among Warriors followers.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1v0erx2/klay_thompson_when_told_by_warriors_fan_we_miss/",
+      "source": "r/NBA",
+      "published": "2026-07-19T02:45:06+00:00"
+    },
+    {
+      "headline": "Weekend A La Carte Curates Essays on Fertility, Scouts, AI, and More",
+      "summary": "The July 18 edition features deep dives into declining birth rates, the Boy Scouts, AI’s impact on seniors, and a modern take on The Odyssey. Readers are also offered a list of recommended reads.",
       "category": "Faith",
       "relevance": 4,
-      "url": "https://www.thegospelcoalition.org/article/quality-christian-music-2026/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-18T04:02:00+00:00"
-    },
-    {
-      "headline": "Weekend A La Carte: A Collection of Thought-Provoking Articles",
-      "summary": "A recent collection of articles covers a range of topics, from declining fertility rates to the impact of AI on the elderly. The articles offer thought-provoking insights and perspectives on the issues of the day.",
-      "category": "Faith",
-      "relevance": 3,
       "url": "https://www.challies.com/a-la-carte/weekend-a-la-carte-july-18-2026/",
       "source": "Challies",
       "published": "2026-07-18T04:01:00+00:00"
     },
     {
-      "headline": "Classic Amiga Titles Now Available for Free Download",
-      "summary": "A recent website offers free downloads of classic Amiga titles, allowing gamers to experience the nostalgia of these iconic games. The website is a treasure trove for retro gaming enthusiasts.",
-      "category": "Other",
+      "headline": "Victor Wembanyama Still Draws Boos from Knicks Fans at Fanatics Fest",
+      "summary": "Despite his hype, the rookie faced vocal disapproval from New York supporters during the event. The reaction highlights lingering skepticism about his fit with the team.",
+      "category": "NBA",
       "relevance": 3,
-      "url": "https://amigafreeware.downer.tech/",
-      "source": "Hacker News",
-      "published": "2026-07-18T21:55:27+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1v066db/victor_wembanyama_still_getting_heavy_boos_from/",
+      "source": "r/NBA",
+      "published": "2026-07-18T20:16:04+00:00"
     },
     {
-      "headline": "Four Tet's Unpronounceable Glyph Project: A New Compilation",
-      "summary": "A new compilation from Four Tet's unpronounceable glyph project features some of Kieran Hebden's most fully realized productions. The tempos are brisk and the energy is high on this exciting new release.",
+      "headline": "Four Tet’s New Glyph Compilation Bursts with High‑Energy Beats",
+      "summary": "The latest release from Kieran Hebden’s cryptic project showcases some of his most fully realized productions. Critics note the brisk tempos and relentless vigor throughout the album.",
       "category": "Music",
       "relevance": 2,
       "url": "https://pitchfork.com/reviews/albums/four-tet-wingdings-2026/",
