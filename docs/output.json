@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-21T17:42:50.997910+00:00",
+  "generated_at": "2026-07-21T19:48:19.006304+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Our View of Human Worth Shapes How We Age",
-      "summary": "The piece argues that beliefs about dignity dictate the aging experience, urging believers to see later life as part of God’s eternal story. It calls readers at any stage to embrace aging with purpose.",
+      "headline": "Our View of Human Value Shapes How We Age",
+      "summary": "The article argues that believers should see aging as part of God’s eternal narrative, urging people at every stage to live with that perspective. It calls for embracing the true story of aging in light of divine purpose.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/reviews/dust-to-dust-aging/",
@@ -12,8 +12,17 @@
       "published": "2026-07-21T04:02:00+00:00"
     },
     {
-      "headline": "Anthropic’s Claude Code Team Discusses AI Coding Tools",
-      "summary": "In a fireside chat at the AI Engineer World’s Fair, Cat Wu and Thariq Shihipar explained Claude Code, Claude Tag, Fable, and security measures for coding agents. They also revealed how Anthropic uses these tools internally.",
+      "headline": "Did Paul Secretly Support Stoic Thought?",
+      "summary": "The piece notes that Stoicism mirrors some biblical ideas but ultimately collapses when faced with mortality. It questions whether Paul ever endorsed the philosophy, given its limits.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/did-paul-endorse-stoicism/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-21T04:00:00+00:00"
+    },
+    {
+      "headline": "Inside the Claude Code Fireside Chat: Security, Tools, and Real‑World Use",
+      "summary": "Simon Willison recaps a conversation with Anthropic engineers about Claude Code, Claude Tag, Fable, and how the company applies these coding agents. The discussion covered security, evaluation methods, and tool design.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
@@ -21,26 +30,35 @@
       "published": "2026-07-21T12:54:02+00:00"
     },
     {
-      "headline": "Apple Patches Hide‑My‑Email Flaw After 404 Media Report",
-      "summary": "Following a 404 Media expose, Apple released an update that closes a privacy loophole in its Hide My Email service. The patch addresses concerns raised by security researchers and affected users.",
+      "headline": "AI Shifted Programming Challenges, Not Eliminated Them",
+      "summary": "A CACM opinion argues that AI tools have introduced new complexities rather than simplifying coding. The claim sparked debate on Hacker News about the real impact of AI on software development.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.404media.co/apple-fixes-hide-my-email-vulnerability-after-404-media-coverage/",
+      "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
       "source": "Hacker News",
-      "published": "2026-07-21T15:20:10.000Z"
+      "published": "2026-07-21T18:30:21+00:00"
     },
     {
-      "headline": "Why Claude Shouldn’t Be Treated as a Compiler",
-      "summary": "The blog post clarifies that Anthropic’s Claude model is a language model, not a code compiler, and warns against misusing it for direct code execution. It underscores the limits of AI‑generated code and the need for proper evaluation.",
+      "headline": "Greedy Algorithm Proven Optimal for One‑Pass Semi‑Streaming Matching",
+      "summary": "New arXiv research shows that a greedy approach achieves optimal results in single‑pass semi‑streaming graph matching. The finding was highlighted in a Hacker News discussion.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+      "url": "https://arxiv.org/abs/2607.14656",
       "source": "Hacker News",
-      "published": "2026-07-20"
+      "published": "2026-07-21T17:59:29+00:00"
     },
     {
-      "headline": "US Hits Iran with New Strikes as Trump Threatens Retaliation",
-      "summary": "The United States launched additional airstrikes against Iranian targets after American soldiers were killed, prompting former President Trump to warn of further action. Iran responded by striking ships in the Strait of Hormuz and hitting sites in Bahrain and Jordan.",
+      "headline": "Ortega Declares No Further Elections, Extending Two‑Decade Rule",
+      "summary": "Nicaragua’s president announced the cancellation of the scheduled 2027 vote, effectively cementing his 20‑year hold on power. The move eliminates any immediate prospect of democratic transition.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902228/nicaragua-ortega-no-elections",
+      "source": "NPR News",
+      "published": "2026-07-21T15:10:42-04:00"
+    },
+    {
+      "headline": "US Launches New Strikes on Iran; Trump Threatens Retaliation",
+      "summary": "The United States carried out fresh attacks on Iranian targets after Tehran claimed hits on ships in the Strait of Hormuz and sites in Bahrain and Jordan. Trump warned of retaliation for the deaths of American soldiers.",
       "category": "World",
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
@@ -48,53 +66,35 @@
       "published": "2026-07-20T21:09:31.578Z"
     },
     {
-      "headline": "Israeli Airstrike in Gaza Kills 12, Including Whole Family",
-      "summary": "An Israeli attack in Gaza killed twelve people, among them a husband, wife, and their four children, whom Israel said were near a Hamas operative. Medics condemned the loss as a tragic civilian toll.",
-      "category": "World",
+      "headline": "Apple Publishes Private Cloud Compute SoC 3 Audit Documentation",
+      "summary": "Apple released official audit reports for its Private Cloud Compute SoC 3, detailing compliance and security assessments. The documents were noted on Hacker News for their transparency.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T14:47:41.756Z"
+      "url": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+      "source": "Hacker News",
+      "published": "2026-07-21T17:58:21+00:00"
     },
     {
-      "headline": "Did Paul Really Back Stoicism? A Theological Probe",
-      "summary": "The article examines whether the Apostle Paul endorsed Stoic philosophy, noting superficial similarities but arguing that Stoicism collapses when faced with mortality. It contrasts biblical teachings with Stoic resignation.",
+      "headline": "Redeeming the Legacy of Bad Fathers in Scripture",
+      "summary": "The 9Marks article explores how biblical narratives show that even the worst fathers can have their failures transformed through redemption. It offers hope that past sins can be healed, not erased.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/did-paul-endorse-stoicism/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-21T04:00:00+00:00"
+      "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers",
+      "source": "9Marks",
+      "published": "2026-07-21T19:30:55+00:00"
     },
     {
-      "headline": "Trip‑Hop Veteran’s New Album Finds Power in Quiet Despair",
-      "summary": "The latest release from the trip‑hop legend is uneven yet energized, especially on somber tracks that explore parental grief. Critics note the artist’s renewed creative spark despite stylistic shifts.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/tricky-different-when-its-silent/",
-      "source": "Pitchfork",
-      "published": "2026-07-21T04:03:00+00:00"
-    },
-    {
-      "headline": "Caribenya: A Colombian Artist Redefines the Caribbean Sublime",
-      "summary": "The new album blends sharp songwriting with avant‑garde textures, expanding the concept of a “Caribbean sublime.” It showcases the musician’s ability to merge tradition with experimental sounds.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/lido-pimienta-caribenya/",
-      "source": "Pitchfork",
-      "published": "2026-07-21T04:01:00+00:00"
-    },
-    {
-      "headline": "India’s Cockroach Movement Vows to Keep Protesting After Crackdown",
-      "summary": "Born as a satirical protest, the youth‑driven Cockroach movement has grown into a nationwide challenge to Prime Minister Modi’s administration. Despite police repression, organizers say the campaign will press on.",
+      "headline": "Lebanese Troops Move into Pilot Zone Following Israeli Pullout",
+      "summary": "Under a US‑mediated agreement, Israeli forces are withdrawing from a small Lebanese area occupied during the Hezbollah conflict. The Lebanese army is deploying there as part of a tentative security arrangement.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
-      "source": "NPR News",
-      "published": "2026-07-21T08:00:56-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T09:41:11.836Z"
     },
     {
-      "headline": "Nativ Brings Local AI to macOS with Desktop App",
-      "summary": "Developer Prince Canuma expands his MLX-VLM library into Nativ, a macOS desktop client that lets users run vision‑LLMs directly on their machines. The tool mirrors the functionality of LM Studio but leverages Apple’s MLX for on‑device inference.",
+      "headline": "Nativ lets Mac users run AI models locally",
+      "summary": "Developer Prince Canuma, creator of the MLX-VLM library, launched Nativ—a macOS desktop app that wraps MLX to run vision‑language models on Apple silicon. It offers an LM Studio‑like experience while keeping inference entirely on the Mac.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
@@ -102,17 +102,53 @@
       "published": "2026-07-21T14:22:27+00:00"
     },
     {
-      "headline": "Coding Agents Slash Cost of Home Device Reverse‑Engineering",
-      "summary": "New AI coding agents enable hobbyists to dissect and automate household gadgets with minimal effort. The reduced expense marks a shift from manual reverse‑engineering to rapid, automated analysis.",
+      "headline": "Slater: Ultra‑light graph database for read‑heavy workloads",
+      "summary": "Slater is an open‑source graph database engineered to consume minimal memory, targeting scenarios with massive read traffic. Hosted on GitHub, it promises efficient querying of large static graphs without heavy RAM demands.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-20T19:24:05+00:00"
+      "url": "https://github.com/Hikari-Systems/slater",
+      "source": "Hacker News",
+      "published": "2026-07-21T18:39:41+00:00"
     },
     {
-      "headline": "Houthis Threaten Red Sea Blockade as Cyclospora Outbreak Source Remains Unidentified",
-      "summary": "The Iran‑aligned Houthi rebels said they will block a Red Sea waterway, heightening regional tensions. Meanwhile, the FDA continues probing Taylor Farms lettuce as a possible source of a Cyclospora outbreak despite a retracted test.",
+      "headline": "Dozens injured as Bologna protests erupt after man's death in police custody",
+      "summary": "Thousands gathered in Bologna demanding justice after a Moroccan‑born man died while being restrained by police. Clashes with law enforcement left dozens wounded as tensions boiled over.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T12:48:37.931Z"
+    },
+    {
+      "headline": "Ukrainian demonstrators demand ouster of army chief Syrskyi and return of ex‑defence minister Fedorov",
+      "summary": "Protesters in Kyiv are pressing for the removal of army chief Oleksandr Syrskyi and the reinstatement of former defence minister Mykhailo Fedorov. They have set a Friday deadline, heightening political pressure on the military leadership.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T12:33:15.209Z"
+    },
+    {
+      "headline": "India's satirical Cockroach movement vows to keep protesting after police crackdown",
+      "summary": "What began as a tongue‑in‑cheek protest by Indian youth has morphed into a nationwide challenge to Prime Minister Modi's government. Despite a police crackdown, organizers say the movement will continue its demonstrations.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/21/g-s1-134722/indias-youth-led-cockroach-movement-vows-to-continue-protest-after-police-crackdown",
+      "source": "NPR News",
+      "published": "2026-07-21T08:00:56-04:00"
+    },
+    {
+      "headline": "TRMNL rolls out AI Agent for streamlined business workflows",
+      "summary": "TRMNL introduced an AI‑powered agent that integrates with its productivity suite, offering natural‑language assistance and customizable task automation. The platform aims to boost efficiency for enterprise users.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://help.trmnl.com/en/articles/14130438-ai-agent",
+      "source": "Hacker News",
+      "published": "2026-07-21T18:32:21+00:00"
+    },
+    {
+      "headline": "Houthis announce Red Sea blockade as FDA still probes lettuce Cyclospora source",
+      "summary": "Iran‑backed Houthis declared a blockade of a key Red Sea waterway, citing regional grievances. Meanwhile, the FDA continues investigating Taylor Farms lettuce as a possible source of a Cyclospora outbreak despite earlier test retractions.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/21/g-s1-134720/up-first-newsletter-yemen-houthi-iran-war-pete-hegseth-pentagon-fda-cyclospora",
@@ -120,26 +156,26 @@
       "published": "2026-07-21T07:12:41-04:00"
     },
     {
-      "headline": "France to Ban Non‑Post‑Quantum Crypto Products from Certification by 2027",
-      "summary": "The French cybersecurity agency ANSSI announced that, starting in 2027, any product lacking post‑quantum cryptography will be ineligible for certification. The move aims to future‑proof French digital infrastructure against quantum threats.",
+      "headline": "Apple launches push to win over creativity‑app developers",
+      "summary": "Apple is unveiling new incentives and tighter hardware integration to attract creators from rival platforms in design, video, and music apps. The move signals a strategic bid to dominate the creative‑software market.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://postquantum.com/security-pqc/anssi-pqc-certification-2027/",
+      "url": "https://alex4d.com/notes/item/apple-competing-for-creativity-app-users",
       "source": "Hacker News",
-      "published": "2026-06-17T16:17:43+02:00"
+      "published": "2026-07-21T18:30:53+00:00"
     },
     {
-      "headline": "Australian Duo ‘Sweet Thief’ Crafts Miniature Dream Pop",
-      "summary": "Sweet Thief’s music blends folk‑pop and doo‑wop into delicate, meticulously arranged songs. Critics liken their sound to “ships in bottles,” tiny yet richly detailed.",
-      "category": "Music",
+      "headline": "Israeli airstrike in Gaza kills 12, including a family of six, medics report",
+      "summary": "An Israeli missile hit a Gaza residential area, killing 12 people—among them a husband, wife and their four children. The military said the target was a Hamas operative, but medical sources confirmed civilian casualties.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/",
-      "source": "Pitchfork",
-      "published": "2026-07-21T04:00:00+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T14:47:41.756Z"
     },
     {
-      "headline": "SecDef Hegseth Seeks $90 B Boost Amid Renewed Iran Conflict",
-      "summary": "Defense Secretary Pete Hegseth will testify before Congress, urging a near‑$90 billion increase in the defense budget. The request comes as tensions with Iran flare, prompting calls for expanded military spending.",
+      "headline": "Defense Secretary Hegseth seeks nearly $90 billion boost in congressional hearing",
+      "summary": "Secretary of Defense Pete Hegseth will appear before lawmakers to request an almost $90 billion increase in the defense budget. The appeal comes as concerns rise over a potential escalation with Iran.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/21/nx-s1-5900838/defense-secretary-pete-hegseth-goes-to-the-hill-with-350b-funding-request",
@@ -148,7 +184,7 @@
     },
     {
       "headline": "Trump Slaps 50% Tariffs on Most Canadian Imports",
-      "summary": "President Donald Trump announced sweeping 50% duties on Canadian products, accusing Canada of unfair treatment of U.S. autos, alcohol, and dairy. The move escalates trade friction between the neighboring nations.",
+      "summary": "President Donald Trump announced a 50% duty on a wide range of Canadian products, accusing Canada of unfair treatment of U.S. autos, alcohol and dairy. The move escalates trade tensions between the two neighbors.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/21/nx-s1-5901905/trump-imposes-tariffs-canadian-goods",
@@ -156,8 +192,35 @@
       "published": "2026-07-21T06:31:34-04:00"
     },
     {
-      "headline": "Houthis Declare Blockade of Bab al‑Mandeb Amid U.S.–Iran Tensions",
-      "summary": "Yemen’s Iran‑aligned Houthi militia announced plans to seal the Bab al‑Mandeb Strait, a vital chokepoint for global shipping. The threat intensifies the already volatile U.S.–Iran confrontation.",
+      "headline": "Self-Running Space Economy Simulator Built in Rust & Bevy",
+      "summary": "A developer created an unscripted space trade simulation where hundreds of autonomous ships plot routes, fulfill contracts, refuel, and upgrade using AI planners. The project showcases Rust’s performance and the Bevy engine for complex emergent behavior.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/Kalcode/spaceprojectsim",
+      "source": "Hacker News",
+      "published": "2026-07-21T18:29:57+00:00"
+    },
+    {
+      "headline": "Low-Cost Self-Hosted Kubernetes Cluster on Hetzner Cloud",
+      "summary": "A guide details how to spin up a budget-friendly Kubernetes environment using Hetzner’s bare-metal servers and open-source tooling. The setup aims at developers seeking control without the expense of managed services.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://blog.qstars.nl/posts/cheap-self-hosted-kubernetes-on-hetzner-cloud/",
+      "source": "Hacker News",
+      "published": "2025-12-30T09:21:00&#43;02:00"
+    },
+    {
+      "headline": "Designing YouTube‑Scale Data Infrastructure for Robotics",
+      "summary": "The article outlines a system architecture inspired by YouTube’s pipelines to handle massive robotics data streams, emphasizing storage, indexing, and retrieval. It proposes scalable components to support real‑time training and analysis.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://hebbianrobotics.com/blog/youtube-system-design-for-robotics-data-infrastructure",
+      "source": "Hacker News",
+      "published": "2026-07-21T18:08:38+00:00"
+    },
+    {
+      "headline": "Houthi Militia Announces Blockade of Bab al‑Mandeb Strait",
+      "summary": "Aligned with Iran, Yemen’s Houthi forces warned they will seal the strategic Bab al‑Mandeb waterway, threatening global shipping. The threat comes as U.S. and Iranian forces clash in the region, raising geopolitical stakes.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/21/nx-s1-5901846/us-iran-updates",
@@ -165,71 +228,71 @@
       "published": "2026-07-21T06:21:43-04:00"
     },
     {
-      "headline": "Qwen‑Image 3.0 Unveils High‑Fidelity Visual Generation",
-      "summary": "The Qwen‑Image 3.0 model delivers detailed, context‑aware images with improved authenticity and depth. Its release showcases rapid advances in multimodal AI capabilities.",
+      "headline": "Jack Dorsey Unveils Buzz: Integrated Chat, AI Agents, and Git Hosting",
+      "summary": "Former Twitter CEO Jack Dorsey introduced Buzz, a platform that merges team messaging with AI-powered assistants and built‑in Git repositories. The service aims to streamline collaborative software development workflows.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
       "source": "Hacker News",
-      "published": "2026-07-21T08:44:23+00:00"
+      "published": "2026-07-21T17:13:16.588Z"
     },
     {
-      "headline": "Nativ Enables Frontier Open‑Source Models to Run Locally on macOS",
-      "summary": "Nativ now supports cutting‑edge open‑source AI models, allowing Mac users to execute them without cloud services. The platform expands the local AI ecosystem, offering privacy and performance benefits.",
+      "headline": "CodeAlmanac: Conversational Wiki That Captures Code Knowledge",
+      "summary": "CodeAlmanac automatically builds a searchable codebase wiki from developers’ interactions with AI coding assistants, keeping insights up to date. The open‑source tool runs locally, ensuring privacy while enhancing team knowledge retention.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://blaizzy.github.io/nativ/",
+      "url": "https://github.com/AlmanacCode/codealmanac/",
       "source": "Hacker News",
-      "published": "2026-07-20T18:16:08+00:00"
+      "published": "2026-07-21T17:12:01+00:00"
     },
     {
-      "headline": "Meta AI Drives First Wave of Genesis Mission Initiatives",
-      "summary": "Meta's generative models are powering early Genesis Mission projects, a partnership with Lawrence Berkeley National Lab that explores segment‑anything and Dino technologies.",
+      "headline": "Meta AI Models Drive First Wave of Genesis Mission Research",
+      "summary": "Meta’s latest AI systems are being applied to the Genesis Mission, a partnership with Lawrence Berkeley National Lab to advance scientific discovery. The collaboration leverages large‑scale models for data analysis and experimental design.",
       "category": "Tech/AI",
-      "relevance": 7,
+      "relevance": 8,
       "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
       "source": "Hacker News",
       "published": "2026-07-21T17:03:18+00:00"
     },
     {
-      "headline": "DJ HØLIDAY Drops 'BLING SLIME VØL 1: HØSTED' Showcasing Atlanta's Slickest New Emcee",
-      "summary": "The Atlanta rapper and ØWay collective leader delivers a debut mixtape packed with acrobatic punch‑ins and glittery production, staking his claim as the city’s most polished lyricist.",
-      "category": "Music",
+      "headline": "Soccer Unites Bhutanese Refugees in Harrisburg, Pennsylvania",
+      "summary": "In Harrisburg, the largest U.S. Bhutanese refugee community finds cohesion through local soccer leagues, bridging generations and preserving cultural identity. The sport serves as a social anchor, fostering belonging and shared history.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/diamond-bling-slime-vol-1-hosted-by-dj-holiday/",
-      "source": "Pitchfork",
-      "published": "2026-07-21T04:02:00+00:00"
-    },
-    {
-      "headline": "Ukrainian Protesters Demand Removal of Army Chief Syrskyi, Call for Fedorov's Return",
-      "summary": "Demonstrators in Kyiv are urging President Zelenskyy to dismiss General Oleksandr Syrskyi and reinstate former defence minister Mykhailo Fedorov by Friday, intensifying political tension over military leadership.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T12:33:15.209Z"
-    },
-    {
-      "headline": "Lebanese Army Moves Into Pilot Zone Following Israeli Pullout",
-      "summary": "Under a U.S.-mediated deal, Israeli forces are exiting a small Lebanese sector seized during the Hezbollah conflict, and the Lebanese army is now deploying troops to secure the area.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T09:41:11.836Z"
-    },
-    {
-      "headline": "Planet Money Returns with Free Summer School of Global Economic Insights",
-      "summary": "NPR’s economics podcast launches a complimentary audio course that curates standout ideas from around the world, offering listeners a concise tour of innovative economic thinking.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
+      "url": "https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community",
       "source": "NPR News",
       "published": "2026-07-21T06:30:00-04:00"
     },
     {
-      "headline": "Amazon Fires Hit Record Low in 2025, Smallest Since 1985",
-      "summary": "Satellite data from MapBiomas shows the burned area in Brazil’s Amazon rainforest dropped to its lowest level in four decades, signaling a significant reduction in fire activity.",
+      "headline": "MKBHD Showcases Mind‑Blowing Zoom Capability",
+      "summary": "Tech reviewer MKBHD demonstrates an extreme digital zoom that reveals astonishing detail, pushing camera performance limits. The video highlights the potential of modern optics and computational imaging.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.youtube.com/shorts/kUnR9dO4EnA",
+      "source": "MKBHD",
+      "published": "2026-07-20T20:39:08+00:00"
+    },
+    {
+      "headline": "Carney Says Canada May Need to Brace for New U.S. 50% Tariffs",
+      "summary": "U.S. President Trump announced a 50% duty on Canadian imports, prompting Finance Minister Carney to say Canada is reviewing \"all options.\" The move marks a sharp escalation in trade tensions between the two neighbors.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-20T21:35:33.072Z"
+    },
+    {
+      "headline": "Freeink Launches Open Platform for E‑Reader Content",
+      "summary": "Freeink provides a free, interoperable ecosystem that lets users share and publish e‑books without vendor lock‑in. The project is gaining traction on Hacker News, where it has earned 46 points and lively discussion.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://freeink.org/",
+      "source": "Hacker News",
+      "published": "2026-07-21T18:39:06+00:00"
+    },
+    {
+      "headline": "Amazon Fires Drop to Record Low in 2025, Brazil Reports",
+      "summary": "Satellite data shows the burned area in Brazil’s Amazon was the smallest since monitoring began in 1985. The decline points to better fire‑prevention measures, though experts warn continued vigilance is essential.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
@@ -237,8 +300,17 @@
       "published": "2026-07-21T15:57:29.961Z"
     },
     {
-      "headline": "Ghana’s ‘Chairman Wontumi’ Sentenced to 20 Years for Illegal Mining",
-      "summary": "Bernard Antwi Boasiako, a prominent political figure, received a two‑decade prison term and a fine exceeding $10,000 after being convicted of illicit gold mining, sparking nationwide outrage.",
+      "headline": "Planet Money Revives Free Summer School for Global Economic Ideas",
+      "summary": "NPR’s Planet Money returns with a podcast‑style course that surveys innovative economic concepts from around the world. Listeners can tune in for bite‑sized lessons without paying a dime.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/sections/planet-money/2026/07/21/g-s1-134281/the-best-economic-ideas-from-around-the-world-planet-money-summer-school-is-back",
+      "source": "NPR News",
+      "published": "2026-07-21T06:30:00-04:00"
+    },
+    {
+      "headline": "Ghana’s Top Politician Gets 20‑Year Prison Term for Illegal Mining",
+      "summary": "Bernard Antwi Boasiako, known as “Chairman Wontumi,” was convicted of illicit gold mining and fined over $10,000. The verdict sparked outrage and underscored Ghana’s crackdown on environmental crime.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
@@ -246,62 +318,80 @@
       "published": "2026-07-21T12:02:47.364Z"
     },
     {
-      "headline": "Apple Wins Ruling Against Mandatory iCloud CSAM Scanning Liability",
-      "summary": "A federal judge rejected claims that Apple must scan iCloud for child sexual abuse material, though the judge expressed displeasure with the company’s approach, leaving the debate over privacy and safety unresolved.",
+      "headline": "DocCharm Auto‑Updates Help Centers by Watching GitHub PRs",
+      "summary": "DocCharm monitors pull requests and uses AI to suggest or draft changes to help‑center articles, keeping documentation in sync with product updates. The tool was announced on Hacker News as a solution to manual help‑center maintenance.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
+      "url": "https://doccharm.com/",
       "source": "Hacker News",
-      "published": "2026-07-20T22:21:19+00:00"
+      "published": "2026-07-21T17:34:42+00:00"
     },
     {
-      "headline": "Incremental: Jane Street’s Open‑Source Library for Efficient Incremental Computations",
-      "summary": "The new OCaml library enables developers to build programs that automatically update results as inputs change, reducing recomputation overhead and simplifying reactive programming.",
+      "headline": "Houthis Declare Immediate Maritime Embargo Against Saudi Arabia",
+      "summary": "The Yemeni rebel group says the blockade targets Saudi shipping in retaliation for Riyadh’s port and airport restrictions on Yemen. The move raises fears of further escalation in Red Sea tensions.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-20T17:33:02.464Z"
+    },
+    {
+      "headline": "YC‑Backed Bloomy Seeks Founding Engineer",
+      "summary": "Bloomy, a startup from Y Combinator’s S26 batch, posted a hiring call for its first engineering hire. The role promises early‑stage influence on product development.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://github.com/janestreet/incremental",
+      "url": "https://news.ycombinator.com/item?id=48995037",
       "source": "Hacker News",
-      "published": "2026-07-21T03:50:53+00:00"
+      "published": "2026-07-21T17:00:20+00:00"
     },
     {
-      "headline": "Soccer Unites Bhutanese Refugee Community in Harrisburg, Pennsylvania",
-      "summary": "In Harrisburg, one of the largest Nepali‑speaking Bhutanese diaspora groups in the U.S., soccer fields serve as a cultural hub where families forge connections and preserve their shared heritage across generations.",
-      "category": "Sports",
+      "headline": "Trip‑Hop Veteran’s New Album ‘Different When It’s Silent’ Balances Moody Grief and Energy",
+      "summary": "The record swings between uneven stylistic choices and moments of creative vigor, especially on brooding tracks that explore parental loss. Critics note the artist’s renewed drive despite the album’s unevenness.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://www.npr.org/sections/the-picture-show/2026/07/21/nx-s1-5897423/soccer-in-us-nepali-bhutanese-community",
+      "url": "https://pitchfork.com/reviews/albums/tricky-different-when-its-silent/",
+      "source": "Pitchfork",
+      "published": "2026-07-21T04:03:00+00:00"
+    },
+    {
+      "headline": "Caribenya Delivers Vivid ‘Caribbean Sublime’ on Latest Album",
+      "summary": "Colombian‑born singer blends sharp songwriting with avant‑garde touches, expanding her signature Caribbean sound. The album pushes genre boundaries while staying rooted in lyrical focus.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/lido-pimienta-caribenya/",
+      "source": "Pitchfork",
+      "published": "2026-07-21T04:01:00+00:00"
+    },
+    {
+      "headline": "Netflix Earnings Show Maturity, Not Growth",
+      "summary": "Netflix posted solid earnings, but the results reflect a company past its most dynamic phase. Analysts see limited upside as subscriber growth slows.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
+      "source": "Stratechery",
+      "published": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "headline": "Avocado Oil Labels May Be Misleading, Study Finds",
+      "summary": "A new analysis reveals many products marketed as 100% avocado oil contain other oils. Consumers paying premium prices are likely not receiving pure avocado oil.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5902084/avocado-oil-health-fraud-study",
       "source": "NPR News",
-      "published": "2026-07-21T06:30:00-04:00"
+      "published": "2026-07-21T14:00:52-04:00"
     },
     {
-      "headline": "MKBHD marvels at extreme smartphone zoom",
-      "summary": "MKBHD showcases a phone that can zoom far beyond typical limits, demonstrating the clarity at extreme magnifications. He emphasizes the potential impact on mobile photography and video.",
-      "category": "Tech/AI",
+      "headline": "Australian Duo Crafts Miniature Folk-Pop Masterpieces",
+      "summary": "The pair’s music is likened to ships in bottles—delicate, intricate, and richly detailed. Their dreamy folk-pop and doo-wop blend creates a uniquely intimate listening experience.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://www.youtube.com/shorts/kUnR9dO4EnA",
-      "source": "MKBHD",
-      "published": "2026-07-20T20:39:08+00:00"
+      "url": "https://pitchfork.com/reviews/albums/luluc-sweet-thief/",
+      "source": "Pitchfork",
+      "published": "2026-07-21T04:00:00+00:00"
     },
     {
-      "headline": "Trump threatens 50% tariffs on Canadian goods, prompting Carney to weigh options",
-      "summary": "U.S. President Donald Trump announced a half‑price duty on a wide range of Canadian imports, escalating trade friction between the neighbors. Canadian Finance Minister Chrystia Freeland said the government is reviewing every response, from negotiations to possible retaliation.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-20T21:35:33.072Z"
-    },
-    {
-      "headline": "Bologna protests turn violent after death of detained Moroccan man",
-      "summary": "Thousands gathered in Bologna demanding accountability after a Moroccan‑born individual died while police restrained him. Clashes with law enforcement left dozens injured as tensions boiled over.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T12:48:37.931Z"
-    },
-    {
-      "headline": "Two firefighters killed fighting brush fire near Bordeaux airport",
-      "summary": "A wildfire that ignited near the parking area of Bordeaux‑Mérignac Airport claimed the lives of two French firemen. Authorities are investigating the cause and reinforcing safety measures around the airport.",
+      "headline": "Two French Firefighters Killed Near Bordeaux Airport Blaze",
+      "summary": "A brush fire that spread to the parking area of Bordeaux-Mérignac Airport turned deadly. The two firefighters lost their lives while battling the flames.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cy0j9yyed1lo?at_medium=RSS&at_campaign=rss",
@@ -309,134 +399,44 @@
       "published": "2026-07-21T16:44:30.450Z"
     },
     {
-      "headline": "Google unveils Gemini 3.6 Flash and lighter 3.5 variants",
-      "summary": "Google's AI team announced the Gemini 3.6 Flash model, offering higher speed and lower latency, alongside streamlined 3.5 Flash‑Lite and Flash‑Cyber versions for edge devices. The post sparked extensive discussion on Hacker News, with over 300 points and a lively comment thread.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "source": "Hacker News",
-      "published": "2026-07-21"
-    },
-    {
-      "headline": "University launches program to attract men into nursing amid workforce crunch",
-      "summary": "Facing a persistent nursing shortage, a southern university introduced scholarships and targeted outreach to increase male enrollment, which now accounts for about 12% of nurses. The initiative aims to diversify the field and fill critical staffing gaps.",
+      "headline": "Veteran Accused of Arming Himself and Starting Manhattan Federal Building Fire",
+      "summary": "Former anti-ICE soldier Andrew Arrabaca allegedly arrived with axes, a machete, knives, and fireworks. He ignited a fire outside a Manhattan federal building, prompting a federal response.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5869813/nursing-men-jobs-male-nurses",
-      "source": "NPR News",
-      "published": "2026-07-21T06:00:00-04:00"
-    },
-    {
-      "headline": "Guyana ferry disaster leaves 27 dead, dozens missing",
-      "summary": "A passenger ferry capsized off the coast of Guyana, killing at least 27 people and leaving 83 unaccounted for, prompting a government‑led rescue and investigation. Prime Minister announced a full inquiry and expressed hope that more survivors will be found.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-19T09:20:58.864Z"
-    },
-    {
-      "headline": "Developer runs Doom on home‑built CPU, video goes viral",
-      "summary": "A programmer documented the process of executing the classic Doom game on a custom-designed processor, showcasing the CPU's capabilities. The project attracted significant attention on Hacker News, garnering over 120 points and widespread social media shares.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.armaangomes.com/blogs/doom/",
-      "source": "Hacker News",
-      "published": "2026-07-21T03:54:16+00:00"
-    },
-    {
-      "headline": "Houthis declare maritime embargo against Saudi Arabia",
-      "summary": "The Yemeni Houthi movement announced an immediate naval blockade targeting Saudi ports and vessels, citing retaliation for Saudi air and sea restrictions on Yemen. The move raises concerns about further escalation in the Red Sea shipping lanes.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-20T17:33:02.464Z"
-    },
-    {
-      "headline": "AI systems generate counterexamples that outpace human mathematicians",
-      "summary": "A recent blog post argues that automated theorem provers are now producing counterexamples faster than researchers can verify, challenging traditional mathematical practice. The discussion on Hacker News sparked a heated debate, reflected in its high score and comment volume.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-      "source": "Hacker News",
-      "published": "2026-07-20T09:53:22+00:00"
-    },
-    {
-      "headline": "Veteran anti-ICE protester ignites fire at Manhattan federal office",
-      "summary": "Former army member Andrew Arrabaca, 43, attacked the building with axes, a machete, knives and fireworks. Authorities say he was motivated by opposition to Immigration and Customs Enforcement.",
-      "category": "World",
-      "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-21T02:16:05.713Z"
     },
     {
-      "headline": "PCjs revives vintage computer simulations online",
-      "summary": "The PCjs project offers browser‑based emulations of classic PCs, letting users run historic software without installing anything. The community discussion highlights its educational value and nostalgic appeal.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.pcjs.org/",
-      "source": "Hacker News",
-      "published": "2026-07-21T13:48:35+00:00"
-    },
-    {
-      "headline": "Delhi 'cockroach' protest persists despite violent police crackdown",
-      "summary": "A day after authorities clashed with demonstrators, at least 60 protesters remain injured and police report 118 officers hurt. The ongoing sit‑in underscores mounting tensions over the government's policies.",
+      "headline": "Police Officers Charged with Attempted Bribe at Fake Roadblock in Nigeria",
+      "summary": "Officers are accused of stopping anti-corruption chief Musa Aliyu at a staged checkpoint. They allegedly demanded he drive to an ATM to hand over cash.",
       "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T08:44:43.644Z"
-    },
-    {
-      "headline": "Nigerian officers detained for attempting extortion of anti‑corruption chief",
-      "summary": "Two officers stopped Musa Aliyu at a bogus checkpoint and demanded he drive to an ATM for cash. Their arrest highlights persistent corruption within law‑enforcement agencies.",
-      "category": "World",
-      "relevance": 5,
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-21T11:40:53.933Z"
     },
     {
-      "headline": "Artist crafts koi pond mosaic using discarded 3D‑print filament",
-      "summary": "A DIY project repurposes ten pounds of failed 3D prints into a colorful mosaic resembling a koi pond. The tutorial demonstrates sustainable art and waste reduction.",
+      "headline": "Imagin Raw: 9MB Open-Source Mac Alternative to Adobe Bridge",
+      "summary": "Developers released Imagin Raw, a lightweight tool for managing and editing raw images on macOS. At just 9 MB, it offers a free, open-source option for photographers seeking Adobe Bridge functionality.",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "relevance": 6,
+      "url": "https://github.com/cristibaluta/Imagin-Raw",
       "source": "Hacker News",
-      "published": "2026-07-20"
+      "published": "2026-07-21T17:30:01+00:00"
     },
     {
-      "headline": "Sinaloa cartel co‑founder 'El Mayo' receives life term and $15 bn fine",
-      "summary": "U.S. courts sentenced Ismael Zambada to life imprisonment after he admitted funneling massive drug shipments. The judgment also orders him to pay a record $15 billion restitution.",
+      "headline": "Sinaloa Cartel Co-Founder ‘El Mayo’ Sentenced to Life, $15 B Fine",
+      "summary": "Ismael Zambada, known as “El Mayo,” received a life sentence in the United States. The court also ordered him to pay $15 billion for his role in massive drug trafficking.",
       "category": "World",
-      "relevance": 5,
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-20T16:31:48.761Z"
     },
     {
-      "headline": "Interactive Gaussian Splat rendering brings San Francisco’s Grace Cathedral to the web",
-      "summary": "Developer Vincent Woo showcases a real‑time 3D tour using Gaussian splat techniques for photorealistic detail. The demo has attracted significant attention on Hacker News for its technical innovation.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://vincentwoo.com/3d/grace_cathedral/",
-      "source": "Hacker News",
-      "published": "2026-07-20T20:10:44+00:00"
-    },
-    {
-      "headline": "Mass youth march to Indian parliament demands overhaul of education system",
-      "summary": "Young demonstrators gathered in Delhi to press the government for curriculum changes, funding, and reduced privatization. The protest reflects growing frustration over perceived stagnation and inequality in schooling.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-20T12:33:01.300Z"
-    },
-    {
-      "headline": "Challies July 21 'A La Carte' issue explores marriage, prayer, and social critique",
-      "summary": "The latest edition features pieces on unhealthy marriages, the preacher’s life, and the limits of football as a solution. Readers also find reflections on Christian unity and personal enjoyment.",
+      "headline": "Challies’ ‘A La Carte’ Highlights Signs of Unhealthy Marriage and More",
+      "summary": "The July 21 issue lists five red flags of a troubled marriage alongside essays on faith, unity, and societal issues. It also features cultural commentary ranging from football to personal recommendations.",
       "category": "Faith",
       "relevance": 4,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-july-21-2026/",
@@ -444,13 +444,13 @@
       "published": "2026-07-21T04:01:00+00:00"
     },
     {
-      "headline": "Stratechery analyzes Netflix’s steady earnings and signals a post‑growth era",
-      "summary": "The column notes that Netflix’s latest results are solid but indicate the company’s most dynamic phase is behind it. It suggests investors should temper expectations as the streaming giant matures.",
+      "headline": "NPR Staff Picks Top Games of 2026 So Far",
+      "summary": "Resident Evil Requiem and Crimson Desert lead NPR’s mid‑year game roundup. Early-access titles like Slay the Spire 2 and Subnautica 2 also earn strong mentions.",
       "category": "Other",
-      "relevance": 2,
-      "url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
-      "source": "Stratechery",
-      "published": "2026-07-21T10:00:00+00:00"
+      "relevance": 3,
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5897567/best-games-2026-npr",
+      "source": "NPR News",
+      "published": "2026-07-21T09:00:00-04:00"
     }
   ]
 }
