@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-07-22T17:39:45.071170+00:00",
+  "generated_at": "2026-07-22T19:46:50.610132+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Trump Warns He’ll Hit Iran’s Bridges and Power Plants if Hormuz Attacks Continue",
-      "summary": "The former president declared the U.S. will strike Iranian infrastructure if ships are targeted in the Strait of Hormuz. He framed the threat as an immediate, proportional response to any further aggression.",
+      "headline": "Pastors Urged to Bridge Cultural and Doctrinal Gaps",
+      "summary": "Dr. H.B. Charles Jr. outlines core principles for fostering unity among believers despite generational, cultural, or theological differences, offering practical steps for leaders. He emphasizes actionable ways to nurture cohesion within diverse congregations.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://tabletalkmagazine.com/posts/how-can-church-leaders-encourage-unity-amid-differences/",
+      "source": "Tabletalk",
+      "published": "2026-07-22T04:00:59+00:00"
+    },
+    {
+      "headline": "Why SIMD Matters for Every Programmer",
+      "summary": "The article breaks down Single Instruction, Multiple Data (SIMD) and shows how it can dramatically boost code performance. It urges developers of all levels to learn SIMD basics to write faster, more efficient software.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://mitchellh.com/writing/everyone-should-know-simd",
+      "source": "Hacker News",
+      "published": "2026-07-22T00:00:00.000Z"
+    },
+    {
+      "headline": "Tao Uses ChatGPT to Tackle Jacobian Conjecture Counterexample",
+      "summary": "Mathematician Terence Tao engages a ChatGPT model to explore a potential counterexample to the long‑standing Jacobian Conjecture. The exchange highlights AI’s growing role in tackling deep mathematical problems.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "source": "Hacker News",
+      "published": "2026-07-22T17:30:40+00:00"
+    },
+    {
+      "headline": "Trump Vows Retaliation Against Iranian Infrastructure If Hormuz Attacks Continue",
+      "summary": "Former president Donald Trump warned that the United States would strike Iranian bridges and power plants should Iranian forces keep targeting ships in the Strait of Hormuz. The statement signals a willingness to expand military response beyond naval engagements.",
       "category": "World",
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
@@ -12,26 +39,44 @@
       "published": "2026-07-22T03:05:08.308Z"
     },
     {
-      "headline": "Red Sea Tensions Rise as U.S. and Iran Exchange Fire, War Costs Surge",
-      "summary": "Clashes on a strategic waterway have intensified, with both sides launching attacks. The Trump administration is asking Congress for additional billions, citing a $37.5 billion price tag already incurred.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-      "source": "NPR News",
-      "published": "2026-07-22T06:46:01-04:00"
+      "headline": "Wembanyama Rejects Supermax, Cites Team Potential Over Money",
+      "summary": "After securing a massive contract extension, Victor Wembanyama reflected on how financial limits can curb a franchise’s success. He stressed his goal is to avoid that scenario and keep his team’s upside intact.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1v3iuhi/jones_wemby_on_taking_less_than_the_supermax_the/",
+      "source": "r/NBA",
+      "published": "2026-07-22T15:07:41+00:00"
     },
     {
-      "headline": "Church Leaders Urged to Foster Unity Across Cultural and Doctrinal Divides",
-      "summary": "Dr. H.B. Charles Jr. outlines core principles for building cohesion within congregations despite generational, cultural, or theological differences. He offers practical steps pastors can take to nurture a shared sense of purpose.",
+      "headline": "World Cup Offered a Rare Glimpse of Global Unity",
+      "summary": "The author laments the tournament’s end, noting it provided a brief moment of shared grace and friendly competition across nations. In a summer lacking genuine global connection, the World Cup stood out as a unifying event.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://tabletalkmagazine.com/posts/how-can-church-leaders-encourage-unity-amid-differences/",
-      "source": "Tabletalk",
-      "published": "2026-07-22T04:00:59+00:00"
+      "url": "https://www.thegospelcoalition.org/article/miss-world-cup/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "OpenAI’s Accidental Hack of Hugging Face Yields Surprising Insights",
-      "summary": "A misstep by OpenAI allowed it to infiltrate Hugging Face’s systems, prompting a deeper look at alignment challenges. Analysts say the episode highlights both vulnerabilities and the potential for collaborative safety research.",
+      "headline": "A 26‑Year Marriage Captured in a Church Directory Photo",
+      "summary": "The writer describes a recent church directory photo session that, for the first time in decades, featured only the couple after 26 years of family portraits. The moment prompts reflection on life’s milestones and the passage of time.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.challies.com/articles/rocking-the-cradle-and-tending-the-grave/",
+      "source": "Challies",
+      "published": "2026-07-22T04:02:00+00:00"
+    },
+    {
+      "headline": "Hope for the Doomsday‑Driven: God’s Power Over Catastrophe",
+      "summary": "The piece argues that Christian hope isn’t the absence of disaster but confidence that God can overturn any calamity through resurrection. This perspective offers comfort to those overwhelmed by pessimistic outlooks.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/doomers-find-hope/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-22T04:00:00+00:00"
+    },
+    {
+      "headline": "OpenAI’s Accidental Hugging Face Intrusion Sparks Alignment Debate",
+      "summary": "An unintended OpenAI interaction with Hugging Face’s models revealed surprising behavior, prompting discussion on AI alignment and the infamous \"paperclip\" scenario. The incident is seen as a cautionary example of emergent risks in AI systems.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
@@ -39,26 +84,17 @@
       "published": "2026-07-22T10:00:00+00:00"
     },
     {
-      "headline": "$99 MUD‑Based Benchmark Shows Promise for Evaluating LLMs",
-      "summary": "Researchers built a low‑cost proof‑of‑concept using a classic text‑based MUD to test large language models. Their findings suggest interactive game environments can reveal strengths and weaknesses that standard tests miss.",
-      "category": "Tech/AI",
+      "headline": "Pennsylvania Punk Band’s New Album Stumbles Over Nostalgic Clichés",
+      "summary": "The latest release from the Pennsylvania punk group tries to turn youthful rebellion into life lessons, but loses the raw charm of earlier work. Critics find the record overly sentimental and lacking the edge that made their past albums beloved.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://cruciblebench.ai/",
-      "source": "Hacker News",
-      "published": "2026-07-22T15:39:01+00:00"
+      "url": "https://pitchfork.com/reviews/albums/the-menzingers-everything-i-ever-saw/",
+      "source": "Pitchfork",
+      "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "Neo Radar Launches Browser‑Based Engine Mapping 41,000 Real Asteroids",
-      "summary": "The new web tool lets users simulate orbital mechanics with a database of thousands of actual asteroids. It aims to make space‑flight calculations accessible to hobbyists and educators alike.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://neoradar.space",
-      "source": "Hacker News",
-      "published": "2026-07-22T15:15:29+00:00"
-    },
-    {
-      "headline": "U.S. to Unveil Saudi Nuclear Deal, Sparking Israeli and Congressional Concern",
-      "summary": "Washington plans to announce an agreement that enables Saudi Arabia to pursue a civilian nuclear program. Critics warn the move could destabilize regional security and face opposition in Congress.",
+      "headline": "US Greenlights Saudi Nuclear Deal, Sparking Regional Alarm",
+      "summary": "Washington announced a pact that will let Saudi Arabia develop a nuclear program, fulfilling a long‑standing ambition. The move has raised eyebrows in Israel and among several US legislators concerned about proliferation.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
@@ -66,8 +102,8 @@
       "published": "2026-07-22T12:40:46.654Z"
     },
     {
-      "headline": "Trump to Attend Dignified Transfer of Fallen Service Members; Hegseth Seeks More War Funding",
-      "summary": "The former president will join the ceremony honoring U.S. troops killed in the Middle East. Defense Secretary Pete Hegseth testified, requesting additional billions to cover the escalating costs of the Iran conflict.",
+      "headline": "Trump to Honor Fallen Troops; Hegseth Seeks Massive Iran War Funding",
+      "summary": "Former president Donald Trump will attend a ceremony transferring the remains of U.S. service members killed in the Middle East. Meanwhile, commentator Pete Hegseth testified before Congress, requesting billions to offset the escalating costs of a potential war with Iran.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
@@ -75,35 +111,62 @@
       "published": "2026-07-22T07:24:22-04:00"
     },
     {
-      "headline": "Ukrainian Drones Strike Russian Wildberries Hubs for Second Time",
-      "summary": "Logistics centers of the online retailer in the Krasnodar and Stavropol regions were hit overnight by Ukrainian unmanned aircraft. The attacks mark a continued effort to disrupt Russian supply chains.",
-      "category": "World",
+      "headline": "GigaToken Promises 1,000× Faster LLM Tokenization",
+      "summary": "A new open‑source library called GigaToken claims to speed up language‑model tokenization by roughly a thousandfold. The project has quickly attracted attention on Hacker News for its potential to cut inference latency.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T06:25:35.249Z"
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "source": "Hacker News",
+      "published": "2026-07-22T17:20:38+00:00"
     },
     {
-      "headline": "Biblical Narrative Shows Even Terrible Fathers Can Be Redeemed",
-      "summary": "The article argues that scriptural patterns offer hope for fathers who have failed, emphasizing the possibility of restoration. It encourages believers to view past mistakes through the lens of divine redemption.",
-      "category": "Faith",
+      "headline": "$99 MUD Experiment Tests LLM Capabilities",
+      "summary": "Researchers built a text‑based multi‑user dungeon to evaluate large language models, spending only about $99 on compute. Their proof‑of‑concept paper argues the retro game environment offers a low‑cost benchmark for LLM performance.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://cruciblebench.ai/",
+      "source": "Hacker News",
+      "published": "2026-07-22T15:39:01+00:00"
+    },
+    {
+      "headline": "Jordan's Legacy: Scoring Titles vs. Finals MVPs—Which Is Tougher?",
+      "summary": "Fans debate whether Michael Jordan's ten scoring crowns or his six Finals MVP awards present the greater challenge for future players. The discussion highlights the differing demands of sustained individual scoring versus leading a championship‑winning team.",
+      "category": "NBA",
       "relevance": 7,
-      "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers",
-      "source": "9Marks",
-      "published": "2026-07-21T19:30:55+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1v3jfvh/which_michael_jordan_achievement_is_more/",
+      "source": "r/NBA",
+      "published": "2026-07-22T15:28:49+00:00"
     },
     {
-      "headline": "Finding Hope Amidst Doom",
-      "summary": "Christians can find hope in the face of catastrophes, knowing that God's power and goodness can ultimately overcome them. This hope is rooted in the promise of resurrection and the belief in a higher power that can bring about redemption.",
-      "category": "Faith",
+      "headline": "Lakers, Clippers, Cavs, Bucks Pursue Kuminga in Sign‑and‑Trade Push",
+      "summary": "Jonathan Kuminga has attracted sign‑and‑trade interest from several NBA clubs, including the Lakers, Clippers, Cavaliers and Bucks. The Hawks are also weighing whether to bring him back as a free‑agent forward.",
+      "category": "NBA",
       "relevance": 7,
-      "url": "https://www.thegospelcoalition.org/article/doomers-find-hope/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-22T04:00:00+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1v3k653/scotto_jonathan_kuminga_has_drawn_signandtrade/",
+      "source": "r/NBA",
+      "published": "2026-07-22T15:54:38+00:00"
     },
     {
-      "headline": "Samsung's Wide Fold Impresses",
-      "summary": "The Samsung Z Fold 8's wide fold design has proven to be a pleasant surprise, offering a unique user experience. However, the device comes with a hefty price tag, making it a significant investment for consumers.",
+      "headline": "Clippers Eye Mathurin but Hold Off Amid Kawhi Trade Uncertainty",
+      "summary": "Multiple teams have shown interest in Bennedict Mathurin, but the Los Angeles Clippers remain cautious. Their hesitation stems from the unresolved Kawhi Leonard trade, which stalls major roster decisions.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v3k2l0/scotto_bennedict_mathurin_has_received/",
+      "source": "r/NBA",
+      "published": "2026-07-22T15:51:08+00:00"
+    },
+    {
+      "headline": "Bivabippabualukka: Copenhagen Duo Delivers Whimsical, Busy New Album",
+      "summary": "Composer Bivabippabualukka teams up with her brother to release an album that blends playful melodies with dense, layered arrangements. Critics note the record’s whimsical turn while maintaining a sprawling, engaging soundscape.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/",
+      "source": "Pitchfork",
+      "published": "2026-07-22T04:01:00+00:00"
+    },
+    {
+      "headline": "Samsung Z Fold 8 Wide Impresses Reviewers Despite High Cost",
+      "summary": "The wide‑fold version of Samsung's Z Fold 8 surprised reviewers with its comfortable ergonomics and smooth performance. However, the premium pricing remains a significant drawback for many consumers.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
@@ -111,8 +174,17 @@
       "published": "2026-07-22T13:01:05+00:00"
     },
     {
+      "headline": "Ukraine Names Mykhailo Drapatyi New Military Chief After Protests",
+      "summary": "Following a week of nationwide demonstrations over war strategy, Ukraine appointed Mykhailo Drapatyi as the new commander of its armed forces. The leadership change signals a possible shift in Kyiv's approach to the conflict with Russia.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/22/g-s1-134813/ukraine-military-shakeup-zelenskyy",
+      "source": "NPR News",
+      "published": "2026-07-22T14:01:18-04:00"
+    },
+    {
       "headline": "Tankers Alter Course After Houthi Threat",
-      "summary": "Several tankers have made sharp U-turns in response to a shipping threat from the Houthi group, changing their course to avoid potential danger. The ships were initially headed to or from Saudi ports before altering their route.",
+      "summary": "Multiple tankers have changed their routes after a threat from Houthi rebels, with all the affected ships initially traveling to or from Saudi ports. The sharp U-turns were detected through ship-tracking data, highlighting the impact of the threat on maritime traffic.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
@@ -120,8 +192,26 @@
       "published": "2026-07-22T14:42:49.945Z"
     },
     {
-      "headline": "Mamdani Backs Down on Netanyahu Arrest Pledge",
-      "summary": "New York City Mayor Mamdani has retreated from his promise to arrest Israeli Prime Minister Netanyahu, citing a lack of authority to do so. Instead, Mamdani is calling on US authorities to take action on the International Criminal Court's arrest warrant against Netanyahu.",
+      "headline": "AI Labs Face 'Pelicanmaxxing' Concerns",
+      "summary": "A recent article has sparked debate about the concept of 'pelicanmaxxing' in AI labs, prompting discussions about the ethics and implications of such practices. The term refers to the potential for AI labs to prioritize short-term gains over long-term sustainability and ethical considerations.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+      "source": "Hacker News",
+      "published": "2026-07-22T17:17:54+00:00"
+    },
+    {
+      "headline": "Unlayer Launches Email and Document Builders for Apps",
+      "summary": "Unlayer, a startup backed by Y Combinator, has introduced a platform that enables developers to add email and document creation capabilities to their applications without requiring extensive development. The service aims to simplify content creation and export processes for app developers.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://unlayer.com",
+      "source": "Hacker News",
+      "published": "2026-07-22T16:02:03+00:00"
+    },
+    {
+      "headline": "Mamdani Backs Down from Netanyahu Arrest Pledge",
+      "summary": "New York City Mayor Mamdani has retreated from his pledge to arrest Israeli Prime Minister Netanyahu, citing a lack of authority to do so. Instead, Mamdani has called on US authorities to take action on the International Criminal Court's arrest warrant against Netanyahu.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
@@ -129,35 +219,80 @@
       "published": "2026-07-22T16:29:28.975Z"
     },
     {
-      "headline": "Bento Revolutionizes PowerPoint",
-      "summary": "A new tool called Bento allows users to create and edit entire PowerPoint presentations within a single HTML file, streamlining the process and enhancing collaboration. This innovation aims to simplify the workflow and reduce the need for manual coding or harnesses.",
+      "headline": "Russians Convicted of Terrorism and Spying in Angola",
+      "summary": "Two Russian nationals, a political consultant and a translator, have been sentenced to jail terms in Angola for terrorism and spying. The convictions were handed down despite the defendants' denials of allegations that they were involved in fomenting protests in the country.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T16:34:35.936Z"
+    },
+    {
+      "headline": "Ukrainian Drones Target Russian Retailer Wildberries",
+      "summary": "Ukrainian drones have launched a second attack on the Russian online retailer Wildberries, targeting the company's logistics hubs in the Krasnodar and Stavropol regions. The strikes highlight the ongoing conflict between Ukraine and Russia, with Ukrainian forces targeting key Russian infrastructure and businesses.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T06:25:35.249Z"
+    },
+    {
+      "headline": "Ukraine's Top Army Commander Sacked Amid Protests",
+      "summary": "Ukrainian President Zelensky has dismissed the country's top army commander, Oleksandr Syrskyi, following widespread protests over the removal of the popular Defence Minister Mykhailo Fedorov. The move comes amid growing discontent and unrest in Ukraine, with many calling for greater accountability and transparency within the government and military.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T19:43:43.390Z"
+    },
+    {
+      "headline": "Moonshot Accused of Distilling Fable for K3 Development",
+      "summary": "Allegations have surfaced that Moonshot distilled Fable, a proprietary technology, for the development of K3, sparking controversy and debate within the tech community. The claims have been met with skepticism and concern, with many questioning the ethics and implications of such actions.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://bento.page/slides/",
+      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
       "source": "Hacker News",
-      "published": "2026-07-22T15:19:23+00:00"
+      "published": "2026-07-22T14:16:39.000Z"
     },
     {
-      "headline": "A Life of Love and Loss",
-      "summary": "A couple's life journey is marked by milestones and memories, from growing their family to eventually finding themselves alone again. Their story is a poignant reminder of the passage of time and the importance of cherishing moments with loved ones.",
+      "headline": "LeBron James Introductory Press Conference Scheduled",
+      "summary": "The Miami Heat YouTube channel has scheduled a video titled 'LeBron James Introductory Press Conference' for July 27, fueling speculation about the basketball star's potential return to the team. Although the video was initially made private, its existence has been confirmed through search engine results and livestream schedules.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/",
+      "source": "r/NBA",
+      "published": "2026-07-22T02:28:15+00:00"
+    },
+    {
+      "headline": "Washington Wizards to Hold Extension Talks with Anthony Davis",
+      "summary": "The Washington Wizards intend to engage in extension talks with star big man Anthony Davis, despite interest from other teams, including the Golden State Warriors. The Wizards have reportedly rebuffed trade inquiries from Golden State, indicating their commitment to retaining Davis and building a strong roster around him.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v3k4ux/scotto_the_washington_wizards_intend_to_hold/",
+      "source": "r/NBA",
+      "published": "2026-07-22T15:53:21+00:00"
+    },
+    {
+      "headline": "Rapid Decline: Former Superstars Who Vanished Within a Year",
+      "summary": "The piece highlights athletes like Cal Raleigh, who after a historic breakout season saw his performance tumble below league average in just half a year despite being under 30. It asks which other NBA talents have burned out as quickly as he did.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v3em00/what_are_some_superstars_that_fell_off_so_quickly/",
+      "source": "r/NBA",
+      "published": "2026-07-22T12:23:24+00:00"
+    },
+    {
+      "headline": "A La Carte: A Mixed Bag of Faith, Sales, and Cosmic Musings",
+      "summary": "The July 22 installment stitches together a pastor and a salesman sharing an Uber, reflections on outrage, missed relational chances, speculative thoughts on Jesus returning tonight, and assorted spiritual commentary. It offers a buffet of topics rather than a single narrative.",
       "category": "Faith",
       "relevance": 6,
-      "url": "https://www.challies.com/articles/rocking-the-cradle-and-tending-the-grave/",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-22-2026/",
       "source": "Challies",
-      "published": "2026-07-22T04:02:00+00:00"
+      "published": "2026-07-22T04:01:00+00:00"
     },
     {
-      "headline": "Punk Band's New Album Falls Flat",
-      "summary": "A Pennsylvania punk band's latest album has been met with disappointment, as it lacks the lyrical depth and features that made their previous work so endearing. The album's attempts at conveying life lessons come across as hokey and unconvincing.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/the-menzingers-everything-i-ever-saw/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:02:00+00:00"
-    },
-    {
-      "headline": "European Commission Cracks Down on Google",
-      "summary": "The European Commission has issued guidance to Google, dictating significant changes to its AI interoperability on Android and sharing of Google Search. The scope of these demands is far-reaching and has significant implications for the tech giant.",
+      "headline": "EU Demands Google Open Up AI Tools on Android and Search",
+      "summary": "The European Commission released sweeping guidance forcing Google to make its AI models interoperable across Android devices and to share search‑related data. The move marks an unprecedented regulatory push into the core of Google’s AI ecosystem.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
@@ -165,8 +300,8 @@
       "published": "2026-07-21T22:49:03+00:00"
     },
     {
-      "headline": "Mysterious Cancer Spreads Among Catfish",
-      "summary": "A strange and transmissible cancer is affecting catfish in a lake that spans Vermont and Quebec, leaving scientists searching for answers. The phenomenon may hold clues about how tumors metastasize and could have broader implications for our understanding of cancer.",
+      "headline": "Mystery Cancer Sweeps Catfish in Cross‑Border Lake",
+      "summary": "Scientists have traced a contagious tumor affecting catfish in a lake that straddles Vermont and Quebec for more than a decade. The outbreak provides a rare natural laboratory for understanding how cancers spread between individuals.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/07/22/nx-s1-5901135/transmissible-cancer-catfish-melanoma-tumors",
@@ -174,8 +309,26 @@
       "published": "2026-07-22T13:33:15-04:00"
     },
     {
-      "headline": "Wreckage of Historic Plane Found",
-      "summary": "The wreckage of the Pan Am Clipper Endeavor, a plane that played a significant role in shaping aviation safety, has been discovered 74 years after its crash. The tragedy led to the introduction of mandatory pre-flight safety briefings, a practice that has since become standard in the industry.",
+      "headline": "Shears Brothers’ ‘Bootleg’ Marries Hardcore Fury with Rap‑Rock Beats",
+      "summary": "On their new record the Shears brothers jump from scuffed‑up hardcore to breakbeat‑infused rap‑rock, weaving stories of hauntings into a dense folklore compendium. The genre‑bending approach showcases their restless creativity.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/",
+      "source": "Pitchfork",
+      "published": "2026-07-22T04:00:00+00:00"
+    },
+    {
+      "headline": "SwingNYC Launches Web Platform for Midtown Manhattan’s Swing Dance Scene",
+      "summary": "A new site, SwingNYC, aggregates venues, events, and community resources for swing dancers across midtown Manhattan. The platform aims to revitalize the local dance community by making information easily accessible online.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.swingnyc.com/",
+      "source": "Hacker News",
+      "published": "2026-07-22T16:25:08+00:00"
+    },
+    {
+      "headline": "Lost Pan Am Clipper Wreckage Discovered After 74 Years",
+      "summary": "Divers have located the remains of the 1952 Pan Am Clipper Endeavor, whose crash killed 52 and prompted the first mandatory pre‑flight safety briefings. The find sheds light on a historic tragedy that reshaped aviation safety.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cdrvyllxj71o?at_medium=RSS&at_campaign=rss",
@@ -183,274 +336,121 @@
       "published": "2026-07-22T15:50:17.098Z"
     },
     {
-      "headline": "GAO Report Calls for Substitution and Recycling to Cut U.S. Critical Mineral Imports",
-      "summary": "The Government Accountability Office warns that U.S. reliance on foreign critical minerals threatens national security. It recommends expanding domestic substitution, boosting recycling, and improving supply‑chain transparency to lessen import dependence.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.gao.gov/products/gao-26-108687",
-      "source": "Hacker News",
-      "published": "2026-07-22T15:26:56+00:00"
-    },
-    {
-      "headline": "Two Russians Convicted of Terrorism and Espionage in Angola",
-      "summary": "Angola’s courts sentenced a political consultant and a translator to prison for terrorism and spying charges. Both men denied accusations that they incited protests against the Angolan government.",
+      "headline": "Jerusalem’s Ancient Walls Host Millennia‑Old Swift Colonies",
+      "summary": "Swifts have nested in the cracks of the Western Wall and other holy sites for thousands of years, forming one of the longest‑standing bird colonies in the world. Their presence adds a living layer to Jerusalem’s sacred architecture.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T16:34:35.936Z"
-    },
-    {
-      "headline": "El Niño May Temper Storm Count, Yet Warm Waters Keep Hurricane Threat High",
-      "summary": "Forecasters say the developing El Niño pattern could suppress the number of Atlantic tropical storms this season. However, unusually warm sea surface temperatures still raise the likelihood of powerful hurricanes.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-hurricane-season",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
       "source": "NPR News",
-      "published": "2026-07-22T05:15:35-04:00"
+      "published": "2026-07-22T09:45:35-04:00"
     },
     {
-      "headline": "Key Components That Define a Robust API Platform",
-      "summary": "The article outlines the foundational elements—governance, security, developer experience, and observability—that support a scalable API platform. It argues that mastering these pillars enables faster integration and reliable service delivery.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://launchany.com/the-pillars-of-an-api-platform/",
-      "source": "Hacker News",
-      "published": "2024-12-16T07:01:00-07:00"
-    },
-    {
-      "headline": "Airbus Unveils Full‑Scale Foldable Wing Extension Test Program",
-      "summary": "Airbus announced a new flight‑test programme to evaluate full‑scale, foldable wing extensions for future aircraft. The technology aims to improve aerodynamic efficiency and reduce fuel consumption on long‑haul routes.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-07-airbus-launches-new-flight-test-programme-for-wing-of-tomorrow",
-      "source": "Hacker News",
-      "published": "2026-07-21"
-    },
-    {
-      "headline": "Hologram Achieves Browser‑Based Elixir Execution",
-      "summary": "The Hologram framework now runs Elixir code directly in web browsers, enabling rich, reactive interfaces without JavaScript. This breakthrough opens the door for developers to leverage BEAM’s concurrency model on the client side.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://hologram.page/blog/backing-hologram",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:42:49+00:00"
-    },
-    {
-      "headline": "Reflecting on the World Cup’s Missed Moment of Global Unity",
-      "summary": "The author laments that the World Cup provided a rare glimpse of worldwide camaraderie and fair competition during a stagnant summer. He suggests the tournament’s absence leaves a cultural void that few events can fill.",
-      "category": "Faith",
-      "relevance": 5,
-      "url": "https://www.thegospelcoalition.org/article/miss-world-cup/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-22T04:02:00+00:00"
-    },
-    {
-      "headline": "Bivabippabualukka: Copenhagen Composer’s Playful, Expansive New Album",
-      "summary": "Composer Bivabippabualukka teams up with her brother to deliver a whimsical, densely arranged album that roams through varied soundscapes. The record balances playful experimentation with cohesive, busy compositions.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:01:00+00:00"
-    },
-    {
-      "headline": "Unlayer Launches Plug‑and‑Play Email and Document Builders for Apps",
-      "summary": "Unlayer, a Y Combinator W22 graduate, offers a turnkey editor suite for creating emails, web pages, and documents inside other applications. The service eliminates the need for developers to build complex rendering and templating infrastructure.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://unlayer.com",
-      "source": "Hacker News",
-      "published": "2026-07-22T16:02:03+00:00"
-    },
-    {
-      "headline": "Bootleg: Shears Brothers Blend Hardcore, Breakbeat Rap‑Rock in Folklore‑Heavy Record",
-      "summary": "The Shears brothers’ new album “Bootleg” jumps from gritty hardcore to breakbeat‑infused rap‑rock, weaving stories of paranormal folklore. Their genre‑bending approach creates a vivid, if chaotic, musical anthology.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:00:00+00:00"
-    },
-    {
-      "headline": "Perlin’s Noise: The Math Behind Natural Textures",
-      "summary": "The post breaks down Ken Perlin’s noise algorithm, showing how simple gradients create realistic, organic patterns. It also surveys common uses in graphics, games, and procedural generation.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://blog.jaysmito.dev/blog/02-perlins-noise-algorithm/",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:59:08+00:00"
-    },
-    {
-      "headline": "Modi’s Grip Weakens as ‘Cockroach’ Protests Swell",
-      "summary": "Opposition Congress activists staged a demonstration outside Prime Minister Narendra Modi’s residence, branding the rallies as a “cockroach” movement. The protests signal mounting domestic pressure on the government ahead of upcoming elections.",
+      "headline": "Red Sea Skirmishes Escalate as US‑Iran Tensions Rise",
+      "summary": "Clashes along a strategic Red Sea waterway continue as the United States and Iran trade attacks, while the Trump administration seeks additional billions from Congress for the conflict. Defense Secretary Pete Hegseth notes the war has already cost $37.5 billion.",
       "category": "World",
-      "relevance": 5,
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
+      "source": "NPR News",
+      "published": "2026-07-22T06:46:01-04:00"
+    },
+    {
+      "headline": "Modi Faces Growing ‘Cockroach’ Protests Amid Political Turmoil",
+      "summary": "Opposition Congress staged demonstrations outside Prime Minister Narendra Modi’s residence, intensifying pressure on his government. Protesters have dubbed the administration a “cockroach,” reflecting mounting civil unrest.",
+      "category": "World",
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-22T08:02:04.051Z"
     },
     {
-      "headline": "Ghost Cut Exposes Why Cut‑Paste Fails Everywhere",
-      "summary": "The article argues that modern clipboard implementations break the intuitive cut‑and‑paste workflow, leading to data loss and user frustration. It proposes a “ghost cut” technique that preserves original content while still allowing seamless pasting.",
+      "headline": "Neo Radar Engine Tracks 41,000 Real Asteroids in Space",
+      "summary": "A new browser-based orbital mechanics engine called Neo Radar is making waves with its ability to track over 41,000 real asteroids in our solar system. This innovative tool provides a unique perspective on the vastness of space and the many objects that inhabit it.",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://ishmael.textualize.io/blog/ghost-cut/",
+      "relevance": 6,
+      "url": "https://neoradar.space",
       "source": "Hacker News",
-      "published": "2026-07-22T14:43:28+00:00"
+      "published": "2026-07-22T15:15:29+00:00"
     },
     {
-      "headline": "US War Costs in Iran Hit $37.5 B, Pentagon Seeks More Funding",
-      "summary": "During a Senate hearing, Pentagon official Hegseth testified that the conflict with Iran has already cost $37.5 billion and that additional billions will be required. The session was interrupted by loud protests and a heated exchange among lawmakers.",
+      "headline": "US Spends $37.5 Billion on Iran War, Seeks Additional Funding",
+      "summary": "The ongoing conflict in Iran has already cost the US a staggering $37.5 billion, with the Pentagon seeking billions more in funding to support its efforts. The war has been marked by controversy and disruption, including a recent heated exchange during a congressional hearing.",
       "category": "World",
-      "relevance": 5,
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-21T22:26:49.585Z"
     },
     {
-      "headline": "Zelensky Fires Top General Amid Army‑Morale Uproar",
-      "summary": "President Volodymyr Zelensky dismissed Army Commander Oleksandr Syrskyi after public outcry over the removal of popular Defence Minister Mykhailo Fedorov. The move reflects growing tension within Ukraine’s military leadership during the war.",
+      "headline": "Ukraine Appoints New Commander-in-Chief Amid Ongoing Conflict",
+      "summary": "Mykhailo Drapatyi has been appointed as Ukraine's new commander-in-chief, marking the country's third leadership change since the start of the Russian invasion in 2022. Drapatyi takes the reins at a critical time in the conflict, with Ukraine continuing to face significant challenges in its fight against Russian forces.",
       "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T19:43:43.390Z"
-    },
-    {
-      "headline": "Moonshot Allegedly Used ‘Fable’ to Forge K3 AI",
-      "summary": "A leaked post claims that Moonshot’s development team distilled the open‑source model Fable to accelerate the creation of their K3 system. The assertion, if true, could raise questions about intellectual‑property practices in AI research.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:16:39.000Z"
-    },
-    {
-      "headline": "Private Genomics Study Built on Stoffel MPC",
-      "summary": "The author describes constructing a secure, privacy‑preserving genomics study using Stoffel’s multi‑party computation framework. The approach lets participants contribute data without exposing raw genetic information.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://vishakh.blog/2026/07/21/i-built-a-private-genomics-study-with-stoffel-mpc/",
-      "source": "Hacker News",
-      "published": "2026-07-22T01:07:42+00:00"
-    },
-    {
-      "headline": "Americans Oppose AI Data Centers, Citing NIMBY Sentiment",
-      "summary": "A recent Redfin survey finds a majority of U.S. residents reject the siting of AI data centers in their neighborhoods, fearing environmental and social impacts. Respondents also doubt promised educational benefits from such facilities.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.redfin.com/news/ai-data-centers-opposition-education-benefit/",
-      "source": "Hacker News",
-      "published": "2026-07-22T12:00:53+00:00"
-    },
-    {
-      "headline": "A La Carte July 22: Faith, Culture, and Unanswered Questions",
-      "summary": "The July issue offers a mix of short essays ranging from a pastor‑salesman Uber encounter to reflections on religious outrage and societal divisions. It also includes speculative pieces on leadership, spirituality, and future possibilities.",
-      "category": "Faith",
-      "relevance": 4,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-22-2026/",
-      "source": "Challies",
-      "published": "2026-07-22T04:01:00+00:00"
-    },
-    {
-      "headline": "Steve Lacy’s New Album Feels Forced, Says Pitchfork",
-      "summary": "Pitchfork’s review criticizes Lacy’s latest record for sounding overly manufactured, lacking the organic vibe of his earlier work. The critic argues the album leans on formulaic trends rather than genuine artistic expression.",
-      "category": "Music",
-      "relevance": 4,
-      "url": "https://pitchfork.com/reviews/albums/steve-lacy-oh-yeah/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:03:00+00:00"
-    },
-    {
-      "headline": "Decades‑Old Garage Zipper Patent Finally Comes to Life",
-      "summary": "After four decades of inactivity, a forgotten zipper design stored in a garage has been prototyped and released. The invention promises smoother fastening and could spark new applications in apparel and tech.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://www.yankodesign.com/2026/05/31/a-zipper-patent-sat-in-a-garage-for-40-years-now-its-real/",
-      "source": "Hacker News",
-      "published": "2026-05-31T19:15:13+00:00"
-    },
-    {
-      "headline": "Federal Budget Cuts Thwart States’ Plans to Extend Medicaid Into Prisons",
-      "summary": "New federal budget restrictions under the Trump administration are limiting state efforts to provide Medicaid coverage to incarcerated individuals. The policy shift forces states to reconsider bipartisan proposals aimed at improving health care behind bars.",
-      "category": "World",
-      "relevance": 4,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
-      "source": "NPR News",
-      "published": "2026-07-22T05:00:00-04:00"
-    },
-    {
-      "headline": "Police Station Opens at Hitler’s Birthplace to Erase Nazi Legacy",
-      "summary": "German authorities have repurposed the 17th‑century inn where Adolf Hitler was born into a modern police station. The move is intended to neutralize the site’s symbolic value and prevent extremist pilgrimages.",
-      "category": "World",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T08:18:05.931Z"
-    },
-    {
-      "headline": "How to Identify the Streaming Platform Behind Any Show",
-      "summary": "The article offers practical tips for recognizing the service hosting a particular series, from UI cues to branding quirks. It helps viewers avoid confusion and locate content across the crowded streaming landscape.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://www.timwehrle.de/blog/which-streaming-service-was-that-on-again/",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:46:14+00:00"
-    },
-    {
-      "headline": "Ethics Emerges as the Most Critical Skill in Today’s Workplace",
-      "summary": "The author argues that moral judgment now outweighs technical expertise as businesses navigate AI, data privacy, and social responsibility. Cultivating ethical decision‑making is presented as essential for career resilience.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://agonora.com/blog/ethics-most-important-skill",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:39:40+00:00"
-    },
-    {
-      "headline": "Meet Mykhailo Drapatyi, Ukraine’s Third Commander‑in‑Chief Since 2022",
-      "summary": "Drapatyi, a veteran officer, was appointed to lead Ukraine’s armed forces amid the ongoing Russian invasion. His promotion reflects the military’s need for fresh strategic direction after two previous chiefs.",
-      "category": "World",
-      "relevance": 4,
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-22T15:19:48.845Z"
     },
     {
-      "headline": "Mass Youth March on India’s Parliament Demands Education Overhaul",
-      "summary": "Hundreds of thousands of students and activists gathered in New Delhi to call for sweeping changes to the country’s schooling system. Protesters cite outdated curricula, lack of access, and the need for modern skills as key grievances.",
+      "headline": "Veteran Broadcaster Kevin Calabro Leaves Portland Trail Blazers",
+      "summary": "Long-time play-by-play announcer Kevin Calabro has decided to step away from his role with the Portland Trail Blazers, citing unsatisfactory contract offers from the team. Calabro's departure marks the end of an era for the Blazers, who will now need to find a new voice to call their games.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1v3q626/freeman_kevin_calabro_tells_me_has_decided_to/",
+      "source": "r/NBA",
+      "published": "2026-07-22T19:20:56+00:00"
+    },
+    {
+      "headline": "The Pursuit of Perfection: How Beauty Standards Are Changing",
+      "summary": "The rise of plastic surgery and social media has led to a growing obsession with physical perfection, with many people seeking to achieve an unattainable ideal. This trend is having a profound impact on our relationship with reality, as well as our sense of self and identity.",
       "category": "World",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-20T12:33:01.300Z"
-    },
-    {
-      "headline": "OpenNode Launches Seamless Bitcoin Payment Processing for Merchants",
-      "summary": "OpenNode provides a low‑fee, instant settlement platform that lets businesses accept Bitcoin without technical hassle. The service aims to broaden cryptocurrency adoption by simplifying transactions for retailers and online sellers.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://opennode.com/",
-      "source": "Hacker News",
-      "published": "2026-07-22T14:34:23+00:00"
-    },
-    {
-      "headline": "Women Axe‑Throwers Shatter Records in Traditionally Male Lumberjack Competitions",
-      "summary": "Female athletes are now dominating events like log‑rolling and axe‑throwing, setting new world records. Their rise is boosting the sport’s popularity and challenging gender stereotypes in extreme outdoor competitions.",
-      "category": "Sports",
-      "relevance": 3,
-      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T05:06:35.639Z"
-    },
-    {
-      "headline": "The Rise of the ‘Instagram Face’ Threatens Natural Human Imperfection",
-      "summary": "Widespread, barely noticeable cosmetic procedures, amplified by AI filters, are reshaping societal beauty standards. The piece explores how this trend erodes authentic self‑image and blurs the line between reality and digital alteration.",
-      "category": "Other",
-      "relevance": 3,
+      "relevance": 5,
       "url": "https://www.npr.org/2026/07/22/nx-s1-5902070/jia-tolentino-instagram-face-plastic-surgery",
       "source": "NPR News",
       "published": "2026-07-22T13:11:19-04:00"
+    },
+    {
+      "headline": "British Woman Jailed for Blackmail in Hong Kong",
+      "summary": "A British woman has been sentenced to prison for attempting to extort money from a UK banker in Hong Kong, after falsely accusing him of rape. The case highlights the serious consequences of making false allegations and the importance of upholding the law.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T14:13:09.496Z"
+    },
+    {
+      "headline": "Autopsy Report Inconclusive in Death of 18-Year-Old Nolan Wells",
+      "summary": "An independent autopsy has been unable to determine the cause of death for 18-year-old Nolan Wells, who died under unclear circumstances in Mississippi. The case remains under investigation, with authorities working to uncover the truth behind Wells' tragic death.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902909/independent-autopsy-inconclusive-on-cause-of-death-for-18-year-old-nolan-wells-in-mississippi",
+      "source": "NPR News",
+      "published": "2026-07-22T10:48:26-04:00"
+    },
+    {
+      "headline": "The Potential Cognitive Benefits of Creatine Supplementation",
+      "summary": "Research has suggested that creatine, a popular dietary supplement, may have cognitive benefits in addition to its well-known physical effects. While the evidence is still emerging, some studies indicate that creatine may have a positive impact on brain function and intelligence.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://dynomight.net/creatine/",
+      "source": "Hacker News",
+      "published": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "headline": "Mother Seeks Justice for Son Killed by ICE Agent",
+      "summary": "The mother of Ruben Ray Martinez, who was fatally shot by an ICE agent, is still seeking justice for her son's death. Despite the passage of time, the family has yet to receive the closure and accountability they deserve, and are continuing to fight for their rights.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
+      "source": "NPR News",
+      "published": "2026-07-22T07:20:01-04:00"
+    },
+    {
+      "headline": "The Intersection of AI and Creativity",
+      "summary": "The rise of artificial intelligence is having a profound impact on the creative industries, with many artists and makers exploring the potential of AI as a tool for innovation. As AI continues to evolve, it will be interesting to see how it shapes the future of creativity and making.",
+      "category": "Other",
+      "relevance": 2,
+      "url": "https://beej.us/blog/data/ai-making/",
+      "source": "Hacker News",
+      "published": "2026-07-22T15:33:48+00:00"
     }
   ]
 }
