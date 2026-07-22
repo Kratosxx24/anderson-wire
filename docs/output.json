@@ -1,19 +1,28 @@
 {
-  "generated_at": "2026-07-22T12:02:59.757847+00:00",
+  "generated_at": "2026-07-22T14:20:19.573677+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Anthropic’s Claude Code Team Discusses New Tools and Security in Fireside Chat",
-      "summary": "In a recent AI Engineer World’s Fair session, Cat Wu and Thariq Shihipar walked through Claude Code, Claude Tag, Fable, and their internal use cases. They also covered evaluation methods, agent security, and design principles for AI coding assistants.",
+      "headline": "Google Gemini drops classic sampling controls, ignores temperature, top‑p, top‑k",
+      "summary": "The latest Gemini model release removes support for the temperature, top‑p, and top‑k parameters, treating them as no‑ops. Developers must rely on the model’s internal defaults for output variability.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-21T12:54:02+00:00"
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
+      "source": "Hacker News",
+      "published": "2026-07-21T21:27:54+00:00"
     },
     {
-      "headline": "OpenAI and Hugging Face Respond to Security Breach During Model Testing",
-      "summary": "Both companies disclosed a recent security incident that occurred while evaluating a large language model, detailing the scope and mitigation steps. The revelation sparked extensive discussion on Hacker News, drawing over a thousand points and hundreds of comments.",
+      "headline": "AI models battle to redraw the Mona Lisa in colored pencils",
+      "summary": "A blog post pits GPT‑5.6, Claude, Gemini, and Grok against each other in a creative challenge to reproduce the Mona Lisa using AI‑generated colored‑pencil sketches. The results showcase each model’s distinct visual style and prompt‑handling abilities.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "source": "Hacker News",
+      "published": "2026-07-21"
+    },
+    {
+      "headline": "OpenAI and Hugging Face disclose breach that hit model‑testing pipeline",
+      "summary": "Both companies revealed a security breach that occurred while evaluating new AI models, exposing internal data and prompting an emergency response. The incident has spurred tighter audit procedures and public transparency about the vulnerability.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
@@ -21,8 +30,17 @@
       "published": "2026-07-21T20:09:52+00:00"
     },
     {
-      "headline": "Court Clears $1.5 B Anthropic Settlement Over Unauthorized Book Data",
-      "summary": "A federal judge signed off on a massive settlement after Anthropic was accused of training Claude on copyrighted books without permission. The deal aims to resolve the lawsuit and set a precedent for AI training data practices.",
+      "headline": "US poised to green‑light Saudi Arabia’s civilian nuclear program",
+      "summary": "Washington is expected to unveil an agreement that would enable Saudi Arabia to develop nuclear energy under strict safeguards. Critics warn the move could alarm Israel and some US lawmakers concerned about proliferation risks.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T12:40:46.654Z"
+    },
+    {
+      "headline": "Anthropic to pay $1.5 billion after court finds its Claude trained on copyrighted books",
+      "summary": "A federal judge signed off on a massive settlement resolving claims that Anthropic used illegally sourced texts to train its Claude model. The deal marks one of the largest copyright payouts in the AI industry to date.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
@@ -30,8 +48,44 @@
       "published": "2026-07-21T14:41:53"
     },
     {
-      "headline": "Finding Redemption in the Biblical Narrative of Flawed Fathers",
-      "summary": "The article argues that while biblical fathers often fail, the scriptural storyline offers a path toward redemption and restoration. It suggests that past misdeeds can be transformed through divine grace.",
+      "headline": "Deuce McBride blames league incentives for Knicks’ struggles",
+      "summary": "In a Reddit thread, McBride argues that the NBA rewards losing teams and under‑performing players, hindering competitive balance. He suggests a cultural shift among players could dramatically improve the league’s quality.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1v2syt1/knicks_film_school_deuce_mcbride_on_winning_in/",
+      "source": "r/NBA",
+      "published": "2026-07-21T19:41:42+00:00"
+    },
+    {
+      "headline": "Zach Lowe urges NBA to protect Portland’s franchise from takeover",
+      "summary": "Sports columnist Zach Lowe warns league owners not to let a new billionaire investor dismantle the Trail Blazers. He emphasizes Portland’s passionate fan base and market value as reasons to keep the team local.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1v2sgat/zach_lowe_to_nba_dont_f_up_the_blazers/",
+      "source": "r/NBA",
+      "published": "2026-07-21T19:22:59+00:00"
+    },
+    {
+      "headline": "Relocating the Trail Blazers deemed unrealistic despite billionaire pressure",
+      "summary": "A Reddit user argues that Portland can financially sustain its NBA team and should resist demands from wealthy owners. The post frames the relocation push as an unnecessary austerity measure amid broader economic prosperity.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1v2x7xz/moving_the_blazers_out_of_portland_is_a_bridge/",
+      "source": "r/NBA",
+      "published": "2026-07-21T22:19:44+00:00"
+    },
+    {
+      "headline": "World Cup’s loss leaves a void in summer fellowship",
+      "summary": "The author reflects on how the tournament provided rare moments of global camaraderie and honorable competition. Without it, the season feels bereft of shared joy and common grace.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/miss-world-cup/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-22T04:02:00+00:00"
+    },
+    {
+      "headline": "Biblical narrative offers redemption for flawed fathers",
+      "summary": "The piece argues that Scripture presents a trajectory where even the worst paternal figures can be restored through divine grace. It encourages believers to trust in redemption rather than being trapped by past failures.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers",
@@ -39,26 +93,35 @@
       "published": "2026-07-21T19:30:55+00:00"
     },
     {
-      "headline": "Red Sea Skirmishes Escalate Amid U.S.-Iran Tensions",
-      "summary": "Ongoing missile and drone strikes between U.S. and Iranian forces have intensified along a strategic Red Sea route. Diplomatic talks in Pakistan, led by an Iranian official, aim to revive a stalled cease‑fire.",
-      "category": "World",
+      "headline": "Christian Hope Amid Catastrophe: God’s Power Over the End Times",
+      "summary": "The piece argues that believers don’t expect disasters to vanish, but trust that God can reverse them through resurrection. It frames hope as confidence in divine power rather than denial of suffering.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
-      "source": "NPR News",
-      "published": "2026-07-22T06:46:01-04:00"
+      "url": "https://www.thegospelcoalition.org/article/doomers-find-hope/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-22T04:00:00+00:00"
     },
     {
-      "headline": "U.S. Launches New Strikes on Iran After Trump Warns of Nuclear Site Attack",
-      "summary": "President Trump publicly threatened to target a subterranean Iranian nuclear facility, prompting a fresh wave of American airstrikes. The threats marked the eleventh consecutive night of hostilities.",
+      "headline": "Ukrainian Drones Strike Wildberries Hubs in Russia’s South",
+      "summary": "Drone attacks targeted the online retailer’s logistics centers in Krasnodar and Stavropol overnight. The hits disrupt supply chains and signal escalating retaliation.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-22T03:05:08.308Z"
+      "published": "2026-07-22T06:25:35.249Z"
     },
     {
-      "headline": "OpenAI’s Accidental Intrusion into Hugging Face Highlights Alignment Progress",
-      "summary": "An unintended breach allowed OpenAI to access Hugging Face’s infrastructure, but the incident revealed encouraging signs about model alignment safeguards. Analysts view the episode as a learning moment rather than a catastrophic failure.",
+      "headline": "Zelensky Fires Army Chief Syrskyi After Public Outcry",
+      "summary": "Ukraine’s president removed General Oleksandr Syrskyi following protests tied to Defence Minister Fedorov’s ouster. The move aims to quell unrest within the military and political ranks.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T19:43:43.390Z"
+    },
+    {
+      "headline": "OpenAI’s Accidental Hugging Face Intrusion Yields Surprising Insights",
+      "summary": "A misstep let OpenAI’s systems access Hugging Face, prompting a discussion on alignment and safety. Analysts see the episode as more encouraging than alarming for AI governance.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
@@ -66,26 +129,35 @@
       "published": "2026-07-22T10:00:00+00:00"
     },
     {
-      "headline": "Trump to Honor Fallen Troops as Hegseth Pushes Billion‑Dollar Iran Aid Bill",
-      "summary": "Former President Trump will join the ceremony transferring the remains of U.S. service members killed in the Middle East. Meanwhile, commentator Pete Hegseth testified before Congress, urging massive funding to offset the rising costs of the Iran conflict.",
+      "headline": "Nativ Brings Local AI to macOS with Desktop App",
+      "summary": "Developer Prince Canuma packages the MLX‑VLM library into a macOS application, letting users run vision‑LLMs offline. The tool mirrors LM Studio’s interface while leveraging Apple’s MLX framework.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
+      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-21T14:22:27+00:00"
+    },
+    {
+      "headline": "Pentagon Testifies Iran War Has Already Cost $37.5 B",
+      "summary": "During a contentious hearing, officials reported the conflict’s expense and warned of further funding needs. The session erupted in protests and heated exchanges.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T22:26:49.585Z"
+    },
+    {
+      "headline": "Red Sea Tensions Rise as US and Iran Exchange Strikes",
+      "summary": "Continued attacks on a strategic waterway have eclipsed diplomatic talks in Pakistan, where Iran seeks to revive a stalled ceasefire. The escalation threatens regional shipping and peace efforts.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
       "source": "NPR News",
-      "published": "2026-07-22T07:24:22-04:00"
+      "published": "2026-07-22T06:46:01-04:00"
     },
     {
-      "headline": "Apollo 11 Guidance Computer Source Code Released on GitHub",
-      "summary": "The complete software for both the command and lunar modules of the historic Apollo 11 mission is now publicly available. Enthusiasts and historians can explore the original code that guided humanity’s first moon landing.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "source": "Hacker News",
-      "published": "2026-07-22T05:18:08+00:00"
-    },
-    {
-      "headline": "Kimi K3 Matches Fable as State‑of‑the‑Art Agentic Model",
-      "summary": "New benchmarks place Kimi K3 just behind Fable 5, confirming its competitiveness in the agentic AI space. The model also tops the AA‑Briefcase leaderboard, underscoring rapid progress in autonomous agents.",
+      "headline": "Kimi K3 Rivals State‑of‑the‑Art Fable in Agentic Benchmarks",
+      "summary": "The new Kimi K3 model ranks just behind Fable 5 on the AA‑Briefcase suite, challenging the current leader. Community discussion highlights its competitive performance across tasks.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://fireworks.ai/blog/kimik3-fable",
@@ -93,361 +165,289 @@
       "published": "2026-07-21"
     },
     {
-      "headline": "AI Models Battle to Recreate Mona Lisa in Colored Pencils",
-      "summary": "Several leading LLMs—GPT‑5.6, Claude, Gemini, and Grok—were prompted to generate step‑by‑step colored‑pencil renditions of the Mona Lisa. The experiment highlights differences in visual reasoning and prompt handling across the models.",
+      "headline": "Terence Tao Breaks Down Jacobian Conjecture Counterexample",
+      "summary": "A detailed exposition unpacks the recent counterexample to the long‑standing Jacobian conjecture. The analysis clarifies the proof’s structure for a broader mathematical audience.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
       "source": "Hacker News",
-      "published": "2026-07-21"
+      "published": "2026-07-21T21:04:44+00:00"
     },
     {
-      "headline": "Jack Dorsey Unveils Buzz: Integrated Chat, AI Agents, and Git Platform",
-      "summary": "The former Twitter CEO introduced Buzz, a unified workspace that merges messaging, AI‑driven assistants, and code repository hosting. Dorsey aims to streamline developer collaboration by consolidating tools into a single service.",
+      "headline": "FreeInk Launches Open Ecosystem for E‑Reader Content",
+      "summary": "The platform offers a decentralized framework allowing creators to publish and monetize e‑books without gatekeepers. Early adopters praise its flexibility and community‑driven model.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "source": "Hacker News",
-      "published": "2026-07-21T17:13:16.588Z"
-    },
-    {
-      "headline": "Finding Hope Amid Doom: A Christian Perspective",
-      "summary": "The piece argues that Christian hope isn’t rooted in preventing catastrophe but in trusting a sovereign God who can redeem even the worst outcomes through resurrection. It encourages believers to anchor their confidence in divine power rather than worldly stability.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.thegospelcoalition.org/article/doomers-find-hope/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-22T04:00:00+00:00"
-    },
-    {
-      "headline": "US War Costs in Iran Reach $37.5 B, Pentagon Requests More Funding",
-      "summary": "During a contentious congressional hearing, Pentagon official Hegseth reported that U.S. involvement in the Iran conflict has already cost $37.5 billion. Lawmakers shouted and protested as the administration pressed for additional billions to sustain operations.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T22:26:49.585Z"
-    },
-    {
-      "headline": "Nativ Brings Local AI Model Execution to macOS",
-      "summary": "Developer Prince Canuma released Nativ, a desktop app that wraps Apple’s MLX framework to run vision‑LLMs and other models directly on a Mac. The tool offers an alternative to cloud‑based services, similar in feel to LM Studio.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-21T14:22:27+00:00"
-    },
-    {
-      "headline": "Trump Outpaces 2018 Campaign Pace in 2026 Midterm Run",
-      "summary": "As he heads to Georgia, former president Donald Trump has held more rallies and campaign events this year than he did by this stage in the 2018 cycle. He’s already supporting a dozen candidates in competitive races.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally",
-      "source": "NPR News",
-      "published": "2026-07-22T05:00:00-04:00"
-    },
-    {
-      "headline": "Arizona Primaries Deliver Wins to Trump‑Backed Election Deniers",
-      "summary": "Several candidates who echo Trump’s 2020 election falsehoods secured victories in Arizona’s primary contests. Their success sets up potentially fierce battles for congressional seats and the governor’s office this fall.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs",
-      "source": "NPR News",
-      "published": "2026-07-22T04:33:21-04:00"
-    },
-    {
-      "headline": "A Decades‑Long Photo Tradition Ends at Church Directory",
-      "summary": "After 26 years of expanding family portraits in the church directory, the author and spouse finally posed alone for the first time. The piece reflects on the passage of time and the subtle shifts in community rituals.",
-      "category": "Faith",
-      "relevance": 6,
-      "url": "https://www.challies.com/articles/rocking-the-cradle-and-tending-the-grave/",
-      "source": "Challies",
-      "published": "2026-07-22T04:02:00+00:00"
-    },
-    {
-      "headline": "Pennsylvania Punks’ New Album ‘Everything I Ever Saw’ Lacks Former Youthful Edge",
-      "summary": "The latest record from the Pennsylvania punk outfit trades its earlier reckless anthems for earnest life‑lesson lyrics. Critics note the loss of the raw lyrical spark that defined their most beloved releases.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/the-menzingers-everything-i-ever-saw/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:02:00+00:00"
-    },
-    {
-      "headline": "EU Issues Sweeping AI Interoperability Mandate for Google on Android and Search",
-      "summary": "The European Commission released extensive guidelines forcing Google to enable cross‑AI tool compatibility on Android and to share search data with rivals. The move signals a bold regulatory push to curb Google’s dominance in AI ecosystems.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
-      "source": "Daring Fireball",
-      "published": "2026-07-21T22:49:03+00:00"
-    },
-    {
-      "headline": "Zelensky fires top army commander amid protest backlash",
-      "summary": "President Volodymyr Zelensky removed General Oleksandr Syrskyi after public outrage over the dismissal of Defence Minister Mykhailo Fedorov. The decision is intended to calm dissent within the armed forces and restore confidence.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T19:43:43.390Z"
-    },
-    {
-      "headline": "Modi government faces mounting pressure as 'cockroach' protests swell",
-      "summary": "Opposition Congress activists staged a rally outside Prime Minister Narendra Modi's residence, amplifying the growing \"cockroach\" demonstrations. The unrest is increasing political pressure on the Indian administration.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T08:02:04.051Z"
-    },
-    {
-      "headline": "Police outpost opens at Hitler's birthplace to curb Nazi symbolism",
-      "summary": "German authorities have inaugurated a police station at the 17th‑century inn where Adolf Hitler was born, aiming to prevent extremist exploitation of the site. The move follows years of debate over how to handle the controversial location.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T08:18:05.931Z"
-    },
-    {
-      "headline": "Gemini API drops temperature, top_p, top_k settings",
-      "summary": "Google’s Gemini documentation now states that temperature, top_p, and top_k parameters are ignored in the latest models. Developers must adjust their prompts, as these controls no longer influence output.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "source": "Hacker News",
-      "published": "2026-07-21T21:27:54+00:00"
-    },
-    {
-      "headline": "France bans social media for under‑15s, forces age checks",
-      "summary": "A new French law requires all platforms to verify users are at least 15 years old starting in January. The regulation seeks to shield minors from online harms.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T03:50:55.076Z"
-    },
-    {
-      "headline": "EU Court declares VPNs lawful technical tools in copyright case",
-      "summary": "The European Court of Justice ruled that virtual private networks qualify as legitimate technical measures under copyright law. The landmark decision clarifies the legal status of VPNs for privacy and content access.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-      "source": "Hacker News",
-      "published": "2026-07-21T15:36:55Z"
-    },
-    {
-      "headline": "Iran escalates stakes by targeting Strait of Hormuz",
-      "summary": "Tehran’s aggressive posture in the Hormuz waterway threatens global oil shipments and heightens tensions with the United States. Analysts warn the strategy offers no clear path to a favorable outcome for Iran.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T14:36:47.868Z"
-    },
-    {
-      "headline": "Women set new world records in lumberjack sports",
-      "summary": "Female competitors are increasingly dominating timber‑sport events, breaking records and drawing attention to the discipline. The BBC examines the motivations and training behind their rise.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T05:06:35.639Z"
-    },
-    {
-      "headline": "Bivabippabualukka: whimsical, sprawling new album from Copenhagen duo",
-      "summary": "Composer collaborates with her brother on a playfully intricate record that veers into unexpected territory. The release showcases a fresh, eclectic soundscape.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:01:00+00:00"
-    },
-    {
-      "headline": "One‑third of popular MCP servers score D or F on usability test",
-      "summary": "An audit of 36 major Minecraft proxy servers found many perform poorly on agent usability, with roughly 33% receiving D or F grades. The findings highlight widespread shortcomings in server management tools.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-      "source": "Hacker News",
-      "published": "2026-07-22T05:51:50+00:00"
-    },
-    {
-      "headline": "Ukrainian drones strike Wildberries hubs in Russia's south",
-      "summary": "Ukrainian drones hit two Wildberries distribution centers in the Krasnodar and Stavropol regions, disrupting the retailer's supply chain. The overnight attacks underscore Kyiv's expanding campaign against Russian commercial infrastructure.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T06:25:35.249Z"
-    },
-    {
-      "headline": "Mother demands justice after ICE officer kills son at traffic stop",
-      "summary": "Ruben Ray Martinez, 23, was fatally shot by an ICE agent during a traffic stop early in President Trump's second term. His mother says the family still awaits accountability and answers.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
-      "source": "NPR News",
-      "published": "2026-07-22T07:20:01-04:00"
-    },
-    {
-      "headline": "Shears brothers unleash genre‑bending album \"Bootleg\"",
-      "summary": "The duo mixes scuffed hardcore, breakbeat‑laden rap‑rock, and paranormal folklore across their new record. Critics praise the eclectic soundscape and ambitious storytelling.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/",
-      "source": "Pitchfork",
-      "published": "2026-07-22T04:00:00+00:00"
-    },
-    {
-      "headline": "Trump budget cuts stall states' Medicaid‑in‑prisons plans",
-      "summary": "New federal budget reductions force states to abandon bipartisan schemes to fund Medicaid for incarcerated populations. Lawmakers warn the changes could leave thousands without health coverage behind bars.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
-      "source": "NPR News",
-      "published": "2026-07-22T05:00:00-04:00"
-    },
-    {
-      "headline": "NYC mayor says city can’t arrest Netanyahu, federal must act",
-      "summary": "Mayor Mamdani argues that New York City lacks the authority to enforce an ICC arrest warrant for Israeli Prime Minister Benjamin Netanyahu. He urges the federal government to step in and carry out the arrest.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
-      "source": "NPR News",
-      "published": "2026-07-22T02:04:29-04:00"
-    },
-    {
-      "headline": "France becomes first EU nation to ban social media for under‑15s",
-      "summary": "The French parliament voted to prohibit children younger than 15 from using major social platforms, aiming to curb harmful digital exposure. The law makes France a pioneer in sweeping youth internet restrictions across the EU.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
-      "source": "NPR News",
-      "published": "2026-07-22T01:46:50-04:00"
-    },
-    {
-      "headline": "Japan records first \"cruelly hot day\" as temps top 40°C",
-      "summary": "The Japan Meteorological Agency introduced a new term for days exceeding 40°C, and the country hit that mark for the first time this summer. The extreme heat raises concerns about public health and energy demand.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cp3rz07grngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T07:00:24.642Z"
-    },
-    {
-      "headline": "FreeInk launches open ecosystem for e‑readers",
-      "summary": "The project offers a hardware‑agnostic platform for reading and publishing, aiming to break the lock‑in of proprietary e‑readers. Community interest is high, as reflected by strong discussion on Hacker News.",
-      "category": "Tech/AI",
-      "relevance": 5,
       "url": "https://freeink.org/",
       "source": "Hacker News",
       "published": "2026-07-21T18:39:06+00:00"
     },
     {
-      "headline": "Bloomy (YC S26) hires founding engineer",
-      "summary": "The AI‑driven design startup is seeking its first technical lead to shape product architecture. The role offers equity and a chance to influence a fast‑growing venture.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://news.ycombinator.com/item?id=48995037",
-      "source": "Hacker News",
-      "published": "2026-07-21T17:00:20+00:00"
+      "headline": "Portland Trail Blazers slash broadcast staff, cutting veteran analysts",
+      "summary": "After 19 years, TV analyst Michael Holton and longtime statistician Tom Haberstroh are among those let go. The team also declined contracts for several on‑air personalities, signaling deep payroll reductions.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v33hdv/after_19_seasons_with_the_blazers_broadcast_team/",
+      "source": "r/NBA",
+      "published": "2026-07-22T02:47:34+00:00"
     },
     {
-      "headline": "WhatsApp usernames could complicate Somalia's anti‑terror efforts",
-      "summary": "The upcoming feature lets users chat without revealing phone numbers, raising concerns among Somali security agencies about anonymity for militants. Regulators fear the change could hinder tracking of extremist communications.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T23:46:35.460Z"
+      "headline": "Tyler Herro blasts Bucks trade, calls it ‘mind‑blowing’",
+      "summary": "After being dealt to Milwaukee for Giannis Antetokounmpo, Herro responded with profanity‑laden disbelief. He accused the league and fans of losing their minds over the move.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v2w0x6/tyler_herros_reaction_to_being_traded_to_the/",
+      "source": "r/NBA",
+      "published": "2026-07-21T21:33:50+00:00"
     },
     {
-      "headline": "Roblox Adds Official Support for GrapheneOS",
-      "summary": "Roblox now works with Android’s privacy‑focused GrapheneOS, offering secure remote attestation for users. The update expands the platform’s reach to hardened devices and highlights its security push.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
-      "source": "Hacker News",
-      "published": "2026-07-21T16:39:30+00:00"
+      "headline": "Lakers unlikely to move Bronny despite trade chatter",
+      "summary": "Sources say the franchise has invested heavily in Bronny James and values his popularity within the organization. A genuine trade offer would need to be extraordinary for them to consider parting with him.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v32mkf/price_it_would_take_something_real_for_the_lakers/",
+      "source": "r/NBA",
+      "published": "2026-07-22T02:08:58+00:00"
     },
     {
-      "headline": "Missing the World Cup’s Summer Unity",
-      "summary": "The author laments the World Cup’s absence, noting it provided a rare burst of global friendship and honorable competition. Its loss leaves a noticeable gap in shared summer joy.",
+      "headline": "Cavaliers’ fallback if LeBron walks: target Jonathan Kuminga via sign‑and‑trade",
+      "summary": "Cleveland’s contingency plan hinges on acquiring the Warriors forward in a sign‑and‑trade package. The move would aim to give the Cavs a high‑upside young talent should LeBron sign elsewhere.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v30l09/fedor_if_cleveland_misses_out_on_lebron_james/",
+      "source": "r/NBA",
+      "published": "2026-07-22T00:38:27+00:00"
+    },
+    {
+      "headline": "Only two NBA Finals have featured 30‑point scorers from both teams",
+      "summary": "In 2001, Allen Iverson and Shaquille O’Neal averaged 35.6 and 33 points, while in 2017, Kevin Durant and LeBron James posted 35.2 and 33.6 points. Both series required dual 30‑point averages to reach the championship stage.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v3bnjo/theres_only_2_instances_of_a_player_from_both/",
+      "source": "r/NBA",
+      "published": "2026-07-22T10:00:48+00:00"
+    },
+    {
+      "headline": "Church directory photo day captures a rare couple portrait after 26 years",
+      "summary": "Aileen and the author finally posed together for the first time since their marriage during the annual picture session. The piece reflects on the evolving family composition shown in church records.",
       "category": "Faith",
-      "relevance": 4,
-      "url": "https://www.thegospelcoalition.org/article/miss-world-cup/",
-      "source": "The Gospel Coalition",
+      "relevance": 7,
+      "url": "https://www.challies.com/articles/rocking-the-cradle-and-tending-the-grave/",
+      "source": "Challies",
       "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "New FPS Aim Trainer Maps Raw Crosshair Data",
-      "summary": "A developer built an aim‑training app that records raw crosshair movement to expose motor and perceptual weaknesses, moving beyond simple score‑based drills. It auto‑selects sensitivity, difficulty, and curates optimal practice playlists.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://openaim.pramit.gg/",
-      "source": "Hacker News",
-      "published": "2026-07-22T05:39:31+00:00"
+      "headline": "Pennsylvania punk band ‘Everything I Ever Saw’ releases bleak, lyric‑light sophomore album",
+      "summary": "The new record trades youthful rebellion for dour life lessons, stripping away the guest verses that defined their debut. Critics note the loss of the band’s earlier charm.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/the-menzingers-everything-i-ever-saw/",
+      "source": "Pitchfork",
+      "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "Late.sh Brings Clubhouse‑Style Audio to the Command Line",
-      "summary": "Late.sh launches a terminal‑based social platform where developers can host audio rooms without a GUI. It aims to merge Clubhouse’s spontaneity with the efficiency of command‑line workflows.",
+      "headline": "EU issues sweeping AI‑interoperability mandate for Google’s Android and Search",
+      "summary": "The European Commission released detailed guidance forcing Google to open its AI tools to competitors on Android devices. The move aims to curb the tech giant’s dominance and foster market competition.",
       "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://late.sh/",
-      "source": "Hacker News",
-      "published": "2026-07-22T02:32:30+00:00"
+      "relevance": 7,
+      "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
+      "source": "Daring Fireball",
+      "published": "2026-07-21T22:49:03+00:00"
     },
     {
-      "headline": "FDA Panel to Review Regulation of Wellness Peptides",
-      "summary": "An FDA advisory committee will meet to decide if specialty pharmacies may compound popular wellness peptides. The outcome could set the regulatory framework for these bio‑active supplements.",
+      "headline": "Trump to attend solemn ceremony for fallen U.S. soldiers; Hegseth seeks war‑funding",
+      "summary": "The former president will be present at the dignified transfer of remains for service members killed in the Middle East. Meanwhile, commentator Pete Hegseth testifies before Congress, urging billions to offset the escalating costs of a potential Iran conflict.",
       "category": "World",
-      "relevance": 4,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902329/peptides-fda-compounding",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
       "source": "NPR News",
-      "published": "2026-07-22T05:00:00-04:00"
+      "published": "2026-07-22T07:24:22-04:00"
     },
     {
-      "headline": "Tokyo Pushes Shorts at Work, Sparks ‘Leg Hair’ Debate",
-      "summary": "Tokyo’s government urged male office workers to replace suits with shorts, t‑shirts and trainers. Some female employees complained the policy invites unwanted remarks about leg hair, igniting a dress‑code controversy.",
+      "headline": "Mother of ICE‑shot teen demands justice two years after killing",
+      "summary": "Ruben Ray Martinez was fatally shot by an ICE agent during a traffic stop early in Trump’s second term. His mother says the family still awaits accountability and legal redress.",
       "category": "World",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T22:26:19.669Z"
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
+      "source": "NPR News",
+      "published": "2026-07-22T07:20:01-04:00"
     },
     {
-      "headline": "Liberia Seizes $370 Million in Cocaine in Record Bust",
-      "summary": "Liberian police confiscated cocaine valued at $370 million, the largest drug seizure in the country’s history. The haul resulted from a lengthy investigation into trans‑national trafficking networks.",
+      "headline": "India's Government Faces Mounting Pressure",
+      "summary": "The Indian government is under increasing pressure as protests escalate, with the opposition Congress party demonstrating outside the Prime Minister's house. The protests have gained momentum, posing a significant challenge to the government's authority.",
       "category": "World",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-22T11:32:11.349Z"
+      "published": "2026-07-22T08:02:04.051Z"
     },
     {
-      "headline": "Tunnel Collapse in India Kills 14 Workers",
-      "summary": "A construction tunnel in India collapsed, killing 14 laborers and trapping additional workers. Rescue crews continue operations despite hazardous conditions that hamper access to the site.",
+      "headline": "US Threatens Iran with Retaliation",
+      "summary": "The US has warned Iran that it will target the country's bridges and power plants if attacks on ships in the Strait of Hormuz continue. The threat comes after Iranian forces shot at a ship, prompting a strong response from the US government.",
       "category": "World",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-22T05:38:22.645Z"
+      "published": "2026-07-22T03:05:08.308Z"
     },
     {
-      "headline": "A La Carte July Issue Mixes Satire, Faith and Everyday Oddities",
-      "summary": "The July edition of “A La Carte” offers a blend of sketches—from an Uber encounter to reflections on outrage and spiritual musings. The collection probes modern absurdities while questioning faith and leadership.",
+      "headline": "Carmelo Anthony Reveals Near-Miss with LeBron James",
+      "summary": "Carmelo Anthony has disclosed that he and LeBron James almost teamed up in 2010 to play for the Chicago Bulls. The two basketball stars had considered joining forces, but the plan ultimately fell through due to various factors.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v2xfjb/carmelo_says_he_and_lebron_almost_teamed_up_in/",
+      "source": "r/NBA",
+      "published": "2026-07-21T22:28:08+00:00"
+    },
+    {
+      "headline": "Daily Roundup of News and Articles",
+      "summary": "A daily compilation of news and articles covers a range of topics, including faith, relationships, and personal growth. The collection offers insights and perspectives on various issues, providing readers with a diverse set of viewpoints and ideas.",
       "category": "Faith",
-      "relevance": 3,
+      "relevance": 6,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-july-22-2026/",
       "source": "Challies",
       "published": "2026-07-22T04:01:00+00:00"
     },
     {
-      "headline": "Modeling Scout Tied to Epstein Files Found Dead Near Paris",
-      "summary": "Daniel Siad, a scouting agent repeatedly mentioned in Epstein‑related documents, was discovered dead in the Paris suburbs. He had previously denied any knowledge of Epstein’s illicit activities.",
+      "headline": "New Album from the Shears Brothers",
+      "summary": "The Shears brothers have released a new album that blends different music styles, including hardcore and rap-rock, to tell stories of paranormal activity. The album is a unique blend of folklore and music, showcasing the brothers' creative talent.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/",
+      "source": "Pitchfork",
+      "published": "2026-07-22T04:00:00+00:00"
+    },
+    {
+      "headline": "LeBron James Introductory Press Conference Leaked",
+      "summary": "A video titled 'LeBron James Introductory Press Conference' was briefly made public on the Miami Heat's YouTube channel before being removed. The video's description and scheduling suggest that a major announcement may be forthcoming, possibly related to LeBron James' future with the team.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v3321x/the_miami_heat_youtube_channel_scheduled_a_video/",
+      "source": "r/NBA",
+      "published": "2026-07-22T02:28:15+00:00"
+    },
+    {
+      "headline": "Samsung Z Fold 8 Review",
+      "summary": "The Samsung Z Fold 8 has impressed reviewers with its wide fold design and user experience. Despite being more expensive than other options, the device offers a unique set of features and capabilities that make it worth considering.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.youtube.com/watch?v=8Hx2yvWSgs0",
+      "source": "MKBHD",
+      "published": "2026-07-22T13:01:05+00:00"
+    },
+    {
+      "headline": "LeBron James Press Conference Video Debunked",
+      "summary": "A video that appeared to be a press conference introducing LeBron James to the Miami Heat was mistakenly made public by the team's social media department. The team has since clarified that the video was an error and that there is no truth to the rumors surrounding it.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v36nds/chiang_according_to_a_heat_spokesperson_the/",
+      "source": "r/NBA",
+      "published": "2026-07-22T05:21:15+00:00"
+    },
+    {
+      "headline": "Apollo 11 Guidance Computer Source Code Released",
+      "summary": "The original source code for the Apollo 11 Guidance Computer has been made available to the public. The code, which was used to navigate the command and lunar modules during the historic moon landing, provides a unique glimpse into the technology and engineering that made the mission possible.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "source": "Hacker News",
+      "published": "2026-07-22T05:18:08+00:00"
+    },
+    {
+      "headline": "Hurricane Season Forecast",
+      "summary": "Forecasters expect the upcoming hurricane season to be affected by the El Niño weather pattern, which may limit the number of Atlantic storms that form. However, warm water temperatures still pose a significant risk of destructive storms, making it essential for communities to remain vigilant and prepared.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-hurricane-season",
+      "source": "NPR News",
+      "published": "2026-07-22T05:15:35-04:00"
+    },
+    {
+      "headline": "Trump Budget Cuts Thwart States’ Push to Put Medicaid in Prisons",
+      "summary": "Federal budget reductions and program changes mandated by President Trump are forcing states to abandon bipartisan plans to extend Medicaid coverage to incarcerated individuals. The new rules make it financially and administratively tougher for jails and prisons to maintain health benefits for inmates.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
+      "source": "NPR News",
+      "published": "2026-07-22T05:00:00-04:00"
+    },
+    {
+      "headline": "Trump Outpaces 2018 Pace, Hits Georgia for 2026 Midterm Tour",
+      "summary": "President Trump is traveling to Georgia and other swing states, holding more rallies this year than he did during the comparable stretch of the 2018 midterm cycle. He has already campaigned for a dozen candidates in competitive races, signaling an aggressive involvement in the 2026 elections.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally",
+      "source": "NPR News",
+      "published": "2026-07-22T05:00:00-04:00"
+    },
+    {
+      "headline": "Trump Allies and Election Deniers Sweep Arizona Primary",
+      "summary": "In Arizona, candidates endorsed by former President Trump and who question the 2020 results secured victories in the recent primaries. Their wins set the stage for contentious battles for congressional seats and the governor’s office in the upcoming general election.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs",
+      "source": "NPR News",
+      "published": "2026-07-22T04:33:21-04:00"
+    },
+    {
+      "headline": "Rapid Declines: Superstars Who Vanished Within a Year",
+      "summary": "Fans discuss athletes who exploded into stardom only to slump dramatically in less than a season, citing examples like baseball catcher Cal Raleigh’s drop from a historic power year to below‑average performance. The thread explores factors behind such swift downturns despite young age and prior accolades.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v3em00/what_are_some_superstars_that_fell_off_so_quickly/",
+      "source": "r/NBA",
+      "published": "2026-07-22T12:23:24+00:00"
+    },
+    {
+      "headline": "NYC Mayor Says Only Federal Authorities Can Detain Netanyahu",
+      "summary": "New York Mayor Eric Adams (citing Mamdani) stated that the city lacks jurisdiction to enforce an International Criminal Court arrest warrant for Israeli Prime Minister Benjamin Netanyahu. He urged the federal government to take action, emphasizing the seriousness of the war‑crimes allegations.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
+      "source": "NPR News",
+      "published": "2026-07-22T02:04:29-04:00"
+    },
+    {
+      "headline": "Kings Unlikely to Re‑Sign Westbrook, Insider Says",
+      "summary": "NBA insider Jake Fischer told Bleacher Report that there are no indications Sacramento is interested in bringing Russell Westbrook back for the next season. He emphasized that the rumor mill is quiet on any potential return for the former All‑Star point guard.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v30b8g/fischer_at_this_point_no_disrespect_to_russell/",
+      "source": "r/NBA",
+      "published": "2026-07-22T00:26:42+00:00"
+    },
+    {
+      "headline": "How Long Could LeBron Play If Reduced to Bench Role?",
+      "summary": "Fans speculate on the age limit for LeBron James if he were willing to accept a diminished, bench‑player role. While many doubt he’d stay motivated without a starring position, the discussion ponders his physical durability and potential retirement timeline.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v315le/if_lebron_was_willing_to_be_a_bench_player_until/",
+      "source": "r/NBA",
+      "published": "2026-07-22T01:03:26+00:00"
+    },
+    {
+      "headline": "Youth-Led March to Indian Parliament Demands Education Overhaul",
+      "summary": "Thousands of mostly young demonstrators gathered outside New Delhi’s parliament to call for sweeping changes to India’s education system. Protesters highlighted issues such as outdated curricula, exam pressure, and lack of access, urging the government to modernize schooling.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-20T12:33:01.300Z"
+    },
+    {
+      "headline": "Ancient Swifts Have Made Jerusalem’s Holy Sites Their Home",
+      "summary": "The scythe‑winged swifts have been nesting in cracks of the Western Wall and other sacred locations in Jerusalem for millennia. Researchers note the birds’ long‑standing presence as a unique intersection of natural history and religious heritage.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/22/g-s1-134756/jerusalem-swifts-birds-nesting-western-wall",
+      "source": "NPR News",
+      "published": "2026-07-22T09:45:35-04:00"
+    },
+    {
+      "headline": "Model Scout Tied to Epstein Files Found Dead Near Paris",
+      "summary": "Daniel Siad, a modelling scout whose name appears repeatedly in Jeffrey Epstein’s records, was discovered dead in the suburbs of Paris. Authorities note his prior denials of any knowledge about Epstein’s criminal activities, raising questions about his involvement.",
       "category": "Other",
-      "relevance": 2,
+      "relevance": 3,
       "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-22T10:40:14.415Z"
