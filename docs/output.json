@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T10:05:39.840514+00:00",
+  "generated_at": "2026-07-22T12:02:59.757847+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Claude Code Team Shares Insights on AI Tool Design and Security",
-      "summary": "The Claude Code team from Anthropic discussed their tools and technologies, including coding agent security and evals, in a recent fireside chat session. They also shared how Anthropic utilizes these tools internally to drive innovation and improvement.",
+      "headline": "Anthropic’s Claude Code Team Discusses New Tools and Security in Fireside Chat",
+      "summary": "In a recent AI Engineer World’s Fair session, Cat Wu and Thariq Shihipar walked through Claude Code, Claude Tag, Fable, and their internal use cases. They also covered evaluation methods, agent security, and design principles for AI coding assistants.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq/#atom-everything",
@@ -12,17 +12,8 @@
       "published": "2026-07-21T12:54:02+00:00"
     },
     {
-      "headline": "Gemini API Deprecates Key Parameters for Model Evaluation",
-      "summary": "Gemini's latest models have deprecated temperature, top_p, and top_k parameters, which are now ignored in model evaluations. This change aims to simplify the model evaluation process and improve overall performance.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
-      "source": "Hacker News",
-      "published": "2026-07-21T21:27:54+00:00"
-    },
-    {
-      "headline": "OpenAI and Hugging Face Address Security Incident During Model Evaluation",
-      "summary": "A recent security incident occurred during model evaluation, prompting OpenAI and Hugging Face to take action and disclose the issue. The incident highlights the importance of robust security measures in AI model development and evaluation.",
+      "headline": "OpenAI and Hugging Face Respond to Security Breach During Model Testing",
+      "summary": "Both companies disclosed a recent security incident that occurred while evaluating a large language model, detailing the scope and mitigation steps. The revelation sparked extensive discussion on Hacker News, drawing over a thousand points and hundreds of comments.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
@@ -30,8 +21,8 @@
       "published": "2026-07-21T20:09:52+00:00"
     },
     {
-      "headline": "Anthropic Reaches $1.5B Settlement Over Copyright Infringement Claims",
-      "summary": "Anthropic has agreed to a $1.5 billion settlement regarding copyright infringement claims related to pirated books used to train its Claude model. The settlement resolves a significant issue for the company and underscores the importance of respecting intellectual property rights in AI development.",
+      "headline": "Court Clears $1.5 B Anthropic Settlement Over Unauthorized Book Data",
+      "summary": "A federal judge signed off on a massive settlement after Anthropic was accused of training Claude on copyrighted books without permission. The deal aims to resolve the lawsuit and set a precedent for AI training data practices.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
@@ -39,8 +30,8 @@
       "published": "2026-07-21T14:41:53"
     },
     {
-      "headline": "Finding Redemption as a Father Through Biblical Guidance",
-      "summary": "The Bible offers a message of hope and redemption for fathers who have made mistakes, emphasizing the possibility of personal growth and positive change. By embracing biblical principles, individuals can work towards healing and improvement in their relationships and personal lives.",
+      "headline": "Finding Redemption in the Biblical Narrative of Flawed Fathers",
+      "summary": "The article argues that while biblical fathers often fail, the scriptural storyline offers a path toward redemption and restoration. It suggests that past misdeeds can be transformed through divine grace.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.9marks.org/article/the-biblical-pattern-of-terrible-fathers/?utm_source=rss&utm_medium=rss&utm_campaign=the-biblical-pattern-of-terrible-fathers",
@@ -48,26 +39,17 @@
       "published": "2026-07-21T19:30:55+00:00"
     },
     {
-      "headline": "Ukraine's Top Army Commander Removed Amid Protests and Backlash",
-      "summary": "Ukrainian President Zelensky has dismissed the country's top army commander, Oleksandr Syrskyi, following widespread protests and criticism over recent decisions. The move reflects the ongoing challenges and tensions within Ukraine's military and government.",
+      "headline": "Red Sea Skirmishes Escalate Amid U.S.-Iran Tensions",
+      "summary": "Ongoing missile and drone strikes between U.S. and Iranian forces have intensified along a strategic Red Sea route. Diplomatic talks in Pakistan, led by an Iranian official, aim to revive a stalled cease‑fire.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T19:43:43.390Z"
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902843/us-iran-updates",
+      "source": "NPR News",
+      "published": "2026-07-22T06:46:01-04:00"
     },
     {
-      "headline": "US War Efforts in Iran Come at a Steep Financial Cost",
-      "summary": "The ongoing conflict in Iran has resulted in significant financial costs for the US, with estimated expenditures reaching $37.5 billion to date. As the war continues, the US government is seeking additional funding to support its military efforts.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T22:26:49.585Z"
-    },
-    {
-      "headline": "US Escalates Attacks on Iran Amid Rising Tensions",
-      "summary": "The US has renewed its strikes on Iran, with President Trump threatening to target a key underground nuclear site. The escalating conflict has raised concerns about the potential for further violence and instability in the region.",
+      "headline": "U.S. Launches New Strikes on Iran After Trump Warns of Nuclear Site Attack",
+      "summary": "President Trump publicly threatened to target a subterranean Iranian nuclear facility, prompting a fresh wave of American airstrikes. The threats marked the eleventh consecutive night of hostilities.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
@@ -75,8 +57,8 @@
       "published": "2026-07-22T03:05:08.308Z"
     },
     {
-      "headline": "OpenAI's Accidental Hacking of Hugging Face Yields Valuable Insights",
-      "summary": "A recent incident in which OpenAI accidentally hacked Hugging Face has provided unexpected opportunities for growth and learning. The experience highlights the importance of collaboration and information sharing in the development of AI technologies.",
+      "headline": "OpenAI’s Accidental Intrusion into Hugging Face Highlights Alignment Progress",
+      "summary": "An unintended breach allowed OpenAI to access Hugging Face’s infrastructure, but the incident revealed encouraging signs about model alignment safeguards. Analysts view the episode as a learning moment rather than a catastrophic failure.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
@@ -84,17 +66,17 @@
       "published": "2026-07-22T10:00:00+00:00"
     },
     {
-      "headline": "Tropical Storm Bertha Makes Landfall with Limited Damage Expected",
-      "summary": "Tropical Storm Bertha has made landfall, but the damage is expected to be limited due to the counteracting effects of the El Niño weather pattern. However, the risk of destructive storms remains high due to unusually warm waters in the Atlantic.",
+      "headline": "Trump to Honor Fallen Troops as Hegseth Pushes Billion‑Dollar Iran Aid Bill",
+      "summary": "Former President Trump will join the ceremony transferring the remains of U.S. service members killed in the Middle East. Meanwhile, commentator Pete Hegseth testified before Congress, urging massive funding to offset the rising costs of the Iran conflict.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902142/tropical-storm-bertha-makes-landfall-but-damage-appears-limited",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134896/up-first-newsletter-trump-iran-war-pete-hegseth-arizona-primaries",
       "source": "NPR News",
-      "published": "2026-07-22T05:15:35-04:00"
+      "published": "2026-07-22T07:24:22-04:00"
     },
     {
-      "headline": "Apollo 11 Guidance Computer source code released on GitHub",
-      "summary": "The original assembly code for the command and lunar modules has been uploaded, giving researchers and hobbyists direct access to the software that steered the first Moon landing. This repository preserves a historic artifact and enables analysis of the constraints of 1960s onboard computing.",
+      "headline": "Apollo 11 Guidance Computer Source Code Released on GitHub",
+      "summary": "The complete software for both the command and lunar modules of the historic Apollo 11 mission is now publicly available. Enthusiasts and historians can explore the original code that guided humanity’s first moon landing.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://github.com/chrislgarry/Apollo-11",
@@ -102,8 +84,8 @@
       "published": "2026-07-22T05:18:08+00:00"
     },
     {
-      "headline": "Kimi K3 matches top‑tier AI agents, trailing only Fable 5",
-      "summary": "New benchmarking shows the Kimi K3 AI agent matches the performance of leading models like Fable, coming in second only to the latest Fable 5. The results position Kimi K3 as a state‑of‑the‑art option for agentic tasks.",
+      "headline": "Kimi K3 Matches Fable as State‑of‑the‑Art Agentic Model",
+      "summary": "New benchmarks place Kimi K3 just behind Fable 5, confirming its competitiveness in the agentic AI space. The model also tops the AA‑Briefcase leaderboard, underscoring rapid progress in autonomous agents.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://fireworks.ai/blog/kimik3-fable",
@@ -111,8 +93,8 @@
       "published": "2026-07-21"
     },
     {
-      "headline": "AI models duel to redraw the Mona Lisa with colored pencils",
-      "summary": "An AI art showdown pits GPT‑5.6, Claude, Gemini and Grok against each other to recreate the Mona Lisa using colored‑pencil prompts. The experiment highlights distinct visual‑reasoning styles and capabilities across the models.",
+      "headline": "AI Models Battle to Recreate Mona Lisa in Colored Pencils",
+      "summary": "Several leading LLMs—GPT‑5.6, Claude, Gemini, and Grok—were prompted to generate step‑by‑step colored‑pencil renditions of the Mona Lisa. The experiment highlights differences in visual reasoning and prompt handling across the models.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
@@ -120,17 +102,8 @@
       "published": "2026-07-21"
     },
     {
-      "headline": "EU Court rules VPNs are lawful technical tools in copyright case",
-      "summary": "The European Court of Justice affirmed that VPN services qualify as legitimate privacy and security tools, overturning claims they facilitate copyright infringement. The ruling sets a precedent for how digital circumvention tools are treated under EU law.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
-      "source": "Hacker News",
-      "published": "2026-07-21T15:36:55Z"
-    },
-    {
-      "headline": "Jack Dorsey launches Buzz, a unified chat, AI‑agent and Git platform",
-      "summary": "Former Twitter CEO Jack Dorsey unveiled Buzz, a workspace that blends team messaging, AI‑driven assistants, and source‑code hosting. The service aims to streamline collaboration for developers and remote teams.",
+      "headline": "Jack Dorsey Unveils Buzz: Integrated Chat, AI Agents, and Git Platform",
+      "summary": "The former Twitter CEO introduced Buzz, a unified workspace that merges messaging, AI‑driven assistants, and code repository hosting. Dorsey aims to streamline developer collaboration by consolidating tools into a single service.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
@@ -138,8 +111,8 @@
       "published": "2026-07-21T17:13:16.588Z"
     },
     {
-      "headline": "Finding Christian hope amid doom‑laden narratives",
-      "summary": "The article argues that Christian hope rests not on a catastrophe‑free world but on a sovereign God who can redeem even the worst outcomes through resurrection. It urges believers to anchor confidence in divine power rather than worldly stability.",
+      "headline": "Finding Hope Amid Doom: A Christian Perspective",
+      "summary": "The piece argues that Christian hope isn’t rooted in preventing catastrophe but in trusting a sovereign God who can redeem even the worst outcomes through resurrection. It encourages believers to anchor their confidence in divine power rather than worldly stability.",
       "category": "Faith",
       "relevance": 7,
       "url": "https://www.thegospelcoalition.org/article/doomers-find-hope/",
@@ -147,8 +120,17 @@
       "published": "2026-07-22T04:00:00+00:00"
     },
     {
-      "headline": "Nativ brings local AI model execution to macOS desktops",
-      "summary": "Nativ packages the MLX‑VLM library into a macOS app, allowing users to run vision‑language models on Apple silicon without cloud services. The tool offers a privacy‑focused alternative to hosted AI platforms.",
+      "headline": "US War Costs in Iran Reach $37.5 B, Pentagon Requests More Funding",
+      "summary": "During a contentious congressional hearing, Pentagon official Hegseth reported that U.S. involvement in the Iran conflict has already cost $37.5 billion. Lawmakers shouted and protested as the administration pressed for additional billions to sustain operations.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T22:26:49.585Z"
+    },
+    {
+      "headline": "Nativ Brings Local AI Model Execution to macOS",
+      "summary": "Developer Prince Canuma released Nativ, a desktop app that wraps Apple’s MLX framework to run vision‑LLMs and other models directly on a Mac. The tool offers an alternative to cloud‑based services, similar in feel to LM Studio.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://simonwillison.net/2026/Jul/21/nativ/#atom-everything",
@@ -156,44 +138,26 @@
       "published": "2026-07-21T14:22:27+00:00"
     },
     {
-      "headline": "Ukrainian drones strike Wildberries logistics hubs in Russia",
-      "summary": "Overnight attacks hit the e‑commerce giant Wildberries' distribution centers in the Krasnodar and Stavropol regions, disrupting supply chains. The strikes are part of Ukraine's broader campaign targeting Russian commercial infrastructure.",
+      "headline": "Trump Outpaces 2018 Campaign Pace in 2026 Midterm Run",
+      "summary": "As he heads to Georgia, former president Donald Trump has held more rallies and campaign events this year than he did by this stage in the 2018 cycle. He’s already supporting a dozen candidates in competitive races.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T06:25:35.249Z"
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally",
+      "source": "NPR News",
+      "published": "2026-07-22T05:00:00-04:00"
     },
     {
-      "headline": "‘Cockroach’ protests intensify against India’s Modi government",
-      "summary": "Demonstrators, dubbed “cockroaches,” have escalated their protests, including a rally outside the prime minister’s residence, pressuring the administration. The movement reflects growing dissent over judicial appointments and governance.",
+      "headline": "Arizona Primaries Deliver Wins to Trump‑Backed Election Deniers",
+      "summary": "Several candidates who echo Trump’s 2020 election falsehoods secured victories in Arizona’s primary contests. Their success sets up potentially fierce battles for congressional seats and the governor’s office this fall.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T08:02:04.051Z"
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs",
+      "source": "NPR News",
+      "published": "2026-07-22T04:33:21-04:00"
     },
     {
-      "headline": "Terence Tao breaks down a counterexample to the Jacobian conjecture",
-      "summary": "Tao provides an accessible overview of a recent counterexample that disproves the long‑standing Jacobian conjecture in algebraic geometry. The exposition distills the technical proof into core ideas for a broader mathematical audience.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "source": "Hacker News",
-      "published": "2026-07-21T21:04:44+00:00"
-    },
-    {
-      "headline": "Iran Gambles on Hormuz as US Tensions Escalate",
-      "summary": "Iran's leadership faces limited options and no clear path to win as the standoff with the United States deepens. The move threatens regional shipping and could backfire economically and diplomatically.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T14:36:47.868Z"
-    },
-    {
-      "headline": "A Rare Couple Portrait Marks 26 Years of Church Memories",
-      "summary": "After decades of expanding family photos, a husband and wife finally appear alone on the church directory picture. The moment highlights both nostalgia and the passage of time.",
+      "headline": "A Decades‑Long Photo Tradition Ends at Church Directory",
+      "summary": "After 26 years of expanding family portraits in the church directory, the author and spouse finally posed alone for the first time. The piece reflects on the passage of time and the subtle shifts in community rituals.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/rocking-the-cradle-and-tending-the-grave/",
@@ -201,17 +165,8 @@
       "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "Female Axemen Shatter Records, Fuel Lumberjack Boom",
-      "summary": "Women are rapidly rising in traditionally male‑dominated timber sports, setting new world marks. Their success is sparking broader interest and reshaping the sport’s culture.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T05:06:35.639Z"
-    },
-    {
-      "headline": "Pennsylvania Punks Release Album Lacking Their Usual Edge",
-      "summary": "The new record trades youthful rebellion for clichéd life‑lesson lyrics, diluting the band's earlier charm. Critics argue the shift leaves the music feeling flat and uninspired.",
+      "headline": "Pennsylvania Punks’ New Album ‘Everything I Ever Saw’ Lacks Former Youthful Edge",
+      "summary": "The latest record from the Pennsylvania punk outfit trades its earlier reckless anthems for earnest life‑lesson lyrics. Critics note the loss of the raw lyrical spark that defined their most beloved releases.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/the-menzingers-everything-i-ever-saw/",
@@ -219,8 +174,8 @@
       "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "EU Issues Sweeping AI Interoperability Mandate for Google",
-      "summary": "The European Commission has drafted extensive rules forcing Google to open Android and Search to competing AI services. The proposal could reshape the tech landscape but raises concerns over feasibility.",
+      "headline": "EU Issues Sweeping AI Interoperability Mandate for Google on Android and Search",
+      "summary": "The European Commission released extensive guidelines forcing Google to enable cross‑AI tool compatibility on Android and to share search data with rivals. The move signals a bold regulatory push to curb Google’s dominance in AI ecosystems.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://daringfireball.net/2026/07/ec_google_guidance_android_ai_and_search_sharing",
@@ -228,35 +183,26 @@
       "published": "2026-07-21T22:49:03+00:00"
     },
     {
-      "headline": "Most Minecraft Proxy Servers Fail Basic Agent Usability Tests",
-      "summary": "An analysis of 36 widely used MCP servers reveals that over a third score poorly on user‑agent compatibility. The findings suggest many servers neglect essential accessibility standards.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
-      "source": "Hacker News",
-      "published": "2026-07-22T05:51:50+00:00"
-    },
-    {
-      "headline": "Trump Budget Cuts Thwart States' Plans to Extend Medicaid to Prisons",
-      "summary": "Recent federal budget reductions and policy shifts force states to abandon bipartisan efforts to provide Medicaid coverage to incarcerated populations. The change leaves thousands of inmates without essential health benefits.",
+      "headline": "Zelensky fires top army commander amid protest backlash",
+      "summary": "President Volodymyr Zelensky removed General Oleksandr Syrskyi after public outrage over the dismissal of Defence Minister Mykhailo Fedorov. The decision is intended to calm dissent within the armed forces and restore confidence.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
-      "source": "NPR News",
-      "published": "2026-07-22T05:00:00-04:00"
-    },
-    {
-      "headline": "France Enforces Age‑Check Law, Bars Kids Under 15 From Social Platforms",
-      "summary": "Starting January, all social networks operating in France must verify users' ages and block anyone younger than 15. The measure aims to protect minors from online harms, marking the EU’s first blanket ban.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-22T03:50:55.076Z"
+      "published": "2026-07-21T19:43:43.390Z"
     },
     {
-      "headline": "New Police Outpost at Hitler’s Birthplace Aims to Erase Nazi Symbolism",
-      "summary": "Authorities have installed a police station in the 17th‑century house where Adolf Hitler was born, hoping to prevent extremist tourism. The move follows years of debate over how to handle the controversial site.",
+      "headline": "Modi government faces mounting pressure as 'cockroach' protests swell",
+      "summary": "Opposition Congress activists staged a rally outside Prime Minister Narendra Modi's residence, amplifying the growing \"cockroach\" demonstrations. The unrest is increasing political pressure on the Indian administration.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T08:02:04.051Z"
+    },
+    {
+      "headline": "Police outpost opens at Hitler's birthplace to curb Nazi symbolism",
+      "summary": "German authorities have inaugurated a police station at the 17th‑century inn where Adolf Hitler was born, aiming to prevent extremist exploitation of the site. The move follows years of debate over how to handle the controversial location.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
@@ -264,62 +210,89 @@
       "published": "2026-07-22T08:18:05.931Z"
     },
     {
-      "headline": "France Becomes EU First to Ban Social Media for Under‑15s",
-      "summary": "Parliament passed legislation prohibiting platforms from offering services to anyone under 15, requiring strict age verification. The law reflects growing global concerns about digital content’s impact on youth.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
-      "source": "NPR News",
-      "published": "2026-07-22T01:46:50-04:00"
-    },
-    {
-      "headline": "House Approves Funding Bill to Avert Shutdown, Sends It to Senate",
-      "summary": "Lawmakers passed a short‑term spending measure to keep the government running and prevent a third shutdown this year. The bill now moves to the Senate, where its fate remains uncertain.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5902245/government-funding-house-vote-continuing-resolution",
-      "source": "NPR News",
-      "published": "2026-07-21T22:20:15-04:00"
-    },
-    {
-      "headline": "Republicans Slam Smithsonian Museum Director Over 'Oppressor' Narrative",
-      "summary": "In a House subcommittee hearing, GOP members harshly rebuked the National Museum of American History's director, echoing a recent White House critique. They accused the museum of focusing too much on themes of oppression and victimhood.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/21/nx-s1-5902101/smithsonian-house-hearing",
-      "source": "NPR News",
-      "published": "2026-07-21T17:41:25-04:00"
-    },
-    {
-      "headline": "WhatsApp's New Username Feature May Complicate Somalia's Counter‑Terror Efforts",
-      "summary": "The upcoming ability to chat without revealing phone numbers could hinder authorities' ability to track extremist communications. Somalia's anti‑terror agencies warn the anonymity could be exploited by militants.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T23:46:35.460Z"
-    },
-    {
-      "headline": "FreeInk Launches Open-Source Platform for E‑Reader Content",
-      "summary": "FreeInk offers a community‑driven ecosystem that lets users create, share, and read e‑books without proprietary lock‑ins. The project aims to broaden access and foster innovation in digital publishing.",
+      "headline": "Gemini API drops temperature, top_p, top_k settings",
+      "summary": "Google’s Gemini documentation now states that temperature, top_p, and top_k parameters are ignored in the latest models. Developers must adjust their prompts, as these controls no longer influence output.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://freeink.org/",
+      "url": "https://ai.google.dev/gemini-api/docs/latest-model",
       "source": "Hacker News",
-      "published": "2026-07-21T18:39:06+00:00"
+      "published": "2026-07-21T21:27:54+00:00"
     },
     {
-      "headline": "Challies' 'A La Carte' July Issue Explores Faith, Culture, and Controversy",
-      "summary": "The July 22 edition weaves stories ranging from a pastor‑salesman Uber encounter to reflections on outrage, relational missed chances, and eschatological speculation. It also features letters, spiritual debates, and a preview of upcoming content.",
-      "category": "Faith",
+      "headline": "France bans social media for under‑15s, forces age checks",
+      "summary": "A new French law requires all platforms to verify users are at least 15 years old starting in January. The regulation seeks to shield minors from online harms.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T03:50:55.076Z"
+    },
+    {
+      "headline": "EU Court declares VPNs lawful technical tools in copyright case",
+      "summary": "The European Court of Justice ruled that virtual private networks qualify as legitimate technical measures under copyright law. The landmark decision clarifies the legal status of VPNs for privacy and content access.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "source": "Hacker News",
+      "published": "2026-07-21T15:36:55Z"
+    },
+    {
+      "headline": "Iran escalates stakes by targeting Strait of Hormuz",
+      "summary": "Tehran’s aggressive posture in the Hormuz waterway threatens global oil shipments and heightens tensions with the United States. Analysts warn the strategy offers no clear path to a favorable outcome for Iran.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T14:36:47.868Z"
+    },
+    {
+      "headline": "Women set new world records in lumberjack sports",
+      "summary": "Female competitors are increasingly dominating timber‑sport events, breaking records and drawing attention to the discipline. The BBC examines the motivations and training behind their rise.",
+      "category": "Sports",
       "relevance": 5,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-22-2026/",
-      "source": "Challies",
+      "url": "https://www.bbc.co.uk/news/articles/c6293zk14njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T05:06:35.639Z"
+    },
+    {
+      "headline": "Bivabippabualukka: whimsical, sprawling new album from Copenhagen duo",
+      "summary": "Composer collaborates with her brother on a playfully intricate record that veers into unexpected territory. The release showcases a fresh, eclectic soundscape.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/",
+      "source": "Pitchfork",
       "published": "2026-07-22T04:01:00+00:00"
     },
     {
-      "headline": "Shears Brothers' 'Bootleg' Mixes Hardcore, Breakbeat Rap‑Rock, and Folklore",
-      "summary": "On their new record, the Shears brothers shift from gritty hardcore to beat‑driven rap‑rock, narrating eerie tales of the supernatural. The eclectic blend showcases their ability to fuse genres while building a modern mythic catalog.",
+      "headline": "One‑third of popular MCP servers score D or F on usability test",
+      "summary": "An audit of 36 major Minecraft proxy servers found many perform poorly on agent usability, with roughly 33% receiving D or F grades. The findings highlight widespread shortcomings in server management tools.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://tengli.dev/posts/mcp-servers-failing-agents.html",
+      "source": "Hacker News",
+      "published": "2026-07-22T05:51:50+00:00"
+    },
+    {
+      "headline": "Ukrainian drones strike Wildberries hubs in Russia's south",
+      "summary": "Ukrainian drones hit two Wildberries distribution centers in the Krasnodar and Stavropol regions, disrupting the retailer's supply chain. The overnight attacks underscore Kyiv's expanding campaign against Russian commercial infrastructure.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T06:25:35.249Z"
+    },
+    {
+      "headline": "Mother demands justice after ICE officer kills son at traffic stop",
+      "summary": "Ruben Ray Martinez, 23, was fatally shot by an ICE agent during a traffic stop early in President Trump's second term. His mother says the family still awaits accountability and answers.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5900933/ruben-ray-martinez-ice-shooting-texas-maine",
+      "source": "NPR News",
+      "published": "2026-07-22T07:20:01-04:00"
+    },
+    {
+      "headline": "Shears brothers unleash genre‑bending album \"Bootleg\"",
+      "summary": "The duo mixes scuffed hardcore, breakbeat‑laden rap‑rock, and paranormal folklore across their new record. Critics praise the eclectic soundscape and ambitious storytelling.",
       "category": "Music",
       "relevance": 5,
       "url": "https://pitchfork.com/reviews/albums/the-garden-bootleg/",
@@ -327,44 +300,17 @@
       "published": "2026-07-22T04:00:00+00:00"
     },
     {
-      "headline": "Codeberg Proposes ToU Update to Ban AI‑Generated Content Extraction",
-      "summary": "A pull request on Codeberg seeks to amend the Terms of Use, explicitly forbidding the extraction of repository data by large language models. The move reflects growing concerns over intellectual property and privacy in open‑source communities.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://codeberg.org/Codeberg/org/pulls/1253",
-      "source": "Hacker News",
-      "published": "2026-07-22T08:27:12+00:00"
-    },
-    {
-      "headline": "ReadKinetic Offers Free, Offline Speed‑Reading App for Personal Libraries",
-      "summary": "ReadKinetic is a local‑first tool that lets users import their own e‑books and practice rapid reading without cloud services. The open‑source project emphasizes privacy while aiming to boost reading efficiency.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.readkinetic.com/app/",
-      "source": "Hacker News",
-      "published": "2026-07-22T05:49:51+00:00"
-    },
-    {
-      "headline": "Trump Campaigns Heavily in 2026 Midterms, Surpassing 2018 Pace",
-      "summary": "President Trump has already visited Georgia and rallied for dozens of candidates, outpacing his activity during the same period in 2018. His intensified outreach targets swing races ahead of the upcoming midterm elections.",
+      "headline": "Trump budget cuts stall states' Medicaid‑in‑prisons plans",
+      "summary": "New federal budget reductions force states to abandon bipartisan schemes to fund Medicaid for incarcerated populations. Lawmakers warn the changes could leave thousands without health coverage behind bars.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5887428/2026-midterm-election-trump-campaign-rally",
+      "url": "https://www.npr.org/2026/07/22/nx-s1-5896456/medicaid-cuts-incarceration-states-obbba",
       "source": "NPR News",
       "published": "2026-07-22T05:00:00-04:00"
     },
     {
-      "headline": "Trump‑Endorsed, Election‑Denial Candidates Sweep Arizona Primary",
-      "summary": "In Arizona, candidates backed by Donald Trump and who questioned the 2020 results secured victories in the primaries. Their wins set the stage for contentious contests for congressional seats and the governor's office this fall.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902198/arizona-primary-results-trump-elections-biggs",
-      "source": "NPR News",
-      "published": "2026-07-22T04:33:21-04:00"
-    },
-    {
-      "headline": "NYC Mayor says city can’t detain Netanyahu, urges federal action",
-      "summary": "Mayor Mamdani explained that New York lacks the authority to enforce an International Criminal Court arrest warrant for Israeli Prime Minister Benjamin Netanyahu. He called on the federal government to step in and carry out the arrest.",
+      "headline": "NYC mayor says city can’t arrest Netanyahu, federal must act",
+      "summary": "Mayor Mamdani argues that New York City lacks the authority to enforce an ICC arrest warrant for Israeli Prime Minister Benjamin Netanyahu. He urges the federal government to step in and carry out the arrest.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/07/22/g-s1-134880/mamdani-nyc-netanyahu",
@@ -372,53 +318,62 @@
       "published": "2026-07-22T02:04:29-04:00"
     },
     {
-      "headline": "One‑Quarter of U.S. Workers Stay in Jobs Just for Health Coverage",
-      "summary": "A recent survey shows 24 % of American employees remain in unwanted positions solely to keep their health insurance. The figure has risen sharply since 2021, underscoring growing job‑lock concerns for the economy.",
+      "headline": "France becomes first EU nation to ban social media for under‑15s",
+      "summary": "The French parliament voted to prohibit children younger than 15 from using major social platforms, aiming to curb harmful digital exposure. The law makes France a pioneer in sweeping youth internet restrictions across the EU.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.npr.org/2026/07/22/nx-s1-5902333/health-insurance-jobs-gallup",
+      "url": "https://www.npr.org/2026/07/22/g-s1-134875/france-social-media-ban",
       "source": "NPR News",
-      "published": "2026-07-22T00:01:00-04:00"
+      "published": "2026-07-22T01:46:50-04:00"
     },
     {
-      "headline": "Tunnel Collapse in India Kills 12 Workers",
-      "summary": "A construction tunnel in India caved in, killing 12 laborers and trapping others. Rescue crews continue to search for survivors despite hazardous conditions.",
+      "headline": "Japan records first \"cruelly hot day\" as temps top 40°C",
+      "summary": "The Japan Meteorological Agency introduced a new term for days exceeding 40°C, and the country hit that mark for the first time this summer. The extreme heat raises concerns about public health and energy demand.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rz07grngo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-22T05:38:22.645Z"
+      "published": "2026-07-22T07:00:24.642Z"
     },
     {
-      "headline": "Texas Officer Saves Man Seconds Before Car Bursts Into Flame",
-      "summary": "Body‑camera footage captured a police officer pulling a driver from a vehicle moments before it ignited. The swift rescue likely prevented a fatal burn injury.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T13:01:09+00:00"
-    },
-    {
-      "headline": "Laguna S 2.1 AI Model Released by Poolside",
-      "summary": "Poolside AI announced the Laguna S 2.1 update, boosting performance and capabilities of its language model. The release generated buzz on Hacker News, earning over 300 points and active discussion.",
+      "headline": "FreeInk launches open ecosystem for e‑readers",
+      "summary": "The project offers a hardware‑agnostic platform for reading and publishing, aiming to break the lock‑in of proprietary e‑readers. Community interest is high, as reflected by strong discussion on Hacker News.",
       "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://poolside.ai/blog/introducing-laguna-s-2-1",
+      "url": "https://freeink.org/",
       "source": "Hacker News",
-      "published": "2026-07-21T17:17:06+00:00"
+      "published": "2026-07-21T18:39:06+00:00"
     },
     {
-      "headline": "Chile Declares Catastrophe as Heavy Rains Flood Towns",
-      "summary": "Intense rainfall in the Coquimbo and Huasco regions caused widespread flooding and forced evacuations. Authorities declared a state of catastrophe to coordinate emergency response.",
-      "category": "World",
+      "headline": "Bloomy (YC S26) hires founding engineer",
+      "summary": "The AI‑driven design startup is seeking its first technical lead to shape product architecture. The role offers equity and a chance to influence a fast‑growing venture.",
+      "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-21T11:21:47+00:00"
+      "url": "https://news.ycombinator.com/item?id=48995037",
+      "source": "Hacker News",
+      "published": "2026-07-21T17:00:20+00:00"
     },
     {
-      "headline": "Reflecting on the World Cup’s Brief Gift of Global Unity",
-      "summary": "The author mourns the end of the World Cup, noting how the tournament offered a rare moment of worldwide camaraderie and fair competition. It served as a fleeting reminder of shared humanity during an otherwise stagnant summer.",
+      "headline": "WhatsApp usernames could complicate Somalia's anti‑terror efforts",
+      "summary": "The upcoming feature lets users chat without revealing phone numbers, raising concerns among Somali security agencies about anonymity for militants. Regulators fear the change could hinder tracking of extremist communications.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T23:46:35.460Z"
+    },
+    {
+      "headline": "Roblox Adds Official Support for GrapheneOS",
+      "summary": "Roblox now works with Android’s privacy‑focused GrapheneOS, offering secure remote attestation for users. The update expands the platform’s reach to hardened devices and highlights its security push.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation",
+      "source": "Hacker News",
+      "published": "2026-07-21T16:39:30+00:00"
+    },
+    {
+      "headline": "Missing the World Cup’s Summer Unity",
+      "summary": "The author laments the World Cup’s absence, noting it provided a rare burst of global friendship and honorable competition. Its loss leaves a noticeable gap in shared summer joy.",
       "category": "Faith",
       "relevance": 4,
       "url": "https://www.thegospelcoalition.org/article/miss-world-cup/",
@@ -426,8 +381,26 @@
       "published": "2026-07-22T04:02:00+00:00"
     },
     {
-      "headline": "FDA Advisory Panel to Review Regulation of Wellness Peptides",
-      "summary": "A panel of experts will meet this week to advise the FDA on whether specialty pharmacies should be allowed to compound popular wellness peptides. Their recommendations could shape future oversight of the booming peptide market.",
+      "headline": "New FPS Aim Trainer Maps Raw Crosshair Data",
+      "summary": "A developer built an aim‑training app that records raw crosshair movement to expose motor and perceptual weaknesses, moving beyond simple score‑based drills. It auto‑selects sensitivity, difficulty, and curates optimal practice playlists.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://openaim.pramit.gg/",
+      "source": "Hacker News",
+      "published": "2026-07-22T05:39:31+00:00"
+    },
+    {
+      "headline": "Late.sh Brings Clubhouse‑Style Audio to the Command Line",
+      "summary": "Late.sh launches a terminal‑based social platform where developers can host audio rooms without a GUI. It aims to merge Clubhouse’s spontaneity with the efficiency of command‑line workflows.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://late.sh/",
+      "source": "Hacker News",
+      "published": "2026-07-22T02:32:30+00:00"
+    },
+    {
+      "headline": "FDA Panel to Review Regulation of Wellness Peptides",
+      "summary": "An FDA advisory committee will meet to decide if specialty pharmacies may compound popular wellness peptides. The outcome could set the regulatory framework for these bio‑active supplements.",
       "category": "World",
       "relevance": 4,
       "url": "https://www.npr.org/2026/07/22/nx-s1-5902329/peptides-fda-compounding",
@@ -435,22 +408,49 @@
       "published": "2026-07-22T05:00:00-04:00"
     },
     {
-      "headline": "Bivabippabualukka: Copenhagen Composer’s Playful New Album",
-      "summary": "Collaborating with her brother, the Copenhagen composer releases a sprawling, whimsical record that blends busy arrangements with lighthearted experimentation. Critics praise its inventive textures and joyful spirit.",
-      "category": "Music",
+      "headline": "Tokyo Pushes Shorts at Work, Sparks ‘Leg Hair’ Debate",
+      "summary": "Tokyo’s government urged male office workers to replace suits with shorts, t‑shirts and trainers. Some female employees complained the policy invites unwanted remarks about leg hair, igniting a dress‑code controversy.",
+      "category": "World",
       "relevance": 4,
-      "url": "https://pitchfork.com/reviews/albums/sofie-birch/bivabippabualukka/",
-      "source": "Pitchfork",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-21T22:26:19.669Z"
+    },
+    {
+      "headline": "Liberia Seizes $370 Million in Cocaine in Record Bust",
+      "summary": "Liberian police confiscated cocaine valued at $370 million, the largest drug seizure in the country’s history. The haul resulted from a lengthy investigation into trans‑national trafficking networks.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T11:32:11.349Z"
+    },
+    {
+      "headline": "Tunnel Collapse in India Kills 14 Workers",
+      "summary": "A construction tunnel in India collapsed, killing 14 laborers and trapping additional workers. Rescue crews continue operations despite hazardous conditions that hamper access to the site.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T05:38:22.645Z"
+    },
+    {
+      "headline": "A La Carte July Issue Mixes Satire, Faith and Everyday Oddities",
+      "summary": "The July edition of “A La Carte” offers a blend of sketches—from an Uber encounter to reflections on outrage and spiritual musings. The collection probes modern absurdities while questioning faith and leadership.",
+      "category": "Faith",
+      "relevance": 3,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-22-2026/",
+      "source": "Challies",
       "published": "2026-07-22T04:01:00+00:00"
     },
     {
-      "headline": "‘Ten Steps Towards Happiness’ Revisited on Hacker News",
-      "summary": "The 2015 essay outlining a practical roadmap to personal fulfillment resurfaced on Hacker News, attracting 135 points and lively commentary. Readers debated its relevance and applicability in today’s tech‑driven world.",
+      "headline": "Modeling Scout Tied to Epstein Files Found Dead Near Paris",
+      "summary": "Daniel Siad, a scouting agent repeatedly mentioned in Epstein‑related documents, was discovered dead in the Paris suburbs. He had previously denied any knowledge of Epstein’s illicit activities.",
       "category": "Other",
       "relevance": 2,
-      "url": "http://hintjens.com/blog:99",
-      "source": "Hacker News",
-      "published": "2026-07-22T01:17:26+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-22T10:40:14.415Z"
     }
   ]
 }
