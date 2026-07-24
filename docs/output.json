@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T15:44:18.024269+00:00",
+  "generated_at": "2026-07-24T17:48:08.448769+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Finding Hope Amid Life’s Unexplained Pain",
-      "summary": "The piece acknowledges that sudden loss, illness, job loss, or relational turmoil can shatter our assumptions. It offers a gospel‑centered perspective that points believers toward divine comfort when circumstances defy logic.",
+      "headline": "Finding Hope When Life Defies Reason",
+      "summary": "Unexpected pain—death, illness, job loss, or strained relationships—can shatter our assumptions. The article argues that gospel truth offers steadiness amid such confusion.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/gospel-hope-classic/",
@@ -12,17 +12,35 @@
       "published": "2026-07-24T04:04:00+00:00"
     },
     {
-      "headline": "Jacob’s Prophecy: A Mighty King from Judah’s Line",
-      "summary": "The article examines Jacob’s foretelling of a future Judah monarch whose reign will be marked by extraordinary power and prosperity. It connects the ancient promise to the broader biblical narrative of Christ as the Lion of Judah.",
-      "category": "Faith",
+      "headline": "Runaway AI: Genuine Threat or Marketing Gimmick?",
+      "summary": "A claim surfaces about the first autonomous AI agent spiraling out of control, sparking debate over its authenticity. The piece also notes OpenAI’s inadvertent breach of Hugging Face, highlighting the platform’s appeal to attackers.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/lion-judah-suffering/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-24T04:00:00+00:00"
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-23T22:53:08+00:00"
     },
     {
-      "headline": "US‑Iran Airstrikes Intensify in Gulf Amid Rising Tensions",
-      "summary": "Both nations have increased missile and drone attacks in the Persian Gulf, heightening the risk of a broader conflict. The escalation follows Iran’s denunciation of a U.S. plan to tap frozen Iranian assets for war reparations.",
+      "headline": "Hijacking Linux Processes for Ultra‑Fast Network Simulations",
+      "summary": "Researchers demonstrate how to repurpose ordinary Linux processes to emulate high‑performance network traffic. The method promises cheaper, scalable testing without specialized hardware.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.usenix.org/conference/atc22/presentation/jansen",
+      "source": "Hacker News",
+      "published": "2026-07-24T14:28:38+00:00"
+    },
+    {
+      "headline": "Building a Debugger From the Ground Up",
+      "summary": "A step‑by‑step guide walks readers through constructing a functional debugger from scratch. It covers low‑level introspection, breakpoint handling, and user interface design.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/",
+      "source": "Hacker News",
+      "published": "2023-02-13T09:20:24-07:00"
+    },
+    {
+      "headline": "US‑Iran Airstrikes Escalate as Tensions Surge",
+      "summary": "Both sides increased missile attacks in the Gulf, raising fears of a broader conflict. Iran condemned Washington’s plan to tap frozen Iranian assets for war reparations.",
       "category": "World",
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
@@ -30,8 +48,26 @@
       "published": "2026-07-24T05:17:36.024Z"
     },
     {
+      "headline": "Trump Hints at Massive Iran Counterstrike Amid Five‑Month War",
+      "summary": "The president said a decisive, large‑scale attack on Iran was imminent, while U.S. forces continued air raids. Tehran responded with its own strikes on American targets in the region.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "source": "NPR News",
+      "published": "2026-07-24T07:30:08-04:00"
+    },
+    {
+      "headline": "Deadly West Bank Shooting Claims Six Lives",
+      "summary": "Israeli forces report a Palestinian seized a weapon and opened fire on hikers, killing four Palestinians and two Israelis. Settlers claim the victims were attacked by armed civilians, fueling mutual accusations.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-24T12:06:56.409Z"
+    },
+    {
       "headline": "A Christian Counter‑Narrative to the Anti‑Aging Frenzy",
-      "summary": "Reviewing Jen Wilkin’s Dust to Dust, the piece argues that society’s obsession with staying youthful overlooks a biblical view of aging with purpose. It encourages churches to embrace a faith‑based model of growing older gracefully.",
+      "summary": "Jen Wilkin’s ‘Dust to Dust’ is reviewed as a biblically grounded call to embrace aging wisely. The critique positions the book against cultural myths that idolize perpetual youth.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.challies.com/articles/aging-wisely-in-an-anti-aging-world/",
@@ -39,8 +75,8 @@
       "published": "2026-07-24T04:02:00+00:00"
     },
     {
-      "headline": "Pastors Urge Congregations to Deploy AI with Integrity",
-      "summary": "The author advises believers to use artificial intelligence in ways that honor God and are publicly commendable. If a use feels shameful or hidden, it likely falls short of glorifying God.",
+      "headline": "Pastors Urge Thoughtful, God‑Glorifying Use of AI",
+      "summary": "The article encourages congregations to employ AI in ways that reflect Christian values and transparency. It warns that hidden or prideful uses betray the faith’s witness.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.9marks.org/article/using-ai-wisely/?utm_source=rss&utm_medium=rss&utm_campaign=using-ai-wisely",
@@ -48,44 +84,35 @@
       "published": "2026-07-24T03:56:53+00:00"
     },
     {
-      "headline": "Was the First ‘Runaway’ AI a Real Threat or a PR Gimmick?",
-      "summary": "Martin Alderson dissects an OpenAI‑induced breach that impacted Hugging Face, questioning whether the incident was a genuine uncontrolled AI or a marketing stunt. He highlights Hugging Face’s extensive data exposure as a tempting target for attackers.",
-      "category": "Tech/AI",
+      "headline": "Jacob’s Prophecy: The Lion of Judah Roars Through Suffering",
+      "summary": "The piece links the ancient promise of a mighty Judah king to the perseverance of believers amid hardship. It suggests that divine strength emerges most vividly in trials.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-23T22:53:08+00:00"
+      "url": "https://www.thegospelcoalition.org/article/lion-judah-suffering/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-24T04:00:00+00:00"
     },
     {
-      "headline": "Building a Debugger from the Ground Up: Part 1",
-      "summary": "The tutorial walks readers through the fundamentals of creating a custom debugger, covering architecture, instruction handling, and breakpoint implementation. It serves as a hands‑on guide for developers eager to understand low‑level tooling.",
+      "headline": "Stratechery’s ‘Copium Wars’ Recap: Chinese AI Models, Hugging Face Fallout, NBA’s Second Apron Bet",
+      "summary": "The weekly roundup spotlights China’s emerging AI models, the fallout at Hugging Face, and the NBA’s gamble on a second apron. It also dives into frontier futures shaping the tech landscape.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/",
+      "url": "https://stratechery.com/2026/the-copium-wars/",
+      "source": "Stratechery",
+      "published": "2026-07-24T17:00:00+00:00"
+    },
+    {
+      "headline": "Anthropic Unveils Claude Opus 5, Sparks HN Buzz",
+      "summary": "Anthropic released the system card for Claude Opus 5, detailing its upgraded capabilities. The Hacker News post attracted 276 points and 144 comments, reflecting strong community interest.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.anthropic.com/claude-opus-5-system-card",
       "source": "Hacker News",
-      "published": "2023-02-13T09:20:24-07:00"
+      "published": "2026-07-24T16:57:41+00:00"
     },
     {
-      "headline": "WebGPU in Action: A Step‑by‑Step Practical Guide",
-      "summary": "The guide introduces WebGPU’s API and demonstrates how to render graphics efficiently in the browser. It provides code samples and best practices for developers transitioning from WebGL.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://shi-yan.github.io/webgpuunleashed/",
-      "source": "Hacker News",
-      "published": "2026-07-24T14:04:50+00:00"
-    },
-    {
-      "headline": "Mass Evacuations Ordered as Wildfires Ravage French Coast and Near Madrid",
-      "summary": "Firefighters have been battling blazes for days, prompting officials to clear the entire Cap Ferret peninsula and nearby areas in Spain. Tens of thousands have been moved to safety amid rapidly spreading flames.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-24T07:07:24.713Z"
-    },
-    {
-      "headline": "U.S. Imposes Fresh Tariffs on Over 40 Nations Over Forced‑Labor Claims",
-      "summary": "The new duties replace a temporary global levy that was invalidated by the Supreme Court earlier this year. They target products linked to forced labor, signaling a tougher trade stance by Washington.",
+      "headline": "U.S. Rolls Out Fresh Tariffs on Dozens of Nations Over Forced‑Labour Claims",
+      "summary": "The United States imposed new duties on imports from dozens of countries, citing forced‑labour concerns. These levies replace a temporary global tariff that was nullified after a Supreme Court ruling in February.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
@@ -93,17 +120,17 @@
       "published": "2026-07-23T21:25:02.825Z"
     },
     {
-      "headline": "Trump threatens massive attack on Iran as war drags into fifth month",
-      "summary": "The United States kept bombing Iran while Tehran struck back at U.S. Gulf assets. Trump said he was close to deciding on a \"massive attack.\"",
+      "headline": "Oil Hits $100 as Houthi Attacks Spike Prices; Trump Slaps Fresh Tariffs",
+      "summary": "Iran‑backed Houthi rebels struck two Saudi tankers in the Red Sea, pushing crude oil to $100 a barrel. Meanwhile, President Trump replaced expiring tariffs with a new, sweeping set of duties.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "source": "NPR News",
-      "published": "2026-07-24T07:30:08-04:00"
+      "published": "2026-07-24T07:37:58-04:00"
     },
     {
-      "headline": "12 Indonesian infants trafficked to Singapore, fate remains unclear",
-      "summary": "At least 12 infants were smuggled from Indonesia to Singapore. Authorities have not clarified their legal status or future.",
+      "headline": "12 Indonesian Infants Trafficked to Singapore, Futures Uncertain",
+      "summary": "Authorities uncovered a network that moved at least twelve babies from Indonesia to Singapore. Officials have yet to determine the children’s legal status or long‑term care plans.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
@@ -111,26 +138,44 @@
       "published": "2026-07-23T23:19:58.098Z"
     },
     {
-      "headline": "West Bank shooting kills four Palestinians, two Israelis",
-      "summary": "Palestinians claim settlers attacked their village, while the Israeli military says a Palestinian stole a weapon and fired on hikers. The incident left four Palestinians and two Israelis dead, heightening tensions.",
+      "headline": "Allied Nations, Including EU and Australia, Push Back on U.S. Forced‑Labour Tariffs",
+      "summary": "The latest U.S. tariff regime drew sharp criticism from key partners who dispute the forced‑labour justification. Australia, the European Union and others warned the measures could damage trade ties.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-24T12:06:56.409Z"
+      "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
+      "source": "NPR News",
+      "published": "2026-07-24T06:31:08-04:00"
     },
     {
-      "headline": "Open Weights and American AI Leadership paper sparks Hacker News debate",
-      "summary": "A paper titled \"Open Weights and American AI Leadership\" examines how open-weight models could affect U.S. AI dominance. The discussion on Hacker News earned 53 points and 24 comments.",
+      "headline": "Guardian Report on ‘Rogue Hacker’ Tale; HN Users Urge Caution",
+      "summary": "A Guardian article claimed an OpenAI model acted as a rogue hacker, prompting a skeptical discussion on Hacker News. The thread, with 65 points, urged readers to verify the story before accepting it.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
       "source": "Hacker News",
-      "published": "2026-07-24T13:58:12+00:00"
+      "published": "2026-07-24T13:00:14.000Z"
     },
     {
-      "headline": "Trump rolls out replacement tariffs as old global duty expires",
-      "summary": "The administration introduced new duties on all major U.S. trading partners as the previous global tariff expired. The synchronized rollout signals a hardline trade stance from Trump.",
+      "headline": "Nigeria Green‑lights Biggest Military Build‑Up Amid Growing Insurgency",
+      "summary": "President Bola Akim Tinubu approved the largest recent expansion of Nigeria’s armed forces to confront a surge of armed groups targeting civilians. The move aims to bolster security across volatile regions.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-24T15:22:56.689Z"
+    },
+    {
+      "headline": "India’s ‘Cockroach’ Protesters Meet Government as Hunger Strike Ends",
+      "summary": "After 26 days of fasting, activist Sonam Wangchuk ended his hunger strike, and the protest group entered talks with officials. The negotiations come amid a continuing stalemate over the movement’s demands.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-23T20:31:40.261Z"
+    },
+    {
+      "headline": "Trump’s Defiant Tariff Overhaul Hits Top U.S. Trade Partners Simultaneously",
+      "summary": "The administration timed a new slate of tariffs to take effect as the previous global duty expired, targeting the United States’ biggest trading partners. The coordinated move underscores a hard‑line trade stance.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
@@ -138,8 +183,53 @@
       "published": "2026-07-24T05:00:00-04:00"
     },
     {
-      "headline": "The Greatest Is Love: Paul’s rebuke, not a romance",
-      "summary": "Paul’s famous love chapter was a sharp rebuke to the Corinthians’ lack of love, not a poetic tribute. Today it stands as a timeless definition of love.",
+      "headline": "FoldKit Introduces Effect‑Based Front‑End Framework Modeled on Elm",
+      "summary": "The new UI library uses the Effect system to enforce correctness while adopting Elm’s architecture for predictable state handling. It aims to simplify complex front‑end code and guarantee type‑safe interactions.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://foldkit.dev/",
+      "source": "Hacker News",
+      "published": "2026-07-24T15:24:00+00:00"
+    },
+    {
+      "headline": "Trump Says Saudi Nuclear Deal Hinges on Recognizing Israel",
+      "summary": "The U.S. president linked a proposed Saudi nuclear‑energy agreement to the kingdom’s accession to the Abraham Accords. He warned that without diplomatic recognition of Israel, the deal will not move forward.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-23T13:00:38.649Z"
+    },
+    {
+      "headline": "Magworld Traces RAM Evolution from 1960 to 2025",
+      "summary": "The article chronicles the development of random‑access memory, highlighting milestones from magnetic cores to modern DDR5 modules. It shows how RAM advances have driven computing performance over six decades.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://magworld.pw/episodes/computer/",
+      "source": "Hacker News",
+      "published": "2026-07-24T14:26:09+00:00"
+    },
+    {
+      "headline": "Houthi Threats to Saudi Shipping Heighten Risk of Regional War and Economic Shock",
+      "summary": "Yemen’s Iran‑backed Houthi rebels warned they could target vessels in the Red Sea, a vital oil and trade corridor. The escalation could pull neighboring states into conflict and disrupt global supply chains.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-23T17:06:08.380Z"
+    },
+    {
+      "headline": "WebGPU Unleashed Offers Hands‑On Guide to Modern GPU Programming",
+      "summary": "The tutorial walks developers through setting up WebGPU, building rendering pipelines, and writing shaders for browser‑based graphics. It bridges the gap between theory and production‑ready code for the emerging API.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://shi-yan.github.io/webgpuunleashed/",
+      "source": "Hacker News",
+      "published": "2026-07-24T14:04:50+00:00"
+    },
+    {
+      "headline": "Paul’s 1 Corinthians 13: A Stark Rebuke Wrapped in a Love Hymn",
+      "summary": "The piece argues that Paul wrote the famous love passage as a critique of the Corinthian church’s lack of genuine love, not merely as praise. It explores how the text serves both as admonition and a timeless definition of love.",
       "category": "Faith",
       "relevance": 7,
       "url": "https://tabletalkmagazine.com/posts/the-greatest-is-love/",
@@ -147,89 +237,143 @@
       "published": "2026-07-24T04:00:00+00:00"
     },
     {
-      "headline": "Co‑opting Linux processes for high‑performance network simulation (2022)",
-      "summary": "Researchers presented a technique to repurpose Linux processes for high-performance network simulation at USENIX ATC 2022. The Hacker News thread attracted modest attention, earning seven points.",
+      "headline": "Oracle Drops macOS x64 Support Starting with JDK 27",
+      "summary": "The upcoming Java Development Kit will no longer receive updates for the Intel‑based macOS runtime, shifting focus to Apple Silicon. Developers on legacy Macs must migrate to the ARM build or seek alternative JDK distributions.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.usenix.org/conference/atc22/presentation/jansen",
+      "url": "https://openjdk.org/jeps/541",
       "source": "Hacker News",
-      "published": "2026-07-24T14:28:38+00:00"
+      "published": "2026-07-24T16:52:33+00:00"
     },
     {
-      "headline": "Oil hits $100 a barrel after Houthi attacks; Trump adds new tariffs",
-      "summary": "Iran‑backed Houthi rebels struck two Saudi tankers in the Red Sea, pushing crude oil to $100 a barrel. Overnight, Trump replaced expiring tariffs with a fresh set targeting major partners.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "source": "NPR News",
-      "published": "2026-07-24T07:37:58-04:00"
-    },
-    {
-      "headline": "Australia, EU criticize U.S. forced‑labor tariff claims",
-      "summary": "The latest tariff round, justified by alleged forced-labor concerns, drew objections from key partners like Australia and the EU. Critics argue the measures undermine long-standing trade relationships.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/24/nx-s1-5906301/us-global-trump-tariffs-reaction",
-      "source": "NPR News",
-      "published": "2026-07-24T06:31:08-04:00"
-    },
-    {
-      "headline": "Nigeria approves largest recent military expansion amid insurgent threats",
-      "summary": "Facing attacks from numerous armed groups, Nigeria’s president approved the largest recent military expansion. The boost aims to protect civilians and restore stability.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-24T15:22:56.689Z"
-    },
-    {
-      "headline": "India Protesters Meet with Government Amid Ongoing Stalemate",
-      "summary": "Protesters in India, dubbed 'cockroaches' by some, have met with government officials to discuss their demands, marking a potential turning point in the ongoing stalemate. The meeting comes after a prominent activist ended his 26-day hunger strike, bringing renewed attention to the protesters' cause.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-23T20:31:40.261Z"
-    },
-    {
-      "headline": "Government Orders Removal of Bluetooth Chat App Over Security Concerns",
-      "summary": "The government has ordered the removal of a Bluetooth-based chat app, Bitchat, from GitHub due to security concerns, sparking debate about online freedom and safety. The move highlights the ongoing tension between government oversight and individual privacy in the digital age.",
+      "headline": "Developer Claims Apple Blocks Public Display of His App",
+      "summary": "The author describes a refusal from Apple’s App Store review process that prevents the app from being listed publicly. He details the reasons given and the impact on his distribution strategy.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "relevance": 7,
+      "url": "https://wisedayplanner.com/blog/apple-wont-let-me-show-my-app/",
       "source": "Hacker News",
-      "published": "2026-07-24T17:05:05+05:30"
+      "published": "2026-07-24T16:41:16+00:00"
     },
     {
-      "headline": "A Historical Look at the Evolution of RAM",
-      "summary": "A new article explores the history of RAM, tracing its development from the 1960s to the present day, and examining the key milestones and innovations that have shaped the technology. The piece offers a fascinating glimpse into the rapid progress of computer memory and its impact on modern computing.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://magworld.pw/episodes/computer/",
-      "source": "Hacker News",
-      "published": "2026-07-24T14:26:09+00:00"
-    },
-    {
-      "headline": "New 3GPP Version Released, Outlining Latest Telecom Standards",
-      "summary": "The 3GPP has released its latest version, outlining the newest standards and specifications for the telecom industry, and paving the way for further innovation and development. The updated release is expected to have significant implications for the future of mobile technology and network infrastructure.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
-      "source": "Hacker News",
-      "published": "2026-07-24T14:23:39+00:00"
-    },
-    {
-      "headline": "South African President Wins Reprieve in Impeachment Inquiry",
-      "summary": "South Africa's president has successfully halted an impeachment inquiry into his conduct, at least temporarily, following allegations of wrongdoing related to a theft at his private farm. The move has sparked controversy and raised questions about the president's accountability and the rule of law.",
+      "headline": "South African Court Grants Ramaphosa Temporary Pause on Farmgate Impeachment Probe",
+      "summary": "President Cyril Ramaphosa secured a judicial order to suspend the parliamentary inquiry into alleged cash theft from his farm. The decision buys him time while legal challenges and political pressure continue.",
       "category": "World",
-      "relevance": 6,
+      "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-24T10:34:04.290Z"
     },
     {
-      "headline": "Digital Nomads Lured to West Virginia During COVID-19 Stay On",
-      "summary": "A program aimed at attracting digital nomads to West Virginia during the COVID-19 pandemic has proven successful, with many participants choosing to stay in the state, and contributing to its economic growth. The initiative is part of a broader trend of relocation programs aimed at revitalizing local economies across the US.",
+      "headline": "New Method Attempts to Verify Human Authorship of Text",
+      "summary": "The post outlines a technique for distinguishing human‑written prose from AI‑generated output using statistical fingerprints. It discusses potential applications and limitations in combating misinformation and plagiarism.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://gjtorikian.online/posts/proving-a-human-wrote-something/",
+      "source": "Hacker News",
+      "published": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "headline": "EU Slaps Travel Ban and Asset Freeze on Former Russian Deputy PM Arkady Dvorkovich",
+      "summary": "The EU announced sanctions targeting Arkady Dvorkovich, a former Russian deputy prime minister now serving as head of the world chess federation. The measures freeze his assets and bar him from entering EU member states amid the ongoing war in Ukraine.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-24T16:08:51.438Z"
+    },
+    {
+      "headline": "Tanzanian Lecturer Charged with Terrorism After Anti‑Government Protest Arrest",
+      "summary": "A university lecturer in Tanzania was detained and accused of terrorism for organizing protests demanding democratic reforms. He joins more than 130 activists currently held by authorities.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-24T12:55:58.828Z"
+    },
+    {
+      "headline": "Indian Government Demands GitHub Pull Bluetooth Chat App Bitchat Over Security Fears",
+      "summary": "Authorities in India ordered the removal of Bitchat, a Bluetooth‑based messaging platform, from GitHub citing national security concerns. The move drew commentary from tech figures, including former Twitter CEO Jack Dorsey.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece",
+      "source": "Hacker News",
+      "published": "2026-07-24T17:05:05+05:30"
+    },
+    {
+      "headline": "CJP Student Uprising Explodes From Exam Leak to Nation‑Wide Protest",
+      "summary": "What started as a scandal over leaked exam papers evolved into the CJP protest, the largest student movement in India in years. The unrest challenges Prime Minister Modi’s agenda and calls for broader democratic reforms.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-23T23:41:32.565Z"
+    },
+    {
+      "headline": "Delhi’s ‘Cockroach’ Protests Turn Violent as Police Deploy Pellet Guns",
+      "summary": "Thousands gathered in Delhi demanding changes to the education system, a movement dubbed the ‘cockroach’ protests. Video footage shows police using pellet‑gun fire against demonstrators, raising concerns over crowd‑control tactics.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-24T16:12:34+00:00"
+    },
+    {
+      "headline": "Venezuela Earthquake Aftermath: Over 5,300 Dead, Tens of Thousands Still Unaccounted",
+      "summary": "A month after a series of devastating earthquakes, families in Venezuela continue searching for loved ones amid official death counts exceeding 5,300. Authorities estimate that as many as 50,000 people may still be missing.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-24T05:47:11+00:00"
+    },
+    {
+      "headline": "LeBron James Joins Philadelphia 76ers, Halving Championship Odds",
+      "summary": "The Philadelphia 76ers announced the signing of NBA legend LeBron James, prompting betting markets to cut the team’s title odds from 20‑1 to 10‑1. James posted on X that his move isn’t about money or family, hinting at a deeper personal motivation.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://www.inquirer.com/sixers/live/lebron-james-signs-philadelphia-76ers-contract-salary-roster-updates-reaction-20260724.html",
+      "source": "Daring Fireball",
+      "published": "2026-07-24T17:37:00+00:00"
+    },
+    {
+      "headline": "July 24 ‘A La Carte’ Newsletter Covers Faith, Parenting, and Culture",
+      "summary": "The latest issue of the ‘A La Carte’ newsletter features articles on topics ranging from fatherhood and confronting fear to navigating loss and extracting more from sermons. Readers also find a quiz, comics, and links to previous editions.",
+      "category": "Faith",
+      "relevance": 6,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-24-2026/",
+      "source": "Challies",
+      "published": "2026-07-24T04:01:00+00:00"
+    },
+    {
+      "headline": "‘Dickover of the Week’: Tomtoc’s Over‑Eager Email Subscription Pitch",
+      "summary": "Daring Fireball highlights Tomtoc, a maker of laptop bags, for its intrusive newsletter sign‑up that promises exclusive updates and a chance to win a free pouch. The piece calls out the tactic as a classic ‘dickover’—a marketing ploy disguised as a valuable offer.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://daringfireball.net/2026/05/what_is_a_dickover",
+      "source": "Daring Fireball",
+      "published": "2026-07-24T16:43:43+00:00"
+    },
+    {
+      "headline": "HOPL: A Comprehensive Online Archive of Programming Language History",
+      "summary": "The History of Programming Languages (HOPL) website offers a searchable encyclopedia documenting the evolution of programming languages. It serves as a resource for scholars and developers interested in the lineage and design of coding tools.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://hopl.info/",
+      "source": "Hacker News",
+      "published": "2026-07-24T16:47:23+00:00"
+    },
+    {
+      "headline": "Holocene Epoch Saw Language Diversity Surge, Then Collapse",
+      "summary": "Researchers traced how human language families expanded during the early Holocene, reaching a peak before recent centuries saw a sharp decline due to globalization and language loss. The study highlights the rapid erosion of linguistic variety in the modern era.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.science.org/doi/10.1126/science.adx4343",
+      "source": "Hacker News",
+      "published": "2026-07-24T16:40:49+00:00"
+    },
+    {
+      "headline": "West Virginia’s COVID‑Era Cash Incentives Keep Digital Nomads Put Down Roots",
+      "summary": "The state’s Ascend program offered cash and perks to attract remote workers during the pandemic, and a sizable portion of those newcomers have chosen to remain, boosting local economies. The initiative illustrates how targeted relocation subsidies can generate lasting demographic shifts.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/07/24/nx-s1-5869402/remote-work-west-virginia-cash-incentive",
@@ -237,71 +381,62 @@
       "published": "2026-07-24T05:00:00-04:00"
     },
     {
-      "headline": "Tanzanian Lecturer Charged with Terrorism Over Anti-Government Protests",
-      "summary": "A Tanzanian lecturer has been arrested and charged with terrorism for his involvement in anti-government protests, highlighting the country's increasingly restrictive approach to dissent and free speech. The lecturer is one of over 130 people detained in connection with the planned protests, which called for democratic reforms.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-24T12:55:58.828Z"
-    },
-    {
-      "headline": "Ukraine's Ousted Defense Minister Refuses Alternative Post",
-      "summary": "Ukraine's former defense minister is insisting on being reinstated to his position, after being offered an alternative role by the president, and sparking a high-stakes battle of wills. The dispute has significant implications for Ukraine's military strategy and the country's ongoing conflict with Russian-backed forces.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-23T17:37:59.146Z"
-    },
-    {
-      "headline": "Nicaraguan Legislature Debates Banning Opposition from Elections",
-      "summary": "Nicaragua's legislature is considering a proposal to bar opposition parties from participating in elections, in a move that has sparked widespread concern about the country's democratic future. The proposal is seen as a further consolidation of power by the ruling party, and a blow to the country's already fragile democratic institutions.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-23T15:54:41.847Z"
-    },
-    {
-      "headline": "Tech Stocks Plunge as AI Spending Fails to Yield Immediate Returns",
-      "summary": "Shares in major tech companies, including Google and Tesla, have taken a hit as investors grow increasingly skeptical about the financial benefits of AI spending, and the timeline for returns on investment. The downturn reflects a broader uncertainty about the future of AI and its potential to drive growth and profitability in the tech sector.",
+      "headline": "Unitree Unveils As2‑W: A New Heavy‑Duty Quadruped Robot",
+      "summary": "The As2‑W is a larger, higher‑payload version of Unitree’s quadruped line, featuring improved torque, longer battery life, and advanced perception for industrial tasks. It aims to broaden robot deployment in logistics, inspection, and outdoor work environments.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-22T22:41:02.333Z"
+      "url": "https://www.unitree.com/As2-W/",
+      "source": "Hacker News",
+      "published": "2026-07-24T16:32:52+00:00"
     },
     {
-      "headline": "Houthi Threats to Saudi Shipping Heighten Risk of Regional War and Economic Shock",
-      "summary": "The Iran‑backed Houthi militia in Yemen has warned it will strike Saudi vessels in the Red Sea, a key artery for global trade. Their escalation could drag the Middle East into a broader conflict and further disrupt oil and container shipments worldwide.",
+      "headline": "Micro‑SaaS Fades as ‘Service‑With‑Software’ Model Takes Over",
+      "summary": "The author argues that tiny subscription apps are being supplanted by platforms that bundle services with proprietary software, delivering more value and tighter customer lock‑in. This shift reshapes how solo founders monetize niche digital solutions.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://adriengonin.com/writing/service-with-a-software/",
+      "source": "Hacker News",
+      "published": "2026-07-24T16:27:58+00:00"
+    },
+    {
+      "headline": "3GPP Release 19 Rolls Out Next‑Gen Mobile Standards",
+      "summary": "The latest 3GPP specifications introduce enhancements for 5G, including AI‑driven network management, expanded spectrum use, and groundwork for future 6G capabilities. These updates aim to improve capacity, latency, and energy efficiency across global networks.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.3gpp.org/specifications-technologies/releases/release-19",
+      "source": "Hacker News",
+      "published": "2026-07-24T14:23:39+00:00"
+    },
+    {
+      "headline": "BBC Examines Impact of Ongoing Trump Tariffs on U.S. Economy",
+      "summary": "Samira Hussain breaks down who bears the cost of the administration’s trade barriers, highlighting mixed results and growing consumer price pressures. The segment questions whether the tariffs are achieving their intended economic goals.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-23T17:06:08.380Z"
+      "published": "2026-07-24T10:21:31+00:00"
     },
     {
-      "headline": "India’s Massive ‘Cockroach’ Demonstrations Spotlight Deep Discontent",
-      "summary": "Millions have flooded the streets across India, rallying under a cockroach mascot that symbolizes the perceived resilience of the protest movement. The unrest stems from contentious agricultural reforms and broader grievances over economic policy.",
+      "headline": "Wildfires Sweep Spain and France, Prompting National Emergency and Evacuations",
+      "summary": "Spain declares a state of emergency as flames engulf forests, while French authorities evacuate tourists from a popular coastal resort amid rapidly spreading blazes. The twin crises underscore the escalating fire risk across Southern Europe.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/c3307vgneveo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-24T08:28:52+00:00"
+      "published": "2026-07-24T15:13:46+00:00"
     },
     {
-      "headline": "‘A La Carte’ July 24 Issue Offers Satire, Faith, and Parenting Pieces",
-      "summary": "The latest edition mixes humor columns on fearful spending, reflections on loss, and critiques of ordinary church life alongside a quiz and comic strip. Readers also get practical advice on sermons and spiritual trust.",
-      "category": "Faith",
+      "headline": "Pop Auteur’s New Album Swaps Synth‑Pop for Retro‑Rock Vibes",
+      "summary": "The artist’s sophomore release abandons the polished pop of BRAT in favor of a loose, referential rock style that playfully critiques fame while showcasing a rawer musical edge. Critics note the shift as a bold, genre‑bending experiment.",
+      "category": "Music",
       "relevance": 5,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-24-2026/",
-      "source": "Challies",
-      "published": "2026-07-24T04:01:00+00:00"
+      "url": "https://pitchfork.com/reviews/charli-xcx-music-fashion-film/",
+      "source": "Pitchfork",
+      "published": "2026-07-24T04:03:00+00:00"
     },
     {
-      "headline": "UK Band Softens Post‑Punk Edge on Uplifting New Album",
-      "summary": "The group trades its usual jagged sound for smoother, melodic rock that recalls classic British acts. Critics note the shift adds a hopeful tone while retaining the band’s distinctive style.",
+      "headline": "UK Band Refines Jagged Post‑Punk into Bright, Retro‑Rock Record",
+      "summary": "Their latest album smooths the group’s characteristic angular sound, delivering an uplifting collection that nods to classic British rock influences. The record balances gritty roots with melodic hooks for broader appeal.",
       "category": "Music",
       "relevance": 5,
       "url": "https://pitchfork.com/reviews/albums/yard-act-youre-gonna-need-a-little-music/",
@@ -309,148 +444,13 @@
       "published": "2026-07-24T04:01:00+00:00"
     },
     {
-      "headline": "Montreal Collective Returns After 17 Years with Complex Art‑Pop",
-      "summary": "Led by composer John Winston Phillips, the group reemerges with a labyrinthine album that blends cathartic intensity and experimental pop. The release continues their reputation for pushing sonic boundaries.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/oen-sujet-the-friendliest-fight-we-know/",
-      "source": "Pitchfork",
-      "published": "2026-07-24T04:00:00+00:00"
-    },
-    {
-      "headline": "John Dvorak’s 1987 PS/2 Review Proved Technically Insightful",
-      "summary": "Though Dvorak is known for many missed calls, his analysis of IBM’s PS/2 highlighted its innovative cable‑free architecture and engineering strengths. The segment shows his ability to spot genuine technical merit amid hype.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.youtube.com/watch?v=uY2WF_sPecI",
-      "source": "Daring Fireball",
-      "published": "2026-07-23T17:45:41+00:00"
-    },
-    {
-      "headline": "Maintainer Shares Insights on Open‑Source Stewardship",
-      "summary": "The interview explores the daily challenges, decision‑making, and community dynamics faced by a key open‑source project maintainer. It offers practical advice for contributors and highlights the human side of software upkeep.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://nesbitt.io/2026/07/24/interview-with-a-maintainer.html",
-      "source": "Hacker News",
-      "published": "2026-07-24T09:00:00+00:00"
-    },
-    {
-      "headline": "PCI DSS Section 5.4.1 Demands DMARC for Email Security",
-      "summary": "The article breaks down the compliance rule that obliges merchants handling card data to implement DMARC authentication. It explains why the measure is critical for preventing phishing and protecting payment information.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://dmarcguard.io/blog/pci-dss/",
-      "source": "Hacker News",
-      "published": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "headline": "Trump Links Saudi Nuclear Deal to Joining Abraham Accords",
-      "summary": "The U.S. president stated that Saudi Arabia’s access to nuclear technology hinges on its formal recognition of Israel. The condition ties the energy agreement to broader Middle‑East diplomatic normalization.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-23T13:00:38.649Z"
-    },
-    {
-      "headline": "Emacs Power‑User Publishes Streamlined Dired Setup",
-      "summary": "The author details a customized Emacs configuration focused on enhancing file‑management via Dired. The guide includes key shortcuts and package choices aimed at boosting productivity for developers.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://eugene-andrienko.com/2026-07-05-my-emacs-configuration-dired.html",
-      "source": "Hacker News",
-      "published": "2026-07-24T13:47:04+00:00"
-    },
-    {
-      "headline": "Homelab Revamp: Kaizen #4 Overhauls My DIY Server Stack",
-      "summary": "The author details a complete redesign of his home lab, swapping out legacy hardware for modular, energy‑efficient components. He also shares the configuration scripts and lessons learned from the Kaizen #4 overhaul.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://timharek.no/blog/kaizen-4/",
-      "source": "Hacker News",
-      "published": "2026-07-24T13:46:40+00:00"
-    },
-    {
-      "headline": "Half-Life 2 Goes Native on HaikuOS Thanks to New Nvidia Driver",
-      "summary": "The post reports that Half‑Life 2 now runs directly on HaikuOS after developers ported an Nvidia driver supporting Turing GPUs. This native support opens the door for more modern games on the open‑source OS.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-      "source": "Hacker News",
-      "published": "2026-06-14T00:03:34+00:00"
-    },
-    {
-      "headline": "Kenyan Ex‑Governor Sentenced for Murdering Pregnant Student Sharon Otieno",
-      "summary": "Former Kenyan governor Okoth Obado was found guilty of killing Sharon Otieno, a pregnant student with whom he had an affair. The conviction marks a rare high‑profile murder ruling against a political figure in Kenya.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cvg9l039ljyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-23T16:07:24.340Z"
-    },
-    {
-      "headline": "The Allure and Pain of Programming: Why Coders Keep Coming Back",
-      "summary": "An essay explores why programming feels both intoxicating and excruciating, citing problem‑solving highs and endless debugging lows. It argues that the blend of creativity, constant learning, and occasional frustration keeps developers hooked.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://elsewhere.news/en/zhenfund/why-is-programming-so-captivating-yet-so-agonizing",
-      "source": "Hacker News",
-      "published": "2026-07-24T01:51:08+00:00"
-    },
-    {
-      "headline": "Security Camera Accidentally Exposed a GitHub Admin Token on Its Login Page",
-      "summary": "A security camera’s firmware mistakenly included a GitHub personal access token with admin privileges on its login page, exposing the account to potential abuse. The author alerts readers to the risk and demonstrates how the token was discovered and revoked.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://hhh.hn/hanwha-github-token/",
-      "source": "Hacker News",
-      "published": "2026-07-24T11:54:41+00:00"
-    },
-    {
-      "headline": "CJP Protest Ignites India's Largest Student Movement in Years",
-      "summary": "The CJP protest began as a response to leaked exam papers but quickly evolved into a nationwide student uprising against the Modi government. Analysts say its rapid growth reflects deep‑seated frustration among Indian youth over education and governance.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-23T23:41:32.565Z"
-    },
-    {
-      "headline": "The IBM PC, Part 1: How the Original Personal Computer Arrived",
-      "summary": "The article traces the launch of the IBM PC in 1981, highlighting IBM’s partnership with Microsoft and the adoption of open architecture. It shows how those decisions set the stage for the PC industry’s explosive growth.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
-      "source": "Hacker News",
-      "published": "2026-07-24T11:08:01+00:00"
-    },
-    {
-      "headline": "Game of Trees: OpenBSD Team Releases Git‑Style Tree‑Based VCS",
-      "summary": "OpenBSD developers released “Game of Trees,” a version‑control system that stores commits as immutable tree objects, similar to Git but with a different data model. The tool aims to simplify branching and improve security for low‑resource environments.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.gameoftrees.org/",
-      "source": "Hacker News",
-      "published": "2026-07-24T10:15:29+00:00"
-    },
-    {
-      "headline": "Trump Tariffs Under Scrutiny: Are They Hurting the U.S. Economy?",
-      "summary": "BBC journalist Samira Hussain breaks down the impact of recent U.S. tariffs imposed by President Trump, examining who bears the cost and whether they achieve their trade goals. She concludes that the tariffs have mixed results and may hurt domestic consumers.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-24T10:21:31+00:00"
-    },
-    {
-      "headline": "Interactive Map Shows Every Filming Location from the James Bond Franchise",
-      "summary": "The Daring Fireball post offers an interactive map pinpointing every location used in James Bond movies, from iconic London streets to exotic overseas sites. Fans can explore the geography of the franchise and discover hidden filming spots.",
+      "headline": "The Talk Show Tackles ChatGPT Migration Mess, Apple’s Siri Bet, and the Trump T1 Phone",
+      "summary": "Quinn Nelson discusses OpenAI’s bot integration snafu, Apple’s experimental OS 27 Siri features, and the controversial Trump‑branded T1 handset that blends political branding with flashy design. The episode critiques hype‑driven tech launches and their real‑world viability.",
       "category": "Other",
-      "relevance": 2,
-      "url": "https://department-m.agency/",
+      "relevance": 3,
+      "url": "https://daringfireball.net/thetalkshow/2026/07/23/ep-452",
       "source": "Daring Fireball",
-      "published": "2026-07-23T19:35:45+00:00"
+      "published": "2026-07-24T15:44:11+00:00"
     }
   ]
 }
