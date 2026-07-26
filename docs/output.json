@@ -1,55 +1,10 @@
 {
-  "generated_at": "2026-07-26T19:25:49.121281+00:00",
-  "story_count": 44,
+  "generated_at": "2026-07-26T20:34:41.887168+00:00",
+  "story_count": 45,
   "stories": [
     {
-      "headline": "Data‑Oriented Design: A Practical Intro for Game Developers",
-      "summary": "The PDF walks developers through the principles of data‑oriented design, emphasizing memory layout and cache efficiency. It shows how restructuring code around data can boost performance in games.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "source": "Hacker News",
-      "published": "2026-07-26T18:11:16+00:00"
-    },
-    {
-      "headline": "Go Team Releases Modular Static Analysis Framework",
-      "summary": "The new Go analysis package lets developers build custom static analysis tools by composing reusable checkers. Its modular design simplifies extending the Go toolchain for code quality and security audits.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
-      "source": "Hacker News",
-      "published": "2026-07-26T12:21:26+00:00"
-    },
-    {
-      "headline": "Police Hunt Suspect After Car Ramming at Berlin Pride",
-      "summary": "A driver plowed a vehicle into a crowd at Berlin’s Pride celebration, injuring many and prompting a citywide manhunt. Authorities are investigating motives while treating the incident as a possible terrorist act.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-26T08:58:50.767Z"
-    },
-    {
-      "headline": "U.S. Halts Airstrikes on Iran for Second Day, Tehran Mirrors Pause",
-      "summary": "The United States suspended its missile strikes against Iranian targets, and Iran announced a reciprocal pause. Both sides say the de‑escalation aims to revive talks on a temporary cease‑fire.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "source": "NPR News",
-      "published": "2026-07-26T13:16:06-04:00"
-    },
-    {
-      "headline": "Four Strategies to Stop Volunteer Burnout in Children’s Ministry",
-      "summary": "The article outlines key practices—clear expectations, healthy boundaries, regular rest, and supportive leadership—to protect volunteers from exhaustion. Implementing these steps can sustain enthusiasm and effectiveness in youth programs.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/prevent-childrens-ministry-burnout/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-26T04:00:00+00:00"
-    },
-    {
-      "headline": "HART OS: Open‑Source AI Operating System Designed for Edge Deployment",
-      "summary": "HART OS provides a lightweight platform that runs frontier AI models without relying on large datacenters. The project targets developers who need on‑device inference for robotics, IoT, and embedded systems.",
+      "headline": "HART OS: Open‑Source AI OS That Runs Frontier Models Without a Data Center",
+      "summary": "The HART OS project provides an open‑source operating system that enables cutting‑edge AI models to run on consumer‑grade hardware, sidestepping the need for massive data centers. Built with performance in mind, it aims to democratize access to powerful AI capabilities.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://github.com/hertz-ai/HARTOS",
@@ -57,62 +12,17 @@
       "published": "2026-07-26T18:40:08+00:00"
     },
     {
-      "headline": "Settlers Accused of Arson in West Bank Amid Rising Tensions",
-      "summary": "Palestinian reports claim Israeli settlers torched mosques, vehicles, and farmland, escalating violence after a recent clash that left casualties on both sides. The incidents deepen the already volatile security situation in the occupied territories.",
-      "category": "World",
+      "headline": "Data‑Oriented Design Primer: Boosting Game Performance Through Memory Layout",
+      "summary": "The PDF introduces data‑oriented design principles, emphasizing how arranging data for cache friendliness can dramatically speed up game engines. It contrasts this approach with traditional object‑oriented methods and offers concrete implementation tips.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-26T10:26:05.400Z"
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "source": "Hacker News",
+      "published": "2026-07-26T18:11:16+00:00"
     },
     {
-      "headline": "Displaced Lebanese Turn to Satellite Imagery to Check Home Damage",
-      "summary": "Families forced from southern Lebanon are purchasing high‑resolution satellite photos to see if their houses survived Israel’s recent incursion. The costly service reflects the desperation of those unable to return safely.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
-      "source": "NPR News",
-      "published": "2026-07-26T06:00:00-04:00"
-    },
-    {
-      "headline": "Rising Heat and Smoke Put Kids’ Summer Activities at Risk",
-      "summary": "Extreme temperatures and wildfire smoke are forcing parents to rethink outdoor plans for their children’s summer vacations. Experts warn that climate‑driven disruptions could reshape traditional break schedules.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
-      "source": "NPR News",
-      "published": "2026-07-26T05:00:00-04:00"
-    },
-    {
-      "headline": "Police Confirm Death of Berlin Pride Attack Suspect",
-      "summary": "German officials identified the driver, Abdul Ballout, as the likely Islamic‑motivated attacker and said he died during the incident. The case underscores ongoing security concerns around public events in Europe.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
-      "source": "NPR News",
-      "published": "2026-07-25T21:10:56-04:00"
-    },
-    {
-      "headline": "Wildfires Rage Across France and Spain",
-      "summary": "Over 300,000 people have been forced to flee their homes due to devastating wildfires in France and Spain, with at least one reported death in Spain. The fires have prompted large-scale evacuations, with around 50,000 people evacuated in France alone.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
-      "source": "NPR News",
-      "published": "2026-07-25T21:05:45-04:00"
-    },
-    {
-      "headline": "Berlin Pride Attack Sparks Manhunt",
-      "summary": "A manhunt is underway after an attack at Berlin Pride, with a 21-year-old suspect identified but still at large. The incident has raised concerns about safety and security at public events.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-26T08:14:55+00:00"
-    },
-    {
-      "headline": "Unlocking AI's Full Potential",
-      "summary": "A new perspective on AI highlights the importance of focus and follow-through in unlocking its superpowers. By leveraging these key elements, AI can be harnessed to drive innovation and achieve complex goals.",
+      "headline": "The New AI Superpowers: Why Focus and Follow‑Through Matter More Than Hype",
+      "summary": "The essay argues that lasting AI leadership will depend on disciplined execution and sustained investment rather than fleeting hype. It calls on policymakers and businesses to prioritize strategic focus to harness AI’s transformative potential.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
@@ -120,44 +30,62 @@
       "published": "2026-07-26T08:01:38+00:00"
     },
     {
-      "headline": "Google Invests Heavily in SpaceX",
-      "summary": "Google has disclosed a significant investment in SpaceX, valued at $94.1 billion, marking a 6% stake in the company. This substantial investment underscores the growing importance of space technology and exploration.",
+      "headline": "Pitchfork Revisits Janet’s Overlooked 2001 Album, Uncovering Its Emotional Riches",
+      "summary": "Pitchfork’s deep‑dive reexamines Janet’s 2001 record, highlighting its lush emotional texture and its place at a pivotal career moment. The piece argues the album deserves greater recognition for its artistic ambition.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/janet-jackson-all-for-you/",
+      "source": "Pitchfork",
+      "published": "2026-07-26T04:00:00+00:00"
+    },
+    {
+      "headline": "US Halts Iran Strikes for Second Day, Tehran Mirrors Pause Amid Ceasefire Talks",
+      "summary": "For the second consecutive day, the United States paused its missile attacks on Iran, and Tehran announced a reciprocal halt. Both sides say the de‑escalation is a step toward negotiating a temporary ceasefire.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "source": "NPR News",
+      "published": "2026-07-26T13:16:06-04:00"
+    },
+    {
+      "headline": "Terence Tao Explores How AI Is Reshaping Modern Mathematics",
+      "summary": "In his lecture slides, mathematician Terence Tao outlines how AI tools are changing the way conjectures are generated and proofs are verified. He discusses both the opportunities for accelerating discovery and the new challenges for the discipline.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
       "source": "Hacker News",
-      "published": "2026-07-26T12:43:21+00:00"
+      "published": "2026-07-26T10:32:35+00:00"
     },
     {
-      "headline": "Weekly Devotional and Inspirational Content",
-      "summary": "A new edition of Works and Wonders is available, featuring inspirational stories, devotional content, and uplifting messages. This weekly series aims to provide a positive and reflective start to the week.",
+      "headline": "Four Practical Steps to Prevent Burnout in Children’s Ministry Volunteers",
+      "summary": "The article presents four actionable strategies—clear boundaries, supportive community, ongoing training, and intentional rest—to curb volunteer fatigue in children’s ministries. Implementing these measures aims to sustain healthy, effective ministry teams.",
       "category": "Faith",
       "relevance": 7,
-      "url": "https://www.challies.com/articles/works-wonders-july-26/",
-      "source": "Challies",
-      "published": "2026-07-26T04:01:00+00:00"
+      "url": "https://www.thegospelcoalition.org/article/prevent-childrens-ministry-burnout/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-26T04:00:00+00:00"
     },
     {
-      "headline": "Wildfires Force Mass Evacuations in France and Spain",
-      "summary": "The devastating wildfires in France and Spain have prompted the evacuation of over 330,000 people, with firefighters battling to contain the blazes. The situation remains critical, with thousands of people displaced and many more at risk.",
+      "headline": "Israeli Settlers Accused of Arson on Mosques, Cars and Farms in West Bank",
+      "summary": "Palestinian sources report that Israeli settlers set fire to mosques, vehicles, and agricultural land in the West Bank, intensifying regional tensions. The attacks follow a recent clash that left casualties on both sides.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-26T07:21:11.088Z"
+      "published": "2026-07-26T10:26:05.400Z"
     },
     {
-      "headline": "French Firefighters Face Unprecedented Challenge",
-      "summary": "French firefighters are confronting a new and daunting phenomenon, known as 'pyrocumulonimbus', which poses significant risks to their safety and effectiveness. This rare and intense type of wildfire is pushing firefighters to their limits.",
-      "category": "World",
+      "headline": "12‑Year‑Old Builds Robots That Speak Endangered Indigenous Languages",
+      "summary": "Guided by a mentor, a 12‑year‑old in Michigan programmed robots to converse in threatened Native American languages. The project showcases how technology can aid in preserving linguistic heritage.",
+      "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "source": "Hacker News",
-      "published": "2026-07-26T17:49:44+00:00"
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+      "source": "NPR News",
+      "published": "2026-07-26T05:00:00-04:00"
     },
     {
-      "headline": "Affordable Self-Hosted CCTV Solution Unveiled",
-      "summary": "A new, lightweight, and self-hosted CCTV system has been introduced, designed for Linux-based single-board computers. This innovative solution, called CheapSecurity, offers a cost-effective and flexible alternative for home and business security needs.",
+      "headline": "CheapSecurity Offers Lightweight, Self‑Hosted CCTV for Linux SBCs",
+      "summary": "CheapSecurity is an open‑source CCTV solution optimized for low‑cost single‑board computers like the Raspberry Pi. It provides a privacy‑focused, self‑hosted alternative to cloud‑based video surveillance systems.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://github.com/gmrandazzo/CheapSecurity",
@@ -165,8 +93,8 @@
       "published": "2026-07-26T15:53:55+00:00"
     },
     {
-      "headline": "London Gatwick Airport Launches Robotic Parking Service",
-      "summary": "London Gatwick Airport has introduced a pioneering robotic airport parking service, designed to streamline and simplify the parking experience. This cutting-edge technology aims to reduce congestion and enhance passenger convenience.",
+      "headline": "Gatwick Rolls Out Autonomous Parking System",
+      "summary": "London Gatwick Airport has partnered with Stanley Robotics to introduce a self‑driving car‑parking service that shuttles vehicles to and from the terminal. The pilot aims to cut wait times and free up space, marking the UK’s first large‑scale robotic parking deployment.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
@@ -174,44 +102,89 @@
       "published": "2026-07-24T12:50:34+00:00"
     },
     {
-      "headline": "Revisiting Janet's 2001 Album 'All for You'",
-      "summary": "A significant album from Janet's discography, 'All for You', is being re-examined and reappreciated, offering a nuanced and emotionally rich listening experience. Released in 2001, this album marked a pivotal moment in Janet's career, showcasing her artistic growth and versatility.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/janet-jackson-all-for-you/",
-      "source": "Pitchfork",
-      "published": "2026-07-26T04:00:00+00:00"
-    },
-    {
-      "headline": "Ruff 0.16.0 Update Breaks CI Pipelines",
-      "summary": "Astral released Ruff 0.16.0 on July 23, adding new default lint checks. Unpinned dependencies caused multiple CI jobs to fail immediately.",
+      "headline": "Google Reveals $94 B SpaceX Holding, Securing 6% Stake",
+      "summary": "In a recent filing, Alphabet disclosed it owns roughly $94.1 billion of SpaceX shares, giving it a six‑percent ownership of Elon Musk’s rocket company. The revelation underscores Google’s growing interest in the commercial space sector.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-25T22:44:05+00:00"
+      "relevance": 7,
+      "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+      "source": "Hacker News",
+      "published": "2026-07-26T12:43:21+00:00"
     },
     {
-      "headline": "Democrats Ride Winning Streak, Face Michigan Test",
-      "summary": "Recent victories have boosted left‑leaning Democrats, but retaining working‑class swing voters remains critical. The upcoming Michigan contests will gauge their ability to recapture that demographic.",
+      "headline": "GrapheneOS Adds New Defenses Against Locked‑Device Data Extraction",
+      "summary": "The privacy‑focused Android fork has implemented hardware‑backed safeguards that block forensic tools from pulling data from a locked phone. These measures rely on verified boot and encrypted storage to keep user information sealed when the device is unattended.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "source": "Hacker News",
+      "published": "2026-07-26T05:57:22+00:00"
+    },
+    {
+      "headline": "Police Kill Berlin Pride Attacker After Knife Rush",
+      "summary": "Authorities said Abdul Ballout was fatally shot when he lunged at officers with a knife during the Pride march in Berlin’s western district. The incident follows a separate vehicle‑ramming that injured dozens earlier in the day.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-26T03:58:51.895Z"
+      "published": "2026-07-26T19:21:26.870Z"
     },
     {
-      "headline": "Kids Build Robots to Revive Endangered Indigenous Languages",
-      "summary": "A 12‑year‑old in Michigan, guided by a mentor, is creating robots that can speak his native language. The project aims to preserve threatened Native American tongues through technology.",
+      "headline": "Inside the Shadowy Relay Market Fueling LLM Token Resale and Fraud",
+      "summary": "Matt Lenhard’s investigation uncovers a network that aggregates API keys to sell discounted large‑language‑model tokens, primarily operating out of China. The scheme enables resellers to undercut official pricing while exposing users to potential abuse and security risks.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5825798/robot-speaks-endangered-native-american-languages",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-26T19:30:54+00:00"
+    },
+    {
+      "headline": "Berlin Pride Ramming Attack Draws Condemnation from Chancellor",
+      "summary": "A driver plowed a vehicle into a crowd of Pride participants, prompting German Chancellor Friedrich Merz to label the act “heinous.” The assault left many injured and sparked a nationwide debate on public safety at large events.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-26T08:58:50.767Z"
+    },
+    {
+      "headline": "Decker Revives HyperCard‑Style App Building for Modern macOS",
+      "summary": "Decker is a new development environment that lets users create interactive cards and scripts, echoing the classic HyperCard experience on today’s macOS. It targets creators who want rapid prototyping without deep coding expertise.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://beyondloom.com/decker/",
+      "source": "Hacker News",
+      "published": "2026-07-26T18:23:06+00:00"
+    },
+    {
+      "headline": "War‑Displaced Lebanese Turn to Satellite Imagery to Check Home Damage",
+      "summary": "Families forced from southern Lebanon are purchasing high‑resolution satellite photos to see whether their houses survived Israel’s recent incursion. The costly service offers a rare glimpse of property status when on‑the‑ground access is impossible.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/26/g-s1-124672/lebanon-israel-war-homes-satellite",
+      "source": "NPR News",
+      "published": "2026-07-26T06:00:00-04:00"
+    },
+    {
+      "headline": "Women’s ADHD Often Missed, Carrying Unique Health Risks",
+      "summary": "Research shows that ADHD symptoms in females frequently differ from the classic hyperactive presentation, leading to underdiagnosis into adulthood. Untreated ADHD in women is linked to higher rates of anxiety, depression, and other chronic conditions.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
       "source": "NPR News",
       "published": "2026-07-26T05:00:00-04:00"
     },
     {
-      "headline": "ThinkPad T480 Repurposed as a Mobile Phone",
-      "summary": "A blog post details how to convert a ThinkPad T480 into a handheld phone device. The guide walks through hardware tweaks and software setup for a portable workstation.",
+      "headline": "Rising Heat and Smoke Endanger Traditional Summer Activities for Kids",
+      "summary": "Extreme temperatures and wildfire smoke are forcing parents to rethink outdoor plans that once defined the school break. Experts warn that climate‑driven disruptions could reshape how families spend summer in the coming decades.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/26/nx-s1-5900911/wildfire-smoke-fires-camp-minnesota",
+      "source": "NPR News",
+      "published": "2026-07-26T05:00:00-04:00"
+    },
+    {
+      "headline": "Turning a ThinkPad T480 into a Mobile Phone",
+      "summary": "A DIY guide shows how to repurpose a ThinkPad T480 as a handheld phone by combining its built‑in LTE modem with custom software. The project demonstrates the flexibility of modern laptops for unconventional uses.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://grego.site/blog/thinkphone",
@@ -219,26 +192,44 @@
       "published": "2026-07-26T16:56:06+00:00"
     },
     {
-      "headline": "Biden Declines Appeal Over Release of Ghostwriter Recordings",
-      "summary": "The Justice Department is set to publish tapes of conversations between President Biden and his memoir collaborator. Biden chose not to challenge the court ruling permitting their disclosure.",
+      "headline": "Berlin Pride Attack Suspect Confirmed Dead, Police Say",
+      "summary": "German authorities have confirmed that the 21‑year‑old suspect in the Berlin Pride vehicle attack is dead. Interior Minister Alexander Dobrindt labeled the incident a likely Islamic terror attack, identifying the suspect as Abdul Ballout, a German‑born man of Lebanese descent.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/25/nx-s1-5906749/biden-ghostwriter-tapes-justice-department-trump-debate",
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907997/germany-lgbtq-event-dead-injured-pride",
       "source": "NPR News",
-      "published": "2026-07-25T15:36:18-04:00"
+      "published": "2026-07-25T21:10:56-04:00"
     },
     {
-      "headline": "Design: The Art of Compromise",
-      "summary": "An essay argues that effective design balances competing priorities rather than seeking perfection. It emphasizes trade‑offs as essential to creating functional products.",
+      "headline": "Wildfires Displace Over 300,000 Across France and Spain",
+      "summary": "Massive fires forced the evacuation of roughly 50,000 residents in France and triggered a broader displacement of more than 300,000 people in the region. At least one fatality has been reported in Spain as authorities battle the blazes.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/25/nx-s1-5907963/wildfires-spain-france-evacuations",
+      "source": "NPR News",
+      "published": "2026-07-25T21:05:45-04:00"
+    },
+    {
+      "headline": "Inside the Token Relay Market Fueling Crypto Fraud",
+      "summary": "An investigative piece uncovers how a relay ecosystem enables token resellers to skim profits and facilitate scams. The article details the mechanics, participants, and regulatory challenges of this opaque market.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://stephango.com/design-is-compromise",
+      "url": "https://vectoral.com/blog/token-relay-market",
       "source": "Hacker News",
-      "published": "2026-07-26T15:51:12+00:00"
+      "published": "2026-06-28T00:00:00.000Z"
     },
     {
-      "headline": "Reverse Minesweeper Game Launches on Show HN",
-      "summary": "A new web game flips classic Minesweeper by having players uncover safe tiles instead of mines. The project invites players to experience the puzzle from an opposite perspective.",
+      "headline": "Footage from Berlin Pride Attack Scene as Manhunt Persists",
+      "summary": "Video from the crime scene shows police cordoning off the area after the vehicle attack during Berlin's Pride parade. While a 21‑year‑old suspect has been identified, he remains at large.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-26T08:14:55+00:00"
+    },
+    {
+      "headline": "Show HN: Reverse Minesweeper – A New Puzzle Twist",
+      "summary": "A developer released Reverse Minesweeper, a web game where players place mines instead of avoiding them. The twist challenges traditional logic and offers a fresh take on the classic puzzle genre.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://sunflowersgame.com/",
@@ -246,17 +237,35 @@
       "published": "2026-07-26T12:51:03+00:00"
     },
     {
-      "headline": "Htmx 4.0 Debuts Solely on Game Boy",
-      "summary": "The latest version of the htmx JavaScript library is being distributed exclusively for the Nintendo Game Boy platform. This quirky release highlights the library’s playful approach to web development.",
+      "headline": "Go Analysis Framework Enables Modular Static Analysis",
+      "summary": "The Go team launched a new analysis framework that lets developers build and combine static analysis tools easily. Its modular design aims to streamline code inspection across Go projects.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
       "source": "Hacker News",
-      "published": "2026-07-26T12:00:11+00:00"
+      "published": "2026-07-26T12:21:26+00:00"
     },
     {
-      "headline": "Alex Eala’s Wimbledon Surge Sparks Tennis Craze in Philippines",
-      "summary": "The Filipino teen’s breakthrough at Wimbledon has ignited widespread interest in tennis across the nation. Once seen as elite, the sport is now gaining popularity among everyday Filipinos.",
+      "headline": "Kill The Cookie Banner – EU Tool to Block Consent Pop‑ups",
+      "summary": "Kill The Cookie Banner is an open‑source initiative that automatically hides intrusive cookie consent notices across European websites. The project seeks to improve user experience while respecting privacy regulations.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://killthecookiebanner.eu/",
+      "source": "Hacker News",
+      "published": "2026-07-26T11:53:17+00:00"
+    },
+    {
+      "headline": "Works & Wonders July 26 Edition Highlights Music and Devotion",
+      "summary": "The latest Works & Wonders newsletter features tracks like \"Sounds of the Forest\" and a devotional piece to start the Lord's Day. It also references previous editions from May and April.",
+      "category": "Faith",
+      "relevance": 5,
+      "url": "https://www.challies.com/articles/works-wonders-july-26/",
+      "source": "Challies",
+      "published": "2026-07-26T04:01:00+00:00"
+    },
+    {
+      "headline": "Alex Eala’s Wimbledon Run Sparks Tennis Boom in the Philippines",
+      "summary": "Filipino teen Alex Eala’s impressive performance at Wimbledon has ignited widespread interest in tennis across the country. The sport, once seen as elite, is now gaining traction among everyday Filipinos.",
       "category": "Sports",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c3v0lyrndn7o?at_medium=RSS&at_campaign=rss",
@@ -264,17 +273,8 @@
       "published": "2026-07-25T22:15:14.245Z"
     },
     {
-      "headline": "Female ADHD Often Overlooked, Carries Distinct Health Risks",
-      "summary": "Historically viewed as a boys’ childhood disorder, ADHD manifests differently in women and often goes undiagnosed until adulthood. New research highlights the unique challenges and health implications for females.",
-      "category": "Other",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/26/nx-s1-5821101/adhd-women-health-diagnosis-missed-treatment",
-      "source": "NPR News",
-      "published": "2026-07-26T05:00:00-04:00"
-    },
-    {
-      "headline": "Practical Tips to Block Unwanted Bots",
-      "summary": "A short guide walks readers through simple techniques for filtering out low‑quality web crawlers, from adjusting robots.txt to using JavaScript challenges. Implementing these steps can reduce server load and improve site analytics.",
+      "headline": "Cutting Through the Noise: Simple Ways to Block Bad Bots",
+      "summary": "The guide walks through practical techniques—like CAPTCHAs, rate limiting, and user‑agent filtering—to keep unwanted bots at bay. It also highlights trade‑offs between security and user experience when implementing these measures.",
       "category": "Tech/AI",
       "relevance": 5,
       "url": "https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/",
@@ -282,17 +282,44 @@
       "published": "2026-07-26T18:32:46+00:00"
     },
     {
-      "headline": "Ruby Maintainers Wanted for Open‑Source Collaboration",
-      "summary": "A forum post invites Ruby developers who maintain open‑source projects to share their needs and coordinate contributions. The goal is to build a supportive network that streamlines bug fixes and feature development.",
-      "category": "Tech/AI",
+      "headline": "Wildfire Near Bordeaux Forces Tens of Thousands to Flee",
+      "summary": "Firefighters are battling a fast‑moving blaze near Bordeaux, prompting the evacuation of tens of thousands of residents. The incident is part of a broader fire emergency that has displaced over 330,000 people across France and Spain.",
+      "category": "World",
       "relevance": 5,
-      "url": "https://www.rubyforum.org/t/calling-all-open-source-maintainers-working-with-ruby/553",
-      "source": "Hacker News",
-      "published": "2026-07-20T13:56:45+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-26T07:21:11.088Z"
     },
     {
-      "headline": "Pogačar Claims Fifth Tour de France Amid Wildfire‑Driven Stage Cut",
-      "summary": "Slovenian rider Tadej Pogačar secured his fifth overall victory as organizers trimmed the final stage for security reasons. Police were redirected to combat wildfires in southwest France, prompting the route change.",
+      "headline": "French Firefighters Confront Rare Pyrocumulonimbus Storm",
+      "summary": "While suppressing wildfires in southwestern France, crews encountered a pyrocumulonimbus, a towering fire‑generated thunderstorm. The sudden lightning and gusty winds from the cloud complicated containment efforts and marked a first for French firefighters.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
+      "source": "Hacker News",
+      "published": "2026-07-26T17:49:44+00:00"
+    },
+    {
+      "headline": "Design Is Always a Trade‑off, Not a Perfection",
+      "summary": "The essay argues that every design decision balances competing constraints, making compromise inevitable. Effective designers identify the optimal middle ground to deliver functional and aesthetically pleasing solutions.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://stephango.com/design-is-compromise",
+      "source": "Hacker News",
+      "published": "2026-07-26T15:51:12+00:00"
+    },
+    {
+      "headline": "htmx 4.0 Goes Retro, Launches Exclusively on Game Boy",
+      "summary": "htmx 4.0 has been released as a JavaScript library that runs solely on the original Game Boy, turning the handheld into a quirky web‑development platform. The stunt underscores the library’s minimal footprint and the community’s playful spirit.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "source": "Hacker News",
+      "published": "2026-07-26T12:00:11+00:00"
+    },
+    {
+      "headline": "Pogačar Wins Fifth Tour de France as Wildfire Response Trims Final Stage",
+      "summary": "Slovenian rider Tadej Pogačar secured his fifth Tour de France victory, edging out rivals in a shortened final stage. Police and security forces were redeployed to fight wildfires in southwest France, forcing organizers to cut the stage length.",
       "category": "Sports",
       "relevance": 4,
       "url": "https://www.npr.org/2026/07/26/nx-s1-5908503/tadej-pogacar-tour-de-france-2026-winner-wildfires",
@@ -300,44 +327,35 @@
       "published": "2026-07-26T14:13:30-04:00"
     },
     {
-      "headline": "New Bell Prison Launches In‑House Record Label",
-      "summary": "Inmates at Cameroon’s notorious New Bell jail have formed a makeshift music label, producing songs and videos from within the facility. The initiative has turned prisoners into local celebrities and sparked debate over rehabilitation through art.",
-      "category": "Other",
+      "headline": "Ruff 0.16.0 Rolls Out New Checks, Breaking Some CI Pipelines",
+      "summary": "Ruff version 0.16.0 introduced new default linting rules that caused several continuous‑integration jobs to fail. The update highlights the tool’s rapid development pace and the importance of pinning dependencies in CI pipelines.",
+      "category": "Tech/AI",
       "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-26T00:24:30.436Z"
+      "url": "https://simonwillison.net/2026/Jul/25/ruff/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-25T22:44:05+00:00"
     },
     {
-      "headline": "Italian Kids Among Europe’s Heaviest Despite Mediterranean Diet",
-      "summary": "A WHO report reveals that Italy’s youth have some of the highest obesity rates on the continent, contradicting the nation’s famed healthy eating reputation. Researchers point to increased consumption of processed foods and sedentary lifestyles as key factors.",
-      "category": "Other",
+      "headline": "Progressive Democrats Ride Winning Streak, Yet Swing Voters Remain Elusive",
+      "summary": "Left‑leaning Democrats have enjoyed a recent string of electoral wins, but their appeal to working‑class swing voters remains uncertain. The upcoming Michigan race will test whether their progressive platform can attract those crucial voters.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/articles/c5y3rrd32jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-26T03:58:51.895Z"
+    },
+    {
+      "headline": "Italian Kids Overweight Despite Mediterranean Roots, WHO Warns",
+      "summary": "New WHO data shows Italian children are among the most overweight in Europe, despite the country’s famed Mediterranean diet. Increased consumption of pizza, pasta, and processed carbs is driving the rise in childhood obesity.",
+      "category": "World",
       "relevance": 4,
       "url": "https://www.bbc.co.uk/news/articles/c33y3151vydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-25T23:30:07.845Z"
     },
     {
-      "headline": "Kill the Cookie Banner Campaign Targets Consent Fatigue",
-      "summary": "An EU‑based initiative urges regulators and websites to eliminate intrusive cookie consent pop‑ups that disrupt user experience. The project advocates for streamlined privacy practices that respect both compliance and usability.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://killthecookiebanner.eu/",
-      "source": "Hacker News",
-      "published": "2026-07-26T11:53:17+00:00"
-    },
-    {
-      "headline": "Scientists Warn of Record‑Breaking El Niño Event",
-      "summary": "Climate researchers have identified the current El Niño as the strongest on record, with unprecedented sea‑surface temperature spikes. The anomaly is expected to intensify global weather extremes, from droughts to heavy rains.",
-      "category": "Other",
-      "relevance": 3,
-      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
-      "source": "Hacker News",
-      "published": "2026-07-13T15:01:58+00:00"
-    },
-    {
-      "headline": "Guide to Crafting Clear English Prose",
-      "summary": "An article outlines practical strategies for improving English writing, emphasizing clarity, structure, and active voice. It offers exercises and examples to help writers refine their style and avoid common pitfalls.",
+      "headline": "Practical Tips for Writing Clear, Compelling English Prose",
+      "summary": "The piece offers concrete advice for writing clear English prose, emphasizing active voice, concise sentences, and logical flow. It provides actionable steps that writers can apply immediately to improve readability and impact.",
       "category": "Other",
       "relevance": 3,
       "url": "https://thelampmagazine.com/blog/how-to-write-english-prose",
@@ -345,26 +363,17 @@
       "published": "2023-01-12T00:00:00-05:00"
     },
     {
-      "headline": "Inside the Growing Token Reseller Ecosystem",
-      "summary": "A deep‑dive examines how secondary markets for crypto tokens operate, highlighting arbitrage opportunities and regulatory gray zones. The piece warns participants of liquidity risks and potential scams.",
-      "category": "Other",
+      "headline": "The Strongest El Niño Ever",
+      "summary": "",
+      "category": "World",
       "relevance": 3,
-      "url": "https://vectoral.com/blog/token-relay-market",
+      "url": "https://www.theclimatebrink.com/p/the-strongest-el-nino-ever",
       "source": "Hacker News",
-      "published": "2026-06-28T00:00:00.000Z"
+      "published": "2026-07-13T15:01:58+00:00"
     },
     {
-      "headline": "Show HN: The Occult Gatsby – Annotated Classic with Esoteric Insights",
-      "summary": "Developer Jon Woodson releases an interactive web edition of The Great Gatsby that flags references to mysticism, alchemy, and Kabbalah. The project aims to make literary analysis accessible by linking passages to occult concepts.",
-      "category": "Other",
-      "relevance": 2,
-      "url": "https://occultgatsby.work",
-      "source": "Hacker News",
-      "published": "2026-07-26T18:38:11+00:00"
-    },
-    {
-      "headline": "Public Media Reinvents Itself After Federal Funding Cut",
-      "summary": "One year after the Trump administration ended six decades of federal support, public TV and radio stations are scrambling to stay afloat. They are turning to new revenue models, digital innovation, and cost‑cutting measures while grappling with uncertainty.",
+      "headline": "Public Media Reinvents Itself After Federal Funding Ends",
+      "summary": "One year after the Trump administration eliminated decades‑long federal support, public radio and TV stations are scrambling to innovate and cut costs. While new revenue models spark creativity, many outlets remain uneasy about long‑term sustainability.",
       "category": "Other",
       "relevance": 2,
       "url": "https://www.npr.org/2026/07/26/nx-s1-5884022/pbs-npr-public-radio-tv-funding-trump",
@@ -372,26 +381,26 @@
       "published": "2026-07-26T06:00:00-04:00"
     },
     {
-      "headline": "Beyond Loom Introduces ‘Decker’ – A Fresh Indie Deck‑Builder",
-      "summary": "The article spotlights Decker, an indie title that blends rogue‑like exploration with strategic deck‑building mechanics. It emphasizes the game’s procedurally generated levels, deep tactical choices, and an upcoming release schedule.",
+      "headline": "New Bell Prison Launches In‑House Record Label, Turns Inmates into Musicians",
+      "summary": "In Cameroon's notorious New Bell jail, a self‑run label lets prisoners record songs and videos from their cells. The program aims to rehabilitate inmates and generate income, though critics question its impact on justice.",
       "category": "Other",
       "relevance": 2,
-      "url": "https://beyondloom.com/decker/",
-      "source": "Hacker News",
-      "published": "2026-07-26T18:23:06+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/czxqlkrlj7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-26T00:24:30.436Z"
     },
     {
-      "headline": "Flatiron Luxury: $58.5 Million Price Tag for Iconic NYC Residence",
-      "summary": "After a multi‑year overhaul, the historic Flatiron building is being marketed as ultra‑luxury condos, with the top unit listed at $58.5 million. The redevelopment preserves the landmark’s façade while delivering modern amenities aimed at the ultra‑wealthy.",
+      "headline": "Flatiron Icon Fetches $58.5 Million in Luxury Redevelopment Deal",
+      "summary": "After a multi‑year renovation, the historic Flatiron Building is poised for a high‑end residential conversion priced at $58.5 million. Buyers will pay a premium for its landmark status and ultra‑modern amenities.",
       "category": "Other",
-      "relevance": 2,
+      "relevance": 1,
       "url": "https://www.bbc.co.uk/news/articles/c20e5r1pvvdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-26T00:05:03.498Z"
     },
     {
-      "headline": "Love Island Mirrors Britain’s Evolving Dating Landscape",
-      "summary": "Recent seasons show women initiating hookups more often and contestants embracing fluid relationship expectations. The show’s format highlights broader cultural shifts toward gender‑balanced courtship and non‑traditional romance.",
+      "headline": "Love Island Mirrors Britain’s Shift Toward More Progressive Dating Norms",
+      "summary": "The reality show now showcases women initiating romance and a broader spectrum of relationship styles. Analysts say the series reflects a cultural move away from traditional courtship toward more fluid, egalitarian connections.",
       "category": "Other",
       "relevance": 1,
       "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
