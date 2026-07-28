@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-28T04:21:30.450502+00:00",
+  "generated_at": "2026-07-28T07:22:10.202729+00:00",
   "story_count": 50,
   "stories": [
     {
       "headline": "Rethinking Singleness in the Church",
-      "summary": "The church's approach to singleness requires a strong biblical foundation and practical application to support singles as essential members. By embracing singles, churches can foster a sense of community and belonging among all members, regardless of marital status.",
+      "summary": "The way churches approach singleness requires a thoughtful and biblical approach, recognizing the value of single members in the community. A new resource aims to support singles and encourage churches to embrace them as essential members.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.challies.com/sponsored/singleness-in-the-family-of-god-a-biblical-vision/",
@@ -12,8 +12,17 @@
       "published": "2026-07-27T16:01:00+00:00"
     },
     {
-      "headline": "Navigating the Evolving AI Landscape",
-      "summary": "The AI landscape is rapidly evolving, with new models and technologies emerging regularly, making it challenging to determine which AI to use for specific tasks. A guide to AI options can help individuals and organizations make informed decisions about which AI to use for various applications.",
+      "headline": "Modular Laptop Revolution",
+      "summary": "A new modular laptop has impressed tech reviewers with its innovative design, offering a customizable and upgradeable solution for Linux users. The Framework 13 Pro laptop promises to change the way we think about laptop design and functionality.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "source": "MKBHD",
+      "published": "2026-07-27T15:38:21+00:00"
+    },
+    {
+      "headline": "AI Guide for Beginners",
+      "summary": "A comprehensive guide helps users navigate the complex world of AI, providing an opinionated overview of the best AI models to use for various tasks. From chatbots to research tools, the guide offers a valuable resource for those looking to get started with AI.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
@@ -21,8 +30,8 @@
       "published": "2026-07-27T21:55:53+00:00"
     },
     {
-      "headline": "Fine-Tuned AI Model Achieves Breakthrough",
-      "summary": "A $500 fine-tune of a 9B open model has surpassed frontier models in catalog review, demonstrating the potential of fine-tuning for achieving state-of-the-art results. This breakthrough has significant implications for the development of more accurate and efficient AI models.",
+      "headline": "AI Model Achieves Breakthrough",
+      "summary": "A fine-tuned AI model has achieved a major breakthrough, outperforming state-of-the-art models in a catalog review task. The $500 model, built on a 9B open model, demonstrates the potential for affordable and effective AI solutions.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://fermisense.com/when-machines-take-the-wheel/",
@@ -30,17 +39,44 @@
       "published": "2026-07-28T02:18:53+00:00"
     },
     {
-      "headline": "Moonshot AI Releases Kimi K3 Weights",
-      "summary": "Moonshot AI has released the weights for its 2.8 trillion parameter Kimi K3 model, making it available for use on the Hugging Face platform. The release of the Kimi K3 weights is expected to facilitate further research and development in the field of AI.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-27T23:39:04+00:00"
+      "headline": "Seattle Mass Shooting and US-Iran Conflict",
+      "summary": "A mass shooting in Seattle has left three people dead, while the US and Iran have paused fighting after nearly two weeks of intense conflict. The situation remains volatile, with diplomatic efforts underway to resolve the crisis.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
+      "source": "NPR News",
+      "published": "2026-07-27T07:45:56-04:00"
     },
     {
-      "headline": "Rock Band Releases Seventh Album",
-      "summary": "The rock band's seventh album is a unique blend of doomy and strange sounds, featuring Auto-Tuned vocals and incisive lyrics. The album showcases the band's ability to experiment with different styles and create a distinctive sound.",
+      "headline": "US Military Casualties Mount",
+      "summary": "Over 600 US military service members have been injured since the start of the Iran War in February, with casualties including those from Operation Fury and overseas operations. The latest figures highlight the human cost of the ongoing conflict.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T13:31:57.380Z"
+    },
+    {
+      "headline": "Benchmarking AI Performance",
+      "summary": "A new benchmarking study evaluates the performance of Opus 5 on the SlopCodeBench platform, providing valuable insights into the capabilities of the AI model. The results offer a useful comparison for developers and researchers working with AI.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "source": "Hacker News",
+      "published": "2026-07-27T22:37:52+00:00"
+    },
+    {
+      "headline": "Open-Source Voice Dictation for macOS",
+      "summary": "A new open-source project, Yap, offers a menu-bar app for macOS that provides on-device voice dictation without requiring a model download. The app promises to deliver fast and accurate voice-to-text functionality for users.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/FrigadeHQ/yap",
+      "source": "Hacker News",
+      "published": "2026-07-27T18:36:02+00:00"
+    },
+    {
+      "headline": "New Album from Rock Band",
+      "summary": "The rock band's seventh album, Reality Awaits, features Auto-Tuned vocals and incisive lyrics, creating a doomy and strange sound. The album is a fully realized concept that showcases the band's unique style and creativity.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/the-strokes-reality-awaits/",
@@ -48,8 +84,8 @@
       "published": "2026-07-28T04:03:00+00:00"
     },
     {
-      "headline": "Singer Releases Third Solo Album",
-      "summary": "The singer and producer's third solo album is a reflection on self-knowledge and personal growth, featuring lush arrangements and a sense of ease. The album is a testament to the singer's ability to craft meaningful and introspective music.",
+      "headline": "Singer's Third Solo Album",
+      "summary": "The singer and producer's third solo album, Beard, is a thoughtful and introspective work that explores themes of self-knowledge and personal growth. The album features lush arrangements and a sense of ease, showcasing the artist's skill and craftsmanship.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/syd-beard/",
@@ -57,35 +93,44 @@
       "published": "2026-07-28T04:02:00+00:00"
     },
     {
-      "headline": "Fugitive Convicted of Singer's Murder Caught",
-      "summary": "Chilean authorities have captured a fugitive convicted of the murder of folk singer Victor Jara, who was kidnapped and killed after the country's military coup in 1973. The capture is a significant development in the case, which has been a source of outrage and sadness for many years.",
+      "headline": "France and Spain Battle Raging Wildfires",
+      "summary": "Wildfires are sweeping through France and Spain, with French President Emmanuel Macron declaring the situation as the country's worst fire-related crisis since World War II. Fire crews are racing against time to contain the blazes before the next heat wave hits.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T15:49:45.039Z"
+      "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
+      "source": "NPR News",
+      "published": "2026-07-28T02:25:18-04:00"
     },
     {
-      "headline": "US Military Casualties Mount in Iran Conflict",
-      "summary": "More than 600 US military service members have been injured since the conflict with Iran began in February, with casualties resulting from various operations. The growing number of casualties highlights the human cost of the conflict and the need for a resolution.",
+      "headline": "Moonshot AI Releases Kimi K3 Model Weights",
+      "summary": "Moonshot AI has released the weights for its Kimi K3 model, a 2.8 trillion parameter AI model that is available on Hugging Face. The model weights are a significant release, with a hefty size of 1.56TB, and come with a modified version of the MIT license.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-27T23:39:04+00:00"
+    },
+    {
+      "headline": "Neutrino-1 8B AI Model Unveiled",
+      "summary": "The Neutrino-1 8B AI model has been released, with details available on the Fermion Research website. The model is part of a growing trend of large language models being developed and released to the public.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.fermionresearch.com/models/neutrino-8b/",
+      "source": "Hacker News",
+      "published": "2026-07-28T04:49:54+00:00"
+    },
+    {
+      "headline": "Trump Claims Iran War Talks Are Underway",
+      "summary": "US President Trump has stated that talks are taking place with Iran regarding a potential war, despite Iran denying that direct talks are happening. The situation is complex, with Trump suggesting that a resolution may be possible, but Iran maintaining that no direct discussions are occurring.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-27T13:31:57.380Z"
+      "published": "2026-07-27T21:10:56.855Z"
     },
     {
-      "headline": "Oil Prices Plummet as US and Iran Pause Attacks",
-      "summary": "The US has halted attacks on Iran to allow for diplomatic talks, leading to a significant decrease in oil prices and raising hopes for a peaceful resolution to the conflict. The pause in hostilities is a positive development, but the situation remains volatile and uncertain.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T10:43:02.069Z"
-    },
-    {
-      "headline": "Singer Releases Fifth Album",
-      "summary": "The singer's fifth album is a introspective and emotional work, featuring subdued indie pop sounds and allusions to intense feelings. The album is a reflection on the singer's personal experiences, including heartbreak and a cross-country move, and showcases her ability to craft meaningful and relatable music.",
+      "headline": "Jilian Medford Releases Fifth Album, Shiverstruck",
+      "summary": "Singer-songwriter Jilian Medford has released her fifth album, Shiverstruck, which explores themes of heartbreak and inertia. The album features Medford's signature indie pop sound, with subtle allusions to intense emotions throughout.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/ian-sweet-shiverstruck/",
@@ -93,17 +138,8 @@
       "published": "2026-07-28T04:01:00+00:00"
     },
     {
-      "headline": "Authors Split on $1.5B AI Copyright Ruling",
-      "summary": "A recent $1.5 billion copyright infringement ruling has left authors with mixed feelings, as some view the $3,100 per title payout as insufficient compensation for ongoing threats from AI model makers. The ruling highlights the growing concerns of authors in the face of generative AI's increasing presence.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
-      "source": "NPR News",
-      "published": "2026-07-27T16:49:57-04:00"
-    },
-    {
       "headline": "Argentinian Producer Pays Tribute to Hometown",
-      "summary": "The Argentinian producer has released a new collection of electronic sketches that incorporate field recordings from his daily walks, paying tribute to his Patagonian lakeside hometown. The delicate and sometimes twee tracks showcase the charms of his hometown through a unique blend of sounds.",
+      "summary": "An Argentinian producer has released an album that pays tribute to his Patagonian lakeside hometown, incorporating field recordings from his daily walks into delicate electronic sketches. The result is a charming and intimate album that captures the beauty of his hometown.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/lumtz-tesoros/",
@@ -111,8 +147,8 @@
       "published": "2026-07-28T04:00:00+00:00"
     },
     {
-      "headline": "China Grapples with Fake AI Videos Amid Natural Disasters",
-      "summary": "China is facing a new challenge as fake AI-generated videos spread on social media, taking advantage of recent natural disasters such as storms and flooding incidents. The fake videos have become a significant concern, making it difficult for people to distinguish between real and fabricated information.",
+      "headline": "China Grapples with Fake AI-Generated Disaster Videos",
+      "summary": "China is facing a new challenge in the wake of natural disasters, as fake AI-generated videos of the incidents are spreading rapidly on social media. The fake videos are causing confusion and concern among the public, and authorities are working to combat the spread of misinformation.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
@@ -120,62 +156,170 @@
       "published": "2026-07-27T22:07:23.158Z"
     },
     {
-      "headline": "Benchmarking Opus 5 on SlopCodeBench Reveals Key Insights",
-      "summary": "A recent benchmarking test of Opus 5 on SlopCodeBench has provided valuable insights into the performance of the coding agent. The test results, available on GitHub, have sparked a discussion among developers, with 41 comments and 182 points on Hacker News.",
+      "headline": "Open AI Models Gain Popularity",
+      "summary": "The use of open AI models is becoming increasingly popular, with many users reporting positive experiences with the technology. Open AI models offer a range of benefits, including flexibility and customizability, making them an attractive option for those looking to integrate AI into their workflows.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
-      "source": "Hacker News",
-      "published": "2026-07-27T22:37:52+00:00"
-    },
-    {
-      "headline": "Introducing Yap: Open-Source Voice Dictation for macOS",
-      "summary": "A new open-source project called Yap offers on-device voice dictation for macOS, allowing users to convert speech to text without downloading any models. The small menu-bar app is a convenient tool for anyone looking for a local voice-to-text solution.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/FrigadeHQ/yap",
-      "source": "Hacker News",
-      "published": "2026-07-27T18:36:02+00:00"
-    },
-    {
-      "headline": "The Surprising Benefits of Using Open Models",
-      "summary": "Using open models can have unexpected advantages, as one developer has discovered. The experience of working with open models has been surprisingly good, offering a sense of freedom and flexibility that is not always found with proprietary models.",
-      "category": "Tech/AI",
-      "relevance": 7,
       "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
       "source": "Hacker News",
       "published": "2026-07-28T02:37:14+00:00"
     },
     {
-      "headline": "Residential Proxies Pose National Security Threat",
-      "summary": "Residential proxies have been identified as a potential national security threat due to their ability to disguise malicious activity. The use of residential proxies can have serious consequences, making it essential to address this issue and prevent potential threats.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://jacob.gold/posts/residential-proxies-are-a-national-security-threat/",
-      "source": "Hacker News",
-      "published": "2026-07-22T12:45:37-07:00"
+      "headline": "Ukraine Dismisses Iranian Threats Amid Caspian Sea Tensions",
+      "summary": "Ukraine has dismissed threats from Iran following a strike on an Iranian vessel in the Caspian Sea, which has escalated tensions between the two countries. The incident has sparked a furious response from Iran, with the country's foreign minister warning that the attack \"cannot go unanswered\".",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T16:33:05.361Z"
     },
     {
-      "headline": "Memphis 'Anti-Crime' Task Force Targets Immigrants",
-      "summary": "A task force in Memphis, initially aimed at reducing crime, has shifted its focus to targeting immigrants, leading to widespread arrests. The majority of those arrested had no criminal convictions, raising concerns about the task force's actions and the potential for similar crackdowns elsewhere.",
+      "headline": "France and Spain Make Progress in Fighting Devastating Wildfires",
+      "summary": "France and Spain are continuing to battle devastating wildfires, with progress being made in Spain where two major fires are finally coming under control. In France, a wildfire in the region of Gironde remains active, and fire crews are racing against time to contain the blaze before the next heat wave hits.",
       "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5896284/national-guard-memphis-immigration-task-force",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
+      "source": "NPR News",
+      "published": "2026-07-27T06:50:09-04:00"
+    },
+    {
+      "headline": "Baltimore Redefines 911 to Prioritize Social Services Over Police",
+      "summary": "Baltimore is overhauling its 911 system so that calls not requiring police are routed to social‑service and health resources. The change aims to intervene early and prevent crises before they escalate.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
       "source": "NPR News",
       "published": "2026-07-27T05:00:00-04:00"
     },
     {
-      "headline": "Anthropic Weighs in on Open-Weights Models",
-      "summary": "Anthropic has released a statement on its position regarding open-weights models, sparking a lively discussion among developers. The company's stance has garnered significant attention, with 587 points and 822 comments on Hacker News.",
+      "headline": "DConf 2026 Set for London",
+      "summary": "The upcoming DConf 2026 conference will be hosted in London, gathering developers and tech enthusiasts. Event details and registration are available on the official website.",
       "category": "Tech/AI",
-      "relevance": 7,
+      "relevance": 8,
+      "url": "https://dconf.org/2026/index.html",
+      "source": "Hacker News",
+      "published": "2026-07-27T23:14:19+00:00"
+    },
+    {
+      "headline": "Telnyx Adds Moonshot’s Kimi K3 Model to Its Inference API",
+      "summary": "Moonshot AI’s open‑weight Kimi K3 model is now hosted on Telnyx’s GPU‑powered inference service. Developers can access the model via Telnyx’s API for low‑latency AI tasks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "source": "Hacker News",
+      "published": "2026-07-28T00:00:00.000Z"
+    },
+    {
+      "headline": "Anthropic Publishes Stance on Open‑Weight AI Models",
+      "summary": "Anthropic released a position paper outlining concerns and guidelines for open‑weight large language models. The company warns that unrestricted access could create safety and misuse risks.",
+      "category": "Tech/AI",
+      "relevance": 8,
       "url": "https://www.anthropic.com/news/position-open-weights-models",
       "source": "Hacker News",
       "published": "2026-07-27T22:03:49+00:00"
     },
     {
-      "headline": "US Arsenal Depleted Amid Ongoing Conflict with Iran",
-      "summary": "The US has fired thousands of missiles during its conflict with Iran, raising concerns about the depletion of its arsenal. As the war continues, questions arise about the US's ability to replenish its stockpile and maintain its military capabilities.",
+      "headline": "Oil Prices Plunge After US‑Iran Hostilities Pause",
+      "summary": "Crude prices fell sharply after the United States announced a halt to its attacks on Iran to allow diplomatic talks. The de‑escalation raised market hopes for a broader resolution to the conflict.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T10:43:02.069Z"
+    },
+    {
+      "headline": "New Standalone Python Builds Offer Portable, No‑Dependency Execution",
+      "summary": "Gregory Szorc’s project provides self‑contained Python binaries that run without external libraries or a system Python installation. The builds aim to simplify deployment across diverse environments.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "source": "Hacker News",
+      "published": "2026-07-27T18:43:31+00:00"
+    },
+    {
+      "headline": "Zelensky and Netanyahu to Meet White House Amid Senator Graham’s Funeral",
+      "summary": "Ukrainian President Volodymyr Zelensky and Israeli Prime Minister Benjamin Netanyahu will travel to Washington for separate White House meetings. Their visits coincide with the funeral of Republican Senator Lindsay Graham, who is hosting both leaders.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T00:30:11+00:00"
+    },
+    {
+      "headline": "Ecuadorian Police Battle Surging Drug Gangs and Corruption",
+      "summary": "A BBC report follows Ecuador’s police as they confront a dramatic rise in drug‑related crime, armed gangs, and endemic corruption. Officers are stretched thin while trying to restore order in the nation’s drug war.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T05:01:19.242Z"
+    },
+    {
+      "headline": "PyTorch Introduces ‘Reference Language’ for Compiler Development",
+      "summary": "The PyTorch team announced a new reference language designed to aid compiler research and optimization within the framework. The initiative aims to standardize low‑level representations and accelerate performance improvements.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
+      "source": "Hacker News",
+      "published": "2026-07-28T04:46:00+00:00"
+    },
+    {
+      "headline": "Authors React Mixed to $1.5 B Anthropic Copyright Verdict",
+      "summary": "A federal jury awarded $3,100 per copyrighted work in a lawsuit against Anthropic, sparking varied responses from writers. While some view the sum as modest, many worry it signals a broader threat from generative‑AI developers.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5904606/anthropic-vs-bartz-ai-copyright-lawsuit-pros-cons",
+      "source": "NPR News",
+      "published": "2026-07-27T16:49:57-04:00"
+    },
+    {
+      "headline": "Gen Z Forces South Asia’s Elite to Face Demographic Reality",
+      "summary": "Young voters across India, Pakistan and neighboring nations are no longer content with rhetoric about a demographic dividend. Their activism and voting power are reshaping policies and challenging entrenched power structures.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
+      "source": "NPR News",
+      "published": "2026-07-27T12:54:28-04:00"
+    },
+    {
+      "headline": "Second Shooting Targets U.S. Consulate in Toronto, Suspect Still Fleeing",
+      "summary": "Police pursued a vehicle after gunfire struck the consulate but failed to capture the shooter, who remains at large. The incident follows a June attack that led to three arrests, raising security concerns for diplomatic sites.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T16:56:57.716Z"
+    },
+    {
+      "headline": "Outcry Over Berlin Pride Attacker’s Early Release Sparks Prison System Scrutiny",
+      "summary": "Details show the suspect behind the recent Berlin Pride assault was released weeks before the attack, prompting public fury. Critics demand answers on how the offender avoided incarceration despite prior convictions.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T12:33:31.111Z"
+    },
+    {
+      "headline": "Zig Ecosystem Expands with New C/C++ Project Packages",
+      "summary": "A GitHub repository now offers pre‑packaged C and C++ libraries ready for integration with the Zig programming language. The move aims to streamline cross‑language development and attract more contributors to Zig’s toolchain.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/allyourcodebase",
+      "source": "Hacker News",
+      "published": "2026-07-27T23:09:50+00:00"
+    },
+    {
+      "headline": "Rise Reforming Unveils Modular Tech to Convert Biogas into Valuable Chemicals",
+      "summary": "The Y Combinator‑backed startup proposes on‑site reactors that transform landfill, farm and wastewater gases into higher‑value chemical products. Their plug‑and‑play design promises to reduce emissions while creating new revenue streams for waste facilities.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.rise-reforming.com",
+      "source": "Hacker News",
+      "published": "2026-07-27T19:58:22+00:00"
+    },
+    {
+      "headline": "U.S. Missile Stockpiles Tested as Conflict with Iran Stalls, Raising Supply Concerns",
+      "summary": "After launching thousands of hard‑to‑replace missiles in the Iran confrontation, the United States now faces scrutiny over dwindling reserves. Analysts debate whether the depletion could limit future strike capabilities or force a strategic shift.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
@@ -183,44 +327,53 @@
       "published": "2026-07-27T21:06:42.907Z"
     },
     {
-      "headline": "Zelensky and Netanyahu to Meet with US Leaders in Washington",
-      "summary": "Ukrainian President Volodymyr Zelensky and Israeli Prime Minister Benjamin Netanyahu are set to visit the White House to discuss ongoing conflicts in their regions. The meetings come as the two leaders attend the funeral of Republican Senator Lindsay Graham in Washington.",
+      "headline": "Massive Wildfires Ravage Bordeaux and Madrid Regions, Maps Show Rapid Spread",
+      "summary": "A fire near Bordeaux has consumed over 420 km² in under four days, while Spain’s Madrid area experiences its most severe blaze on record. Authorities are deploying aerial drops and ground crews, but the scale challenges containment efforts.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-28T00:30:11+00:00"
+      "published": "2026-07-27T14:21:32.389Z"
     },
     {
-      "headline": "Indian Gen Z Protesters Claim Victory with Minister's Resignation",
-      "summary": "The resignation of India's education minister marks a rare defeat for the Modi government, giving hope to young protesters that their voices are being heard. The move follows widespread demonstrations, with many seeing it as a significant step forward for the country's youth-led movement.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T05:59:22.326Z"
+      "headline": "‘A La Carte’ July 28 Issue Highlights Faith, Media Critique, and Tech Detox",
+      "summary": "The latest edition covers topics from protecting sheep against domineering pastors to confronting corporate pressure to lie, plus advice on teenage tech breaks and reflections on feminine faith. It continues the publication’s eclectic mix of cultural and religious commentary.",
+      "category": "Faith",
+      "relevance": 6,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-28-2026/",
+      "source": "Challies",
+      "published": "2026-07-28T04:01:00+00:00"
     },
     {
-      "headline": "Wildfire Threatens French City of Bordeaux, Evacuations Possible",
-      "summary": "A massive wildfire is closing in on the French city of Bordeaux, prompting officials to prepare for potential evacuations. The mayor of a nearby town has described the situation as 'catastrophic' as the fire continues to spread.",
+      "headline": "Rand Paul Publishes Fauci’s Pandemic Diary Entries Ahead of Senate Testimony",
+      "summary": "The senator released a batch of Dr. Anthony Fauci’s personal notes from the COVID‑19 crisis, offering a rare glimpse into internal decision‑making. Fauci is slated to testify before a Senate panel on the virus’s origins later this week.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T17:50:42.366Z"
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
+      "source": "NPR News",
+      "published": "2026-07-27T20:05:31-04:00"
     },
     {
-      "headline": "Trump Hints at Possible Iran War Talks Amid Lull in Fighting",
-      "summary": "US President Donald Trump has suggested that talks with Iran may be underway, despite Tehran's denial of direct negotiations. The comments come as a temporary lull in strikes between the two countries raises hopes for a potential resolution.",
+      "headline": "Token Efficiency Meets Library Design in New Development Paradigm",
+      "summary": "A recent blog post argues that modern software should prioritize compact token usage while leveraging reusable libraries for scalability. The piece highlights how this dual focus can streamline codebases and reduce development overhead.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://golemui.com/blog/the-age-of-token-efficiency/",
+      "source": "Hacker News",
+      "published": "2026-07-28T03:56:08+00:00"
+    },
+    {
+      "headline": "Japanese Town Faces Identity Crisis After Mosque Protest",
+      "summary": "The town, grappling with a growing foreign workforce, saw residents clash over the construction of its first mosque, highlighting tensions between tradition and multicultural integration. Officials say the debate reflects broader national challenges in accommodating new religions.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-27T21:10:56.855Z"
+      "published": "2026-07-27T22:08:21.843Z"
     },
     {
-      "headline": "New Programming Language Aims to Make Coding More Accessible",
-      "summary": "A novel programming language called EYG has been developed with the goal of making coding more intuitive and user-friendly for humans. The language is designed to simplify the coding process, potentially opening up programming to a wider range of people.",
+      "headline": "EYG Promises a Human-Friendly Programming Language",
+      "summary": "The article introduces EYG, a new language designed to read like natural language, aiming to lower barriers for non‑technical users. Early adopters praise its simplicity, though critics question its scalability for complex projects.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/",
@@ -228,71 +381,35 @@
       "published": "2026-07-28T02:21:37+00:00"
     },
     {
-      "headline": "Gen Z Leads Charge Against South Asia's Elite",
-      "summary": "Young people in South Asia are increasingly pushing back against the region's leaders, demanding change and greater representation. The demographic dividend that was once seen as a strength for the region is now becoming a catalyst for political upheaval.",
+      "headline": "Chile Nabs Fugitive Linked to Victor Jara’s 1973 Murder",
+      "summary": "Authorities arrested Nelson Haase, one of the remaining suspects in the kidnapping and killing of folk singer Victor Jara after the Pinochet coup. The capture closes a decades‑long hunt for those responsible for the iconic artist’s death.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5908567/india-cockroach-movement-gen-z-south-asia",
-      "source": "NPR News",
-      "published": "2026-07-27T12:54:28-04:00"
-    },
-    {
-      "headline": "Mass Shooting in Seattle Leaves Three Dead, US-Iran Fighting Pauses",
-      "summary": "A mass shooting at a festival in Seattle has resulted in the deaths of three people, while the US and Iran have temporarily halted their fighting. The pause in hostilities between the two countries comes after nearly two weeks of intense conflict.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
-      "source": "NPR News",
-      "published": "2026-07-27T07:45:56-04:00"
-    },
-    {
-      "headline": "Ukraine Dismisses Iranian Threats Over Caspian Sea Strike",
-      "summary": "Ukraine has downplayed threats from Iran following a strike on a vessel in the Caspian Sea, which has drawn the two countries' conflicts closer together. Iran's foreign minister has vowed that the attack 'cannot go unanswered', escalating tensions between the two nations.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-27T16:33:05.361Z"
+      "published": "2026-07-27T15:49:45.039Z"
     },
     {
-      "headline": "Trylle Launches Next-Gen Git Platform for Modern Teams",
-      "summary": "A new Git platform called Trylle has been unveiled, aiming to provide a more modern and efficient way for teams to collaborate on coding projects. The platform is designed to streamline the development process and improve productivity for developers.",
+      "headline": "Apple Guides iPhone Users on Detecting Vehicle Motion",
+      "summary": "Apple’s support page explains how iPhones sense motion to improve ride comfort, detailing sensor data used for features like auto‑rotation and navigation. The guide helps users understand the technology behind smoother travel experiences.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://trylle.com/home",
+      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
       "source": "Hacker News",
-      "published": "2026-07-27T23:26:15+00:00"
+      "published": "2026-07-28T01:13:26+00:00"
     },
     {
-      "headline": "DConf 2026 Programming Conference to Take Place in London",
-      "summary": "The DConf 2026 programming conference has been announced, with the event set to take place in London. The conference will bring together developers and industry experts to share knowledge and discuss the latest trends in programming.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://dconf.org/2026/index.html",
-      "source": "Hacker News",
-      "published": "2026-07-27T23:14:19+00:00"
-    },
-    {
-      "headline": "Berlin Pride Attacker's Early Release Sparks Outrage",
-      "summary": "The suspect in the Berlin Pride attack was freed from prison just weeks before the incident, prompting widespread anger and questions about the justice system. Many are demanding to know why the individual was not still behind bars, given their past record.",
+      "headline": "Kalshi Calls Wisconsin Election‑Bet Ban Voter Suppression",
+      "summary": "Prediction‑market platform Kalshi sued the state, arguing that prohibiting election‑related contracts disenfranchises bettors and curtails free speech. The case may set a precedent for how states regulate emerging financial‑tech markets.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T12:33:31.111Z"
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5905360/kalshi-wisconsin-election-betting-prediction-markets",
+      "source": "NPR News",
+      "published": "2026-07-27T05:00:00-04:00"
     },
     {
-      "headline": "Startup Converts Waste Gas into Valuable Chemicals",
-      "summary": "A new company, Rise Reforming, has developed a modular process to turn biogas from landfills, farms, and wastewater plants into higher-value chemicals. This innovative technology is designed to be deployed on-site, offering a potential solution for waste reduction and resource recovery.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.rise-reforming.com",
-      "source": "Hacker News",
-      "published": "2026-07-27T19:58:22+00:00"
-    },
-    {
-      "headline": "South Africa Probes Death of Nigerian Man in Police Custody",
-      "summary": "A Nigerian man died after collapsing during an arrest in South Africa, with initial autopsy reports revealing injuries on his body. The incident has sparked an investigation into the circumstances surrounding his death and potential police misconduct.",
+      "headline": "South Africa Probes Death of Nigerian Man Who Collapsed in Custody",
+      "summary": "A post‑mortem revealed abrasions on the victim’s back and chest, prompting investigators to examine police conduct during the arrest. The case has sparked calls for accountability and reforms in law‑enforcement practices.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cn7nx3rz16jo?at_medium=RSS&at_campaign=rss",
@@ -300,44 +417,26 @@
       "published": "2026-07-27T12:11:25.183Z"
     },
     {
-      "headline": "Portable Python Distributions Simplify Development",
-      "summary": "A new approach to creating self-contained Python distributions allows for highly portable and efficient development. This technology enables developers to easily deploy and manage Python applications, streamlining the development process.",
+      "headline": "Witnesses Describe ‘Wall of Flames’ as Wildfires Displace 300,000",
+      "summary": "Residents and tourists recount terrifying scenes of towering fire fronts that forced massive evacuations across the region. Authorities warn the smoke and heat are causing widespread anxiety and health concerns.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T17:17:24.170Z"
+    },
+    {
+      "headline": "UpCodes Seeks Remote Account Executives to Cut Building Costs",
+      "summary": "The YC‑backed startup is recruiting sales talent to promote its code‑compliance platform, which aims to streamline construction permitting and reduce expenses. The remote roles target developers and owners looking for faster, cheaper building approvals.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "url": "https://up.codes/careers?utm_source=HN",
       "source": "Hacker News",
-      "published": "2026-07-27T18:43:31+00:00"
+      "published": "2026-07-27T17:02:41+00:00"
     },
     {
-      "headline": "European Wildfires Rage On, Devastating Landscapes",
-      "summary": "Wildfires are sweeping across Europe, with massive blazes in France and Spain causing widespread destruction and displacement. Authorities are working to contain the fires, which have already burned hundreds of square miles of land and are being fueled by hot and dry conditions.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T14:21:32.389Z"
-    },
-    {
-      "headline": "Nigerian Soldier Arrested for Aiding Criminals",
-      "summary": "A Nigerian soldier has been detained for allegedly tipping off criminals, raising concerns about corruption and collusion within the military. The incident has sparked a broader investigation into potential security breaches and the involvement of military personnel in criminal activities.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cr7k8y5272eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T16:19:50.775Z"
-    },
-    {
-      "headline": "Wildfires Create Deadly 'Fire-Generated Thunderstorms'",
-      "summary": "Certain types of severe wildfires can create powerful thunderstorms, known as pyrocumulonimbus, which can make fires even more deadly and destructive. These storms can spread embers and sparks, igniting new fires and exacerbating the existing blaze.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T11:04:53.305Z"
-    },
-    {
-      "headline": "Pirlo Ousted from Italy Football Top Job Amid Controversy",
-      "summary": "Andrea Pirlo has been removed from his position as head of Italy's football federation due to his links to a Russian betting firm, which sparked a public backlash. The controversy has thrown the federation into disarray, following Italy's failure to qualify for the World Cup for the third consecutive time.",
+      "headline": "Pirlo Withdraws from Italy FA Role Amid Betting‑Firm Controversy",
+      "summary": "Former star Andrea Pirlo stepped down from the federation’s top job after criticism over his ties to a Russian gambling company. The scandal adds to Italy’s turmoil following a third straight World Cup qualifying failure.",
       "category": "Sports",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
@@ -345,112 +444,13 @@
       "published": "2026-07-27T11:03:15.197Z"
     },
     {
-      "headline": "Fauci's Pandemic Diary Notes Released by Sen. Rand Paul",
-      "summary": "Sen. Rand Paul has made public the diary notes of Dr. Anthony Fauci from the COVID-19 pandemic, offering a glimpse into the thoughts and actions of the prominent health official during that time. Fauci is set to testify before a Senate committee about the origins of the coronavirus, and the release of his diary notes may shed new light on his role in the pandemic response.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
-      "source": "NPR News",
-      "published": "2026-07-27T20:05:31-04:00"
-    },
-    {
-      "headline": "Johnson & Johnson Offers $5.5 Billion to Settle Baby Powder Lawsuits",
-      "summary": "Johnson & Johnson has proposed a settlement of up to $5.5 billion to resolve lawsuits alleging that its baby powder products cause cancer. The move aims to bring an end to a years-long legal battle, which has seen numerous claims filed against the company over the safety of its talc-based products.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T01:24:14.651Z"
-    },
-    {
-      "headline": "Apple Adds Vehicle Motion Cues to iPhone for Safer Rides",
-      "summary": "Apple’s iPhone now detects when it’s in a moving vehicle and adjusts notifications to reduce driver distraction. The feature can be toggled in settings and works across iOS devices.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://support.apple.com/guide/iphone/iphone-comfortably-riding-a-vehicle-iph55564cb22/ios",
-      "source": "Hacker News",
-      "published": "2026-07-28T01:13:26+00:00"
-    },
-    {
-      "headline": "Japanese Town Faces Identity Crisis After Mosque Protests",
-      "summary": "A small town in Japan saw heated protests over the construction of its first mosque, highlighting tensions as the country relies more on foreign labor. Officials are now wrestling with how to balance cultural integration and local sentiment.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T22:08:21.843Z"
-    },
-    {
-      "headline": "France Battles Persistent Wildfire While Spain Gains Ground",
-      "summary": "A blaze in Gironde, southern France, remains active despite firefighting efforts, even as two major fires in central Spain are finally being contained. The fires come amid Europe’s fourth summer heat wave, straining resources across the region.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909107/france-spain-wildfires-updates",
-      "source": "NPR News",
-      "published": "2026-07-27T06:50:09-04:00"
-    },
-    {
-      "headline": "Witnesses Describe ‘Wall of Flames’ as Wildfires Displace 300,000",
-      "summary": "Residents and tourists recount terrifying scenes of towering fire fronts and lingering anxiety as evacuations sweep across the region. The massive blazes have forced over 300,000 people to flee their homes.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cly5qwwdvr1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T17:17:24.170Z"
-    },
-    {
-      "headline": "Baltimore Redefines 911 to Prioritize Social Services Over Police",
-      "summary": "The city plans to route non‑emergency calls to specialists who can connect callers with healthcare and housing resources before crises deepen. This shift aims to reduce unnecessary police involvement and address underlying social needs.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
-      "source": "NPR News",
-      "published": "2026-07-27T05:00:00-04:00"
-    },
-    {
-      "headline": "Second Shooting Targets U.S. Consulate in Toronto This Year",
-      "summary": "Police engaged a suspect in a high‑speed chase after gunfire rang out at the consulate, but the shooter remains at large. Earlier in June, three individuals were arrested following a similar attack.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T16:56:57.716Z"
-    },
-    {
-      "headline": "Zig Ecosystem Expands with Packaged C/C++ Projects",
-      "summary": "A new repository bundles popular C and C++ libraries for seamless use with the Zig programming language, simplifying cross‑compilation. Developers can now import these packages directly, accelerating Zig adoption.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://github.com/allyourcodebase",
-      "source": "Hacker News",
-      "published": "2026-07-27T23:09:50+00:00"
-    },
-    {
-      "headline": "Seattle Food Festival Shooting Suspects Increase to Three",
-      "summary": "Court filings reveal one shooter is in custody, another is still being sought, and a third is believed to have died at the scene. The incident has intensified calls for tighter security at public events.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T06:09:15.897Z"
-    },
-    {
-      "headline": "UpCodes Seeks Remote Account Executives to Cut Building Costs",
-      "summary": "The YC‑backed startup is hiring remote sales professionals to promote its platform that streamlines code compliance and reduces construction expenses. Candidates will focus on expanding the service to architects and developers nationwide.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://up.codes/careers?utm_source=HN",
-      "source": "Hacker News",
-      "published": "2026-07-27T17:02:41+00:00"
-    },
-    {
-      "headline": "Astronauts Report Lingering ‘Observer’ Feeling After Year‑Long Space Stays",
-      "summary": "Crew members returning from six‑month missions describe a lasting sense of watching their own lives from a slight distance. The phenomenon, noted weeks after return, adds to the psychological challenges of long‑duration spaceflight.",
+      "headline": "The Illusion of Knowing: Why We Overestimate Our Understanding",
+      "summary": "The piece explores the cognitive bias that leads people to believe they grasp complex issues better than they truly do, citing psychological research on explanatory depth. Recognizing this bias can improve decision‑making and humility in discourse.",
       "category": "Other",
       "relevance": 3,
-      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "url": "https://thedecisionlab.com/biases/the-illusion-of-explanatory-depth",
       "source": "Hacker News",
-      "published": "2026-07-27T23:19:19+00:00"
+      "published": "2026-07-28T04:00:41+00:00"
     }
   ]
 }
