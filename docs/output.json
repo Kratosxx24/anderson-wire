@@ -1,37 +1,37 @@
 {
-  "generated_at": "2026-07-28T15:04:49.925602+00:00",
+  "generated_at": "2026-07-28T16:49:49.757375+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Silenced Culture Calls for New Evangelism Strategies",
-      "summary": "The article argues that modern society’s habit of muting the natural world hampers the church’s growth. It urges believers to revive sensitivity to general revelation as a foundation for outreach.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/evangelism-muted-world/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-28T04:00:00+00:00"
-    },
-    {
-      "headline": "Framework 13 Pro Proves Modular Laptop Dream Real",
-      "summary": "MKBHD showcases the Framework 13 Pro, a fully modular laptop built for Linux enthusiasts. The reviewer praises its upgradeability and design, signaling a shift toward repairable high‑end notebooks.",
+      "headline": "Moonshot releases 2.8‑trillion‑parameter Kimi K3 model weights",
+      "summary": "Moonshot AI has published the 1.56 TB weight files for its Kimi K3, a 2.8 trillion‑parameter language model. The release continues the project’s unconventional MIT‑style license first introduced with K2.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "source": "MKBHD",
-      "published": "2026-07-27T15:38:21+00:00"
-    },
-    {
-      "headline": "Simon Willison’s No‑Nonsense AI Toolkit Guide",
-      "summary": "Willison curates a practical list of current AI models and services for everyday tasks, highlighting ChatGPT, Claude, Gemini, and Deep Research. He tracks how recommendations have evolved as new versions emerge.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
       "source": "Simon Willison",
-      "published": "2026-07-27T21:55:53+00:00"
+      "published": "2026-07-27T23:39:04+00:00"
     },
     {
-      "headline": "First Formal Verification of 3D CSG Delivered in Lean 4",
-      "summary": "A developer released a 93‑line Lean 4 implementation of mesh intersection that is mathematically proven against a precise spec. The proof replaces thousands of lines of unverified AI‑generated code, boosting reliability for graphics pipelines.",
+      "headline": "Show HN: XY – GPU‑accelerated, composable charts built in Rust",
+      "summary": "XY is an open‑source Rust library that renders charts on the GPU for speed and composability. The project has drawn modest Hacker News interest as a high‑performance alternative to existing charting tools.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/reflex-dev/xy",
+      "source": "Hacker News",
+      "published": "2026-07-28T15:54:55+00:00"
+    },
+    {
+      "headline": "Kimi K3 Architecture Overview and Technical Notes",
+      "summary": "Sebastian Raschka details the internal design of the Kimi K3 model, covering its transformer stack, training pipeline, and performance trade‑offs. The notes serve as a practical guide for researchers probing trillion‑parameter architectures.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+      "source": "Hacker News",
+      "published": "2026-07-28T08:38:20+00:00"
+    },
+    {
+      "headline": "Formally verified 3D CSG implementation in Lean 4",
+      "summary": "A new Lean 4 library provides a formally verified constructive solid geometry operation, guaranteeing mesh intersection correctness against a concise specification. It showcases how formal methods can replace large, error‑prone AI‑generated geometry code.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://github.com/schildep/verified-3d-mesh-intersection",
@@ -39,242 +39,53 @@
       "published": "2026-07-28T13:07:14+00:00"
     },
     {
-      "headline": "Trump Schedules Talks with Zelenskyy and Netanyahu Amid TPS Deportation Threat",
-      "summary": "Former President Donald Trump will hold separate meetings with Ukraine’s Volodymyr Zelenskyy and Israel’s Benjamin Netanyahu. Concurrently, the administration signals that Temporary Protected Status recipients could soon face removal.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
-      "source": "NPR News",
-      "published": "2026-07-28T07:26:09-04:00"
-    },
-    {
-      "headline": "Netanyahu and Trump Set for First Post‑Iran War Encounter",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu is slated to meet Donald Trump, marking their first face‑to‑face since the conflict with Iran escalated. Both leaders confront domestic political pressure ahead of the summit.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
-      "source": "NPR News",
-      "published": "2026-07-28T03:42:11-04:00"
-    },
-    {
-      "headline": "Segue Lets You Port AI Context Between Models with a Simple Handle",
-      "summary": "The Segue platform enables users to save the state of one AI system and reload it in another via a short identifier. This cross‑model continuity aims to streamline workflows that span multiple AI services.",
+      "headline": "Fast remediation becomes the new security trust model (JFrog‑OpenAI collaboration)",
+      "summary": "JFrog teamed with OpenAI to automatically surface zero‑day vulnerabilities and speed up patch deployment. The article argues that AI‑driven rapid remediation should replace legacy trust models in modern cybersecurity.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://segue.ai/",
-      "source": "Hacker News",
-      "published": "2026-07-28T12:27:05+00:00"
-    },
-    {
-      "headline": "Kimi Linear Introduces Efficient, Expressive Attention Mechanism",
-      "summary": "Researchers propose Kimi Linear, an attention architecture that reduces computational cost while preserving expressive power. Early benchmarks suggest it outperforms traditional transformers on several NLP tasks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://arxiv.org/abs/2510.26692",
-      "source": "Hacker News",
-      "published": "2026-07-28T10:52:30+00:00"
-    },
-    {
-      "headline": "PyTorch Announces a New Reference Language for Compiler Development",
-      "summary": "The PyTorch team released documentation for a reference language designed to simplify compiler construction and optimization. The initiative aims to standardize low‑level code generation across the ecosystem.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://docs.pytorch.org/devlogs/compiler/2026-07-25-pytorch-a-reference-language/",
-      "source": "Hacker News",
-      "published": "2026-07-28T04:46:00+00:00"
-    },
-    {
-      "headline": "$500 Reinforcement‑Learning Fine‑Tune Beats State‑of‑the‑Art on Catalog Review",
-      "summary": "A team fine‑tuned a 9‑billion‑parameter open model using reinforcement learning for just $500, surpassing leading proprietary systems on product catalog evaluation. The result showcases cost‑effective ways to achieve top‑tier performance.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://fermisense.com/when-machines-take-the-wheel/",
-      "source": "Hacker News",
-      "published": "2026-07-28T02:18:53+00:00"
-    },
-    {
-      "headline": "Satire Misses Mark in Critique of Retro Christian Gender Norms",
-      "summary": "The piece argues that the satire in “Yesteryear” falls short because it lacks a nuanced understanding of the subject it mocks. It contends that judging modern Christian womanhood by outdated standards is misguided.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/reviews/yesteryear-caro-burke/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-28T04:02:00+00:00"
-    },
-    {
-      "headline": "Rock Band’s Seventh Album Marries Auto‑Tune with Dystopian Gloom",
-      "summary": "The new record blends heavily processed vocals with sharp lyrics, creating a bleak yet compelling soundscape. It embraces its off‑kilter aesthetic fully, delivering a strange, doom‑laden experience.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/the-strokes-reality-awaits/",
-      "source": "Pitchfork",
-      "published": "2026-07-28T04:03:00+00:00"
-    },
-    {
-      "headline": "‘Beard’ Delivers Lush, Self‑Reflective Solo Journey",
-      "summary": "The artist’s third solo effort celebrates hard‑won self‑knowledge through rich, relaxed arrangements. The album feels effortless, inviting listeners into a comfortable, introspective mood.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/syd-beard/",
-      "source": "Pitchfork",
-      "published": "2026-07-28T04:02:00+00:00"
-    },
-    {
-      "headline": "7.1 Magnitude Quake Strikes Kyushu, Traps Shoppers in Collapsed Mall",
-      "summary": "A strong tremor hit Japan’s southern island of Kyushu, causing structural damage and injuring several people. Among the worst‑affected was a shopping center where part of the building collapsed, leaving patrons trapped.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
-      "source": "NPR News",
-      "published": "2026-07-28T08:51:33-04:00"
-    },
-    {
-      "headline": "Moonshot Releases 2.8‑Trillion‑Parameter Kimi‑K3 Model, 1.56 TB on Hugging Face",
-      "summary": "The AI team unveiled the massive Kimi‑K3 model, weighing in at 2.8 trillion parameters and occupying 1.56 TB of storage. It ships with a custom MIT‑style license first introduced with K2 in mid‑2025.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-27T23:39:04+00:00"
-    },
-    {
-      "headline": "Ctrlb‑Decompose Tool Strips Log Noise Before Feeding LLMs",
-      "summary": "Developers released an open‑source utility that cleanses log data, removing extraneous information prior to LLM ingestion. The project has attracted modest community interest, earning 34 points and several comments on Hacker News.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/ctrlb-hq/ctrlb-decompose",
-      "source": "Hacker News",
-      "published": "2026-07-28T13:13:35+00:00"
-    },
-    {
-      "headline": "Jilian Medford’s Fifth Album ‘Shiverstruck’ Channels Heartbreak and Relocation",
-      "summary": "Medford’s latest record explores themes of inertia, loss, and a cross‑country move, set against muted indie‑pop backdrops. The songs weave intense emotions into understated melodies, reflecting a personal transition.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/ian-sweet-shiverstruck/",
-      "source": "Pitchfork",
-      "published": "2026-07-28T04:01:00+00:00"
-    },
-    {
-      "headline": "U.S. Walks Out of UN Security Council Session Amid France Dispute",
-      "summary": "Tensions flared when the United States left a Security Council meeting after France’s remarks, following a joint vote with North Korea and Russia against extending the UN human‑rights commissioner’s term. The incident highlighted deep diplomatic rifts over the council’s agenda.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T08:41:45.449Z"
-    },
-    {
-      "headline": "Argentinian Producer Crafts Patagonian Soundscape in ‘Tesoros’",
-      "summary": "The album stitches field recordings from daily walks into delicate electronic pieces that echo the lakeside town’s charm. Its blend of twee synths and ambient textures offers a nostalgic tribute to the artist’s hometown.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/lumtz-tesoros/",
-      "source": "Pitchfork",
-      "published": "2026-07-28T04:00:00+00:00"
-    },
-    {
-      "headline": "Economists Propose AI Tokens as New Energy‑Like Metric",
-      "summary": "While AI firms already use tokens to bill usage, researchers suggest the metric could serve as a standard gauge of AI’s economic penetration. The analogy likens tokens to kilowatt‑hours, tracking AI’s spread across industries.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
-      "source": "NPR News",
-      "published": "2026-07-28T06:30:00-04:00"
-    },
-    {
-      "headline": "Democrats Push Anti‑Corruption Reforms as Trump’s Ethics Record Sparks Voter Doubt",
-      "summary": "Democrats argue that now is the moment to overhaul a system they say favors special interests and to create safeguards against future Trump‑style misconduct. Voters are being asked whether they trust the party to deliver those changes.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
-      "source": "NPR News",
-      "published": "2026-07-28T05:00:00-04:00"
-    },
-    {
-      "headline": "Heat Wave Fuels Massive Wildfire Near Bordeaux, Prompting 4,000 Evacuations",
-      "summary": "French officials ordered thousands of tourists to leave Atlantic coastal sites as a sprawling blaze threatened to outpace firefighters. The fire’s advance is compounded by an approaching heat surge that could undermine containment efforts.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/28/g-s1-135828/europe-wildfires",
-      "source": "NPR News",
-      "published": "2026-07-28T02:25:18-04:00"
-    },
-    {
-      "headline": "J&J Proposes $5.5 Billion Deal to End Baby‑Powder Cancer Lawsuits",
-      "summary": "Johnson & Johnson has offered a multibillion‑dollar settlement aimed at resolving claims that its talc‑based products cause cancer. The proposal seeks to close a protracted legal battle that has lingered for years.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T01:24:14.651Z"
-    },
-    {
-      "headline": "Fast Remediation Becomes Trust Standard After JFrog‑OpenAI Zero‑Day Reveal",
-      "summary": "A joint JFrog and OpenAI investigation uncovered a critical zero‑day vulnerability, highlighting the need for rapid patching. The article argues that swift remediation is now the benchmark for security credibility.",
-      "category": "Tech/AI",
-      "relevance": 8,
       "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
       "source": "Hacker News",
       "published": "2026-07-27T21:30:01+00:00"
     },
     {
-      "headline": "Google Unveils ‘Beyond Zero’ Strategy for Enterprise AI Security",
-      "summary": "Google’s new framework expands security beyond traditional zero‑trust, addressing the unique risks of AI‑driven workloads. Researchers detail how the approach aims to protect data and models in the emerging AI era.",
-      "category": "Tech/AI",
+      "headline": "Jen Wilkin’s new book urges believers to view aging as spiritual deepening",
+      "summary": "Wilkin reframes aging from a narrative of decline to one of biblical deepening, offering scriptural insight and practical steps. Her guide aims to help Christians embrace later life with purpose and joy.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-      "source": "Hacker News",
-      "published": "2026-07-28T09:59:13+00:00"
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/jen-wilkin-age-wisely/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-28T04:04:01+00:00"
     },
     {
-      "headline": "Apple Details Security Enhancements in macOS Tahoe 26.6",
-      "summary": "Apple’s latest macOS release, code‑named Tahoe 26.6, introduces a suite of protections ranging from hardened kernel extensions to improved privacy controls. The update aims to bolster defenses against modern threats on Apple hardware.",
-      "category": "Tech/AI",
+      "headline": "A muted culture calls for fresh evangelism strategies",
+      "summary": "The author claims today’s culture muffles the perception of creation, demanding innovative outreach methods. Emphasizing general revelation, the piece urges churches to rekindle attentiveness to the natural world.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://support.apple.com/en-us/128067",
-      "source": "Hacker News",
-      "published": "2026-07-28T09:45:43+00:00"
+      "url": "https://www.thegospelcoalition.org/article/evangelism-muted-world/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-28T04:00:00+00:00"
     },
     {
-      "headline": "Spain Battles Triple Wildfire Threat as Heatwave Looms",
-      "summary": "Three separate fires in the Madrid area have escalated concerns, with emergency services stretched thin. A new heatwave expected mid‑week threatens to intensify the blazes and hamper firefighting efforts.",
+      "headline": "Netanyahu to meet Trump in first encounter since Iran war began",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu is set to meet former President Donald Trump amid mounting domestic pressures for both leaders. The summit arrives as Netanyahu seeks reelection and Trump grapples with criticism over the ongoing war.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T11:53:42.389Z"
+      "url": "https://www.npr.org/2026/07/28/g-s1-135833/trump-netanyahu-iran-war",
+      "source": "NPR News",
+      "published": "2026-07-28T03:42:11-04:00"
     },
     {
-      "headline": "European Wildfire Map Shows Record Blaze Near Bordeaux and Historic Fires in Madrid",
-      "summary": "Satellite imagery tracks a fire that has consumed over 162 square miles near Bordeaux in under four days. Simultaneously, Spain’s Madrid region records its most severe wildfire season on record.",
+      "headline": "Japan earthquake: key facts from the Kyushu quake",
+      "summary": "A strong tremor struck Kyushu island, causing extensive damage and prompting nationwide alerts. Officials are tallying casualties, assessing infrastructure loss, and monitoring for aftershocks.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cgewgxlpj3po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-27T14:21:32.389Z"
+      "published": "2026-07-28T15:45:02.751Z"
     },
     {
-      "headline": "US Halts Iran Conflict; Questions Rise Over Trump’s Depleted Missile Stockpile",
-      "summary": "After thousands of precision missiles were expended in the Iran confrontation, analysts assess whether the United States’ arsenal is approaching critical shortages. The piece examines the strategic implications of a potentially strained weapons supply.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T21:06:42.907Z"
-    },
-    {
-      "headline": "China Faces Surge of AI‑Generated Disaster Videos Amid Real Floods",
-      "summary": "Recent storms and floods have been accompanied by a flood of fabricated footage circulating on Chinese social platforms. Authorities warn that deep‑fake content is complicating public perception and emergency response.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T22:07:23.158Z"
-    },
-    {
-      "headline": "Netanyahu‑Trump White House Talk Faces Growing US Skepticism",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu meets President Donald Trump amid mounting tensions between the two leaders. The encounter comes as American public opinion on Israel wanes, raising the stakes for any diplomatic breakthroughs.",
+      "headline": "Why Netanyahu’s White House visit with Trump carries high stakes",
+      "summary": "The upcoming meeting is fraught with diplomatic tension as U.S. public support for Israel declines. Both leaders must balance domestic criticism while addressing broader regional security concerns.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
@@ -282,98 +93,161 @@
       "published": "2026-07-28T08:39:17+00:00"
     },
     {
-      "headline": "Zelensky, Netanyahu Arrive in Washington for Separate White House Talks",
-      "summary": "Ukrainian President Volodymyr Zelensky and Israeli Prime Minister Benjamin Netanyahu converge on Washington as Senator Lindsay Graham’s funeral draws them to the capital. Both leaders will meet the president to discuss the wars raging in their regions.",
-      "category": "World",
+      "headline": "Jobs Declares Apple’s Products Are Built for Users, Not Advertisers",
+      "summary": "At WWDC 2011, Steve Jobs highlighted Apple’s ad‑free philosophy, contrasting iCloud email with free services that embed ads. He emphasized that Apple creates tools it would use itself, rejecting ad‑driven models.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T00:30:11+00:00"
+      "url": "https://www.businessinsider.com/apple-snubs-the-iad-2011-6",
+      "source": "Daring Fireball",
+      "published": "2011-06-06"
     },
     {
-      "headline": "Jen Wilkin’s New Book Calls for Biblical Depth in Aging",
-      "summary": "In her latest work, Jen Wilkin argues that Scripture frames aging as a period of spiritual deepening, not decline. She offers practical guidance for believers seeking to grow wiser and more purposeful in later years.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/jen-wilkin-age-wisely/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-28T04:04:01+00:00"
-    },
-    {
-      "headline": "‘Single Together’: A Biblical Blueprint for Embracing Singles in the Church",
-      "summary": "The book ‘Single Together’ urges churches to view singleness as a vital vocation, grounded in biblical theology. It provides both personal reflection tools and communal strategies to support single members.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.challies.com/sponsored/singleness-in-the-family-of-god-a-biblical-vision/",
-      "source": "Challies",
-      "published": "2026-07-27T16:01:00+00:00"
-    },
-    {
-      "headline": "Ecuador’s Police Battle a Growing Cocaine Corridor to Europe",
-      "summary": "BBC reporters ride along with Ecuadorian law‑enforcement as they confront a surge in cocaine trafficking bound for European markets. Gangs are expanding routes, prompting a heightened police response.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T05:01:19.242Z"
-    },
-    {
-      "headline": "Seattle Honors Food Festival Shooting Victims in Heartfelt Memorial",
-      "summary": "Families gathered Monday to remember the three people killed during a tragic shooting at a local food festival. The city held a tribute, emphasizing the victims’ love of life.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T11:50:59.110Z"
-    },
-    {
-      "headline": "Why Feature‑Heavy Apps Fail: The Case for User‑Centric Design",
-      "summary": "A Hacker News discussion highlights that successful mobile apps prioritize seamless experiences over piling on features. The linked case study illustrates how focusing on core user needs drives adoption.",
+      "headline": "Simon Willison Maps the Evolving Landscape of AI Model Choices",
+      "summary": "Willison’s post surveys the latest generative AI options, from ChatGPT and Claude to Gemini, noting how recommendations shift as new versions appear. He also points readers to alternative research‑oriented tools like Deep Research.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://geekyants.com/case-studies/nowmatch-next-gen-social-and-dating-app-development",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-27T21:55:53+00:00"
+    },
+    {
+      "headline": "Practical Guide to Profiling eBPF Programs",
+      "summary": "Naveen Srivasan walks through techniques for measuring performance of eBPF code, covering tooling, metrics, and common pitfalls. The article helps developers pinpoint bottlenecks in kernel‑level scripts.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
       "source": "Hacker News",
-      "published": "2026-07-28T12:51:16+00:00"
+      "published": "2026-07-22 16:47:00 -0500 -0500"
     },
     {
-      "headline": "UK Grants Hong Kong Activist Asylum After Heathrow Detention",
-      "summary": "Pro‑democracy activist Wu was briefly detained at Heathrow and faced removal, but the UK government ultimately permitted him to remain. He told the BBC the episode underscored the challenges faced by exiled dissidents.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T04:59:36.594Z"
-    },
-    {
-      "headline": "Rand Paul Publishes Fauci Diary Excerpts Ahead of Senate Hearing",
-      "summary": "Senator Rand Paul released a selection of Dr. Anthony Fauci’s pandemic‑era diary entries as the immunologist prepares to testify on COVID‑19 origins. The notes aim to shed light on internal deliberations during the crisis.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/27/nx-s1-5909531/rand-paul-anthony-fauci-coronavirus-diary-lab-leak-origin",
+      "headline": "Tokens Become the Energy Meter of the AI Economy",
+      "summary": "Economists are treating AI usage tokens like kilowatt‑hours, using them to gauge how much AI power is consumed across sectors. The metric offers a standardized way to track AI’s economic footprint.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.npr.org/sections/planet-money/2026/07/28/g-s1-135475/ai-tokens-could-become-the-kilowatt-hour-of-the-ai-age",
       "source": "NPR News",
-      "published": "2026-07-27T20:05:31-04:00"
+      "published": "2026-07-28T06:30:00-04:00"
     },
     {
-      "headline": "Over Two‑Thirds of Domains Still Ignore DMARC After 14 Years",
-      "summary": "A new analysis reveals that 68.4% of surveyed domains have not implemented DMARC enforcement, despite the protocol being public since 2012. The gap leaves email systems vulnerable to spoofing and phishing attacks.",
+      "headline": "Inside Zig’s Incremental Compilation Engine",
+      "summary": "Martin Lugg dissects how Zig tracks source changes to recompile only what’s necessary, boosting build speed. The post details dependency graphs, hashing, and cache strategies that power the feature.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+      "source": "Hacker News",
+      "published": "2026-07-28T15:46:45+00:00"
+    },
+    {
+      "headline": "Flashpaper: One‑Time Secret Sharing Without a Database",
+      "summary": "Min from Bangkok introduces a tool that creates encrypted messages that self‑destruct after being read, eliminating persistent storage. The project mimics a dead‑man’s switch and aims for spy‑movie‑style data disappearance.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://flashpaper.app/",
+      "source": "Hacker News",
+      "published": "2026-07-28T15:36:35+00:00"
+    },
+    {
+      "headline": "GrapheneOS Stands by Data‑Wipe Feature That Thwarts Border Searches",
+      "summary": "After U.S. Customs attempted to access a phone, GrapheneOS defended its remote‑wipe capability that erases data on demand. The controversy highlights tensions between privacy‑focused OSes and law‑enforcement demands.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.pcmag.com/news/grapheneos-defends-data-wiping-function-that-blocked-us-border-search",
+      "source": "Hacker News",
+      "published": "2026-07-27T19:23:46+00:00"
+    },
+    {
+      "headline": "UTM Reports Bridged Network Failure on Apple M5 Pro Macs",
+      "summary": "Users of the UTM virtualization app find that VMs refuse to start when the network is set to Bridged mode on M5 Pro hardware. The issue appears tied to Apple’s new silicon networking stack and is tracked on GitHub.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/utmapp/UTM/issues/7658",
+      "source": "Hacker News",
+      "published": "2026-03-23T00:49:24.000Z"
+    },
+    {
+      "headline": "Critique: Satire on ‘Yesteryear’ Misses the Mark on Christian Womanhood",
+      "summary": "The review argues that the piece’s attempt at satire fails because it lacks a nuanced understanding of the traditions it mocks. It calls for deeper engagement rather than shallow ridicule.",
+      "category": "Faith",
+      "relevance": 7,
+      "url": "https://www.thegospelcoalition.org/reviews/yesteryear-caro-burke/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-28T04:02:00+00:00"
+    },
+    {
+      "headline": "Pitchfork Reviews ‘Reality Awaits’: Auto‑Tuned Doom Meets Sharp Lyricism",
+      "summary": "The seventh album from the rock band blends heavy auto‑tuned vocals with incisive, dark lyrics, delivering a strange yet cohesive statement. Critics note the record leans into its theatricality while maintaining musical depth.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/the-strokes-reality-awaits/",
+      "source": "Pitchfork",
+      "published": "2026-07-28T04:03:00+00:00"
+    },
+    {
+      "headline": "Beard’s Third Solo Album Marries Lush Arrangements with Self‑Discovery",
+      "summary": "The record serves as a celebration of the artist’s growing self‑knowledge, pairing rich instrumentation with a relaxed vibe. It feels like a comfortable, reflective journey through his experiences.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/syd-beard/",
+      "source": "Pitchfork",
+      "published": "2026-07-28T04:02:00+00:00"
+    },
+    {
+      "headline": "Jilian Medford’s Fifth Album Confronts Stagnation and Heartbreak",
+      "summary": "On “Shiverstruck,” Medford weaves subdued indie pop with vivid allusions to emotional turbulence and a cross‑country move. The songs balance melancholy lyrics with breezy melodies, capturing the tension between inertia and change.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/ian-sweet-shiverstruck/",
+      "source": "Pitchfork",
+      "published": "2026-07-28T04:01:00+00:00"
+    },
+    {
+      "headline": "Patagonian Soundscapes Shape Argentinian Producer’s ‘Tesoros’",
+      "summary": "The album stitches field recordings from daily walks around Patagonian lakes into delicate electronic sketches. The result is a nostalgic tribute that blends organic ambience with a hint of twee synth charm.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/lumtz-tesoros/",
+      "source": "Pitchfork",
+      "published": "2026-07-28T04:00:00+00:00"
+    },
+    {
+      "headline": "Guide to Building Your Own Game Engine (2023)",
+      "summary": "The post walks readers through the core components and design decisions needed to craft a custom game engine, emphasizing modular architecture and performance trade‑offs. Community comments discuss practical pitfalls and resources for indie developers.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+      "url": "https://lisyarus.github.io/blog/posts/so-you-want-to-make-a-game-engine.html#part-3",
       "source": "Hacker News",
-      "published": "2026-07-28T10:08:21+00:00"
+      "published": "2026-07-28T15:36:45+00:00"
     },
     {
-      "headline": "Seattle Food Festival Shooting: Three Suspects Identified",
-      "summary": "One suspect is in custody, authorities are hunting a second, while a third is believed to have died at the scene, according to court filings.",
+      "headline": "Scientists Edge Toward a Unified Theory of Musical Harmony",
+      "summary": "The 2012 arXiv paper proposes a formal framework that quantifies harmonic relationships using mathematical models. It sparked extensive discussion on Hacker News about its implications for music theory and AI composition.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://arxiv.org/abs/1202.4212",
+      "source": "Hacker News",
+      "published": "2026-07-28T15:20:35+00:00"
+    },
+    {
+      "headline": "EU Initiative Calls for Ban on Digital IDs and Age Verification",
+      "summary": "The Citizens’ Initiative urges European lawmakers to reject mandatory digital identification and age‑check systems, warning they threaten internet freedom. The proposal argues such measures could erode privacy and open the web to censorship.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://citizens-initiative.europa.eu/initiatives/details/2026/000011_en",
+      "source": "Hacker News",
+      "published": "2026-07-28T14:58:15+00:00"
+    },
+    {
+      "headline": "Experimental HIV Vaccine Shows Record‑Breaking Efficacy in Animals",
+      "summary": "Researchers report a vaccine candidate that achieved unprecedented protection levels in preclinical trials, sparking optimism for human studies. The breakthrough leverages a novel immunogen design that elicits broad neutralizing antibodies.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T06:09:15.897Z"
+      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+      "source": "Hacker News",
+      "published": "2026-07-28T13:12:01+00:00"
     },
     {
-      "headline": "Second Shooting Targets U.S. Consulate in Toronto",
-      "summary": "Police pursued the gunman in a high‑speed chase but failed to capture him, leaving the suspect still at large; earlier this year three arrests followed a similar attack.",
+      "headline": "Second Shooting at U.S. Consulate in Toronto Prompts High‑Speed Chase",
+      "summary": "Police pursued a suspect after gunfire struck the consulate, but the individual evaded capture and remains at large. Earlier this year, three people were arrested following a similar attack.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
@@ -381,62 +255,143 @@
       "published": "2026-07-27T16:56:57.716Z"
     },
     {
-      "headline": "Japanese Town Faces Identity Crisis Over First Mosque",
-      "summary": "Residents of a small town are divided as they confront the construction of the nation’s first mosque, highlighting broader challenges of integrating foreign workers and diverse cultures.",
+      "headline": "Madrid Region Battles Triple Wildfire Threat Amid Incoming Heatwave",
+      "summary": "Three separate fires are raging in the Madrid area, prompting emergency measures as a scorching heatwave approaches. Authorities warn conditions could worsen, heightening concerns for residents and ecosystems.",
       "category": "World",
       "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c235m71mrreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T11:53:42.389Z"
+    },
+    {
+      "headline": "China’s Flood and Storm Crises Amplified by AI‑Generated Fake Footage",
+      "summary": "Recent natural disasters in China have been accompanied by a surge of synthetic videos circulating online, confusing the public. Experts note the challenge of distinguishing authentic coverage from AI‑fabricated content.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx27mjvxgg1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T22:07:23.158Z"
+    },
+    {
+      "headline": "Zelensky and Netanyahu to Meet White House Amid Graham Funeral",
+      "summary": "The Ukrainian and Israeli leaders will travel to Washington for separate Oval Office talks on regional conflicts, timing coinciding with Senator Lindsey Graham's funeral that has drawn both delegations to the capital.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/cd0xlnz2yk1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T00:30:11+00:00"
+    },
+    {
+      "headline": "Xenharmlib Music Theory Library Adds Just Intonation Support",
+      "summary": "The open‑source Xenharmlib now includes tools for just intonation, allowing composers to work with pure intervals. The update expands the library’s capabilities for microtonal and historically informed music creation.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://xenharmlib.readthedocs.io/en/latest/whats_new_0_4_0.html",
+      "source": "Hacker News",
+      "published": "2026-07-28T16:10:37+00:00"
+    },
+    {
+      "headline": "New Kimi Delta Attention Model Proposed for Efficient AI",
+      "summary": "Researchers introduce Kimi Delta Attention, a technique that reduces computational load while preserving performance in transformer models. The approach promises faster training and inference for large language models.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+      "source": "Hacker News",
+      "published": "2026-07-27T10:22:23.139Z"
+    },
+    {
+      "headline": "‘Ricochet’ Shows How Gun Rights Are Expanding as Laws Tighten",
+      "summary": "A New York Times investigation reveals the firearms industry and the NRA are redefining the Second Amendment, targeting youth culture and a new brand of masculinity. Meanwhile, legislative efforts to restrict guns are facing setbacks.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910517/ricochet-explores-how-the-right-to-bear-arms-expands-while-gun-laws-contract",
+      "source": "NPR News",
+      "published": "2026-07-28T11:08:04-04:00"
+    },
+    {
+      "headline": "U.S. Walks Out of UN Security Council as France Speaks",
+      "summary": "The United States abruptly left a Security Council session while France delivered remarks, after the U.S., North Korea and Russia voted against extending the UN human‑rights commissioner’s term. The incident highlighted growing diplomatic tensions.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T08:41:45.449Z"
+    },
+    {
+      "headline": "Trump to Meet Zelenskyy and Netanyahu; TPS Holders Face Deportation Threat",
+      "summary": "Former President Trump scheduled separate meetings with Ukraine’s Zelenskyy and Israel’s Netanyahu to discuss policy, while the administration signaled that Temporary Protected Status recipients could soon be slated for removal. The moves come amid heightened immigration debates.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/28/g-s1-135845/up-first-newsletter-trump-zelenskyy-netanyahu-lindsey-graham-tps-political-corruption",
+      "source": "NPR News",
+      "published": "2026-07-28T07:26:09-04:00"
+    },
+    {
+      "headline": "Democrats Push Anti‑Corruption Reforms After Trump Ethics Breaches",
+      "summary": "In response to perceived ethical violations by Trump, Democrats are urging comprehensive anti‑corruption legislation to restore public trust. They argue that systemic reforms are needed to curb influence‑peddling and protect voters.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5869808/family-trump-profit-corruption-voters-ethics-democrats",
+      "source": "NPR News",
+      "published": "2026-07-28T05:00:00-04:00"
+    },
+    {
+      "headline": "Setup Script Updated to Handle Git Worktrees",
+      "summary": "A new blog post outlines enhancements to a setup script, enabling it to work with Git worktrees for more flexible repository management. The guide provides step‑by‑step instructions for developers adopting this workflow.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://piechowski.io/post/setup-script-git-worktrees/",
+      "source": "Hacker News",
+      "published": "2026-07-28T14:00:00Z"
+    },
+    {
+      "headline": "J&J Proposes $5.5 B Settlement Over Baby Powder Cancer Claims",
+      "summary": "Johnson & Johnson has offered up to $5.5 billion to resolve lawsuits alleging its talc‑based baby powder caused cancer. The deal aims to end a protracted legal battle spanning decades.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T01:24:14.651Z"
+    },
+    {
+      "headline": "Seattle Food Festival Shooting Suspects Count Rises to Three",
+      "summary": "Authorities report three individuals linked to the fatal shooting at a Seattle food festival; one is in custody, another is being sought, and a third is believed to have died at the scene. The investigation continues as officials release new court documents.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-27T06:09:15.897Z"
+    },
+    {
+      "headline": "Japanese town wrestles with identity after first mosque sparks protests",
+      "summary": "The coastal community is confronting how to blend a growing foreign workforce with its traditional culture. Local residents clash over the new mosque, highlighting broader questions of religious integration in Japan.",
+      "category": "World",
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c36d79nd5w8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-27T22:08:21.843Z"
     },
     {
-      "headline": "BBC’s Orla Guerin Interviews Ecuadorian Gang Leader Amid Drug War",
-      "summary": "In a rare sit‑down, Guerin talks with a gang chief about the cycle of violence, narcotics trafficking, and alleged police infiltration that fuels Ecuador’s drug conflict.",
+      "headline": "Ecuadorian gang leader faces BBC's Orla Guerin on drug war and police infiltration",
+      "summary": "Guerin sits down with a notorious gang boss to discuss the surge in violence and cocaine trafficking. The interview reveals how criminal groups have penetrated law‑enforcement ranks, complicating the nation's drug battle.",
       "category": "World",
-      "relevance": 7,
+      "relevance": 6,
       "url": "https://www.bbc.co.uk/news/videos/c1l1d429m8eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-28T05:01:35+00:00"
     },
     {
-      "headline": "A La Carte July 28: Faith, Media, Tech Detox & More",
-      "summary": "The latest issue covers protecting sheep from overbearing pastors, media critiques of CNN and Ben Sasse, workplace honesty, teen tech breaks, and reflections on feminine faith, among other pieces.",
+      "headline": "'A La Carte' July 28 roundup: faith, media, tech detox and workplace truth‑telling",
+      "summary": "The latest issue mixes pieces on protecting sheep from overbearing pastors, scrutiny of Ligonier Ministries and CNN, and the pressure on employees to lie for bosses. It also offers a teen tech‑detox guide, reflections on faithful femininity, and light‑hearted self‑parody.",
       "category": "Faith",
-      "relevance": 6,
+      "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-july-28-2026/",
       "source": "Challies",
       "published": "2026-07-28T04:01:00+00:00"
     },
     {
-      "headline": "Zidane Named France National Team Head Coach",
-      "summary": "Former Real Madrid star Zinedine Zidane has been officially appointed to lead the French senior side, marking his first senior national team role.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T09:03:49.349Z"
-    },
-    {
-      "headline": "Gironde Wildfires Surge Ahead of 40°C Heatwave",
-      "summary": "Firefighters in the French Gironde region are preparing for a sharp temperature rise that could exacerbate existing blazes and hinder containment efforts.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T13:25:13.581Z"
-    },
-    {
-      "headline": "Preclinical Trial Shows Breakthrough HIV Vaccine Efficacy",
-      "summary": "Researchers report a novel HIV vaccine achieving unprecedented protection levels in animal models, sparking optimism for future human trials.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-      "source": "Hacker News",
-      "published": "2026-07-28T13:12:01+00:00"
-    },
-    {
-      "headline": "Mancini Returns as Italy Coach Amid Pirlo Fallout",
-      "summary": "Roberto Mancini has been reinstated as Italy’s manager just a day after Andrea Pirlo withdrew his candidacy and technical director Paolo Maldini resigned, stirring debate within the federation.",
+      "headline": "Roberto Mancini back as Italy coach after Pirlo steps aside and Maldini quits",
+      "summary": "Mancini has been reappointed to lead the Azzurri just a day after former star Andrea Pirlo ruled himself out of the job. The reshuffle also sees technical director Paolo Maldini resign, leaving the federation in flux.",
       "category": "Sports",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
@@ -444,13 +399,58 @@
       "published": "2026-07-28T13:54:00.689Z"
     },
     {
-      "headline": "13 Titles on 2026 Booker Prize Longlist Revealed",
-      "summary": "The 2026 Booker shortlist features works by acclaimed authors Douglas Stuart, Marlon James, Elizabeth Strout, alongside several debut novelists, offering a diverse literary field.",
+      "headline": "Zinedine Zidane named head coach of France national team",
+      "summary": "The former Real Madrid and France captain has been confirmed as the new manager of Les Bleus. Zidane inherits a squad seeking to rebuild after recent disappointments on the international stage.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T09:03:49.349Z"
+    },
+    {
+      "headline": "UEFA lashes out at FIFA's plan to bring private investors into World Cup",
+      "summary": "European football's governing body condemned Gianni Infantino's proposal to seek private capital for its flagship tournaments. UEFA warned the move could undermine the sport's integrity and its own authority.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.npr.org/2026/07/28/nx-s1-5874638/2026-booker-prize-longlist-fiction",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T15:36:29.567Z"
+    },
+    {
+      "headline": "BBC follows Ecuador's police as they battle cocaine superhighway to Europe",
+      "summary": "Reporters ride along with officers confronting a massive surge in cocaine shipments bound for European markets. The investigation highlights the power of local gangs and the challenges faced by law‑enforcement in curbing the flow.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T05:01:19.242Z"
+    },
+    {
+      "headline": "Magnitude‑7.1 quake rattles Kyushu, collapses shopping mall and traps shoppers",
+      "summary": "A strong tremor struck Japan's southern island, causing a shopping centre to cave in and leaving dozens trapped. Emergency crews rushed to the scene, treating the injured and searching for survivors.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/28/nx-s1-5910498/japan-earthquake",
       "source": "NPR News",
-      "published": "2026-07-28T09:05:31-04:00"
+      "published": "2026-07-28T08:51:33-04:00"
+    },
+    {
+      "headline": "Seattle honors three victims of food‑festival shooting as 'lovers of life'",
+      "summary": "The city gathered to remember the three people killed in a tragic shooting at a local food festival. Speakers highlighted the victims' vibrant spirits and the community's resolve to heal.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T11:50:59.110Z"
+    },
+    {
+      "headline": "French warship fires 17 rounds during live BBC interview with Chris Philp",
+      "summary": "While being interviewed, Shadow Home Secretary Chris Philp watched a naval vessel conduct a shooting drill, discharging 17 shells. The unexpected demonstration underscored the tension between political discourse and military readiness.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cy4ker2y1mko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T10:48:33.441Z"
     }
   ]
 }
