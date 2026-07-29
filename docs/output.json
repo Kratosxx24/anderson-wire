@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-29T16:07:24.508062+00:00",
+  "generated_at": "2026-07-29T17:36:41.642949+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Frontier Lab Agent Breach: July 2026 Technical Timeline Revealed",
-      "summary": "Hugging Face published a detailed forensic account of a sophisticated intrusion into Frontier Lab’s agent infrastructure in July 2026. The report outlines the attack vectors, escalation steps, and mitigation actions taken after the breach.",
+      "headline": "Anthropic’s Claude Flags Flaws in HAWK Cipher and AES Variant",
+      "summary": "Researchers used Claude Mythos to uncover mathematical vulnerabilities in the HAWK encryption scheme and a reduced‑strength AES design. The findings are theoretical and do not threaten current systems.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-28T22:45:37+00:00"
+    },
+    {
+      "headline": "Hugging Face Publishes Detailed Timeline of OpenAI’s July 2026 Front‑line Lab Breach",
+      "summary": "The report maps the step‑by‑step exploitation of a Frontier Lab agent that gave attackers access to OpenAI’s infrastructure. It highlights sophisticated lateral movement and data exfiltration tactics used in the incident.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
@@ -12,17 +21,35 @@
       "published": "2026-07-28T21:28:54+00:00"
     },
     {
-      "headline": "Birds as Divine Design: 11,000 Species Highlight Creation",
-      "summary": "The Gospel Coalition reflects on the sheer diversity of avian life as evidence of intentional design. It argues that the abundance of bird species invites believers to recognize a purposeful creator.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/gospel-according-birds/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-29T04:00:00+00:00"
+      "headline": "Saudi Forces Join U.S. in Airstrikes Against Iran‑Backed Militias in Iraq",
+      "summary": "U.S. Central Command says proxy attacks targeted American bases and Saudi energy sites, prompting coordinated strikes. The operation aims to degrade militia capabilities across the region.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T23:27:30.555Z"
     },
     {
-      "headline": "Leading Through Weakness: Pastoring Amid Family Crisis",
-      "summary": "9Marks urges church leaders to embrace vulnerability rather than mask personal turmoil. By sharing their struggles, pastors can model Christ’s grace and deepen congregational trust.",
+      "headline": "Bill Simmons Questions Jaylen Brown’s Fit in Philly, Predicts He’ll Play Derrick White Role",
+      "summary": "Simmons notes Brown’s shift from seeking a franchise to becoming the fourth option on the Sixers. He suggests the veteran guard will assume a supporting, defensive role.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1v9u878/bill_simmons_i_dont_know_if_this_is_the_best/",
+      "source": "r/NBA",
+      "published": "2026-07-29T12:03:37+00:00"
+    },
+    {
+      "headline": "Why Deuteronomy Deserves More Attention, Says Dr. W. Robert Godfrey",
+      "summary": "In a recent video, Godfrey argues that Deuteronomy is a theological cornerstone for Christians. He encourages believers to study its covenantal themes often overlooked.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://tabletalkmagazine.com/posts/what-is-an-underappreciated-old-testament-book/",
+      "source": "Tabletalk",
+      "published": "2026-07-29T04:00:42+00:00"
+    },
+    {
+      "headline": "Leading a Congregation Through Personal Crisis, Not Pretending All Is Well",
+      "summary": "The author urges pastors to minister from vulnerability, allowing Christ’s grace to shine. The piece stresses authenticity over façade in church leadership.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.9marks.org/article/pastoring-amid-family-turmoil/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-amid-family-turmoil",
@@ -30,26 +57,17 @@
       "published": "2026-07-28T20:49:08+00:00"
     },
     {
-      "headline": "Claude Mythos Uncovers Flaws in HAWK and AES Variants",
-      "summary": "Anthropic researchers used the Claude Mythos model to identify mathematical weaknesses in the HAWK cipher and a reduced‑strength AES version. While the findings are academically interesting, they have no immediate impact on current cryptographic deployments.",
+      "headline": "Apple Launches ‘Apple Upgrade’ Leasing Program with Klarna",
+      "summary": "The new service lets U.S. customers lease iPhones, Macs, iPads, and Apple Watches at near‑zero interest. It’s available online, via the Apple Store app, and in physical stores.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-28T22:45:37+00:00"
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "source": "Daring Fireball",
+      "published": "2026-07-28Z"
     },
     {
-      "headline": "TurboFieldfare: Run Gemma 4‑26B on M‑Series Macs with 2 GB RAM",
-      "summary": "A developer released an open‑source Swift/Metal engine that runs the 4‑bit Gemma 4‑26B model on any Apple M‑series Mac using roughly 2 GB of memory. The project showcases on‑device AI performance previously thought impossible on consumer hardware.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "source": "Hacker News",
-      "published": "2026-07-29T15:05:43+00:00"
-    },
-    {
-      "headline": "HARDBODY: Special Interest’s Alli Logout Teams with Margo XS",
-      "summary": "The new collaborative record blends punk energy with club‑ready production, delivering chaotic hedonism and sharp humor. Critics note the chemistry between Logout’s raw vocals and Margo XS’s polished beats.",
+      "headline": "Alli Logout and Margo XS Deliver Hedonistic Club Track ‘HARDBODY’",
+      "summary": "Former Special Interest guitarist Alli Logout teams with pop producer Margo XS for a chaotic, humor‑laden dance record. The song blends punk energy with glossy club production.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/debasement-hardbody/",
@@ -57,17 +75,71 @@
       "published": "2026-07-29T04:02:00+00:00"
     },
     {
-      "headline": "Hugging Face Details Frontier‑Lab Agent Intrusion",
-      "summary": "An article on Hacker News links to a Hugging Face page that documents the same July 2026 breach of Frontier Lab’s agents. The write‑up includes timestamps, technical artifacts, and community commentary.",
-      "category": "Tech/AI",
+      "headline": "Two Firefighters Killed as Crete Wildfires Rage Amid Gale‑Force Winds",
+      "summary": "Fierce winds have driven flames across southern Crete, forcing village evacuations. The blaze is part of a broader surge of wildfires threatening southern Europe.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
-      "source": "Hacker News",
-      "published": "2026-07-29T15:01:52+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T11:42:05.724Z"
     },
     {
-      "headline": "Physical AI Showdown: GPT‑5.6 vs. Claude Fable 5",
-      "summary": "A benchmark compares the latest GPT‑5.6 model against Claude Fable 5 on tasks involving real‑world physics reasoning. Early results suggest modest advantages for GPT‑5.6, though both models lag behind specialized simulators.",
+      "headline": "Japan Endures More Than 100 Aftershocks Following Deadly Quake",
+      "summary": "A powerful earthquake that claimed 13 lives has left the nation on high alert for further tremors, some potentially reaching magnitude 7. Authorities urge residents to stay prepared.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T11:10:54.672Z"
+    },
+    {
+      "headline": "Kedge Launches Global Serverless Platform with Forkable VM Snapshots",
+      "summary": "Kedge offers a full‑stack cloud that lets developers run stateful serverless workloads using forkable VM snapshots and a globally replicated SQLite. The creator, a former Fly.io engineer, demonstrates deployment with a one‑line SSH command.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://kedge.dev/",
+      "source": "Hacker News",
+      "published": "2026-07-29T16:15:57+00:00"
+    },
+    {
+      "headline": "U.S. and Iran Clash Again as Senate Prepares to Grill Fauci",
+      "summary": "After Iran struck U.S. forces in the Middle East, both sides have resumed hostilities, raising regional tensions. Meanwhile, a Senate committee is set to question Dr. Anthony Fauci about the U.S. COVID‑19 response.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "source": "NPR News",
+      "published": "2026-07-29T07:00:47-04:00"
+    },
+    {
+      "headline": "Tokenless Introduces AI Gateway That Switches Models to Cut Costs",
+      "summary": "Tokenless provides an API gateway that dynamically routes requests between different large‑language models, optimizing for price without sacrificing performance. The YC‑backed startup aims to address the growing concern over AI token expenses.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://usetokenless.com/",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:55:27+00:00"
+    },
+    {
+      "headline": "Iran Fires Missiles Amid U.S.-Saudi Strikes on Iraq Militias",
+      "summary": "Iran launched another wave of missile attacks while the United States and Saudi Arabia hit Tehran‑aligned militia targets in Iraq, escalating a multi‑front conflict. The flare‑up threatens to reignite a broader war that has already disrupted the global economy.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+      "source": "NPR News",
+      "published": "2026-07-29T05:07:03-04:00"
+    },
+    {
+      "headline": "TurboFieldfare Runs 26‑Billion‑Parameter Gemma Model on M‑Series Macs with 2 GB RAM",
+      "summary": "Developer released TurboFieldfare, a Swift‑Metal inference engine that runs the 4‑bit Gemma 4 26B model on any Apple M‑series Mac using roughly 2 GB of memory. The open‑source tool showcases on‑device AI capabilities previously thought impossible.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:05:43+00:00"
+    },
+    {
+      "headline": "Benchmark Pits GPT‑5.6 Against Claude Fable 5 in Physical AI Tasks",
+      "summary": "A recent evaluation compares OpenAI’s GPT‑5.6 and Anthropic’s Claude Fable 5 on tasks involving physical reasoning and interaction. The study, posted on JuliaHub, highlights strengths and weaknesses of each model for embodied AI applications.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
@@ -75,53 +147,44 @@
       "published": "2026-07-29T14:56:28+00:00"
     },
     {
-      "headline": "Self‑Hosting Kimi K3 Cuts Costs, Boosts Task Success",
-      "summary": "Hosting the Kimi K3 model locally raises hardware expenses by about 20% but improves task resolution rates by a similar margin. The analysis weighs the trade‑off for enterprises seeking tighter control over AI workloads.",
-      "category": "Tech/AI",
+      "headline": "Zelensky and Netanyahu Hold Back‑to‑Back Talks with Trump Amid Ongoing Wars",
+      "summary": "Ukrainian President Volodymyr Zelensky and Israeli Prime Minister Benjamin Netanyahu met separately with President Joe Biden at the White House, expressing cautious optimism. Their meetings occur as the conflicts in Ukraine and Iran continue to strain global stability.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://aistack.imec-int.com/blog/gpu-self-hosting",
-      "source": "Hacker News",
-      "published": "2026-07-01"
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T20:08:44.185Z"
     },
     {
-      "headline": "Integrating AI Directly into the Linux Kernel",
-      "summary": "A blog post explores recent efforts to embed artificial‑intelligence capabilities within Linux, from predictive scheduling to on‑the‑fly code analysis. The author argues that native AI could streamline system administration and performance tuning.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://drewdevault.com/blog/AI-in-Linux/",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:00:03+00:00"
+      "headline": "Clippers Said to Float $20 Million One‑Year Deal to LeBron James",
+      "summary": "Reports suggest the Los Angeles Clippers are prepared to sign LeBron James to a single‑year contract worth $20 million. The proposal reflects the team's interest in adding the veteran star for the upcoming season.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1v9w7gw/dave_mcmenamin_the_clippers_were_reportedly/",
+      "source": "r/NBA",
+      "published": "2026-07-29T13:27:27+00:00"
     },
     {
-      "headline": "GitHub and NPM Roll Out New Defenses Against Supply‑Chain Hijacks",
-      "summary": "The blog outlines new security measures aimed at stopping malicious code injections in NPM packages and GitHub Actions workflows. By tightening verification and monitoring, the platforms hope to curb the rising tide of supply‑chain compromises.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "source": "Hacker News",
-      "published": "2026-07-28T16:00:00+00:00"
+      "headline": "Kevin Durant Returns After 561‑Day Achilles Layoff, Maintains Production",
+      "summary": "After missing 561 days with an Achilles injury, Kevin Durant resumed play in December 2020 and posted stats almost identical to his pre‑injury years. His scoring, rebounding, and efficiency metrics show little decline despite the long recovery.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1va194b/kd_went_561_days_in_between_nba_games_due_to_an/",
+      "source": "r/NBA",
+      "published": "2026-07-29T16:30:20+00:00"
     },
     {
-      "headline": "AI‑Powered Worms Can Auto‑Spread via Copilot in Word Documents",
-      "summary": "Researchers demonstrate that malicious macros can exploit GitHub Copilot’s code suggestions to embed self‑replicating AI scripts in Word files. The proof‑of‑concept shows how AI assistance tools could unintentionally become vectors for rapid malware distribution.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-      "source": "Hacker News",
-      "published": "2026-07-28T14:00:00+02:00"
-    },
-    {
-      "headline": "Why Deuteronomy Deserves More Spotlight in Christian Study",
-      "summary": "Dr. W. Robert Godfrey argues that Deuteronomy’s covenantal themes and legal foundations are crucial for understanding the rest of Scripture. He encourages believers to revisit the book for its theological depth and practical guidance.",
+      "headline": "Birds as a Testament to Divine Creativity",
+      "summary": "The article reflects on the existence of over 11,000 bird species as evidence of a purposeful creator. It invites readers to notice the natural world as a reflection of divine intention.",
       "category": "Faith",
       "relevance": 7,
-      "url": "https://tabletalkmagazine.com/posts/what-is-an-underappreciated-old-testament-book/",
-      "source": "Tabletalk",
-      "published": "2026-07-29T04:00:42+00:00"
+      "url": "https://www.thegospelcoalition.org/article/gospel-according-birds/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-29T04:00:00+00:00"
     },
     {
-      "headline": "Singer‑Songwriter’s New Album Marries Jazz Mysticism with Trip‑Hop",
-      "summary": "The record blends ethereal jazz improvisations with dark, beat‑driven trip‑hop textures, pushing the artist into uncharted sonic territory. While some experiments feel uneven, the bold fusion creates a compelling, immersive listening experience.",
+      "headline": "Singer‑Songwriter Melds Jazz Mysticism with Trip‑Hop on Bold New Album",
+      "summary": "She explores ethereal jazz vibes and gritty trip‑hop beats, taking creative risks that mostly pay off. The record feels arresting and showcases her willingness to push genre boundaries.",
       "category": "Music",
       "relevance": 7,
       "url": "https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/",
@@ -129,44 +192,35 @@
       "published": "2026-07-29T04:01:00+00:00"
     },
     {
-      "headline": "U.S. and Iran Clash Again as Senate Prepares to Grill Fauci on Pandemic",
-      "summary": "After Iran launched missiles at U.S. forces, both sides exchanged fire, raising tensions in the Middle East. Meanwhile, a Senate committee has scheduled a high‑profile hearing to question Dr. Fauci about his handling of COVID‑19.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "source": "NPR News",
-      "published": "2026-07-29T07:00:47-04:00"
-    },
-    {
-      "headline": "Escalation in Middle East: Iran Fires Missiles While U.S. and Saudi Forces Hit Proxy Militias",
-      "summary": "Renewed Iranian missile strikes coincide with coordinated U.S. and Saudi air raids on Iran‑aligned groups in Iraq, widening the conflict. Analysts warn the multi‑front flare‑up could spiral into a broader war, threatening global markets.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-      "source": "NPR News",
-      "published": "2026-07-29T05:07:03-04:00"
-    },
-    {
-      "headline": "U.S. Bankruptcy Filings Jump 48% Since 2022, Yet Remain Below Pre‑Pandemic Levels",
-      "summary": "Recent data shows a sharp rise in personal bankruptcies over the past three years, reflecting lingering economic strain. However, the overall filing rate is still modest compared to the highs of the early 2020s, suggesting a partial recovery.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
-      "source": "NPR News",
-      "published": "2026-07-29T05:00:00-04:00"
-    },
-    {
-      "headline": "Critics Slam Apple’s App Store Rating Model as Unfair and Hostile",
-      "summary": "An op‑ed argues that Apple’s current rating algorithm penalizes smaller developers and skews visibility toward larger players. The piece calls for a transparent, merit‑based system to restore competition on the platform.",
+      "headline": "Design Patterns for Building Scalable Agentic Systems",
+      "summary": "The Render blog outlines architectural approaches for deploying autonomous AI agents, emphasizing modularity, observability, and cost control. It offers practical guidance for engineers looking to operationalize self‑directing applications.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://lapcatsoftware.com/articles/2026/7/14.html",
+      "url": "https://render.com/blog/infrastructure-patterns-for-agentic-applications",
       "source": "Hacker News",
-      "published": "2026-07-29T15:29:37+00:00"
+      "published": "2026-07-29T16:59:04+00:00"
     },
     {
-      "headline": "Upstate New York School Halts Deployment of Humanoid AI Teacher Amid Outcry",
-      "summary": "Plans to introduce an AI‑powered robot into classrooms were suspended after educators, parents, and state officials raised safety and ethical concerns. The district will reassess the technology’s role before any future rollout.",
+      "headline": "French Firefighters Battle Blaze in 40°C Heat as Evacuations Falter",
+      "summary": "Crews in Gironde confront stubborn flames under scorching temperatures, hampered by residents refusing to leave. The heat intensifies flare‑ups, stretching resources thin.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T16:27:51.965Z"
+    },
+    {
+      "headline": "Fauci Declines to Answer Covid Origin Queries, Citing Perjury Risk",
+      "summary": "The former CDC chief refused to respond to senators, warning that Republican investigators might use his testimony against him. His silence underscores the politicized nature of the origins debate.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T13:21:13.630Z"
+    },
+    {
+      "headline": "Upstate New York School Halts AI Humanoid Teacher After Community Outcry",
+      "summary": "District officials paused the rollout of a human‑like AI robot after teachers, regulators, and parents raised safety and ethical concerns. The decision reflects growing scrutiny of AI in classrooms.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
@@ -174,8 +228,44 @@
       "published": "2026-07-29T05:24:52-04:00"
     },
     {
-      "headline": "Qwen Scribe Brings Offline Speech‑to‑Text to Apple Silicon Macs",
-      "summary": "An open‑source project offers fast, on‑device transcription and dictation using the Qwen language model, optimized for Apple’s M‑series chips. By keeping data local, it aims to provide privacy‑focused alternatives to cloud‑based voice services.",
+      "headline": "AI Art Museum Positions Machines as Creative Partners",
+      "summary": "Artist Refik Anadol’s Dataland invites visitors into an immersive space where algorithms co‑author visual experiences. The exhibit challenges notions of reality and authorship in the age of generative AI.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+      "source": "NPR News",
+      "published": "2026-07-29T05:00:00-04:00"
+    },
+    {
+      "headline": "Russia Accuses Telegram Creator of Terrorism Facilitation",
+      "summary": "The FSB alleges Pavel Durov’s messaging platform failed to purge channels used by Ukraine’s intelligence for recruitment. The charges aim to pressure the app over alleged extremist content.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T09:51:49.769Z"
+    },
+    {
+      "headline": "Federal Reserve Poised to Hold or Raise Rates Amid Stubborn Inflation",
+      "summary": "Policymakers convene to decide whether to keep interest rates steady or hike them to curb price pressures. Markets watch closely as the outcome will shape the economic outlook.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
+      "source": "NPR News",
+      "published": "2026-07-29T05:00:00-04:00"
+    },
+    {
+      "headline": "Inside a Frontier‑Lab Model Breach on Hugging Face",
+      "summary": "The report details how an adversary infiltrated a cutting‑edge AI model, exposing vulnerabilities in deployment pipelines. It serves as a cautionary case for securing open‑source AI ecosystems.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:01:52+00:00"
+    },
+    {
+      "headline": "Qwen Scribe Brings Offline Transcription to Apple Silicon Macs",
+      "summary": "The open‑source tool enables local speech‑to‑text and dictation without cloud services, leveraging Apple’s M‑series chips. Early adopters praise its speed and privacy‑first design.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://github.com/VladUZH/qwen-scribe",
@@ -183,26 +273,8 @@
       "published": "2026-07-29T14:47:22+00:00"
     },
     {
-      "headline": "Graph Engineering Demands Its Own Compiler",
-      "summary": "The article argues that complex graph pipelines need a dedicated compiler to achieve efficient execution, drawing parallels to traditional programming languages. It outlines current challenges and proposes design principles for such a system.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://fluxtion-playground.dev/blog/2026-07-29-graph-engineering-needs-a-compiler",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:32:23+00:00"
-    },
-    {
-      "headline": "Valve Funds Open-Source RADV Driver Port to Windows",
-      "summary": "Valve is sponsoring development to bring the open-source RADV Vulkan driver to Windows, aiming to boost AMD GPU performance for gamers. The initiative could expand driver support and strengthen the Linux gaming ecosystem on Windows platforms.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows",
-      "source": "Hacker News",
-      "published": "2026-07-29T13:55:00+00:00"
-    },
-    {
-      "headline": "Long Policy Docs Fail to Govern AI Agents, Study Finds",
-      "summary": "A new research paper shows that extensive policy documents often do not reliably guide AI agents, resulting in unpredictable actions. The authors recommend alternative alignment strategies beyond verbose rule sets.",
+      "headline": "Study Finds Lengthy Policies Fail to Control AI Agents",
+      "summary": "The paper argues that extensive policy documents often do not translate into predictable behavior from AI agents. It suggests alternative governance mechanisms are needed.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://arxiv.org/abs/2607.25398",
@@ -210,53 +282,44 @@
       "published": "2026-07-29T13:01:57+00:00"
     },
     {
-      "headline": "Japan Races to Rescue Quake Victims After Kyushu Shock",
-      "summary": "A 6.8‑magnitude earthquake on Kyushu killed at least 13 and left many trapped under rubble, prompting urgent rescue efforts. Authorities and volunteers are racing against time to locate survivors before conditions deteriorate.",
+      "headline": "Mexican Cartels Shift Meth Production to Nigeria",
+      "summary": "West Africa is becoming a hub for Mexican drug syndicates to set up methamphetamine labs. The move exploits lax enforcement and facilitates global drug trafficking.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-29T06:10:19+00:00"
+      "published": "2026-07-28T23:25:53.814Z"
     },
     {
-      "headline": "Zelensky, Netanyahu Hold Bilateral Talks with Trump Amid Ongoing Wars",
-      "summary": "Ukrainian President Volodymyr Zelensky and Israeli Prime Minister Benjamin Netanyahu each met President Donald Trump at the White House. Both leaders expressed optimism about continued support as conflicts in Ukraine and Iran persist.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T20:08:44.185Z"
+      "headline": "Doncic Organizes Lakers Mini‑Camp in Slovenia",
+      "summary": "Dallas star Luka Doncic will host the entire Los Angeles Lakers for a four‑day training and bonding session in Ljubljana this August. The itinerary mixes workouts, golf, and sightseeing to integrate the roster ahead of the season.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1va0g5o/luka_doncic_is_hosting_the_entire_los_angeles/",
+      "source": "r/NBA",
+      "published": "2026-07-29T16:02:49+00:00"
     },
     {
-      "headline": "Survivors Describe Terror of Japan’s Devastating Quake",
-      "summary": "Eyewitnesses of the Kyushu earthquake recount harrowing moments, saying they feared for their lives as aftershocks continued. Rescue teams remain on site, while communities grapple with loss and trauma.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T06:07:26.179Z"
+      "headline": "Adebayo Praises LeBron’s Free‑Agency Choice, Remains Friend",
+      "summary": "Miami’s Bam Adebayo expressed support for LeBron James after the star opted for the Philadelphia 76ers over the Heat. He emphasized their friendship and wished James success in his new situation.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v9xuif/chiang_bam_adebayo_to_me_you_should_always_be/",
+      "source": "r/NBA",
+      "published": "2026-07-29T14:29:51+00:00"
     },
     {
-      "headline": "Palestinian Village Faces Weekly Sieges by Israeli Settlers",
-      "summary": "Residents of al‑Mughayyir report daily attacks that have turned their homes into frontlines in the West Bank. The report highlights escalating violence and the impact on civilian life.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T05:01:12.292Z"
+      "headline": "Fans Seek Examples of Sudden, Unexplained Decline in NBA Stars",
+      "summary": "A Reddit thread asks for cases where elite players dropped in performance without age or injury factors. Contributors mention rare instances but note most declines are linked to health or aging.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1v9orvf/has_there_been_a_player_who_just_became/",
+      "source": "r/NBA",
+      "published": "2026-07-29T07:14:07+00:00"
     },
     {
-      "headline": "Sudan City’s Displaced Populations Threatened by Renewed Fighting",
-      "summary": "Thousands sheltering in a key Darfur city confront renewed danger as militia clashes intensify. International officials warn the Rapid Support Forces may launch a fresh offensive, raising fears of further atrocities.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T05:01:46.639Z"
-    },
-    {
-      "headline": "July 2026’s Must‑Read New Christian Books",
-      "summary": "A curated selection showcases the most notable Christian titles released in July, each accompanied by editorial descriptions. The guide helps readers discover fresh spiritual literature across genres.",
+      "headline": "July 2026 Highlights Fresh Christian Book Releases",
+      "summary": "A curated list showcases the most noteworthy Christian titles launched this month, complete with editorial blurbs. Readers are invited to explore the diverse themes and authors featured.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/new-and-notable-christian-books-for-july-2026/",
@@ -264,35 +327,44 @@
       "published": "2026-07-29T04:02:00+00:00"
     },
     {
-      "headline": "Missing Underscores Led to 18‑Month Wrongful Prison Sentence",
-      "summary": "An investigative report reveals that a typo involving absent underscores caused law enforcement to misidentify a suspect, resulting in an 18‑month incarceration. The case highlights the critical importance of precise data handling in criminal investigations.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "source": "Daring Fireball",
-      "published": "2026-07-27T20:22:03+00:00"
-    },
-    {
-      "headline": "Cesium DevCon 2026 Talks Now Available",
-      "summary": "The Cesium Developer Conference 2026 talks are now available online, featuring a keynote from the creator of SQLite. This collection of talks provides valuable insights into the latest developments in the field of 3D mapping and geospatial technology.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://cesium.com/events/cesium-developer-conference/2026/",
-      "source": "Hacker News",
-      "published": "2026-07-29T15:13:25+00:00"
-    },
-    {
-      "headline": "Saudi Arabia Joins US in Airstrikes Against Iran-Backed Militias",
-      "summary": "Saudi Arabia has joined the US in conducting airstrikes against Iran-backed militias in Iraq, in response to attacks on US bases and Saudi energy infrastructure. The move marks an escalation of tensions in the region and highlights the complex web of alliances and rivalries at play.",
+      "headline": "‘Taiwan Travelogue’ Wins Booker, Challenges Colonial Narrative",
+      "summary": "The International Booker‑winning work examines Taiwan’s identity amid its Japanese colonial past and rising Chinese pressure. Its author and translator discuss how history and politics shape contemporary self‑perception.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T23:27:30.555Z"
+      "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
+      "source": "NPR News",
+      "published": "2026-07-29T12:55:54-04:00"
     },
     {
-      "headline": "Rapper Fox BD Releases New Mixtape",
-      "summary": "Fox BD's latest mixtape has been released, showcasing his unique blend of personal and often humorous lyrics. While the new release has its moments, it lacks the energy and punch of his previous work, which had already made a significant impact on the music scene.",
+      "headline": "uv 0.12.0 Introduces Breaking Changes to Project Initialization",
+      "summary": "The latest uv version updates the default layout generated by the uv init command, altering directory structures from previous releases. Developers are advised to review the migration guide before upgrading.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-28T21:51:38+00:00"
+    },
+    {
+      "headline": "Keychron Releases First Open‑Source Firmware for Gaming Mice",
+      "summary": "The peripheral maker announced a publicly available firmware that lets users customize mouse behavior. The move aims to foster community-driven improvements and transparency.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:00:00+00:00"
+    },
+    {
+      "headline": "eBay Pays $56 Million to End Cyberstalking Lawsuit",
+      "summary": "eBay and three former executives agreed to a $55.7 million settlement with a Massachusetts couple targeted in a 2019 harassment campaign. The deal concludes a protracted legal battle over the company's alleged role in the stalking.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "source": "Daring Fireball",
+      "published": "2026-07-28T21:11:11+00:00"
+    },
+    {
+      "headline": "Fox BD's New Mixtape Falters Without Its Usual Energy",
+      "summary": "Pitchfork praises Fox BD’s latest mixtape as one of the year’s best but notes it lacks the punchy vigor of his earlier work. The reviewer suggests a boost of that signature intensity would elevate the project.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/fox-bd-finessin-distribution-deals/",
@@ -300,154 +372,82 @@
       "published": "2026-07-29T04:00:00+00:00"
     },
     {
-      "headline": "Fauci Refuses to Testify at US Senate Hearing",
-      "summary": "Former top US health official Anthony Fauci has refused to answer questions at a US Senate hearing about the origins of Covid-19, citing concerns that his testimony could be used against him. Fauci's decision highlights the increasingly partisan nature of the debate over the pandemic and its origins.",
+      "headline": "Hashimoto Explores ‘Superlogical’ Thinking in New Essay",
+      "summary": "Mitchell Hashimoto outlines his concept of superlogical reasoning in a freshly published essay. He argues the approach can reshape how developers solve complex problems.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://mitchellh.com/writing/superlogical",
+      "source": "Hacker News",
+      "published": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "headline": "Hashimoto Launches Superlogical Startup",
+      "summary": "Building on his recent essay, Hashimoto has founded a company called Superlogical to commercialize his ideas. The venture aims to deliver tools that embed superlogical principles into software development workflows.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.superlogical.com/",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:41:33+00:00"
+    },
+    {
+      "headline": "Cesium DevCon 2026 Announces Lineup, SQLite Creator to Keynote",
+      "summary": "The upcoming Cesium Developer Conference reveals a slate of talks covering 3D geospatial tech and related topics. Dr. Richard Hipp, the creator of SQLite, will deliver the opening keynote.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://cesium.com/events/cesium-developer-conference/2026/",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:13:25+00:00"
+    },
+    {
+      "headline": "U.S. Bankruptcy Filings Jump 48% Since 2022",
+      "summary": "NPR reports a sharp rise in personal bankruptcies, up nearly half between 2022 and 2025. Although still below pre‑pandemic levels, the trend signals growing financial distress for many Americans.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T13:21:13.630Z"
-    },
-    {
-      "headline": "PostgreSQL's MVCC System Under Fire",
-      "summary": "A recent article has criticized the Multiversion Concurrency Control (MVCC) system used by PostgreSQL, arguing that it is flawed and inefficient. The critique is not unique to PostgreSQL, as many other databases also use similar MVCC systems that are prone to similar issues.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://boringsql.com/posts/mvcc-bad-bad/",
-      "source": "Hacker News",
-      "published": "2026-07-27"
-    },
-    {
-      "headline": "New Museum of AI Art Opens in Los Angeles",
-      "summary": "A new museum of AI art has opened in Los Angeles, featuring immersive and interactive exhibits that explore the possibilities of artificial intelligence in creative fields. The museum's mission is to push the boundaries of what is possible with AI and challenge visitors to think about the future of art and reality.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5896065/personal-bankruptcy-rates-rising",
       "source": "NPR News",
       "published": "2026-07-29T05:00:00-04:00"
     },
     {
-      "headline": "AI Companies Recruiting Thousands of Electricians and Carpenters",
-      "summary": "AI companies are hiring thousands of electricians and carpenters to work on the construction and maintenance of massive data centers that power their operations. This unexpected recruitment drive highlights the often-overlooked physical infrastructure that underpins the AI industry.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:43:47+00:00"
-    },
-    {
-      "headline": "Federal Reserve Faces Critical Interest Rate Decision",
-      "summary": "The Federal Reserve is meeting to decide on interest rates, with policymakers expected to hold rates steady despite concerns about stubborn inflation. The decision will have significant implications for the US economy and could impact everything from borrowing costs to job creation.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-      "source": "NPR News",
-      "published": "2026-07-29T05:00:00-04:00"
-    },
-    {
-      "headline": "Democrats Urged to Change Messaging to Win Back Working-Class Voters",
-      "summary": "A new report suggests that the Democratic Party needs to change its messaging if it wants to win back working-class voters who have drifted away in recent years. The report argues that the party's focus on democracy and abstract principles is not resonating with these voters, who are more concerned with economic issues and practical solutions.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5905696/2026-midterm-elections-democrats-working-class",
-      "source": "NPR News",
-      "published": "2026-07-29T05:00:00-04:00"
-    },
-    {
-      "headline": "Ghana Hit by Nationwide Power Outage",
-      "summary": "A massive power outage has struck Ghana, leaving homes, businesses, and essential services without electricity. The blackout is believed to have been caused by the failure of multiple power plants, and officials are working to restore power as quickly as possible.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T12:10:40.675Z"
-    },
-    {
-      "headline": "EFF warns San Francisco against overpriced surveillance contracts",
-      "summary": "The Electronic Frontier Foundation argues the city is being sold inflated surveillance tools under the guise of justified pricing. Industry claims mask a profit-driven scheme that threatens privacy and wastes public funds.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.eff.org/deeplinks/2026/07/san-francisco-dont-fall-industry-defense-surveillance-pricing",
-      "source": "Hacker News",
-      "published": "2026-07-28T14:55:43-07:00"
-    },
-    {
-      "headline": "Godot VR launch and PSVR2 port: lessons from a partial post‑mortem",
-      "summary": "A developer recounts the challenges of shipping Godot's VR support and adapting it for PlayStation VR2, highlighting technical hurdles and community feedback. The post‑mortem offers practical takeaways for indie engine creators tackling emerging hardware.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-      "source": "Hacker News",
-      "published": "2026-07-18T13:46:27&#43;01:00"
-    },
-    {
-      "headline": "Mexican cartels shift meth production to Nigeria’s drug‑trade frontier",
-      "summary": "Facing pressure at home, Mexican syndicates are outsourcing meth labs to West Africa, exploiting lax enforcement and local networks. Nigeria is emerging as a key hub for manufacturing and exporting the drug to Europe and beyond.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T23:25:53.814Z"
-    },
-    {
-      "headline": "GPU texture lookup speeds up Bézier curve evaluation",
-      "summary": "Researchers present a method that leverages GPU texture sampling to compute Bézier curves more efficiently than traditional algorithms. The technique promises higher frame rates for graphics applications that rely on complex curve rendering.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://jcgt.org/published/0015/02/01/",
-      "source": "Hacker News",
-      "published": "2026-07-29T12:40:13+00:00"
-    },
-    {
-      "headline": "Interactive maps track 2026 European wildfires and response tactics",
-      "summary": "Maps reveal the rapid spread of this summer’s fires across Spain and France, driven by heatwaves and drought. Authorities are deploying new firefighting strategies and resources to curb the blazes.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-27T14:21:32.389Z"
-    },
-    {
-      "headline": "French firefighting planes dump water as heat fuels raging wildfires",
-      "summary": "Aerial crews intensify water‑drop missions to contain fast‑moving fires amid soaring temperatures. The operation aims to protect villages and limit the destruction of forested areas.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/cly8xvvj8yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T14:25:33+00:00"
-    },
-    {
-      "headline": "Japan endures over 100 aftershocks following deadly 7.2 quake",
-      "summary": "A powerful earthquake that claimed 13 lives has triggered more than a hundred aftershocks across the region. Officials warn residents to stay alert for possible larger tremors.",
-      "category": "World",
+      "headline": "Walton’s Interim Coaching of Warriors’ Record Season Fades From Memory",
+      "summary": "Luke Walton guided the Golden State Warriors to a 39‑4 stretch during their historic 73‑9 campaign, but rule changes now credit the head coach for those wins. As a result, his contribution risks being overlooked.",
+      "category": "NBA",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T11:10:54.672Z"
+      "url": "https://old.reddit.com/r/nba/comments/1v9vdsy/i_feel_like_its_going_to_end_up_being_almost/",
+      "source": "r/NBA",
+      "published": "2026-07-29T12:54:50+00:00"
     },
     {
-      "headline": "Challies’ July 29 ‘A La Carte’ tackles Nigerian Christian persecution and more",
-      "summary": "The latest edition surveys claims of genocide against Nigerian Christians, offers theological reflections, and mixes cultural commentary with a bestiary of sin. It rounds out the issue with assorted essays and news highlights.",
+      "headline": "Durant’s Career Minutes Trail LeBron’s Even After 19 Seasons",
+      "summary": "At 37, Kevin Durant has logged 51,011 minutes across 19 NBA seasons, still fewer than LeBron James’s 54,347 minutes before joining the Lakers. The comparison highlights the differing durability trajectories of the two stars.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1v9n912/37_yo_kevin_durant_entering_his_19th_active_nba/",
+      "source": "r/NBA",
+      "published": "2026-07-29T05:52:01+00:00"
+    },
+    {
+      "headline": "Challies ‘A La Carte’ July Issue Covers Faith, Sin, and Global Issues",
+      "summary": "The July 29 edition of Challies’ A La Carte features pieces on Nigerian Christians, moral dilemmas, a taxonomy of sin, and other topical Christian reflections. Readers get a varied mix of theological insight and cultural commentary.",
       "category": "Faith",
-      "relevance": 4,
+      "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-july-29-2026/",
       "source": "Challies",
       "published": "2026-07-29T04:01:00+00:00"
     },
     {
-      "headline": "Wimbledon adds Indian ice cream and Bollywood beats to courtside menu",
-      "summary": "In a bid to court Indian cricket fans, Wimbledon has introduced Indian‑flavored desserts and Bollywood music, breaking from its traditionally restrained atmosphere. The move signals a broader push to attract a global audience.",
+      "headline": "Sichuan Blue Whales Record 0‑42 Season, CBA First",
+      "summary": "The Sichuan Blue Whales endured a winless 0‑42 campaign, the first such record in Chinese Basketball Association history. Their losing streak stretched over 130 days, dwarfing the NBA’s longest run of defeats.",
       "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T22:05:26.031Z"
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1v9xno9/the_sichuan_blue_whales_went_042_in_the_cba_last/",
+      "source": "r/NBA",
+      "published": "2026-07-29T14:22:50+00:00"
     },
     {
-      "headline": "Emily Wilson says Nolan’s ‘Odyssey’ needed a professional screenwriter",
-      "summary": "Classicist and translator Emily Wilson criticizes Christopher Nolan’s film adaptation of the Odyssey for lacking a dedicated scriptwriter. She explains why the movie fell short of her expectations and why a writer would have improved it.",
+      "headline": "Translator Emily Wilson Criticizes Nolan’s ‘Odyssey’ Adaptation",
+      "summary": "Emily Wilson, renowned for her new translation of Homer’s Odyssey, argues that Christopher Nolan should not have written the film version of the epic. She explains her concerns and why she is revisiting the translation herself.",
       "category": "Other",
-      "relevance": 1,
+      "relevance": 3,
       "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
       "source": "NPR News",
       "published": "2026-07-29T11:51:40-04:00"
