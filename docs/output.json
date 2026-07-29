@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-07-29T21:10:56.491560+00:00",
+  "generated_at": "2026-07-29T22:35:51.288581+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "AI Worms Crawl Through Word Docs via Copilot",
-      "summary": "Researcher Håkon Måløy demonstrated a prompt‑injection technique that embeds hidden commands in a Word file, turning it into a self‑replicating worm when processed by Copilot. The exploit leverages the document as source material, allowing the malicious code to spread automatically.",
+      "headline": "AI Unicorns Shun Open Research, Keeping Findings Under Wraps",
+      "summary": "Leading AI startups are releasing few papers, opting to protect proprietary methods rather than contribute to the scientific community. This trend raises concerns about transparency and slows collective progress in the field.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-29T18:43:03+00:00"
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "source": "Hacker News",
+      "published": "2026-07-29T21:25:40+00:00"
     },
     {
-      "headline": "Hooking a Custom MCP Server into Claude and ChatGPT",
-      "summary": "A step‑by‑step guide shows how to attach a user‑run Model Context Protocol server to the chat interfaces of Claude and ChatGPT, expanding control over model interactions. The process is intricate, requiring several configuration steps before it works.",
+      "headline": "How to Hook a Custom Model‑Context‑Protocol Server into Claude and ChatGPT",
+      "summary": "A step‑by‑step guide shows developers how to integrate their own MCP server with the standard chat interfaces of Claude and ChatGPT. Though feasible, the process involves several configuration layers and careful handling of authentication.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/29/mcp-in-claude-and-chatgpt/#atom-everything",
@@ -21,8 +21,8 @@
       "published": "2026-07-29T00:13:18+00:00"
     },
     {
-      "headline": "Claude Helps Spot Flaws in HAWK and a Weak AES Variant",
-      "summary": "Anthropic researchers used the Claude Mythos tool to uncover mathematical weaknesses in the HAWK cipher and a reduced‑strength version of AES. They stress that the findings have no immediate practical impact on current computer systems.",
+      "headline": "Anthropic’s Claude Uncovers Flaws in HAWK and a Weak AES Variant",
+      "summary": "Researchers used Claude Mythos to identify mathematical vulnerabilities in the HAWK signature scheme and a reduced‑strength AES implementation. While the bugs have no immediate impact on current systems, the work demonstrates LLMs’ potential for cryptanalysis.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything",
@@ -30,17 +30,26 @@
       "published": "2026-07-28T22:45:37+00:00"
     },
     {
-      "headline": "Frontier Lab Agent Intrusion: Detailed July 2026 Timeline",
-      "summary": "Hugging Face released an exhaustive forensic timeline of an accidental OpenAI cyber‑attack on its infrastructure, outlining sophisticated tactics and the resulting fallout. The report provides a rare glimpse into the inner workings of a high‑profile breach.",
-      "category": "Tech/AI",
+      "headline": "U.S. and Iran Clash Again as Senate Prepares to Grill Fauci on Pandemic Response",
+      "summary": "After Iran struck U.S. forces in the Middle East, hostilities have reignited between the two nations. Meanwhile, a Senate committee scheduled a hearing to question Dr. Anthony Fauci about his handling of the COVID‑19 crisis.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-28T21:28:54+00:00"
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "source": "NPR News",
+      "published": "2026-07-29T07:00:47-04:00"
     },
     {
-      "headline": "GPT‑5.6 vs. Claude Fable 5 in Physical AI Benchmarks",
-      "summary": "Frontier Models evaluated GPT‑5.6 and Claude Fable 5 on real‑world robotics tasks, comparing speed, accuracy, and adaptability. Community discussion on Hacker News debates which model delivers superior performance for physical AI.",
+      "headline": "TurboFieldfare Lets M‑Series Macs Run 4‑Bit Gemma 4‑26B with Just 2 GB RAM",
+      "summary": "Developer releases a Swift‑Metal inference engine that compresses the 26‑billion‑parameter Gemma model to run on any Apple silicon Mac using minimal memory. The project showcases the feasibility of on‑device AI without cloud dependence.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:05:43+00:00"
+    },
+    {
+      "headline": "Benchmark Pits GPT‑5.6 Against Claude Fable 5 on Real‑World Physical Tasks",
+      "summary": "A recent evaluation compares the latest GPT‑5.6 model with Claude Fable 5 across a suite of physical‑AI benchmarks, measuring reasoning, planning, and sensorimotor control. Results highlight strengths and weaknesses of each system, offering guidance for developers choosing a model for embodied AI.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
@@ -48,8 +57,8 @@
       "published": "2026-07-29T14:56:28+00:00"
     },
     {
-      "headline": "Why Deuteronomy Deserves More Attention",
-      "summary": "Dr. W. Robert Godfrey argues that the often‑neglected book of Deuteronomy holds essential theological insights and should be a staple for every Christian reader. He highlights its relevance despite its low profile in popular study.",
+      "headline": "Why Deuteronomy Deserves More Attention in Modern Christian Study",
+      "summary": "Dr. W. Robert Godfrey argues that Deuteronomy, often overlooked, contains foundational theological and ethical teachings vital for believers. He encourages deeper engagement with the book to enrich faith and understanding.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://tabletalkmagazine.com/posts/what-is-an-underappreciated-old-testament-book/",
@@ -57,26 +66,8 @@
       "published": "2026-07-29T04:00:42+00:00"
     },
     {
-      "headline": "HARDBODY: Punk Meets Pop in a Chaotic Club Record",
-      "summary": "Former Special Interest vocalist Alli Logout joins pop producer Margo XS to create a club track that mixes reckless hedonism with biting humor. The collaboration blurs genre lines while delivering a wildly entertaining sound.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/debasement-hardbody/",
-      "source": "Pitchfork",
-      "published": "2026-07-29T04:02:00+00:00"
-    },
-    {
-      "headline": "Past the Veil: Jazz‑Mystic Trip‑Hop Exploration",
-      "summary": "The new album blends jazz‑infused mysticism with trip‑hop rhythms, allowing the singer‑songwriter to take daring artistic risks. The result is an arresting collection that rewards listeners with its bold textures.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/",
-      "source": "Pitchfork",
-      "published": "2026-07-29T04:01:00+00:00"
-    },
-    {
-      "headline": "Saudi Arabia Weighs Retaliation Against De‑Escalation in US‑Iran Conflict",
-      "summary": "Riyadh faces a strategic choice: continue deterrent strikes to signal strength or pursue diplomatic steps to calm rising US‑Iran tensions. The kingdom’s decision could shape regional stability in the coming months.",
+      "headline": "Saudi Arabia Weighs Deterrence vs. De‑Escalation Amid US‑Iran Tensions",
+      "summary": "The kingdom must decide whether to continue retaliatory strikes to deter Iranian aggression or pursue diplomatic de‑escalation. Its choice will shape regional stability and its own security posture.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
@@ -84,17 +75,8 @@
       "published": "2026-07-29T18:41:31.866Z"
     },
     {
-      "headline": "US and Iran Trade Fire Again; Fauci Set for Senate COVID Hearing",
-      "summary": "After Iran launched a fresh attack on U.S. forces in the Middle East, both sides resumed hostilities, raising fears of escalation. Meanwhile, a Senate committee has scheduled a hearing for Dr. Anthony Fauci to address the pandemic response.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "source": "NPR News",
-      "published": "2026-07-29T07:00:47-04:00"
-    },
-    {
-      "headline": "Iran Fires Missiles as US and Saudi Forces Hit Tehran‑Backed Militias in Iraq",
-      "summary": "Iran resumed missile strikes after coordinated US and Saudi attacks on Tehran‑aligned militias in Iraq, heightening fears of a broader war. The escalation complicates diplomatic efforts to wind down a five‑month conflict that has already unsettled global markets.",
+      "headline": "Escalation Peaks: Iran Fires Missiles While U.S. and Saudi Forces Hit Proxy Militias",
+      "summary": "Renewed missile launches from Iran coincide with coordinated U.S. and Saudi airstrikes against Tehran‑aligned groups in Iraq. The multi‑front flare‑up threatens to broaden the conflict and strain the global economy.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
@@ -102,8 +84,8 @@
       "published": "2026-07-29T05:07:03-04:00"
     },
     {
-      "headline": "Apple Says iOS 27 ‘Restricted Mode’ Not a Payment Penalty",
-      "summary": "Apple clarified that the new Restricted Mode in iOS 27, which limits the device to core apps, is not intended as a sanction for missed Upgrade Program payments. The feature is designed for specific use‑case scenarios rather than as a payment enforcement tool.",
+      "headline": "iOS 27 ‘Restricted Mode’ Targets Leased Devices, Not Late‑Paying Users",
+      "summary": "Apple clarified that the new Restricted Mode, discovered in the iOS 27 beta, limits functionality only on devices under the Upgrade Program when a lease payment is missed. The mode confines access to essential apps like Phone, Clock, and Health, not to penalize regular customers.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
@@ -111,8 +93,8 @@
       "published": "2026-07-28T20:08:13+00:00"
     },
     {
-      "headline": "Apple Launches Zero‑Interest Leasing Program with Klarna",
-      "summary": "Apple introduced Apple Upgrade, a leasing service powered by Klarna that offers near‑zero‑interest financing for iPhones, Macs, iPads, and Apple Watches in the United States. The program is available online, via the Store app, and in physical Apple locations, streamlining device upgrades.",
+      "headline": "Apple Launches Near‑Zero‑Interest Leasing via Klarna",
+      "summary": "Apple introduced Apple Upgrade, a leasing option for iPhones, Macs, iPads, Apple Watch and more, offered through Klarna. The service is available online, in the app, and in U.S. stores, letting customers spread payments with minimal interest.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
@@ -120,44 +102,17 @@
       "published": "2026-07-28Z"
     },
     {
-      "headline": "AI System Theo Conjecture Cracks 35‑Year‑Old Math Problem",
-      "summary": "The AI platform Theo Conjecture has reportedly solved a 35‑year‑old mathematical conjecture and uncovered an unexpected term in the solution. The achievement underscores the growing impact of machine learning on pure mathematics research.",
+      "headline": "AI System Theo Conjecture Cracks 35‑Year‑Old Math Puzzle",
+      "summary": "The Theo Conjecture AI resolved a longstanding conjecture, delivering a solution that includes a previously unanticipated term. Researchers hailed the breakthrough as a milestone for automated reasoning.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://firstprinciples.com/blog-article/ai-system-theo-conjecture-solves-35-year-old-math-conjecture",
       "source": "Hacker News",
-      "published": "2026-07-29T20:35:33.704Z"
+      "published": "2026-07-29T21:56:36.103Z"
     },
     {
-      "headline": "Finessin’s New Mixtape Earns Praise, Needs More Energy",
-      "summary": "Fox BD’s latest mixtape blends personal punchlines with a distinctive rap style, earning it recognition among the year’s top releases. Critics note that the project could benefit from an even stronger infusion of the artist’s signature energy.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/fox-bd-finessin-distribution-deals/",
-      "source": "Pitchfork",
-      "published": "2026-07-29T04:00:00+00:00"
-    },
-    {
-      "headline": "Claude AI Service Outage Sparks Heavy Hacker News Discussion",
-      "summary": "Claude experienced a service outage, as documented on its status page, affecting users worldwide. The incident generated extensive conversation on Hacker News, accumulating over 150 comments tracking the issue.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-      "source": "Hacker News",
-      "published": "2026-07-29T19:50:42+00:00"
-    },
-    {
-      "headline": "Exploring the Limits of Delegating Tasks to Autonomous Agents",
-      "summary": "A post‑hog newsletter examines how far tasks can be delegated to autonomous software agents, questioning the safe boundaries of decision‑making outsourcing. It weighs practical and ethical considerations of increasing agent autonomy.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://newsletter.posthog.com/p/agent-autonomy",
-      "source": "Hacker News",
-      "published": "2026-07-27T18:01:16+00:00"
-    },
-    {
-      "headline": "Critique of Anthropic’s Latest Cryptanalysis Findings",
-      "summary": "A cryptography blog offers a critical look at Anthropic’s recent cryptanalysis results, assessing their relevance for AI security. The author discusses potential implications while highlighting remaining uncertainties in the field.",
+      "headline": "Anthropic's Latest Cryptanalysis Sparks Expert Debate",
+      "summary": "A new blog post examines Anthropic's recent cryptanalysis findings, questioning their implications for AI security. The analysis draws attention to potential vulnerabilities in large language models.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
@@ -165,26 +120,17 @@
       "published": "2026-07-29T14:23:30+00:00"
     },
     {
-      "headline": "Zelensky and Netanyahu Meet Trump Amid Ongoing Ukraine and Iran Conflicts",
-      "summary": "Ukrainian President Zelensky and Israeli Prime Minister Netanyahu each held separate meetings with former President Trump at the White House, expressing cautious optimism. Their talks occur as the wars in Ukraine and the escalating Iran‑Israel tension continue.",
+      "headline": "Saudi Forces Join U.S. in Airstrikes Against Iran‑Backed Militias in Iraq",
+      "summary": "Saudi Arabia coordinated with the United States to hit proxy militia sites in Iraq after attacks on U.S. bases and Saudi energy assets. The joint operation marks a rare direct Saudi military action beyond its borders.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-28T20:08:44.185Z"
+      "published": "2026-07-28T23:27:30.555Z"
     },
     {
-      "headline": "TurboFieldfare Lets M‑Series Macs Run Gemma 4 26B Model in 2 GB RAM",
-      "summary": "A developer released TurboFieldfare, an open‑source inference engine that runs the 4‑bit Gemma 4 26B model on M‑series Macs using roughly 2 GB of RAM. Built with Swift and Metal, the project showcases powerful on‑device AI capabilities for Macs and iPhones.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "source": "Hacker News",
-      "published": "2026-07-29T15:05:43+00:00"
-    },
-    {
-      "headline": "Birds as Divine Signposts: 11,000 Species Reveal a Creator’s Intent",
-      "summary": "God’s design includes over eleven thousand bird species, each showcasing intricate variety. The article argues that this abundance invites humans to recognize a purposeful creator.",
+      "headline": "Birds as Divine Signposts: A Theological Reflection",
+      "summary": "The article notes that over 11,000 bird species exist, suggesting a purposeful design meant to catch human attention. It argues that avian diversity points to a creator’s intent.",
       "category": "Faith",
       "relevance": 7,
       "url": "https://www.thegospelcoalition.org/article/gospel-according-birds/",
@@ -192,8 +138,8 @@
       "published": "2026-07-29T04:00:00+00:00"
     },
     {
-      "headline": "Medicare Drug Subsidy Sunset Threatens Higher Premiums for Millions",
-      "summary": "Federal assistance that lowered insurers’ costs for Medicare prescriptions will lapse at year‑end. Without it, beneficiaries could see their drug premiums rise as early as 2027.",
+      "headline": "End of Medicare Drug Subsidies Threatens Higher Premiums in 2027",
+      "summary": "The administration plans to let federal subsidies for Medicare prescription drug plans lapse at year‑end, removing a cost‑offset for insurers. Analysts warn millions of beneficiaries may see steep premium hikes next year.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
@@ -201,44 +147,35 @@
       "published": "2026-07-29T16:58:03-04:00"
     },
     {
-      "headline": "Vision Pro Turns Home Into Immersive Command Center",
-      "summary": "A recent piece highlights using Apple’s Vision Pro to control household functions and media from a virtual cockpit. The setup demonstrates the headset’s potential beyond entertainment, blending AR with everyday tasks.",
+      "headline": "Self‑Replicating Prompt‑Injection Worm Found in Microsoft Word",
+      "summary": "Security researcher Håkon Måløy demonstrated a new prompt‑injection technique that turns malicious instructions in a Word document into a self‑replicating worm via Copilot. The proof‑of‑concept shows how AI‑assisted editing tools can be weaponized.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "source": "Hacker News",
-      "published": "2026-07-29T11:54:19-03:00"
-    },
-    {
-      "headline": "Pastebot 3 Revamps Mac Clipboard Management",
-      "summary": "Tapbots releases the third iteration of its popular clipboard tool, adding refined UI and workflow features. The author notes it still outperforms built‑in options despite competition from Keyboard Maestro and LaunchBar.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://tapbots.com/pastebot/",
-      "source": "Daring Fireball",
-      "published": "2026-07-29T16:07:03+00:00"
-    },
-    {
-      "headline": "$55.7 Million Settlement Ends eBay Cyber‑Stalking Lawsuit",
-      "summary": "eBay and three former executives agreed to pay nearly $56 million to a Massachusetts couple subjected to a bizarre harassment campaign in 2019. The deal closes a protracted legal battle that exposed the company’s internal misconduct.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-      "source": "Daring Fireball",
-      "published": "2026-07-28T21:11:11+00:00"
-    },
-    {
-      "headline": "uv 0.12.0 Brings Major Project‑Init Overhaul",
-      "summary": "The latest uv release updates the default scaffold generated by the “uv init” command, altering directory layout and config files. Developers are urged to review the breaking changes before upgrading.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Jul/28/uv/#atom-everything",
+      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
       "source": "Simon Willison",
-      "published": "2026-07-28T21:51:38+00:00"
+      "published": "2026-07-29T18:43:03+00:00"
     },
     {
-      "headline": "Upstate New York School Halts AI Robot Teacher After Community Outcry",
-      "summary": "A district paused its plan to place a humanoid AI instructor in classrooms following objections from educators, officials, and parents. Critics worry about safety, ethics, and the impact on traditional teaching.",
+      "headline": "Experts Warn of Rapid Shift to Post‑Quantum Cryptography",
+      "summary": "Matthew Green highlights the ongoing migration from elliptic‑curve and RSA schemes to post‑quantum algorithms like HAWK. He stresses the urgency of standardizing and deploying these new primitives before quantum threats materialize.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-29T18:18:15+00:00"
+    },
+    {
+      "headline": "Hadi Matar Convicted for Terror Plot Targeting Salman Rushdie",
+      "summary": "British‑Indian author Salman Rushdie’s would‑be assailant, Hadi Matar, was found guilty of attempting to aid Hezbollah through the attack. The verdict underscores the intersection of literary controversy and international terrorism.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T22:13:39.702Z"
+    },
+    {
+      "headline": "NY School Halts Deployment of Humanoid AI Teacher Amid Outcry",
+      "summary": "A upstate New York district put its plan to install an AI‑powered robot in classrooms on hold after criticism from educators, officials, and residents. Concerns focus on safety, ethics, and the role of machines in education.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
@@ -246,8 +183,8 @@
       "published": "2026-07-29T05:24:52-04:00"
     },
     {
-      "headline": "Circular AI Deals Spotlight the Dark Side of Intelligence Commodification",
-      "summary": "An analysis explores how AI services are being packaged, resold, and recycled in profit‑driven loops, raising concerns about transparency and bias. The piece weighs potential benefits against ethical pitfalls.",
+      "headline": "AI Becomes a Commodity: The Upsides, Pitfalls, and Loops of Circular Deals",
+      "summary": "The piece examines how turning AI capabilities into tradable assets can accelerate innovation but also create dependency cycles and ethical concerns. It warns that while market‑driven models can lower costs, they may also lock users into opaque ecosystems.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
@@ -255,26 +192,17 @@
       "published": "2026-07-28"
     },
     {
-      "headline": "Over 100 Aftershocks Rattle Japan Following Deadly Quake",
-      "summary": "A magnitude‑7 earthquake that killed 13 people triggered more than a hundred subsequent tremors across the region. Authorities urge residents to remain vigilant as further strong aftershocks are possible.",
+      "headline": "Fauci Declines to Testify on Covid Origins, Citing Perjury Risk",
+      "summary": "In a tense Senate session, the former CDC chief said he would not answer queries, warning that Republican tactics could trap him into false statements. His stance highlights the politicized battle over the pandemic’s beginnings.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-29T11:10:54.672Z"
+      "published": "2026-07-29T13:21:13.630Z"
     },
     {
-      "headline": "Saudi Arabia Partners with U.S. in Airstrikes Against Iran‑Aligned Militias in Iraq",
-      "summary": "The U.S. Central Command reports coordinated attacks after proxy groups targeted American bases and Saudi energy sites. The joint operation marks a rare direct military collaboration between the two allies in the region.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T23:27:30.555Z"
-    },
-    {
-      "headline": "Tokenless launches AI gateway that auto‑switches models to cut costs",
-      "summary": "Tokenless has built an API gateway that routes each request to the cheapest suitable language model in real time. The service aims to lower token expenses for businesses that rely heavily on generative AI.",
+      "headline": "Tokenless Unveils AI Gateway That Swaps Models On‑the‑Fly to Cut Costs",
+      "summary": "The startup introduces an API layer that routes requests between different language models based on price and performance, aiming to reduce token expenses for enterprises. By dynamically balancing quality and cost, it promises more predictable AI budgeting.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://usetokenless.com/",
@@ -282,26 +210,26 @@
       "published": "2026-07-29T15:55:27+00:00"
     },
     {
-      "headline": "Qwen Scribe brings offline transcription to Apple Silicon Macs",
-      "summary": "Qwen Scribe is an open‑source dictation tool that runs locally on Apple Silicon, offering fast speech‑to‑text without cloud services. It uses the Qwen model to provide private, on‑device transcription for developers and power users.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/VladUZH/qwen-scribe",
-      "source": "Hacker News",
-      "published": "2026-07-29T14:47:22+00:00"
-    },
-    {
-      "headline": "Palestinian village on the front line as Israeli settlers impose siege",
-      "summary": "Residents of al‑Mughayyir describe daily attacks and a blockade imposed by nearby Israeli settlers, turning their home into a constant battleground. The piece illustrates the escalating violence in the occupied West Bank.",
+      "headline": "Zelensky, Netanyahu Hold Back‑to‑Back Talks with Trump Amid Ongoing Conflicts",
+      "summary": "The Ukrainian president and Israeli prime minister convened separately with the U.S. leader at the White House, expressing cautious optimism about diplomatic coordination. Their meetings come as fighting continues in Ukraine and tensions rise over Iran’s regional actions.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-29T05:01:12.292Z"
+      "published": "2026-07-28T20:08:44.185Z"
     },
     {
-      "headline": "Thousands in Sudan city face renewed danger as RSF threatens new assault",
-      "summary": "In a key Sudanese city, tens of thousands remain in temporary shelters while the Rapid Support Forces are rumored to be planning another offensive. International leaders warn the move could spark fresh atrocities against civilians.",
+      "headline": "Mexican Cartels Shift Meth Production to Nigeria, Exploiting West Africa",
+      "summary": "Organized crime groups are moving clandestine laboratories to Nigeria to evade law enforcement and tap cheap labor. The trend signals a new transnational drug pipeline that could destabilize both regions.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/crmrnxp4nllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T23:25:53.814Z"
+    },
+    {
+      "headline": "Sudan’s Darfur City Faces Renewed Assault, Civilians Trapped Again",
+      "summary": "International officials warn that the Rapid Support Forces may launch a new offensive on the besieged city, endangering thousands who have taken refuge. The escalation raises fears of fresh atrocities and a humanitarian crisis.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
@@ -309,8 +237,8 @@
       "published": "2026-07-29T05:01:46.639Z"
     },
     {
-      "headline": "July 2026’s standout Christian releases: a curated reading list",
-      "summary": "A new roundup highlights the most notable Christian books published in July, each paired with a brief editorial description. The guide helps readers stay current on fresh spiritual and theological works.",
+      "headline": "July 2026 Christian Releases: Fresh Voices and Timeless Truths",
+      "summary": "A curated list highlights the season’s most compelling faith‑based titles, each paired with editorial blurbs to guide readers. The selection spans devotional works, theological studies, and inspirational memoirs.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/new-and-notable-christian-books-for-july-2026/",
@@ -318,17 +246,35 @@
       "published": "2026-07-29T04:02:00+00:00"
     },
     {
-      "headline": "Matthew Green warns of industry shift to post‑quantum cryptography",
-      "summary": "Green explains that the crypto community is moving away from ECC and RSA toward post‑quantum algorithms, spurring a wave of new standards such as HAWK. The transition reflects growing concerns about future quantum attacks.",
-      "category": "Tech/AI",
+      "headline": "HARDBODY: Punk Veteran Alli Logout Teams Up with Pop Producer Margo XS",
+      "summary": "The new club track blends chaotic punk energy with glossy pop production, delivering a tongue‑in‑cheek yet raucous anthem. Its reckless humor and dancefloor aggression aim to disrupt genre boundaries.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-29T18:18:15+00:00"
+      "url": "https://pitchfork.com/reviews/albums/debasement-hardbody/",
+      "source": "Pitchfork",
+      "published": "2026-07-29T04:02:00+00:00"
     },
     {
-      "headline": "Two firefighters killed as Crete wildfires rage amid gale‑force winds",
-      "summary": "Strong winds have driven wildfires across Crete, forcing evacuations of several villages. The inferno claimed the lives of two firefighters battling the blaze, underscoring the severity of Europe’s fire season.",
+      "headline": "Past the Veil Pushes Jazz‑Trip Hop Fusion into Uncharted Territory",
+      "summary": "The singer‑songwriter’s latest album weaves ethereal jazz improvisation with moody trip‑hop beats, taking bold artistic risks. Critics note its haunting atmosphere and inventive songwriting as standout features.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/",
+      "source": "Pitchfork",
+      "published": "2026-07-29T04:01:00+00:00"
+    },
+    {
+      "headline": "From COBOL to SQL: How Query Languages Transformed Programming",
+      "summary": "The commentary reflects on the shift from hand‑coded data retrieval in COBOL to the declarative power of SQL, simplifying data access for developers. It underscores how this evolution democratized database interaction and reshaped software roles.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-07-29T21:15:21+00:00"
+    },
+    {
+      "headline": "Two Firefighters Killed as Crete Wildfires Rage Amid Gale-Force Winds",
+      "summary": "Strong winds have driven flames across Crete, forcing the evacuation of several villages. The blazes are part of a broader surge of fires threatening southern Europe.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
@@ -336,17 +282,26 @@
       "published": "2026-07-29T11:42:05.724Z"
     },
     {
-      "headline": "A missing underscore lands an innocent man in prison for 18 months",
-      "summary": "Police mistakenly searched for a Kik user with a double‑underscore typo, leading to the wrongful conviction of an unrelated individual. The case highlights how tiny data errors can have drastic legal repercussions.",
-      "category": "Tech/AI",
+      "headline": "Oregon Faces Record-Breaking Wildfire Season",
+      "summary": "Central and eastern Oregon are battling rapidly spreading fires that have consumed over a million acres with little containment. Evacuations are underway as ranchers scramble to relocate cattle and secure feed on public range.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-      "source": "Daring Fireball",
-      "published": "2026-07-27T20:22:03+00:00"
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
+      "source": "NPR News",
+      "published": "2026-07-29T16:28:44-04:00"
     },
     {
-      "headline": "French volunteers fight Gironde blaze while locals defy evacuation orders",
-      "summary": "Volunteer fire crews are battling a forest fire in the Gironde region amid a heatwave, but some residents refuse to leave despite official warnings. Their resistance complicates containment efforts and endangers homes.",
+      "headline": "Fox BD’s Punchy Rap Mixtape Stands Out in 2024 Distribution Scene",
+      "summary": "The independent label’s latest mixtape delivers a personal, high-energy rap punchline that critics hail as one of the year’s best. While praised for its vigor, reviewers note it could benefit from even more dynamic production.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/fox-bd-finessin-distribution-deals/",
+      "source": "Pitchfork",
+      "published": "2026-07-29T04:00:00+00:00"
+    },
+    {
+      "headline": "French Firefighters Combat Heat-Driven Wildfires as Locals Resist Evacuation",
+      "summary": "In the Gironde region, crews fight flare‑ups under 40°C temperatures while some residents refuse to leave. The standoff highlights tensions between emergency orders and community attachment to the forested land.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
@@ -354,26 +309,44 @@
       "published": "2026-07-29T16:27:51.965Z"
     },
     {
-      "headline": "Modal’s CTO clarifies that a customer’s open endpoint caused sandbox abuse, not platform breach",
-      "summary": "Akshat Bubna says a client exposed an unauthenticated API, allowing strangers to execute code in their sandboxes, though Modal’s isolation remained secure. The incident serves as a reminder of the need for strict endpoint security.",
+      "headline": "Claude AI Platform Reports Widespread Model Errors",
+      "summary": "All Claude models are experiencing elevated error rates, according to the service status page. Users are advised to monitor the incident report for updates on resolution progress.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-28T22:05:55+00:00"
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "source": "Hacker News",
+      "published": "2026-07-29T19:50:42+00:00"
     },
     {
-      "headline": "Kimi Launches New 256‑k Parameter AI Model",
-      "summary": "Korean AI firm Kimi unveiled its K3‑256k language model, targeting advanced code generation and reasoning tasks. Detailed specifications and pricing are posted on the company’s documentation site.",
+      "headline": "Exploring the Limits of Delegating Tasks to AI Agents",
+      "summary": "A recent newsletter examines how much work can be handed off to autonomous agents and the challenges involved. It discusses practical use cases and the balance between control and automation.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+      "url": "https://newsletter.posthog.com/p/agent-autonomy",
       "source": "Hacker News",
-      "published": "2026-07-29T19:25:33+00:00"
+      "published": "2026-07-27T18:01:16+00:00"
+    },
+    {
+      "headline": "Oscar-Winning Songwriter Glen Hansard Dies in Car Crash",
+      "summary": "The 56‑year‑old Irish musician, who won an Academy Award for the song in the film \"Once\", was killed in a traffic accident. His death has prompted tributes from the film and music communities worldwide.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T11:06:52.788Z"
+    },
+    {
+      "headline": "Japan Endures Over 100 Aftershocks Following Deadly Quake",
+      "summary": "A powerful earthquake that claimed 13 lives has triggered more than a hundred tremors, some potentially reaching magnitude 7. Authorities urge residents to remain vigilant as aftershocks continue.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T11:10:54.672Z"
     },
     {
       "headline": "Russia Accuses Telegram Founder of Aiding Terrorism",
-      "summary": "The Federal Security Service alleges Pavel Durov failed to shut down Telegram channels used by Ukraine’s intelligence for recruitment. He now faces criminal charges for allegedly facilitating terrorist activity.",
+      "summary": "The Federal Security Service alleges that Pavel Durov’s messaging app failed to remove channels used by Ukraine’s intelligence for recruitment. Charges have been filed against Durov for allegedly facilitating terrorist activity.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
@@ -381,35 +354,44 @@
       "published": "2026-07-29T09:51:49.769Z"
     },
     {
-      "headline": "Ghana Plunged into Nationwide Power Outage",
-      "summary": "A chain reaction of failures at multiple power plants left Ghana without electricity, crippling homes, businesses, and essential services. Officials are working to restore supply while probing the root cause.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T12:10:40.675Z"
-    },
-    {
-      "headline": "U.S. Blocks Import of New Chinese Humanoid Robots",
-      "summary": "The administration issued a ban on advanced Chinese humanoid robots, citing national‑security risks amid a tech rivalry. The restriction aims to prevent potential military or surveillance uses of the machines.",
+      "headline": "Keychron Releases Open‑Source Firmware for Gaming Mice",
+      "summary": "The peripheral maker announced its first open‑source firmware, allowing users to customize gaming mouse performance. The move is praised for promoting transparency and community-driven development.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T00:15:41.473Z"
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:00:00+00:00"
     },
     {
-      "headline": "Survivors Recall Terror of 6.8‑Magnitude Japan Quake",
-      "summary": "After a powerful 6.8‑magnitude earthquake struck Japan, victims described near‑fatal experiences and ongoing rescue operations. The disaster has left communities grappling with trauma and extensive damage.",
+      "headline": "Senate Confirms Jay Clayton as Trump’s New Spy Chief",
+      "summary": "After the president’s first pick was turned down for insufficient intelligence background, the Senate approved former SEC chair Jay Clayton to lead the CIA. Clayton now faces the task of steering the agency amid heightened global tensions.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-29T06:07:26.179Z"
+      "published": "2026-07-29T09:07:40.215Z"
     },
     {
-      "headline": "Challies July Issue Tackles Nigerian Christian Persecution",
-      "summary": "The latest A La Carte edition examines whether Christians in Nigeria face genocide, alongside essays on sin, faith, and cultural commentary. It also includes a news roundup and reflective pieces.",
+      "headline": "Chinese Robotics Surge Into UK Retail Amid Labour Shortages",
+      "summary": "Weak productivity and a dearth of workers are prompting British retailers to adopt Chinese-made service robots. The influx aims to boost efficiency, but raises questions about automation’s impact on jobs.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T22:08:29.558Z"
+    },
+    {
+      "headline": "Palestinian Home Becomes Frontline in Weekly Settler Assaults",
+      "summary": "Residents of al-Mughayyir report daily attacks as Israeli settlers encircle a house on the village’s edge. The ongoing siege highlights the intensifying friction in the occupied West Bank.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T05:01:12.292Z"
+    },
+    {
+      "headline": "Challies’ July 29 ‘A La Carte’ Issues Provocative Questions on Nigerian Christianity",
+      "summary": "The latest edition probes whether Christians in Nigeria face genocide and explores moral dilemmas, sin, and faith. It also includes assorted news snippets and cultural commentary.",
       "category": "Faith",
       "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-july-29-2026/",
@@ -417,8 +399,8 @@
       "published": "2026-07-29T04:01:00+00:00"
     },
     {
-      "headline": "FIFA Opens Disciplinary Case Against Argentina",
-      "summary": "FIFA has initiated formal proceedings over Argentina’s conduct during the World Cup, citing incidents after their loss to Spain and throughout the tournament. The federation will consider possible sanctions pending investigation.",
+      "headline": "FIFA Launches Discipline Case Against Argentina Over World Cup Conduct",
+      "summary": "The governing body opened an investigation into Argentina’s behavior following their loss to Spain and incidents throughout the tournament. Potential sanctions could affect future participation and reputation.",
       "category": "Sports",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
@@ -426,8 +408,17 @@
       "published": "2026-07-29T17:21:57.800Z"
     },
     {
-      "headline": "International Booker Winner Discusses Taiwan’s Colonial Legacy",
-      "summary": "The author and translator of the prize‑winning “Taiwan Travelogue” talk about how Taiwan’s history with Japan shapes its identity amid rising Chinese pressure. Their conversation delves into colonialism, memory, and cultural belonging.",
+      "headline": "Tapbots Releases Pastebot 3, Revamped Clipboard Manager for macOS",
+      "summary": "The new version brings a refreshed UI and advanced features to the popular Mac clipboard tool. Despite many alternatives, the author remains loyal, citing its reliability over built‑in options.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://tapbots.com/pastebot/",
+      "source": "Daring Fireball",
+      "published": "2026-07-29T16:07:03+00:00"
+    },
+    {
+      "headline": "International Booker Winner ‘Taiwan Travelogue’ Examines Colonial Legacy and Identity",
+      "summary": "The author and translator discuss how Taiwan’s Japanese colonial past shapes current cultural debates and Chinese pressure. Their conversation underscores the book’s relevance to ongoing geopolitical tensions.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
@@ -435,17 +426,26 @@
       "published": "2026-07-29T12:55:54-04:00"
     },
     {
-      "headline": "Wimbledon Courts Up Indian Flavors to Court New Fans",
-      "summary": "In a bid to attract Indian audiences, Wimbledon introduced Indian‑inspired ice cream and Bollywood‑style music at the tournament. The cultural shift marks a departure from the event’s traditionally restrained atmosphere.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-28T22:05:26.031Z"
+      "headline": "Remote Chitral in Pakistan Offers Stunning Peaks and Perilous Terrain",
+      "summary": "Bordering Afghanistan, the secluded Hindu Kush area dazzles visitors with dramatic vistas while confronting frequent rockslides and avalanches. Travel to the region remains challenging but rewarding for adventurous explorers.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+      "source": "NPR News",
+      "published": "2026-07-29T10:21:07-04:00"
     },
     {
-      "headline": "Emily Wilson Defends Critique of Nolan’s ‘Odyssey’ Adaptation",
-      "summary": "Classics scholar Emily Wilson, who sparked controversy with her review of Christopher Nolan’s film version of “The Odyssey,” explains why she believes the director should not have tackled the epic himself. She also discusses her renewed translation project of the ancient poem.",
+      "headline": "AI Art Museum Shows Machines as Creative Partners",
+      "summary": "Artist Refik Anadol’s Dataland invites visitors to experience immersive works generated by artificial intelligence. The exhibit, also featured at the Smithsonian, probes the boundaries between reality and algorithmic imagination.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol",
+      "source": "NPR News",
+      "published": "2026-07-29T05:00:00-04:00"
+    },
+    {
+      "headline": "Emily Wilson Critiques Nolan’s ‘Odyssey’ Adaptation, Defends Scholarly Translation",
+      "summary": "The classicist, whose viral review sparked debate, argues that Nolan’s screenplay missed the poem’s nuance. She explains why she’s returning to translate the epic for a new audience.",
       "category": "Other",
       "relevance": 2,
       "url": "https://www.npr.org/2026/07/29/nx-s1-5910645/odyssey-translator-emily-wilson-christopher-nolan",
