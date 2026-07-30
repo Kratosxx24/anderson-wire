@@ -1,136 +1,91 @@
 {
-  "generated_at": "2026-07-30T03:20:51.493853+00:00",
+  "generated_at": "2026-07-30T06:13:50.819722+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "NBA Achilles Tears Linked to Sudden Spike in Playing Time",
-      "summary": "A study of NBA players who suffered Achilles tears between 2014 and 2025 found that their playing time increased significantly in the 10-15 games leading up to the injury. The findings suggest that the league may need to re-examine its workload management strategies to prevent such injuries.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1va7ip2/dr_nirav_pandya_md_we_studied_every_nba_achilles/",
-      "source": "r/NBA",
-      "published": "2026-07-29T20:09:01+00:00"
-    },
-    {
-      "headline": "Unlocking the Importance of Deuteronomy in the Old Testament",
-      "summary": "The book of Deuteronomy is often overlooked, but it holds significant importance for Christians, offering essential teachings and guidance. Dr. W. Robert Godfrey emphasizes the need for Christians to study Deuteronomy to deepen their understanding of the Old Testament.",
+      "headline": "Complementarianism Explained: God's Design for Men and Women",
+      "summary": "The piece outlines the biblical framework that assigns distinct but complementary roles to men and women in church and society. It aims to provide a clear, practical overview without veering into cultural extremes.",
       "category": "Faith",
       "relevance": 9,
-      "url": "https://tabletalkmagazine.com/posts/what-is-an-underappreciated-old-testament-book/",
-      "source": "Tabletalk",
-      "published": "2026-07-29T04:00:42+00:00"
+      "url": "https://www.thegospelcoalition.org/reviews/mere-complementarianism/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-30T04:02:00+00:00"
     },
     {
-      "headline": "Developer Creates Local Merge Queue for Parallel Code Agents",
-      "summary": "A developer has designed a local merge queue to manage parallel Claude Code agents, reducing the need for frequent commits and minimizing the risk of force quits and restarts. This innovation aims to streamline the development process and optimize resource utilization.",
+      "headline": "Anthropic's Latest Cryptanalysis Sparks Debate on AI Security",
+      "summary": "A blog post reviews Anthropic's recent breakthroughs in breaking cryptographic schemes using large language models. Commenters on Hacker News weigh the implications for future encryption standards and AI oversight.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://github.com/funador/claude-code-merge-queue",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
       "source": "Hacker News",
-      "published": "2026-07-30T00:20:16+00:00"
+      "published": "2026-07-29T14:23:30+00:00"
     },
     {
-      "headline": "Trump Considers AI Regulations After OpenAI Hacking Incidents",
-      "summary": "The Trump administration is re-evaluating its approach to AI regulation in response to recent hacking incidents involving OpenAI. This shift in tone may lead to increased oversight and controls on the development and deployment of AI technologies.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-30T00:41:28.112Z"
-    },
-    {
-      "headline": "Top AI Startups Fail to Publish Research, Raising Concerns",
-      "summary": "Many leading AI startups are not publishing their research, sparking concerns about the lack of transparency and accountability in the industry. This trend may hinder the development of AI and undermine trust in the technology.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "source": "Hacker News",
-      "published": "2026-07-29T21:25:40+00:00"
-    },
-    {
-      "headline": "US Launches Strikes on Iran in Response to Attack on American Troops",
-      "summary": "The US military has conducted strikes on Iran in retaliation for a recent attack on American troops, marking an escalation of tensions between the two nations. The US described the strikes as a powerful response to Iran's aggression.",
+      "headline": "U.S. and Iran Clash Again as Senate Prepares to Grill Fauci on Pandemic",
+      "summary": "After Iran struck U.S. forces, the United States launched retaliatory strikes, reigniting hostilities in the region. Meanwhile, a Senate committee scheduled a high‑profile questioning of Dr. Fauci regarding the COVID‑19 response.",
       "category": "World",
       "relevance": 9,
+      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "source": "NPR News",
+      "published": "2026-07-29T07:00:47-04:00"
+    },
+    {
+      "headline": "Why the Bible’s Silence on Work Is Actually Guidance",
+      "summary": "The article argues that the lack of explicit directives about labor signals that believers should infer purpose from broader biblical principles. It encourages Christians to view their occupations as integral to serving God.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/bible-address-work-more/",
+      "source": "The Gospel Coalition",
+      "published": "2026-07-30T04:00:00+00:00"
+    },
+    {
+      "headline": "iOS 27’s ‘Restricted Mode’ Targets Specific Scenarios, Not Payment Delinquencies",
+      "summary": "Apple clarified that the new Restricted Mode, discovered in the developer beta, is intended for particular use‑cases rather than penalizing users who fall behind on Apple Upgrade Program payments. The feature limits the device to essential apps like Phone, Clock, and Settings.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
+      "source": "Daring Fireball",
+      "published": "2026-07-28T20:08:13+00:00"
+    },
+    {
+      "headline": "Apple Launches Near‑Zero‑Interest Leasing via Klarna’s ‘Apple Upgrade’",
+      "summary": "Apple announced a new leasing option that lets customers finance iPhones, Macs, iPads, and Apple Watches through Klarna with minimal interest. The program is available online, in the Apple Store app, and at physical Apple locations across the U.S.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "source": "Daring Fireball",
+      "published": "2026-07-28Z"
+    },
+    {
+      "headline": "U.S. Unleashes Heavy Strikes on Iran Following Foiled Missile Assault",
+      "summary": "The United States responded to an attempted Iranian ballistic missile attack on American troops with a large‑scale air campaign. Officials described the operation as a decisive retaliation to protect U.S. forces.",
+      "category": "World",
+      "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-30T01:01:31.824Z"
     },
     {
-      "headline": "Saudi Arabia Faces Dilemma in US-Iran Conflict",
-      "summary": "Saudi Arabia is torn between responding to Iranian aggression and attempting to de-escalate the situation, as it seeks to maintain its relationships with both the US and Iran. The kingdom's decision will have significant implications for regional stability and its own security.",
+      "headline": "Saudi Arabia Caught Between Deterrence and De‑Escalation in US‑Iran Conflict",
+      "summary": "Riyadh must decide whether to join active retaliation against Iran or pursue diplomatic cooling to avoid broader war. The kingdom’s choice could shape the regional balance and its own security posture.",
       "category": "World",
-      "relevance": 9,
+      "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-07-29T18:41:31.866Z"
     },
     {
-      "headline": "The Commodification of Intelligence: AI Deals Raise Concerns",
-      "summary": "The increasing commodification of intelligence through AI deals has sparked concerns about the potential risks and consequences of such transactions. Experts warn that these deals may lead to unintended outcomes, including the concentration of power and the erosion of trust in AI systems.",
+      "headline": "Local Merge Queue Optimizes Parallel Claude Code Agents on Low‑End Macs",
+      "summary": "A developer built a lightweight merge‑queue system to handle up to 90 daily commits using multiple Claude agents on an 8 GB MacBook Air. The tool reduces CI costs and prevents system overload during intensive development cycles.",
       "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "relevance": 8,
+      "url": "https://github.com/funador/claude-code-merge-queue",
       "source": "Hacker News",
-      "published": "2026-07-28"
+      "published": "2026-07-30T00:20:16+00:00"
     },
     {
-      "headline": "NBA Player Analysis Reveals Top Performers in 2026",
-      "summary": "A personal analysis of NBA players' offensive scores in 2026 has identified the top performers, with Shai Gilgeous-Alexander and Luka Dončić leading the rankings. The analysis provides insights into the players' strengths and weaknesses, highlighting their scoring, playmaking, and decision-making abilities.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nbadiscussion/comments/1v9mmik/my_personal_offensive_score_analysis_in_2026/",
-      "source": "r/NBA Discussion",
-      "published": "2026-07-29T05:19:26+00:00"
-    },
-    {
-      "headline": "Warriors Passed on Jaylen Brown Due to Concerns About Post-Curry Era",
-      "summary": "The Golden State Warriors decided not to trade for Jaylen Brown, citing concerns that he may not be able to carry the franchise after Steph Curry's retirement. The team's decision reflects the challenges of rebuilding and maintaining a competitive roster in the NBA.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1va7u7w/the_warriors_decided_not_to_trade_for_jaylen/",
-      "source": "r/NBA",
-      "published": "2026-07-29T20:20:26+00:00"
-    },
-    {
-      "headline": "Bill Simmons Questions Jaylen Brown’s Fit in Philadelphia, Calls Him ‘Derrick White’",
-      "summary": "Simmons notes Brown went from demanding a starring role to becoming the fourth option on the Sixers, suggesting the move may not suit him. He predicts the team will soon see whether the shift works.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1v9u878/bill_simmons_i_dont_know_if_this_is_the_best/",
-      "source": "r/NBA",
-      "published": "2026-07-29T12:03:37+00:00"
-    },
-    {
-      "headline": "Birds as Divine Messengers: A Gospel Perspective",
-      "summary": "The article points out that God created over 11,000 bird species and argues their diversity is meant to draw human attention to the Creator. It invites readers to view avian life as a spiritual sign.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/gospel-according-birds/",
-      "source": "The Gospel Coalition",
-      "published": "2026-07-29T04:00:00+00:00"
-    },
-    {
-      "headline": "Alli Logout Teams with Margo XS for Hedonistic Club Banger ‘HARDBODY’",
-      "summary": "Former Special Interest vocalist Alli Logout joins pop producer Margo XS to release a chaotic dance track that blends reckless pleasure with sharp humor. The song pushes genre boundaries with noisy, tongue‑in‑cheek production.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/debasement-hardbody/",
-      "source": "Pitchfork",
-      "published": "2026-07-29T04:02:00+00:00"
-    },
-    {
-      "headline": "Singer‑Songwriter Ventures into Jazz‑Trip Hop Fusion on ‘Past the Veil’",
-      "summary": "The new album mixes mystic jazz textures with trip‑hop beats, showcasing the artist’s willingness to experiment. Critics note the record’s bold risks pay off in an arresting, atmospheric listening experience.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/shannon-lay-past-the-veil/",
-      "source": "Pitchfork",
-      "published": "2026-07-29T04:01:00+00:00"
-    },
-    {
-      "headline": "Scientists Weigh Lab Leak vs Animal Spillover in New Fauci Diary Release",
-      "summary": "The publication of Dr. Fauci’s pandemic diaries has reignited debate over SARS‑CoV‑2’s source, prompting fresh expert analysis. Researchers outline evidence for both natural animal transmission and possible lab‑origin scenarios.",
+      "headline": "Scientists Weigh Lab Leak vs. Animal Spillover as Fauci Diaries Resurface",
+      "summary": "Newly released pandemic diaries from Dr. Fauci have reignited scrutiny of SARS‑CoV‑2’s origins, prompting experts to revisit evidence for both zoonotic spillover and laboratory accident theories. The article summarizes the current scientific consensus and lingering uncertainties.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/07/29/g-s1-136142/rand-paul-anthony-fauci-lab-leak-spillover-pandemic-origin",
@@ -138,80 +93,35 @@
       "published": "2026-07-29T19:02:53-04:00"
     },
     {
-      "headline": "Self‑Replicating Prompt‑Injection Worm Targets Microsoft Word via Copilot",
-      "summary": "Security researcher Håkon Måløy demonstrates a new attack that embeds malicious instructions in a Word document, which Copilot then executes, turning the file into a worm. The proof‑of‑concept shows how AI‑assisted tools can amplify traditional injection threats.",
+      "headline": "Trump Mulls AI Regulation After OpenAI Breach",
+      "summary": "Following a recent hack of OpenAI, President Trump signaled a shift toward tighter oversight of artificial intelligence. The move marks a departure from his administration’s previously laissez‑faire stance on the technology.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-07-29T18:43:03+00:00"
-    },
-    {
-      "headline": "Three Greek Firefighters Killed as Fierce Crete Winds Fuel Wildfires",
-      "summary": "Gale‑force gusts on Crete have intensified blazes, forcing evacuations of villages across southern Europe. The deadly inferno claimed the lives of three firefighters battling the flames.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-29T11:42:05.724Z"
+      "published": "2026-07-30T00:41:28.112Z"
     },
     {
-      "headline": "Gironde Residents Defy Evacuation, Join Firefighters in 40°C Blaze",
-      "summary": "In southwestern France, locals are refusing to leave as firefighters combat a scorching wildfire in the Gironde region. The heatwave‑driven fire has sparked tension between authorities and community members protecting their homes.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T16:27:51.965Z"
-    },
-    {
-      "headline": "Salman Rushdie Attacker Sentenced for Terror‑Related Offences",
-      "summary": "Hadi Matar, 28, was found guilty of attempting to aid Hezbollah by assaulting the author. The conviction underscores the terrorist motive behind the 2022 attack.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T22:13:39.702Z"
-    },
-    {
-      "headline": "New LLM Honeypot Platform Exposes Human‑Targeted AI Prompts",
-      "summary": "A community‑run site showcases how large language models can be coaxed into revealing hidden instructions, serving as a research tool for security. The project draws interest for its novel approach to studying prompt‑injection attacks.",
+      "headline": "Leading AI Startups Keep Research Under Wraps",
+      "summary": "A new analysis finds that many of the most valuable AI companies publish little of their scientific work, limiting peer review and transparency. Critics argue this secrecy hampers industry progress and public trust.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://llm2human.pages.dev/",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
       "source": "Hacker News",
-      "published": "2026-07-29T22:51:03+00:00"
+      "published": "2026-07-29T21:25:40+00:00"
     },
     {
-      "headline": "US-Iran Conflict Escalates, Fauci Faces Senate Grilling",
-      "summary": "The US and Iran have resumed hostilities after a recent Iranian attack on US forces in the Middle East. Meanwhile, Dr Anthony Fauci is set to face questioning from a Senate committee regarding his handling of the COVID-19 pandemic.",
+      "headline": "Australia Suits Telegram Over Unremoved Terror Content",
+      "summary": "The Australian government has filed a lawsuit accusing Telegram of neglecting to delete material it says promotes terrorism. Telegram rejects the claim and says it will fight the case in court.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
-      "source": "NPR News",
-      "published": "2026-07-29T07:00:47-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-30T02:46:32.755Z"
     },
     {
-      "headline": "Iran Resumes Missile Attacks Amid US and Saudi Retaliation",
-      "summary": "The conflict between the US, Iran, and Saudi Arabia has intensified, with Iran launching missile attacks and the US and Saudis striking back at Tehran-backed militias in Iraq. The escalation raises concerns about the potential for all-out war and its impact on the global economy.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
-      "source": "NPR News",
-      "published": "2026-07-29T05:07:03-04:00"
-    },
-    {
-      "headline": "Vision Pro Transforms Home Automation",
-      "summary": "A innovative use for the Vision Pro has been discovered, enabling users to automate their homes with ease. This cutting-edge technology has the potential to revolutionize the way people interact with their living spaces.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "source": "Hacker News",
-      "published": "2026-07-29T11:54:19-03:00"
-    },
-    {
-      "headline": "Fauci Refuses to Testify at Senate Hearing",
-      "summary": "Dr Anthony Fauci has declined to answer questions during a tense Senate hearing about the origins of COVID-19, citing concerns about potential perjury prosecution. The former top US health official's refusal to testify has sparked controversy and raised questions about government transparency.",
+      "headline": "Fauci Declines to Testify on Covid Origins Amid Senate Tension",
+      "summary": "During a heated Senate hearing, former health chief Anthony Fauci refused to answer questions, citing concerns that Republicans might use his statements against him. He warned that his testimony could be twisted into a perjury prosecution.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
@@ -219,89 +129,134 @@
       "published": "2026-07-29T13:21:13.630Z"
     },
     {
-      "headline": "Smartening Up Old AC Units",
-      "summary": "A clever solution has been found to turn traditional air conditioning units into smart devices without voiding security deposits. This innovative approach enables users to enjoy the benefits of modern technology while avoiding potential financial penalties.",
+      "headline": "The Dark Side of AI: Circular Deals and Commodified Intelligence",
+      "summary": "An emerging‑trajectories piece examines how AI expertise is being packaged as a commodity, creating feedback loops that benefit a few firms. The article highlights both the efficiencies and ethical pitfalls of such circular arrangements.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
       "source": "Hacker News",
-      "published": "2026-07-20 00:00:00 &#43;0000 UTC"
+      "published": "2026-07-28"
     },
     {
-      "headline": "NBA Probe into Kawhi Leonard's Contract May Drag On",
-      "summary": "The NBA investigation into the LA Clippers' deal with Kawhi Leonard may extend into 2027 if the parties involved cannot agree on the findings or a proposed settlement. The inquiry is focused on determining whether the team circumvented salary cap rules to secure the high-profile player.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1va9b0m/sources_nba_probe_into_kawhi_leonards_clippers/",
-      "source": "r/NBA",
-      "published": "2026-07-29T21:14:48+00:00"
+      "headline": "Saudi Forces Join U.S. in Airstrikes Against Iran‑Backed Militias in Iraq",
+      "summary": "Saudi Arabia coordinated with the United States to hit militia groups in Iraq that have targeted U.S. bases and Saudi energy sites. The joint operation responds to recent proxy attacks, according to U.S. Central Command.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-28T23:27:30.555Z"
     },
     {
-      "headline": "Uncovering Kawhi Leonard's Financial Trail",
-      "summary": "An in-depth examination of Kawhi Leonard's financial dealings has shed light on the complex web of transactions surrounding his contract with the LA Clippers. The investigation aims to uncover any potential irregularities or violations of NBA rules.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vadias/ptfo_we_followed_kawhi_leonards_money_trail_after/",
-      "source": "r/NBA",
-      "published": "2026-07-30T00:01:42+00:00"
-    },
-    {
-      "headline": "Former Warriors President Rick Welts on Building a Winning Culture",
-      "summary": "Rick Welts, the former president of the Golden State Warriors, has emphasized the importance of building a strong team culture in achieving success. Welts credits the Warriors' unique organizational approach and the presence of star player Steph Curry as key factors in their championship wins.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vadfoe/rick_welts_former_longtime_pres_of_the_warriors/",
-      "source": "r/NBA",
-      "published": "2026-07-29T23:59:26+00:00"
-    },
-    {
-      "headline": "Kevin Durant's Remarkable Recovery from Injury",
-      "summary": "Kevin Durant has made a remarkable comeback from a devastating Achilles tear, with his production levels remaining remarkably consistent before and after the injury. The NBA star's resilience and dedication to his craft have enabled him to regain his top form despite the significant setback.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1va194b/kd_went_561_days_in_between_nba_games_due_to_an/",
-      "source": "r/NBA",
-      "published": "2026-07-29T16:30:20+00:00"
-    },
-    {
-      "headline": "New Christian Books for July 2026",
-      "summary": "A selection of noteworthy new Christian books has been released in July, covering a range of topics and genres. These books offer readers a chance to explore new ideas, deepen their faith, and discover fresh perspectives on the Christian experience.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.challies.com/articles/new-and-notable-christian-books-for-july-2026/",
-      "source": "Challies",
-      "published": "2026-07-29T04:02:00+00:00"
-    },
-    {
-      "headline": "Apple Clarifies iOS 27 ‘Restricted Mode’ Targets Leased Devices, Not Late Payors",
-      "summary": "Apple says the new Restricted Mode in iOS 27 is meant to limit functionality on devices enrolled in its Upgrade Program when a payment is missed, not to punish regular users. The mode confines the phone to essential apps such as Phone, Clock, Health and a few accessibility tools.",
+      "headline": "Tokenless Debuts AI Gateway That Swaps Models to Cut Costs",
+      "summary": "Tokenless, a Y Combinator S26 startup, unveiled an API gateway that dynamically routes requests between different language models to reduce token expenses. The service aims to help developers manage soaring AI usage fees.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://9to5mac.com/2026/07/28/apple-says-ios-27-restricted-mode-isnt-for-new-upgrade-program-leases/",
-      "source": "Daring Fireball",
-      "published": "2026-07-28T20:08:13+00:00"
+      "relevance": 8,
+      "url": "https://usetokenless.com/",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:55:27+00:00"
     },
     {
-      "headline": "End of Medicare Drug Subsidies Could Spike Premiums for Millions in 2027",
-      "summary": "The Trump administration plans to let federal subsidies that lower insurers’ Medicare drug costs expire at year‑end, leaving beneficiaries to shoulder higher costs. Analysts warn that premiums could rise sharply for many seniors starting in 2027.",
+      "headline": "Vini Reilly Returns with Ambient‑Minimalist Album 'Renascent'",
+      "summary": "After a 16‑year hiatus, Vini Reilly releases 'Renascent,' blending sparse instrumentation with romantic and ambient textures. The record showcases his signature guitar work in a refreshed, meditative setting.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/the-durutti-column-renascent/",
+      "source": "Pitchfork",
+      "published": "2026-07-30T04:03:00+00:00"
+    },
+    {
+      "headline": "‘I Can See’ Delivers Uniform, Mid‑Tempo Soundscape",
+      "summary": "The singer’s fourth album maintains a steady, moderate tempo and restrained vocal delivery, resulting in a consistently mellow mood. While moments of tension surface, they are quickly smoothed into a homogeneous listening experience.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/nick-hakim-i-can-see/",
+      "source": "Pitchfork",
+      "published": "2026-07-30T04:02:00+00:00"
+    },
+    {
+      "headline": "Senate Judiciary Panel Stalls Blanche Nomination After GOP Holdout",
+      "summary": "The committee’s vote on Todd Blanche’s federal judgeship was postponed when two Republican senators withheld their support. The delay casts doubt on his confirmation prospects.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
+      "url": "https://www.npr.org/2026/07/30/g-s1-136265/senate-blanche-nomination",
       "source": "NPR News",
-      "published": "2026-07-29T16:58:03-04:00"
+      "published": "2026-07-30T01:56:51-04:00"
     },
     {
-      "headline": "‘Logic for Programmers’ Launches as New Resource for Coding Thinkers",
-      "summary": "Hillel Wayne’s new website offers a concise guide that applies formal logic concepts to everyday programming problems. The project aims to help developers sharpen reasoning skills without heavy mathematical jargon.",
+      "headline": "Kuna Launches AI‑Powered Decompiler for the Coding‑Agent Era",
+      "summary": "Kuna introduces a decompiler that leverages autonomous coding agents to reverse‑engineer binaries faster than traditional tools. The project aims to streamline security analysis and software maintenance in an AI‑driven development landscape.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://logicforprogrammers.com/",
+      "url": "https://noelo.org/blog/kuna-release/",
       "source": "Hacker News",
-      "published": "2026-07-30T00:51:39+00:00"
+      "published": "2026-07-29T00:00:00-04:00"
     },
     {
-      "headline": "Oregon Braces for Record‑Breaking Wildfire Season as Fires Consume Over a Million Acres",
-      "summary": "Central and eastern Oregon are battling rapidly spreading blazes that have forced evacuations and displaced ranchers from their livestock. With most fires still uncontained, officials warn the state may face its worst season on record.",
+      "headline": "Man Sentenced for Terror‑Related Attack on Salman Rushdie",
+      "summary": "A federal jury found the defendant guilty of terrorism charges tied to the 2022 stabbing of author Salman Rushdie. The conviction underscores the ongoing threat faced by writers targeted for controversial works.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/30/g-s1-136257/stabbing-conviction-salman-rushdie",
+      "source": "NPR News",
+      "published": "2026-07-30T01:33:00-04:00"
+    },
+    {
+      "headline": "Love & Devotion: Philly Siblings Blend Folk‑Pop with Dreamy Surrealism",
+      "summary": "The third album from the Philadelphia brother‑sister duo delivers warm, melodic folk‑pop songs that feel both familiar and otherworldly. Critics praise its cohesive songwriting and subtle experimental touches.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/sam-and-louise-sullivan-love-and-devotion/",
+      "source": "Pitchfork",
+      "published": "2026-07-30T04:01:00+00:00"
+    },
+    {
+      "headline": "Three Greek Firefighters Killed as Crete Wildfires Rage",
+      "summary": "Strong winds on Crete have intensified wildfires, forcing evacuations of multiple villages. The blaze claimed the lives of three firefighters battling the flames.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T11:42:05.724Z"
+    },
+    {
+      "headline": "Rescue Hope Fades After Japan’s Kumamoto Quake Rises to 23 Fatalities",
+      "summary": "In the aftermath of the 7.1‑magnitude quake on Kyushu, search teams race against time to locate survivors amid collapsing structures. The death toll has climbed to 23, deepening the humanitarian crisis.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/07/30/nx-s1-5913050/japan-earthquake-updates",
+      "source": "NPR News",
+      "published": "2026-07-30T01:18:58-04:00"
+    },
+    {
+      "headline": "Cicada Burnt: Peak Oil Debut Delivers Dark, Percussive Bass Landscapes",
+      "summary": "Mancunian producer’s first release on Peak Oil showcases ominous, rhythm‑driven tracks with intricate, Escher‑like twists. The EP pushes bass music into unsettling, atmospheric territory.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/leo-cicada-burnt/",
+      "source": "Pitchfork",
+      "published": "2026-07-30T04:00:00+00:00"
+    },
+    {
+      "headline": "French Villagers Defy Evacuation Orders Amid Gironde Wildfire",
+      "summary": "Residents in the Gironde region are battling flames in 40 °C heat, refusing to abandon their homes and forests. Local authorities struggle to protect both people and the environment as the fire flares.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T16:27:51.965Z"
+    },
+    {
+      "headline": "Hezbollah‑Linked Attacker Convicted for Assault on Salman Rushdie",
+      "summary": "Hadi Matar, 28, was found guilty of attempting to aid Hezbollah by attacking the British‑Indian author. The verdict highlights the intersection of extremist ideology and targeted violence.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T22:13:39.702Z"
+    },
+    {
+      "headline": "Oregon Faces Potential Record‑Breaking Wildfire Season",
+      "summary": "More than a million acres have burned across central and eastern Oregon, with many fires still uncontained. Ranchers scramble to move livestock and secure feed as the state braces for worsening conditions.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/07/29/nx-s1-5910624/oregon-is-on-track-for-its-worst-wildfire-season-yet",
@@ -309,26 +264,26 @@
       "published": "2026-07-29T16:28:44-04:00"
     },
     {
-      "headline": "New York District Halts AI Humanoid Teacher After Community Outcry",
-      "summary": "A school district in upstate New York paused its plan to introduce a human‑like robot instructor following objections from state officials, teachers and parents. Critics raised concerns about safety, privacy and the role of AI in classrooms.",
+      "headline": "LLM Honeypot Exposes Human‑AI Interaction Vulnerabilities",
+      "summary": "The LLM Honeypot project creates deceptive prompts to study how large language models respond to malicious inputs. Findings aim to improve safety measures and detect exploitation attempts.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/07/29/g-s1-136072/ai-robot-teacher",
-      "source": "NPR News",
-      "published": "2026-07-29T05:24:52-04:00"
+      "url": "https://llm2human.pages.dev/",
+      "source": "Hacker News",
+      "published": "2026-07-29T22:51:03+00:00"
     },
     {
-      "headline": "Fed Keeps Rates Steady Amid Persistent Inflation, Splits Opinion",
-      "summary": "The Federal Reserve voted to leave its benchmark interest rate unchanged, citing a continued commitment to tame stubborn price growth. The decision reflects a split among policymakers over how aggressively to act against inflation.",
+      "headline": "Japan Endures Over 100 Aftershocks as Death Toll Reaches 13",
+      "summary": "A 6.8‑magnitude quake that killed 13 people has been followed by more than a hundred tremors, some forecast to approach magnitude 7. Authorities urge residents to remain vigilant as aftershocks continue.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/07/29/nx-s1-5910558/federal-reserve-interest-rates-inflation",
-      "source": "NPR News",
-      "published": "2026-07-29T05:00:00-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T11:10:54.672Z"
     },
     {
-      "headline": "Russia Accuses Telegram Founder of Aiding Terrorism Over Unremoved Channels",
-      "summary": "The Russian Federal Security Service alleges that Pavel Durov’s messaging app failed to delete accounts and channels used by Ukraine’s intelligence service for recruitment. Durov faces charges of facilitating terrorist activity under Russian law.",
+      "headline": "Russia Accuses Telegram Founder of Aiding Terrorism",
+      "summary": "The Federal Security Service alleges that Pavel Durov’s messaging platform failed to purge accounts and channels used by Ukraine’s intelligence for recruitment. Durov now faces criminal charges for allegedly facilitating terrorism.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
@@ -336,71 +291,71 @@
       "published": "2026-07-29T09:51:49.769Z"
     },
     {
-      "headline": "Challies’ ‘A La Carte’ July Issue Tackles Nigerian Christian Persecution and More",
-      "summary": "The latest edition of Challies’ newsletter explores whether Christians in Nigeria are experiencing genocide, alongside essays on moral dilemmas, sin and faith. It also features a roundup of current news headlines.",
-      "category": "Faith",
-      "relevance": 6,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-29-2026/",
-      "source": "Challies",
-      "published": "2026-07-29T04:01:00+00:00"
-    },
-    {
-      "headline": "Kawhi Leonard Secretly Backed Rhode Island Soccer Project, Investigation Finds",
-      "summary": "An investigative report revealed NBA star Kawhi Leonard is a hidden investor in a controversial, taxpayer‑funded soccer initiative in Rhode Island. The probe, conducted with the “Pablo Torre Finds Out” podcast, raises questions about the project’s financial transparency.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vafc3v/following_the_pablo_torre_finds_out_episode_wpri/",
-      "source": "r/NBA",
-      "published": "2026-07-30T01:22:19+00:00"
-    },
-    {
-      "headline": "NSF Launches Pilot Program Pairing PhD Students with Industry Research Placements",
-      "summary": "The National Science Foundation is testing a four‑year doctoral track that embeds students in industry labs for part of their training. The initiative aims to bridge academic research with real‑world applications and improve graduate career outcomes.",
+      "headline": "Keychron Releases Open‑Source Firmware for Gaming Mice",
+      "summary": "Keychron has unveiled its first open‑source firmware, allowing users to customize performance and lighting on its gaming mouse lineup. The move is being praised by the hacker community for transparency and mod‑ability.",
       "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+      "source": "Hacker News",
+      "published": "2026-07-29T15:00:00+00:00"
+    },
+    {
+      "headline": "Survivors Relive Terror as Japan’s 6.8 Quake Leaves Chaos",
+      "summary": "Eyewitnesses describe the shock of the powerful tremor that rattled the region, with rescue teams still combing rubble for victims. The disaster has left many fearing for their lives amid ongoing recovery efforts.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cvgw52l5kyyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T06:07:26.179Z"
+    },
+    {
+      "headline": "Aeon Mall Collapses in Japan After 6.8‑Magnitude Quake",
+      "summary": "A massive explosion ripped through the Aeon shopping centre, prompting search crews to hunt for survivors amid the debris. The incident underscores the quake’s destructive reach beyond residential areas.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/c9d8ggpdgqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T23:29:53+00:00"
+    },
+    {
+      "headline": "NSF Launches Four‑Year PhD Pilot Linking Academia and Industry",
+      "summary": "The National Science Foundation is testing a program that embeds doctoral candidates in industry research labs for up to four years. The initiative aims to accelerate technology transfer and give students real‑world experience.",
+      "category": "World",
       "relevance": 6,
       "url": "https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four",
       "source": "Hacker News",
       "published": "2026-07-29T08:00:09-0400"
     },
     {
-      "headline": "Apple Launches Near‑Zero‑Interest Leasing via Klarna",
-      "summary": "Apple introduced Apple Upgrade, a leasing option for iPhone, Mac, iPad, and Apple Watch that lets U.S. customers finance devices through Klarna with almost no interest. The service is available online, in the app, and in physical stores.",
+      "headline": "AI‑Powered Word Worm Exploits Prompt Injection to Self‑Replicate",
+      "summary": "Researcher Håkon Måløy demonstrates a new attack where hidden instructions in a Word document trigger Microsoft Copilot to generate a self‑replicating worm. The proof‑of‑concept highlights emerging threats in AI‑augmented office software.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
-      "source": "Daring Fireball",
-      "published": "2026-07-28Z"
-    },
-    {
-      "headline": "Crypto Community Shifts Toward Post‑Quantum Standards",
-      "summary": "Experts note a rapid move away from traditional EC and RSA algorithms toward post‑quantum schemes like HAWK. The change is driven by the looming threat of quantum computers that could break current encryption.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Jul/29/matthew-green/#atom-everything",
+      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word/#atom-everything",
       "source": "Simon Willison",
-      "published": "2026-07-29T18:18:15+00:00"
+      "published": "2026-07-29T18:43:03+00:00"
     },
     {
-      "headline": "Fox BD’s New Mixtape Shows Fresh Energy in Distribution Deals",
-      "summary": "Pitchfork highlights Fox BD’s latest mixtape, praising its personal punchline rap while suggesting it could benefit from even more vigor. The release is positioned as one of the year’s standout distribution experiments.",
-      "category": "Music",
+      "headline": "Pastebot 3 Brings Fresh Features to Mac Clipboard Management",
+      "summary": "Tapbots releases the third major version of its popular clipboard manager, adding improved organization and syncing capabilities. Long‑time users praise its refined UI and seamless integration with macOS.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/fox-bd-finessin-distribution-deals/",
-      "source": "Pitchfork",
-      "published": "2026-07-29T04:00:00+00:00"
+      "url": "https://tapbots.com/pastebot/",
+      "source": "Daring Fireball",
+      "published": "2026-07-29T16:07:03+00:00"
     },
     {
-      "headline": "Doncic Hosts Lakers for Slovenia Mini‑Camp Ahead of Training",
-      "summary": "Luka Doncic has arranged a four‑day camp in Ljubljana for the entire Los Angeles Lakers roster, mixing workouts, golf, and sightseeing. The initiative aims to build chemistry after the Lakers added several new players this offseason.",
-      "category": "NBA",
+      "headline": "Logic for Programmers Offers Structured Reasoning Toolkit",
+      "summary": "A new online resource provides programmers with formal logic exercises and explanations to sharpen problem‑solving skills. The site targets developers seeking deeper analytical foundations.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1va0g5o/luka_doncic_is_hosting_the_entire_los_angeles/",
-      "source": "r/NBA",
-      "published": "2026-07-29T16:02:49+00:00"
+      "url": "https://logicforprogrammers.com/",
+      "source": "Hacker News",
+      "published": "2026-07-30T00:51:39+00:00"
     },
     {
-      "headline": "The Productivity Mirage Exposes Modern Work Myths",
-      "summary": "The article argues that many touted productivity hacks create an illusion of efficiency while actually adding hidden costs. It challenges readers to rethink how they measure output in a hyper‑connected world.",
+      "headline": "The Productivity Mirage Examines False Promises of Efficiency Hacks",
+      "summary": "Frantic.im’s essay argues that many touted productivity tricks create illusionary gains while eroding real work quality. It urges readers to focus on sustainable habits over quick fixes.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://frantic.im/mirage/",
@@ -408,8 +363,17 @@
       "published": "2026-07-29T23:18:11+00:00"
     },
     {
-      "headline": "Classic 1972 Text ‘Man and the Computer’ Revisited",
-      "summary": "John G. Kemeny’s book, co‑author of BASIC, explores early human‑computer interaction and foundational programming concepts. The digitized version offers a historical glimpse into computing’s formative years.",
+      "headline": "End of Medicare Drug Subsidies Threatens Premium Spike for Millions",
+      "summary": "Federal subsidies that lower insurers' drug costs are set to expire at year‑end, removing a key price‑cap for Medicare Part D. Without the aid, millions of beneficiaries may see their 2027 premiums rise sharply.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/07/29/nx-s1-5912039/the-trump-administrations-move-to-end-subsidies-for-medicare-drug-plans-could-cost-consumers",
+      "source": "NPR News",
+      "published": "2026-07-29T16:58:03-04:00"
+    },
+    {
+      "headline": "Rediscovering Kemeny's 1972 Classic 'Man and the Computer'",
+      "summary": "The early work by BASIC co‑creator John G. Kemeny examines the evolving relationship between humans and computers. Hacker News users are revisiting the text, sparking discussion about its relevance to modern computing.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://archive.org/details/mancomputerbyjoh0000john",
@@ -417,40 +381,76 @@
       "published": "2026-07-29T22:53:44+00:00"
     },
     {
-      "headline": "Life on the Edge: Inside Pakistan’s Remote Hindu Kush",
-      "summary": "Reporters travel to Chitral, a hard‑to‑reach valley bordering Afghanistan, showcasing its stunning scenery and constant threat of rockslides and avalanches. The piece paints a portrait of a community living amid extreme isolation.",
+      "headline": "International Booker Winner Uses 'Taiwan Travelogue' to Reframe Colonial History",
+      "summary": "The author and translator discuss how their prize‑winning book challenges narratives about Taiwan’s Japanese colonial past amid rising Chinese geopolitical pressure. The conversation highlights the role of literature in shaping national identity.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/07/29/g-s1-135641/pakistan-chitral-hindu-kush-mountains",
+      "url": "https://www.npr.org/2026/07/29/g-s1-136110/taiwan-travelogue-rethinks-history-colonialism-and-identity",
       "source": "NPR News",
-      "published": "2026-07-29T10:21:07-04:00"
+      "published": "2026-07-29T12:55:54-04:00"
     },
     {
-      "headline": "Australia Sues Telegram Over Alleged Terror Content",
-      "summary": "The Australian government has taken legal action against Telegram, accusing the platform of failing to remove material deemed pro‑terrorist. Telegram denies the claims and says it will fight the case in court.",
+      "headline": "Vision Pro Turns Into Smart Home Hub in Ingenious DIY Project",
+      "summary": "A blogger demonstrates how Apple’s mixed‑reality headset can control lights, thermostats, and security cameras, effectively replacing a traditional smart‑home controller. The project has attracted massive attention on Hacker News, earning over 500 points.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://christianselig.com/2026/07/vision-pro-house/",
+      "source": "Hacker News",
+      "published": "2026-07-29T11:54:19-03:00"
+    },
+    {
+      "headline": "DIY Smart AC Upgrade Keeps Renters Safe from Lease Violations",
+      "summary": "The author outlines a low‑cost method to add Wi‑Fi control to a standard window AC unit using off‑the‑shelf components. The guide emphasizes preserving the original unit to avoid security‑deposit disputes.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://prilik.com/blog/post/automating-ac-nyc/",
+      "source": "Hacker News",
+      "published": "2026-07-20 00:00:00 &#43;0000 UTC"
+    },
+    {
+      "headline": "Chinese Robotics Surge Into UK Retail Amid Labor Shortage",
+      "summary": "British retailers are turning to Chinese‑made service robots to offset weak productivity and a shrinking workforce. The trend signals a growing reliance on automation to maintain shelf‑stocking and customer service.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8v23qwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T22:08:29.558Z"
+    },
+    {
+      "headline": "India’s Exam Leak Crisis Shows Tech Alone Can’t Fix Governance Gaps",
+      "summary": "Critics argue that moving the NEET entrance exam to computer‑based testing won’t automatically stop paper leaks. Experts stress that robust administrative oversight must accompany any technological solution.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-07-30T02:46:32.755Z"
+      "published": "2026-07-29T22:50:14.835Z"
     },
     {
-      "headline": "Walton’s Forgotten Contribution to Warriors’ 73‑9 Record",
-      "summary": "Despite coaching the team to a 39‑4 stretch during the historic 73‑9 season, Luke Walton’s role is fading from memory due to NBA rule changes crediting interim records to head coaches. The discussion notes how quickly coaching legacies can be overwritten.",
-      "category": "NBA",
+      "headline": "Aerial Water Drops Battle France’s Escalating Wildfires",
+      "summary": "French authorities are deploying firefighting aircraft to douse blazes that have raged for days under soaring temperatures. The effort underscores the growing challenge of climate‑driven fire seasons in Europe.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1v9vdsy/i_feel_like_its_going_to_end_up_being_almost/",
-      "source": "r/NBA",
-      "published": "2026-07-29T12:54:50+00:00"
+      "url": "https://www.bbc.co.uk/news/videos/cly8xvvj8yro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-07-29T14:25:33+00:00"
     },
     {
-      "headline": "Zendaya Says Friendship Makes Spider‑Man Filming Easy",
-      "summary": "At the London premiere of “Spider‑Man: Across the Spider‑Verse,” Zendaya praised her close bond with Tom Holland, saying it simplifies their on‑set collaboration. The interview underscores how personal chemistry translates into performance.",
+      "headline": "Challies July Issue Offers Fresh Takes on Faith, Missions, and Culture",
+      "summary": "The latest “A La Carte” edition tackles topics from generational church dynamics to biblical respect in a secular age, plus book reviews and mission reflections. Readers can also explore related seasonal editions.",
+      "category": "Faith",
+      "relevance": 5,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-july-30-2026/",
+      "source": "Challies",
+      "published": "2026-07-30T04:01:00+00:00"
+    },
+    {
+      "headline": "eBay Settles $55.7 Million Cyberstalking Lawsuit After Harassment Scandal",
+      "summary": "The online marketplace and three former executives agreed to a multi‑million‑dollar payout to a Massachusetts couple targeted in a 2019 cyber‑harassment campaign. The settlement ends a protracted legal battle that exposed disturbing internal practices.",
       "category": "Other",
-      "relevance": 1,
-      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-07-29T20:21:46.131Z"
+      "relevance": 2,
+      "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+      "source": "Daring Fireball",
+      "published": "2026-07-28T21:11:11+00:00"
     }
   ]
 }
