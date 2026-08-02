@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T20:33:08.384117+00:00",
+  "generated_at": "2026-08-02T21:31:55.699312+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "AI Development Sparks Open Letters",
-      "summary": "The AI community has seen a surge in open letters, including one signed by 235 individuals, focusing on the development and leadership of AI. These letters highlight the need for responsible AI development and global cooperation in the field.",
+      "headline": "Open Letters Flood AI Community, Highlighting Calls for Transparency",
+      "summary": "Simon Willison compiles recent open letters urging responsible AI development, including the Microsoft‑backed Open Weights and American AI Leadership letter signed by 235 industry figures. The collection underscores growing pressure for openness and ethical standards in the field.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
@@ -12,26 +12,8 @@
       "published": "2026-08-02T04:16:52+00:00"
     },
     {
-      "headline": "Australia Combines Tech and Indigenous Knowledge to Fight Wildfires",
-      "summary": "Australia is sharing its expertise in combining modern technology with Indigenous knowledge to combat wildfires, offering valuable lessons for other countries. This approach has proven effective in preventing and managing wildfires, and could be applied globally.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T21:03:42.397Z"
-    },
-    {
-      "headline": "Fuse: A New Statically Typed Functional Programming Language",
-      "summary": "A new programming language called Fuse has been developed, featuring static typing, functional programming, and higher-kinded types. Fuse compiles to native code using the GRIN whole-program optimizer and LLVM, making it a promising tool for developers.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://fuselang.org",
-      "source": "Hacker News",
-      "published": "2026-08-02T11:23:56+00:00"
-    },
-    {
-      "headline": "The Ongoing Struggle Against Sin",
-      "summary": "The struggle against sin is a natural part of the Christian journey, and does not signify defeat or failure. Instead, it is a sign of God's ongoing work in the lives of believers, as they strive to overcome sin and live a life of holiness.",
+      "headline": "Spiritual Warfare: Sin’s Battle Fuels Sanctification",
+      "summary": "The Gospel Coalition argues that the ongoing fight against sin is a vital part of God’s sanctifying work, not a sign of failure. It frames the struggle as a necessary, transformative conflict that deepens believers’ faith.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/struggle-sin-defeat/",
@@ -39,80 +21,62 @@
       "published": "2026-08-02T04:00:00+00:00"
     },
     {
-      "headline": "Moscow Restaurant Bombing Kills Three",
-      "summary": "A bomb detonated at a restaurant in Moscow, killing three people and highlighting the ongoing threat of terrorism. The incident occurred when a woman attempted to enter the restaurant with explosives, but was stopped by a security guard.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T19:34:09.547Z"
-    },
-    {
-      "headline": "Introducing Agent Fone: A Revolutionary New Smartphone",
-      "summary": "The Agent Fone is a groundbreaking new smartphone that allows users to create custom software directly on the device. This innovative approach enables users to bring their app ideas to life, without needing to rely on external development tools or platforms.",
+      "headline": "Agent Fone: A Phone Built for On‑Device App Creation",
+      "summary": "Daring Fireball praises Agent Fone, a new smartphone that lets users develop custom software directly on the device, beyond a standard AI assistant. The platform aims to empower developers to build and run apps without a PC, opening a novel mobile programming ecosystem.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://fail.xyz/phone/",
       "source": "Daring Fireball",
-      "published": "2026-08-02T18:43:11+00:00"
+      "published": "2026-08-02T21:02:00+00:00"
     },
     {
-      "headline": "EU AI Model Rules Take Effect",
-      "summary": "New EU rules governing AI models have come into effect, aiming to promote transparency and accountability in the development and deployment of AI. The regulations are expected to have a significant impact on the AI industry, and will likely lead to changes in how AI models are designed and used.",
+      "headline": "Claude Code’s Limits: Boris Cherny Explains Prompt Challenges",
+      "summary": "In a YC Startup School talk, Anthropic’s Boris Cherny discusses the difficulty of getting Claude to rewrite its own app, noting that success now hinges less on clever prompting and more on model capabilities. He highlights the current gap between user expectations and AI code‑generation reliability.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "url": "https://www.ycrootaccess.com/p/boris-cherny-building-claude-code",
+      "source": "Daring Fireball",
+      "published": "2026-07-27T17:01:24+00:00"
+    },
+    {
+      "headline": "AI Mania Mirrors Tulip Craze, Says Sean Helvey",
+      "summary": "A Hacker News post links to Sean Helvey’s piece comparing today’s AI hype to the 17th‑century tulip bubble, arguing that speculative fervor can distort technology’s true value. Commenters debate the parallels and the sustainability of AI investment.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://seanhelvey.com/tools-and-their-tools/",
       "source": "Hacker News",
-      "published": "2026-08-02 07:30:32 +02:00"
+      "published": "2026-08-02T20:48:28+00:00"
     },
     {
-      "headline": "Advances in Mathematics and Theoretical Computer Science",
-      "summary": "Recent breakthroughs in mathematics and theoretical computer science have the potential to drive innovation and progress in a range of fields. These advances include new discoveries in cryptography, and demonstrate the ongoing importance of fundamental research in these areas.",
+      "headline": "EU Age‑Check Scheme Requires Secure Hardware Proof",
+      "summary": "A new EU initiative forces age‑verification services to use hardware‑bound attestation, aiming to prevent spoofing and protect minors online. The proposal has sparked discussion about privacy implications and implementation challenges.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-01T20:34:49+00:00"
-    },
-    {
-      "headline": "Kakehashi: Running macOS Binaries on Linux ARM",
-      "summary": "A new experimental project called Kakehashi enables users to run macOS binaries on Linux ARM devices, opening up new possibilities for cross-platform development. This innovative approach could have significant implications for the development of software and applications.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/wie-project/kakehashi",
+      "url": "https://linuxiac.com/eu-age-verification-project-mandates-hardware-bound-attestation/",
       "source": "Hacker News",
-      "published": "2026-08-02T16:26:40+00:00"
+      "published": "2026-08-02T13:43:13+00:00"
     },
     {
-      "headline": "F*: A General-Purpose Proof-Oriented Programming Language",
-      "summary": "F* is a new programming language that focuses on proof-oriented development, allowing developers to create verified software with strong guarantees of correctness. This language has the potential to revolutionize the way software is developed, by providing a rigorous and reliable approach to programming.",
+      "headline": "TypeScript Gains Go‑Style Defer via Compiler Patch",
+      "summary": "A developer outlines a method to incorporate Go’s defer statement into TypeScript, enabling deferred execution of cleanup code. The patch demonstrates how language features can be back‑ported to improve developer ergonomics.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://fstar-lang.org/",
+      "url": "https://healeycodes.com/adding-defer-to-the-typescript-compiler",
       "source": "Hacker News",
-      "published": "2026-08-02T12:31:16+00:00"
+      "published": "2026-08-02T20:12:39+00:00"
     },
     {
-      "headline": "Rust All‑Hands 2026: A Year in Review",
-      "summary": "The Rust blog recaps the All‑Hands meeting, highlighting key decisions, community milestones, and upcoming roadmap items. It reflects on how the language’s ecosystem grew and what developers can expect next.",
+      "headline": "Frog SVG Challenge Tests AI’s Creative Limits",
+      "summary": "An online benchmark asks AI models to draw an SVG of a frog with a Habsburg‑style jaw, exposing strengths and quirks in visual generation. The community shares results, highlighting variability across platforms.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://blog.rust-lang.org/inside-rust/2026/07/31/all-hands-2026-retrospective/",
+      "url": "https://frogs.vaguespac.es/",
       "source": "Hacker News",
-      "published": "2026-08-02T10:33:26+00:00"
+      "published": "2026-08-02T19:42:08+00:00"
     },
     {
-      "headline": "Ars Notoria Meets AI: The Dream of Instant Knowledge",
-      "summary": "An essay explores the medieval grimoire Ars Notoria and draws parallels to modern AI’s promise of instant expertise. It argues that while technology can accelerate learning, true wisdom remains elusive.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "source": "Hacker News",
-      "published": "2026-08-02T10:18:24+00:00"
-    },
-    {
-      "headline": "Works & Wonders August 2: Art, History, and Firefighting Innovations",
-      "summary": "This week’s newsletter surveys a range of projects, from restoring a Rembrandt masterpiece to a documentary on Tyndale. It also spotlights the origins of fire departments and new hymn releases.",
+      "headline": "Challies’ August 2 ‘Works & Wonders’ Highlights Art, History, and Hymns",
+      "summary": "The latest Works & Wonders issue features pieces on Restoring Rembrandt, The Last Museum, the invention of fire departments, and a Tyndale documentary, among other cultural topics. It also promotes free‑stuff Fridays and a hymn revival series.",
       "category": "Faith",
       "relevance": 7,
       "url": "https://www.challies.com/articles/works-wonders-august-2/",
@@ -120,26 +84,26 @@
       "published": "2026-08-02T04:01:00+00:00"
     },
     {
-      "headline": "FIFA in Crisis: Infantino Faces Growing Calls to Step Down",
-      "summary": "After a botched World Cup investment plan, FIFA president Gianni Infantino is under intense scrutiny. Stakeholders question his leadership as the organization grapples with financial and reputational fallout.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T22:03:13.243Z"
-    },
-    {
-      "headline": "Washington State Wildfires Force Mass Evacuations",
-      "summary": "Blazes have scorched over 250,000 acres, prompting thousands to flee and triggering widespread power outages. State officials declared an emergency as firefighters battle the rapidly spreading infernos.",
+      "headline": "13 Dead as Israeli Airstrikes Hit Gaza Post‑Hamas Disarmament Deal",
+      "summary": "Israel says its strikes targeted military operatives in Gaza City, Khan Younis, and Deir el‑Balah, resulting in at least 13 fatalities. The attacks come despite Hamas’s recent agreement to disarm, raising questions about the conflict’s trajectory.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-02T10:20:10+00:00"
+      "published": "2026-08-02T14:46:16.486Z"
     },
     {
-      "headline": "Simon Willison’s July 2026 Sponsor Newsletter Highlights AI Turbulence",
-      "summary": "The sponsor‑only issue covers accidental cyber‑incidents from OpenAI and Anthropic models, plus the rollout of GPT‑5.6 variants and new Claude, Kimi, and DeepSeek models. It offers insights into the fast‑moving AI landscape for backers.",
+      "headline": "Ukraine Claims Strike on Russian Refinery and Airfield; Russia Reports Eight Killed and Black Sea Port Attacks",
+      "summary": "Ukraine says its forces hit a key Russian oil refinery and a nearby airfield, dealing a blow to Moscow’s energy infrastructure. Meanwhile, Russian military announced it bombarded Ukrainian ports and vessels in the Black Sea, and Moscow confirmed eight casualties from the earlier attacks.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T15:48:00.308Z"
+    },
+    {
+      "headline": "Simon Willison’s July 2026 Sponsor‑Only Newsletter Released",
+      "summary": "The latest edition of Simon Willison’s monthly sponsor‑only newsletter is now available, featuring updates on accidental AI model cyber‑incidents and new releases like GPT‑5.6 variants, Claude Opus 5, Kimi K3, and DeepSeek‑V4‑Flash‑073.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
@@ -147,26 +111,35 @@
       "published": "2026-08-02T04:12:41+00:00"
     },
     {
-      "headline": "eBay Harassment Scheme Ends in $56 Million Settlement",
-      "summary": "A coordinated online campaign to intimidate a female seller resulted in a massive payout after legal action. The case underscores the risks of platform abuse and the importance of robust moderation.",
+      "headline": "Greg Brockman Notes Slack ChatGPT Interruptions Undermine Workplace Relations",
+      "summary": "OpenAI’s Greg Brockman observes that many users connect ChatGPT to Slack, but coworkers resent automated messages asking for help. The feedback highlights how people value direct human interaction over AI‑mediated requests.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
-      "source": "Hacker News",
-      "published": "2026-08-02T19:19:24+00:00"
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-01T22:29:44+00:00"
     },
     {
-      "headline": "SwiftUI at Seven: A Look at Its Mediocre Evolution",
-      "summary": "An analysis critiques SwiftUI’s progress since its launch, arguing that it has delivered modest improvements but fell short of its hype. The piece examines design trade‑offs and developer sentiment.",
+      "headline": "‘Let the Machines In’ Explores Integrating AI into Everyday Workflows",
+      "summary": "The blog post argues for embracing AI tools across various tasks, suggesting that open adoption can boost productivity and creativity. It calls for a cultural shift to treat machines as collaborative partners rather than threats.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+      "url": "https://blog.semenzin.com/let-the-machines-in/",
       "source": "Hacker News",
-      "published": "2026-07-20T00:00:00.000Z"
+      "published": "2026-08-02T20:17:16+00:00"
     },
     {
-      "headline": "Show HN: NixOS‑DGX‑Spark Brings Nix to NVIDIA’s AI Workhorse",
-      "summary": "The project provides ready‑to‑run NixOS images and modules for DGX Spark systems, simplifying setup for developers. It supports both native DGX hardware and compatible Asus machines.",
+      "headline": "Honeypot Study Reveals Real‑World Tactics for Harvesting SSH Credentials",
+      "summary": "The author shares data collected from a network of SSH honeypots, exposing common password‑spraying and credential‑reuse methods used by attackers. Insights include recommended defenses such as strict key policies and monitoring for anomalous login attempts.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "source": "Hacker News",
+      "published": "2026-08-02T17:45:51+00:00"
+    },
+    {
+      "headline": "NixOS‑DGX‑Spark Brings Nix Package Management to NVIDIA DGX Systems",
+      "summary": "A new repository provides playbooks and images to run NixOS on DGX Spark hardware, enabling reproducible environments for AI workloads. The project supports both NVIDIA’s DGX Spark and Asus Ascent GX10 platforms.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://github.com/graham33/nixos-dgx-spark",
@@ -174,26 +147,17 @@
       "published": "2026-08-02T17:05:54+00:00"
     },
     {
-      "headline": "Meshdiff Lets You Compare STL Files Directly in the Browser",
-      "summary": "Meshdiff is a client‑side tool that visualizes differences between two 3D models without server processing. It aims to streamline design reviews for engineers and hobbyists alike.",
+      "headline": "Deep Dive into TP‑Link TL‑841N: Rooting, Firmware Hacks, and Credential Persistence",
+      "summary": "The blog details a step‑by‑step process for gaining root access to the TL‑841N router, analyzing its firmware and exposing ways attackers can embed persistent credentials. Findings underscore the security risks of low‑cost IoT devices.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://meshdiff.com/",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
       "source": "Hacker News",
-      "published": "2026-08-02T11:34:41+00:00"
+      "published": "2026-08-02T00:00:00+00:00"
     },
     {
-      "headline": "Bor Launches Open‑Source Real‑Time Policy Manager for Linux Desktops",
-      "summary": "Bor combines a lightweight Go agent with a central server to push desktop policies over mTLS/gRPC instantly, removing the need for polling. It currently handles settings for Firefox, Chrome, KDE, dconf, polkit and package management.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "source": "Hacker News",
-      "published": "2026-08-02T00:00:00+03:00"
-    },
-    {
-      "headline": "Pitchfork Reexamines Pork Soda’s Bizarre Million‑Seller Album",
-      "summary": "Pitchfork revisits the third record by California funk‑metal outfit Pork Soda, noting its unsettling, genre‑defying sound that still moved over a million units. The review highlights the album’s lasting oddball appeal.",
+      "headline": "Pitchfork Revisits ‘Pork Soda’: The Bizarre, Million‑Selling Funk‑Metal Album",
+      "summary": "Pitchfork’s Sunday deep‑dive examines the third album by California’s funk‑metal band Pork Soda, noting its unsettling, gooey sound that still resonated enough to sell over a million copies. The review highlights the record’s oddball appeal and lasting influence.",
       "category": "Music",
       "relevance": 6,
       "url": "https://pitchfork.com/reviews/albums/primus-pork-soda/",
@@ -201,8 +165,8 @@
       "published": "2026-08-02T04:00:00+00:00"
     },
     {
-      "headline": "Trump Says US Will Hold Off Iran Strikes After Deal Talks Accelerate",
-      "summary": "President Trump announced a pause on planned attacks on Iran after regional partners indicated a rapid agreement was forming. He claimed the “perimeters” of the deal had already been set.",
+      "headline": "Trump Halts Planned Iran Strikes, Citing Rapid Deal Negotiations",
+      "summary": "President Trump announced a pause on any military action against Iran after receiving assurances that a diplomatic agreement was near completion. He said Middle Eastern partners had asked the U.S. to wait while the “perimeters” of a deal were being finalized.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
@@ -210,35 +174,35 @@
       "published": "2026-08-02T02:19:13.829Z"
     },
     {
-      "headline": "AI Test Challenge: Draw a Frog with a Habsburg Jaw in SVG",
-      "summary": "A developer posts a quirky benchmark asking an AI to generate an SVG illustration of a frog sporting a distinctive Habsburg jaw. The task gauges the model’s ability to follow detailed visual prompts.",
+      "headline": "Bubble Memory: A Forgotten Magnetic Storage Technology",
+      "summary": "Bubble memory, an early non‑volatile storage method using magnetic domains, offered durability but struggled with speed and cost. Though it never achieved mainstream adoption, its concepts influenced later memory innovations.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://frogs.vaguespac.es/",
+      "url": "https://en.wikipedia.org/wiki/Bubble_memory",
       "source": "Hacker News",
-      "published": "2026-08-02T19:42:08+00:00"
+      "published": "2026-08-02T20:50:02+00:00"
     },
     {
-      "headline": "Israeli Airstrikes Kill at Least 13 After Hamas Signals Disarmament",
-      "summary": "Israel says its strikes targeted Hamas military operatives in Gaza City, Khan Younis and Deir el‑Balah, resulting in at least 13 deaths. The attacks follow Hamas’s indication it would disarm.",
+      "headline": "Firecrawl Alternative Emerges: Draco Tackles Website Scraping",
+      "summary": "A new tool called Draco aims to simplify website scraping by providing a fast, single-binary solution that can handle modern websites without breaking the bank. This alternative to expensive APIs and resource-intensive Chrome instances is built in Rust.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/0xchasercat/draco/",
+      "source": "Hacker News",
+      "published": "2026-08-02T20:48:45+00:00"
+    },
+    {
+      "headline": "New Video Evidence Reveals Truth Behind Seattle Protest Shooting",
+      "summary": "An 18-month investigation and review of over a dozen videos have shed light on the chaotic scene surrounding the fatal shooting of a Black teenager at a Seattle protest. The evidence contradicts initial reports and raises questions about the events that unfolded.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T14:46:16.486Z"
+      "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
+      "source": "NPR News",
+      "published": "2026-08-02T08:00:00-04:00"
     },
     {
-      "headline": "Datasette‑Apps 0.2a0 Adds Debug and List Tools for Agent‑Powered Apps",
-      "summary": "The new 0.2a0 release introduces app_debug() for invisible JavaScript testing and app_list() to enumerate apps a user can edit via the Datasette Agent. These features streamline development and permission handling.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-01T21:23:56+00:00"
-    },
-    {
-      "headline": "Spain’s Ceuta Migrant Surge Sparks Europe‑Wide Political Firestorm on Social Media",
-      "summary": "A wave of migrants crossing from Ceuta into Spain has ignited fierce political debate across the continent, exposing deep divisions on immigration policy. Social‑media amplification has intensified the controversy.",
+      "headline": "Social Media Fueled Migrant Crisis Sparks Political Storm in Spain",
+      "summary": "The influx of migrants into Ceuta has exposed deep divisions in Europe over the sensitive issue of migration, with social media playing a significant role in whipping up the controversy. The crisis has put pressure on European leaders to find a solution.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
@@ -246,26 +210,17 @@
       "published": "2026-08-02T00:55:16.416Z"
     },
     {
-      "headline": "Ukraine Claims Hits on Major Russian Oil Refinery and Airfield Amid Moscow’s Fatality Report",
-      "summary": "Ukrainian forces say they struck a key Russian oil refinery and an airfield, while Russian officials confirm eight deaths from separate incidents. The exchange highlights the escalating tit‑for‑tat attacks.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T15:48:00.308Z"
-    },
-    {
-      "headline": "Honeypot Data Reveals Common SSH Credential‑Harvesting Tactics",
-      "summary": "Analysis of a network of SSH honeypots uncovers prevalent password patterns and attacker behaviors. The insights aim to help defenders strengthen SSH security against credential theft.",
+      "headline": "Sharing an X11 Server Across Hosts Made Easy with FamilyWild",
+      "summary": "A new tool called FamilyWild has made it possible to share an X11 server across multiple hosts, simplifying the process for families and users who need to access graphical applications remotely. This solution eliminates the need for complex setup and configuration.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://uphillsecurity.com/articles/harvesting-ssh-credentials-insights-from-my-honeypot-network/",
+      "url": "https://dobrowolski.dev/article/sharing-an-x-server-across-hosts-with-familywild/",
       "source": "Hacker News",
-      "published": "2026-08-02T17:45:51+00:00"
+      "published": "2026-08-02T20:26:47+00:00"
     },
     {
-      "headline": "Teenage Hitmen Employed by Foxtrot Network in Europe’s Violence‑as‑a‑Service Scheme",
-      "summary": "Investigators link the Foxtrot Network to roughly 35 murders, using a model that recruits teenage assassins for cross‑border killings. The group’s operations have raised alarms among European law‑enforcement agencies.",
+      "headline": "Teenage Hitmen for Hire: Europe's Foxtrot Network Exposed",
+      "summary": "The Foxtrot Network, a shadowy organization, has been linked to over 35 murders across Europe, using a 'violence-as-a-service' model to carry out hits. The network's recruitment of teenage hitmen has raised concerns about the scale and scope of the problem.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
@@ -273,8 +228,8 @@
       "published": "2026-08-01T23:03:35.597Z"
     },
     {
-      "headline": "Trump says U.S. will pause Iran strikes as deal framework emerges",
-      "summary": "President Trump announced the United States will hold off on planned attacks against Iran after regional partners asked for a pause, claiming a deal outline has been reached. He added that officials are working to finalize the agreement.",
+      "headline": "Trump Cancels Iran Strikes Amid Deal Negotiations",
+      "summary": "US President Trump has announced that he is holding off on attacking Iran, citing a deal that has been agreed to by Iran and other Middle Eastern countries. The decision has raised hopes for a peaceful resolution to the crisis.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
@@ -282,53 +237,53 @@
       "published": "2026-08-02T03:34:27-04:00"
     },
     {
-      "headline": "How to root and extract persistent credentials from TP‑Link TL‑841N routers",
-      "summary": "A technical blog details the process of gaining root access on the TL‑841N, analyzing its firmware and uncovering long‑lasting credentials. The guide exposes security weaknesses that could allow attackers to maintain control over the device.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
-      "source": "Hacker News",
-      "published": "2026-08-02T00:00:00+00:00"
-    },
-    {
-      "headline": "RISC OS Open marks twenty years of community‑driven development",
-      "summary": "RISC OS Open celebrates two decades of open‑source work on the classic RISC OS platform. The article reviews key milestones, ongoing projects, and the ecosystem’s enduring resilience.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-      "source": "Hacker News",
-      "published": "2026-08-02T12:36:07+00:00"
-    },
-    {
-      "headline": "Explosion at Moscow Italian restaurant kills three, injures 21",
-      "summary": "An explosive device detonated at an Italian eatery in Moscow, resulting in three deaths and 21 injuries, according to Russian media. Authorities have launched an investigation while emergency crews treat the wounded.",
+      "headline": "Uganda's Ebola Response Offers Lessons for Congo",
+      "summary": "Uganda's swift and effective response to the Ebola outbreak has led to the discharge of its last patient, providing a model for other countries to follow. The country's success has highlighted the importance of preparedness and coordination in the fight against the virus.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-02T16:52:35+00:00"
+      "published": "2026-08-01T23:03:15.359Z"
     },
     {
-      "headline": "Andrej Karpathy unveils \"Pelican\" project in brief demo",
-      "summary": "Karpathy posted a short video showcasing his new \"Pelican\" system, which aims to streamline a specific workflow (details pending). The demo generated significant discussion among the tech community about its potential applications.",
+      "headline": "Bomb Detonates at Moscow Restaurant, Killing Three",
+      "summary": "A bomb exploded at a Moscow restaurant, killing three people and injuring others. Security officials have confirmed that a woman attempted to enter the restaurant with explosives but was stopped by a security guard.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T19:34:09.547Z"
+    },
+    {
+      "headline": "Electric Vehicle Sales Surge in Europe, Reaching 26% Market Share",
+      "summary": "Electric vehicle sales in Europe have jumped 50% and now account for 26% of the market, a significant increase driven by growing demand and government incentives. The trend is expected to continue as more countries adopt sustainable transportation policies.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
       "source": "Hacker News",
-      "published": "2026-08-02T03:00:09.000Z"
+      "published": "2026-08-02T16:53:37+00:00"
     },
     {
-      "headline": "Ultra‑runner Sophie Woods describes grueling Via Alpina crossing",
-      "summary": "Sophie Woods completed the Via Alpina, battling storms, 37 °C heat, floods and wildfires across eight Alpine nations. She called the experience unforgettable and intensely challenging.",
+      "headline": "Kakehashi: Experimental Tool Runs macOS Binaries on Linux ARM",
+      "summary": "A new experimental tool called Kakehashi has made it possible to run macOS binaries on Linux ARM, providing a potential solution for developers and users who need to access macOS applications on Linux-based systems. The tool is still in its early stages and requires further testing and refinement.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/wie-project/kakehashi",
+      "source": "Hacker News",
+      "published": "2026-08-02T16:26:40+00:00"
+    },
+    {
+      "headline": "Fifa President Infantino Faces Pressure to Survive",
+      "summary": "Fifa president Gianni Infantino is under intense scrutiny after a disastrous World Cup investment plan imploded, leaving his future uncertain. The pressure is mounting on Infantino to prove his leadership and salvage the reputation of the embattled football organization.",
       "category": "Sports",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-02T10:59:55+00:00"
+      "published": "2026-08-01T22:03:13.243Z"
     },
     {
-      "headline": "Greek firefighting helicopter crash kills two, British pilot survives",
-      "summary": "A mid‑air collision between Danish and Greek firefighting helicopters over Greece resulted in two crew members dead. A British pilot and another Greek crew member survived, highlighting the dangers of aerial fire suppression.",
+      "headline": "Greece Helicopter Crash Claims Two Lives",
+      "summary": "A tragic helicopter collision in Greece resulted in the deaths of two crew members, while a British pilot and another Greek crew member survived the devastating incident. The accident highlights the risks faced by those working in the critical field of firefighting.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
@@ -336,8 +291,8 @@
       "published": "2026-08-02T15:21:56.246Z"
     },
     {
-      "headline": "Level 3 evacuation orders issued as Spokane wildfires spread",
-      "summary": "Multiple fires surrounding Spokane have triggered Level 3 evacuation alerts, urging residents to leave immediately. Officials warn conditions could deteriorate further and advise people to seek safety outside the danger zones.",
+      "headline": "Spokane Wildfires Force Thousands to Flee",
+      "summary": "A series of intense wildfires in Spokane, Washington, has prompted authorities to issue Level 3 evacuation orders, warning residents to leave immediately as the situation becomes increasingly dire. The fires have already forced thousands of people to abandon their homes and seek safety elsewhere.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/08/02/g-s1-136814/washington-state-wildfires-old-trails-fire-spokane",
@@ -345,35 +300,8 @@
       "published": "2026-08-02T09:35:43-04:00"
     },
     {
-      "headline": "OpenAI users’ Slack bots spark coworker resentment, says Greg Brockman quote",
-      "summary": "A recent post notes that many OpenAI users connect ChatGPT to Slack, but coworkers often dislike receiving automated help from a bot rather than a human request. The comment underscores how much people value personal interaction in workplace assistance.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-01T22:29:44+00:00"
-    },
-    {
-      "headline": "New video analysis sheds light on Seattle teen shooting at protest",
-      "summary": "An extensive review of dozens of videos has reconstructed the night a Black teenager was killed during a Seattle protest, revealing fresh details about the chaotic scene. The findings challenge earlier accounts and provide a clearer picture of the events leading to the fatal shooting.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/07/31/g-s1-133360/chop-digital",
-      "source": "NPR News",
-      "published": "2026-08-02T08:00:00-04:00"
-    },
-    {
-      "headline": "European BEV Sales Surge 50%, Capture 26% of Market",
-      "summary": "BEV registrations in Europe rose by half over the past year, pushing battery‑electric cars to a 26% share of new vehicle sales. The growth reflects stronger incentives and expanding model choices across the continent.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://cleantechnica.com/2026/08/02/europe-ev-sales-report-bevs-jump-50-reach-26-market-share/",
-      "source": "Hacker News",
-      "published": "2026-08-02T16:53:37+00:00"
-    },
-    {
-      "headline": "Premature Births Plague Pakistani Fishing Village",
-      "summary": "In Rehri Goth, a Pakistani fishing settlement, one in four infants is born prematurely, far above national averages. Researchers are investigating environmental and socioeconomic factors to develop interventions.",
+      "headline": "Pakistani Fishing Settlement Sees Alarming Premature Birth Rate",
+      "summary": "A disturbing trend has emerged in the Pakistani fishing settlement of Rehri Goth, where nearly a quarter of all babies are born prematurely, sparking concerns about the community's health and well-being. Researchers are working to identify the underlying causes of this alarming statistic and find ways to bring the numbers down.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
@@ -381,8 +309,8 @@
       "published": "2026-08-02T07:03:47-04:00"
     },
     {
-      "headline": "Indonesia Ferry Fire Leaves Five Dead, 41 Missing",
-      "summary": "A passenger ferry carrying at least 250 people caught fire off Madura Island, killing five and leaving 41 unaccounted for. Rescue teams are battling the blaze while searching for survivors.",
+      "headline": "Indonesia Ferry Fire Claims Five Lives and Leaves 41 Missing",
+      "summary": "A devastating ferry fire off the coast of Indonesia's Madura island has resulted in the deaths of at least five people, with 41 others reported missing. The vessel, which was carrying over 250 passengers, caught fire in a catastrophic incident that has left many families in shock and grief.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
@@ -390,8 +318,8 @@
       "published": "2026-08-02T10:02:19.531Z"
     },
     {
-      "headline": "Idaho Fast‑Food Shootout Claims Three Lives",
-      "summary": "A shooting at a fast‑food restaurant in Idaho resulted in three fatalities, and police later found the suspected gunman dead near the site. Authorities are still piecing together the motive behind the attack.",
+      "headline": "Idaho Fast Food Restaurant Shooting Leaves Three Dead",
+      "summary": "A senseless shooting at a fast food restaurant in Idaho has claimed the lives of three people, with the suspected gunman found dead in the area. The incident has sent shockwaves through the community, leaving many to wonder about the motives behind this tragic event.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
@@ -399,17 +327,17 @@
       "published": "2026-08-02T04:01:27-04:00"
     },
     {
-      "headline": "Uganda Unveils Monument to Yonatan Netanyahu",
-      "summary": "Uganda inaugurated a statue honoring Yonatan Netanyahu, the Israeli commander who died during the 1976 Entebbe hostage rescue. The tribute highlights the historic ties between the two nations.",
-      "category": "World",
+      "headline": "TinyNES Console Review: A Niche NES Console",
+      "summary": "The TinyNES console has been reviewed by enthusiasts, who praise its compact design and nostalgic value, but criticize its limited functionality and high price. This tiny console is a must-have for die-hard NES fans, but may not be worth the investment for casual gamers.",
+      "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T16:37:02.847Z"
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "source": "Hacker News",
+      "published": "2023-02-05T15:32:57+00:00"
     },
     {
-      "headline": "Tourist Plane Crashes Over Peru’s Nazca Lines, 13 Killed",
-      "summary": "A small aircraft carrying tourists crashed while flying over the Nazca Lines, killing all 13 aboard. Local officials are investigating the cause amid concerns about flight safety in the remote region.",
+      "headline": "Tourist Plane Crashes in Peru, Killing 13",
+      "summary": "A tragic plane crash in Peru has resulted in the deaths of 13 people, including tourists and crew members. The incident occurred while the plane was flying over the famous Nazca Lines archaeological site, leaving many to wonder about the cause of this devastating accident.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
@@ -417,17 +345,8 @@
       "published": "2026-08-01T20:22:29.729Z"
     },
     {
-      "headline": "Uganda Nears Ebola Eradication as DR Congo Faces Surge",
-      "summary": "Uganda has discharged its final Ebola patient, marking a successful containment effort even as the disease spreads in neighboring DR Congo. Health officials credit rapid vaccination and vigilant surveillance for the win.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T23:03:15.359Z"
-    },
-    {
-      "headline": "Avalanche in Pakistan Claims Legendary Mountaineer Nirmal Purja",
-      "summary": "A deadly avalanche on a high‑altitude peak in Pakistan killed renowned climber Nirmal Purja and several teammates from an international expedition. The tragedy underscores the persistent dangers of extreme alpine pursuits.",
+      "headline": "Avalanche Claims Life of Famed Mountaineer Nirmal Purja",
+      "summary": "A devastating avalanche in Pakistan has claimed the life of renowned mountaineer Nirmal Purja and several of his fellow climbers, who were attempting to conquer one of the world's tallest peaks. The incident serves as a poignant reminder of the risks faced by those who venture into the world's most treacherous landscapes.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
@@ -435,8 +354,35 @@
       "published": "2026-08-01T18:23:39-04:00"
     },
     {
-      "headline": "Capital One Closes Trump Org. Accounts Over Money‑Laundering Review",
-      "summary": "Capital One has shut down dozens of Trump Organization accounts, citing findings from an internal money‑laundering investigation rather than political events. The bank is seeking a court order to dismiss the related lawsuit.",
+      "headline": "The Myth of the Snow Leopard: Separating Fact from Fiction",
+      "summary": "A thought-provoking article explores the myth surrounding the elusive snow leopard, a majestic creature that has captured the imagination of people around the world. By delving into the facts and fiction surrounding this majestic animal, readers can gain a deeper understanding of the snow leopard's place in our collective consciousness.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+      "source": "Hacker News",
+      "published": "2026-08-02T07:51:29+10:00"
+    },
+    {
+      "headline": "RISC OS Open Celebrates Two Decades of Innovation",
+      "summary": "RISC OS Open has marked its 20th anniversary, highlighting its commitment to open-source software development. The platform has continued to evolve over the years, providing a unique alternative to mainstream operating systems.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+      "source": "Hacker News",
+      "published": "2026-08-02T12:36:07+00:00"
+    },
+    {
+      "headline": "Record-Breaking Runner Conquers the Alps",
+      "summary": "Sophie Woods has completed the grueling Via Alpina, navigating treacherous terrain and extreme weather conditions across eight countries. Her incredible feat showcases her endurance and determination as a long-distance runner.",
+      "category": "Sports",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T10:59:55+00:00"
+    },
+    {
+      "headline": "Capital One Closes Trump Organization Accounts Over Money-Laundering Concerns",
+      "summary": "Capital One has shut down hundreds of accounts linked to the Trump Organization, citing internal review findings that raised money-laundering concerns. The bank is seeking to dismiss a lawsuit from Trump-affiliated businesses, arguing that the account closures were not related to the January 6 riot.",
       "category": "World",
       "relevance": 4,
       "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
@@ -444,8 +390,62 @@
       "published": "2026-08-02T14:31:34-04:00"
     },
     {
-      "headline": "First‑Grader Interviews Bird Conservation Hero",
-      "summary": "NPR paired a Philadelphia first‑grader with a veteran ornithologist, letting the child conduct the interview about a lifelong career protecting birds. The exchange showcases youthful curiosity and the scientist’s passion for wildlife.",
+      "headline": "Framework 12 Owners Can Now Give Their Laptops a Vintage Sound",
+      "summary": "A developer has created a Linux app that utilizes the Framework 12's hinge angle sensor to mimic the sound of a creaky door. The project allows owners to add a unique, nostalgic touch to their laptops.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://github.com/ArcaEge/creakwork12",
+      "source": "Hacker News",
+      "published": "2026-08-02T20:33:01+00:00"
+    },
+    {
+      "headline": "Uganda Unveils Statue Honoring Israeli Soldier Who Died in Hostage Rescue",
+      "summary": "A statue of Yonatan Netanyahu, the only Israeli soldier to die during the Entebbe rescue mission, has been unveiled in Uganda. The tribute recognizes Netanyahu's bravery and sacrifice in the face of danger.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/articles/c9v471x89m3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T16:37:02.847Z"
+    },
+    {
+      "headline": "German Car Makers Flood Job Market with Managers After Restructuring",
+      "summary": "Following a major restructuring effort, German car manufacturers are releasing a large number of managers into the job market. The move is expected to have a significant impact on the local employment landscape.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597",
+      "source": "Hacker News",
+      "published": "2026-08-02T19:24:18+00:00"
+    },
+    {
+      "headline": "Deadly Bomb Blast Rocks Moscow, Leaving Multiple Injured",
+      "summary": "A powerful explosive device detonated at an Italian restaurant in Moscow, resulting in three fatalities and 21 injuries. The blast has sent shockwaves through the city and raised concerns about public safety.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T16:52:35+00:00"
+    },
+    {
+      "headline": "Wildfires Rage Across Washington State, Prompting Mass Evacuations",
+      "summary": "Widespread wildfires have engulfed over 250,000 acres of land in Washington state, forcing thousands of residents to evacuate their homes. Emergency services are working to contain the blazes and restore power to affected areas.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T10:20:10+00:00"
+    },
+    {
+      "headline": "Body of Renowned Climber Recovered After Pakistan Avalanche",
+      "summary": "The body of Nirmal Purja, a renowned mountaineer, has been recovered after he was caught in an avalanche in Pakistan. Purja was known for his incredible climbing feats, including scaling the world's 14 highest peaks in just over six months.",
+      "category": "World",
+      "relevance": 3,
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T12:03:45.843Z"
+    },
+    {
+      "headline": "Aspiring Scientist Interviews Bird Conservation Expert",
+      "summary": "A first-grader from Philadelphia had the opportunity to interview a bird scientist, gaining valuable insights into the world of conservation science. The exchange highlights the importance of mentorship and inspiring the next generation of scientists.",
       "category": "Other",
       "relevance": 2,
       "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
