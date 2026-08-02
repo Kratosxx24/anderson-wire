@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-02T11:35:13.241896+00:00",
+  "generated_at": "2026-08-02T12:41:39.146463+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Open Letters Flood In on AI Development, Highlighting Industry Concerns",
-      "summary": "Simon Willison compiled recent open letters urging responsible AI progress, noting a Microsoft‑led pledge signed by 235 experts. The collection, originally for a sponsor‑only newsletter, is now publicly shared.",
+      "headline": "Open Letters Call for Responsible AI Development",
+      "summary": "Simon Willison compiled recent open letters urging responsible AI progress, highlighting a Microsoft‑backed pledge signed by 235 AI stakeholders. The collection, originally for his paid newsletter, is now publicly shared.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
@@ -12,89 +12,17 @@
       "published": "2026-08-02T04:16:52+00:00"
     },
     {
-      "headline": "How Strong Are OpenAI’s Enterprise Data‑Privacy Guarantees?",
-      "summary": "Users claim OpenAI’s enterprise tier protects their data from training use, but recent lawsuits, such as Apple’s claim of stolen trade secrets, raise doubts. The discussion examines the legal weight of OpenAI’s “no data sharing” language.",
+      "headline": "OpenAI’s Astra Model Cracks Ten Open Math and CS Challenges",
+      "summary": "An internal OpenAI team reported that its Astra system successfully solved ten longstanding problems in mathematics and computer science. The breakthrough was shared on Twitter and discussed on Hacker News.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vda6lp/how_strong_are_openais_no_data_sharing_clauses_on/",
-      "source": "r/Artificial",
-      "published": "2026-08-02T06:12:15+00:00"
+      "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+      "source": "Hacker News",
+      "published": "2026-08-01T08:17:42.000Z"
     },
     {
-      "headline": "Do Structured Prompts Really Boost AI Output?",
-      "summary": "A newcomer to AI wonders whether adding personas, few‑shot examples, or negative prompts improves results. The thread seeks evidence on how prompt engineering affects model performance.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vd8ti3/how_extreme_is_the_difference_in_using_vs_not/",
-      "source": "r/Artificial",
-      "published": "2026-08-02T04:58:43+00:00"
-    },
-    {
-      "headline": "Trump Says He’ll Hold Off Iran Attack Pending Rapid Deal",
-      "summary": "The president asserts that Iran and other regional powers have asked the U.S. to pause military action as negotiations near completion. He claims the “perimeters” of an agreement have already been set.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T02:19:13.829Z"
-    },
-    {
-      "headline": "Trump Announces Iran Strike Cancellation as Deal Talks Progress",
-      "summary": "According to Trump, Middle Eastern nations requested the United States delay any strike on Iran because a tentative deal is in place. He emphasized that the basic terms of the agreement have been agreed upon.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
-      "source": "NPR News",
-      "published": "2026-08-02T03:34:27-04:00"
-    },
-    {
-      "headline": "Russian Missile Barrage Slaughters Nine in Kyiv Amid U.S. Defense Stalemate",
-      "summary": "Early Saturday, ballistic missiles struck five districts of Ukraine’s capital, killing nine civilians. President Trump is now retreating from a promised increase in missile defense aid to Kyiv.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-      "source": "NPR News",
-      "published": "2026-08-01T16:27:32-04:00"
-    },
-    {
-      "headline": "Model Swaps Won’t Cure Poor Results—Context Is the Real Driver",
-      "summary": "Users often jump to larger or newer models expecting better answers, but output changes little if the input context is flawed. The post breaks down three key ways context shapes model behavior.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vd6q9p/swapping_ai_models_rarely_fixes_bad_output_the/",
-      "source": "r/Artificial",
-      "published": "2026-08-02T03:11:37+00:00"
-    },
-    {
-      "headline": "Ten Breakthroughs Shaping Modern Mathematics and Theoretical Computer Science",
-      "summary": "Willison highlights recent milestones, including Anthropic’s discovery of cryptographic weaknesses in Claude via extensive token‑heavy prompting. The list underscores how AI research is uncovering deep theoretical insights.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-01T20:34:49+00:00"
-    },
-    {
-      "headline": "What Developers Really Pay for the Claude API",
-      "summary": "A Reddit user details the pricing structure of Anthropic’s Claude language model, breaking down token rates and usage scenarios. The post helps developers estimate expenses before integrating the API.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vcxbsk/what_the_claude_api_actually_costs/",
-      "source": "r/Artificial",
-      "published": "2026-08-01T20:08:21+00:00"
-    },
-    {
-      "headline": "Kawhi Leonard: Two Finals MVPs, Zero Regular‑Season Honors",
-      "summary": "Leonard is the only NBA player to earn multiple Finals MVP awards without ever winning a regular‑season MVP. His peak years coincided with dominant contemporaries like Stephen Curry, limiting his chances.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vd0pcd/kawhi_leonard_is_the_only_player_in_nba_history/",
-      "source": "r/NBA",
-      "published": "2026-08-01T22:27:49+00:00"
-    },
-    {
-      "headline": "Spiritual Warfare: Struggle with Sin Is Part of God’s Sanctifying Process",
-      "summary": "The article argues that battling sin isn’t a sign of failure but evidence of God’s ongoing sanctification. It frames the fight as a necessary, even violent, aspect of the believer’s transformation.",
+      "headline": "Struggling with Sin Is Not a Sign of Defeat, Says Gospel Coalition",
+      "summary": "The piece argues that the ongoing battle against sin reflects God’s sanctifying work rather than failure. It frames this spiritual warfare as integral to Christian growth.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/struggle-sin-defeat/",
@@ -102,17 +30,8 @@
       "published": "2026-08-02T04:00:00+00:00"
     },
     {
-      "headline": "Pitchfork Revisits ‘Pork Soda’: The Bizarre Million‑Seller Funk‑Metal Album",
-      "summary": "Pitchfork’s weekly deep‑dive spotlights the third record by a California funk‑metal group, noted for its grotesque, unsettling sound. Despite its oddity, the album broke the million‑copy barrier, cementing its cult status.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/primus-pork-soda/",
-      "source": "Pitchfork",
-      "published": "2026-08-02T04:00:00+00:00"
-    },
-    {
-      "headline": "Apple’s iPhone Upgrade Program: Zero‑Interest Loan Makes New Phones a Steal",
-      "summary": "Daring Fireball cites Michael Lopp’s take that Apple’s upgrade scheme functions like a 0% loan, spreading the full price over two years. The structure lets users get the latest iPhone without upfront cost, effectively turning the purchase into a bargain.",
+      "headline": "Apple’s iPhone Upgrade Program Offers Zero‑Interest Financing",
+      "summary": "Michael Lopp explains that the iPhone Upgrade Program lets users finance a full‑price iPhone over 24 months with no interest. Participants essentially receive a loan that spreads the cost without extra fees.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://randsinrepose.com/archives/the-apple-upgrade-situation/",
@@ -120,17 +39,17 @@
       "published": "2026-07-29T10:01:46-07:00"
     },
     {
-      "headline": "Hacker News Highlights ‘Ars Notoria’: Medieval Quest for Instant Knowledge via AI",
-      "summary": "A discussion on Hacker News links to a Public Domain Review essay exploring the Ars Notoria, a historic grimoire promising immediate mastery of subjects. The thread examines how the text’s ambitions echo modern AI’s promise of rapid learning.",
-      "category": "Tech/AI",
+      "headline": "Trump Halts Iran Strikes Pending Rapid Deal",
+      "summary": "President Trump announced a pause on planned attacks against Iran after Middle Eastern partners indicated a deal was near. He said the perimeters of the agreement had been agreed upon, prompting the cancellation.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://publicdomainreview.org/essay/ars-notoria/",
-      "source": "Hacker News",
-      "published": "2026-08-02T10:18:24+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T02:19:13.829Z"
     },
     {
-      "headline": "Spain’s Ceuta Migrant Surge Sparks Political Turmoil Across Europe",
-      "summary": "BBC reporter Sarah Rainsford details how recent crossings at the Spanish enclave of Ceuta have inflamed European politics. Social media amplification has magnified the debate, revealing deep splits over migration policy.",
+      "headline": "Ceuta Migrant Surge Sparks Political Turmoil Across Europe",
+      "summary": "A surge of migrants crossing from Ceuta into Spain has ignited fierce political debate, exposing deep divisions over migration policy. Social media amplification has intensified the controversy, according to BBC reporting.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
@@ -138,8 +57,35 @@
       "published": "2026-08-02T00:55:16.416Z"
     },
     {
-      "headline": "Show HN: Syncular Offers Offline‑First SQL Synchronization Built on TypeScript and Rust",
-      "summary": "A Hacker News post introduces Syncular, an open‑source library that syncs SQL databases offline before reconciling changes. It leverages a TypeScript front end and Rust core for performance and safety.",
+      "headline": "Russian Missile Barrage Kills Nine in Kyiv as US Aid Delayed",
+      "summary": "Early Saturday, ballistic missiles struck five districts of Kyiv, killing nine civilians. President Trump is reportedly retracting a promised increase in missile defense support for Ukraine.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
+      "source": "NPR News",
+      "published": "2026-08-01T16:27:32-04:00"
+    },
+    {
+      "headline": "Only 8.9% of Websites Block AI Crawlers, Yet 94.8% Remain Uncited",
+      "summary": "A new AI Visibility Index reveals that fewer than one in ten sites prevent AI indexing, but the vast majority never appear in AI-generated answers. The findings highlight a mismatch between accessibility and citation.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://website-auditor.io/ai-visibility-index",
+      "source": "Hacker News",
+      "published": "2026-08-02"
+    },
+    {
+      "headline": "Anthropic Uncovers Crypto Flaws in Claude, Sparking Ten Major Math Advances",
+      "summary": "Anthropic’s research using Claude’s Mythos preview exposed cryptographic weaknesses, spending $100k on token prompts. The effort also identified ten significant breakthroughs in mathematics and theoretical computer science.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-01T20:34:49+00:00"
+    },
+    {
+      "headline": "Syncular Launches Offline‑First SQL Sync with TypeScript and Rust",
+      "summary": "Syncular, an open‑source project, offers a bidirectional SQL synchronization engine built on TypeScript and Rust cores. It targets developers needing reliable offline data handling and has attracted notable interest on Hacker News.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://github.com/syncular/syncular",
@@ -147,125 +93,26 @@
       "published": "2026-08-02T09:48:08+00:00"
     },
     {
-      "headline": "Simon Willison Announces Datasette‑Apps 0.2a0 with New Debug and Listing Tools",
-      "summary": "The latest pre‑release of datasette-apps adds app_debug(), enabling silent JavaScript testing of apps via the Datasette Agent. It also introduces app_list() to enumerate editable apps for the current user, streamlining development workflows.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-01T21:23:56+00:00"
-    },
-    {
-      "headline": "BBC Exposes ‘Foxtrot Network’: Teenage Hitmen Offering Violence‑as‑a‑Service Across Europe",
-      "summary": "Investigative reporting reveals a criminal organization that recruits adolescents to carry out contract killings, linked to roughly 35 European murders. The group operates on a “violence‑as‑a‑service” model, commodifying murder for hire.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T23:03:35.597Z"
-    },
-    {
-      "headline": "Reddit Debate: Do AI Docs Accelerate Work or Foster Complacent Learning?",
-      "summary": "A Redditor on r/Artificial shares the tension between using AI to generate documentation quickly and the risk of neglecting deep understanding. They argue that while tools boost short‑term speed, they may create long‑term skill gaps.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vctc2f/ai_documentation_tools_vs_actually_learning_the/",
-      "source": "r/Artificial",
-      "published": "2026-08-01T17:30:08+00:00"
-    },
-    {
-      "headline": "Seeking Budget‑Friendly AI Stack for Full‑Stack Development on r/Artificial",
-      "summary": "A full‑stack developer asks the community for recommendations on an affordable monthly AI environment to support multiple React‑Laravel projects. The post seeks a balance between cost and capability for everyday coding assistance.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vcycta/help_choose_a_reasonably_cheap_ai_environment_for/",
-      "source": "r/Artificial",
-      "published": "2026-08-01T20:49:33+00:00"
-    },
-    {
-      "headline": "Tourist Plane Plummets Over Peru’s Nazca Lines, 13 Dead",
-      "summary": "A small charter flight carrying tourists crashed while flying above the famous Nazca Lines archaeological site. Local authorities confirmed all 13 onboard were killed.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T20:22:29.729Z"
-    },
-    {
-      "headline": "Developer Creates Local Memory Hub to Preserve Context Across AI Apps",
-      "summary": "Frustrated by losing project context when switching between AI assistants, the author built a local memory layer that stores files and rationale. The tool aims to keep continuity between ChatGPT, Claude Code, Cursor, and others.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vd9kbb/i_got_tired_of_reexplaining_my_project_to_every/",
-      "source": "r/Artificial",
-      "published": "2026-08-02T05:38:33+00:00"
-    },
-    {
-      "headline": "Bomb Explosion at Moscow Eatery Kills Three, Guard Stops Suspect",
-      "summary": "A woman attempted to enter a restaurant with explosives but was intercepted by a security guard, triggering a blast. State media reported three fatalities and several injuries.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T19:34:09.547Z"
-    },
-    {
-      "headline": "New Benchmark Ranks 18 AI Models on 'Sloppy' Writing",
-      "summary": "A Reddit user launched theslopindex.com to measure how often language models produce clichéd, formulaic text. The open-source test compares 18 models, highlighting which generate the least stereotyped output.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vd3om8/i_benchmarked_which_of_18_ai_models_writes_the/",
-      "source": "r/Artificial",
-      "published": "2026-08-02T00:43:28+00:00"
-    },
-    {
-      "headline": "DR Congo Faces Deadliest Ebola Outbreak Yet, WHO Warns",
-      "summary": "The World Health Organization reports the current Ebola strain has killed 1,587 people, the highest toll in the country's history. No approved vaccine or treatment exists, intensifying the public health crisis.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T16:16:16.975Z"
-    },
-    {
-      "headline": "Reddit Fans Compare NBA Moves to Baseball’s Skubal‑Dodgers Deal",
-      "summary": "Users on r/NBA debate what basketball trade would mirror the surprise acquisition of pitcher Tarik Skubal by the Dodgers. Suggestions range from a star guard swap to a blockbuster like the Warriors acquiring Joel Embiid.",
-      "category": "NBA",
+      "headline": "Pitchfork Revisits Pork Soda: The Bizarre Funk-Metal Milestone",
+      "summary": "Pitchfork’s Sunday deep‑dive examines Pork Soda, the third album from California’s funk‑metal outfit, noted for its grotesque, unsettling sound. Despite its oddities, the record pushed over a million copies, cementing its place in rock history.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vd99s0/what_would_be_the_nba_equivalent_of_tarik_skubal/",
-      "source": "r/NBA",
-      "published": "2026-08-02T05:22:29+00:00"
+      "url": "https://pitchfork.com/reviews/albums/primus-pork-soda/",
+      "source": "Pitchfork",
+      "published": "2026-08-02T04:00:00+00:00"
     },
     {
-      "headline": "Gary Payton II Re‑Signs with Warriors on One‑Year, $3.9M Deal",
-      "summary": "The veteran guard‑again defender agrees to a one‑year contract to rejoin Golden State for his seventh stint in the Bay Area. The deal marks his 11th NBA season and adds depth to the Warriors’ roster.",
-      "category": "NBA",
+      "headline": "New Video Rewrites Story of Seattle Protest Shooting",
+      "summary": "An 18‑month investigation uncovered hours of footage that clarifies the night Antonio Mays Jr. was killed at the Capitol Hill Occupied Protest. The video shows protesters mistakenly identified him as a threat, overturning previous assumptions about the incident.",
+      "category": "World",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vcy2ol/charania_free_agent_gary_payton_ii_has_agreed_on/",
-      "source": "r/NBA",
-      "published": "2026-08-01T20:38:08+00:00"
+      "url": "https://www.npr.org/2026/08/02/g-s1-133360/seattle-shooting-capitol-hill-occupied-protest",
+      "source": "NPR News",
+      "published": "2026-08-02T08:00:00-04:00"
     },
     {
-      "headline": "Jeremy Sochan Inked to One‑Year Deal with Portland Trail Blazers",
-      "summary": "The former Knicks forward signs a one‑year contract after averaging 9.9 points and 5.4 rebounds last season. His agent confirmed the move, adding a versatile wing to Portland’s lineup.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vcy173/charania_free_agent_forward_jeremy_sochan_has/",
-      "source": "r/NBA",
-      "published": "2026-08-01T20:36:28+00:00"
-    },
-    {
-      "headline": "Copywriters Question Value of Their Trade as AI Generates Passable Text",
-      "summary": "A creator notes AI tools now produce decent copy that could slip past inattentive clients, prompting doubts about the need for human copywriters. The discussion weighs the cost of learning copywriting against AI’s growing capabilities.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vdf1qe/is_learning_copywriting_still_worth_it_when_ai/",
-      "source": "r/Artificial",
-      "published": "2026-08-02T10:55:27+00:00"
-    },
-    {
-      "headline": "Apple Posts Record Q3 2026 Revenue of $109.4 B, iPhone Sales Surge",
-      "summary": "Apple announced a 16% year‑over‑year revenue increase, driven by a 22% jump in iPhone sales and double‑digit growth in Mac and Services. iPad revenue fell 6%, but overall earnings set a new company record.",
+      "headline": "Apple Posts Record Q3 Revenue, iPhone Sales Surge 22%",
+      "summary": "Apple reported a $109.4 billion third‑quarter haul, up 16% year‑over‑year, driven by strong iPhone, Mac, Services and Wearables growth. iPad sales slipped 6%, marking the only category in decline.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://sixcolors.com/post/2026/07/apple-announces-record-q3-results/",
@@ -273,80 +120,44 @@
       "published": "2026-08-01T16:15:15+00:00"
     },
     {
-      "headline": "Workers Reject AI‑Mediated Help Requests from Colleagues",
-      "summary": "Many employees are annoyed when a coworker's ChatGPT reaches out for assistance, even though they'd gladly help if asked directly. The reaction highlights the value people place on personal interaction over automated intermediation.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-01T22:29:44+00:00"
-    },
-    {
-      "headline": "Indonesia Ferry Fire Leaves Five Dead, 41 Missing",
-      "summary": "A vessel carrying at least 250 passengers caught fire near Madura Island, resulting in five fatalities and 41 people unaccounted for. Rescue efforts are underway as authorities assess the disaster.",
+      "headline": "Premature Birth Crisis Hits Pakistani Fishing Village",
+      "summary": "One in four infants born in Rehri Goth, a coastal community in Pakistan, arrive prematurely, sparking health concerns. Researchers are investigating environmental and socioeconomic factors to devise interventions.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T10:02:19.531Z"
-    },
-    {
-      "headline": "Bor Launches Open‑Source Real‑Time Policy Engine for Linux Desktops",
-      "summary": "Developer introduces Bor, a lightweight Go agent paired with a central server that streams configuration changes to Linux workstations via mTLS/gRPC. It currently manages settings for browsers, KDE, dconf, polkit, and package managers without polling.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-      "source": "Hacker News",
-      "published": "2026-08-02T00:00:00+03:00"
-    },
-    {
-      "headline": "Cyberscript Offers Browser‑Based Scripting Platform",
-      "summary": "Cyberscript is a web‑focused scripting environment that lets users write and run scripts directly in the browser, aiming to simplify automation tasks. The project has attracted modest attention on Hacker News with ten points and six comments.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://cyberscript.dev",
-      "source": "Hacker News",
-      "published": "2026-08-02T07:58:30+00:00"
-    },
-    {
-      "headline": "Infantino Faces Growing Calls to Step Down Amid World Cup Funding Fallout",
-      "summary": "FIFA president Gianni Infantino is under intense scrutiny after the collapse of a controversial World Cup investment scheme. Critics question whether he can retain his position as the organization reels from the controversy.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-01T22:03:13.243Z"
-    },
-    {
-      "headline": "Avalanche in Pakistan Claims Legendary Mountaineer Nirmal Purja",
-      "summary": "A deadly avalanche on a high‑altitude peak in Pakistan killed renowned climber Nirmal Purja and several teammates from an international expedition. The tragedy underscores the persistent dangers of extreme alpine pursuits.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
+      "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
       "source": "NPR News",
-      "published": "2026-08-01T18:23:39-04:00"
+      "published": "2026-08-02T07:03:47-04:00"
     },
     {
-      "headline": "Italy Places Nearly All Major Cities on Red Heat Warning",
-      "summary": "Nineteen of Italy's biggest cities, including Rome, Milan and Naples, have been placed on the highest temperature alert as a heatwave intensifies. By Monday only two cities are expected to remain off the red alert.",
+      "headline": "Europe’s Foxtrot Network Employs Teenage Hitmen",
+      "summary": "The Foxtrot Network, linked to roughly 35 murders across Europe, recruits adolescents to carry out contract killings. Authorities describe its “violence‑as‑a‑service” model as a disturbing new criminal trend.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-01T17:51:46.312Z"
+      "published": "2026-08-01T23:03:35.597Z"
     },
     {
-      "headline": "Redditor Builds Personal AI Twin as On‑Demand Assistant",
-      "summary": "A user on r/Artificial unveiled a digital replica that acts as a personal assistant, notifying them when it receives unanswered queries. The prototype demonstrates how AI can extend individual productivity by bridging knowledge gaps in real time.",
+      "headline": "Ars Notoria: AI’s Quest for Instant Knowledge",
+      "summary": "An essay revisits the medieval Ars Notoria, drawing parallels to modern AI attempts to grant immediate expertise. The piece sparks debate on the limits and ethics of rapid learning technologies.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vcvysj/digital_ai_agent_of_mine/",
-      "source": "r/Artificial",
-      "published": "2026-08-01T19:14:21+00:00"
+      "url": "https://publicdomainreview.org/essay/ars-notoria/",
+      "source": "Hacker News",
+      "published": "2026-08-02T10:18:24+00:00"
     },
     {
-      "headline": "Uganda Declares Victory Over Ebola as Last Patient Discharged",
-      "summary": "Uganda has released its final Ebola patient, marking a successful containment effort just weeks after the outbreak began. Meanwhile, neighboring DR Congo continues to grapple with rising cases, highlighting regional challenges.",
+      "headline": "Trump Claims Iran Strike Cancelled Amid Deal Talks",
+      "summary": "Former President Trump announced the U.S. would hold off on attacks against Iran after Middle Eastern allies requested a pause. He said a deal framework had been reached, though details remain unclear.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "source": "NPR News",
+      "published": "2026-08-02T03:34:27-04:00"
+    },
+    {
+      "headline": "Uganda Declares Victory Over Ebola as DR Congo Cases Rise",
+      "summary": "Uganda discharged its last Ebola patient two weeks ago, signaling control over the outbreak within its borders. Meanwhile, the virus continues to spread in neighboring DR Congo, raising regional concerns.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
@@ -354,8 +165,17 @@
       "published": "2026-08-01T23:03:15.359Z"
     },
     {
-      "headline": "Spain’s Pro‑Immigration PM Sánchez Confronts Backlash After Ceuta Surge",
-      "summary": "Prime Minister Pedro Sánchez, once praised for his migrant-friendly stance, now faces criticism at home and abroad after about 60,000 migrants entered the Spanish enclave of Ceuta from Morocco. The influx has sparked political tension and tests his government's immigration policy.",
+      "headline": "Can Computers Do Math Without Human Mathematicians?",
+      "summary": "The article explores whether algorithmic systems can generate mathematical insights independently of human intuition. It examines recent advances and the philosophical implications for the discipline.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://borretti.me/article/mathematics-without-mathematicians",
+      "source": "Hacker News",
+      "published": "2026-08-02T00:00:00+00:00"
+    },
+    {
+      "headline": "Sánchez Faces Backlash After Massive Ceuta Migration Surge",
+      "summary": "Spain’s pro‑immigration prime minister Pedro Sánchez, once praised by migrants, now confronts political fallout as about 60,000 people entered Ceuta from Morocco. The influx has ignited domestic and international criticism of his policies.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
@@ -363,26 +183,17 @@
       "published": "2026-08-01T14:33:27-04:00"
     },
     {
-      "headline": "Australia blends AI and Aboriginal fire wisdom to curb wildfires",
-      "summary": "Australia is pairing modern technology—like satellite monitoring and AI‑driven prediction—with traditional Indigenous fire‑management practices to reduce wildfire risk. European officials are looking to adopt similar hybrid strategies as they confront record‑breaking blaze seasons.",
+      "headline": "DR Congo Faces Deadliest Ebola Outbreak Yet, WHO Warns",
+      "summary": "The latest Ebola strain has claimed 1,587 lives and no vaccine or treatment is currently approved. Health officials are scrambling to contain the spread.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cy07qe0knvzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-01T21:03:42.397Z"
+      "published": "2026-08-01T16:16:16.975Z"
     },
     {
-      "headline": "‘Coach Carter’ tags a teen as ‘next LeBron’—what it means for the star’s mythos",
-      "summary": "The 1999‑set movie mistakenly crowns a fictional player as the future LeBron James, highlighting how early LeBron fame sparked cultural shorthand. While a continuity slip, the line underscores LeBron’s outsized influence that even fictional narratives reference him as a benchmark.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vd9xa7/early_on_in_the_film_coach_carter_a_playerty/",
-      "source": "r/NBA",
-      "published": "2026-08-02T05:58:03+00:00"
-    },
-    {
-      "headline": "Works & Wonders roundup: Rembrandt restoration to fire‑dept origins",
-      "summary": "This week’s edition spotlights a diverse slate of stories, from the meticulous restoration of a Rembrandt masterpiece to a documentary on the founding of modern fire services. Additional features cover museum preservation, hymn histories, and a Tyndale film, plus regular free‑stuff segments.",
+      "headline": "Challies' August 2 'Works & Wonders' Highlights Art, History, and Faith",
+      "summary": "The issue features pieces on restoring Rembrandt, the Last Museum, the origins of fire departments, hymns of grace, a Tyndale documentary, and more. Readers can also explore free‑stuff features and a hymn revival segment.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/works-wonders-august-2/",
@@ -390,8 +201,8 @@
       "published": "2026-08-02T04:01:00+00:00"
     },
     {
-      "headline": "Simon Willison’s July 2026 sponsor brief: AI mishaps and new model releases",
-      "summary": "The latest sponsor‑only dispatch details accidental cyber‑incidents caused by experimental OpenAI and Anthropic models, alongside announcements of GPT‑5.6 variants and Claude Opus 5. It also highlights emerging models like Kimi K3 and DeepSeek‑V4‑Flash‑073 for early adopters.",
+      "headline": "Simon Willison’s July 2026 Sponsor‑Only Newsletter Goes Live",
+      "summary": "The June edition, now available to sponsors, covers accidental AI‑induced cyberattacks, the upcoming GPT‑5.6 models, Claude Opus 5, Kimi K3, and DeepSeek‑V4‑Flash‑073. New sponsors can gain immediate access.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://simonwillison.net/2026/Aug/2/july-newsletter/#atom-everything",
@@ -399,8 +210,35 @@
       "published": "2026-08-02T04:12:41+00:00"
     },
     {
-      "headline": "Idaho fast‑food venue shooting kills three, suspect found dead",
-      "summary": "A gunman opened fire inside a fast‑food restaurant in Idaho, resulting in three fatalities before police secured the scene. Officers later discovered the shooter’s body nearby, confirming the incident as a murder‑suicide.",
+      "headline": "Greg Brockman Notes Slack‑Integrated ChatGPT Sparks Workplace Friction",
+      "summary": "Users report annoyance when a colleague’s ChatGPT bot reaches out for help, even though they’d gladly assist a human request. The reaction underscores the importance people place on personal interaction over automated assistance.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-01T22:29:44+00:00"
+    },
+    {
+      "headline": "Indonesia Ferry Fire Leaves Five Dead, 41 Missing",
+      "summary": "A vessel carrying at least 250 passengers ignited off Madura Island, prompting a massive rescue effort. Authorities are still searching for survivors among the missing.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T10:02:19.531Z"
+    },
+    {
+      "headline": "Meshdiff Launches Browser‑Based STL Comparison Tool",
+      "summary": "The open‑source utility lets users upload and visually contrast two 3D STL files without server processing. It runs entirely client‑side, preserving privacy and speed.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://meshdiff.com/",
+      "source": "Hacker News",
+      "published": "2026-08-02T11:34:41+00:00"
+    },
+    {
+      "headline": "Idaho Fast‑Food Shootout Claims Three Lives, Suspect Found Dead",
+      "summary": "Police responded to a mass shooting at a restaurant, discovering the gunman’s body nearby. The incident left three victims dead and prompted a city‑wide investigation.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/02/nx-s1-5917121/idaho-fast-food-restaurant-shooting-3-dead",
@@ -408,49 +246,211 @@
       "published": "2026-08-02T04:01:27-04:00"
     },
     {
-      "headline": "Google Search’s time‑filter glitch disrupts results",
-      "summary": "Users reported that Google’s “past year” and similar time‑range filters stopped working days ago, returning unfiltered results. The issue, noted on Hacker News, has sparked discussion about potential fixes and the impact on search precision.",
+      "headline": "Italy Issues Red‑Level Heat Alerts to Nearly All Major Cities",
+      "summary": "Nineteen cities including Rome, Milan and Naples are already on the highest warning, with all but two expected to follow by Monday. Extreme temperatures are driving the nationwide emergency measures.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T17:51:46.312Z"
+    },
+    {
+      "headline": "Bor Introduces Real‑Time, Open‑Source Policy Management for Linux Desktops",
+      "summary": "Bor uses a lightweight Go agent and a central server to stream configuration policies via mTLS/gRPC without polling. It currently supports Firefox, Chrome, KDE, dconf, polkit, and package management.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://mastodon.online/@mwichary/117023736804129342",
+      "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
       "source": "Hacker News",
-      "published": "2026-08-02T03:15:15Z"
+      "published": "2026-08-02T00:00:00+03:00"
     },
     {
-      "headline": "Rozier’s defense leans on friend’s text to deny gambling knowledge",
-      "summary": "In a motion to dismiss, Rozier’s lawyer cites a message from childhood friend Deniro Laster that suggests Rozier was unaware of alleged betting schemes. Laster is accused of leaking inside information about Rozier’s planned team departure in March.",
-      "category": "NBA",
+      "headline": "Cyberscript Offers New Platform for Secure Script Execution",
+      "summary": "The project provides a framework for writing and running scripts with built‑in security controls. It has attracted discussion on Hacker News, earning 19 points and 18 comments.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://cyberscript.dev",
+      "source": "Hacker News",
+      "published": "2026-08-02T07:58:30+00:00"
+    },
+    {
+      "headline": "Bomb Plot Thwarted at Moscow Eatery Leaves Three Dead",
+      "summary": "A security guard stopped a woman carrying explosives before she entered the restaurant, but the device detonated inside, killing three people, according to state media.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T19:34:09.547Z"
+    },
+    {
+      "headline": "Body of Legendary Climber Nirmal Purja Retrieved After Pakistani Avalanche",
+      "summary": "Rescue teams recovered the remains of Nirmal Purja, famed for summiting all 14 eight‑thousanders in six months, following an avalanche that struck his expedition in Pakistan.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T12:03:45.843Z"
+    },
+    {
+      "headline": "Kimi K3 on MI355X Beats B300 in Price‑Performance Ratio",
+      "summary": "A recent benchmark shows the Kimi K3 accelerator paired with the MI355X chip delivers superior performance per dollar compared to the B300, sparking discussion among hardware enthusiasts.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "source": "Hacker News",
+      "published": "2026-08-02T04:21:14+00:00"
+    },
+    {
+      "headline": "Australia Merges Tech and Indigenous Wisdom to Combat Wildfires",
+      "summary": "As Europe grapples with record‑breaking fires, Australia showcases a hybrid approach that blends satellite monitoring, AI, and traditional land‑management practices to improve fire prevention and response.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T21:03:42.397Z"
+    },
+    {
+      "headline": "New RFC Calls for Phasing Out Outdated TLS 1.2 Key Exchanges",
+      "summary": "RFC 10015 proposes deprecating legacy key‑exchange algorithms in TLS 1.2 and DTLS 1.2 to strengthen security, prompting debate among developers and network operators.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "source": "Hacker News",
+      "published": "2026-08-01T23:44:55+00:00"
+    },
+    {
+      "headline": "FIFA President Infantino Faces Growing Crisis After Turbulent 24 Hours",
+      "summary": "Gianni Infantino is under intense scrutiny as the controversial World Cup investment plan collapses, raising questions about his ability to retain the FIFA presidency.",
+      "category": "Sports",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vd56wy/terry_rozier_uncovers_text_message_he_says_clears/",
-      "source": "r/NBA",
-      "published": "2026-08-02T01:57:13+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T22:03:13.243Z"
     },
     {
-      "headline": "Rehri Goth’s premature‑birth crisis prompts urgent research",
-      "summary": "One in four infants born in the coastal Pakistani community of Rehri Goth arrive preterm, far above national averages. Researchers are investigating environmental, nutritional, and healthcare factors to devise interventions that could lower the rate.",
-      "category": "NBA",
-      "relevance": 4,
-      "url": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+      "headline": "Alpine Ultra‑Runner Sophie Woods Calls Crossing Via Alpina ‘Incredible’",
+      "summary": "Sophie Woods completed the Via Alpina route, battling storms, 37 °C heat, floods, and wildfires across eight nations, describing the feat as an unforgettable adventure.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T10:59:55+00:00"
+    },
+    {
+      "headline": "Datasette‑Apps 0.2a0 Released with New Debug and Listing Tools",
+      "summary": "The latest pre‑release adds app_debug() for invisible JavaScript testing and app_list() to enumerate editable apps, enhancing the Datasette Agent workflow.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://simonwillison.net/2026/Aug/1/datasette-apps/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-01T21:23:56+00:00"
+    },
+    {
+      "headline": "Tourist Plane Crashes Near Peru’s Nazca Lines, 13 Dead",
+      "summary": "A small aircraft carrying tourists went down while flying over the famed Nazca geoglyphs, killing all aboard according to local authorities.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-01T20:22:29.729Z"
+    },
+    {
+      "headline": "Avalanche in Pakistan Claims Life of Renowned Mountaineer Nirmal Purja",
+      "summary": "An avalanche struck an international climbing team attempting a high‑altitude summit, resulting in the death of Nirmal Purja and several teammates.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/01/nx-s1-5916368/nirmal-purja-climbers-dead-avalanche",
       "source": "NPR News",
-      "published": "2026-08-02T07:03:47-04:00"
+      "published": "2026-08-01T18:23:39-04:00"
     },
     {
-      "headline": "Kyrie, LeBron spark Cavs’ first win over Spurs since 2010 in OT thriller",
-      "summary": "The duo combined for a late surge, with Kyrie’s nine‑point streak forcing overtime and LeBron delivering a game‑winning jumper mirroring his 2016 shot. The victory snapped a long drought against the Spurs and earned high praise from Charles Barkley.",
-      "category": "NBA",
+      "headline": "IBM i (OS/400) Blends OS and Database into One Engine",
+      "summary": "IBM i treats its relational database as a core part of the operating system, delivering built‑in security and transaction handling. The design lets applications run directly against the DB without a separate server layer.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://osadmins.com/en/ibm-i-os-400-the-database-operating-system/",
+      "source": "Hacker News",
+      "published": "2026-02-24T22:06:19+00:00"
+    },
+    {
+      "headline": "MkLinux on a Revamped Apple Workgroup Server 9150",
+      "summary": "The piece chronicles the port of MkLinux to the Apple Workgroup Server 9150, highlighting hardware tweaks that turned the vintage machine into a functional Linux box. It shows how enthusiasts resurrected the 1990s server for modern development.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "source": "Hacker News",
+      "published": "2026-08-02T03:12:52+00:00"
+    },
+    {
+      "headline": "When random.bytes() Executes but Returns Nonsense",
+      "summary": "A developer discovered that the random.bytes() routine runs without error yet produces malformed or empty output under certain conditions. The article walks through the debugging steps and the underlying library bug that caused the failure.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "source": "Hacker News",
+      "published": "2026-08-01T15:30:56+00:00"
+    },
+    {
+      "headline": "15‑Year‑Old Engineer Shares Homemade Cycloidal Gearbox",
+      "summary": "A teenage maker documented the design and 3D‑printed parts of a cycloidal gearbox he built from scratch, posting the full CAD files on GitHub. The project demonstrates advanced mechanical thinking from a high‑school hobbyist.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "source": "Hacker News",
+      "published": "2026-08-02T02:07:09+00:00"
+    },
+    {
+      "headline": "Washington Wildfires Ravage 250,000 Acres, Prompt Mass Evacuations",
+      "summary": "Fast‑moving fires across Washington state have scorched more than a quarter‑million acres, forcing thousands to flee and triggering widespread power cuts. Officials warn the blaze could expand as dry conditions persist.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-02T10:20:10+00:00"
+    },
+    {
+      "headline": "Go 1.27 Launches Interactive Tour for Newcomers",
+      "summary": "The Go team released an in‑browser, hands‑on tutorial that walks users through the language’s latest features and best practices. The tour aims to lower the entry barrier and speed up adoption of Go 1.27.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "source": "Hacker News",
+      "published": "2026-07-31T00:00:00+00:00"
+    },
+    {
+      "headline": "ASRock BC‑250 Powers a Low‑Cost Steam Gaming Rig",
+      "summary": "A step‑by‑step guide shows how to assemble a budget-friendly Steam Machine using the ASRock BC‑250 mini‑PC, complete with GPU upgrades and Linux gaming tweaks. The build proves affordable gaming is still viable in 2026.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "source": "Hacker News",
+      "published": "2026-08-02T01:35:11+00:00"
+    },
+    {
+      "headline": "Inside the Gut: How Cyclospora Invades and Replicates",
+      "summary": "Cyclospora parasites must linger in the human intestine for several days before they mature and cause illness, explaining the delayed onset of symptoms. The article outlines transmission routes and preventive measures for the summer outbreak.",
+      "category": "Other",
       "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1vd3hgk/kyrie_and_lebron_comeback_for_the_cavs_first_win/",
-      "source": "r/NBA",
-      "published": "2026-08-02T00:33:58+00:00"
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5914624/cyclospora-michigan-infection-lettuce-parasite-outbreak",
+      "source": "NPR News",
+      "published": "2026-08-02T05:00:00-04:00"
     },
     {
-      "headline": "Agent4Lease launches platform to streamline rental listings",
-      "summary": "The new web service aims to simplify the leasing process by aggregating property listings and facilitating direct communication between tenants and agents. Early feedback highlights its clean UI and potential to reduce vacancy times for landlords.",
+      "headline": "Deep‑Sea ROVs Capture Unusual ‘Alien’ Sharks in Pacific Abyss",
+      "summary": "Remotely operated vehicles filmed bizarre, translucent sharks at depths beyond 2,000 meters, sparking speculation about new species. Researchers say the footage expands knowledge of deep‑sea biodiversity.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific",
+      "source": "Hacker News",
+      "published": "2026-08-02T02:51:15+00:00"
+    },
+    {
+      "headline": "First‑Grader Interviews a Bird Conservation Scientist, Calls Him a Hero",
+      "summary": "A Philadelphia elementary student sat down with a veteran ornithologist, asking about fieldwork and why protecting birds matters. The interview showcases youthful curiosity and the scientist’s passion for wildlife.",
       "category": "Other",
       "relevance": 3,
-      "url": "https://agent4lease.com/",
-      "source": "Hacker News",
-      "published": "2026-08-02T06:59:36+00:00"
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5758054/we-asked-a-first-grader-to-interview-his-hero-a-bird-scientist",
+      "source": "NPR News",
+      "published": "2026-08-02T05:00:00-04:00"
     }
   ]
 }
