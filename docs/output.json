@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-03T19:10:58.245125+00:00",
+  "generated_at": "2026-08-03T20:47:54.798138+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "AI Can Paint Fast, but Human Creativity Still Matters, Says McCracken",
-      "summary": "Brett McCracken and Christopher Watkin explore how AI can generate art in seconds, yet argue that human imagination and intentionality remain essential. They discuss the impact of AI on attention spans and the enduring value of authentic creative expression.",
+      "headline": "Brett McCracken Defends Human Creativity Amid AI Art Boom",
+      "summary": "In a conversation with Christopher Watkin, McCracken argues that despite machines producing stunning visuals instantly, human imagination remains essential for meaning and direction. He also examines how AI reshapes attention spans and artistic practice.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-art-creativity/",
@@ -12,8 +12,26 @@
       "published": "2026-08-03T04:04:00+00:00"
     },
     {
-      "headline": "70‑B Model Runs on a 4 GB GPU Using AirLLM",
-      "summary": "A GitHub project demonstrates that the AirLLM framework can run a 70‑billion‑parameter language model on a modest 4 GB graphics card. The hack draws attention for making massive models accessible to developers with limited hardware.",
+      "headline": "Anthropic’s Boris Cherny Reveals Limits of Prompt Engineering with Claude Code",
+      "summary": "Speaking at Y Combinator’s Startup School 2026, Cherny says the real challenge now is guiding Claude to handle complex coding tasks, not just crafting prompts. He notes that current tools still struggle with nuanced programmatic rewrites.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.ycrootaccess.com/p/boris-cherny-building-claude-code",
+      "source": "Daring Fireball",
+      "published": "2026-07-27T17:01:24+00:00"
+    },
+    {
+      "headline": "OpenAI Highlights Ten Breakthroughs in Math and Theory",
+      "summary": "OpenAI’s roundup showcases recent strides ranging from new proof techniques to algorithmic innovations that could reshape cryptography and AI research. The Hacker News community is buzzing, with over 500 comments dissecting each advance.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "source": "Hacker News",
+      "published": "2026-08-03T16:27:12+00:00"
+    },
+    {
+      "headline": "AirLLM Runs 70‑B Model on a 4 GB GPU",
+      "summary": "The open‑source project demonstrates that the massive 70‑billion‑parameter AirLLM can be executed on modest hardware using clever memory‑saving tricks. Developers on Hacker News praise its accessibility for low‑resource environments.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://github.com/lyogavin/airllm",
@@ -21,8 +39,17 @@
       "published": "2026-08-03T11:15:48+00:00"
     },
     {
-      "headline": "Spurgeon’s Legacy Tarnished by Family Scandal",
-      "summary": "A recent examination of Charles Spurgeon’s family reveals hidden scandals that marred his celebrated ministry. The story serves as a reminder that even revered religious leaders can have messy, imperfect personal histories.",
+      "headline": "Sudan Army Drone Attack on Court Leaves 35 Dead, Rights Group Claims",
+      "summary": "A drone strike targeting a court session in a paramilitary‑controlled village reportedly killed 35 civilians, according to human‑rights monitors. The Sudanese army has not responded to the allegations.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T10:29:24.760Z"
+    },
+    {
+      "headline": "Spurgeon Family Scandal Exposes Hidden Flaws in Iconic Ministry",
+      "summary": "The recent revelations about the Spurgeon family illustrate that even revered religious leaders can harbor serious moral failings. The episode serves as a cautionary tale about unchecked authority and the need for accountability.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/spurgeon-scandal-failure/",
@@ -30,26 +57,17 @@
       "published": "2026-08-03T04:00:00+00:00"
     },
     {
-      "headline": "Apple Ties iPhone Leasing to Big‑Three Carrier Contracts",
-      "summary": "Apple’s financing programs, including the Upgrade Program, mandate a post‑paid plan with AT&T, Verizon, or T‑Mobile. The policy stems from long‑standing co‑marketing deals that bind Apple to the major U.S. carriers.",
-      "category": "Tech/AI",
+      "headline": "Pochettino Signs On to Lead USMNT Through 2030 World Cup",
+      "summary": "After steering the United States to a historic three‑win run and a round‑of‑16 finish, Mauricio Pochettino has committed to remain as head coach until the 2030 tournament. His tenure aims to sustain the surge in fan enthusiasm and on‑field success.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/followup_big_three_carrier_requirement",
-      "source": "Daring Fireball",
-      "published": "2026-08-03T17:19:34+00:00"
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
+      "source": "NPR News",
+      "published": "2026-08-03T10:05:24-04:00"
     },
     {
-      "headline": "Anthropic’s Boris Cherny Tests Claude Code on Self‑Rewrite",
-      "summary": "At YC Startup School 2026, Boris Cherny demonstrated prompting Claude to modify its own application code. He highlighted that success now hinges less on clever prompts and more on the model’s intrinsic coding abilities.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.ycrootaccess.com/p/boris-cherny-building-claude-code",
-      "source": "Daring Fireball",
-      "published": "2026-07-27T17:01:24+00:00"
-    },
-    {
-      "headline": "Ukrainian Drone Strike Kills Seven, Injures 40 on Black Sea Beach",
-      "summary": "Russian officials report that a Ukrainian‑launched drone crashed into a crowded resort, killing three children among seven total fatalities. The incident escalated tensions and highlighted the civilian toll of the ongoing conflict.",
+      "headline": "Ukrainian Drone Crash on Black Sea Beach Kills Seven, Injures 40",
+      "summary": "A Ukrainian‑launched drone struck a crowded resort area, killing three children among the seven fatalities and wounding dozens more. Russian officials reported the incident as a tragic civilian casualty.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
@@ -57,26 +75,8 @@
       "published": "2026-08-03T18:04:30.810Z"
     },
     {
-      "headline": "Drought Drives Rhine, Danube, Po to Historic Lows",
-      "summary": "Severe dryness has pushed water levels in Europe’s major rivers to record lows, hampering freight transport and cutting hydroelectric output. The shortage underscores growing climate pressures on continental waterway commerce.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T14:38:48.728Z"
-    },
-    {
-      "headline": "Iran Denies US Talks, Cites Oman Negotiations Amid Trump Critique",
-      "summary": "Tehran announced ongoing diplomatic discussions with Oman while rejecting any direct talks with Washington. Former President Trump responded with a sharp rebuke of Iran’s leadership for the alleged silence.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T00:11:18.351Z"
-    },
-    {
-      "headline": "Middle East Oil Tanker Threats Reach Highest Level Since Iran‑Iraq War",
-      "summary": "New attacks on alternative shipping routes have heightened risks for oil tankers navigating the region. Analysts warn the danger level rivals the early 1980s conflict between Iran and Iraq.",
+      "headline": "Middle East Oil Tanker Threats Reach Highest Level Since Iran War",
+      "summary": "New attacks on alternative shipping lanes have escalated risks for oil carriers, prompting analysts to warn of a security environment comparable to the early 1980s Iran conflict. The heightened danger could disrupt global energy supplies.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
@@ -84,35 +84,62 @@
       "published": "2026-08-03T15:42:18.714Z"
     },
     {
-      "headline": "Rawalakot Protests Turn Deadly as Families Mourn Lost Sons",
-      "summary": "BBC reporters gain rare access to Rawalakot, where security forces clash with demonstrators demanding justice. Residents recount personal losses, including a father whose only son was killed while protesting.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T03:32:21.696Z"
-    },
-    {
-      "headline": "Russian Opposition Figure Boris Nadezhdin Claims Asylum in France",
-      "summary": "Designated a foreign agent, Nadezhdin posted a video from the Eiffel Tower announcing his departure from Russia. The move underscores growing pressure on anti‑war politicians inside the Kremlin’s orbit.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T15:41:08.051Z"
-    },
-    {
-      "headline": "OpenAI Highlights Ten Breakthroughs in Math and Theory",
-      "summary": "The article surveys recent milestones ranging from new proof techniques to advances in quantum algorithms. Commenters on Hacker News praised the breadth but debated the practical impact of several results.",
+      "headline": "Meta’s Q2 Miss and AI Roadmap Raise Investor Concerns",
+      "summary": "Meta reported earnings that fell short of expectations, while its rollout schedule for AI products appeared misaligned with market demand. The financial commentary suggests the company faces timing challenges that could affect its long‑term valuation.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "source": "Hacker News",
-      "published": "2026-08-03T16:27:12+00:00"
+      "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
+      "source": "Stratechery",
+      "published": "2026-08-03T10:00:00+00:00"
     },
     {
-      "headline": "INT8 ConvRot Explained: Why FP8 May Be Obsolete",
-      "summary": "A technical note breaks down the INT8 convolution rotation method, showing it can match FP8 performance with lower precision. The post sparked a modest discussion on hardware efficiency among HN users.",
+      "headline": "Apple Ties iPhone Leasing to Big Three Postpaid Plans",
+      "summary": "Apple’s special financing programs, like the Upgrade Program and new leasing option, only work if customers have a postpaid contract with AT&T, Verizon, or T‑Mobile. The requirement stems from long‑standing co‑marketing deals that lock Apple into the carriers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/followup_big_three_carrier_requirement",
+      "source": "Daring Fireball",
+      "published": "2026-08-03T17:19:34+00:00"
+    },
+    {
+      "headline": "Cloudflare Shows How Tiny Kimi and GLM Models Boost Speed and Security",
+      "summary": "Cloudflare’s engineers detail deploying compact language models that run efficiently on edge servers while maintaining strong performance. The post argues that smaller models can deliver lower latency and tighter safety controls compared to larger alternatives.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "source": "Hacker News",
+      "published": "2026-08-03T13:00:00.000Z"
+    },
+    {
+      "headline": "Aung San Suu Kyi Seen Healthy in First Verified Outside Meeting in 2½ Years",
+      "summary": "Newly released photos from Myanmar’s military show the detained leader meeting an ICRC official, appearing in good health. The images mark the first confirmed external contact since her house arrest began.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T06:53:09.202Z"
+    },
+    {
+      "headline": "AI‑Powered App Accelerates Record‑Expungement for Millions",
+      "summary": "An artificial‑intelligence tool scans eligibility and automates paperwork, enabling rapid clearing of criminal records for tens of millions of Americans. Advocates say the speed could dramatically improve job prospects for people previously blocked by past convictions.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
+      "source": "NPR News",
+      "published": "2026-08-03T05:42:28-04:00"
+    },
+    {
+      "headline": "U.S. and Japan Signal Willingness for Joint Yen‑Support Interventions",
+      "summary": "Both governments announced they stand ready to coordinate currency market actions to stabilize the yen. The rare partnership suggests heightened concern over Japan’s weakening currency and its impact on global markets.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T02:02:34.517Z"
+    },
+    {
+      "headline": "Why INT8 ConvRot Makes FP8 Redundant in Neural Nets",
+      "summary": "A technical note explains how integer‑8 convolution‑rotation layers can replace floating‑point‑8 precision without sacrificing accuracy. The author argues the approach simplifies hardware requirements while preserving model performance.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://note.com/hirorohi03/n/n047a8c5f7f8b?hl=en",
@@ -120,35 +147,44 @@
       "published": "2026-07-04T18:16:00.000+09:00"
     },
     {
-      "headline": "Sudan Army Drone Attack on Court Leaves 35 Dead, Rights Group Claims",
-      "summary": "A drone strike targeted a courtroom in a paramilitary‑controlled village, killing dozens of civilians, according to a human‑rights organization. The military has not responded to the allegations, raising concerns over civilian protection.",
+      "headline": "Rawalakot’s Deadly Protests: Families Mourn Losses Amid Crackdown",
+      "summary": "BBC reporters gain rare access to a city where security forces clash with demonstrators demanding justice, leaving civilians injured and grieving. One father recounts his son’s death while standing up for his community’s rights.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-03T10:29:24.760Z"
+      "published": "2026-08-03T03:32:21.696Z"
     },
     {
-      "headline": "Northern Ethiopia Sees Mass Exodus Amid Threat of Renewed Civil War",
-      "summary": "Escalating clashes have forced hundreds to abandon their homes as the fragile peace agreement stalls. Observers warn that incomplete implementation could reignite full‑scale conflict.",
-      "category": "World",
+      "headline": "SQLite Vulnerabilities Spark Debate Over LLM‑Generated Code Risks",
+      "summary": "Researchers compare recent critical CVEs in SQLite with potential security gaps introduced by AI‑generated code. The analysis warns that both legacy bugs and sloppy LLM outputs can expose applications to serious exploits.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T11:49:48.621Z"
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "source": "Hacker News",
+      "published": "2026-08-03T11:28:54+00:00"
     },
     {
-      "headline": "Spokane Wildfires Ravage Homes, Prompt 60,000 Evacuations",
-      "summary": "Rapidly spreading fires have destroyed hundreds of houses and forced tens of thousands to flee. Emergency officials continue to battle the blaze as the region grapples with smoke and displacement.",
+      "headline": "Connecticut Rapper’s Debut ‘Stereoscope’ Mixes Humor, Poetic Grit, and Catchy Hooks",
+      "summary": "The album swings between tongue‑in‑cheek bravado and earnest slam‑poetry, delivering a handful of memorable verses and pop‑infused choruses. While uneven, it showcases the artist’s willingness to experiment across styles.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/sophie-hunter-stereoscope/",
+      "source": "Pitchfork",
+      "published": "2026-08-03T04:01:00+00:00"
+    },
+    {
+      "headline": "Norwegian Government IT Services Hit by Ongoing DDoS Attack",
+      "summary": "The Digdir status page reports a distributed denial‑of‑service incident disrupting public sector websites and APIs. Officials are working to mitigate traffic and restore normal operations.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
-      "source": "NPR News",
-      "published": "2026-08-03T14:45:00-04:00"
+      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+      "source": "Hacker News",
+      "published": "2026-08-03T19:56:27+00:00"
     },
     {
-      "headline": "DevTools Should Be Open Source, Argues Simon Willison",
-      "summary": "Willison contends that open‑source tooling gives users the ability to inspect and modify software, a principle often ignored in practice. He highlights the gap between ideal freedom and the reality faced by most developers.",
+      "headline": "Open‑Source DevTools Essential, Says Simon Willison",
+      "summary": "Willison argues that true user freedom requires access to the code behind development tools. He notes that most developers lack the ability to inspect or modify these tools, limiting the promised openness of open‑source software.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
@@ -156,62 +192,44 @@
       "published": "2026-08-03T15:30:38+00:00"
     },
     {
-      "headline": "Washington State Wildfires Devastate Neighborhoods, Displace Thousands",
-      "summary": "Spokane Mayor Lisa Brown reports that nearly half of the city’s areas are either evacuated or under imminent threat. The uncontained fires have razed homes and strained local emergency resources.",
+      "headline": "Iran Claims Talks with Oman, Not US, After Trump Calls Leadership Out",
+      "summary": "Tehran says diplomatic discussions are ongoing with Oman, dismissing any direct negotiations with Washington. President Trump responded by sharply condemning Iran's leadership.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-      "source": "NPR News",
-      "published": "2026-08-03T10:28:44-04:00"
-    },
-    {
-      "headline": "Attorney General Blanche Withdraws Anti‑Weaponization Fund; Trump Halts Iran Strike",
-      "summary": "Ahead of his confirmation hearing, Blanche reversed the controversial fund aimed at curbing weaponization. Simultaneously, President Trump announced a pause on planned military action against Iran, citing diplomatic progress.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "source": "NPR News",
-      "published": "2026-08-03T07:57:06-04:00"
-    },
-    {
-      "headline": "YC‑Backed Hoplite Launches Cloud‑Based Coding Agents for Seamless QA",
-      "summary": "Founders Bence and Ryan unveiled a platform that mirrors a developer’s local environment in the cloud, enabling rapid testing and deployment. Early feedback highlights its potential to streamline remote development workflows.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://hoplite.sh",
-      "source": "Hacker News",
-      "published": "2026-08-03T16:32:06+00:00"
-    },
-    {
-      "headline": "AI App Accelerates Record Expungement, Opening Jobs for Millions",
-      "summary": "Tens of millions of Americans with criminal records face hiring bans. A new AI-driven platform streamlines the expungement process, clearing records faster than ever before.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5892484/ai-legal-tech-jobs-clean-slate",
-      "source": "NPR News",
-      "published": "2026-08-03T05:42:28-04:00"
-    },
-    {
-      "headline": "Aung San Suu Kyi Seen Healthy in First Verified Outside Meeting in 2½ Years",
-      "summary": "Myanmar’s military released photos showing the detained leader meeting an ICRC official. The images suggest she is in stable condition after years of isolation.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-03T06:53:09.202Z"
+      "published": "2026-08-03T00:11:18.351Z"
     },
     {
-      "headline": "Rare Photos of Aung San Suu Kyi Spark Hope for Her Family",
-      "summary": "Kim Aris, her son, said the pictures of his mother meeting a foreign delegate lifted his spirits for the first time since the 2021 coup. The images hint at possible diplomatic engagement.",
+      "headline": "Drought Drives Rhine to Historic Low, Disrupting Shipping and Power",
+      "summary": "Record‑low water levels on the Rhine, Danube and Po have forced cargo vessels to reduce loads and halted some routes. The shortage also curtails hydroelectric generation, heightening Europe's energy concerns.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
-      "source": "NPR News",
-      "published": "2026-08-03T05:42:04-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T14:38:48.728Z"
     },
     {
-      "headline": "Boss Orders Re‑Entry, Two Workers Killed in Japan Mall Blast",
-      "summary": "After a quake, two women returned to Aeon Mall to retrieve cash at their employer’s directive. The subsequent explosion killed both, prompting an apology from the company.",
+      "headline": "Russian Opposition Figure Boris Nadezhdin Flees Abroad, Posts Video from Eiffel Tower",
+      "summary": "Designated as a foreign agent, Nadezhdin announced his escape from Russia in a video filmed near Paris. His departure underscores growing pressure on anti‑war politicians inside the country.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T15:41:08.051Z"
+    },
+    {
+      "headline": "SearXNG Rewritten in Rust Gains Attention on Hacker News",
+      "summary": "A new Rust implementation of the privacy‑focused meta‑search engine SearXNG has been released on GitHub. The project attracted discussion for its performance and safety benefits over the original Python codebase.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/MikeLuu99/searxng-rust",
+      "source": "Hacker News",
+      "published": "2026-08-03T16:41:40+00:00"
+    },
+    {
+      "headline": "Two Workers Killed in Japan Mall Blast After Re‑Entering on Employer’s Orders",
+      "summary": "A fatal explosion occurred at Aeon Mall in Japan when two women returned to retrieve cash after a quake. The employer issued an apology for pressuring staff to re‑enter the damaged site.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
@@ -219,89 +237,125 @@
       "published": "2026-08-03T08:40:22.997Z"
     },
     {
-      "headline": "SNAP Loses Over 4 Million Participants Amid Historic Cuts",
-      "summary": "Since July, enrollment in the food‑stamp program has plummeted as eligibility rules tighten. The decline coincides with sweeping budget reductions that threaten food security for low‑income families.",
+      "headline": "Show HN: Armature Launches Session‑Replay Analytics for MCP Agents",
+      "summary": "Startup Armature offers a lightweight SDK that records full user‑agent interactions on the MCP platform. The tool aims to give developers insight into request flows with just a few lines of code.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://armature.tech/",
+      "source": "Hacker News",
+      "published": "2026-08-03T16:17:59+00:00"
+    },
+    {
+      "headline": "Database Veteran Andy Pavlo Joins ClickHouse to Lead New Research Lab",
+      "summary": "Andy Pavlo, known for his work on database systems, has been hired by ClickHouse to head ClickHouse Labs. The lab will focus on advancing the analytical database’s performance and ecosystem.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "source": "Hacker News",
+      "published": "2026-08-03T13:33:44.646Z"
+    },
+    {
+      "headline": "India’s Medical Exam Paper Leak Triggers Tragedy, Families Speak Out",
+      "summary": "The 2024 leak of a medical entrance exam paper led to a cascade of suicides among aspirants. Two families share the personal devastation and question the systemic failures that enabled the breach.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5906797/snap-food-stamp-federal-changes-what-to-know",
-      "source": "NPR News",
-      "published": "2026-08-03T05:00:00-04:00"
-    },
-    {
-      "headline": "ComfyUI Adds Day‑0 MiniMax H3 Support with Open Weights, Audio, 2K Video",
-      "summary": "The latest ComfyUI update introduces native MiniMax H3 models, enabling high‑resolution video generation and audio synthesis. Users can now run the models without proprietary checkpoints.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "source": "Hacker News",
-      "published": "2026-08-03T02:55:11+00:00"
-    },
-    {
-      "headline": "Security Alert: Critical SQLite CVEs Raise Concerns Over LLM Exploits",
-      "summary": "Researchers highlight severe vulnerabilities in SQLite that could be abused by malicious language models. The findings urge developers to patch databases and reassess LLM security assumptions.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "source": "Hacker News",
-      "published": "2026-08-03T11:28:54+00:00"
-    },
-    {
-      "headline": "Nightcrawler: Smartphone‑Based AI Pentesting Tool Goes Open Source",
-      "summary": "The Nightcrawler project lets security testers run AI‑driven reconnaissance directly from a phone. Its lightweight design aims to bring automated vulnerability scanning to on‑the‑go professionals.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/garagehq/nightcrawler/",
-      "source": "Hacker News",
-      "published": "2026-08-03T11:06:15+00:00"
-    },
-    {
-      "headline": "On the Scene: Moscow Restaurant Bombing Claims Three Lives",
-      "summary": "BBC’s Russia editor reports from Kudrinskaya Square, the site of a blast that killed three diners. The coverage details the aftermath and ongoing investigation.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-03T03:15:25.985Z"
+      "published": "2026-08-02T23:35:54.845Z"
     },
     {
-      "headline": "Beyond the Sanctuary: Unconventional Christian Practices",
-      "summary": "A writer recounts meeting a woman who celebrates the Lord’s Supper each morning at home, challenging traditional church norms. The piece explores how believers express faith outside formal worship spaces.",
-      "category": "Faith",
+      "headline": "Retyping LLM‑Generated Code Suggested to Avoid Cognitive Debt",
+      "summary": "The author recommends manually re‑entering code produced by large language models to ensure understanding and catch hidden errors. This practice, though time‑consuming, can reduce reliance on opaque AI outputs.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "source": "Hacker News",
+      "published": "2026-08-02T14:53:36.721516+05:30"
+    },
+    {
+      "headline": "Infantino critics vow boycott unless FIFA chief quits",
+      "summary": "UEFA insiders say opponents of Gianni Infantino are refusing to cooperate with FIFA unless he steps down, intensifying internal pressure. They threaten to boycott meetings and initiatives to force his resignation.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://www.challies.com/articles/churchy-things-we-do-outside-of-church/",
-      "source": "Challies",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T07:49:33.742Z"
+    },
+    {
+      "headline": "Podium amps up hooks, dread, and meme‑laden humor on sixth album",
+      "summary": "Los Angeles nerd‑rock band returns with their sixth record, the first since a viral hit, delivering catchier melodies, political anxiety, and tongue‑in‑cheek, meme‑infused jokes. The album blends geeky riffs with sharp commentary for a more polished sound.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/cheekface-podium/",
+      "source": "Pitchfork",
       "published": "2026-08-03T04:02:00+00:00"
     },
     {
-      "headline": "Pochettino Signs On to Lead U.S. Men’s Team Through 2030 World Cup",
-      "summary": "Appointed in 2024, Mauricio Pochettino steered the squad to a historic trio of victories and rekindled fan excitement before a round‑of‑16 exit. The federation has now extended his contract to cover the next two World Cups.",
-      "category": "Sports",
+      "headline": "Om Malik’s final essay released on WWDC day, becomes posthumous farewell",
+      "summary": "Om Malik posted “The Myth, the Mythos and the Man” on June 7, describing it as his last shot in case he didn’t survive. He died shortly after, leaving the piece as a poignant final statement.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
+      "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+      "source": "Daring Fireball",
+      "published": "2026-06-07T17:30:59+00:00"
+    },
+    {
+      "headline": "With U.S. routes closed, Cubans increasingly seek asylum in Brazil",
+      "summary": "As American immigration pathways narrow, a growing number of Cubans are turning to Brazil for refuge instead of the United States. The shift reflects changing migration patterns amid tighter U.S. policies.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
       "source": "NPR News",
-      "published": "2026-08-03T10:05:24-04:00"
+      "published": "2026-08-03T15:05:41-04:00"
     },
     {
-      "headline": "Meta’s Lackluster Earnings and Uneasy AI Outlook Alarm Investors",
-      "summary": "The latest quarterly report fell short of analysts’ forecasts, and the company’s ambitious AI roadmap raised more doubts than confidence. Stakeholders worry the timing and execution of new products could hinder growth.",
-      "category": "Tech/AI",
+      "headline": "Spokane wildfires raze homes, force evacuation of 60,000 residents",
+      "summary": "Massive fires around Spokane have destroyed hundreds of houses and triggered evacuation orders for roughly 60,000 people. Photographs show the scale of devastation and the frantic displacement of communities.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
-      "source": "Stratechery",
-      "published": "2026-08-03T10:00:00+00:00"
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
+      "source": "NPR News",
+      "published": "2026-08-03T14:45:00-04:00"
     },
     {
-      "headline": "Cloudflare Shows How to Run Kimi and GLM Models Faster and Safer",
-      "summary": "A new blog post details techniques for trimming the size of large language models while boosting speed and security at scale. The approach promises lower costs for developers deploying AI services.",
+      "headline": "Cloudflare launches Billable Usage API for transparent cost tracking",
+      "summary": "Cloudflare’s new Billable Usage API lets customers pull detailed cost data programmatically. The tool aims to improve expense visibility and help users manage cloud spending more effectively.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "url": "https://blog.cloudflare.com/billable-usage-api/",
       "source": "Hacker News",
       "published": "2026-08-03T13:00:00.000Z"
     },
     {
-      "headline": "Task Runners: Automating Everyday Coding Workflows",
-      "summary": "The article walks through why integrating task runners can streamline repetitive development chores such as linting, testing, and building. Adopting them can free developers to focus on core features.",
+      "headline": "Digital delivers lucid, soulful, expertly curated debut for Surf Gang",
+      "summary": "South London rapper‑producer’s first album for Surf Gang, “Digital,” offers a clear, soulful collection with meticulous curation. The project showcases his versatility and refined production across the record.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/omari-lyseight-digital/",
+      "source": "Pitchfork",
+      "published": "2026-08-03T04:00:00+00:00"
+    },
+    {
+      "headline": "First two deaths reported in U.S. ‘explosive diarrhoea’ outbreak",
+      "summary": "Health officials confirmed the first fatalities from a parasitic infection causing severe diarrhoea, a condition usually not life‑threatening. The disease spreads via contaminated food or water, prompting public‑health alerts.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T20:05:46.112Z"
+    },
+    {
+      "headline": "Spokane wildfires destroy homes, force thousands to flee as half the city at risk",
+      "summary": "Raging fires near Spokane have demolished homes and placed thousands in evacuation zones, with nearly half the city’s neighborhoods threatened. Mayor Lisa Brown warned the blazes remain uncontained and dangerous.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
+      "source": "NPR News",
+      "published": "2026-08-03T10:28:44-04:00"
+    },
+    {
+      "headline": "Task runners streamline common coding chores, guide shows how",
+      "summary": "A new guide explains how task runners can automate routine development tasks such as linting, testing, and asset building. Using these tools simplifies workflows and cuts manual overhead for programmers.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://hamvocke.com/blog/task-runners/",
@@ -309,53 +363,35 @@
       "published": "2026-08-03T16:51:51+00:00"
     },
     {
-      "headline": "SearXNG Rewritten in Rust for Speed and Safety",
-      "summary": "An open‑source effort ports the meta‑search engine SearXNG to Rust, aiming to improve performance and memory safety. Early benchmarks suggest noticeable gains over the original Python version.",
+      "headline": "Acting AG Blanche Pulls Anti‑Weaponization Fund, Trump Halts Iran Strike",
+      "summary": "Acting Attorney General Todd Blanche withdrew the controversial anti‑weaponization fund just before his confirmation hearing, signaling a shift in the administration’s policy. Meanwhile, President Trump announced he will not proceed with planned military strikes against Iran, citing progress on a potential diplomatic deal.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
+      "source": "NPR News",
+      "published": "2026-08-03T07:57:06-04:00"
+    },
+    {
+      "headline": "Hoplite Unveils One‑Click Cloud Coding Agents",
+      "summary": "Startup Hoplite, founded by Bence and Ryan, introduced a platform that lets developers spin up cloud‑based coding agents with their local environment replicated instantly. The service promises streamlined QA workflows by handling sessions, memory, and project setup automatically.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://github.com/MikeLuu99/searxng-rust",
+      "url": "https://hoplite.sh",
       "source": "Hacker News",
-      "published": "2026-08-03T16:41:40+00:00"
+      "published": "2026-08-03T16:32:06+00:00"
     },
     {
-      "headline": "FDA Panel Clears Popular Peptides, Spotlighting Regulatory Gaps",
-      "summary": "A recent advisory vote approved several peptide products, igniting market interest while exposing concerns about unchecked supply chains. Critics warn that broader approval could outpace safety oversight.",
+      "headline": "Rare Suu Kyi Photos Spark Hope for Her Family",
+      "summary": "Kim Aris, the son of Myanmar’s ousted leader Aung San Suu Kyi, said newly released images of his mother meeting a foreign official lifted his spirits after years of uncertainty. The photos, taken after the 2021 coup, suggest she may still be engaged in diplomatic activity.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5913381/health-fda-peptides-product-regulation",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
       "source": "NPR News",
-      "published": "2026-08-03T07:00:00-04:00"
+      "published": "2026-08-03T05:42:04-04:00"
     },
     {
-      "headline": "Armature Launches SDK for Full‑Session Analytics on MCP Calls",
-      "summary": "The startup offers a three‑line integration that records every user request and agent response for MCP tools, with libraries for TypeScript, Python and Go. The data enables deeper product insights and evaluation of AI agents.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://armature.tech/",
-      "source": "Hacker News",
-      "published": "2026-08-03T16:17:59+00:00"
-    },
-    {
-      "headline": "U.S. and Japan Signal Joint Currency Intervention to Support Yen",
-      "summary": "Both governments announced they stand ready to coordinate future market actions to stabilize the Japanese yen. The rare bilateral stance underscores growing worries about currency volatility.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T02:02:34.517Z"
-    },
-    {
-      "headline": "DOJ Uses Conspiracy Charges to Target ICE Protesters, Critics Warn of Overreach",
-      "summary": "Federal prosecutors are applying broad conspiracy statutes to sweep up activists who demonstrated against ICE raids. Legal experts argue the tactic threatens free speech and political dissent.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5886263/ice-dhs-immigration-enforcement-conspiracy-arrests",
-      "source": "NPR News",
-      "published": "2026-08-03T05:00:00-04:00"
-    },
-    {
-      "headline": "Why Developer Tools Should Be Open Source, Says New Blog Post",
-      "summary": "The author makes the case that open‑source devtools improve security, transparency, and community innovation. Keeping the tooling ecosystem open is presented as essential for a healthy software industry.",
+      "headline": "Open‑Source Mandate for Development Tools Gains Momentum",
+      "summary": "A recent essay argues that all developer tooling should be released under open‑source licenses to ensure transparency and community trust. The piece has sparked vigorous discussion among engineers about the feasibility and benefits of such a shift.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
@@ -363,35 +399,35 @@
       "published": "2026-08-02"
     },
     {
-      "headline": "Andy Pavlo Joins ClickHouse to Launch ClickHouse Labs",
-      "summary": "Database researcher Andy Pavlo has been hired by ClickHouse to spearhead a new research division called ClickHouse Labs. The move aims to accelerate innovation and open‑source contributions around the ClickHouse analytics engine.",
+      "headline": "Deep Dive into SPF Record Syntax: Mechanisms, Qualifiers, and More",
+      "summary": "An extensive tutorial breaks down the components of SPF DNS records, explaining how mechanisms, qualifiers, modifiers, and macros work together to prevent email spoofing. Readers are provided with practical examples to craft effective SPF policies.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "url": "https://dmarcguard.io/blog/spf-record-syntax/",
       "source": "Hacker News",
-      "published": "2026-08-03T13:33:44.646Z"
+      "published": "2026-08-03T00:00:00.000Z"
     },
     {
-      "headline": "India’s Medical Exam Leak Claims Young Lives, Families Speak Out",
-      "summary": "A leaked medical entrance exam in India led to a tragic chain of events that resulted in the deaths of several young aspirants. Two affected families share the personal anguish and broader implications of the scandal.",
+      "headline": "Germany’s Power Mix Turns Green: Renewables Beat Fossil Fuels",
+      "summary": "For the first time, wind and solar generation supplied more electricity than coal and gas in Germany, marking a historic shift toward clean energy. Analysts attribute the milestone to expanding capacity and supportive policy frameworks.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-02T23:35:54.845Z"
-    },
-    {
-      "headline": "Avoid Cognitive Debt: Manually Re‑type LLM‑Generated Code",
-      "summary": "The author argues that copying code straight from large language models can create hidden mental load, recommending developers retype the output to ensure understanding. This practice reinforces comprehension and reduces future debugging headaches.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
       "source": "Hacker News",
-      "published": "2026-08-02T14:53:36.721516+05:30"
+      "published": "2026-08-01T13:49:17+00:00"
     },
     {
-      "headline": "Challies ‘A La Carte’ August 3: Essays on Japan, AI, Marriage, and More",
-      "summary": "The latest ‘A La Carte’ issue explores topics ranging from Japan’s cultural allure to the ethics of using old books as AI training data. It also delves into marital intimacy, justice, and curated Kindle deals.",
+      "headline": "Faith Practices Beyond the Sanctuary",
+      "summary": "A personal essay explores unconventional ways believers express Christianity outside traditional church settings, such as daily private communion. The author reflects on how these practices reshape communal and individual spirituality.",
+      "category": "Faith",
+      "relevance": 5,
+      "url": "https://www.challies.com/articles/churchy-things-we-do-outside-of-church/",
+      "source": "Challies",
+      "published": "2026-08-03T04:02:00+00:00"
+    },
+    {
+      "headline": "A La Carte Newsletter: Culture, Tech, and Thought – August 3",
+      "summary": "The latest edition curates diverse topics ranging from Japanese culture and AI‑trained literature to marital intimacy and curated Kindle deals. Readers are invited to explore short essays and links that span art, ethics, and entertainment.",
       "category": "Faith",
       "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-3-2026/",
@@ -399,58 +435,22 @@
       "published": "2026-08-03T04:01:00+00:00"
     },
     {
-      "headline": "Pitchfork Review: ‘Podium’ Elevates L.A. Nerd‑Rock with Hooks and Satire",
-      "summary": "The sixth album from the Los Angeles nerd‑rock outfit builds on their viral breakout with sharper hooks and biting sociopolitical humor. The record balances meme‑laden wit with polished musicianship.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/cheekface-podium/",
-      "source": "Pitchfork",
-      "published": "2026-08-03T04:02:00+00:00"
-    },
-    {
-      "headline": "Pitchfork Review: ‘Stereoscope’ Shows Connecticut Rapper’s Varied Poetic Range",
-      "summary": "‘Stereoscope’ is the debut of a Connecticut rapper who swings between tongue‑in‑cheek bravado and earnest slam‑poetry verses. While some tracks stumble, the album lands solid punchlines and catchy pop‑infused hooks.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/sophie-hunter-stereoscope/",
-      "source": "Pitchfork",
-      "published": "2026-08-03T04:01:00+00:00"
-    },
-    {
-      "headline": "Cloudflare Introduces Billable Usage API for Real‑Time Cost Insight",
-      "summary": "Cloudflare’s new Billable Usage API lets customers programmatically retrieve detailed billing data across services. The tool is designed to improve budgeting transparency for enterprises using the platform.",
+      "headline": "condense-json 1.0 Launches with Polished Features",
+      "summary": "Developer Simon Willison announced the 1.0 release of condense-json, a lightweight library that compresses JSON structures while preserving readability. After a year‑and‑half of iteration, the update adds non‑breaking improvements and a clear usage example.",
       "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://blog.cloudflare.com/billable-usage-api/",
-      "source": "Hacker News",
-      "published": "2026-08-03T13:00:00.000Z"
+      "url": "https://simonwillison.net/2026/Aug/2/condense-json/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-02T22:19:59+00:00"
     },
     {
-      "headline": "Pitchfork Review: ‘Digital’ Delivers Lucid, Soulful Vibes from South London Rap‑Producer",
-      "summary": "The debut album on Surf Gang showcases a South London rapper‑producer’s knack for smooth, soulful production and thoughtful lyricism. ‘Digital’ feels meticulously curated, offering a cohesive listening experience.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/omari-lyseight-digital/",
-      "source": "Pitchfork",
-      "published": "2026-08-03T04:00:00+00:00"
-    },
-    {
-      "headline": "NPR Report: Bedbugs, Bad Wi‑Fi, and Chaos in Federal Summer Relocations",
-      "summary": "Federal agencies are scrambling to move hundreds of employees into new office spaces, but the transitions are plagued by pest infestations and unreliable internet. Workers report severe disruptions to daily operations and morale.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5896088/forced-federal-relocations-haphazard",
-      "source": "NPR News",
-      "published": "2026-08-03T05:00:00-04:00"
-    },
-    {
-      "headline": "Ulysses S. Grant’s 1875 Warning: Citizens Must Be Informed to Govern",
-      "summary": "In an 1875 address, Grant emphasized that a sovereign people need intelligence to keep officials in check. He argued that education, particularly free schooling, is essential for a functional democracy.",
+      "headline": "Study Challenges the Existence of the Dunning‑Kruger Effect",
+      "summary": "A new article questions the validity of the widely cited Dunning‑Kruger cognitive bias, suggesting prior research may be flawed. The piece has ignited debate among psychologists and educators about how we assess self‑awareness of competence.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.snopes.com/fact-check/grant-next-civil-war/",
-      "source": "Daring Fireball",
-      "published": "2021-01-18 05:42:03"
+      "relevance": 4,
+      "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+      "source": "Hacker News",
+      "published": "2026-08-03T19:39:34+00:00"
     }
   ]
 }
