@@ -1,28 +1,37 @@
 {
-  "generated_at": "2026-08-04T03:32:31.264812+00:00",
+  "generated_at": "2026-08-04T06:15:02.915756+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Human Creativity in the Age of AI",
-      "summary": "As machines become capable of producing beautiful art in seconds, the question arises about the role of human creativity in this new landscape. Brett McCracken joins Christopher Watkin to explore the intersection of AI, art, and human ingenuity.",
+      "headline": "Sleep as an Act of Worship",
+      "summary": "Rest, whether waking or sleeping, is a fundamental aspect of human life that can be seen as an act of worship, reminding us of our limitations and need for grace. By embracing sleep as a form of worship, we can cultivate a deeper sense of humility and dependence on a higher power.",
       "category": "Faith",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-art-creativity/",
+      "url": "https://www.thegospelcoalition.org/reviews/wisdom-sleep-rest/",
       "source": "The Gospel Coalition",
-      "published": "2026-08-03T04:04:00+00:00"
+      "published": "2026-08-04T04:02:00+00:00"
     },
     {
-      "headline": "US Men's Soccer Coach Extends Contract",
-      "summary": "Mauricio Pochettino will remain at the helm of the US men's national soccer team through the 2030 World Cup, following a successful stint that included a record three wins in this year's tournament. Pochettino's leadership has helped reignite enthusiasm among fans despite a round of 16 exit.",
-      "category": "Sports",
+      "headline": "The Case for Open-Source Devtools",
+      "summary": "The push for open-source devtools stems from the desire for transparency and control over the software we use, allowing users to examine and modify the code as needed. This freedom is essential for ensuring that software serves the needs of its users, rather than the interests of its creators.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
-      "source": "NPR News",
-      "published": "2026-08-03T10:05:24-04:00"
+      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-03T15:30:38+00:00"
     },
     {
-      "headline": "Breakthrough in AI Model Efficiency",
-      "summary": "A new development allows for the operation of an 80B Qwen AI model in just 4.3 GB of RAM on a Mac, and a 35B model on an iPhone, significantly reducing the computational resources required. This achievement has the potential to make AI more accessible and widely deployable.",
+      "headline": "LLMs Reward Expertise in Various Fields",
+      "summary": "Large language models (LLMs) have been found to reward expertise in various domains, demonstrating an ability to recognize and build upon specialized knowledge. This capability has significant implications for the development of AI systems that can learn from and interact with human experts.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "source": "Hacker News",
+      "published": "2026-08-03T21:13:53+00:00"
+    },
+    {
+      "headline": "Running Qwen on Low-RAM Devices",
+      "summary": "A new project has achieved the feat of running an 80B Qwen model on a Mac with just 4.3 GB of RAM, and a 35B model on an iPhone, demonstrating the potential for efficient AI deployment on low-power devices. This breakthrough could enable the widespread adoption of AI technologies in resource-constrained environments.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://github.com/leonickson1/Swiftlet",
@@ -30,17 +39,17 @@
       "published": "2026-08-03T16:54:15+00:00"
     },
     {
-      "headline": "Teaching AI to Watch and Learn from Video",
-      "summary": "Researchers are exploring how to enable large language models (LLMs) to effectively watch and understand video content, a complex task that requires careful frame selection and processing. This capability could significantly expand the range of applications for LLMs in areas like video analysis and generation.",
-      "category": "Tech/AI",
+      "headline": "Pristine Ocean Ecosystems Under Threat",
+      "summary": "The US Pacific Ocean is home to some of the world's most pristine and biodiverse ecosystems, but these areas are now facing the threat of commercial fishing and other human activities. The removal of conservation protections could have devastating consequences for these unique environments and the species that inhabit them.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://leoaido.com/how-llms-watch-video/",
-      "source": "Hacker News",
-      "published": "2026-08-03T13:28:10+00:00"
+      "url": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
+      "source": "NPR News",
+      "published": "2026-08-03T22:53:15+00:00"
     },
     {
-      "headline": "AI Inference Breakthrough with Limited GPU Power",
-      "summary": "A new achievement demonstrates the ability to perform inference with a 70B AI model using a single 4GB GPU, a significant reduction in the typically required computational power. This breakthrough could make AI inference more efficient and cost-effective for a wide range of applications.",
+      "headline": "AirLLM Achieves Efficient Inference with Limited GPU Resources",
+      "summary": "The AirLLM project has demonstrated the ability to perform 70B inference using a single 4GB GPU, showcasing the potential for efficient AI deployment in resource-constrained environments. This achievement could enable the widespread adoption of AI technologies in applications where computational resources are limited.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://github.com/lyogavin/airllm",
@@ -48,125 +57,44 @@
       "published": "2026-08-03T11:15:48+00:00"
     },
     {
-      "headline": "Ukrainian Drone Attack Kills Seven in Russia",
-      "summary": "A Ukrainian drone has struck a busy beach in Russia, resulting in the deaths of seven people, including three children, and injuring 40 others. The incident marks a significant escalation in the conflict between Ukraine and Russia.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T18:04:30.810Z"
-    },
-    {
-      "headline": "Oil Tankers Face Increased Threats in Middle East",
-      "summary": "Analysts warn that the threat to oil tankers in the Middle East has reached its highest level since the start of the Iran war, due to fresh attacks on alternative shipping routes. This complex situation poses significant challenges for the safe transportation of oil in the region.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T15:42:18.714Z"
-    },
-    {
-      "headline": "Advances in Mathematics and Theoretical Computer Science",
-      "summary": "A recent overview highlights ten significant advances in mathematics and theoretical computer science, showcasing the rapid progress being made in these fields. These developments have the potential to drive innovation and solve complex problems across a wide range of disciplines.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "source": "Hacker News",
-      "published": "2026-08-03T16:27:12+00:00"
-    },
-    {
-      "headline": "Lessons from the Spurgeon Family Scandal",
-      "summary": "The Spurgeon family scandal serves as a reminder that even the most impressive ministries can have flawed and messy roots. This incident offers valuable lessons about failure, humility, and the importance of acknowledging the complexities of human nature.",
+      "headline": "The Odyssey: A Timeless Tale of Human Struggle",
+      "summary": "Homer's ancient epic, The Odyssey, remains a powerful exploration of the human condition, revealing the complexities and flaws of its characters as they strive for greatness. The story's themes of glory, misery, and the search for meaning continue to resonate with audiences today, offering insights into the human experience.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/spurgeon-scandal-failure/",
+      "url": "https://www.thegospelcoalition.org/article/odyssey-story-glory-misery/",
       "source": "The Gospel Coalition",
-      "published": "2026-08-03T04:00:00+00:00"
+      "published": "2026-08-04T04:00:00+00:00"
     },
     {
-      "headline": "New Album from Virtuoso Jazz-Fusion Duo",
-      "summary": "The latest album from a virtuoso jazz-fusion duo is a dynamic and frenzied blend of drums, keyboards, and chamber orchestra, combining easy-listening harmonies with an antic spirit. This dizzying whirl of sound promises to be an exciting and unpredictable listening experience.",
-      "category": "Music",
+      "headline": "US Men's National Team Coach Extends Contract",
+      "summary": "Mauricio Pochettino, the coach of the US men's national soccer team, has agreed to extend his contract through the 2030 World Cup, providing stability and continuity for the team as it looks to build on recent successes. Pochettino's leadership has been credited with reigniting enthusiasm for the team and achieving notable victories on the international stage.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/domi-and-jd-beck-who-asked/",
-      "source": "Pitchfork",
-      "published": "2026-08-03T04:03:00+00:00"
-    },
-    {
-      "headline": "South London Rapper‑Producer Delivers Lucid, Soulful Debut on Surf Gang",
-      "summary": "The artist's inaugural album on the Surf Gang label blends smooth lyricism with polished production, showcasing a cohesive, mood‑rich soundscape. Critics praise its thoughtful curation and emotional depth.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/omari-lyseight-digital/",
-      "source": "Pitchfork",
-      "published": "2026-08-03T04:00:00+00:00"
-    },
-    {
-      "headline": "Meta Misses Earnings Targets, AI Roadmap Raises Eyebrows",
-      "summary": "The latest quarter fell short of analysts' expectations, with revenue and user growth lagging. Meta's forward‑looking AI initiatives, while ambitious, left investors uneasy about execution and cost.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
-      "source": "Stratechery",
-      "published": "2026-08-03T10:00:00+00:00"
-    },
-    {
-      "headline": "Pacific Marine Sanctuaries Threatened as Trump Opens Waters to Commercial Fishing",
-      "summary": "The U.S.’s biggest ocean protection zones, home to fragile island biodiversity, are losing safeguards under new policy. Conservation groups warn that commercial fishing could irreversibly damage these pristine ecosystems.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/03/g-s1-136055/pacific-ocean-protections-removed",
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5917999/us-soccer-mauricio-pochettino-coach-2030",
       "source": "NPR News",
-      "published": "2026-08-03T22:53:15+00:00"
+      "published": "2026-08-03T10:05:24-04:00"
     },
     {
-      "headline": "Iran Claims No Direct Talks with U.S., Trump Slams Tehran",
-      "summary": "Tehran announced discussions only with Oman, denying any U.S. negotiations, prompting President Trump to denounce Iran’s leadership. The exchange heightens diplomatic tensions amid stalled nuclear talks.",
-      "category": "World",
+      "headline": "Venezuelan Artist Releases Experimental LP",
+      "summary": "A Venezuelan artist has released a new LP that marks a departure from their previous work, embracing a more experimental and uncompromising sound that blends electronic and avant-garde elements. The album is a bold statement of artistic intent, showcasing the artist's willingness to push boundaries and challenge listeners.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T00:11:18.351Z"
+      "url": "https://pitchfork.com/reviews/albums/arca-xxxxx/",
+      "source": "Pitchfork",
+      "published": "2026-08-04T04:03:00+00:00"
     },
     {
-      "headline": "Apple Gives New Hires Expansive iCloud Accounts for Sensitive Projects",
-      "summary": "New staff at Apple receive devices plus generous iCloud storage, enabling secure handling of confidential work. The practice highlights the company's reliance on its own cloud services for internal data protection.",
-      "category": "Tech/AI",
+      "headline": "Q: From Where Do Our Primal Instincts Originate? A: MTV! EP",
+      "summary": "A Los Angeles-based musician has released a new EP that draws on a wide range of influences, from dream pop to alt rock and R&B, to create a unique and captivating sound. The EP is a showcase for the artist's versatility and creativity, as they explore themes of identity and primal instincts through music.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk",
-      "source": "Daring Fireball",
-      "published": "2026-08-03T21:45:40+00:00"
-    },
-    {
-      "headline": "Record Low Rhine Levels Disrupt Shipping and Power in Europe",
-      "summary": "Drought has driven the Rhine, Danube, and Po rivers to historic lows, curtailing cargo traffic and reducing hydroelectric output. The water shortage threatens supply chains and energy stability across the continent.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T14:38:48.728Z"
-    },
-    {
-      "headline": "First Fatalities Confirmed in U.S. ‘Explosive Diarrhea’ Outbreak",
-      "summary": "Health officials report two deaths tied to a parasitic gut infection that typically causes mild illness. The outbreak, linked to contaminated food or water, has prompted heightened public health alerts.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T20:05:46.112Z"
-    },
-    {
-      "headline": "Apple Ties iPhone Leasing to Postpaid Plans with Major Carriers",
-      "summary": "Apple’s financing programs, including the Upgrade and leasing options, mandate a postpaid contract with AT&T, Verizon, or T‑Mobile. The requirement stems from long‑standing co‑marketing deals that benefit both Apple and the carriers.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/followup_big_three_carrier_requirement",
-      "source": "Daring Fireball",
-      "published": "2026-08-03T17:19:34+00:00"
+      "url": "https://pitchfork.com/reviews/albums/portraits-of-tracy-q-from-where-do-our-primal-instincts-originate-a-mtv-ep/",
+      "source": "Pitchfork",
+      "published": "2026-08-04T04:01:00+00:00"
     },
     {
       "headline": "EU Pushes for Hardened Borders After Surge at Ceuta",
-      "summary": "Following a wave of migrants crossing from Ceuta into Spain, European Commission President von der Leyen called for immediate measures. An urgent meeting of interior ministers is set to coordinate tighter border controls.",
+      "summary": "Ursula von der Leyen urged immediate action ahead of an emergency meeting of interior ministers to address the recent wave of migrants crossing from Morocco into the Spanish enclave of Ceuta. The EU is seeking coordinated measures to tighten external frontiers and improve asylum processing.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
@@ -174,62 +102,89 @@
       "published": "2026-08-03T21:43:10.216Z"
     },
     {
-      "headline": "Spokane Wildfires Ravage Homes, Displace Thousands",
-      "summary": "Rapidly spreading fires have razed dozens of houses and forced mass evacuations across Spokane. Mayor Lisa Brown warns that nearly half the city’s neighborhoods remain threatened as crews battle the blaze.",
+      "headline": "Drone Strike on Black Sea Resort Kills Seven, Injures 40",
+      "summary": "Russian authorities reported that a Ukrainian-launched drone crashed onto a crowded beach, killing three children among the seven fatalities and wounding dozens more. The incident has heightened tensions and prompted calls for retaliation.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
-      "source": "NPR News",
-      "published": "2026-08-03T10:28:44-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T18:04:30.810Z"
     },
     {
-      "headline": "Trump Calls Off Iran Strikes, Anti-Weaponization Fund Rescinded",
-      "summary": "Acting Attorney General Todd Blanche has rescinded President Trump's anti-weaponization fund ahead of his confirmation hearing, a move that may impact the administration's foreign policy. Meanwhile, President Trump has called off strikes on Iran, potentially paving the way for a deal between the two nations.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "source": "NPR News",
-      "published": "2026-08-03T07:57:06-04:00"
-    },
-    {
-      "headline": "Hoplite Launches Cloud Coding Agents for Effortless Deployment",
-      "summary": "Hoplite, a new platform, allows users to deploy coding agents in the cloud with ease, providing a suite of tools for streamlined QA features. The platform's founders, Bence and Ryan, aim to simplify the deployment process by porting over local setups and getting projects ready for use.",
+      "headline": "Meta’s Earnings Miss Marks AI Hype, Raises Timing Concerns",
+      "summary": "Meta posted weaker-than-expected quarterly results, with revenue growth slowing despite heavy investment in AI-driven features. Analysts warned that the company’s rollout schedule may be out of sync with market expectations, threatening its financial momentum.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://hoplite.sh",
-      "source": "Hacker News",
-      "published": "2026-08-03T16:32:06+00:00"
+      "url": "https://stratechery.com/2026/meta-earnings-metas-timing-problems-the-financial-tail/",
+      "source": "Stratechery",
+      "published": "2026-08-03T10:00:00+00:00"
     },
     {
-      "headline": "US and Japan Intervene to Support Yen",
-      "summary": "In a rare joint move, the US and Japan have taken action to prop up the yen, indicating their willingness to conduct future interventions if necessary. This collaborative effort aims to stabilize the currency and potentially mitigate economic risks.",
+      "headline": "Iran Denies US Talks, Cites Oman Negotiations Amid Trump Outcry",
+      "summary": "Tehran announced ongoing diplomatic discussions with Oman but rejected claims that it was engaging the United States, prompting former President Trump to sharply criticize Iran’s leadership. The exchange underscores lingering mistrust over nuclear and regional issues.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-03T02:02:34.517Z"
+      "published": "2026-08-03T00:11:18.351Z"
     },
     {
-      "headline": "Sudan Army Drone Strike Kills 35, Sparks Human Rights Concerns",
-      "summary": "A drone strike by the Sudan army on a paramilitary-held village has resulted in the deaths of 35 people, according to a human rights group, raising concerns about civilian casualties. The army has not commented on the incident, which has sparked outrage and calls for accountability.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T10:29:24.760Z"
-    },
-    {
-      "headline": "The Case for Open-Source Devtools",
-      "summary": "A recent article argues that devtools must be open-source, emphasizing the importance of transparency and community involvement in the development process. By making devtools open-source, developers can ensure that these essential tools are accessible, customizable, and free from proprietary restrictions.",
+      "headline": "Apple Gives New Hires Expansive iCloud Storage for Sensitive Projects",
+      "summary": "Reporting reveals that Apple equips incoming employees with iPhones, Macs, and high-capacity iCloud accounts to handle confidential work securely. The practice highlights the tech giant’s reliance on its own cloud services for internal collaboration.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "source": "Hacker News",
-      "published": "2026-08-02"
+      "url": "https://www.theinformation.com/articles/apple-icloud-policy-fueled-employee-leaks-ahead-openai-suit?rc=jfy0lk",
+      "source": "Daring Fireball",
+      "published": "2026-08-03T21:45:40+00:00"
     },
     {
-      "headline": "Andy Pavlo Joins ClickHouse to Establish ClickHouse Labs",
-      "summary": "Andy Pavlo, a renowned expert in database systems, has joined ClickHouse to establish ClickHouse Labs, a new initiative focused on advancing database technology. This move is expected to drive innovation and growth in the field, with ClickHouse Labs poised to become a hub for cutting-edge research and development.",
+      "headline": "Brooklyn Noise-Rock Titans Return with Relentless First Album in 15 Years",
+      "summary": "After a decade-and-a-half hiatus, the band releases a ferocious double‑album that refuses to compromise on intensity. Critics praise its unyielding sound as a bold statement in today’s indie landscape.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/parts-and-labor-set-of-all-sets/",
+      "source": "Pitchfork",
+      "published": "2026-08-04T04:00:00+00:00"
+    },
+    {
+      "headline": "Om Malik’s Posthumous Farewell Essay Reflects on Legacy",
+      "summary": "The late journalist’s last piece, published the day of WWDC, serves as a personal reckoning and a final message to readers. Friends note its raw honesty, underscoring the impact of his career.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
+      "source": "Daring Fireball",
+      "published": "2026-06-07T17:30:59+00:00"
+    },
+    {
+      "headline": "Apple’s Lease Deals Tie Users to Major Carriers for Cellular Plans",
+      "summary": "Apple’s financing programs, including the Upgrade Program and new leasing options, mandate a postpaid contract with AT&T, Verizon, or T‑Mobile. The requirement stems from long‑standing co‑marketing agreements that benefit both Apple and the carriers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/followup_big_three_carrier_requirement",
+      "source": "Daring Fireball",
+      "published": "2026-08-03T17:19:34+00:00"
+    },
+    {
+      "headline": "Cloudflare Optimizes AI Models Kimi and GLM for Speed and Security",
+      "summary": "Cloudflare’s engineering team demonstrates how pruning and quantization cut model size while boosting inference speed and reducing attack surface. The approach enables large‑scale deployment of language models with lower latency and tighter safety controls.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "source": "Hacker News",
+      "published": "2026-08-03T13:00:00.000Z"
+    },
+    {
+      "headline": "OpenAI Highlights Ten Breakthroughs in Math and Theoretical CS",
+      "summary": "OpenAI’s latest blog spotlights recent progress ranging from new proof techniques to algorithmic innovations that push the boundaries of computation. The roundup underscores the growing synergy between AI research and foundational scientific discovery.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "source": "Hacker News",
+      "published": "2026-08-03T16:27:12+00:00"
+    },
+    {
+      "headline": "Andy Pavlo joins ClickHouse to launch ClickHouse Labs",
+      "summary": "Database veteran Andy Pavlo has moved to ClickHouse to head a new research arm called ClickHouse Labs, aiming to push the open‑source columnar store forward. The hire signals ClickHouse’s ambition to deepen its ecosystem and performance innovations.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
@@ -237,26 +192,44 @@
       "published": "2026-08-03T13:33:44.646Z"
     },
     {
-      "headline": "Rethinking Church Traditions and Personal Faith",
-      "summary": "A chance encounter with a woman who practices the Lord's Supper on her own has prompted a reevaluation of traditional church practices and the role of personal faith. This experience highlights the diversity of Christian perspectives and the importance of individual spiritual practices beyond formal church rituals.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.challies.com/articles/churchy-things-we-do-outside-of-church/",
-      "source": "Challies",
-      "published": "2026-08-03T04:02:00+00:00"
+      "headline": "Tokenomics: The challenge of pricing AI services",
+      "summary": "Companies buying AI tools struggle to predict costs, while providers find it hard to set fair rates. The article examines why aligning pricing with AI’s value remains a complex problem.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T23:21:10.031Z"
     },
     {
-      "headline": "Podium's Sixth Album Offers Hooks, Humor, and Sociopolitical Commentary",
-      "summary": "The L.A. nerd-rock band Podium has released its sixth album, which combines catchy hooks, sardonic humor, and sociopolitical commentary to create a unique sound. With this latest release, the band is building on its viral success and solidifying its position as a distinctive voice in the music scene.",
+      "headline": "Retype LLM code to avoid cognitive debt",
+      "summary": "Copy‑pasting AI‑generated code can embed hidden maintenance issues, the author warns. Manually retyping forces developers to understand the logic, reducing future technical debt.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "source": "Hacker News",
+      "published": "2026-08-02T14:53:36.721516+05:30"
+    },
+    {
+      "headline": "OpenAI says Apple’s AI strategy is off‑track",
+      "summary": "OpenAI’s blog criticizes Apple for missing key AI integration opportunities. It argues the company’s closed ecosystem stifles developer innovation.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://openai.com/index/apple-is-getting-this-wrong/",
+      "source": "Hacker News",
+      "published": "2026-08-04T05:32:13+00:00"
+    },
+    {
+      "headline": "Pitchfork reviews Entre Nous’s ambient dub‑techno glow",
+      "summary": "The New York producer’s new release bathes listeners in luminous, drifting soundscapes. Minimalist beats combine with a warm glow that rewards repeated listening.",
       "category": "Music",
       "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/cheekface-podium/",
+      "url": "https://pitchfork.com/reviews/albums/eden-aurelius-entre-nous/",
       "source": "Pitchfork",
-      "published": "2026-08-03T04:02:00+00:00"
+      "published": "2026-08-04T04:02:00+00:00"
     },
     {
-      "headline": "House Ethics Panel Recommends Censure for Chuck Edwards",
-      "summary": "The House Ethics panel has recommended censure for Chuck Edwards due to allegations of harassment and unprofessional conduct towards two young female staffers. This decision follows a months-long investigation and reflects the committee's commitment to addressing misconduct and promoting a safe and respectful work environment.",
+      "headline": "House ethics panel urges censure of Rep. Chuck Edwards",
+      "summary": "After a months‑long investigation, the committee recommended censure for Edwards over repeated unprofessional conduct toward two young female staffers. The move reflects heightened scrutiny of misconduct in Congress.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/03/nx-s1-5918341/chuck-edwards-ethics-report",
@@ -264,26 +237,8 @@
       "published": "2026-08-03T17:17:49-04:00"
     },
     {
-      "headline": "Stereoscope's Debut Album Offers Tongue-in-Cheek Provocations and Pop Hooks",
-      "summary": "The Connecticut rapper Stereoscope has released a debut album that swings between provocative humor and slam-poetry style, landing some solid punchlines and pop hooks along the way. With this eclectic mix of styles, Stereoscope is making a bold entrance into the music scene, showcasing a unique blend of wit, creativity, and musical talent.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/sophie-hunter-stereoscope/",
-      "source": "Pitchfork",
-      "published": "2026-08-03T04:01:00+00:00"
-    },
-    {
-      "headline": "Devtools Should Be Open Source, Argues Simon Willison",
-      "summary": "Willison argues that open‑source devtools give users the ability to inspect and modify the tools they rely on, a freedom often missing in practice. He notes that even experienced programmers rarely get true transparency with proprietary debugging utilities.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/3/devtools-must-be-open-source-exedev/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-03T15:30:38+00:00"
-    },
-    {
-      "headline": "Cuban Asylum Seekers Shift to Brazil as US Doors Close",
-      "summary": "With U.S. immigration routes largely shut, increasing numbers of Cubans are traveling to Brazil to request asylum. The change reflects growing frustration over limited legal pathways to the United States.",
+      "headline": "Cubans turn to Brazil for asylum as U.S. doors close",
+      "summary": "With U.S. immigration pathways narrowing, more Cubans are seeking refuge in Brazil. The shift marks a new migration pattern driven by tighter American policies.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/03/nx-s1-5910714/brazil-cuba-migration",
@@ -291,8 +246,17 @@
       "published": "2026-08-03T15:05:41-04:00"
     },
     {
-      "headline": "Spokane Wildfires Force Evacuations of 60,000, Destroy Hundreds of Homes",
-      "summary": "Rapidly spreading fires in eastern Washington have razed dozens of houses and prompted mandatory evacuations for tens of thousands. Authorities are battling the blaze amid concerns about air quality and shelter needs.",
+      "headline": "France wildfires expose hidden WWII shells in Le Porge",
+      "summary": "During the Le Porge blaze, residents heard explosions later identified as detonating buried World War II munitions. The incident underscores the hidden hazards of unexploded ordnance in fire‑hit zones.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T04:22:12.254Z"
+    },
+    {
+      "headline": "Spokane wildfires force evacuations of 60,000 residents",
+      "summary": "Massive fires have razed hundreds of homes around Spokane, prompting a large‑scale evacuation. Photographs capture the devastation and the frantic displacement of thousands.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/sections/the-picture-show/2026/08/03/g-s1-137003/photos-wildfires-in-spokane-lead-to-thousands-of-evacuations",
@@ -300,71 +264,71 @@
       "published": "2026-08-03T14:45:00-04:00"
     },
     {
-      "headline": "Two Michigan Residents Die in First Recorded Cyclosporiasis Fatalities",
-      "summary": "An outbreak of the intestinal parasite cyclosporiasis that began in May has now claimed its first two lives in Michigan. Health officials warn that the disease, usually mild, can be deadly for vulnerable patients.",
+      "headline": "Nigerian man abandons family to flee South Africa",
+      "summary": "Richard Itoro joined a wave of migrants leaving South Africa to escape economic hardship and insecurity. His story highlights the broader exodus of tens of thousands seeking better prospects abroad.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T23:14:12.372Z"
+    },
+    {
+      "headline": "Spokane Blaze Rips Through Half the City, Thousands Flee",
+      "summary": "A fast‑moving wildfire in Washington has razed homes and forced the evacuation of thousands, with about 50% of Spokane’s neighborhoods either emptied or under imminent threat. Mayor Lisa Brown warned the flames remain uncontained, leaving residents on edge.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/03/nx-s1-5918018/washington-spokane-wildfires-evacuations",
       "source": "NPR News",
-      "published": "2026-08-03T13:46:16-04:00"
+      "published": "2026-08-03T10:28:44-04:00"
     },
     {
-      "headline": "Cloudflare Shows How Smaller AI Models Can Be Faster, Safer at Scale",
-      "summary": "The blog post details Cloudflare’s deployment of compact language models like Kimi and GLM, highlighting performance gains and reduced security risks. Engineers argue that trimming model size can cut costs while maintaining utility for edge applications.",
+      "headline": "Drought Squeezes Europe's Arteries: Rhine Hits Historic Low",
+      "summary": "Severe drought has driven the Rhine, Danube and Po rivers to unprecedented lows, choking inland shipping routes and slashing hydroelectric generation. The water shortage threatens supply chains and energy grids across the continent.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T14:38:48.728Z"
+    },
+    {
+      "headline": "Middle East Oil Tankers Face Highest Threat Since Iran Conflict",
+      "summary": "Analysts say recent assaults on new maritime corridors have made oil tanker voyages in the region more perilous than at any time since the Iran‑Iraq war. Shipping firms are scrambling to reroute vessels amid escalating security risks.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T15:42:18.714Z"
+    },
+    {
+      "headline": "Open‑Source Call: DevTools Should Be Free for All",
+      "summary": "A recent blog post argues that developer tools ought to be released under open‑source licenses to foster transparency and community improvement. The piece has sparked vigorous discussion among programmers on Hacker News.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
       "source": "Hacker News",
-      "published": "2026-08-03T13:00:00.000Z"
+      "published": "2026-08-02"
     },
     {
-      "headline": "Two Women Killed in Japan Mall Blast After Boss Orders Re‑entry",
-      "summary": "After a quake damaged Aeon Mall, two employees were sent back inside to retrieve cash and were killed when an explosion occurred. The employer issued an apology, sparking criticism over unsafe post‑disaster directives.",
+      "headline": "Cyber Experts Point to Iran in U.S. Water System Breach",
+      "summary": "Despite President Trump's dismissal, cybersecurity analysts believe Iran was behind attacks that disrupted water infrastructure in seven American states. The alleged intrusion raises concerns about foreign meddling in critical utilities.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-03T08:40:22.997Z"
+      "published": "2026-08-04T02:29:03.683Z"
     },
     {
-      "headline": "Russian Anti‑War Lawmaker Boris Nadezhdin Claims He Fled to France",
-      "summary": "Designated a foreign agent, Nadezhdin posted a video from beneath the Eiffel Tower announcing his escape from Russia. His departure underscores mounting pressure on opposition figures amid the war.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T15:41:08.051Z"
-    },
-    {
-      "headline": "BBC Reports Brutal Crackdown in Pakistan‑Administered Kashmir After Son’s Death",
-      "summary": "In Rawalakot, protests over a teenager’s killing have erupted into violent clashes between security forces and demonstrators. The BBC’s exclusive footage shows a city gripped by curfews and heavy‑handed policing.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-03T03:32:21.696Z"
-    },
-    {
-      "headline": "ComfyUI Adds Day‑0 Support for MiniMax H3, Enabling Open Weights and 2K Video",
-      "summary": "The latest ComfyUI update introduces native audio, high‑resolution video, and open‑weight models for MiniMax H3, expanding creative workflows. Community response is strong, with dozens of comments praising the new capabilities.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "source": "Hacker News",
-      "published": "2026-08-03T02:55:11+00:00"
-    },
-    {
-      "headline": "Challies’ ‘A La Carte’ August 3 Issue Covers AI, Culture, and Book Deals",
-      "summary": "The newsletter blends essays on Japan’s joy, AI‑driven book recycling, justice reforms, and shifting marital intimacy, plus a roundup of Kindle promotions. It continues its eclectic mix of cultural commentary and consumer tips.",
+      "headline": "Challies' 'A La Carte' Issue Serves Up Diverse Cultural Commentary",
+      "summary": "The August 4 edition of Challies' newsletter covers a range of subjects, from the Spurgeon family scandal to animal welfare and historical figures like Mary Todd Lincoln. Readers get a mix of investigative pieces, opinion columns, and lifestyle features.",
       "category": "Faith",
       "relevance": 6,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-august-3-2026/",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-august-4-2026/",
       "source": "Challies",
-      "published": "2026-08-03T04:01:00+00:00"
+      "published": "2026-08-04T04:01:00+00:00"
     },
     {
-      "headline": "Infantino Faces Threat of FIFA Boycott Over Leadership Calls",
-      "summary": "Senior UEFA sources say critics will refuse to work with FIFA unless Gianni Infantino resigns. The move reflects growing unrest within European football circles.",
+      "headline": "FIFA Faces Internal Revolt: Critics Demand Infantino's Exit",
+      "summary": "Senior UEFA sources reveal that factions opposing Gianni Infantino are threatening to withhold cooperation from FIFA unless he steps down. The standoff signals growing dissent within soccer's governing bodies.",
       "category": "Sports",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&at_campaign=rss",
@@ -372,8 +336,8 @@
       "published": "2026-08-03T07:49:33.742Z"
     },
     {
-      "headline": "TerminalWidget 1.0 Brings Command Output to macOS Widgets",
-      "summary": "Brett Terpstra’s new universal app lets users pipe script results, APIs, and shortcuts into widgets on Mac, iPhone, and iPad, supporting rich formatting and graphics. It’s priced at $19.99 on the App Store.",
+      "headline": "TerminalWidget 1.0 Launches: Rich Command Output Across Apple Devices",
+      "summary": "Brett Terpstra’s new TerminalWidget app lets users pipe command results, scripts, and API data into customizable widgets on macOS, iPhone, and iPad, featuring formatted text, progress bars, and images. The universal app is priced at $19.99 on the App Store.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://terminalwidget.app/",
@@ -381,8 +345,17 @@
       "published": "2026-08-04T02:32:33+00:00"
     },
     {
-      "headline": "Prosecutors Drop Reflecting Pool Charges After Hearn’s Appeal",
-      "summary": "Federal prosecutors dismissed the case against David Hearn, attributing the pool damage to a faulty installation rather than vandalism. The decision could affect other defendants linked to the incident.",
+      "headline": "Apple CEO John Ternus Brings Back Veteran Engineer Laura Legros",
+      "summary": "Incoming Apple chief John Ternus has reappointed former hardware VP Laura Legros, who retired in 2022, according to Bloomberg. Legros previously oversaw product delivery and engineering coordination, signaling a strategic move to strengthen hardware leadership.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
+      "source": "Daring Fireball",
+      "published": "2026-08-03T13:49:08-07:00"
+    },
+    {
+      "headline": "Charges Dismissed in Reflecting Pool Case After Prosecutors Cite Installation Error",
+      "summary": "Federal prosecutors have withdrawn charges against David Hearn, attributing damage to a faulty installation rather than vandalism, which also led to the dismissal of charges against two others. The decision could set a precedent for similar cases involving alleged property damage.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/03/nx-s1-5918001/reflecting-pool-vandalism-charges-dropped",
@@ -390,17 +363,53 @@
       "published": "2026-08-03T15:33:05-04:00"
     },
     {
-      "headline": "Study Finds Large Language Models Favor Expert Input",
-      "summary": "Recent analysis argues that LLMs tend to assign higher value to content produced by recognized specialists, encouraging expertise-driven outputs. The findings sparked extensive discussion on Hacker News.",
+      "headline": "Windows XP 2002 for Itanium revives a long‑forgotten OS experiment",
+      "summary": "A retro‑computing enthusiast resurrects the 2002 Itanium build of Windows XP, highlighting the challenges of running the OS on the discontinued architecture. The post mixes technical deep‑dives with nostalgic frustration over the platform’s limitations.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
       "source": "Hacker News",
-      "published": "2026-08-03T21:13:53+00:00"
+      "published": "2026-08-03T22:04:49+00:00"
     },
     {
-      "headline": "Aung San Suu Kyi Seen Healthy in First Confirmed Meeting in 2½ Years",
-      "summary": "Newly released photos show Myanmar’s former leader meeting an ICRC official, suggesting she is in good health. The images are the first verified public appearance since her house arrest began.",
+      "headline": "Exploring the ZX Spectrum’s Text Mode in a System Tour",
+      "summary": "The blog walks readers through the ZX Spectrum’s text‑mode capabilities, showcasing how developers could create games and utilities without graphics. It includes code snippets and screenshots that illustrate the era’s low‑level programming tricks.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/",
+      "source": "Hacker News",
+      "published": "2026-05-30T19:30:00+00:00"
+    },
+    {
+      "headline": "Two Michigan residents die from cyclosporiasis, first fatalities in U.S. outbreak",
+      "summary": "Health officials confirm that two people in Michigan have succumbed to cyclosporiasis, marking the first deaths linked to the nationwide intestinal illness that began in May. The outbreak, traced to contaminated produce, has prompted heightened warnings and recalls.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/03/g-s1-137048/michigan-cyclosporiasis-deaths-cyclospora-outbreak",
+      "source": "NPR News",
+      "published": "2026-08-03T13:46:16-04:00"
+    },
+    {
+      "headline": "States sue to halt Trump‑era tariffs aimed at forced‑labour countries",
+      "summary": "A coalition of U.S. states filed a lawsuit seeking to block tariffs imposed on more than 60 trading partners over alleged forced‑labour practices. The legal challenge argues the duties exceed executive authority and harm domestic manufacturers.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T02:00:00.318Z"
+    },
+    {
+      "headline": "Hoplite launches cloud‑based coding agents for seamless QA",
+      "summary": "YC‑backed startup Hoplite introduces a platform that spins up cloud coding agents mirroring a developer’s local environment, complete with sessions, memories, and server configs. The service promises to accelerate feature testing by eliminating manual setup steps.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://hoplite.sh",
+      "source": "Hacker News",
+      "published": "2026-08-03T16:32:06+00:00"
+    },
+    {
+      "headline": "Aung San Suu Kyi seen healthy in first verified meeting in 2½ years",
+      "summary": "Myanmar’s military government released photos showing the former leader meeting an ICRC official, confirming she appears in good health. The images provide the first reliable glimpse of Suu Kyi’s condition since her house arrest began.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
@@ -408,49 +417,40 @@
       "published": "2026-08-03T06:53:09.202Z"
     },
     {
-      "headline": "Pandoc Celebrates Two Decades of Document Conversion",
-      "summary": "The open‑source tool marks 20 years of turning markdown, LaTeX, and other formats into PDFs, HTML, and more. A retrospective article on the project’s evolution garnered discussion on Hacker News.",
+      "headline": "U.S. records first two deaths from ‘explosive diarrhoea’ outbreak",
+      "summary": "The Centers for Disease Control reports two fatalities linked to a parasitic infection that causes severe diarrhoea, a condition usually not life‑threatening. Officials stress that contaminated food or water sources are the likely vectors and urge public vigilance.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c2k7px317eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-03T20:05:46.112Z"
+    },
+    {
+      "headline": "Gaza’s young tech workers view digital jobs as a lifeline amid stagnation",
+      "summary": "Thousands of youths in Gaza are turning to remote digital work, hoping to sustain livelihoods while the broader reconstruction stalls. Their stories illustrate how internet‑based opportunities are reshaping the enclave’s economic outlook.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "source": "Hacker News",
-      "published": "2026-08-03T15:04:53+00:00"
-    },
-    {
-      "headline": "Avoid Becoming a ‘Meat Proxy’: Verify AI Output Before Sharing",
-      "summary": "Niklas Gruhn warns against blindly forwarding AI‑generated text, urging users to read, understand, and rewrite responses in their own words. The advice stresses responsible AI communication.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-03T23:45:04+00:00"
-    },
-    {
-      "headline": "Apple’s Incoming CEO John Ternus Brings Back Veteran Engineer Laura Legros",
-      "summary": "Bloomberg reports that Ternus will rehire former hardware VP Laura Legros, who left Apple in 2022. Legros previously oversaw product delivery and cross‑team engineering coordination.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.macrumors.com/2026/08/03/apple-john-ternus-hiring-retired-vp/",
-      "source": "Daring Fireball",
-      "published": "2026-08-03T13:49:08-07:00"
-    },
-    {
-      "headline": "Om Malik’s Posthumous Final Essay Reflects on Myth and Legacy",
-      "summary": "Published on the day of WWDC, Malik’s last piece, titled “The Myth, the Mythos and the Man,” was intended as a final statement before his death. The essay gained attention after his passing.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://om.co/2026/06/07/the-myth-the-mythos-and-the-man/",
-      "source": "Daring Fireball",
-      "published": "2026-06-07T17:30:59+00:00"
-    },
-    {
-      "headline": "Nepal Honors Fallen Mountaineer Nirmal Purja After Fatal Avalanche",
-      "summary": "The climbing community in Nepal is mourning the loss of Nirmal Purja, who died in an avalanche that also claimed other top climbers. Tributes emphasize his enduring legacy in high‑altitude mountaineering.",
-      "category": "Other",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-03T05:31:55.391Z"
+      "published": "2026-08-03T23:13:03.911Z"
+    },
+    {
+      "headline": "ComfyUI adds MiniMax H3 support with open weights, native audio, and 2K video",
+      "summary": "The latest ComfyUI update introduces Day‑0 support for MiniMax H3 models, offering open‑weight files and built‑in audio handling. Users can now generate 2K video outputs directly within the UI, expanding creative possibilities.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "source": "Hacker News",
+      "published": "2026-08-03T02:55:11+00:00"
+    },
+    {
+      "headline": "The bicycle’s late arrival: why it took centuries to become mainstream",
+      "summary": "A historical analysis explores the social, economic, and technological barriers that delayed widespread bicycle adoption despite early inventions. The piece argues that infrastructure, gender norms, and manufacturing advances finally aligned in the late 19th century.",
+      "category": "Other",
+      "relevance": 3,
+      "url": "https://blog.rootsofprogress.org/why-did-we-wait-so-long-for-the-bicycle",
+      "source": "Hacker News",
+      "published": "2019-07-13T19:19:18-07:00"
     }
   ]
 }
