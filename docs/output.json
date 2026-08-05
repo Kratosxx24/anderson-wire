@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-05T16:50:26.897882+00:00",
+  "generated_at": "2026-08-05T18:46:00.464151+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "LLM 0.32 Launches with Reasoning Traces, Server‑Side Tools, and Enhanced Logging",
-      "summary": "Simon Willison announced version 0.32, adding visible reasoning steps, new provider tools, a content‑addressable SQLite log, and OpenAI response support. The release also bundles fresh model integrations.",
+      "headline": "Simon Willison Unveils LLM 0.32 with Traceable Reasoning and Server‑Side Tools",
+      "summary": "The latest LLM 0.32 update adds visible reasoning traces, integrates OpenAI response handling, and introduces server‑side provider utilities. It also revamps logging with a content‑addressable SQLite system and ships new model support.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
@@ -12,17 +12,8 @@
       "published": "2026-08-04T23:58:24+00:00"
     },
     {
-      "headline": "llm-anthropic 0.26 Introduces Claude‑5 Models and Server‑Side Web Tools",
-      "summary": "The update brings Claude‑fable‑5, Claude‑sonnet‑5, and Claude‑opus‑5 to the library and adds server‑side capabilities for web search, fetch, code execution, and AnthropicMCP via the -T interface or Python tools.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-04T22:00:58+00:00"
-    },
-    {
-      "headline": "OpenAI Fires Back at Apple Lawsuit with Blog Post",
-      "summary": "In an atypical move, OpenAI published a blog rebutting Apple’s preliminary injunction motion, claiming the company misinterprets the case. The post includes key excerpts and commentary on the legal clash.",
+      "headline": "OpenAI Fires Back at Apple Lawsuit in Blog Post, Calls Claims ‘Wrong’",
+      "summary": "OpenAI published an unusual blog rebuttal to Apple’s legal action, disputing the company’s allegations. The post mixes legal arguments with the startup’s characteristic candor.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong",
@@ -30,53 +21,53 @@
       "published": "2026-08-04T22:51:19+00:00"
     },
     {
-      "headline": "Simon Willison Details LLM 0.32 Release in Blog",
-      "summary": "Willison posted a comprehensive write‑up covering the new version’s features, including reasoning traces and server‑side tools. The entry tags the release under the llm project.",
-      "category": "Tech/AI",
+      "headline": "Ukraine Blames Patriot Shortage for Rising Civilian Deaths",
+      "summary": "With dwindling Patriot missile interceptors, Ukrainian air defenses are struggling against Russian strikes. Officials warn the deficit is leaving civilians increasingly vulnerable.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-04T17:15:33+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-05T18:19:51.201Z"
     },
     {
-      "headline": "‘Disability Dongle’ Exposes Silicon Valley’s Bias Against Accessibility",
-      "summary": "The piece argues that tech culture marginalizes disabled users, coining the term “Disability Dongle” to illustrate systemic neglect. Discussion on Hacker News highlights the controversy.",
-      "category": "Tech/AI",
+      "headline": "UN Rights Chief Flags Surge in Iran Executions Since March",
+      "summary": "Volker Türk reports 56 people executed on national‑security charges, including 27 tied to January protests. The rapid rise has sparked international concern over Iran’s human‑rights record.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://sightlessscribbles.com/disability-dongle/",
-      "source": "Hacker News",
-      "published": "2026-08-05T14:38:13+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-05T14:04:09.837Z"
     },
     {
-      "headline": "Rethinking Productivity: Intelligence Isn’t the Primary Limiting Factor",
-      "summary": "The essay contends that factors other than raw intellect—such as tools, processes, and environment—hold back output more than cognitive ability. Hacker News comments debate the claim.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
-      "source": "Hacker News",
-      "published": "2026-07-21T18:04:41+00:00"
+      "headline": "Nick Nurse Plans to Deploy LeBron James as Point Guard",
+      "summary": "The Miami Heat coach says LeBron will initiate offense, handling the ball and creating shots for teammates. He expects Tyrese Haliburton to be ready for deep three‑point opportunities.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vgdiwt/nick_nurse_confirms_plan_to_have_lebron_play/",
+      "source": "r/NBA",
+      "published": "2026-08-05T17:13:04+00:00"
     },
     {
-      "headline": "Explaining Markov Chain Entropy in Plain Terms",
-      "summary": "The article breaks down how entropy measures uncertainty in state transitions of a Markov chain, offering intuitive examples. Readers on Hacker News discuss its clarity and applications.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "source": "Hacker News",
-      "published": "2026-08-05T14:00:10+00:00"
+      "headline": "Was LeBron the Only Modern Player with Three MVPs Before a Championship?",
+      "summary": "LeBron earned MVP honors in 2009, 2010 and 2012 before finally winning a title that same year. Few modern stars, aside from Wilt Chamberlain, have matched that MVP‑without‑ring pattern.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vg1ze6/is_lebron_the_only_modern_player_to_win_3_mvps/",
+      "source": "r/NBA",
+      "published": "2026-08-05T09:01:56+00:00"
     },
     {
-      "headline": "Cloudflare Unveils Open Platform for Agents, Apps, and Work",
-      "summary": "Cloudflare OS is introduced as a modular, open‑source environment enabling developers to run agents and applications at the edge. The launch has sparked extensive discussion, reflected in high comment volume on Hacker News.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "source": "Hacker News",
-      "published": "2026-08-05T13:00:00.000Z"
+      "headline": "Curry Calls Injuries a ‘Game‑Changing’ Factor, Stays Realistic About Future",
+      "summary": "In a recent Athletic interview, Stephen Curry noted that losing players like Jimmy Butler and Moses Moody forces teams to adjust expectations. He emphasized a pragmatic outlook on maintaining performance amid roster setbacks.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vg65l3/friedell_steph_currywhen_jimmy_butler_got_hurt/",
+      "source": "r/NBA",
+      "published": "2026-08-05T12:36:34+00:00"
     },
     {
-      "headline": "The Gospel Coalition Calls AI a Missional Opportunity",
-      "summary": "TGC frames artificial intelligence as a chance to advance its mission, emphasizing human‑crafted content rooted in love and fellowship. The statement underscores a theological stance on technology.",
+      "headline": "The Gospel Coalition Declares AI a Missional Frontier",
+      "summary": "TGC argues that AI content should be crafted by humans for humans, reflecting love, fellowship, and worship. The statement frames AI as a chance to advance their mission while preserving human‑centered values.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/ai-tgc-missional-opportunity/",
@@ -84,53 +75,8 @@
       "published": "2026-08-05T04:00:00+00:00"
     },
     {
-      "headline": "Scottish Band Returns After Decade with Uplifting ‘Ever the Optimist’",
-      "summary": "Their first album in ten years blends elegant melodies with a hopeful tone, tempered by the recent loss of guitarist/vocalist John Douglas. Critics note the bittersweet resonance of the record.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/",
-      "source": "Pitchfork",
-      "published": "2026-08-05T04:03:00+00:00"
-    },
-    {
-      "headline": "UK Trio Brings Back 2000s Pop-R&B",
-      "summary": "The UK trio's second album features plush harmonies and glossy 2000s pop-R&B throwbacks, bringing back a nostalgic sound. With their unique blend of sounds, the trio is making a name for themselves in the music scene.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/",
-      "source": "Pitchfork",
-      "published": "2026-08-05T04:02:00+00:00"
-    },
-    {
-      "headline": "Tibetans Fight to Preserve Language and Culture",
-      "summary": "A new law in China is threatening the cultural identity of Tibetans, prompting many to fight for the preservation of their language and traditions. Despite the challenges, many Tibetans are embracing their heritage and working to keep their culture alive.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
-      "source": "NPR News",
-      "published": "2026-08-05T11:26:43-04:00"
-    },
-    {
-      "headline": "Russia Strikes Ukraine, Killing 21",
-      "summary": "A recent strike by Russia has killed 21 people in Ukraine, with the Russian defense ministry claiming to have targeted logistics hubs and supply centers. The attack has raised concerns about the escalating conflict between the two countries.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-05T01:35:29.107Z"
-    },
-    {
-      "headline": "UN Rights Chief Condemns Rise in Iran Executions",
-      "summary": "The UN rights chief has expressed alarm over the rising number of executions in Iran, with 56 people killed on national security-related charges since March. The executions have sparked concerns about human rights violations in the country.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-05T14:04:09.837Z"
-    },
-    {
-      "headline": "Google and Amazon Earnings Confirm Investment Strategies",
-      "summary": "Google's recent earnings report has confirmed the company's investment strategy, with a focus on justifiable capex. The report also highlights the similarities between Google and Amazon's approaches to investment and growth.",
+      "headline": "Stratechery Analyzes Google’s Earnings, Anthropic Hedge, and Amazon’s Capex Justification",
+      "summary": "The column notes Google’s results seem to validate its investment in Anthropic, while Amazon’s CEO Andy Jassy explains the rationale behind the company’s capital spending. Both tech giants are positioning their expenditures as strategic growth moves.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
@@ -138,8 +84,35 @@
       "published": "2026-08-05T10:00:00+00:00"
     },
     {
-      "headline": "OpenAI's Response to Apple Criticized as Too Soft",
-      "summary": "OpenAI's public response to Apple's criticism has been deemed too gentle, with some arguing that the company should take a stronger stance. The response has sparked a debate about the best way for companies to handle criticism and competition.",
+      "headline": "Scottish Band’s First Album in a Decade Balances Optimism with Grief",
+      "summary": "The new record blends uplifting melodies with a bittersweet awareness of time’s passage. Its emotional weight is heightened by the recent loss of guitarist and vocalist John Douglas.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:03:00+00:00"
+    },
+    {
+      "headline": "UK Trio’s ‘Therapy at the Club’ Delivers Glossy 2000s Pop‑R&B",
+      "summary": "The second album leans into self‑celebration, featuring plush harmonies and polished production that harken back to early‑2000s pop‑R&B. It showcases the band’s confidence, turning personal affirmation into the album’s central theme.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:02:00+00:00"
+    },
+    {
+      "headline": "Left‑Wing Outsider Abdul El‑Sayed Wins Michigan Democratic Senate Primary",
+      "summary": "El‑Sayed, the son of Egyptian immigrants and an epidemiologist, clinched the nomination, positioning himself as a progressive alternative. A victory would make him the first Muslim U.S. senator if he wins the November election.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-05T14:03:48.812Z"
+    },
+    {
+      "headline": "OpenAI’s Tepid Reply to Apple Sparks Hacker News Backlash",
+      "summary": "A Hacker News discussion slammed OpenAI’s conciliatory response to Apple’s criticism, likening it to bringing chocolates to a gunfight. Commentators argue the AI firm failed to address the core technical dispute.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://news.ycombinator.com/item?id=49164649",
@@ -147,17 +120,17 @@
       "published": "2026-08-05T14:57:47+00:00"
     },
     {
-      "headline": "Google DeepMind CEO Demis Hassabis Steps Down",
-      "summary": "Demis Hassabis, the CEO of Google DeepMind, has announced his decision to step down from the role. The move has sparked speculation about the future of the company and the direction it will take under new leadership.",
+      "headline": "Anthropic’s LLM‑Anthropic 0.26 Released with New Claude‑Fable‑5, Sonnet‑5, Opus‑5 Models",
+      "summary": "The update adds three next‑gen Claude models and server‑side tools for web search, fetching, code execution, and AnthropicMCP via the -T interface or Python. These enhancements expand multimodal capabilities and developer integration.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
-      "source": "Hacker News",
-      "published": "2026-08-05T16:05:37+00:00"
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-04T22:00:58+00:00"
     },
     {
-      "headline": "MiniMax Releases New Generative System",
-      "summary": "MiniMax has released a new generative system that can accept text, images, audio, and video and generate up to 15-second video clips with audio. The system has the potential to revolutionize the field of artificial intelligence and content creation.",
+      "headline": "MiniMax‑H3 Unveiled: Omni‑Modal Generator Produces Text, Audio, Image and 15‑Second Video",
+      "summary": "MiniMax’s new system accepts multiple modalities and can synthesize short video clips with synchronized audio. The Python package makes the model accessible for developers seeking versatile generative AI.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
@@ -165,26 +138,17 @@
       "published": "2026-08-04T19:10:09+00:00"
     },
     {
-      "headline": "Australian Folk Musician Tiarn Releases New Album",
-      "summary": "Tiarn, an Australian folk musician, has released her second album, which features her most clearly defined songs yet. The album balances impressionistic soundscapes with more structured compositions, showcasing Tiarn's growth as an artist.",
-      "category": "Music",
+      "headline": "Explosive‑Laden Drone Discovered Near German Airport After Mid‑Air Cargo Collision",
+      "summary": "Authorities found a drone carrying explosives close to Ukrainian cargo planes, hours after an unidentified object struck a cargo aircraft in flight. The incident raises security concerns over aerial threats to European airfields.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/hana-stretton-tiarn/",
-      "source": "Pitchfork",
-      "published": "2026-08-05T04:01:00+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-05T12:48:37.235Z"
     },
     {
-      "headline": "Jeff Dean Leaves Alphabet to Pursue New Ventures",
-      "summary": "Jeff Dean, a prominent researcher at Alphabet, has announced his decision to leave the company to pursue new opportunities. The move has sparked speculation about Dean's future plans and the potential impact on the field of artificial intelligence.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html",
-      "source": "Hacker News",
-      "published": "2026-08-05T16:04:33+00:00"
-    },
-    {
-      "headline": "The Thread’s New Album Marries Chaos and Groove",
-      "summary": "The multi‑instrumentalist’s sophomore release this year pushes genre boundaries while anchoring itself in a self‑crafted, off‑beat rhythm. Listeners get a sound that feels both experimental and oddly accessible.",
+      "headline": "The Thread’s Second Album Marries Genre‑Bending Experimentation with Cohesive Groove",
+      "summary": "The multi‑instrumentalist’s latest release pushes boundaries with eclectic instrumentation while maintaining an internal logic that drives its rhythm. Critics note the record finds a compelling groove amid its avant‑garde approach.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/willow-the-thread/",
@@ -192,8 +156,44 @@
       "published": "2026-08-05T04:00:00+00:00"
     },
     {
-      "headline": "Russian Missile and Drone Barrage Claims 17 Lives in Kyiv Region",
-      "summary": "Overnight strikes on Kyiv and surrounding areas killed 17 people and injured 44, according to President Zelenskyy. The attacks underscore the intensifying violence around Ukraine’s capital.",
+      "headline": "Tibetan Elder Learns to Write Native Script Amid China’s ‘Unity’ Law Crackdown",
+      "summary": "A 73‑year‑old retired nurse’s effort to master Tibetan writing highlights grassroots resistance to policies that suppress local language. Her story illustrates broader attempts to safeguard cultural identity under tightening state control.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+      "source": "NPR News",
+      "published": "2026-08-05T11:26:43-04:00"
+    },
+    {
+      "headline": "Study Shows Benchmark Answers Can Inadvertently Leak Into Large Language Models",
+      "summary": "Researchers reveal that LLMs often memorize training set answers, causing them to reproduce benchmark solutions without genuine reasoning. The finding raises concerns about the validity of current evaluation practices.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://elman.ai/news/your-model-already-knows-the-answer/",
+      "source": "Hacker News",
+      "published": "2026-08-05T16:56:56+00:00"
+    },
+    {
+      "headline": "Progressive Epidemiologist Abdul El‑Sayed Defeats Haley Stevens in Michigan Senate Primary",
+      "summary": "El‑Sayed secured the Democratic nomination on a platform of Medicare for all and anti‑corporate politics, beating the establishment‑backed Rep. Stevens. His win sets up a high‑stakes general election battle in a swing state.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+      "source": "NPR News",
+      "published": "2026-08-05T09:54:31-04:00"
+    },
+    {
+      "headline": "HyperProbe Lets AI Agents Debug Live Production Safely",
+      "summary": "Startup HyperProbe offers read‑only probes that can be dropped into running code, allowing models like Claude or Cursor to capture exact variable values without affecting the system. The tool aims to provide fast, safe debugging for production environments.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.hyperprobe.co",
+      "source": "Hacker News",
+      "published": "2026-08-05T16:47:15+00:00"
+    },
+    {
+      "headline": "Russian Missile and Drone Strikes on Kyiv Kill 17, Injure 44",
+      "summary": "Ukraine's president reported that overnight attacks on the capital and surrounding areas resulted in 17 deaths and 44 injuries. The barrage combined missiles and drones, intensifying the ongoing conflict.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
@@ -201,26 +201,17 @@
       "published": "2026-08-05T06:15:44-04:00"
     },
     {
-      "headline": "Oracle Cuts Free ARM Compute Quota in Half",
-      "summary": "Oracle announced a 50% reduction in the resources available under its Always Free ARM tier, affecting developers who rely on the service. The change prompts users to reassess workloads or consider paid options.",
+      "headline": "DeepMind Reshuffles: Hassabis Moves to Chair, Jeff Dean Exits",
+      "summary": "DeepMind's co‑founder Demis Hassabis steps down as CEO to become chair of the board, while senior engineer Jeff Dean leaves the company. The shift signals a new leadership phase as Google emphasizes AI momentum.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
       "source": "Hacker News",
-      "published": "2026-08-05T14:50:00+08:00"
+      "published": "2026-08-05"
     },
     {
-      "headline": "Trump Warns Iran of Severe Retaliation Over Hormuz Closure",
-      "summary": "The former president declared Iran would face a strong response if the Strait of Hormuz remains blocked, while U.S. officials say diplomatic talks are moving toward reopening. Oil prices have been sliding amid the uncertainty.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T14:58:16.781Z"
-    },
-    {
-      "headline": "Rubin Observatory Unveils LSST Images of Half a Million COSMOS Galaxies",
-      "summary": "The first data release from the LSST camera showcases detailed observations of 500,000 galaxies in the COSMOS field. This milestone provides astronomers with unprecedented depth for studying cosmic structure.",
+      "headline": "Rubin Observatory Unveils First LSST Images: 500,000 Galaxies Mapped",
+      "summary": "The inaugural data from the LSST camera covers the COSMOS field, cataloguing half a million galaxies. This release showcases the telescope's capability to survey the sky in unprecedented detail.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
@@ -228,35 +219,26 @@
       "published": "2026-08-05T14:04:10+00:00"
     },
     {
-      "headline": "TSON Introduces Immutable, Hash‑Pinned Schemas to JSON",
-      "summary": "TSON extends JSON by adding schema immutability and hash‑based versioning, aiming to improve data integrity across systems. Developers can now lock schemas to specific hashes, reducing accidental changes.",
+      "headline": "Why Intelligence Isn’t the Real Limiting Factor in AI Progress",
+      "summary": "The article argues that algorithmic and data constraints, not raw intelligence, hinder AI development. It suggests focusing on infrastructure and scaling to accelerate breakthroughs.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://tson.io/",
+      "url": "https://www.writingruxandrabio.com/p/intelligence-is-not-the-main-bottleneck",
       "source": "Hacker News",
-      "published": "2026-08-05T14:03:40+00:00"
+      "published": "2026-07-21T18:04:41+00:00"
     },
     {
-      "headline": "Skipping Junior Hires Won’t Fix Your Talent Gap",
-      "summary": "The author argues that avoiding entry‑level engineers doesn’t address underlying hiring issues and can harm long‑term growth. Building a pipeline for junior talent is presented as a more sustainable solution.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
-      "source": "Hacker News",
-      "published": "2026-08-05T13:55:48+00:00"
+      "headline": "Debate Sparks Over Kevin Durant’s Claim That Scoring Beats Defense",
+      "summary": "Reddit users question Durant’s assertion that hitting shots is the sole path to winning, noting the difficulty of becoming elite defenders. The thread explores the balance between offensive skill and defensive effort in the NBA.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vgd3bz/obviously_kd_is_right_about_needing_to_hit_shots/",
+      "source": "r/NBA",
+      "published": "2026-08-05T16:57:55+00:00"
     },
     {
-      "headline": "Constructing a Next‑Gen Agentic Harness for Data‑Driven Tasks",
-      "summary": "The piece details a framework that equips autonomous agents with modular tools and feedback loops to tackle complex problems. It highlights scalability and adaptability as key benefits.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "source": "Hacker News",
-      "published": "2026-07-15"
-    },
-    {
-      "headline": "How to Shield Your Faith from Spiritual Apathy",
-      "summary": "Dr. David Strain outlines practical steps rooted in Christian practices and community to prevent spiritual stagnation. He emphasizes using traditional means of grace as a protective routine.",
+      "headline": "Dr. David Strain Offers Practical Steps to Combat Spiritual Apathy",
+      "summary": "In a new video, Strain outlines how Christians can use the means of grace and community to guard against spiritual stagnation. He emphasizes regular participation in worship, sacraments, and fellowship as safeguards.",
       "category": "Faith",
       "relevance": 7,
       "url": "https://tabletalkmagazine.com/posts/how-can-we-guard-against-spiritual-apathy/",
@@ -264,8 +246,8 @@
       "published": "2026-08-05T04:00:15+00:00"
     },
     {
-      "headline": "HP OmniBook Ultra 14 Shows Snapdragon X2 Dominates on ARM",
-      "summary": "Paul Thurrott praises the laptop as a near‑perfect Windows 11 ARM device, showcasing the Snapdragon X2’s performance edge over x86 rivals. The review highlights the seamless hardware‑software integration.",
+      "headline": "HP OmniBook Ultra 14 Review: Snapdragon X2 Powers Near‑Perfect ARM Laptop",
+      "summary": "Paul Thurrott praises the OmniBook Ultra 14 for delivering Windows 11 on ARM with Qualcomm’s Snapdragon X2, outperforming comparable x86 machines. He calls it a nearly flawless blend of hardware and software.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.thurrott.com/mobile/copilot-pc/340107/hp-omnibook-ultra-14-snapdragon-x2-review",
@@ -273,35 +255,53 @@
       "published": "2026-08-05T00:48:41+00:00"
     },
     {
-      "headline": "Explosive‑laden drone intercepted at German airport after mid‑air near‑miss",
-      "summary": "Police discovered a drone carrying explosives near Ukrainian cargo flights at a German hub. The find follows a separate object that struck a cargo plane in mid‑air, heightening security worries.",
+      "headline": "Judge Drops Landmark Oath Keepers Trial, Sparking Prosecutor Concerns",
+      "summary": "A federal judge granted the Justice Department’s request to dismiss the case against Oath Keepers leaders from the Jan. 6 riot. Former prosecutors warned that the move could downplay the severity of the insurrection.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-05T12:48:37.235Z"
+      "url": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "source": "NPR News",
+      "published": "2026-08-05T13:14:46-04:00"
     },
     {
-      "headline": "Google outlines its next phase of AI growth",
-      "summary": "In a company message, Google’s leadership sketches how it will expand AI research and embed the technology across its products. The announcement sparked discussion on Hacker News, earning modest points and comments.",
+      "headline": "Phishers Exploit Legitimate Cloud Services to Amplify Attacks",
+      "summary": "Researchers reveal that cybercriminals are compromising reputable cloud platforms to host phishing pages and hide malicious activity. This tactic makes detection harder and leverages the trust associated with major providers.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
       "source": "Hacker News",
-      "published": "2026-08-05"
+      "published": "2026-08-04T12:00:12+00:00"
     },
     {
-      "headline": "Epidemiologist Abdul El‑Sayed clinches Michigan Dem Senate nod",
-      "summary": "El‑Sayed, a public‑health doctor, defeated Rep. Haley Stevens, emphasizing Medicare for all and rejecting corporate money. His victory signals a progressive surge in the state’s Democratic primary.",
+      "headline": "Pakistan's Ruling Party Wins Majority of Kashmir Seats Amid Boycott Threat",
+      "summary": "Candidates from Nawaz Sharif's Pakistan Muslim League-N captured 24 of the 34 seats decided in the first two phases, according to the election commission. The victory comes despite a banned group's call to boycott the election.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
       "source": "NPR News",
-      "published": "2026-08-05T09:54:31-04:00"
+      "published": "2026-08-05T12:06:06-04:00"
     },
     {
-      "headline": "U.S. missile inventory shrinks as FDA reviews mRNA flu vaccine",
-      "summary": "The Army warns that its conventional missile reserves are falling and could take years to rebuild. At the same time, regulators are weighing approval of the first mRNA‑based seasonal flu shot.",
+      "headline": "Writer Builds Private 'GitHub for Words' to Guard Against AI Plagiarism",
+      "summary": "Fearing that AI could appropriate his novel, the author launched a self‑hosted platform for collaborative writing. The tool aims to keep manuscripts out of large language models while preserving version control.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html",
+      "source": "Hacker News",
+      "published": "2026-08-03T08:08:00-06:00"
+    },
+    {
+      "headline": "Celld Introduces Self‑Hosted, Distributed Durable Objects for Edge Computing",
+      "summary": "The open‑source project lets developers run Cloudflare‑style Durable Objects on their own infrastructure. It offers scalable, low‑latency stateful services without vendor lock‑in.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/denoland/celld",
+      "source": "Hacker News",
+      "published": "2026-08-05T16:50:06+00:00"
+    },
+    {
+      "headline": "U.S. Missile Arsenal Shrinks While FDA Reviews mRNA Flu Vaccine",
+      "summary": "The Army reports a sharp decline in its missile stockpile, warning that replenishment could take years. Simultaneously, the FDA is weighing approval of a flu shot that uses messenger‑RNA technology.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
@@ -309,17 +309,17 @@
       "published": "2026-08-05T07:54:57-04:00"
     },
     {
-      "headline": "Exploring the ‘Valley of Webhooks’ for modern integrations",
-      "summary": "The blog post maps how webhook ecosystems evolve, highlighting pitfalls and best practices for developers. Hacker News users debated its insights, generating moderate engagement.",
+      "headline": "Former OpenAI Engineer Departs to Pursue Telepathy Research",
+      "summary": "Naomi Bashkansky announced she is leaving OpenAI to develop brain‑to‑brain communication technology. She argues that direct neural interfaces offer a path beyond current AI approaches.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+      "url": "https://naomibashkansky.com/blog/telepathy/",
       "source": "Hacker News",
-      "published": "2026-08-05T00:00:00+00:00"
+      "published": "2026-08-05T16:45:33+00:00"
     },
     {
-      "headline": "Progressives surge in Michigan as Trump asserts GOP dominance",
-      "summary": "Democratic progressives secured key victories in Michigan while insurgent Democrats fell short in Missouri and Washington. Meanwhile, former President Trump continued to influence Republican strategy nationwide.",
+      "headline": "Progressives Score Historic Michigan Victory as Trump Wields GOP Influence",
+      "summary": "Democratic progressives secured sweeping wins in Michigan elections, marking their biggest triumph yet. Meanwhile, Trump continued to flex his influence over the Republican Party, even as voters in Missouri and Washington rejected insurgent Democrats.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/05/g-s1-137422/primary-elections",
@@ -327,8 +327,8 @@
       "published": "2026-08-05T06:08:28-04:00"
     },
     {
-      "headline": "Pakistan tightens rules, requiring permits for foreign journalists outside three cities",
-      "summary": "New regulations force any reporter for overseas outlets, including Pakistani nationals, to obtain official permission to work beyond Karachi, Lahore and Islamabad. The move raises concerns about press freedom.",
+      "headline": "Pakistan Tightens Rules, Requiring Permits for Foreign Reporters Outside Major Cities",
+      "summary": "New regulations mandate that any journalist, including Pakistani nationals working for overseas outlets, obtain official permission to report from locations beyond Karachi, Lahore, and Islamabad. The move further restricts international media access across the country.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cn0n9w95n70o?at_medium=RSS&at_campaign=rss",
@@ -336,71 +336,53 @@
       "published": "2026-08-05T11:19:42.707Z"
     },
     {
-      "headline": "Appalachian black‑lung cases hit 1970s highs, thousands ill",
-      "summary": "Veteran coal miners are experiencing the highest rates of pneumoconiosis in nearly five decades. Experts link the surge to increased exposure to silica dust in modern mining operations.",
+      "headline": "Trump Warns Iran of Severe Retaliation if Strait of Hormuz Remains Closed",
+      "summary": "The former president threatened harsh action against Iran unless the strategic waterway reopens, amid falling oil prices. U.S. officials say diplomatic talks are progressing toward resuming shipments.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/05/nx-s1-5894884/appalachia-black-lung-coal-miners-silica-dust",
-      "source": "NPR News",
-      "published": "2026-08-05T04:01:00-04:00"
-    },
-    {
-      "headline": "Colombia passes historic law banning female genital mutilation",
-      "summary": "After a grandmother secretly subjected her infant to FGM, the country approved legislation outlawing the practice among indigenous communities. The law marks a significant step toward protecting girls’ rights.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-04T23:13:01.587Z"
+      "published": "2026-08-04T14:58:16.781Z"
     },
     {
-      "headline": "‘Painting with Gaussians’: New technique renders images with probabilistic strokes",
-      "summary": "The author introduces a graphics method that uses Gaussian distributions to simulate brush strokes, offering smoother, more natural renderings. The post attracted attention on Hacker News, earning high points.",
+      "headline": "Exploring the 'Valley of Webhooks': How Event‑Driven APIs Shape Modern Apps",
+      "summary": "The article maps the ecosystem of webhook services, showing how developers stitch together platforms through real‑time HTTP callbacks. It highlights the power of event‑driven architecture for building responsive applications.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
       "source": "Hacker News",
-      "published": "2026-08-05T13:34:32+00:00"
+      "published": "2026-08-05T00:00:00+00:00"
     },
     {
-      "headline": "Philippine BPO Staff Fear AI‑Driven Job Losses",
-      "summary": "AI tools are rapidly automating tasks in the Philippines' outsourcing sector, leaving many employees anxious about their future. Workers describe feeling trapped as the industry pivots toward machine‑based services.",
+      "headline": "The 'Disability Dongle' Exposes Tech Industry's Bias Against Accessibility",
+      "summary": "The author critiques Silicon Valley's neglect of disabled users and proposes a low‑cost hardware add‑on to bridge accessibility gaps. The piece calls out systemic bias and urges inclusive design.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://sightlessscribbles.com/disability-dongle/",
+      "source": "Hacker News",
+      "published": "2026-08-05T14:38:13+00:00"
+    },
+    {
+      "headline": "El‑Sayed’s Michigan Win Shakes Democratic Establishment",
+      "summary": "The unexpected victory in Michigan positions the race as a litmus test for the party’s left‑wing candidate ahead of the November showdown. Democrats now face a fierce battle in a pivotal swing state.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cp309ng0xq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-04T22:10:00.638Z"
+      "published": "2026-08-05T14:54:07.259Z"
     },
     {
-      "headline": "Indian Protesters Face Online Harassment After 'Cockroach' Demo",
-      "summary": "Women who joined the CJP “cockroach” protest report being doxxed, slut‑shamed, and threatened on social media. Their accounts highlight a wave of gender‑based abuse targeting activists.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T22:28:30.272Z"
+      "headline": "Sabonis Signals Commitment to Kings Amid Summer Trade Rumors",
+      "summary": "Despite speculation linking him to Detroit, Charlotte and Boston, the All‑Star center said he’s prepared to re‑sign with Sacramento. He later underwent season‑ending meniscus surgery, prompting the franchise to re‑evaluate his trade value.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1vgborm/slater_domantas_sabonis_has_expressed_a/",
+      "source": "r/NBA",
+      "published": "2026-08-05T16:08:13+00:00"
     },
     {
-      "headline": "Russian Drone Chases Kherson Vendor Before Exploding",
-      "summary": "Footage shows a Russian drone pursuing a street‑side vegetable seller in Kherson before detonating, turning the scene into a deadly “human safari.” The incident underscores the peril civilians face in the occupied region.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T19:07:19+00:00"
-    },
-    {
-      "headline": "Guatemala’s Fuego Volcano Erupts, Prompting Mass Evacuations",
-      "summary": "The active Fuego volcano spewed ash and lava, forcing residents of Escuintla, Chimaltenango and Sacatepéquez to flee. Authorities are coordinating rescue efforts as ash clouds threaten nearby communities.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T16:50:07+00:00"
-    },
-    {
-      "headline": "Downstream Ease vs. Upstream Struggle: A Moral Analogy",
-      "summary": "The piece likens the effortless glide of a boat downstream to the temptation of sin, contrasting it with the arduous effort required to row upstream toward holiness. It urges readers to recognize the difficulty of moral transformation.",
+      "headline": "Downstream Ease, Upstream Struggle: A Moral Metaphor",
+      "summary": "The author likens the effortless glide downstream to following sin, while the arduous climb upstream mirrors the effort required for holiness. The essay urges readers to choose the harder, righteous path.",
       "category": "Faith",
       "relevance": 6,
       "url": "https://www.challies.com/articles/cruising-downstream-laboring-upstream/",
@@ -408,49 +390,67 @@
       "published": "2026-08-05T04:02:00+00:00"
     },
     {
-      "headline": "Abdul El‑Sayed Wins Michigan Democratic Senate Primary",
-      "summary": "Progressive candidate Abdul El‑Sayed, son of Egyptian immigrants, secured the Democratic nomination for the U.S. Senate. If elected, he would become the first Muslim senator in American history.",
-      "category": "World",
+      "headline": "Atlassian’s Rovo Tool Caught Exfiltrating Data Past Defenses",
+      "summary": "Researchers uncovered that the Rovo integration was leveraged to siphon confidential information while evading existing security controls. The incident highlights gaps in Atlassian’s monitoring and the need for tighter data protection.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-05T14:03:48.812Z"
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "source": "Hacker News",
+      "published": "2026-08-05"
     },
     {
-      "headline": "SpaceX Moon Crash Provides Unexpected Data for Scientists",
-      "summary": "A SpaceX launch vehicle unintentionally slammed into the Moon, creating a fresh impact site that planetary geologists can study. Researchers see the accident as a rare opportunity to gather new information for future missions.",
-      "category": "World",
+      "headline": "tiarn’s Sophomore Album Refines Folk Collage Without Losing Dreamy Aura",
+      "summary": "The Australian artist’s latest release delivers more defined songwriting yet preserves the ethereal textures of earlier work. Critics praise the balance between structure and atmospheric soundscapes.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-05T11:19:24.737Z"
+      "url": "https://pitchfork.com/reviews/albums/hana-stretton-tiarn/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:01:00+00:00"
     },
     {
-      "headline": "Challies ‘A La Carte’ August 5 Edition Covers Faith, Gaming, and Culture",
-      "summary": "The newsletter features pieces on Sophie Cunningham, transgender issues, prayer, PowerWash Simulator, Christian authenticity, gambling, and spiritual struggle. It offers a mix of theological reflection and cultural commentary.",
-      "category": "Faith",
+      "headline": "Avdija’s Euro Step Ends in Technical After Pointing at LeBron",
+      "summary": "During a game, Deni Avdija showcased a slick Euro step before receiving a technical foul for gesturing toward LeBron James and Kevin Finney‑Smith. The incident sparked debate over player conduct and officiating.",
+      "category": "NBA",
       "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1vg6frx/deni_avdija_goes_one_on_three_with_the_slow_euro/",
+      "source": "r/NBA",
+      "published": "2026-08-05T12:48:40+00:00"
+    },
+    {
+      "headline": "Jordan’s Iconic Dunk Over Sam Perkins in 1991 Finals Highlight",
+      "summary": "In Game 2 of the 1991 NBA Finals, Michael Jordan elevated for a powerful slam that left Sam Perkins on the floor. The play has become a staple replay in NBA lore.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1vg6dqq/highlight_michael_jordan_rises_up_and_jams_on_sam/",
+      "source": "r/NBA",
+      "published": "2026-08-05T12:46:16+00:00"
+    },
+    {
+      "headline": "Van Gundy Labels Jordan ‘Con Man’; MJ Fires Back with 51‑Point Outburst",
+      "summary": "Before a 1997 showdown, commentator Jeff Van Gundy dismissed Michael Jordan as a con man, prompting the legend to answer with a 51‑point performance. The game cemented Jordan’s dominance over critics.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1vg784q/highlights_jeff_van_gundy_calls_michael_jordan_a/",
+      "source": "r/NBA",
+      "published": "2026-08-05T13:21:28+00:00"
+    },
+    {
+      "headline": "A La Carte August 5: Essays on Sports, Faith, and Culture",
+      "summary": "The latest installment tackles subjects ranging from Sophie Cunningham’s impact to debates over transgender narratives, alongside reflections on Christianity and gambling. Readers are offered a mix of commentary and personal insight.",
+      "category": "Faith",
+      "relevance": 4,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-5-2026/",
       "source": "Challies",
       "published": "2026-08-05T04:01:00+00:00"
     },
     {
-      "headline": "Top 25 Aristotle Quotes on Virtue, Knowledge, and Happiness Shared on HN",
-      "summary": "A blog post compiles Aristotle’s most resonant sayings about moral character, intellectual pursuit, and the good life. The discussion on Hacker News attracted over 80 points and 25 comments.",
-      "category": "Faith",
-      "relevance": 4,
+      "headline": "Top 25 Aristotle Quotes on Virtue, Knowledge and Happiness",
+      "summary": "The blog curates a selection of Aristotle’s most resonant sayings about moral excellence, intellectual pursuit, and the good life. Each quote is paired with brief commentary to illustrate its modern relevance.",
+      "category": "Other",
+      "relevance": 3,
       "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
       "source": "Hacker News",
       "published": "2024-11-08T06:34:49+00:00"
-    },
-    {
-      "headline": "Police Leveraged Flock App to Trail Suspect Across State Lines for Weed Pretext",
-      "summary": "Investigators employed the Flock social‑media platform to monitor a man’s movements, then used the data to justify a traffic stop and search for marijuana. The tactic sparked debate over privacy and law‑enforcement overreach, earning 160 points on Hacker News.",
-      "category": "Other",
-      "relevance": 3,
-      "url": "https://www.404media.co/cops-used-flock-to-track-a-man-across-state-lines-to-create-pretext-to-search-his-car-for-weed/",
-      "source": "Hacker News",
-      "published": "2026-08-05T14:50:49.000Z"
     }
   ]
 }
