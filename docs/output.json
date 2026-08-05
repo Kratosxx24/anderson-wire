@@ -1,19 +1,46 @@
 {
-  "generated_at": "2026-08-05T04:23:35.680068+00:00",
+  "generated_at": "2026-08-05T07:21:42.324748+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "DuckDB Brings Data Power Tools to Clojure",
-      "summary": "DuckDB has expanded its data power tools to Clojure, providing users with a robust platform for data analysis on their laptops. This development aims to enhance data processing capabilities for Clojure users, making it easier to work with large datasets.",
+      "headline": "LLM 0.32 Released with Enhanced Features",
+      "summary": "The latest version of LLM introduces significant updates, including support for visible reasoning traces and server-side tools. These enhancements aim to improve the overall functionality and user experience of the platform.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "source": "Hacker News",
-      "published": "2026-08-04T22:09:43+00:00"
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-04T23:58:24+00:00"
     },
     {
-      "headline": "Maple-Preview Achieves Ternary 20B MoE on iPhone",
-      "summary": "Maple-Preview has successfully demonstrated the capability to run a ternary 20B MoE model at 120 tokens per second on an iPhone, showcasing significant advancements in AI processing power. This breakthrough has the potential to enable more complex AI applications on mobile devices.",
+      "headline": "Apple Seeks Injunction Against OpenAI in Trade Secrets Case",
+      "summary": "Apple has filed a motion for a preliminary injunction against OpenAI and two former employees, alleging the misuse of confidential information. The move is part of Apple's ongoing trade secrets case against the defendants.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/",
+      "source": "Daring Fireball",
+      "published": "2026-08-04T16:02:35+00:00"
+    },
+    {
+      "headline": "AI-Driven Cybercrime Surges in Africa",
+      "summary": "According to Interpol, more than half of cybercrime in Africa is now fueled by artificial intelligence, leading to a significant increase in scams. This trend poses a major threat to the continent's cybersecurity and requires urgent attention from authorities.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "source": "Hacker News",
+      "published": "2026-08-04CEST12:19:51+02:00"
+    },
+    {
+      "headline": "Europe's Heat Wave Exacerbates Drought and Wildfires",
+      "summary": "The ongoing heat wave in Europe has led to severe drought, devastating wildfires, and concerns about energy supplies. The extreme weather conditions are also uncovering buried historical artifacts and posing risks to nuclear reactors.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
+      "source": "NPR News",
+      "published": "2026-08-04T12:37:38-04:00"
+    },
+    {
+      "headline": "Maple-Preview: AI Model Runs on iPhone",
+      "summary": "A new AI model called Maple-Preview has been demonstrated to run at 120 tokens per second on an iPhone, showcasing significant advancements in mobile AI capabilities. This achievement highlights the potential for powerful AI models to be deployed on consumer devices.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://deepgrove.ai/maple-preview",
@@ -21,26 +48,35 @@
       "published": "2026-08-04T19:44:55+00:00"
     },
     {
-      "headline": "Guarding Against Spiritual Apathy",
-      "summary": "Dr. David Strain has outlined practical measures to prevent spiritual apathy, emphasizing the importance of utilizing God's appointed means for spiritual growth and engaging with Christian community. By adopting these safeguards, individuals can cultivate a deeper sense of spiritual awareness and connection.",
+      "headline": "The Gospel Coalition's Stance on AI",
+      "summary": "The Gospel Coalition has outlined its approach to artificial intelligence, emphasizing the importance of human involvement and community in content creation. The organization sees AI as an opportunity for missional growth and worship.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://tabletalkmagazine.com/posts/how-can-we-guard-against-spiritual-apathy/",
-      "source": "Tabletalk",
-      "published": "2026-08-05T04:00:15+00:00"
+      "url": "https://www.thegospelcoalition.org/article/ai-tgc-missional-opportunity/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-05T04:00:00+00:00"
     },
     {
-      "headline": "OpenAI Responds to Apple's Lawsuit",
-      "summary": "OpenAI has issued a response to Apple's lawsuit, arguing that Apple has misinterpreted the situation and emphasizing the company's commitment to innovation. The response highlights the complexities of the ongoing legal dispute between the two tech giants.",
-      "category": "Tech/AI",
+      "headline": "Scottish Band Releases Uplifting Album",
+      "summary": "After a decade, a Scottish band has released a new album that is both elegant and uplifting, despite acknowledging the passing of time. The album's bittersweet tone has taken on a deeper meaning following the tragic death of the band's guitarist and vocalist.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong",
-      "source": "Daring Fireball",
-      "published": "2026-08-04T22:51:19+00:00"
+      "url": "https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:03:00+00:00"
     },
     {
-      "headline": "Indian-Flagged Ship Sinks Off Yemen Coast",
-      "summary": "A projectile has sunk an Indian-flagged ship off the coast of Yemen, but all 14 crew members were safely rescued, according to India's ministry of external affairs. The incident has raised concerns about maritime safety in the region.",
+      "headline": "Mass Funeral Held for Palestinians Killed in Israeli Strike",
+      "summary": "A mass funeral has been held in Gaza for 112 Palestinians who were killed in an Israeli strike in 2023, with the bodies only recently recovered from under rubble. The funeral is a somber reminder of the ongoing conflict and its devastating consequences.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T13:59:24.376Z"
+    },
+    {
+      "headline": "Indian-Flagged Ship Sinks off Yemen Coast",
+      "summary": "An Indian-flagged vessel has sunk off the coast of Yemen, but all 14 people on board were safely rescued. The incident highlights the risks and challenges faced by ships navigating the region's waters.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cly84we1y37o?at_medium=RSS&at_campaign=rss",
@@ -48,26 +84,44 @@
       "published": "2026-08-04T21:24:50.166Z"
     },
     {
-      "headline": "Over 170 Migrants Rescued in Channel",
-      "summary": "More than 170 migrants have been rescued after their boat caught fire in the Channel while attempting to cross to the UK, and they will be returned to France. The incident highlights the ongoing challenges and risks faced by migrants attempting to cross the Channel.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T10:11:51.803Z"
-    },
-    {
-      "headline": "Apple Seeks Injunction Against OpenAI",
-      "summary": "Apple has filed a motion for a preliminary injunction against OpenAI, seeking to prevent the company from accessing or disclosing alleged confidential information related to trade secrets. The move is part of Apple's ongoing lawsuit against OpenAI and two former employees.",
+      "headline": "OpenAI Responds to Apple's Lawsuit",
+      "summary": "OpenAI has responded to Apple's lawsuit and motion for a preliminary injunction, stating that Apple has misunderstood the situation. The response, published in a blog post, provides a unique insight into OpenAI's perspective on the matter.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04/",
+      "url": "https://daringfireball.net/2026/08/openai_apple_is_getting_this_wrong",
       "source": "Daring Fireball",
-      "published": "2026-08-04T16:02:35+00:00"
+      "published": "2026-08-04T22:51:19+00:00"
     },
     {
-      "headline": "Debunking Myths on Software Engineering and GenAI",
-      "summary": "A recent article has addressed common misconceptions about software engineering and GenAI, providing insights into the realities of these emerging technologies. By dispelling these myths, developers and researchers can better understand the potential and limitations of GenAI in software engineering.",
+      "headline": "LLM Anthropic 0.26 Released with New Models and Features",
+      "summary": "The latest update to LLM Anthropic includes new models such as claude-fable-5 and claude-sonnet-5, as well as server-side tools for enhanced functionality. These additions are made possible by the advancements in LLM 0.32, expanding the capabilities of the platform.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-04T22:00:58+00:00"
+    },
+    {
+      "headline": "Zero-Mem Introduces Efficient Memory Operations for LLM Agents",
+      "summary": "A new approach called Zero-Mem has been proposed to optimize memory operations for LLM agents, potentially leading to more efficient processing. This development aims to address the memory-intensive nature of large language models, paving the way for more streamlined operations.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://arxiv.org/abs/2607.29377",
+      "source": "Hacker News",
+      "published": "2026-08-05T04:36:44+00:00"
+    },
+    {
+      "headline": "LLM 0.32 Release Brings Significant Updates and Improvements",
+      "summary": "The release of LLM 0.32 marks a significant milestone, with a detailed blog post outlining the updates and enhancements made to the platform. This new version is expected to offer improved performance and capabilities, further solidifying LLM's position in the market.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-04T17:15:33+00:00"
+    },
+    {
+      "headline": "Debunking Common Myths in Software Engineering and GenAI",
+      "summary": "A recent article tackles eight prevalent myths surrounding software engineering and generative AI, providing clarity and insight into these complex fields. By addressing these misconceptions, the article aims to foster a better understanding of the realities and challenges involved in software engineering and GenAI.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://queue.acm.org/detail.cfm?id=3807963",
@@ -75,107 +129,170 @@
       "published": "2026-08-04T23:50:52+00:00"
     },
     {
-      "headline": "The Advantage of Pi's Minimalism",
-      "summary": "The minimalist approach of Pi has been identified as a key advantage, allowing for more efficient and effective data processing and analysis. This simplicity enables Pi to provide a robust and scalable platform for autoresearch and data analysis.",
+      "headline": "Rust-Based SIMD Viterbi Decoder Offers Enhanced Performance",
+      "summary": "A developer has created a templated, generic Viterbi decoder in Rust, leveraging the language's std::simd capabilities to achieve efficient decoding of convolutional codes. This implementation demonstrates the potential of Rust for building high-performance applications, particularly in the realm of signal processing.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "source": "Hacker News",
-      "published": "2026-08-04T22:22:12+00:00"
-    },
-    {
-      "headline": "Oxide Computer Raises $445M in Funding",
-      "summary": "Oxide Computer has secured $445 million in funding, as disclosed in a recent SEC filing, marking a significant investment in the company's future growth and development. The funding will likely be used to drive innovation and expansion in the tech industry.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "source": "Hacker News",
-      "published": "2026-08-04T20:13:40+00:00"
-    },
-    {
-      "headline": "Mistral Unveils Shieldstral, A 3B Open-Weights Model For Multimodal Moderation",
-      "summary": "Mistral has introduced Shieldstral, a large open-weights model designed for multimodal content moderation. This model aims to improve the accuracy and efficiency of moderating various types of content across different platforms.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://mistral.ai/news/shieldstral/",
-      "source": "Hacker News",
-      "published": "2026-08-04T16:36:05+00:00"
-    },
-    {
-      "headline": "Pastoral Ministry Support For Parents In Challenging Times",
-      "summary": "Parenting can be incredibly challenging, and for those in pastoral ministry, it's essential to find support and guidance during difficult times. By turning to faith and community, parents can navigate the hardships of parenting and find strength in their spiritual beliefs.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.9marks.org/article/pastoral-ministry-when-parenting-gets-hard/?utm_source=rss&utm_medium=rss&utm_campaign=pastoral-ministry-when-parenting-gets-hard",
-      "source": "9Marks",
-      "published": "2026-08-04T16:33:57+00:00"
-    },
-    {
-      "headline": "Russian Ballistic Missile Strike Hits Kyiv, Killing Two And Injuring Others",
-      "summary": "A recent Russian ballistic missile strike on Kyiv has resulted in the loss of life and injuries, with residential buildings being targeted. The attack is part of a larger pattern of aggression by Russia against Ukrainian cities, causing widespread destruction and displacement.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-05T01:35:29.107Z"
-    },
-    {
-      "headline": "LLM 0.32 Release Introduces New Features For Reasoning And Logging",
-      "summary": "The latest version of LLM, 0.32, has been released with significant new features, including support for visible reasoning traces and smarter logging. This update also includes server-side tools and new models enabled by OpenAI, enhancing the overall functionality of the platform.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-04T23:58:24+00:00"
-    },
-    {
-      "headline": "LLM-Anthropic 0.26 Release Adds New Models And Server-Side Tools",
-      "summary": "The llm-anthropic 0.26 release has introduced new models, including claude-fable-5, claude-sonnet-5, and claude-opus-5, as well as server-side tools for tasks like web search and code execution. These additions are designed to work seamlessly with LLM 0.32, expanding the capabilities of the platform.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-04T22:00:58+00:00"
-    },
-    {
-      "headline": "LLM 0.32 Release Now Available With Enhanced Features",
-      "summary": "The LLM 0.32 release has been announced, featuring a range of new features and improvements, including support for reasoning traces and redesigned logging. This update is the most significant since the initial launch of the project, offering users a more powerful and efficient toolset.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/4/llm/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-04T17:15:33+00:00"
-    },
-    {
-      "headline": "SIMD Viterbi Decoder In Rust Offers High-Performance Error Correction",
-      "summary": "A developer has created a SIMD Viterbi decoder in Rust, a templated and generic solution for convolutional codes that leverages Rust's std::simd for high-performance decoding. This project demonstrates the potential of Rust for building efficient and scalable error correction tools.",
-      "category": "Tech/AI",
-      "relevance": 7,
       "url": "https://github.com/brian-armstrong/fec",
       "source": "Hacker News",
       "published": "2026-08-04T22:37:05+00:00"
     },
     {
-      "headline": "Europe's Heat Wave Exacerbates Drought, Wildfires, And Energy Concerns",
-      "summary": "The ongoing heat wave in Europe is having a devastating impact, from fueling deadly wildfires in Greece to exposing buried history and threatening energy supplies. The extreme weather is also causing nuclear reactors to face cooling risks, highlighting the urgent need for climate resilience measures.",
+      "headline": "Over 170 Migrants Rescued After Boat Catches Fire in the Channel",
+      "summary": "A dramatic rescue operation was undertaken after a boat carrying migrants caught fire in the Channel, with all passengers rescued and set to be returned to France. The incident highlights the ongoing challenges and risks associated with migrant crossings in the region.",
       "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-      "source": "NPR News",
-      "published": "2026-08-04T12:37:38-04:00"
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T10:11:51.803Z"
     },
     {
-      "headline": "AI-Driven Cybercrime Surges In Africa, With Scams On The Rise",
-      "summary": "According to Interpol, more than half of cybercrime in Africa is now fueled by AI, with scams increasing at an alarming rate. This trend poses significant challenges for law enforcement and cybersecurity efforts, as AI-powered attacks become more sophisticated and widespread.",
+      "headline": "DuckDB Now Available in Clojure, Expanding Data Power Tools",
+      "summary": "The popular DuckDB platform has been made available in Clojure, providing users with a powerful tool for data analysis and manipulation. This development enables Clojure developers to leverage DuckDB's capabilities, enhancing their ability to work with data on their laptops.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "source": "Hacker News",
+      "published": "2026-08-04T22:09:43+00:00"
+    },
+    {
+      "headline": "US States Sue to Block Trump-Era Tariffs Affecting Multiple Countries",
+      "summary": "A group of US states has filed a lawsuit to block tariffs imposed by the Trump administration, which have had a significant impact on trade with dozens of countries. The tariffs were initially introduced in response to concerns over forced labor practices in several nations.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T02:00:00.318Z"
+    },
+    {
+      "headline": "Colombia Enacts Landmark Bill Banning Female Genital Mutilation",
+      "summary": "In a major step forward, Colombia has passed a bill outlawing female genital mutilation, a practice that has been prevalent in certain indigenous communities. The new legislation aims to protect vulnerable individuals and promote greater awareness and understanding of the issue.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T23:13:01.587Z"
+    },
+    {
+      "headline": "AI Transition Raises Concerns for Workers in the Philippines' Outsourcing Industry",
+      "summary": "The increasing adoption of AI is transforming the outsourcing industry in the Philippines, leaving many workers uncertain about their future prospects. As automation replaces certain jobs, there are growing concerns about the potential impact on employment and the need for workers to adapt to new technologies.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T22:10:00.638Z"
+    },
+    {
+      "headline": "Ukrainian street vendor killed in Russian drone 'human safari' attack",
+      "summary": "A Russian drone chased a Kherson street vendor before detonating, killing the vegetable seller. The video underscores the ruthless tactics employed in the ongoing war.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T19:07:19+00:00"
+    },
+    {
+      "headline": "Dr. David Strain offers practical guardrails against spiritual apathy",
+      "summary": "Strain outlines how Christians can counter spiritual laziness by leaning on the means of grace and regular community life. He stresses consistent worship, sacraments, and fellowship as essential safeguards.",
+      "category": "Faith",
+      "relevance": 7,
+      "url": "https://tabletalkmagazine.com/posts/how-can-we-guard-against-spiritual-apathy/",
+      "source": "Tabletalk",
+      "published": "2026-08-05T04:00:15+00:00"
+    },
+    {
+      "headline": "Therapy at the Club blends glossy 2000s pop‑R&B with self‑reflection",
+      "summary": "The UK trio's second album pairs plush harmonies with early‑2000s pop‑R&B vibes, urging listeners to feel and own their emotions. Its confident production frames emotional honesty as the ultimate therapeutic experience.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:02:00+00:00"
+    },
+    {
+      "headline": "Rust language team adopts policy for large language model use",
+      "summary": "The Rust project announced new guidelines governing LLM‑generated code and tooling to protect security and code quality. The policy sets standards for contributions that rely on AI assistance.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
       "source": "Hacker News",
-      "published": "2026-08-04CEST12:19:51+02:00"
+      "published": "2026-08-05T05:52:24+00:00"
     },
     {
-      "headline": "Waymo Expands To Dallas, Offering Autonomous Ride-Hailing Services",
-      "summary": "Waymo has announced its expansion to Dallas, introducing its autonomous ride-hailing services to the city. This move marks a significant milestone in the company's efforts to bring self-driving technology to more people, with Dallas becoming the latest city to benefit from Waymo's innovative transportation solutions.",
+      "headline": "MiniMax‑H3 launches as a general‑purpose omni‑modal generator",
+      "summary": "MiniMax released MiniMax‑H3, a model that accepts text, images, audio, and video to create up to 15‑second video clips with sound. The open‑source Python package demonstrates versatile multi‑modal generation capabilities.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-04T19:10:09+00:00"
+    },
+    {
+      "headline": "Study compares Zigbee and Matter‑over‑Thread IoT performance",
+      "summary": "An arXiv paper benchmarks Zigbee against Matter‑over‑Thread in real‑world IoT setups, measuring latency, power draw, and reliability. Findings show Matter generally delivers higher throughput while using comparable energy.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://arxiv.org/abs/2603.04221",
+      "source": "Hacker News",
+      "published": "2026-08-05T00:10:37+00:00"
+    },
+    {
+      "headline": "Willow’s The Thread pushes genre‑bending logic into a cohesive groove",
+      "summary": "Multi‑instrumentalist Willow returns with a second album this year, weaving eclectic textures into a self‑referential soundscape. The record finds its groove by embracing an esoteric logic that rewards close listening.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/willow-the-thread/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:00:00+00:00"
+    },
+    {
+      "headline": "WebKit bug leaks IP and DNS data, compromising proxy browsers and iCloud Private Relay",
+      "summary": "Researchers uncovered a WebKit flaw that exposes users' IP addresses and DNS queries, undermining privacy tools like proxy browsers and Apple's Private Relay. The discovery has spurred urgent patches to restore expected anonymity.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "source": "Hacker News",
+      "published": "2026-08-04 00:00:00 &#43;0000 UTC"
+    },
+    {
+      "headline": "Senate Democrats say banks ignored Jeffrey Epstein’s suspicious transfers",
+      "summary": "A Senate report alleges major banks failed to flag dubious transactions linked to Epstein until after his 2019 arrest. The oversight raises concerns about the effectiveness of financial anti‑money‑laundering controls.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
+      "source": "NPR News",
+      "published": "2026-08-04T13:43:06-04:00"
+    },
+    {
+      "headline": "What could happen if a SpaceX rocket collides with the Moon?",
+      "summary": "Scientists examine the potential impact of a SpaceX launch vehicle striking the lunar surface, noting the Moon’s long history of absorbing collisions. They suggest the event could yield valuable data on crater formation and debris behavior.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T09:13:37.240Z"
+    },
+    {
+      "headline": "Soldier Opens Fire in Crimea, Leaves Four Dead",
+      "summary": "A Russian-installed governor said the gunman, a soldier, was detained after shooting fellow troops and civilians in the occupied peninsula. The attack left four people dead and prompted a security clampdown.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T09:23:06.162Z"
+    },
+    {
+      "headline": "Landslide Crushes Monastery Worshippers in Ethiopia",
+      "summary": "A sudden slide of rock and earth struck a mountain monastery during an overnight prayer service, killing dozens. Authorities said the disaster buried worshippers as they gathered for worship.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T10:00:02.440Z"
+    },
+    {
+      "headline": "Waymo Expands Autonomous Ride Service to All Dallas Riders",
+      "summary": "Waymo announced its self-driving car fleet is now open to the general public across Dallas, removing previous rider restrictions. The move follows months of testing and aims to accelerate adoption of autonomous mobility.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
@@ -183,17 +300,8 @@
       "published": "2026-08-04T18:29:41+00:00"
     },
     {
-      "headline": "Colombia Passes Historic Ban on Indigenous Female Genital Mutilation",
-      "summary": "The new law makes FGM illegal nationwide, targeting a practice still carried out by some indigenous communities. It follows a personal testimony of a mother whose infant was mutilated without her knowledge, sparking public outrage.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T23:13:01.587Z"
-    },
-    {
-      "headline": "Indian Women Protesters Face Online Doxxing and Slut‑Shaming",
-      "summary": "Participants in the CJP “cockroach” demonstration reported harassment and personal data leaks after sharing their experiences. The abuse highlights the hostile environment for activists speaking out on gender issues.",
+      "headline": "Indian Women Protesters Face Online Harassment After 'Cockroach' Slur",
+      "summary": "Several women who joined the CJP protest reported being doxxed, slut-shamed, and threatened for sharing their experiences online. The BBC highlighted how social media abuse is being used to silence dissent.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
@@ -201,35 +309,44 @@
       "published": "2026-08-04T22:28:30.272Z"
     },
     {
-      "headline": "Russian Drone Chases Kherson Street Vendor Before Exploding",
-      "summary": "Footage shows a Russian UAV pursuing a vegetable seller in the Kherson region, then detonating near him. The incident underscores the growing use of drones to target civilians in the conflict.",
+      "headline": "Trump Stumbles as Key Allies Turn Against Him",
+      "summary": "Former President Donald Trump confronted two significant setbacks within days, undermining his political influence. BBC analyst Anthony Zurcher notes the losses signal a shift among traditional Republican supporters.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/clye173d533o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-04T19:07:19+00:00"
+      "published": "2026-08-03T23:54:26.616Z"
     },
     {
-      "headline": "Scottish Band Returns After Decade with Uplifting ‘Ever the Optimist’",
-      "summary": "The group's first album in ten years blends elegant melodies with a hopeful tone while acknowledging the passage of time. The release feels especially poignant after guitarist John Douglas’s recent death.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/trashcan-sinatras-ever-the-optimist/",
-      "source": "Pitchfork",
-      "published": "2026-08-05T04:03:00+00:00"
+      "headline": "Guatemala Orders Evacuations Amid Explosive Fuego Volcano Eruption",
+      "summary": "The Fuego volcano erupted, spewing ash and lava toward nearby towns in Escuintla, Chimaltenango, and Sacatepéquez. Authorities urged residents to flee as the eruption threatened thousands.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-04T16:50:07+00:00"
     },
     {
-      "headline": "UK Trio Delivers Glossy 2000s Pop‑R&B Vibes on ‘Therapy at the Club’",
-      "summary": "The second album revels in self‑confidence, pairing plush harmonies with retro production. It captures the joy of feeling good in a polished, nostalgic soundscape.",
-      "category": "Music",
+      "headline": "Downstream Ease vs. Upstream Struggle: A Moral Metaphor",
+      "summary": "The piece draws a parallel between the effortless flow of a boat downstream and the difficulty of rowing upstream, likening it to the ease of sin versus the challenge of pursuing holiness. It invites readers to reflect on moral direction.",
+      "category": "Faith",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/flo-therapy-at-the-club/",
-      "source": "Pitchfork",
+      "url": "https://www.challies.com/articles/cruising-downstream-laboring-upstream/",
+      "source": "Challies",
       "published": "2026-08-05T04:02:00+00:00"
     },
     {
+      "headline": "When Parenting Exhausts, Pastoral Ministry Offers Hope",
+      "summary": "The article reminds believers that even in long, tiring days, God's presence remains steadfast. It encourages pastors to support families navigating the hardships of child-rearing.",
+      "category": "Faith",
+      "relevance": 6,
+      "url": "https://www.9marks.org/article/pastoral-ministry-when-parenting-gets-hard/?utm_source=rss&utm_medium=rss&utm_campaign=pastoral-ministry-when-parenting-gets-hard",
+      "source": "9Marks",
+      "published": "2026-08-04T16:33:57+00:00"
+    },
+    {
       "headline": "Microsoft’s Earnings Reveal Strategic Clarity and Cost Discipline",
-      "summary": "The latest results show Microsoft cutting expenses while executing a focused product strategy that drives tangible value. However, the underlying competitive pressure from rivals like Meta raises deeper concerns.",
+      "summary": "Microsoft reported strong results, highlighting a clear strategy, reduced expenses, and tangible product impact. The analysis warns that the underlying competitive dynamics could become more daunting.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
@@ -237,44 +354,44 @@
       "published": "2026-08-04T10:00:00+00:00"
     },
     {
-      "headline": "Benchmark Study Compares Zigbee and Matter Over Thread in Real‑World IoT",
-      "summary": "Researchers evaluate latency, reliability, and power use of the two protocols across typical smart‑home devices. The findings help developers choose the most efficient stack for future deployments.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://arxiv.org/abs/2603.04221",
-      "source": "Hacker News",
-      "published": "2026-08-05T00:10:37+00:00"
-    },
-    {
-      "headline": "Trump Warns Iran of Severe Retaliation if Hormuz Remains Blocked",
-      "summary": "The former president warned of a hard‑hit response while U.S. officials reported progress in talks to reopen the Strait of Hormuz. Oil prices have dipped amid uncertainty over the shipping lane.",
+      "headline": "Ballistic Missile Attack on Kyiv Leaves 17 Dead",
+      "summary": "Russian forces launched a ballistic missile at the Kyiv region, killing at least 17 people, according to the city’s military administration. The strike is described as another massive assault on the capital’s outskirts.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-04T14:58:16.781Z"
+      "published": "2026-08-05T01:35:29.107Z"
     },
     {
-      "headline": "Willow’s ‘The Thread’ Weaves Genre‑Defying Soundscapes in Second 2026 Release",
-      "summary": "The multi‑instrumentalist explores an esoteric logic that binds disparate styles into a cohesive groove. The album pushes boundaries while maintaining a distinct, personal aesthetic.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/willow-the-thread/",
-      "source": "Pitchfork",
-      "published": "2026-08-05T04:00:00+00:00"
-    },
-    {
-      "headline": "WebKit Bug Exposes IP and DNS Data in Proxy Browsers and iCloud Private Relay",
-      "summary": "A newly discovered vulnerability allows browsers using WebKit to leak network information, compromising privacy tools. The issue affects both standard proxy setups and Apple’s Private Relay service.",
+      "headline": "Tiny $8 ESP32‑S3 Powers a Self‑Learning Model",
+      "summary": "Researchers built a small language model using an ESP32‑S3 microcontroller that costs about $8, proving useful AI can run on ultra‑low‑cost hardware. The GitHub project delivers basic task performance while keeping power consumption and expense minimal.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "url": "https://github.com/Carloscodix/qapla",
       "source": "Hacker News",
-      "published": "2026-08-04 00:00:00 &#43;0000 UTC"
+      "published": "2026-08-05T04:07:27+00:00"
     },
     {
-      "headline": "Ukraine Strikes Wildberries Outlets, Killing Five in Moscow Region",
-      "summary": "Ukrainian drones hit facilities of Russia's largest online retailer in Moscow, St Petersburg and Tver, causing five deaths. The attacks illustrate Kyiv's tactic of targeting commercial assets tied to the Russian economy.",
+      "headline": "tiarn’s New Album Refines Folk Collage with Sharper Songcraft",
+      "summary": "Australian folk and sound‑collage artist tiarn releases her sophomore record, offering clearer, more structured songs without abandoning her signature impressionistic glow. The album balances lyrical focus with the dreamy textures that defined her earlier work.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/hana-stretton-tiarn/",
+      "source": "Pitchfork",
+      "published": "2026-08-05T04:01:00+00:00"
+    },
+    {
+      "headline": "Bending Spoons Acquires Airtable for $1.28 Billion Cash Deal",
+      "summary": "Mobile‑app developer Bending Spoons announced its first post‑IPO acquisition, buying spreadsheet‑database startup Airtable for $1.28 billion in cash. The purchase expands Bending Spoons’ enterprise portfolio after Airtable previously raised over $1.4 billion.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "source": "Daring Fireball",
+      "published": "2026-08-04T11:30:56+00:00"
+    },
+    {
+      "headline": "Ukrainian Strikes Target Wildberries Outlets, Five Killed in Moscow Region",
+      "summary": "Ukraine’s campaign against Russian logistics hit additional Wildberries retail sites in St Petersburg and Tver, adding to a recent attack that killed five people in the Moscow region. The strikes aim to disrupt the country’s largest e‑commerce platform amid the broader conflict.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
@@ -282,8 +399,8 @@
       "published": "2026-08-04T07:20:40.401Z"
     },
     {
-      "headline": "Patriot Missile Shortage Looms as Russia, Iran Outpace Production",
-      "summary": "The United States and allies are scrambling for Patriot interceptors to defend against ballistic missiles across multiple fronts. However, firing rates by Russia and Iran exceed current manufacturing capacity, threatening a critical supply gap.",
+      "headline": "Patriot Missile Shortage Stretches as Ukraine and Middle East Demand Surge",
+      "summary": "The United States and allies are racing to supply Patriot interceptors to Ukraine and Middle Eastern partners, but production lags behind the rapid firing rates of Russia and Iran. This imbalance threatens the ability to defend against increasingly frequent ballistic missile attacks.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
@@ -291,152 +408,35 @@
       "published": "2026-08-04T14:01:04-04:00"
     },
     {
-      "headline": "Gaza Holds Mass Funeral for 112 Victims of 2023 Israeli Strike",
-      "summary": "Families gathered in Gaza City to bury 112 Palestinians whose remains were only recently recovered from collapsed buildings. The ceremony underscores the lingering human toll of the war's deadliest attacks.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T13:59:24.376Z"
-    },
-    {
-      "headline": "Senate Democrats Fault Banks for Ignoring Epstein's Suspicious Transfers",
-      "summary": "A Democratic Senate report alleges major banks delayed filing suspicious activity reports on Jeffrey Epstein's transactions until after his 2019 arrest. The findings point to regulatory lapses that allowed illicit money flows to go unchecked.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-      "source": "NPR News",
-      "published": "2026-08-04T13:43:06-04:00"
-    },
-    {
-      "headline": "From Centered Divs to Sidebars: How Browser Evolution Complicated Layouts",
-      "summary": "A Hacker News post recounts how developers finally mastered CSS centering, only to face new challenges as browsers introduced sidebars that disrupt simple layouts. The discussion highlights the ongoing tension between web standards and browser implementations.",
+      "headline": "Munich Grants Six‑Month Funding to libexpat Open‑Source Project",
+      "summary": "The City of Munich is sponsoring the libexpat XML parser with up to six months of financial support to sustain critical infrastructure for public digital services. The move highlights municipal investment in maintaining essential open‑source libraries.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://seg6.space/posts/center-div/",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
       "source": "Hacker News",
-      "published": "2026-08-04T22:24:00+00:00"
+      "published": "2026-08-04T23:18:12+00:00"
     },
     {
-      "headline": "Gunman Opens Fire in Occupied Crimea, Killing Four Soldiers and Civilians",
-      "summary": "In Russian‑controlled Crimea, a soldier turned shooter killed four before being detained by authorities. The incident raises concerns about security and discipline within the occupying forces.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c80n33lrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T09:23:06.162Z"
-    },
-    {
-      "headline": "Landslide Crushes Worshippers at Ethiopian Mountain Monastery",
-      "summary": "A sudden landslide swept onto a monastery in Ethiopia during an overnight prayer service, burying dozens of attendees. Officials attribute the tragedy to unstable terrain exacerbated by heavy rains.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c2lqpx1qd8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T10:00:02.440Z"
-    },
-    {
-      "headline": "States Challenge Trump-Era Forced‑Labor Tariffs in Federal Court",
-      "summary": "Several U.S. states have sued to block tariffs imposed on over 60 trading partners for alleged forced‑labor practices. The lawsuit argues the duties harm local economies and exceed executive authority.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T02:00:00.318Z"
-    },
-    {
-      "headline": "AI Upset in Philippines Outsourcing: Workers Fear Job Extinction",
-      "summary": "Rapid AI adoption is disrupting the Philippines' BPO sector, leaving many employees anxious about redundancy. Industry leaders are debating retraining strategies to reshape the country's export‑driven labor model.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cgr7nxve05go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T22:10:00.638Z"
-    },
-    {
-      "headline": "Kenyan Elephant Die‑Off Sparks Pesticide Controversy",
-      "summary": "A spate of unexplained elephant deaths in Kenya has been linked by officials to pesticide exposure, though wildlife experts remain skeptical. Ongoing investigations aim to determine the true cause behind the alarming mortality surge.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T23:12:55.892Z"
-    },
-    {
-      "headline": "Fuego Volcano Erupts, Prompting Mass Evacuations in Guatemala",
-      "summary": "The sudden blast from Fuego forced residents in the surrounding departments of Escuintla, Chimaltenango and Sacatepéquez to flee. Authorities are coordinating shelters as ash and lava threaten nearby communities.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T16:50:07+00:00"
-    },
-    {
-      "headline": "Deadly Avalanche Claims Legendary Mountaineer, Shakes Nepal's Climbing Scene",
-      "summary": "An avalanche in Pakistan took the life of a famed guide, dealing a heavy blow to the region's elite climbing community. Fellow sherpas say the loss will reverberate through generations of aspiring mountaineers.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cm2ge4dnj80o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T22:09:50.912Z"
-    },
-    {
-      "headline": "Russian Drone Pursues Ukrainian Street Vendor in Alleged War Crime",
-      "summary": "Footage shows a civilian being chased by a remote‑controlled drone, which Ukrainian officials label a \"human safari\" attack. Kyiv says the incident violates international law and constitutes a war crime.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T16:11:59.585Z"
-    },
-    {
-      "headline": "MiniMax Unveils Omni‑Modal AI System Capable of Generating Video",
-      "summary": "The new MiniMax‑H3 model can ingest text, images, audio, and video to produce up to 15‑second clips with sound. The open‑source Python library aims to broaden generative AI applications beyond static media.",
+      "headline": "Pi's Minimalism Is Its Advantage",
+      "summary": "",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-04T19:10:09+00:00"
+      "relevance": 6,
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "source": "Hacker News",
+      "published": "2026-08-04T22:22:12+00:00"
     },
     {
-      "headline": "tiarn Releases Second Album, Melding Folk Narrative with Collage Soundscapes",
-      "summary": "Australian artist tiarn delivers clearer song structures while retaining the dreamy, impressionistic textures of earlier work. Critics note the record balances lyrical focus with experimental production.",
-      "category": "Music",
+      "headline": "Challies’ August 5 ‘A La Carte’ Mixes Faith, Culture, and Commentary",
+      "summary": "The latest edition tackles topics from transgender issues and Christian identity to gaming and gambling, offering a blend of theological reflection and cultural critique. Readers encounter essays, reviews, and personal insights across a wide spectrum.",
+      "category": "Faith",
       "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/hana-stretton-tiarn/",
-      "source": "Pitchfork",
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-august-5-2026/",
+      "source": "Challies",
       "published": "2026-08-05T04:01:00+00:00"
     },
     {
-      "headline": "SpaceX Reports Revenue Growth Amid Stock Decline, Funds Rocket and AI Projects",
-      "summary": "Following its June public offering, SpaceX disclosed higher earnings while its share price slipped. Executives said cash is being funneled into next‑gen rockets, Starlink satellites, and artificial‑intelligence initiatives.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-      "source": "NPR News",
-      "published": "2026-08-04T18:02:03-04:00"
-    },
-    {
-      "headline": "EU Applauds Spain for Rapid Return of Migrants from Ceuta",
-      "summary": "Spain says it has deported roughly 70,000 of the 72,000 irregular arrivals to Morocco within a week. The swift action earned commendation from EU officials for preventing a larger humanitarian strain.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-04T15:36:53.646Z"
-    },
-    {
-      "headline": "House Ethics Panel Opens Probe into Ohio Rep. Max Miller Over Domestic Violence Allegations",
-      "summary": "The committee is reviewing claims that Miller may have engaged in domestic abuse, which he denies. The investigation comes as he seeks a third term in Congress.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-      "source": "NPR News",
-      "published": "2026-08-04T15:40:02-04:00"
-    },
-    {
-      "headline": "MLS Appoints LAFC Co‑Owner Larry Berg as New Commissioner",
-      "summary": "Owners selected Berg, known for running one of the league’s most efficient clubs, to steer MLS into a modern era. He is expected to champion rule changes and growth strategies for the sport.",
+      "headline": "MLS Appoints LAFC Owner Larry Berg as New Commissioner",
+      "summary": "Major League Soccer selected Larry Berg, co‑owner of the well‑run LAFC, to lead the league, citing his deep soccer background and openness to modernizing rule changes. His tenure is expected to push MLS toward further growth and innovation.",
       "category": "Sports",
       "relevance": 4,
       "url": "https://www.npr.org/2026/08/05/nx-s1-5919621/mls-commissioner-larry-berg-major-league-soccer",
@@ -444,13 +444,13 @@
       "published": "2026-08-05T00:00:00-04:00"
     },
     {
-      "headline": "Retail Traders Turn to 3‑X Leverage Products After 2‑X Options Restricted",
-      "summary": "Following recent market setbacks, investors are gravitating toward higher‑risk, triple‑leverage instruments as brokers limit two‑times offerings. The shift raises concerns about heightened exposure among non‑professional traders.",
+      "headline": "‘Yours Truly’ Reflects on Unexpected Enjoyment of TBPN Appearance",
+      "summary": "In a personal note, the author recounts being surprised by how much they liked guesting on the TBPN podcast despite initial doubts. The piece highlights the value of stepping outside one’s comfort zone.",
       "category": "Other",
       "relevance": 2,
-      "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
-      "source": "Hacker News",
-      "published": "2026-08-05T06:43:00+0900"
+      "url": "https://www.youtube.com/live/ruL8Q-TsbbI?t=4085",
+      "source": "Daring Fireball",
+      "published": "2026-08-04T18:34:06+00:00"
     }
   ]
 }
