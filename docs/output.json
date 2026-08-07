@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-07T12:27:12.994797+00:00",
+  "generated_at": "2026-08-07T13:56:37.156787+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Putting Faith into the 9‑to‑5: How Christians Live the Gospel at Work",
-      "summary": "Believers are called to mirror Christ’s character in their daily jobs, from ethical decisions to how they treat coworkers. The article argues that workplace conduct can be a powerful witness when it aligns with biblical values.",
+      "headline": "Living the Gospel at Work",
+      "summary": "Christians can let Christ’s character shine through their work ethic, business conduct, and interpersonal dynamics. The article urges believers to view their jobs as platforms for embodying the gospel.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/living-gospel-work/",
@@ -12,8 +12,17 @@
       "published": "2026-08-07T04:04:00+00:00"
     },
     {
-      "headline": "When Your Child Leaves College: Finding Gospel Hope in Parenting’s Heartache",
-      "summary": "A father reflects on the emotional toll of his son moving ten hours away and wonders how God can redeem the unique pains of parenting. The piece explores biblical comfort and purpose amid the inevitable losses of time and distance.",
+      "headline": "Pastoring Those with Differing Views on God’s Sovereignty in Salvation",
+      "summary": "True hope rests not on personal resolve or moral strength but on Christ’s finished work and God’s promises. Pastors are called to anchor believers in that unshakeable foundation despite theological disagreements.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.9marks.org/article/pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation/?utm_source=rss&utm_medium=rss&utm_campaign=pastoring-those-with-differing-views-on-gods-sovereignty-in-salvation",
+      "source": "9Marks",
+      "published": "2026-08-07T06:12:47+00:00"
+    },
+    {
+      "headline": "Gospel Hope for College Drop‑Off",
+      "summary": "A parent wrestles with the heartache of sending a child far from home and asks how God redeems such parenting pains. The piece reflects on divine redemption in the bittersweet moments of family transition.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/article/gospel-hope-college-drop-off/",
@@ -21,17 +30,17 @@
       "published": "2026-08-07T04:00:00+00:00"
     },
     {
-      "headline": "OpenAI’s 28‑Page Motion Tries to Shut Down Apple’s Misappropriation Claim",
-      "summary": "In a terse filing, OpenAI argues Apple’s complaint lacks any factual basis for a misappropriation claim, calling it “nothing.” The defense seeks dismissal on the grounds that the plaintiff offers no viable cause of action.",
+      "headline": "Making Postgres 300× Faster for Analytics",
+      "summary": "New engineering tricks—batching, operator fusion, and SIMD vectorization—boost PostgreSQL’s analytical query speed by hundreds of times. The write‑up details how these changes reshape the database’s query engine.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf",
-      "source": "Daring Fireball",
-      "published": "2026-08-06T21:13:04+00:00"
+      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
+      "source": "Hacker News",
+      "published": "2026-08-03T10:00:39+00:00"
     },
     {
-      "headline": "vLLM Dissected: Inside the Engine Powering High‑Throughput LLM Inference",
-      "summary": "The article breaks down vLLM’s architecture, showing how it achieves massive parallelism and low latency for large language models. It highlights key design choices that enable scaling to thousands of requests per second.",
+      "headline": "Inside vLLM: Anatomy of a High‑Throughput LLM Inference System (2025)",
+      "summary": "The article dissects vLLM’s architecture that delivers massive parallel inference for large language models. It highlights design choices that maximize throughput while keeping latency low.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://www.aleksagordic.com/blog/vllm",
@@ -39,26 +48,8 @@
       "published": "2026-08-06T21:30:21+00:00"
     },
     {
-      "headline": "AMD Buys Taalas to Embed AI Models Directly into Silicon",
-      "summary": "AMD announced the acquisition of Taalas, aiming to improve inference speed by hard‑wiring neural networks onto its chips. The move signals a push toward hardware‑level AI acceleration for enterprise workloads.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "source": "Hacker News",
-      "published": "2026-08-06T20:05:00.000Z"
-    },
-    {
-      "headline": "U.N. Warns of Mass Atrocities as Drone Strikes Ravage Sudan’s El‑Obeid",
-      "summary": "Hundreds of thousands in El‑Obeid endure daily drone attacks, severe water shortages, and a cholera outbreak, while sexual violence spikes. The United Nations cautions that the city is on the brink of a large‑scale humanitarian disaster.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
-      "source": "NPR News",
-      "published": "2026-08-07T05:00:00-04:00"
-    },
-    {
-      "headline": "OpenAI Rolls Out GPT‑5.6 Sol Upgrade and Free Luna Access",
-      "summary": "OpenAI announces performance enhancements to its GPT‑5.6 Sol model within ChatGPT and opens the GPT‑5.6 Luna variant to all free‑tier users. The update promises faster responses and broader availability of advanced capabilities.",
+      "headline": "Improving GPT‑5.6 Sol in ChatGPT, Expanding GPT‑5.6 Luna Access for Free Users",
+      "summary": "OpenAI announces performance upgrades to its GPT‑5.6 model and opens the Luna tier to free‑account holders. The rollout promises faster responses and broader availability of advanced features.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
@@ -66,8 +57,8 @@
       "published": "2026-08-06T17:02:04+00:00"
     },
     {
-      "headline": "We’re Living in an Era Dominated by Lies, Even Amid ‘Post‑Truth’ Claims",
-      "summary": "The author argues that deception has intensified in modern times, despite the cultural narrative of increased transparency. By tracing historical patterns, the piece suggests today’s “post‑truth” climate amplifies falsehoods more than ever.",
+      "headline": "Living in the Era of the Lie",
+      "summary": "The author argues that falsehoods dominate modern culture even as we label the age ‘post‑truth.’ Deception, they claim, is more prominent now than in any previous biblical era.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.challies.com/book-reviews/living-in-the-era-of-the-lie/",
@@ -75,8 +66,17 @@
       "published": "2026-08-07T04:02:00+00:00"
     },
     {
-      "headline": "Blue Island: Dahi Returns with ’80s‑Infused Pop, Rock, and R&B",
-      "summary": "Singer Dahi reunites with collaborators on “Blue Island,” delivering smooth, retro‑styled tracks that blend pop, rock, and R&B. The album expands her melodic range, showcasing new creative directions.",
+      "headline": "What’s Worse: Pride or Pain?",
+      "summary": "While Scripture condemns pride, many underestimate its destructive power. The piece describes pride as a hidden poison that blinds, fuels deceit, and breeds hypocrisy.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://tabletalkmagazine.com/posts/whats-worse-pride-or-pain/",
+      "source": "Tabletalk",
+      "published": "2026-08-07T04:00:51+00:00"
+    },
+    {
+      "headline": "Blue Island",
+      "summary": "Dahi returns with a silky, ’80s‑infused mix of pop, rock, and R&B, pushing her sound into new melodic territory. The album showcases her willingness to explore broader musical palettes.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/ravyn-lenae-blue-island/",
@@ -84,8 +84,8 @@
       "published": "2026-08-07T04:03:00+00:00"
     },
     {
-      "headline": "Verbolgen: A Black‑Metal Duo Pushes Bleak Soundscapes into New Territory",
-      "summary": "The third release from the Pacific Northwest‑Belgium partnership delves deeper into traditional black‑metal’s grim atmosphere while injecting fresh inspiration. Critics note its relentless intensity and emotive depth as a standout evolution.",
+      "headline": "Verbolgen",
+      "summary": "The Pacific Northwest‑via‑Belgium duo releases their third album, deepening the bleak, emotive core of traditional black metal. It delivers fresh inspiration while staying true to the genre’s darkness.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/hulder-verbolgen/",
@@ -93,26 +93,17 @@
       "published": "2026-08-07T04:02:00+00:00"
     },
     {
-      "headline": "Experimental Vaccine Shows Promise Against Leading Cause of Child Diarrhea Deaths",
-      "summary": "More than a million people die each year from diarrheal disease, half of them children under five. A new vaccine in clinical trials targeting the primary pathogen could dramatically cut those fatalities.",
+      "headline": "UN Warns of Mass Atrocities as Drone Strikes Ravage Sudan’s El‑Obeid",
+      "summary": "Hundreds of thousands of civilians in El‑Obeid are enduring daily drone bombardments, severe water scarcity, and a cholera outbreak. Women and girls also face soaring rates of sexual violence, prompting the UN to warn of looming mass atrocities.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5921212/el-obeid-sudan-war",
       "source": "NPR News",
-      "published": "2026-08-07T07:36:33-04:00"
-    },
-    {
-      "headline": "Trump Issues Orders on Birthright Citizenship as Iran Threatens U.S. Shipping in Hormuz",
-      "summary": "President Trump signed two executive orders aimed at curbing birth tourism and redefining who qualifies for citizenship by birth. At the same time, Iran announced plans to block U.S. vessels from the strategic Strait of Hormuz, heightening geopolitical tension.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
-      "source": "NPR News",
-      "published": "2026-08-07T06:56:19-04:00"
+      "published": "2026-08-07T05:00:00-04:00"
     },
     {
       "headline": "OpenAI Unveils $300 Doughnut‑Shaped Smart Speaker",
-      "summary": "OpenAI’s new hardware resembles a ring and costs over $300, intended for continuous voice interaction throughout the day. It runs advanced language models to deliver a more human‑like conversational experience than existing phone apps.",
+      "summary": "OpenAI’s new circular speaker is designed for constant daily use, offering voice interactions powered by advanced language models. The pricey device aims to deliver a more human‑like conversational experience than existing ChatGPT voice features.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc4NjA0NjY3NSwiZXhwIjoxNzg2NjUxNDc1LCJhcnRpY2xlSWQiOiJUSjlNQ01UOU5KTFUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.pj0oCNz7Ez90rn67tMWib-ed2PxcUAhAG2-hlVQ_DRg&leadSource=article-gifting",
@@ -120,8 +111,17 @@
       "published": "2026-08-06T23:47:32+00:00"
     },
     {
-      "headline": "Mood Hut Debuts Dreamy Dub‑Infused Album 'In Lieu'",
-      "summary": "Texas‑born producer releases his first Mood Hut record, blending dubwise rhythms with delicate percussive textures. The result is a hypnotic, shimmering soundscape that feels both relaxed and intricately layered.",
+      "headline": "OpenAI Files 28‑Page Motion to Dismiss Apple Patent Suit",
+      "summary": "In a terse filing, OpenAI argues Apple’s complaint lacks any factual basis for a misappropriation claim. The company seeks a swift dismissal, asserting the lawsuit is unfounded.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://storage.courtlistener.com/recap/gov.uscourts.cand.474095/gov.uscourts.cand.474095.59.0.pdf",
+      "source": "Daring Fireball",
+      "published": "2026-08-06T21:13:04+00:00"
+    },
+    {
+      "headline": "Texas Producer’s Debut Mood Hut Album Delivers Dreamy Dub‑Infused Beats",
+      "summary": "The newcomer’s first release on Mood Hut blends dub‑style rhythms with delicate percussive layers, creating a hypnotic, airy texture. Critics note the record’s intricate production and immersive atmosphere.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/gi-gi-in-lieu/",
@@ -129,35 +129,8 @@
       "published": "2026-08-07T04:01:00+00:00"
     },
     {
-      "headline": "Trump Pushes New Executive Orders to Restrict Birthright Citizenship",
-      "summary": "The administration issued orders banning birth tourism and expanding the definition of children ineligible for citizenship. Critics warn the moves could erode the 14th Amendment’s guarantee and affect thousands of families.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-06T22:55:05.888Z"
-    },
-    {
-      "headline": "Add a Control‑Center Shortcut to Jump Directly to an App’s Settings",
-      "summary": "A user‑generated Shortcut lets iOS users tap the Control Center to open the current app’s preferences in Settings, bypassing several taps. The hack, shared on Twitter, can be downloaded from iCloud for quick installation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://x.com/SnazzyLabs/status/1969247088488624253?s=20",
-      "source": "Daring Fireball",
-      "published": "2025-09-20T03:47:47.000Z"
-    },
-    {
-      "headline": "Generative AI Is the New Guitar Hero of Creative Work",
-      "summary": "The article argues that AI tools are reshaping creativity much like a video‑game controller changed music performance. It examines how rapid, low‑cost generation democratizes artistic production while raising questions about originality.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://whatever.scalzi.com/2026/08/06/generative-ai-the-guitar-hero-of-creativity/",
-      "source": "Hacker News",
-      "published": "2026-08-06T20:53:26+00:00"
-    },
-    {
-      "headline": "Frost Fest Mixtape Mixes Lo‑Fi Dance Beats with Underground Pop",
-      "summary": "New York’s underground pop scene releases a mixtape that pairs a slick studio EP with gritty dance tracks from artists like Kuru and Gabrielle Turton. The collection balances polished production with raw, club‑ready energy.",
+      "headline": "Frost Fest Mixtape Showcases NYC’s Lo‑Fi Dance Underground",
+      "summary": "A fresh mixtape pairs a slick studio EP with low‑fi dance tracks from artists like Kuru, Blaketheman1000, and Gabrielle Turton. The compilation highlights the city’s vibrant underground pop scene.",
       "category": "Music",
       "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/frost-children-frost-fest-mixtape/",
@@ -165,44 +138,26 @@
       "published": "2026-08-07T04:00:00+00:00"
     },
     {
-      "headline": "Framework Discloses Massive Data Breach Exploiting Metabase Zero‑Day",
-      "summary": "The modular laptop maker revealed that attackers leveraged an unpatched Metabase vulnerability to access user data. The breach prompted a security overhaul and public disclosure of the incident.",
+      "headline": "Kitesurf: New Agent‑First Browser Isolated Within V8",
+      "summary": "Cloudflare’s Kitesurf browser runs as an agent‑first platform inside the V8 engine, isolating web content for enhanced security. The project aims to reduce attack surfaces by sandboxing each page.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://community.frame.work/t/framework-data-breach-discussion/83939",
+      "url": "https://blog.cloudflare.com/kitesurf/",
       "source": "Hacker News",
-      "published": "2026-08-06T22:37:17+00:00"
+      "published": "2026-08-06T13:00:00.000Z"
     },
     {
-      "headline": "New Orleans Pilots AI‑Driven 911 Triage System",
-      "summary": "The city is evaluating Carbyne’s software that uses artificial intelligence to prioritize emergency calls before human dispatchers. Officials hope the technology will speed response times and reduce dispatcher overload.",
+      "headline": "AMD Acquires Taalas to Embed AI Models Directly in Silicon",
+      "summary": "AMD announced the purchase of Taalas, a startup focused on etching inference‑ready neural networks into chips. The move is intended to boost performance for AI workloads by eliminating software bottlenecks.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
       "source": "Hacker News",
-      "published": "2026-08-07T00:37:30+00:00"
+      "published": "2026-08-06T20:05:00.000Z"
     },
     {
-      "headline": "Trump Rejects Claims of U.S. Arms Shortage, Vows to Track Leakers",
-      "summary": "Trump told reporters that reports of depleted advanced weapons are false and that anyone leaking classified info will be pursued. While officials keep details secret, analysts note the U.S. has exhausted many hard‑to‑make munitions.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-06T14:30:43.268Z"
-    },
-    {
-      "headline": "Why Pride Remains a Hidden Threat to Christians",
-      "summary": "Though Scripture plainly condemns arrogance, many believers downplay its danger because pride blinds judgment. The article cites Puritan Thomas Brooks, calling pride a secret poison that fuels deceit and hypocrisy.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://tabletalkmagazine.com/posts/whats-worse-pride-or-pain/",
-      "source": "Tabletalk",
-      "published": "2026-08-07T04:00:51+00:00"
-    },
-    {
-      "headline": "African Nations Split Over FIFA Chief Gianni Infantino",
-      "summary": "The Confederation of African Football has not issued a formal position, leaving individual countries to voice divergent views on Infantino’s future. Some support his reforms, while others criticize governance concerns.",
+      "headline": "African Nations Remain Split on FIFA President Infantino’s Future",
+      "summary": "While CAF has not issued an official position, individual African football federations are voicing differing opinions on Infantino’s leadership. The debate reflects broader concerns over governance and corruption within FIFA.",
       "category": "Sports",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c78g3glpl8wo?at_medium=RSS&at_campaign=rss",
@@ -210,8 +165,17 @@
       "published": "2026-08-06T17:16:09.442Z"
     },
     {
-      "headline": "Saudi, Turkish, Pakistani Forces Ink Mutual Defence Accord",
-      "summary": "The three nations signed an agreement stating an attack on any member will be treated as an attack on all, amid heightened Middle‑East tensions. Pakistan emphasized collective security as regional conflicts intensify.",
+      "headline": "U.S. Employers Slash 23,000 Jobs, Signaling Weakening Labor Market",
+      "summary": "In July, U.S. firms eliminated 23,000 positions, and revised data shows the prior two months’ hiring gains were lower than first reported. The cuts suggest a cooling of the previously robust employment landscape.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
+      "source": "NPR News",
+      "published": "2026-08-07T09:10:10-04:00"
+    },
+    {
+      "headline": "Saudi Arabia, Turkey, and Pakistan Forge Mutual Defence Agreement",
+      "summary": "The three nations signed a pact pledging collective defense, stating an attack on any member will be treated as an attack on all. The alliance emerges amid heightened tensions in the Middle East.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
@@ -219,8 +183,17 @@
       "published": "2026-08-07T11:02:16.108Z"
     },
     {
+      "headline": "Web‑Server Deployment Model Crumbles at Hobbyist Scale",
+      "summary": "The piece argues that traditional deployment patterns that suit large enterprises falter for hobby projects due to cost, complexity, and scaling limits. It proposes lighter, more flexible alternatives for small‑scale developers.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://w.on-t.work/web-deployment-model",
+      "source": "Hacker News",
+      "published": "2026-08-07T13:15:36+00:00"
+    },
+    {
       "headline": "Simon Willison Explains Why He Keeps Blogging",
-      "summary": "In a recent interview, Willison discusses his origins in technical blogging and the motivations that sustain his writing habit. He highlights the blend of personal curiosity and community engagement that drives his posts.",
+      "summary": "In a recent interview, Willison details his motivations for starting a technical blog and why he continues it, citing learning, community building, and personal growth. He offers practical advice for sustaining a niche blog over time.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging/#atom-everything",
@@ -228,17 +201,35 @@
       "published": "2026-08-06T18:04:39+00:00"
     },
     {
-      "headline": "Betting Platforms on Drug Trials Face Ethics Firestorm",
-      "summary": "Researchers warn that markets like Kalshi and Polymarket could encourage insider trading and disrupt clinical research. The companies argue their platforms give patients useful insights into trial outcomes.",
-      "category": "Tech/AI",
+      "headline": "U.S. Job Market Shrinks by 23,000 in July, Defying Trend",
+      "summary": "July 2026 saw the U.S. lose 23,000 jobs, an unexpected reversal after months of steady gains. Analysts warn the dip could signal a broader slowdown in the labor market.",
+      "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
-      "source": "NPR News",
-      "published": "2026-08-07T06:00:00-04:00"
+      "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+      "source": "Hacker News",
+      "published": "2026-08-07T13:04:06.529Z"
     },
     {
-      "headline": "BMW Says It Won’t Sell Ads on Car Screens",
-      "summary": "Despite expanding infotainment displays, BMW confirmed it has no plans to monetize them with advertising. The decision follows concerns that ads would add to driver distraction already present from radio spots.",
+      "headline": "Trump Issues New Orders to Narrow Birthright Citizenship",
+      "summary": "The administration rolled out executive orders targeting birth‑tourism and redefining who qualifies for citizenship by birth. Critics argue the moves threaten constitutional protections.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-06T22:55:05.888Z"
+    },
+    {
+      "headline": "Trump Targets Birthright Citizenship While Iran Threatens Strait Access",
+      "summary": "Trump signed two orders curbing birthright citizenship, sparking domestic controversy, as Iran announced plans to block U.S. ships from the strategic Strait of Hormuz. Both actions heighten political and geopolitical tensions.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/07/g-s1-137730/up-first-newsletter-trump-birthright-citizenship-iran-oman-strait-of-hormuz-anthony-fauci-mitch-mcconnell",
+      "source": "NPR News",
+      "published": "2026-08-07T06:56:19-04:00"
+    },
+    {
+      "headline": "BMW Says No In‑Vehicle Advertising Despite Expanding Screens",
+      "summary": "BMW confirmed it will not sell ad space on its increasingly large in‑car displays, choosing driver experience over revenue. The stance comes as competitors explore monetizing interior screens.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.mediapost.com/publications/article/391876/bmw-exec-no-plans-to-sell-in-vehicle-ads.html",
@@ -246,17 +237,17 @@
       "published": "2026-08-06T16:46:02+00:00"
     },
     {
-      "headline": "Wildfire Tragedies Prompt Firefighters to Question Safety Policies",
-      "summary": "Recent deaths and near‑misses have left America’s front‑line fire crews emotionally strained and demanding policy changes. The season’s intensity has amplified calls for better resources and mental‑health support.",
+      "headline": "Trump Rejects Claims of U.S. Weapons Shortage, Vows to Hunt Leakers",
+      "summary": "Trump dismissed reports that the United States is running low on advanced weaponry, accusing leaks of endangering security. He warned that individuals responsible for the disclosures are being pursued.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5920418/firefighters-mourn-deaths-intense-wildfire-season",
-      "source": "NPR News",
-      "published": "2026-08-07T05:00:00-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-06T14:30:43.268Z"
     },
     {
-      "headline": "BMW Drivers Outraged as Spider‑Man Ads Appear on Dashboards",
-      "summary": "Owners reported unexpected promotions for the new Spider‑Man film flashing on their vehicle displays, sparking backlash on social media. Critics say the unsolicited ads breach expectations of a premium driving experience.",
+      "headline": "BMW Sparks Outrage With Spider‑Man Ads on Dashboard Displays",
+      "summary": "BMW unexpectedly began pushing Spider‑Man movie ads on newer models' dashboard screens, prompting angry reactions from owners on social media. The incident raises questions about consent and in‑car advertising policies.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.hollywoodreporter.com/movies/movie-news/bmw-spider-man-brand-new-day-ads-1236665172/",
@@ -264,8 +255,8 @@
       "published": "2026-08-06T15:19:01+00:00"
     },
     {
-      "headline": "Ceuta Still Holds Thousands of Migrants After Deadly Border Surge",
-      "summary": "Local officials say over 78,000 migrants crossed from Morocco, resulting in about 100 deaths, and many remain stranded in the Spanish enclave. The ongoing humanitarian strain highlights the region’s fragile border management.",
+      "headline": "Thousands Remain Trapped in Ceuta After Border Crisis, 100 Deaths Reported",
+      "summary": "Following a massive crossing, thousands of migrants are still stranded in the Spanish enclave of Ceuta, with officials estimating about 100 fatalities linked to the influx. The lingering humanitarian emergency underscores ongoing regional tensions.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
@@ -273,17 +264,8 @@
       "published": "2026-08-06T17:36:07.486Z"
     },
     {
-      "headline": "Israeli settler charged with reckless manslaughter in death of West Bank filmmaker",
-      "summary": "Yinon Levy faces a reckless manslaughter charge for the July 2025 shooting of Odeh Hathaleen, a Palestinian who appeared in an Oscar‑nominated documentary about the West Bank. Authorities say the case underscores tensions surrounding settlement violence and media representation.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-06T18:37:12.527Z"
-    },
-    {
-      "headline": "Sudan’s war‑born children left stateless without birth certificates",
-      "summary": "Children conceived through rape during Sudan’s conflict often cannot obtain official birth records, trapping them in a cycle of legal and social marginalisation. Lack of identity hampers access to education, healthcare, and future employment.",
+      "headline": "Sudan’s War‑Born Children Remain Invisible Without Legal Identity",
+      "summary": "Children born from wartime sexual violence in Sudan often lack birth certificates, denying them legal recognition and basic services. The article highlights the enduring hardships these “invisible” children face.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
@@ -291,8 +273,8 @@
       "published": "2026-08-07T00:26:52.786Z"
     },
     {
-      "headline": "Taiwan’s president drills midnight evacuation amid Chinese invasion drills",
-      "summary": "President William Lai participated in a surprise night‑time evacuation exercise as part of broader military simulations aimed at countering a potential mainland assault. The move signals heightened readiness and public messaging on defence preparedness.",
+      "headline": "Taiwan’s President Joins Midnight Evacuation Drill Amid Invasion Prep",
+      "summary": "President William Lai took part in a surprise night‑time evacuation exercise, part of broader military drills aimed at countering a possible Chinese attack. The drill underscores Taipei’s focus on rapid civilian protection in a potential conflict.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
@@ -300,8 +282,8 @@
       "published": "2026-08-07T04:52:19+00:00"
     },
     {
-      "headline": "Datasette 1.0a38 patches critical SQL‑injection flaw",
-      "summary": "The new pre‑release addresses a vulnerability that allowed malicious queries on instances mixing public and private tables under the permissions system. Site operators are urged to upgrade to protect sensitive data.",
+      "headline": "Datasette 1.0a38 Patches Critical SQL Injection Bug",
+      "summary": "The new pre‑release addresses a vulnerability that could let attackers bypass permissions when public and private tables share a database. Administrators are urged to upgrade to protect sensitive data.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://simonwillison.net/2026/Aug/6/datasette/#atom-everything",
@@ -309,8 +291,8 @@
       "published": "2026-08-06T18:24:34+00:00"
     },
     {
-      "headline": "Meta hit with $567 million child‑safety fine, raising total to $942 million",
-      "summary": "A court ordered the social‑media giant to pay an additional $567 million on top of a prior $375 million penalty for violating child‑protection laws. The combined sanction marks the largest financial judgment against a tech company for youth harm.",
+      "headline": "Meta Hit with Record $567 Million Child‑Safety Fine",
+      "summary": "A U.S. court ordered the social‑media giant to pay an additional $567 million, bringing total penalties for the case to $942 million. The sanction follows accusations that Meta failed to protect minors from harmful content.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
@@ -318,26 +300,62 @@
       "published": "2026-08-06T23:34:17.277Z"
     },
     {
-      "headline": "Certo launches open‑source toolkit for issuing and verifying Open Badges",
-      "summary": "The project provides a free framework that supports Open Badges 3.0 and W3C Verifiable Credentials, enabling portable, machine‑readable digital credentials. It aims to give educators and organisations a vendor‑neutral way to manage badge ecosystems.",
+      "headline": "Datasette 0.65.3 Back‑ports SQL Injection Fix",
+      "summary": "The minor release incorporates the security patch introduced in 1.0a38, extending protection to older installations. Users of version 0.65.x should update to close the same vulnerability.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://github.com/schroedinger-Hat/certo",
-      "source": "Hacker News",
-      "published": "2026-08-07T09:10:30+00:00"
+      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-06T18:22:07+00:00"
     },
     {
-      "headline": "Australian crew executes night‑time Antarctic rescue in –43 °C darkness",
-      "summary": "Pilots landed a plane on a blacked‑out runway at McMurdo Station, extracted a critically ill patient, and took off despite extreme cold and zero visibility. The operation showcases the crew’s skill and the logistical challenges of polar medicine.",
+      "headline": "Experimental Vaccine Targets Deadly Diarrheal Illness",
+      "summary": "Trials of a novel vaccine show promise against a leading cause of child mortality, which claims over a million lives annually. If successful, it could dramatically cut deaths among children under five.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T02:07:46.097Z"
+      "url": "https://www.npr.org/2026/08/07/g-s1-137456/diarrhea-disease-vaccine-childhood-deaths-shigella",
+      "source": "NPR News",
+      "published": "2026-08-07T07:36:33-04:00"
     },
     {
-      "headline": "StopTheScript extension praised for blocking intrusive ad‑scripts",
-      "summary": "Jeff Johnson’s StopTheScript, highlighted again on Daring Fireball, continues to receive acclaim for disabling malicious scripts that track users. The author notes growing reader interest in robust content‑blocking tools.",
+      "headline": "iOS Shortcut Puts App Settings Directly in Control Center",
+      "summary": "A community‑crafted Shortcut lets users jump from any app to its preferences page in Settings with a single tap. The hack saves time for power users who frequently tweak app configurations.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://x.com/SnazzyLabs/status/1969247088488624253?s=20",
+      "source": "Daring Fireball",
+      "published": "2025-09-20T03:47:47.000Z"
+    },
+    {
+      "headline": "Tech Industry’s Growing Mood‑Disorder: A Deep Dive",
+      "summary": "An article explores the rising sense of burnout, anxiety, and dissatisfaction among tech workers. Contributors point to relentless pace, remote‑work isolation, and ethical dilemmas as key drivers.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "source": "Hacker News",
+      "published": "2026-08-06T13:10:48+00:00"
+    },
+    {
+      "headline": "Betting Platforms Face Backlash Over Clinical‑Trial Markets",
+      "summary": "Critics warn that wagering on drug trials could create insider‑trading incentives and jeopardize research integrity. The platforms argue their markets give patients early insight into trial outcomes.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922530/patients-betting-kalshi-polymarket-clinical-trials",
+      "source": "NPR News",
+      "published": "2026-08-07T06:00:00-04:00"
+    },
+    {
+      "headline": "Trump Administration Pays $1.2 B to Cancel US Wind Projects",
+      "summary": "The U.S. government agreed to a $1.2 billion settlement with Germany’s RWE to stop several offshore wind developments. The deal reflects the former administration’s skepticism toward renewable energy.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T09:50:54.651Z"
+    },
+    {
+      "headline": "StopTheScript Extension Earns Praise as Ad‑Block Hero",
+      "summary": "Jeff Johnson’s StopTheScript tool continues to receive strong community support for blocking intrusive ads and scripts. Recent coverage highlights its effectiveness compared to newer content‑blocking solutions.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://underpassapp.com/StopTheScript/",
@@ -345,26 +363,8 @@
       "published": "2026-08-06T15:55:38+00:00"
     },
     {
-      "headline": "New Mexico orders Meta to pay $567 million for youth mental‑health damages",
-      "summary": "The state court ruled the platform’s design contributed to psychological harm among minors, adding to earlier penalties and bringing total fines near $942 million. The decision could set precedent for future tech‑liability cases.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "source": "Hacker News",
-      "published": "2026-08-07T02:24:50.000Z"
-    },
-    {
-      "headline": "Jharkhand sees surge in youth protests over jobs after Delhi ‘cockroach’ movement",
-      "summary": "Following the high‑profile CJP demonstrations in the capital, students in Jharkhand have organized a fresh agitation demanding transparent recruitment and employment opportunities. The movement is rapidly gaining momentum across the state’s colleges.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T08:32:57.286Z"
-    },
-    {
-      "headline": "Parents Keep Propping Up Grown Kids as Living Costs Soar",
-      "summary": "Polls show most Americans believe today’s young adults face tougher finances than previous generations. A sizable share of parents are paying for their children’s bills, even when it strains their own budgets.",
+      "headline": "Parents Keep Funding Grown Kids as Living Costs Soar",
+      "summary": "Polls reveal most Americans believe today’s young adults face tougher finances than previous generations. A sizable share of parents are paying for their adult children’s bills, even when it strains their own budgets.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/07/nx-s1-5876223/cost-of-living-parents-adult-children-financial-support",
@@ -372,17 +372,26 @@
       "published": "2026-08-07T05:00:00-04:00"
     },
     {
-      "headline": "Herdr Secures YC Spot, Keeps Runtime Open",
-      "summary": "The developer platform Herdr announced its acceptance into Y Combinator’s accelerator. Despite the funding boost, the company says its runtime environment will remain publicly accessible.",
+      "headline": "New Mexico Jury Hits Meta with $567 Million Verdict Over Kids’ Mental‑Health Damage",
+      "summary": "A state court found Meta’s platforms caused significant psychological harm to minors and ordered the company to pay over half a billion dollars. The ruling underscores growing legal pressure on tech firms to protect young users.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
       "source": "Hacker News",
-      "published": "2026-08-06T19:14:21+00:00"
+      "published": "2026-08-07T02:24:50.000Z"
     },
     {
-      "headline": "Drone Bomb at German Airport Raises Russian Proxy Suspicions",
-      "summary": "Evidence links a drone‑borne explosive that hit a German airport to networks previously tied to Russian interests. Analysts note a pattern of Russian‑linked proxies handling both drones and explosives in Europe.",
+      "headline": "Israeli Settler Charged with Reckless Manslaughter in Death of Filmmaker’s Subject",
+      "summary": "Yinon Levy faces a reckless‑manslaughter charge for the July 2025 shooting of Odeh Hathaleen, who appeared in an Oscar‑nominated West Bank documentary. The case highlights tensions surrounding settlement violence and cultural representation.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-06T18:37:12.527Z"
+    },
+    {
+      "headline": "Investigators Link Russian‑Backed Operatives to Drone Bomb Found at German Airport",
+      "summary": "Evidence suggests proxies with ties to Russia not only supplied the drone and explosives but also delivered them to a German airfield. The incident raises concerns about covert sabotage operations on European soil.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/ckgdmrxxkdxo?at_medium=RSS&at_campaign=rss",
@@ -390,17 +399,8 @@
       "published": "2026-08-07T08:48:16.878Z"
     },
     {
-      "headline": "ProvenMetal Promises Domestic PCB Turnaround in Days",
-      "summary": "Startup ProvenMetal, backed by Y Combinator’s S26 batch, offers rapid manufacturing of printed circuit boards from customer designs. The service aims to revive U.S. PCB production, which has fallen from 30% of global output in 2000 to just 4% today.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://provenmetal.com",
-      "source": "Hacker News",
-      "published": "2026-08-06T15:59:15+00:00"
-    },
-    {
-      "headline": "Kumamoto Hospital Operates Amid 6.8‑Quake Tremors",
-      "summary": "Security footage captured surgeons shielding a patient as a magnitude‑6.8 earthquake rattled Kumamoto General Hospital. The incident highlights the challenges of delivering care during sudden seismic events.",
+      "headline": "Kumamoto Hospital’s OR Stands Firm as 6.8‑Magnitude Quake Rattles Facility",
+      "summary": "Security footage shows surgeons shielding a patient while the ground trembled during last month’s strong earthquake. The swift response prevented injuries despite the sudden shock.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
@@ -408,49 +408,49 @@
       "published": "2026-08-07T06:46:34+00:00"
     },
     {
-      "headline": "Spokane Fires Reduce Community to Ashes, 860 Structures Lost",
-      "summary": "Wildfires have razed at least 860 buildings in a Spokane neighborhood, including hundreds of homes. Fire crews continue battling the blaze while residents grapple with massive displacement.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T01:10:58+00:00"
-    },
-    {
-      "headline": "Datasette 0.65.3 Rolls Out with Critical SQL‑Injection Patch",
-      "summary": "The latest datasette version incorporates a security fix originally introduced in the 1.0a38 pre‑release. Users are encouraged to upgrade to protect against injection vulnerabilities.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Aug/6/datasette-2/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-06T18:22:07+00:00"
-    },
-    {
-      "headline": "U.S. Pays €1.2 B to Stop German Offshore Wind Plans",
-      "summary": "The United States struck a $1.2 billion agreement with a German company to suspend its offshore wind developments. The deal reflects growing geopolitical tensions over renewable energy infrastructure.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "source": "Hacker News",
-      "published": "2026-08-07T09:50:54.651Z"
-    },
-    {
-      "headline": "Challies’ ‘A La Carte’ August Issue Offers Theology, Humor, and Life Essays",
-      "summary": "The latest edition features pieces on biblical interpretation, marital conflict, and the purpose of pain, among other topics. Readers can also explore past “A La Carte” collections from previous months.",
+      "headline": "Challies’ ‘A La Carte’ Issue Offers Theology, Culture, and Humor",
+      "summary": "The August 7 edition features pieces on the “mark of the beast,” Jephthah’s alleged sacrifice, marital conflict, and other topics. Regular weekend editions provide a mix of essays, reflections, and light‑hearted content.",
       "category": "Faith",
-      "relevance": 4,
+      "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-7-2026/",
       "source": "Challies",
       "published": "2026-08-07T04:01:00+00:00"
     },
     {
-      "headline": "Watchdog Says Doge’s $110 B Savings Claim Was Inflated",
-      "summary": "An audit of the former government‑spending watchdog reveals flaws in its methodology that exaggerated projected savings. The findings cast doubt on the agency’s reported impact on federal expenditures.",
-      "category": "Other",
-      "relevance": 3,
-      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
+      "headline": "Australian Crew Executes Midnight Rescue at Antarctica’s McMurdo Station",
+      "summary": "Pilots landed in total darkness at –43 °C to evacuate a patient from the remote research base. The daring operation showcased skillful flying under extreme polar conditions.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-06T23:55:35.507Z"
+      "published": "2026-08-07T02:07:46.097Z"
+    },
+    {
+      "headline": "Menopause Hormone Therapy Returns to the Spotlight: Benefits or Hype?",
+      "summary": "After decades of caution, doctors are now revisiting estrogen‑based treatments for menopausal symptoms. Experts weigh the potential health gains against risks to help women decide if therapy is appropriate.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5922746/menopause-hormone-therapy-hrt-heart",
+      "source": "NPR News",
+      "published": "2026-08-07T06:00:00-04:00"
+    },
+    {
+      "headline": "Jharkhand’s Youth Mobilize Over Jobs in New ‘Cockroach’‑Inspired Movement",
+      "summary": "Following the high‑profile CJP protests in Delhi, a fresh student‑led campaign has emerged in Jharkhand demanding transparent recruitment and employment opportunities. The movement is gaining momentum across campuses and social media.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T08:32:57.286Z"
+    },
+    {
+      "headline": "New Research Claims Earth’s Biosphere May Have Originated in Two Separate Events",
+      "summary": "A controversial paper proposes that life emerged independently from non‑living matter on two occasions. The hypothesis, discussed on Hacker News, challenges the conventional single‑origin model and sparks debate among scientists.",
+      "category": "Other",
+      "relevance": 2,
+      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
+      "source": "Hacker News",
+      "published": "2026-08-05T18:00:00+00:00"
     }
   ]
 }
