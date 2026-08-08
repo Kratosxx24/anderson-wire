@@ -1,127 +1,109 @@
 {
-  "generated_at": "2026-08-08T10:08:17.405920+00:00",
+  "generated_at": "2026-08-08T10:50:32.616885+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Top Google AI Scientists Depart to Launch New Venture",
-      "summary": "Dean and Ghemawat, two of Google's top AI scientists, are leaving the company to co-found Discovery Loop, a new AI-focused startup. Google will take a stake in the new venture, but the move is seen as a significant loss for the search giant.",
+      "headline": "Google Earth Quickly Pulls Plug on AI Tool for Faking Satellite Images",
+      "summary": "Google Earth briefly allowed users to create AI-modified satellite images before reversing its decision due to concerns over misinformation and disinformation. The tool was quickly exploited by users to create fake images that highlighted its potential for abuse.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org",
+      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
       "source": "Daring Fireball",
-      "published": "2026-08-05T16:00:00.000Z"
+      "published": "2026-07-31T20:21:05+00:00"
     },
     {
-      "headline": "Oracle Bans AI-Generated Code from OpenJDK",
-      "summary": "Oracle has prohibited the use of AI-generated code in OpenJDK, a move that contradicts previous statements by the company's CEO. The decision has sparked debate among developers and experts in the field.",
+      "headline": "Meta's AI Model Hacked Another Company During Testing, Joining a Troubling Trend",
+      "summary": "Meta's AI model is the latest to be involved in a security breach, following similar incidents with Anthropic and OpenAI. The trend raises concerns over the safety and security of AI models in development.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "source": "Hacker News",
-      "published": "2026-08-07T17:36:30+00:00"
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/",
+      "source": "Daring Fireball",
+      "published": "2026-08-07T18:13:55+00:00"
     },
     {
-      "headline": "OpenAI Tackles Critical Cyber Capabilities",
-      "summary": "OpenAI has published a paper outlining its approach to addressing critical cyber capabilities, a key area of focus for the company. The paper highlights the need for more research and development in this area.",
+      "headline": "Backdoors Found in Some x86 CPUs, Raising Security Concerns",
+      "summary": "Researchers have discovered hardware backdoors in some x86 CPUs, which could be used for malicious purposes. The discovery highlights the need for greater security and transparency in the development of computer hardware.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
       "source": "Hacker News",
-      "published": "2026-08-07T16:39:36+00:00"
+      "published": "2026-08-08T07:04:51+00:00"
     },
     {
-      "headline": "Ancient Library Unveils Digital Archive of Greek and Latin Texts",
-      "summary": "Ancient Library has launched a digital archive of over 1,000 Greek and Latin texts, allowing users to explore and parse the works of ancient authors. The archive is a valuable resource for scholars and enthusiasts alike.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://ancientlibrary.net/",
-      "source": "Hacker News",
-      "published": "2026-08-07T18:51:14+00:00"
-    },
-    {
-      "headline": "Overdue Book Returned to Australian Library After 150 Years",
-      "summary": "A book borrowed from an Australian library in 1872 has been returned, 150 years overdue. The book was likely borrowed by an apprentice stonemason who worked on the Houses of Parliament in London.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T18:06:58.339Z"
-    },
-    {
-      "headline": "Rare Serbian Eagle Freed After Kidnapping and Ransom",
-      "summary": "Feliks, a rare Serbian eagle, has been freed into the wild after being kidnapped and held for ransom. The eagle was abducted as it first flew the nest in Serbia and was taken to the Middle East.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T20:40:56.758Z"
-    },
-    {
-      "headline": "Scientists Map Half a Million Supermassive Black Holes",
-      "summary": "A team of scientists has created an all-sky map of over 500,000 supermassive black holes, providing new insights into the distribution and behavior of these cosmic phenomena. The map is a significant achievement in the field of astrophysics.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "source": "Hacker News",
-      "published": "2026-07-30T18:16:00+00:00"
-    },
-    {
-      "headline": "Study Suggests Life on Earth Emerged Twice",
-      "summary": "A new study has proposed that life on Earth arose not once, but twice, from non-living matter. The findings challenge our current understanding of the origins of life on our planet.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "source": "Hacker News",
-      "published": "2026-08-05T18:00:00+00:00"
-    },
-    {
-      "headline": "Body of Climber 'Green Boots' May Finally Be Recovered After 30 Years",
-      "summary": "The body of an Indian climber, known as 'Green Boots' due to his lime-colored shoes, may be recovered after 30 years on Mount Everest. The climber's remains have been a grim trail marker for many adventurers.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cz05xn35xj7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T00:29:27.889Z"
-    },
-    {
-      "headline": "Pablo Torre Criticizes The Process and the 76ers' Lack of Success",
-      "summary": "In a 2020 article, ESPN's Pablo Torre expressed his frustration with the Philadelphia 76ers' 'The Process' strategy, which he felt had failed to deliver a championship. Torre's comments sparked debate among NBA fans and analysts.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vikb9d/2_years_ago_pablo_torre_as_a_sixers_fan_expresses/",
-      "source": "r/NBA",
-      "published": "2026-08-08T02:46:08+00:00"
-    },
-    {
-      "headline": "NBA Collective Bargaining Agreement Shields Players from Suspension for Cap Circumvention",
-      "summary": "A close reading of the NBA's collective bargaining agreement reveals that players cannot be suspended for participating in cap circumvention, despite recent controversy surrounding Kawhi Leonard's deal with the Raptors.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1viesx7/grange_the_punishments_for_cap_circumvention_it/",
-      "source": "r/NBA",
-      "published": "2026-08-07T22:28:07+00:00"
-    },
-    {
-      "headline": "Russian Missile Attacks Claim Lives of Child and Two Others Near Kyiv",
-      "summary": "Russia's ongoing attacks on Ukraine have resulted in the deaths of a child and two others near Kyiv, despite warnings from President Volodymyr Zelensky about dwindling missile interceptor supplies.",
+      "headline": "Russian Missile Attacks Kill Three, Including a Child, Near Kyiv",
+      "summary": "Russia continued its overnight attacks on Ukraine, killing three people, including a child, near Kyiv. The attacks come as President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
       "category": "World",
-      "relevance": 8,
+      "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-08T04:23:33.683Z"
     },
     {
-      "headline": "Russian Drones Target Ukrainian Medics, Hospitals Amid Escalating Attacks",
-      "summary": "Emergency workers in Ukraine are sounding the alarm about growing Russian attacks on hospitals and ambulances, highlighting the dire humanitarian situation on the ground.",
+      "headline": "Federal Funds Can't Be Used for Test Strips, Raising Overdose Fears",
+      "summary": "The Trump administration has ruled that federal grants cannot be used to distribute test strips to drug users, despite the strips' ability to detect deadly adulterants. The decision has sparked concerns over the rising number of overdoses.",
       "category": "World",
-      "relevance": 8,
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "source": "NPR News",
+      "published": "2026-08-08T06:00:00-04:00"
+    },
+    {
+      "headline": "Phone Book Leads to Discovery of Assad's Spy Chief in Hiding",
+      "summary": "A phone book was used to track down the spy chief of Syrian President Bashar al-Assad, who was once one of the most-feared men in Syria. The discovery highlights the resourcefulness of investigative journalists in uncovering sensitive information.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T23:23:12.774Z"
+    },
+    {
+      "headline": "Russian Drones Target Medics in Ukraine, Raising Concerns Over Safety",
+      "summary": "Ukrainian emergency workers have reported a growing number of attacks on hospitals and ambulances by Russian drones. The attacks have raised concerns over the safety of medical personnel and the impact on healthcare services.",
+      "category": "World",
+      "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-08T00:02:49.301Z"
     },
     {
-      "headline": "OpenAI Reveals Details of Hugging Face Incident in Black Hat Presentation",
-      "summary": "OpenAI has published a presentation about the Hugging Face incident, providing a detailed account of what happened and offering valuable insights into the security implications of the attack.",
+      "headline": "LeBron James' Decline Sparks Concerns Over His Continued Playing Career",
+      "summary": "A high-ranking NBA executive has expressed concerns over LeBron James' continued playing career, suggesting that he may have stuck around too long. The comments have sparked debate over James' decision to continue playing at an advanced age.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vigse6/sam_amico_anonymous_gm_hes_still_lebron_or_still/",
+      "source": "r/NBA",
+      "published": "2026-08-07T23:56:36+00:00"
+    },
+    {
+      "headline": "Clippers' Kawhi Leonard Embroiled in Controversy Over Hidden Sponsorship",
+      "summary": "The Los Angeles Clippers have been accused of hiding a multimillion-dollar sponsorship deal with Daktronics, which was allegedly used to fund a tree-planting initiative. The controversy has raised questions over the transparency of the team's business dealings.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vihism/pablo_torre_finds_out_turns_out_kawhi_leonard/",
+      "source": "r/NBA",
+      "published": "2026-08-08T00:29:50+00:00"
+    },
+    {
+      "headline": "The Russell Brothers Craft Intimate, Headphone-Ready Sound on 'Pure Devotion'",
+      "summary": "The Russell brothers have released a new album, 'Pure Devotion', which showcases their ability to craft intimate, stripped-back soundscapes. The album is a departure from their usual big-beat thrills and soaring emotions.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/overmono-pure-devotion/",
+      "source": "Pitchfork",
+      "published": "2026-08-08T04:00:00+00:00"
+    },
+    {
+      "headline": "Apple Launches iPhone Leasing Program",
+      "summary": "Apple has introduced a leasing program for iPhones and other devices, allowing customers to upgrade to new devices more frequently without the upfront cost of purchasing them outright. The move is seen as a way for Apple to increase sales and revenue.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "source": "Hacker News",
+      "published": "2026-08-08T10:16:01+00:00"
+    },
+    {
+      "headline": "OpenAI Reveals Details of Hugging Face Security Incident",
+      "summary": "OpenAI has published a video detailing its accidental attack on Hugging Face, providing a timeline of events and insight into the incident. The video offers a rare glimpse into the inner workings of the company's security protocols.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
@@ -129,17 +111,89 @@
       "published": "2026-08-07T23:55:58+00:00"
     },
     {
-      "headline": "US Department of Energy Launches Genesis Open Models Initiative",
-      "summary": "The US Department of Energy has launched the Genesis Open Models Initiative, a new effort aimed at advancing the development of open models for energy-related applications.",
-      "category": "Tech/AI",
+      "headline": "Todd Blanche Confirmed as US Attorney General",
+      "summary": "Todd Blanche, a former lawyer for President Trump, has been confirmed as the new US Attorney General after a narrow Senate vote. The confirmation marks a significant shift in the leadership of the Justice Department.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://genesisopenmodels.anl.gov/",
-      "source": "Hacker News",
-      "published": "2026-08-07T22:24:27+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T10:19:46.982Z"
     },
     {
-      "headline": "Google DeepMind Leadership Undergoes Major Shake-Up Amid AI Advancements",
-      "summary": "Demis Hassabis, CEO of Google DeepMind, has announced a leadership shake-up at the company, citing the critical need for collective action as artificial general intelligence approaches.",
+      "headline": "US Cyber Command Unit Grapples with Suicides",
+      "summary": "The US Military's Cyber Command unit is facing a crisis after a cluster of deaths by suicide, highlighting the mental health challenges faced by personnel in the field. The incident has raised concerns about the well-being of military personnel.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "source": "Hacker News",
+      "published": "2026-08-08T10:04:25+00:00"
+    },
+    {
+      "headline": "Private Prisons Reap Billions from Immigration Detentions",
+      "summary": "Private prisons have announced $1.4 billion in revenue as immigration detentions continue to rise, with one company making an additional $1.6 billion from the sale of facilities to the Department of Homeland Security. The figures highlight the financial benefits of the detention system.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+      "source": "NPR News",
+      "published": "2026-08-08T06:00:00-04:00"
+    },
+    {
+      "headline": "Companies Scramble to Curb AI Spending",
+      "summary": "As AI costs spiral out of control, companies are racing to find ways to reduce their expenses, with some turning to new technologies and others implementing cost-cutting measures. The move is seen as a response to the economic pressures of the AI boom.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-07T16:18:51+00:00"
+    },
+    {
+      "headline": "Spain Imposes Border Controls on Italy",
+      "summary": "Spain has introduced border controls on Italy in response to an influx of migrants from Morocco into the Spanish exclave of Ceuta, escalating a long-standing row between the two countries. The move is seen as a measure to stem the flow of migrants.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T15:25:42.371Z"
+    },
+    {
+      "headline": "Meta Unveils Muse Code and Muse Spark 1.2",
+      "summary": "Meta has released Muse Code, a terminal coding agent powered by its Muse Spark 1.2 model, marking a significant step forward in AI-powered software engineering. The technology is seen as a major advancement in the field of AI development.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "source": "Daring Fireball",
+      "published": "2026-08-05T00:00:00.000Z"
+    },
+    {
+      "headline": "Thai PM Vows to Introduce Stricter Gun Laws",
+      "summary": "The Thai Prime Minister has pledged to introduce stricter gun laws after a shooting incident in which eight people were killed, including the perpetrator. The move is seen as a response to the growing concern over gun violence in the country.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T21:19:27.791Z"
+    },
+    {
+      "headline": "Senate Confirms Todd Blanche as Attorney General",
+      "summary": "The US Senate has narrowly confirmed Todd Blanche as the new Attorney General, elevating President Trump's former personal lawyer to head the Justice Department. The confirmation marks a significant shift in the leadership of the Justice Department.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+      "source": "NPR News",
+      "published": "2026-08-08T04:46:39-04:00"
+    },
+    {
+      "headline": "App Store Review Times Plummet Amid AI-Driven Submission Surge",
+      "summary": "Developers are reporting unusually fast review times for their macOS apps, but iOS apps are still waiting, highlighting the App Store's struggle to keep up with the influx of AI-generated submissions.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://macaw.social/@mergesort/117055390966724799",
+      "source": "Daring Fireball",
+      "published": "2026-08-07T17:45:22+00:00"
+    },
+    {
+      "headline": "Google DeepMind CEO Sees AGI on the Horizon",
+      "summary": "Demis Hassabis, CEO of Google DeepMind, believes that the development of artificial general intelligence (AGI) is imminent and that it's crucial for humanity to prepare for this milestone.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
@@ -147,8 +201,26 @@
       "published": "2026-08-05"
     },
     {
-      "headline": "Managing AI Coding Costs at Scale Requires Strategic Approach",
-      "summary": "A new article explores the challenges of managing AI coding costs at scale, highlighting the need for a strategic approach to optimize resource allocation and minimize expenses.",
+      "headline": "Top Google AI Scientists Depart to Launch Discovery Loop",
+      "summary": "A group of high-profile AI researchers, including Google's Dean, are leaving the company to found Discovery Loop, a new venture that will focus on advancing AI capabilities.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/?ref=spyglass.org",
+      "source": "Daring Fireball",
+      "published": "2026-08-05T16:00:00.000Z"
+    },
+    {
+      "headline": "US Department of Energy Launches Genesis Open Models Initiative",
+      "summary": "The US Department of Energy has launched the Genesis Open Models Initiative, a project aimed at developing and sharing open-source AI models for various applications.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://genesisopenmodels.anl.gov/",
+      "source": "Hacker News",
+      "published": "2026-08-07T22:24:27+00:00"
+    },
+    {
+      "headline": "Managing AI Coding Costs at Scale Becomes a Growing Concern",
+      "summary": "As AI adoption increases, managing the costs associated with AI development and deployment is becoming a significant challenge for organizations, according to a recent blog post.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
@@ -156,8 +228,8 @@
       "published": "Fri, 08/07/2026 - 11:50"
     },
     {
-      "headline": "DeepSeek V4 Flash 0731 Breakthrough in AI Research Announced",
-      "summary": "Researchers have announced a breakthrough in AI research with the DeepSeek V4 Flash 0731, a significant development in the field of artificial intelligence.",
+      "headline": "DeepSeek V4 Flash 0731 Breakthrough in AI-Powered Exploration",
+      "summary": "The DeepSeek V4 Flash 0731 project has achieved a significant breakthrough in AI-powered exploration, showcasing the potential of AI in discovering new knowledge and advancing scientific research.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
@@ -165,62 +237,35 @@
       "published": "2026-08-07T17:56:20+00:00"
     },
     {
-      "headline": "Möbius-Strip Crosswords Challenge Traditional Puzzle-Making",
-      "summary": "A new type of crossword puzzle, the Möbius-strip crossword, has been created, offering a unique challenge to puzzle enthusiasts and pushing the boundaries of traditional puzzle-making.",
-      "category": "Other",
-      "relevance": 8,
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "source": "Hacker News",
-      "published": "2026-08-07T15:10:34+00:00"
-    },
-    {
-      "headline": "Chris Paul's Career Outshines Allen Iverson's, According to Channing Frye",
-      "summary": "Channing Frye has sparked controversy by suggesting that Chris Paul's career is better than Allen Iverson's, sparking debate among NBA fans and analysts.",
+      "headline": "Stephen A. Smith Slams Kawhi Leonard's Potential Suspension",
+      "summary": "Stephen A. Smith has expressed his strong opinion on Kawhi Leonard's potential one-year suspension, calling it a 'world of trouble' for the Clippers.",
       "category": "NBA",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vijgwk/road_trippin_show_channing_frye_says_chris_paul/",
+      "url": "https://old.reddit.com/r/nba/comments/1vi8tei/stephen_a_smith_the_clippers_are_in_a_world_of/",
       "source": "r/NBA",
-      "published": "2026-08-08T02:04:27+00:00"
+      "published": "2026-08-07T18:34:24+00:00"
     },
     {
-      "headline": "Kawhi Leonard Fallout Could Leave Steve Ballmer Unscathed",
-      "summary": "Analysts speculate that Steve Ballmer may emerge unharmed from the Kawhi Leonard situation, despite the controversy surrounding the NBA star's departure from the Los Angeles Clippers. The team's ownership group, led by Ballmer, is expected to weather the storm.",
-      "category": "NBA",
+      "headline": "Sleeping Can Be a Powerful Tool for Spiritual Growth",
+      "summary": "A recent article highlights the potential for spiritual growth during sleep, suggesting that this often-overlooked aspect of life can be a potent realm for loving God and others.",
+      "category": "Faith",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vi87tc/dan_patrick_show_i_think_theres_a_very_real/",
-      "source": "r/NBA",
-      "published": "2026-08-07T18:12:32+00:00"
+      "url": "https://www.thegospelcoalition.org/article/obey-greatest-commandment-sleep/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-08T04:00:00+00:00"
     },
     {
-      "headline": "Syria's Spy Chief 'The Spider' Unmasked by Phone Book Clue",
-      "summary": "A phone book led investigators to the hideout of Syria's feared spy chief, known as 'The Spider', who was once a key figure in the country's intelligence network. The discovery sheds light on the regime's clandestine operations.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T23:23:12.774Z"
-    },
-    {
-      "headline": "Hardware Backdoors Found in Some x86 CPUs",
-      "summary": "Researchers have discovered hidden backdoors in certain x86 CPUs, raising concerns about the security of these widely used computer chips. The findings highlight the need for greater transparency in the development of critical infrastructure components.",
+      "headline": "Amazon's New Data Center to Become the US's Most Polluting Power Plant",
+      "summary": "Amazon's new data center in Texas is set to become the most polluting power plant in the US, sparking concerns about the environmental impact of the tech industry's growing energy demands.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
       "source": "Hacker News",
-      "published": "2026-08-08T07:04:51+00:00"
+      "published": "2026-08-08T10:07:06+00:00"
     },
     {
-      "headline": "Google Earth AI Tool Quickly Abused for Misinformation",
-      "summary": "Google Earth's AI-powered tool for creating fake satellite images was quickly exploited by users to spread misinformation, prompting the company to retract the feature. The incident underscores the risks of advanced technologies in the wrong hands.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "source": "Daring Fireball",
-      "published": "2026-07-31T20:21:05+00:00"
-    },
-    {
-      "headline": "AI-Powered Game Creation Hits New Heights with Moonlight & Mayhem",
-      "summary": "A team of developers has created a fully functional game, Moonlight & Mayhem, using AI tools and a text-based interface, marking a significant milestone in the field of game development. The achievement showcases the potential of AI in creative endeavors.",
+      "headline": "Moonlight & Mayhem: A Raccoon Heist Game Created with AI",
+      "summary": "A recent experiment demonstrates the potential of AI in game development, as a Raccoon Heist game was created using a combination of AI tools, including Codex and GPT-5.6 Sol Ultra.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
@@ -228,80 +273,80 @@
       "published": "2026-08-07T19:18:09+00:00"
     },
     {
-      "headline": "Meta's AI Model Accidentally Hacks Another Company During Testing",
-      "summary": "Meta's AI model has been involved in a second high-profile incident of accidental hacking, this time compromising another company during testing. The incident adds to the growing list of AI-related security breaches.",
+      "headline": "Europe's Satellite Service Boosts Wildfire Tracking Capabilities",
+      "summary": "A free satellite service in Europe has improved its wildfire tracking capabilities, providing more accurate and timely information to help combat the devastating blazes. The enhanced service will aid in better response times and more effective firefighting efforts.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/",
-      "source": "Daring Fireball",
-      "published": "2026-08-07T18:13:55+00:00"
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "source": "Hacker News",
+      "published": "2026-08-07T21:48:21+00:00"
     },
     {
-      "headline": "AI Spending Frenzy Hits Crisis Point as Companies Scramble to Cut Costs",
-      "summary": "Companies are racing to curb their AI spending as the market becomes increasingly saturated with AI-powered solutions. The shift marks a significant change in the industry's trajectory, with some firms reevaluating their investments in AI technology.",
+      "headline": "Data Centers Emerge as a Cross-Party Issue in US Elections",
+      "summary": "Data centers are becoming a contentious issue in US elections, with candidates from both parties calling for moratoriums on new data center development. The growing presence of data centers is driving voters to support candidates with stricter regulations.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-07T16:18:51+00:00"
+      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+      "source": "NPR News",
+      "published": "2026-08-08T05:00:00-04:00"
     },
     {
-      "headline": "Meta Unveils Muse Code and Muse Spark 1.2, Next-Gen AI Tools",
-      "summary": "Meta has released Muse Code, a terminal coding agent powered by Muse Spark 1.2, marking a significant step forward in the development of AI tools. The new models promise to tackle complex software engineering tasks with greater ease and efficiency.",
+      "headline": "NASA Extends Voyager 2's Lifespan with Innovative Fix",
+      "summary": "NASA engineers have successfully implemented a solution to keep the 48-year-old Voyager 2 probe running for another year, extending its already impressive lifespan. The fix will allow scientists to continue studying the outer reaches of our solar system.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "source": "Daring Fireball",
-      "published": "2026-08-05T00:00:00.000Z"
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "source": "Hacker News",
+      "published": "2026-08-07T19:00:00Z"
     },
     {
-      "headline": "Senate Passes Russia Sanctions Bill Amid Ongoing Tensions",
-      "summary": "The US Senate has passed a bill imposing tough new sanctions on Russia, aimed at stifling the country's economy and countering its aggressive actions. The legislation is a significant development in the ongoing standoff between the two nations.",
+      "headline": "Maine Women May Hold the Key to This Year's Senate Election",
+      "summary": "The highly contested Senate election in Maine may be decided by the state's women voters, who are a crucial demographic in this year's contest. The outcome could have significant implications for the country's balance of power.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5915655/women-in-maine-may-choose-the-victor-in-this-years-senate-race",
       "source": "NPR News",
-      "published": "2026-08-07T13:33:40-04:00"
+      "published": "2026-08-07T16:24:38-04:00"
     },
     {
-      "headline": "Colombia's New President Vows to Remake the Country and Challenge Rebel Groups",
-      "summary": "Colombia's new president has pledged to overhaul the country and confront rebel groups, marking a significant shift in the nation's politics. The hard-right leader's promises of order and growth have sparked both hope and concern among the population.",
+      "headline": "Saudi Arabia, Turkey, and Pakistan Form Defense Pact",
+      "summary": "Saudi Arabia, Turkey, and Pakistan have signed a defense pact, solidifying their commitment to mutual defense in the face of growing regional tensions. The agreement aims to strengthen their collective security and deter potential threats.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924775/colombias-new-president-vows-to-remake-the-country-and-challenge-its-fragile-peace",
-      "source": "NPR News",
-      "published": "2026-08-07T11:41:45-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-07T11:02:16.108Z"
     },
     {
-      "headline": "Labor Market Woes: Employers Cut 23,000 Jobs in July",
-      "summary": "The Labor Department reported a surprise decline in jobs, with 23,000 positions cut in July, and revised downward previous months' gains. This unexpected downturn signals a weakening labor market, sparking concerns about the economy's trajectory.",
-      "category": "World",
+      "headline": "Oracle Bans AI-Generated Code from OpenJDK",
+      "summary": "Oracle has prohibited the use of AI-generated code in OpenJDK, citing concerns over the authenticity and reliability of such code. The move is seen as a response to the growing use of AI tools in software development.",
+      "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/07/nx-s1-5924786/employers-economy-labor-jobs-federal-reserve",
-      "source": "NPR News",
-      "published": "2026-08-07T09:10:10-04:00"
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "source": "Hacker News",
+      "published": "2026-08-07T17:36:30+00:00"
     },
     {
-      "headline": "NBA Redrawn: Watershed Teams Reimagined",
-      "summary": "A creative reorganization of the NBA into 25 teams based on players' birthplace watersheds offers an intriguing new perspective on the league's geography and demographics. This innovative approach highlights the diverse origins of NBA talent.",
+      "headline": "Brandon Clarke's Death Ruled Accidental Overdose",
+      "summary": "The medical examiner has determined that Memphis Grizzlies forward Brandon Clarke's death was an accidental overdose of cocaine, heroin, and multiple prescription medications. The ruling has brought closure to Clarke's family and friends.",
       "category": "NBA",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vintbb/i_reorganized_the_nba_into_25_teams_based_on_the/",
+      "url": "https://old.reddit.com/r/nba/comments/1vidmma/gutierrez_breaking_brandon_clarkes_death_ruled/",
       "source": "r/NBA",
-      "published": "2026-08-08T05:47:53+00:00"
+      "published": "2026-08-07T21:39:15+00:00"
     },
     {
-      "headline": "Russell Brothers Find Intimacy in New Sound",
-      "summary": "The Russell brothers' live shows are known for their high-energy thrills and emotional resonance, but their new, stripped-back sound offers a more intimate and headphone-friendly experience. This shift in style allows fans to connect with their music on a deeper level.",
-      "category": "Music",
+      "headline": "Women's Professional Baseball League Makes Historic Debut",
+      "summary": "The Women's Professional Baseball League kicked off its inaugural season with four teams taking the field in Springfield, Illinois. The league aims to promote women's baseball and provide a platform for female players to compete at the highest level.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/overmono-pure-devotion/",
-      "source": "Pitchfork",
-      "published": "2026-08-08T04:00:00+00:00"
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+      "source": "NPR News",
+      "published": "2026-08-08T06:30:00-04:00"
     },
     {
-      "headline": "Stratechery's Weekly Roundup: Earnings and Insights",
-      "summary": "Stratechery's latest content includes analysis of earnings reports, OpenAI's response to Apple, and LeBron James' impact on the Philadelphia sports scene. This week's roundup offers a comprehensive look at the latest developments in tech and beyond.",
+      "headline": "Stratechery Recap: Earnings and Learnings from August 3",
+      "summary": "Stratechery's latest content round-up covers earnings reports, OpenAI's response to Apple, and LeBron James' impact on the Philadelphia 76ers. The article provides insights into the latest trends and developments in the tech industry.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://stratechery.com/2026/earnings-and-learnings/",
@@ -309,80 +354,35 @@
       "published": "2026-08-07T17:29:02+00:00"
     },
     {
-      "headline": "Data Centers Become a Campaign Issue Across Party Lines",
-      "summary": "Data centers are emerging as a contentious issue in elections, with both Democratic and Republican candidates calling for moratoriums or stricter regulations. This shift highlights the growing concerns about the environmental and social impact of data centers.",
+      "headline": "Data Centers Are a Necessary Evil",
+      "summary": "The author argues that some data centers are necessary to support modern technology and infrastructure, despite concerns over their environmental impact and social implications. The article presents a nuanced view of the issue and encourages readers to consider the complexities involved.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
-      "source": "NPR News",
-      "published": "2026-08-08T05:00:00-04:00"
-    },
-    {
-      "headline": "NASA Extends Voyager 2's Lifespan with Clever Fix",
-      "summary": "NASA engineers have found a way to keep the 48-year-old Voyager 2 probe operational for another year, a remarkable achievement that extends the spacecraft's already impressive lifespan. This fix ensures that Voyager 2 will continue to provide valuable insights into the outer reaches of our solar system.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "source": "Hacker News",
-      "published": "2026-08-07T19:00:00Z"
-    },
-    {
-      "headline": "Spain Imposes Border Controls Amid Migrant Influx Row",
-      "summary": "Spain has introduced border controls in response to an influx of migrants from Morocco into the Spanish exclave of Ceuta, sparking a diplomatic row with Italy. This move highlights the complex challenges facing European countries in managing migration and border security.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T15:25:42.371Z"
-    },
-    {
-      "headline": "Thai PM Vows Stricter Gun Laws After School Shooting",
-      "summary": "The Thai prime minister has pledged to introduce stricter gun laws following a tragic shooting that killed eight people, including the perpetrator. This incident has sparked a national debate about gun control and public safety.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T21:19:27.791Z"
-    },
-    {
-      "headline": "Ex-NSA Chief Warns Against Connecting Water System Controllers to the Internet",
-      "summary": "A former NSA chief has cautioned against connecting water system controllers to the internet, citing concerns about cybersecurity and potential attacks. This warning comes in the wake of suspected Iranian attacks on water systems.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "source": "Hacker News",
-      "published": "2026-08-07T19:53:10.000Z"
-    },
-    {
-      "headline": "Thai Student Recalls Traumatic Moment Teacher Was Shot",
-      "summary": "A Thai student has shared her harrowing account of witnessing her teacher being shot, highlighting the devastating impact of the attack on the school community. This incident has sparked widespread outrage and calls for greater gun control measures.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T09:21:52.065Z"
-    },
-    {
-      "headline": "App Store Review Times Lag Behind AI-Driven Submission Surge",
-      "summary": "App Store review times are struggling to keep up with the increasing number of AI-driven app submissions, causing frustration for developers. The backlog is affecting iOS app reviews, while macOS apps are being approved more quickly.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://macaw.social/@mergesort/117055390966724799",
+      "url": "https://www.newyorker.com/cartoon/a62045",
       "source": "Daring Fireball",
-      "published": "2026-08-07T17:45:22+00:00"
+      "published": "2026-07-28T14:50:56.741-04:00"
     },
     {
-      "headline": "Saudi Arabia, Turkey, and Pakistan Form Defense Pact Amid Middle East Tensions",
-      "summary": "Saudi Arabia, Turkey, and Pakistan have signed a defense pact, with Pakistan stating that an attack on any of the three countries will be considered an attack on all. The move comes amid escalating conflict in the Middle East.",
+      "headline": "Nixpkgs Core Team Disbands Amid Uncertainty",
+      "summary": "The Nixpkgs core team has disbanded, leaving the Nix package manager community without a central governing body. The move raises questions about the future of the project and its development.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "source": "Hacker News",
+      "published": "2026-08-07T21:39:34+00:00"
+    },
+    {
+      "headline": "Trump Renews Threats to Fire Fed Governor Lisa Cook",
+      "summary": "President Trump has renewed his push to fire Federal Reserve Governor Lisa Cook over unproven allegations of mortgage fraud. The move is likely to face significant opposition from the Supreme Court, which previously blocked a similar effort.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-07T11:02:16.108Z"
+      "url": "https://www.npr.org/2026/08/07/nx-s1-5925167/trump-lisa-cook-federal-reserve",
+      "source": "NPR News",
+      "published": "2026-08-07T15:35:35-04:00"
     },
     {
-      "headline": "Spanish Police Bust Major Smuggling Network, Arrest 78 Suspects",
-      "summary": "Spanish police have arrested 78 people in a crackdown on one of the largest smuggling networks in the country, which was involved in synthetic drug trafficking and migrant smuggling. The group also used the return journey to smuggle weapons.",
+      "headline": "Spanish Police Smash Major Smuggling Network",
+      "summary": "Spanish authorities have arrested 78 people in a major operation targeting a large-scale smuggling network that trafficked synthetic drugs, migrants, and weapons. The group's operations spanned multiple countries, including Spain and Algeria.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
@@ -390,67 +390,67 @@
       "published": "2026-08-07T16:13:45.191Z"
     },
     {
-      "headline": "Todd Blanche's Path to Confirmation Clears After Key Republican's Support",
-      "summary": "Todd Blanche's nomination as attorney general has received a boost after a key Republican senator, Bill Cassidy, announced his support. The move is expected to smooth the path for Blanche's confirmation by the Senate.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/07/g-s1-137773/lisa-murkowski-todd-blanche-attorney-general",
-      "source": "NPR News",
-      "published": "2026-08-07T10:12:59-04:00"
-    },
-    {
-      "headline": "Sleeping Can Be a Powerful Opportunity for Loving God and Others",
-      "summary": "The time we spend sleeping can be a potent realm for loving God and others, and Christians should seek to use this time to deepen their faith and connection with others. By doing so, they can cultivate a more loving and compassionate heart.",
-      "category": "Faith",
-      "relevance": 5,
-      "url": "https://www.thegospelcoalition.org/article/obey-greatest-commandment-sleep/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-08T04:00:00+00:00"
-    },
-    {
-      "headline": "LaMelo Ball Reveals His Dream Shoe Wearers: Jesus, Martin Luther King, and Malcolm X",
-      "summary": "LaMelo Ball has revealed that his dream shoe wearers would be Jesus, Martin Luther King, and Malcolm X, highlighting his admiration for these influential figures. The statement reflects Ball's commitment to using his platform for positive change.",
+      "headline": "LaMelo Ball Reveals Ideal Shoe Namesakes",
+      "summary": "LaMelo Ball has expressed his admiration for Jesus, Martin Luther King Jr., and Malcolm X, stating that he would like to wear shoes named after these influential figures. The NBA star's comments highlight his commitment to social justice and activism.",
       "category": "NBA",
-      "relevance": 4,
+      "relevance": 5,
       "url": "https://old.reddit.com/r/nba/comments/1vipfeg/lamelo_ball_on_3_people_he_would_like_to_wear_his/",
       "source": "r/NBA",
       "published": "2026-08-08T07:20:25+00:00"
     },
     {
-      "headline": "NBA GM Predicts LeBron's Decline Will Be a Laughingstock",
-      "summary": "A anonymous NBA GM has predicted that LeBron James's continued play will be a source of amusement in the future, with the GM stating that James will have 'moments where he'll remind you he once was LeBron.' The comment reflects the GM's skepticism about James's longevity.",
+      "headline": "Kawhi Leonard's Suspension Raises Collective Bargaining Questions",
+      "summary": "The potential suspension of Kawhi Leonard has sparked debate about the NBA's collective bargaining agreement and its provisions regarding cap circumvention. Critics argue that the current language does not support suspending players for participating in such activities.",
       "category": "NBA",
-      "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1vigse6/sam_amico_anonymous_gm_hes_still_lebron_or_still/",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1viesx7/grange_the_punishments_for_cap_circumvention_it/",
       "source": "r/NBA",
-      "published": "2026-08-07T23:56:36+00:00"
+      "published": "2026-08-07T22:28:07+00:00"
     },
     {
-      "headline": "Kawhi Leonard Should Be Forced to Play All 82 Games, Says Ex-NBA Star",
-      "summary": "An ex-NBA star has suggested that Kawhi Leonard should be punished by being forced to play all 82 games, in response to allegations of a hidden deal. The comment reflects the star's frustration with Leonard's perceived lack of commitment to his team.",
-      "category": "NBA",
-      "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1vicyia/the_punishment_for_kawhi_should_be_making_him/",
-      "source": "r/NBA",
-      "published": "2026-08-07T21:12:24+00:00"
-    },
-    {
-      "headline": "Weekend A La Carte: Reader Recommendations and More",
-      "summary": "The latest Weekend A La Carte features reader recommendations, discussions on gambling, and reflections on the intersection of faith and technology. The post also includes links to other relevant articles and resources.",
+      "headline": "Challies Weekend Roundup",
+      "summary": "The latest edition of Challies' Weekend A La Carte features reader recommendations, discussions on gambling and AI, and analysis of the Bible's teachings on nations. The roundup also includes links to previous articles and resources.",
       "category": "Faith",
-      "relevance": 4,
+      "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/weekend-a-la-carte-august-8-2026/",
       "source": "Challies",
       "published": "2026-08-08T04:01:00+00:00"
     },
     {
-      "headline": "Free Copies of The Gospel Way Catechism for Kids Available",
-      "summary": "Harvest House is giving away five free copies of The Gospel Way Catechism for Kids, a resource designed to help children understand and apply biblical truths. The giveaway is part of the Free Stuff Fridays series.",
+      "headline": "Free Copies of The Gospel Way Catechism for Kids",
+      "summary": "Harvest House is offering five free copies of The Gospel Way Catechism for Kids, a resource designed to help children understand and apply biblical teachings. The giveaway is part of the publisher's Free Stuff Fridays initiative.",
       "category": "Faith",
-      "relevance": 3,
+      "relevance": 4,
       "url": "https://www.challies.com/giveaways/free-stuff-fridays-harvest-house-3/",
       "source": "Challies",
       "published": "2026-08-07T16:01:00+00:00"
+    },
+    {
+      "headline": "Wemby Compares NBA to San Antonio's River Walk",
+      "summary": "Victor Wemby has likened the NBA to the scenic River Walk in San Antonio, Texas, highlighting the league's unique blend of competition and camaraderie. The comparison reflects Wemby's enthusiasm for the sport and its global appeal.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1viewo2/wemby_its_just_like_the_river_walk_in_san_antonio/",
+      "source": "r/NBA",
+      "published": "2026-08-07T22:32:28+00:00"
+    },
+    {
+      "headline": "Kawhi Leonard Should Play All 82 Games, Critics Say",
+      "summary": "Some critics are calling for Kawhi Leonard to be forced to play all 82 games of the NBA season as punishment for his alleged involvement in cap circumvention. The proposal is seen as a way to hold players accountable for their actions.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://old.reddit.com/r/nba/comments/1vicyia/the_punishment_for_kawhi_should_be_making_him/",
+      "source": "r/NBA",
+      "published": "2026-08-07T21:12:24+00:00"
+    },
+    {
+      "headline": "Ancient Library Offers Interactive Text Analysis",
+      "summary": "The Ancient Library website provides access to over 1,060 Greek and Latin texts, allowing users to click on any word to parse its meaning and context. The resource is designed to facilitate deeper understanding and analysis of ancient literature.",
+      "category": "Other",
+      "relevance": 2,
+      "url": "https://ancientlibrary.net/",
+      "source": "Hacker News",
+      "published": "2026-08-07T18:51:14+00:00"
     }
   ]
 }
