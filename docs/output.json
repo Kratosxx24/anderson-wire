@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-09T04:03:56.807302+00:00",
-  "story_count": 48,
+  "generated_at": "2026-08-09T05:15:45.051333+00:00",
+  "story_count": 50,
   "stories": [
     {
-      "headline": "Claude Code Makes Auto Mode Default for Pro, Max, and Team Plans",
-      "summary": "Anthropic will enable auto mode automatically for new sessions on its Pro, Max, and Team subscriptions starting Aug 14, signaling strong confidence in the feature's reliability.",
+      "headline": "Claude Code Makes Auto Mode Default for Pro, Max, and Team Users",
+      "summary": "Anthropic is rolling out auto mode as the standard setting for new Claude Code sessions on its higher‑tier plans beginning August 14. The change reflects confidence that the feature improves productivity without manual prompting.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
@@ -12,8 +12,26 @@
       "published": "2026-08-08T22:36:03+00:00"
     },
     {
-      "headline": "Daring Fireball Retracts: Astrology App Rejection Was Justified",
-      "summary": "The blog corrects its earlier stance, acknowledging that the App Store rightly rejected the astrology application because it violates the platform's content policies.",
+      "headline": "OpenAI’s Unintended Attack on Hugging Face Mapped Out",
+      "summary": "A detailed timeline shows that on May 7 OpenAI launched a training run for a secret model that inadvertently disrupted Hugging Face’s services. The incident highlights the collateral risks of large‑scale AI experiments.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-08T14:06:41+00:00"
+    },
+    {
+      "headline": "‘Works & Wonders’ August Issue Explores Faith, Maps, and Mystery",
+      "summary": "The latest edition surveys eclectic subjects from divine silence to enigmatic shapes and the everyday phone. Readers also get recommendations for finishing books across formats.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.challies.com/articles/works-wonders-august-9/",
+      "source": "Challies",
+      "published": "2026-08-09T04:01:00+00:00"
+    },
+    {
+      "headline": "Retraction: Astrology App’s App Store Rejection Was Justified",
+      "summary": "Daring Fireball corrects his earlier dismissal, acknowledging that the rejected astrology app indeed violated App Store policies. The author admits his bias clouded his initial judgment.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
@@ -21,35 +39,26 @@
       "published": "2026-08-09T03:16:24+00:00"
     },
     {
-      "headline": "OpenAI’s Unintended Attack on Hugging Face Mapped in New Timeline",
-      "summary": "Simon Willison charts the chain of events, beginning with OpenAI’s May 7 training run of an unreleased model that inadvertently disrupted Hugging Face services.",
+      "headline": "Accenture Warns Companies About Wasteful AI Token Spending",
+      "summary": "Leaked audio shows Accenture grappling with non‑technical staff squandering AI token budgets on low‑value tasks like PDF‑to‑slide conversions. The firm is seeking controls to curb frivolous token use.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-08T14:06:41+00:00"
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "source": "Daring Fireball",
+      "published": "2026-06-24T12:50:56.000Z"
     },
     {
-      "headline": "Child Among Three Killed in Russian Missile Strike Near Kyiv",
-      "summary": "Russian overnight bombardment killed three civilians, including a child, as President Zelensky warned Ukraine’s missile‑interceptor supplies are dwindling.",
-      "category": "World",
+      "headline": "ChatGPT Blocks Direct Style‑Cloning Requests",
+      "summary": "OpenAI’s model now refuses prompts that explicitly ask it to mimic a specific writer’s voice, aiming to curb plagiarism. However, it may still generate text with a similar tone, raising nuanced concerns.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T04:23:33.683Z"
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "Hacker News",
+      "published": "2026-07-27T16:58:46+00:00"
     },
     {
-      "headline": "Australia’s Biodiversity Crisis Finds a Beacon in One Resilient Species",
-      "summary": "Facing one of the world’s highest extinction rates, Australia may look to a single animal that shows promise for broader conservation recovery.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T19:00:22.819Z"
-    },
-    {
-      "headline": "TheoremDB Launches Open Workspace for Machine‑Assisted Mathematics",
-      "summary": "TheoremDB offers a collaborative platform where researchers can build, share, and verify formal proofs using automated reasoning tools.",
+      "headline": "TheoremDB Launches Open Collaborative Platform for Machine‑Generated Math",
+      "summary": "The new workspace lets researchers share, verify, and build on automated proofs in a public setting. It aims to accelerate discovery by making machine‑produced theorems transparent.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://theoremdb.org/",
@@ -57,8 +66,8 @@
       "published": "2026-08-09T01:23:36+00:00"
     },
     {
-      "headline": "Shopify Swaps Redis for MySQL to Power Inventory Reservations at Scale",
-      "summary": "By moving its reservation system to MySQL, Shopify achieved greater scalability and stability for handling massive inventory demands during peak sales.",
+      "headline": "Shopify Swaps Redis for MySQL in Inventory System, Gains Scale",
+      "summary": "By moving reservation data to MySQL, Shopify achieved better consistency and handled higher traffic without performance loss. The case challenges the assumption that Redis is always the optimal choice for high‑speed inventory.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://shopify.engineering/scaling-inventory-reservations",
@@ -66,35 +75,62 @@
       "published": "2026-08-08T22:32:50+00:00"
     },
     {
-      "headline": "Detailed Timeline Reveals How OpenAI’s Experiment Disrupted Hugging Face",
-      "summary": "A comprehensive chronology documents the accidental fallout from OpenAI’s experimental model training, which caused widespread service interruptions for Hugging Face users.",
+      "headline": "Intel Targets ARM’s Efficiency Lead with New Power‑Savvy Chips",
+      "summary": "Recent Intel prototypes claim superior performance‑per‑watt metrics, potentially narrowing ARM’s dominance in low‑power markets. Analysts await real‑world benchmarks to confirm the claim.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
       "source": "Hacker News",
-      "published": "2026-08-08T10:57:44+00:00"
+      "published": "2026-08-08T08:00:40+00:00"
     },
     {
-      "headline": "Federal Rule Bars Grants for Fentanyl Test Strips, Sparking Overdose Concerns",
-      "summary": "New guidance prohibits the use of federal funds to purchase drug‑testing strips, prompting harm‑reduction groups to warn of heightened overdose risks.",
+      "headline": "Claude Code Adds Cross‑Session Messaging Feature",
+      "summary": "Users can now send messages between separate Claude Code sessions, facilitating coordinated workflows. The update expands the platform’s collaborative capabilities.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "source": "Hacker News",
+      "published": "2026-08-08T15:34:49+00:00"
+    },
+    {
+      "headline": "Goth Rebels Unleash Dancefloor Fury",
+      "summary": "A spirited remix collection defied critics who sought to pigeonhole the goth scene, instead unleashing a club-friendly anthem. This bold move showcased the genre's versatility and refusal to be confined.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/the-cure-mixed-up/",
+      "source": "Pitchfork",
+      "published": "2026-08-09T04:00:00+00:00"
+    },
+    {
+      "headline": "Tanker Sailors Remain in Limbo",
+      "summary": "Despite ongoing negotiations, tanker ships navigating the Strait of Hormuz continue to face significant danger. The lack of a clear agreement has left vessels in a precarious situation.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
       "source": "NPR News",
-      "published": "2026-08-08T06:00:00-04:00"
+      "published": "2026-08-08T17:19:54-04:00"
     },
     {
-      "headline": "ChatGPT Now Refuses Direct Requests to Mimic Specific Authors",
-      "summary": "OpenAI has updated ChatGPT to reject prompts that explicitly ask it to copy a writer’s style, though the model may still generate text with a similar feel.",
-      "category": "Tech/AI",
+      "headline": "Ukraine Mourns 'Collector of Souls'",
+      "summary": "Oleksiy Yukov, a Ukrainian recovery expert, was tragically killed while retrieving the bodies of soldiers, including Russians, he had spent two decades searching for. His selfless work will not be forgotten.",
+      "category": "World",
       "relevance": 7,
-      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-      "source": "Hacker News",
-      "published": "2026-07-27T16:58:46+00:00"
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
+      "source": "NPR News",
+      "published": "2026-08-08T13:46:05-04:00"
     },
     {
-      "headline": "Os8088 Brings Mac‑Style OS to Vintage IBM XT, 286, and 386 Machines",
-      "summary": "The open‑source project Os8088 delivers a modern, graphical operating system that runs on 8‑bit and early 16/32‑bit IBM PCs. It aims to revive classic hardware with a Mac‑like user experience while remaining lightweight.",
+      "headline": "Child Among Three Killed in Russian Missile Attack",
+      "summary": "A Russian missile strike near Kyiv has resulted in the deaths of three people, including a child, as Ukraine's supplies of missile interceptors dwindle. The attack highlights the ongoing humanitarian crisis in the region.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T04:23:33.683Z"
+    },
+    {
+      "headline": "IBM XT Gets a Mac-Like Makeover",
+      "summary": "Developers have created a powerful, Mac-like operating system for the IBM XT, 286, and 386 computers, offering a retro-futuristic twist on classic hardware. The OS, called Os8088, showcases the ingenuity of the tech community.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://os8088.com/",
@@ -102,8 +138,8 @@
       "published": "2026-08-08T23:37:27+00:00"
     },
     {
-      "headline": "Phone Turns Into Full‑Scale Server in DIY Project",
-      "summary": "A hobbyist repurposes an old smartphone to host web services, databases, and networking tools, effectively replacing a traditional server. The setup showcases the phone’s ARM processor and LTE connectivity as viable low‑cost infrastructure.",
+      "headline": "Phone Becomes Unlikely Server",
+      "summary": "A creative individual has repurposed an old phone as a server, demonstrating the versatility of modern technology. The phone server, showcased on the Seg6 Space blog, highlights the potential for innovation in unexpected places.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://seg6.space/posts/phone-server/",
@@ -111,44 +147,44 @@
       "published": "2026-08-08T22:49:23+00:00"
     },
     {
-      "headline": "Private‑Prison Giants Report $1.4 B Revenue as Immigration Detentions Surge",
-      "summary": "Companies that run detention facilities disclosed record earnings driven by a rise in immigration holds. CoreCivic also booked $1.6 B from selling four prisons to the Department of Homeland Security, boosting its cash flow.",
+      "headline": "Canada Wildfire Forces Thousands to Flee",
+      "summary": "The Bald Range wildfire in British Columbia has spread rapidly, forcing thousands of people to evacuate their homes as the fire remains out of control. The situation highlights the urgent need for effective wildfire management.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
-      "source": "NPR News",
-      "published": "2026-08-08T06:00:00-04:00"
-    },
-    {
-      "headline": "Fastmail Launches EU‑Based Data Region for Customer Privacy",
-      "summary": "The email provider now lets users store messages on servers located within the European Union, aligning with GDPR requirements. The move is marketed as a way to reduce latency and enhance data sovereignty for European subscribers.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "source": "Hacker News",
-      "published": "2026-08-03T00:00:00Z"
-    },
-    {
-      "headline": "Intel Targets ARM’s Efficiency Lead with New Performance‑Per‑Watt Claims",
-      "summary": "Recent benchmarks suggest Intel’s latest processors may finally match or exceed ARM chips in energy efficiency while delivering comparable performance. Analysts see this as a potential shift in the data‑center and laptop markets if the results hold up.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/",
-      "source": "Hacker News",
-      "published": "2026-08-08T08:00:40+00:00"
-    },
-    {
-      "headline": "Medical Report Links Memphis Grizzlies Forward Brandon Clarke’s Death to Heroin and Cocaine",
-      "summary": "An autopsy confirmed that the NBA player’s fatal overdose involved both heroin and cocaine. The finding underscores ongoing concerns about substance abuse among professional athletes.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-08T12:05:04.256Z"
+      "published": "2026-08-08T18:13:49.993Z"
     },
     {
-      "headline": "Oman Says Hormuz Negotiations Are Positive, Iran Warns Any Deal Won’t Open Strait",
-      "summary": "Both parties claim progress toward a new shipping corridor through the strategic waterway, but Tehran insists the agreement won’t guarantee free passage. The stalemate leaves regional trade routes in a state of uncertainty.",
+      "headline": "Women's Pro Baseball League Kicks Off",
+      "summary": "The Women's Professional Baseball League has launched its inaugural season, featuring four teams taking to the field in Springfield, Illinois. This historic moment marks a significant milestone for women's baseball.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+      "source": "NPR News",
+      "published": "2026-08-08T06:30:00-04:00"
+    },
+    {
+      "headline": "Israel Accused of Weaponizing Archaeology",
+      "summary": "Israel is facing criticism for its plans to expropriate large tracts of land in the West Bank, with many accusing the government of using archaeology as a tool for territorial expansion. The move has sparked concerns about the preservation of historical sites.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T23:43:44.045Z"
+    },
+    {
+      "headline": "French Wildfires: Who's to Blame?",
+      "summary": "The French government is struggling to attribute responsibility for the devastating wildfires that swept the country last month, with many questions remaining unanswered. The investigation highlights the need for effective wildfire prevention and response strategies.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T23:59:23.665Z"
+    },
+    {
+      "headline": "Hormuz Strait Talks Show Promise, But Breakthrough Unclear",
+      "summary": "Talks between Oman and Iran over a new shipping route through the Hormuz Strait have shown progress, but a breakthrough remains elusive. The two sides are working to agree on a new route, but Iran has warned that a deal would not automatically open the strait.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
@@ -156,35 +192,35 @@
       "published": "2026-08-08T19:18:57.290Z"
     },
     {
-      "headline": "Tanker Crews Remain at Risk as Strait of Hormuz Remains Unsettled",
-      "summary": "Industry officials warn that without a diplomatic breakthrough, vessels navigating the strait face continued threats from attacks and delays. Captains report ships stuck in limbo, unable to safely transit the chokepoint.",
+      "headline": "Phone Book Leads to Assad's Spy Chief in Hiding",
+      "summary": "A phone book has been used to track down the location of Assad's spy chief, who has been hiding in plain sight. The phone book was used to identify a key figure in the Syrian regime's intelligence network.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz",
-      "source": "NPR News",
-      "published": "2026-08-08T17:19:54-04:00"
+      "url": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
+      "source": "Hacker News",
+      "published": "2026-08-07T23:23:12.774Z"
     },
     {
-      "headline": "Accenture Tries to Curb Wasteful AI‑Token Spending After Leaked Audio Reveals Misuse",
-      "summary": "The consulting firm is developing policies to stop non‑technical staff from squandering AI token budgets on low‑value tasks like PDF‑to‑slide conversions. The internal discussion highlights broader corporate concerns about unchecked generative‑AI costs.",
+      "headline": "Incentives Are a Sign of Weakness, Not Strength",
+      "summary": "A recent article argues that incentives are a sign of weakness, not strength, and that they can actually harm the people they are intended to help. The author suggests that people should be motivated by internal drives, not external rewards.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
-      "source": "Daring Fireball",
-      "published": "2026-06-24T12:50:56.000Z"
+      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "source": "Hacker News",
+      "published": "2026-08-05T14:54:40+00:00"
     },
     {
-      "headline": "Ukraine Honors ‘Collector of Souls’ Oleksiy Yukov, Killed While Retrieving Fallen Soldiers",
-      "summary": "Yukov spent two decades locating and exhuming bodies of combatants, including many Russian troops, to give families closure. He was killed by a landmine during a recovery mission, prompting national mourning.",
+      "headline": "US Offers $1 Billion to Colombia's New Right-Wing President",
+      "summary": "The US has offered $1 billion to Colombia's new right-wing president, Abelardo de la Espriella, in an effort to support his government's efforts to combat narco-terrorism. De la Espriella has vowed to wage an 'all-out war' on the issue.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5925887/ukraine-mourns-oleksiy-yukov",
-      "source": "NPR News",
-      "published": "2026-08-08T13:46:05-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T12:01:42.763Z"
     },
     {
-      "headline": "Dithered QR Codes Blend Art and Functionality",
-      "summary": "A new technique applies dithering patterns to QR codes, creating visually striking designs while preserving scan reliability. The approach demonstrates how aesthetic tweaks can coexist with practical data encoding.",
+      "headline": "Dithered QR Codes: A Novel Approach to Error Correction",
+      "summary": "A new approach to error correction uses dithered QR codes to encode data, making it more resistant to errors and easier to read. The technique has the potential to improve the reliability of QR code-based systems.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
@@ -192,17 +228,8 @@
       "published": "2026-08-08T23:05:24+00:00"
     },
     {
-      "headline": "Switzerland's 370,000 Bunkers: From Cold War Shelters to Migrant Housing",
-      "summary": "Switzerland continued expanding its fallout shelter network after the Cold War, now boasting the world’s largest stock of nuclear bunkers. Many of these structures are being repurposed to accommodate migrants amid ongoing housing pressures.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
-      "source": "NPR News",
-      "published": "2026-08-08T07:01:00-04:00"
-    },
-    {
-      "headline": "Spain Tightens Borders on Italy Amid Ceuta Migrant Surge",
-      "summary": "Spain imposed new border checks on travelers from Italy after Italy introduced controls following an influx of roughly 78,000 migrants entering the Spanish enclave of Ceuta from Morocco. The move has heightened diplomatic friction between the two EU members.",
+      "headline": "Spain Imposes Border Controls on Italy Amid Migrant Row",
+      "summary": "Spain has imposed border controls on Italy in response to an influx of migrants from Morocco into the Spanish exclave of Ceuta. The move is part of a growing row between the two countries over migration policy.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -210,17 +237,17 @@
       "published": "2026-08-07T15:25:42.371Z"
     },
     {
-      "headline": "Live Open-Source Map Tracks Aug 12 Total Solar Eclipse",
-      "summary": "Developers released a free, interactive map that visualizes the path, timing, and shadow of the upcoming total solar eclipse on August 12. Users can toggle layers such as cloud cover and 3‑D shadow to plan optimal viewing locations worldwide.",
-      "category": "Tech/AI",
+      "headline": "Private Prisons Reap $1.4 Billion in Revenue from Immigration Detentions",
+      "summary": "Private prisons have made $1.4 billion in revenue from immigration detentions, with one company, CoreCivic, making an additional $1.6 billion from the sale of four facilities to the Department of Homeland Security. The revenue highlights the growing business of immigration detention.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
-      "source": "Hacker News",
-      "published": "2026-08-08T19:38:08+00:00"
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5923881/geo-group-corecivic-immigration-detention",
+      "source": "NPR News",
+      "published": "2026-08-08T06:00:00-04:00"
     },
     {
-      "headline": "Data Centers Become Hot‑Button Issue in Midwestern Gubernatorial Races",
-      "summary": "Candidates in Wisconsin and Ohio, from opposite parties, are calling for moratoriums on new data centers, citing concerns over water usage, land consumption, and tax incentives. The debate is shaping voter preferences as tech infrastructure expands across the region.",
+      "headline": "Data Centers Become a Campaign Issue Across Party Lines",
+      "summary": "Data centers have become a contentious issue in US politics, with candidates from both parties calling for moratoriums on new data centers. The issue has emerged as a key concern for voters in several states.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
@@ -228,53 +255,80 @@
       "published": "2026-08-08T05:00:00-04:00"
     },
     {
-      "headline": "Why Claiming ‘Code Was Never the Hard Part’ Undermines Programmers",
-      "summary": "A recent blog post argues that dismissing coding challenges disrespects the craft, emphasizing the complex problem‑solving, design, and maintenance work developers perform. It urges broader recognition of the full software development effort beyond just writing code.",
+      "headline": "Interactive Map Tracks Total Solar Eclipse on August 12",
+      "summary": "An open-source interactive map has been created to track the path of the total solar eclipse on August 12. The map allows users to explore the eclipse in real-time and view data on the event.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
       "source": "Hacker News",
-      "published": "2026-08-08T09:18:22Z"
+      "published": "2026-08-08T19:38:08+00:00"
     },
     {
-      "headline": "Women’s Pro Baseball League Launches Inaugural Season",
-      "summary": "Four teams—the Los Angeles Queens, New York Heights, Boston Hunters, and San Francisco Firebells—took the field in Springfield, Illinois, marking the first professional women’s baseball league in the United States. The league aims to grow the sport and create new opportunities for female athletes.",
-      "category": "Sports",
+      "headline": "Fastmail Offers EU Data Region for Users",
+      "summary": "Fastmail has announced the launch of a new EU data region, allowing users to store their data within the European Union. The move is designed to provide users with greater control over their data and comply with EU regulations.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "source": "Hacker News",
+      "published": "2026-08-03T00:00:00Z"
+    },
+    {
+      "headline": "Australia's Unique Species Face Extinction Crisis",
+      "summary": "Australia is home to some of the world's most unique species, but it's losing them at an alarming rate. Conservation efforts are needed to protect the country's biodiversity.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T19:00:22.819Z"
+    },
+    {
+      "headline": "Triton Brings DirectX 11 to QEMU",
+      "summary": "A new driver, Triton, has been released for QEMU, allowing it to run DirectX 11 games and applications. This development could expand the capabilities of QEMU.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
+      "source": "Hacker News",
+      "published": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "headline": "Illinois Mandates Age Verification for Operating Systems",
+      "summary": "A new law in Illinois requires operating systems to report the age of users, sparking concerns about data collection and user privacy. The law aims to prevent children from accessing mature content.",
+      "category": "World",
       "relevance": 5,
-      "url": "https://www.npr.org/sections/the-picture-show/2026/08/08/nx-s1-5923371/womens-professional-baseball-league-debut",
+      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "source": "Hacker News",
+      "published": "2026-08-07T09:57:09.000Z"
+    },
+    {
+      "headline": "Trump's Ex-Lawyer Confirmed as US Attorney General",
+      "summary": "Todd Blanche, Trump's former lawyer, has been confirmed as the US Attorney General despite opposition from some Republicans. His confirmation cements his position as the nation's top law enforcement official.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T10:19:46.982Z"
+    },
+    {
+      "headline": "Switzerland's Nuclear Bunker Network Exceeds Expectations",
+      "summary": "Switzerland has built more than 370,000 nuclear bomb shelters, a network that has been maintained and expanded since the Cold War. Some of these shelters now house migrants.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/08/g-s1-137635/switzerland-nuclear-bunkers",
       "source": "NPR News",
-      "published": "2026-08-08T06:30:00-04:00"
+      "published": "2026-08-08T07:01:00-04:00"
     },
     {
-      "headline": "A Phone Book Trail Uncovers Assad’s Elusive Spy Chief",
-      "summary": "Investigators used a mundane telephone directory to trace the location of a senior Syrian intelligence officer who had been in hiding. The case highlights how open‑source data can reveal high‑profile targets previously thought unreachable.",
+      "headline": "Federal Funds Restricted for Drug Test Strips",
+      "summary": "Federal grants cannot be used to distribute test strips to drug users, raising concerns about overdose prevention. The restriction has been met with criticism from addiction groups.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.bbc.com/news/articles/c4gyrzn8p94o",
-      "source": "Hacker News",
-      "published": "2026-08-07T23:23:12.774Z"
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5874719/federal-funds-cant-be-used-to-give-test-strips-to-drug-users-raising-overdose-fears",
+      "source": "NPR News",
+      "published": "2026-08-08T06:00:00-04:00"
     },
     {
-      "headline": "U.S. Pledges $1 Billion to Colombia on New President’s Inaugural Day",
-      "summary": "On his first day in office, Colombia’s right‑wing leader Abelardo de la Espriella announced an aggressive campaign against “narco‑terrorism.” The United States responded with a billion‑dollar aid package to support security and development efforts.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T12:01:42.763Z"
-    },
-    {
-      "headline": "Kosovo Opposition MP Hurls Eggs at Acting Prime Minister",
-      "summary": "During a parliamentary session, Alliance party MP Time Kadrijaj tossed several eggs at acting Prime Minister Albin Kurti, prompting a chaotic scene with lawmakers and police intervening. The incident underscored rising political tensions within Kosovo’s legislature.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T15:59:37+00:00"
-    },
-    {
-      "headline": "Typhoon Dolphin Brings Destruction to Okinawa and China",
-      "summary": "Typhoon Dolphin has left a trail of destruction in Okinawa, Japan, cutting power to thousands of buildings and injuring several people. The storm is now bearing down on China, threatening further devastation.",
+      "headline": "Typhoon Dolphin Brings Destruction to Japan and China",
+      "summary": "Typhoon Dolphin has caused widespread damage in Japan's Okinawa, cutting power to over 44,000 buildings and injuring five people. The storm is now bearing down on China.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
@@ -282,35 +336,35 @@
       "published": "2026-08-08T15:15:17.200Z"
     },
     {
-      "headline": "Canada Wildfire Forces Thousands to Flee Homes",
-      "summary": "A fast-moving wildfire in British Columbia has doubled in size, forcing thousands of people to flee their homes as the fire remains out of control. The Bald Range wildfire has spread to over 36 square miles, posing a significant threat to the region.",
+      "headline": "Code is Not the Easy Part of Programming",
+      "summary": "A programmer has argued that the phrase 'code was never the hard part' is an insult to all programmers, who face numerous challenges in their work. The comment has sparked a debate in the programming community.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "source": "Hacker News",
+      "published": "2026-08-08T09:18:22Z"
+    },
+    {
+      "headline": "Opposition MP Throws Eggs at Kosovo's Acting PM",
+      "summary": "A lawmaker in Kosovo hurled eggs at the acting prime minister during a heated exchange, prompting lawmakers and police to intervene. The incident has sparked controversy in the country.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-08T18:13:49.993Z"
+      "published": "2026-08-08T15:59:37+00:00"
     },
     {
-      "headline": "TinySol: A Vintage Solitaire Game for DOS",
-      "summary": "A developer has created a tiny solitaire game for DOS, offering a nostalgic experience for those who remember playing classic games on older computers. The game, called TinySol, is a simple yet addictive puzzle game that can be played on a variety of DOS systems.",
+      "headline": "For-Sale DNS Records Raise Concerns",
+      "summary": "A new specification for for-sale DNS records has been proposed, raising concerns about data collection and user privacy. The proposal has sparked a debate in the tech community.",
       "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
       "source": "Hacker News",
-      "published": "2026-08-08T17:42:40+00:00"
+      "published": "2026-08-08T13:26:51+00:00"
     },
     {
-      "headline": "Triton: A DirectX 11 Driver for QEMU",
-      "summary": "A new driver has been released for QEMU, allowing users to run DirectX 11 games and applications on the emulator. The Triton driver is a significant development for QEMU users, who can now enjoy a wider range of games and applications on their virtual machines.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://blog.getutm.app/2026/introducing-triton-directx-11-driver-for-qemu/",
-      "source": "Hacker News",
-      "published": "2026-07-24T00:00:00+00:00"
-    },
-    {
-      "headline": "Lionel Messi Mourns the Loss of His Father",
-      "summary": "Lionel Messi's father and agent, Jorge Messi, has passed away at the age of 68 after a long illness. The news has been met with an outpouring of tributes and condolences from the football community and beyond.",
+      "headline": "Lionel Messi Mourns Loss of Beloved Father",
+      "summary": "Jorge Messi, the father and agent of soccer legend Lionel Messi, has passed away at the age of 68 after a long illness. His legacy will be remembered through the achievements of his son, a global soccer icon.",
       "category": "Sports",
       "relevance": 4,
       "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
@@ -318,121 +372,85 @@
       "published": "2026-08-08T15:36:01.535Z"
     },
     {
-      "headline": "Trump's Ex-Lawyer Confirmed as US Attorney General",
-      "summary": "Todd Blanche, a former lawyer for Donald Trump, has been narrowly confirmed as the US Attorney General despite opposition from some Republicans. The vote cements Blanche's position as the nation's top law enforcement official.",
-      "category": "World",
+      "headline": "Kashmir's Cricket Dreams Come True",
+      "summary": "Auqib Nabi has made history as Jammu and Kashmir's first cricketer to be selected for an India Test match, inspiring millions of young athletes in the region. His achievement is a testament to the power of perseverance and dedication.",
+      "category": "Sports",
       "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c2elpkg1l0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-08T10:19:46.982Z"
+      "published": "2026-08-09T03:00:44.390Z"
     },
     {
-      "headline": "Paris Introduces Safety Gear Rules for E-Scooter Riders",
-      "summary": "Police in Paris are cracking down on e-scooter riders who fail to wear safety gear, following a sharp increase in fatal accidents. The new rules aim to reduce the risk of injury and death among e-scooter users in the French capital.",
-      "category": "World",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/news/articles/c89nkln7w7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T20:18:28.748Z"
-    },
-    {
-      "headline": "Cross-Session Messaging in Claude Code Sessions",
-      "summary": "A new feature has been added to Claude Code sessions, allowing users to send messages to other sessions. This enables developers to collaborate more easily and share information across different sessions.",
-      "category": "Tech/AI",
-      "relevance": 4,
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "source": "Hacker News",
-      "published": "2026-08-08T15:34:49+00:00"
-    },
-    {
-      "headline": "K-Pop Inspires a New Generation of Chilean Pop Stars",
-      "summary": "K-pop has become a global phenomenon, and now Chile's young creatives are remixing the movement to create their own unique sound. Chilean pop stars are drawing inspiration from K-pop to create a fresh and exciting new style.",
-      "category": "Music",
+      "headline": "Tragic Death of NBA Star Brandon Clarke",
+      "summary": "Memphis Grizzlies forward Brandon Clarke's life was cut short due to the effects of heroin and cocaine, a devastating loss for the basketball community. His death serves as a reminder of the importance of prioritizing health and well-being.",
+      "category": "NBA",
       "relevance": 3,
-      "url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
-      "source": "NPR News",
-      "published": "2026-08-08T09:34:45-04:00"
-    },
-    {
-      "headline": "Gateway 2000's Hilariously Bad Ads in the 90s",
-      "summary": "A collection of hilariously bad ads from Gateway 2000 in the 1990s has been shared online, offering a nostalgic look back at the company's marketing efforts. The ads are cringe-worthy and entertaining, providing a glimpse into the past.",
-      "category": "Tech/AI",
-      "relevance": 3,
-      "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-      "source": "Hacker News",
-      "published": "2026-08-04T12:54:55.563135+00:00"
-    },
-    {
-      "headline": "Madonna Honors Legendary Producer William Orbit",
-      "summary": "Madonna paid tribute to William Orbit, a renowned producer she collaborated with on several projects, including her Grammy-winning album Ray of Light. Orbit's innovative production style had a significant impact on Madonna's music and career.",
-      "category": "Music",
-      "relevance": 2,
-      "url": "https://www.bbc.co.uk/news/articles/cewr8wel4z8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-08T15:44:08.285Z"
+      "published": "2026-08-08T12:05:04.256Z"
     },
     {
-      "headline": "Solar Eclipse to be Visible in Parts of US Next Week",
-      "summary": "A solar eclipse is expected to occur next week and will be visible in certain areas of the United States on Wednesday. This rare celestial event is a significant occurrence that will be witnessed by many across the country.",
+      "headline": "Rare Solar Eclipse to Sweep Across US",
+      "summary": "A rare solar eclipse will be visible in parts of the United States next week, offering a unique opportunity for stargazers and scientists to study the phenomenon. The event is a reminder of the awe-inspiring beauty of the natural world.",
       "category": "Other",
-      "relevance": 2,
+      "relevance": 3,
       "url": "https://www.npr.org/2026/08/08/nx-s1-5925939/solar-eclipse-august-2026",
       "source": "NPR News",
       "published": "2026-08-08T20:56:21-04:00"
     },
     {
-      "headline": "Danish High Schoolers to Defend Written Assignments Verbally",
-      "summary": "In a new educational approach, Danish high school students will be required to verbally defend their written assignments, promoting critical thinking and public speaking skills. This innovative method aims to enhance students' overall learning experience and academic performance.",
+      "headline": "Melatonin's Hidden Consequences",
+      "summary": "A recent study has found that taking melatonin can impair morning cognition in healthy young adults, highlighting the need for further research into the effects of this popular sleep aid. The findings have significant implications for public health and wellness.",
       "category": "Other",
-      "relevance": 2,
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "relevance": 3,
+      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
       "source": "Hacker News",
-      "published": "2026-08-07T15:37:30+00:00"
+      "published": "2026-08-09T00:59:58+00:00"
     },
     {
-      "headline": "New DNS Records Allow for Easier Domain Sales",
-      "summary": "A new type of DNS record has been introduced, making it simpler for domain owners to sell their websites and transfer ownership. This development is expected to streamline the domain sales process and increase efficiency in the online market.",
-      "category": "Tech/AI",
+      "headline": "A 2011 Prediction About the Internet's Future",
+      "summary": "A 2011 prediction about the longevity of URLs has sparked discussion about the ephemeral nature of online content and the importance of preserving digital heritage. The prediction has taken on a life of its own, serving as a commentary on the rapidly changing digital landscape.",
+      "category": "Other",
       "relevance": 2,
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "url": "https://longbets.org/601/",
       "source": "Hacker News",
-      "published": "2026-08-08T13:26:51+00:00"
+      "published": "2026-08-09T04:30:26+00:00"
     },
     {
-      "headline": "FIFA Officials Embroiled in Corruption Scandal",
-      "summary": "Despite the success of the recent World Cup, several high-ranking FIFA officials are facing a corruption scandal, highlighting the ongoing issues of corruption within the organization. The scandal has raised concerns about the integrity of the sport and its governing body.",
+      "headline": "Corruption Runs Deep in FIFA",
+      "summary": "A recent report has exposed a culture of corruption within FIFA, highlighting the need for greater accountability and transparency in international sports governance. The scandal has far-reaching implications for the integrity of global sports.",
       "category": "Other",
-      "relevance": 1,
+      "relevance": 2,
       "url": "https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html?unlocked_article_code=1.3VA.4zqH.Pul7X9bQ2kv0&smid=bs-share",
       "source": "Daring Fireball",
       "published": "2026-08-08T20:32:11+00:00"
     },
     {
-      "headline": "Europe Experiences Record-Breaking Heat Wave",
-      "summary": "Europe is currently experiencing a severe heat wave, with record-breaking temperatures causing widespread damage to crops, sparking wildfires, and resulting in increased mortality rates. The extreme weather conditions have raised concerns about climate change and its devastating impact on the environment.",
+      "headline": "K-pop Inspires a New Generation of Chilean Artists",
+      "summary": "The global phenomenon of K-pop has inspired a new wave of young creatives in Chile, who are remixing and reinterpreting the movement to create their own unique sound. The fusion of styles is a testament to the power of cultural exchange and collaboration.",
       "category": "Other",
-      "relevance": 1,
+      "relevance": 2,
+      "url": "https://www.npr.org/2026/08/08/nx-s1-5899791/k-pop-chile-bts",
+      "source": "NPR News",
+      "published": "2026-08-08T09:34:45-04:00"
+    },
+    {
+      "headline": "Europe Suffers Through a Brutal Heat Wave",
+      "summary": "A severe heat wave has gripped Europe, causing widespread damage to crops, sparking wildfires, and claiming lives. The extreme weather conditions have raised concerns about the impact of climate change on global health and ecosystems.",
+      "category": "Other",
+      "relevance": 2,
       "url": "https://www.npr.org/2026/08/08/nx-s1-5916351/opinion-europes-summer-of-heat",
       "source": "NPR News",
       "published": "2026-08-08T08:00:00-04:00"
     },
     {
-      "headline": "The Risks of Knuckle Cracking",
-      "summary": "Cracking one's knuckles has become a common habit for many, but research suggests that it may have negative consequences for joint health and overall well-being. Experts are now advising individuals to reconsider this habit and explore alternative stress-relief methods.",
+      "headline": "LA Warehouse Fire Leaves Trail of Rotting Food",
+      "summary": "A devastating fire at a Los Angeles warehouse has left behind a massive amount of rotting food, creating an unbearable stench and attracting pests and rodents. The cleanup efforts are expected to be a long and challenging process.",
       "category": "Other",
-      "relevance": 1,
-      "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-      "source": "Hacker News",
-      "published": "2026-08-08T09:01:01.229Z"
-    },
-    {
-      "headline": "Beaver Attacks Prompt Park Closures in Maryland",
-      "summary": "Following a second beaver attack, Maryland authorities have closed additional areas of Cunningham Falls State Park to ensure public safety. The attacks have raised concerns about wildlife interactions and the need for increased caution when visiting natural areas.",
-      "category": "Other",
-      "relevance": 1,
-      "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
-      "source": "Hacker News",
-      "published": "2026-08-08T21:07:10+00:00"
+      "relevance": 2,
+      "url": "https://www.bbc.co.uk/news/articles/c2elpz33zp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T00:15:28.089Z"
     }
   ]
 }
