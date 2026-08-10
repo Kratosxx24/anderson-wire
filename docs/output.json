@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-08-10T09:45:33.867688+00:00",
+  "generated_at": "2026-08-10T11:18:44.931728+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Can Machines Truly Feel? AI Meets Emotion with Rosalind Picard",
-      "summary": "Rosalind Picard joins Christopher Watkin to explore how artificial intelligence influences human emotional health. The conversation probes whether machines can experience or simulate feelings and what that means for society.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-emotion-machines-feel/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-10T04:04:45+00:00"
-    },
-    {
-      "headline": "Original Sin as America’s Founding Principle—A Call to Defend It",
-      "summary": "The article argues that the doctrine of original sin helped shape the United States’ early political philosophy. Yet many contemporary evangelicals now dismiss the doctrine, prompting a defense reminiscent of revolutionary fervor.",
+      "headline": "Original Sin Shaped America’s Founding, Yet Many Evangelicals Now Deny It",
+      "summary": "The early United States was heavily influenced by the doctrine of original sin, which framed its moral and legal foundations. Today, a growing number of evangelicals question or reject that doctrine altogether.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/article/original-sin-1776/",
@@ -21,17 +12,26 @@
       "published": "2026-08-10T04:02:00+00:00"
     },
     {
-      "headline": "Hosting Gracefully in Tiny Spaces",
-      "summary": "Living in a small home makes hospitality feel cramped and sometimes awkward, but the author insists faithful hospitality is still possible. Practical tips show how to make guests feel welcome without needing a mansion.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.challies.com/articles/how-to-show-hospitality-when-you-live-in-a-small-home/",
-      "source": "Challies",
-      "published": "2026-08-10T04:02:00+00:00"
+      "headline": "Meta Unveils Open‑Weight Model Aimed at Local Agentic AI",
+      "summary": "Meta released a new open‑weight AI model designed to run on personal devices, giving users more control over their agents. The move signals a shift toward decentralized, user‑centric artificial intelligence.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "source": "Hacker News",
+      "published": "2026-08-10T10:01:39.000Z"
     },
     {
-      "headline": "AI‑Generated Writing: The Human‑First Rebellion",
-      "summary": "The piece declares a pro‑human stance against surrendering creative thought to algorithms. It warns that unchecked AI writing threatens intellectual autonomy.",
+      "headline": "Rosalind Picard Explores Whether Machines Can Truly Feel",
+      "summary": "In a conversation with Christopher Watkin, AI pioneer Rosalind Picard examines how artificial intelligence impacts emotional health. They debate the possibility of genuine machine emotions and their societal implications.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-emotion-machines-feel/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-10T04:04:45+00:00"
+    },
+    {
+      "headline": "AI‑Generated Writing Sparks Human‑Centric Call to Action",
+      "summary": "The piece warns that reliance on AI for writing threatens human creativity and critical thinking. It urges a stance that embraces technology without surrendering our mental autonomy.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/ai-writing-the-day-of-reckoning/",
@@ -39,35 +39,26 @@
       "published": "2026-08-10T04:00:13+00:00"
     },
     {
-      "headline": "Docker Launches Disposable Sandboxes for AI Agents",
-      "summary": "Docker introduces a sandbox service that creates isolated, short‑lived environments for AI workloads. Hacker News users discuss its potential to secure and streamline AI development.",
+      "headline": "Apple’s Chip Shortage Caps Earnings While Amazon’s Results Take Center Stage",
+      "summary": "Apple’s latest earnings were constrained more by a shortage of advanced chips than by memory capacity. The report then pivots to Amazon’s performance and Andy Jassy’s market outlook.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "url": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+      "source": "Stratechery",
+      "published": "2026-08-10T10:00:00+00:00"
+    },
+    {
+      "headline": "Meta’s Muse Glimmer: 30‑B Parameter Open Model for Local Coding Tasks",
+      "summary": "Meta introduced Muse Glimmer, a 30‑billion‑parameter open‑weight model optimized for on‑device coding assistance. The model aims to bring powerful AI development tools directly to users’ machines.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
       "source": "Hacker News",
-      "published": "2026-01-30T15:41:42-08:00"
+      "published": "2026-08-10T00:00:00.000Z"
     },
     {
-      "headline": "Domain‑Specific vs. General‑Purpose Coding AIs: What Practitioners See",
-      "summary": "Developers compare vertical AI tools like Databricks’ Genie Code, which leverage schema and governance knowledge, against broad models such as Copilot and Claude. Early feedback suggests grounding in specific data pipelines can boost accuracy for ML tasks.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vk9f56/domaingrounded_coding_agents_vs_generalpurpose/",
-      "source": "r/Artificial",
-      "published": "2026-08-10T03:13:27+00:00"
-    },
-    {
-      "headline": "Deciding Which AI Agents Earn Real‑World Access",
-      "summary": "A community member wrestles with policies for granting production privileges to autonomous agents. The dilemma balances operational efficiency with the risk of costly mistakes.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vkfrha/how_do_you_all_decide_which_of_your_ai_agents/",
-      "source": "r/Artificial",
-      "published": "2026-08-10T09:13:37+00:00"
-    },
-    {
-      "headline": "Ukrainian Drone Strike Kills at Least 13 in Russia’s Tatarstan",
-      "summary": "A Ukrainian‑launched drone attack on the Tatarstan region resulted in thirteen fatalities, marking one of the deadliest strikes since the war began. Officials confirm the casualties and heightened tensions along the front.",
+      "headline": "Ukrainian Drone Strike Kills at Least 13 in Russia’s Tatarstan Region",
+      "summary": "A Ukrainian drone attack on the Tatarstan region resulted in over a dozen fatalities, marking one of the deadliest strikes since the conflict began. The incident underscores the escalating intensity of cross‑border operations.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
@@ -75,17 +66,17 @@
       "published": "2026-08-10T08:50:02.902Z"
     },
     {
-      "headline": "Voters Push Back on Two‑Party Rule, Favor Proportional Representation",
-      "summary": "A new poll reveals growing American appetite for electoral reform, with many supporting a proportional system that allocates seats based on vote share. The findings signal widespread frustration with the current binary party structure.",
+      "headline": "Typhoon Dolphin Forces Evacuation of One Million in Eastern China",
+      "summary": "China ordered the evacuation of roughly one million residents as Typhoon Dolphin made landfall, bringing fierce winds and torrential rain. Major cities including Shanghai braced for widespread flooding and damage.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
-      "source": "NPR News",
-      "published": "2026-08-10T05:00:00-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-10T01:44:05.489Z"
     },
     {
-      "headline": "Netanyahu Rejects Trump’s Gaza Plan, Vows Continued Military Presence",
-      "summary": "Israel’s prime minister says the U.S. proposal will not be adopted and insists forces will stay in Gaza until Hamas is fully disarmed. The stance underscores ongoing security concerns despite diplomatic overtures.",
+      "headline": "Israel Rejects Trump’s 15‑Point Gaza Plan, Demands Full Disarmament of Hamas",
+      "summary": "Prime Minister Netanyahu announced that Israel will not withdraw from Gaza until Hamas is completely disarmed, dismissing the U.S. proposal. The stance highlights ongoing tensions over the conflict’s resolution.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
@@ -93,8 +84,8 @@
       "published": "2026-08-09T11:58:22.434Z"
     },
     {
-      "headline": "Tool Lets Android ARM64 VR Apps Run on Apple Vision Pro",
-      "summary": "A GitHub project called Klepton enables Android ARM64 virtual‑reality APKs to execute on the Vision Pro headset, linking Android VR ecosystems with Apple’s mixed‑reality platform. This opens a path for developers to bring existing Android VR content to Apple devices.",
+      "headline": "Run Android ARM64 VR Apps on Apple Vision Pro via Compatibility Layer",
+      "summary": "Developers have created a tool that enables Android ARM64 VR APKs to operate on the Apple Vision Pro headset. This bridge expands the Vision Pro’s app ecosystem by tapping into existing Android VR content.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://github.com/shinyquagsire23/Klepton",
@@ -102,53 +93,8 @@
       "published": "2026-08-10T03:12:48+00:00"
     },
     {
-      "headline": "Treat AI Agents as Code, Not Legal Docs",
-      "summary": "A Reddit post argues that autonomous AI agents should be governed through software‑engineering practices rather than traditional document‑based policies. The author urges version control, testing, and modular design to manage AI systems responsibly.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vkdyes/your_agents_are_code_stop_governing_them_like/",
-      "source": "r/Artificial",
-      "published": "2026-08-10T07:23:22+00:00"
-    },
-    {
-      "headline": "BBC Receives Proof South African Special Forces Killed Detective",
-      "summary": "New prosecution files show elite South African forces were implicated in the shooting death of detective Frans Mathipa. The documents, obtained by the BBC, detail the involvement of eight suspects in the murder.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T23:05:29.703Z"
-    },
-    {
-      "headline": "AI Cracks Ten Decade‑Old Math Puzzles for $2,000",
-      "summary": "At a recent panel, Emad Mostaque highlighted that a modest $2,000 compute budget produced machine‑verified proofs for problems unsolved for ten years. The achievement demonstrates how inexpensive AI can now tackle deep mathematical challenges.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vjsil8/emad_mostaque_on_camera_its_a_bad_time_to_be_a/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T15:18:22+00:00"
-    },
-    {
-      "headline": "OpenAI Cites Cache Costs for Codex’s 272K Token Limit",
-      "summary": "OpenAI explains that the 272,000‑token context window for Codex is driven by cache‑read expenses, countering speculation that pricing tiers caused the cap. Although the official spec lists a 1,050,000‑token limit, billing doubles beyond 272K tokens.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vjvpwb/openais_stated_reason_for_codexs_272k_context_cap/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T17:25:42+00:00"
-    },
-    {
-      "headline": "Independent AI Agents Still Lack a Central Marketplace",
-      "summary": "Despite low‑code platforms making agent creation easy, a Reddit user notes the absence of a unified app store for AI agents. The post explores technical, economic, and regulatory hurdles that keep such a marketplace from emerging.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vjr1kf/why_is_there_no_app_store_for_independent_ai/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T14:17:50+00:00"
-    },
-    {
-      "headline": "Using LLMs as Personal Tutors for Difficult Subjects",
-      "summary": "A Hacker News submission details a workflow where large language models help the author master intricate topics through iterative prompting and summarization. The guide shares practical tips for structuring queries and verifying model output.",
+      "headline": "Harnessing AI for Lifelong Learning",
+      "summary": "A self-taught learner shares their approach to using large language models to master complex topics, leveraging AI to accelerate their own knowledge acquisition. By combining AI-driven research with human intuition, they've developed a powerful learning framework.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
@@ -156,71 +102,71 @@
       "published": "2026-08-09T19:16:49+00:00"
     },
     {
-      "headline": "NBA Legend Don Nelson Passes Away at 86",
-      "summary": "Hall of Famer Don Nelson, a three‑time Coach of the Year and five‑time champion as a player, died peacefully on Sunday. Tributes highlight his innovative coaching style and lasting impact on the game.",
-      "category": "NBA",
+      "headline": "Maverick Revives Proto-Rage Form",
+      "summary": "The rapper's surprise EP showcases a revitalized sound that blends past strengths with fresh energy, avoiding the pitfalls of repetition. This new release marks a triumphant return to form for the artist.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vjvojn/threetime_nba_coach_of_the_year_don_nelson_has/",
-      "source": "r/NBA",
-      "published": "2026-08-09T17:24:16+00:00"
+      "url": "https://pitchfork.com/reviews/albums/lil-uzi-vert-maverick-almost-forever-ep/",
+      "source": "Pitchfork",
+      "published": "2026-08-10T04:03:00+00:00"
     },
     {
-      "headline": "Robotics Unicorns Fixated on Automating Laundry",
-      "summary": "A Reddit discussion examines why high‑valued robotics firms pour resources into laundry‑folding machines. The post argues the task offers a clear, repeatable benchmark for dexterous manipulation and consumer appeal.",
-      "category": "Tech/AI",
+      "headline": "Skeletal Folk Music Confronts Inaction",
+      "summary": "A New York singer-songwriter's album uses deceptively simple arrangements to tackle themes of personal and political inaction, crafting a powerful critique of complacency. Through sparse, haunting melodies, the artist rages against the status quo.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vjorly/why_billiondollar_robotics_startups_are_obsessed/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T12:34:52+00:00"
+      "url": "https://pitchfork.com/reviews/albums/margaret-glaspy-i-am-both/",
+      "source": "Pitchfork",
+      "published": "2026-08-10T04:02:00+00:00"
     },
     {
-      "headline": "Interlochen Arts School Faces Wave of Abuse Allegations",
-      "summary": "Former students of the Interlochen Center for the Arts have come forward with roughly 70 claims involving nearly 50 staff members, including alleged misconduct by Jeffrey Epstein. The revelations, reported by NPR, span several decades of alleged sexual abuse.",
+      "headline": "Voters Seek Alternatives to Two-Party System",
+      "summary": "A new poll reveals widespread dissatisfaction with the current electoral system, with many Americans open to exploring alternative models like proportional representation. This shift in public opinion could pave the way for significant changes in the way the US elects its leaders.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920312/proportional-representation-poll",
       "source": "NPR News",
       "published": "2026-08-10T05:00:00-04:00"
     },
     {
-      "headline": "China evacuates one million as Typhoon Dolphin slams eastern coast",
-      "summary": "Typhoon Dolphin made landfall, unleashing strong winds and torrential rain across eastern China, including Shanghai. Authorities moved about a million residents to safety to mitigate flood risk and damage.",
-      "category": "World",
+      "headline": "Ambient Drones and Angelic Vocals Unite",
+      "summary": "A collaboration between a veteran New Zealand guitarist and a rising London avant-pop musician yields an album of immersive, wordless soundscapes. This sonic mind-meld pushes the boundaries of ambient music and vocal experimentation.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-10T01:44:05.489Z"
+      "url": "https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/",
+      "source": "Pitchfork",
+      "published": "2026-08-10T04:01:00+00:00"
     },
     {
-      "headline": "Claude Code switches Auto mode to default, streamlining AI coding",
-      "summary": "The Claude Code platform now automatically runs in Auto mode, reducing manual configuration for developers. The change, highlighted on Hacker News, has drawn significant community attention with over 200 points.",
+      "headline": "VS Code Extension Exposes APIs to Agents",
+      "summary": "A new extension for Visual Studio Code, Implant, allows coding agents to interact with the IDE's APIs, expanding its capabilities and potential applications. This innovative tool has the potential to streamline development workflows.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "url": "https://marketplace.visualstudio.com/items?itemName=strangepleasures.implant",
       "source": "Hacker News",
-      "published": "Aug 07, 2026"
+      "published": "2026-08-10T09:22:25+00:00"
     },
     {
-      "headline": "Maine Senate showdown hinges on women voters",
-      "summary": "In the closely watched race between incumbent Susan Collins and challenger Troy Jackson, female voters are seen as the decisive bloc. Both campaigns are tailoring outreach to win over Maine’s women electorate.",
-      "category": "World",
+      "headline": "Indie Rock Debut Explores Passion and Experience",
+      "summary": "A Philadelphia-based songwriter's wide-ranging debut album is a deeply personal exploration of passion, love, and life's complexities. Through her music, she invites listeners to reflect on their own experiences and emotions.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
-      "source": "NPR News",
-      "published": "2026-08-10T05:00:00-04:00"
+      "url": "https://pitchfork.com/reviews/albums/mallory-hawk-chinook/",
+      "source": "Pitchfork",
+      "published": "2026-08-10T04:00:00+00:00"
     },
     {
-      "headline": "Voice‑driven murder‑mystery lets you interrogate AI suspects",
-      "summary": "A hobbyist demo lets users solve a whodunit by speaking to AI characters that respond in real time. The project revives early voice‑AI experiments with a game‑like twist.",
+      "headline": "Disposable Sandboxes for AI Agents",
+      "summary": "Docker Sandboxes offers a convenient, isolated environment for AI agents to operate, enabling developers to test and deploy AI models with greater ease and flexibility. This innovative solution streamlines AI development and deployment.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.whodunnitai.com/",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
       "source": "Hacker News",
-      "published": "2026-08-10T03:18:40+00:00"
+      "published": "2026-01-30T15:41:42-08:00"
     },
     {
-      "headline": "FAA partners with startup to overhaul U.S. airspace, inspired by Alaska Airlines",
-      "summary": "Alaska Airlines’ efficiency push led it to hire Air Space Intelligence, a niche startup. The FAA has now contracted the firm to help redesign national air traffic management.",
+      "headline": "Airline Pioneers New Airspace Optimization",
+      "summary": "Alaska Airlines' collaboration with Air Space Intelligence has led to a major breakthrough in optimizing air traffic control, with the FAA now adopting the company's approach for a nationwide reboot. This innovative solution has the potential to transform the US airspace.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/10/nx-s1-5872752/airspace-reboot-alaska-airlines-flyways",
@@ -228,17 +174,17 @@
       "published": "2026-08-10T05:00:00-04:00"
     },
     {
-      "headline": "Reddit user seeks filter for endless LLM complaints",
-      "summary": "A poster on r/Artificial expresses frustration with repetitive posts criticizing large language models. They request a way to mute such negativity to keep the community focused.",
-      "category": "Tech/AI",
+      "headline": "South African Special Forces Accused of Murder",
+      "summary": "A top detective's murder has led to a high-profile trial, with evidence suggesting involvement by South Africa's special forces. The prosecution's case against eight accused men has significant implications for the country's military and law enforcement agencies.",
+      "category": "World",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vjzrbx/filtering_out_llm_sucks/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T20:03:15+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T23:05:29.703Z"
     },
     {
-      "headline": "Ukrainian drone strike hits Russian city Nizhnekamsk, killing 12",
-      "summary": "Ukraine launched a long‑range drone attack on Nizhnekamsk, targeting oil infrastructure. The strike caused civilian casualties and heightened tension over Russia’s fuel shortages.",
+      "headline": "Russia's Fuel Shortages Worsen After Ukraine Drone Attacks",
+      "summary": "Ukraine's long-range drone attacks on Russian oil facilities have caused widespread fuel shortages and unsettled the Russian public. The attacks have become almost daily occurrences in recent months.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
@@ -246,62 +192,26 @@
       "published": "2026-08-10T04:58:22-04:00"
     },
     {
-      "headline": "Reddit thread compares calculators to generative AI tools",
-      "summary": "A user posted a brief analysis contrasting the deterministic nature of calculators with the probabilistic output of generative programs. The discussion explores use‑case differences and reliability concerns.",
+      "headline": "Introducing OpenChamber: A New Development Environment",
+      "summary": "OpenChamber is an agentic development environment that aims to revolutionize the way developers work. Its features and capabilities are still being explored and discussed on Hacker News.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vk3cw4/scrape_small_piece_on_dif_of_calculators_vs/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T22:31:34+00:00"
-    },
-    {
-      "headline": "Economist piece warns AI’s tragedy of the commons",
-      "summary": "An article in The Economist argues that unchecked AI development risks collective resource depletion, likening it to classic environmental dilemmas. Hacker News users debated the implications, generating 122 points.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "url": "https://openchamber.dev/",
       "source": "Hacker News",
-      "published": "2026-08-09T19:43:52+00:00"
+      "published": "2026-08-09T17:27:16+00:00"
     },
     {
-      "headline": "Looking for AI upscaler that preserves original audio fidelity",
-      "summary": "A Redditor asks for a tool that can enhance the quality of a 2003 recording without altering vocals or instruments. The request targets preserving the exact performance while reducing noise and improving clarity.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vjugll/is_there_any_ai_music_tool_that_can_recreate_a/",
-      "source": "r/Artificial",
-      "published": "2026-08-09T16:36:11+00:00"
-    },
-    {
-      "headline": "Ben Simmons Eyes NBA Return, Open to Vet Minimum Contract",
-      "summary": "NBA free agent Ben Simmons is exploring options to return to the league, with several teams expressing interest and one offering a training camp invite. Simmons is also set to participate in an Aussie men's national team mini-camp, fueling his hopes of playing in the 2028 LA Olympics.",
-      "category": "NBA",
+      "headline": "Small Homes Don't Have to Mean Small Hospitality",
+      "summary": "Despite the challenges, hosting guests in a small home can be done with creativity and intentionality. It's not about the size of the space, but about the warmth and welcome you offer.",
+      "category": "Faith",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vk8rm8/spears_sources_several_nba_teams_have_expressed/",
-      "source": "r/NBA",
-      "published": "2026-08-10T02:41:43+00:00"
-    },
-    {
-      "headline": "Maverick Releases Surprise EP 'Almost Forever'",
-      "summary": "Maverick has dropped a surprise EP titled 'Almost Forever', marking a strong return to form for the proto-rage rapper. The new release revitalizes Maverick's past strengths while introducing fresh energy to his sound.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/lil-uzi-vert-maverick-almost-forever-ep/",
-      "source": "Pitchfork",
-      "published": "2026-08-10T04:03:00+00:00"
-    },
-    {
-      "headline": "I Am Both: A Deceptively Skeletal Folk Album",
-      "summary": "The New York singer-songwriter's latest album 'I Am Both' features deceptively simple folk music that belies a deeper sense of urgency and rage. Through the album, the artist tackles themes of personal and political inaction, urging listeners to take a stand.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/margaret-glaspy-i-am-both/",
-      "source": "Pitchfork",
+      "url": "https://www.challies.com/articles/how-to-show-hospitality-when-you-live-in-a-small-home/",
+      "source": "Challies",
       "published": "2026-08-10T04:02:00+00:00"
     },
     {
-      "headline": "WorkOS Simplifies API Connections for AI Agents",
-      "summary": "WorkOS is helping teams connect their AI agents to APIs more efficiently, offering a solution that complements traditional REST standards. By using WorkOS, developers can streamline interactions between agents and APIs, improving overall performance.",
+      "headline": "Connecting AI Agents to Your API Just Got Easier",
+      "summary": "WorkOS has introduced a solution to connect AI agents to APIs, making it easier for developers to integrate their agents with their systems. This move aims to simplify the process and reduce complexity.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
@@ -309,35 +219,35 @@
       "published": "Mar 13, 2026"
     },
     {
-      "headline": "Philippines' Offshoring Industry Thrives Despite AI Advances",
-      "summary": "The Philippines' offshoring industry is experiencing significant growth, with many companies continuing to outsource work to the country despite the rise of AI. This trend suggests that human workers still have a vital role to play in various sectors, from customer service to data processing.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "source": "Hacker News",
-      "published": "2026-08-10T04:35:24+00:00"
-    },
-    {
-      "headline": "Gemini 3.5 Pro Cancelled, According to SemiAnalysis",
-      "summary": "The anticipated Gemini 3.5 Pro has reportedly been cancelled, with SemiAnalysis breaking the news of the product's silent demise. The cancellation may come as a disappointment to fans of the Gemini series, who were looking forward to the latest iteration.",
+      "headline": "Understanding Email Authentication: SPF, DKIM, and DMARC",
+      "summary": "Sender Ledger has explained the basics of email authentication, covering SPF, DKIM, and DMARC. These protocols work together to ensure the authenticity and security of emails.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/artificial/comments/1vke07l/it_looks_like_gemini_35_pro_will_no_longer_see/",
-      "source": "r/Artificial",
-      "published": "2026-08-10T07:26:15+00:00"
+      "url": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
+      "source": "Hacker News",
+      "published": "2026-08-10T09:46:05+00:00"
     },
     {
-      "headline": "Nebular: A Hypnotic Collaboration of Ambient Soundscapes",
-      "summary": "The new album 'Nebular' brings together a veteran New Zealand guitarist and a rising London avant-pop musician, resulting in a captivating blend of foggy ambient drones and wordless, angelic singing. The album is a masterclass in atmospheric sound design, transporting listeners to another world.",
-      "category": "Music",
+      "headline": "Thai Ex-MP Livestreams Confession to Murder",
+      "summary": "A former Thai MP has confessed to shooting a government official in a shocking YouTube livestream. The incident has sent shockwaves through the country and raised questions about the MP's mental state.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/",
-      "source": "Pitchfork",
-      "published": "2026-08-10T04:01:00+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-10T09:51:07.439Z"
     },
     {
-      "headline": "Suspected Crime Boss Kinahan Extradited to Ireland",
-      "summary": "Notorious suspected crime boss Kinahan has been extradited to Ireland from Dubai, marking a significant development in the country's efforts to bring him to justice. The Irish Prison Service has taken extensive security measures to ensure Kinahan's safe transportation, including the use of a bulletproof and bombproof van.",
+      "headline": "Arts School Exposed Decades of Abuse and Cover-Ups",
+      "summary": "A new report has revealed a culture of abuse and cover-ups at an elite arts school, with over 70 allegations of sexual abuse by nearly 50 adults. The victims have shared their stories, seeking justice and accountability.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5924901/michigan-students-jeffrey-epstein-sexual-abuse-interlochen-center-arts",
+      "source": "NPR News",
+      "published": "2026-08-10T05:00:00-04:00"
+    },
+    {
+      "headline": "Notorious Crime Boss Kinahan Faces Justice in Ireland",
+      "summary": "The suspected crime boss, Kinahan, has been extradited to Ireland and is facing charges. His extradition from Dubai was a significant development in the ongoing efforts to bring him to justice.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
@@ -345,35 +255,26 @@
       "published": "2026-08-09T08:50:14.363Z"
     },
     {
-      "headline": "SQLite Compressed Text-History Prototypes Show Promise",
-      "summary": "Research into SQLite compressed text-history prototypes has yielded promising results, with potential applications in storing revision histories in relational databases. By using compressed JSON arrays, developers may be able to efficiently store and manage large amounts of text data.",
+      "headline": "Claude Code Now Defaults to Auto Mode",
+      "summary": "Claude Code has updated its default mode to auto, making it easier for users to get started with the platform. This change aims to simplify the user experience and improve productivity.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-09T22:05:00+00:00"
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "source": "Hacker News",
+      "published": "Aug 07, 2026"
     },
     {
-      "headline": "Chinook: A Wide-Ranging Debut from Philadelphia Songwriter",
-      "summary": "The Philadelphia-based indie rock songwriter has released a debut album titled 'Chinook', showcasing a lifetime of passion and creative expression. The album's eclectic sound is characterized by its wide-ranging exploration of themes and styles, introducing listeners to a talented new voice in the music scene.",
-      "category": "Music",
+      "headline": "Show HN: Voice-Driven Murder Mystery Game",
+      "summary": "A developer has created a voice-driven murder mystery game that allows users to interact with AI suspects using their voice. The game is a unique take on the traditional murder mystery genre.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/mallory-hawk-chinook/",
-      "source": "Pitchfork",
-      "published": "2026-08-10T04:00:00+00:00"
+      "url": "https://www.whodunnitai.com/",
+      "source": "Hacker News",
+      "published": "2026-08-10T03:18:40+00:00"
     },
     {
-      "headline": "MyPillow CEO Leverages Trump Endorsement in Minnesota Gubernatorial Primary",
-      "summary": "Lindell is banking on former President Trump's backing as he runs for governor, despite Trump having lost the state in the last election. However, the state Republican convention favored another candidate, signaling internal party resistance.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
-      "source": "NPR News",
-      "published": "2026-08-10T05:00:00-04:00"
-    },
-    {
-      "headline": "Unidentified Drones Fly Over German Military Base After Leipzig Bombing",
-      "summary": "Authorities are probing a drone sighting above a facility that stores Patriot missile components, occurring just days after a bomb exploded in Leipzig. The incident raises security concerns for the base and surrounding area.",
+      "headline": "Drones Hover Over German Base After Leipzig Bomb Threat",
+      "summary": "Police are investigating a drone sighting over a German military site that stores Patriot missile components, occurring days after a bomb was discovered in Leipzig. Authorities view the incident as a possible security breach and are reviewing airspace violations.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
@@ -381,76 +282,175 @@
       "published": "2026-08-09T16:18:10.683Z"
     },
     {
-      "headline": "Debating Kawhi Leonard's 2019 Exit from Toronto as a Historic NBA Misstep",
-      "summary": "Critics argue that the Raptors thrived after his departure, posting a 53‑win season and seeing several players improve. While the claim is speculative, the team's post‑Leonard success fuels the debate.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vk2p5d/was_kawhi_leaving_toronto_in_2019_one_of_the/",
-      "source": "r/NBA",
-      "published": "2026-08-09T22:04:08+00:00"
+      "headline": "Print-Your-Own Paper Globe From Satellite Images",
+      "summary": "A new website lets users download printable map sheets that can be folded into a three‑dimensional globe using publicly available satellite data. Detailed instructions make the low‑cost project accessible for educators and hobbyists alike.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://foldingglobes.com/",
+      "source": "Hacker News",
+      "published": "2026-08-10T02:57:38+00:00"
     },
     {
-      "headline": "Misjudged Prospects: NBA Players Who Failed to Live Up to Hype",
-      "summary": "Fans once expected Ben McLemore to become a dominant scorer and saw Justise Winslow as a future Jimmy Butler, but both fell short of those expectations. The thread highlights how draft optimism can misfire.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vka7l0/nba_busts_you_thought_were_guaranteed_stars/",
-      "source": "r/NBA",
-      "published": "2026-08-10T03:53:53+00:00"
+      "headline": "Snowflake Engineers Detail CDC Migration to Postgres",
+      "summary": "Snowflake’s engineering team outlines how they moved a Change Data Capture pipeline from PostgreSQL to Snowflake, employing replication and mirroring strategies. The post highlights performance improvements and practical lessons for large‑scale data migrations.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "source": "Hacker News",
+      "published": "2026-07-23T20:49:13.318Z"
     },
     {
-      "headline": "Challies' August 10 Newsletter Offers Faith‑Focused Deals and Reflections",
-      "summary": "The weekly email greets readers with a spiritual greeting and promotes Kindle discounts on religious titles, including a new happiness book by Andrew Wilson. It aims to blend devotional encouragement with practical savings.",
+      "headline": "NZ Music Scene Collapses; Startup Builds New Platform",
+      "summary": "Traditional music distribution channels in New Zealand have vanished, leaving artists without reliable outlets for their work. A local startup is creating a new service to restore access and support for the country’s musicians.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+      "source": "Hacker News",
+      "published": "2026-08-09T09:27:06.970Z"
+    },
+    {
+      "headline": "Medicaid Work Rules Threaten Disabled Workers’ Benefits",
+      "summary": "Upcoming Medicaid work‑requirement policies could strip benefits from disabled individuals who earn modest wages. Advocates warn the rules punish those seeking to increase employment and risk losing essential health coverage.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5910791/disabilities-people-work-requirements-medicaid-income-caps-buy-in",
+      "source": "NPR News",
+      "published": "2026-08-10T07:00:00-04:00"
+    },
+    {
+      "headline": "Anthropic’s Claude 5 Models Paused, Then Restored Amid Export Controls",
+      "summary": "Anthropic launched Claude Opus 5 and Claude Mythos 5 on June 9, 2026, but suspended them two days later due to U.S. export controls. The controls were lifted on June 30, allowing the models to be reinstated on July 1, highlighting regulatory volatility for AI services.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-09T23:31:39+00:00"
+    },
+    {
+      "headline": "Mike Lindell Leverages Trump Endorsement in Minnesota Governor Race",
+      "summary": "MyPillow founder Mike Lindell is foregrounding former President Trump’s endorsement in the Minnesota gubernatorial primary. Despite the high‑profile backing, the state Republican convention has nominated another candidate, limiting Lindell’s party support.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925152/lindell-minnesota-primary-elections-trump",
+      "source": "NPR News",
+      "published": "2026-08-10T05:00:00-04:00"
+    },
+    {
+      "headline": "SQLite Prototype Stores Full Text History in Compressed JSON",
+      "summary": "A developer experiment stores every version of a document as a JSON array of strings inside a SQLite column and compresses it to save space. The approach tests whether lightweight revision histories can be efficiently managed within a relational database.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-09T22:05:00+00:00"
+    },
+    {
+      "headline": "Maine Senate Showdown Hinges on Women Voters",
+      "summary": "The race between incumbent Susan Collins and challenger Troy Jackson could be decided by Maine’s female electorate. Both campaigns are tailoring messages to issues that resonate strongly with women voters.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5925349/maine-senate-race-susan-collins-troy-jackson-women-voters",
+      "source": "NPR News",
+      "published": "2026-08-10T05:00:00-04:00"
+    },
+    {
+      "headline": "Military Screens for Low Testosterone Amid Public Debate",
+      "summary": "The armed forces plan to begin testing service members for low testosterone, prompting a surge of social media discussion about the therapy. Medical experts note that only individuals with a clinically confirmed deficiency should consider treatment.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
+      "source": "NPR News",
+      "published": "2026-08-10T05:00:00-04:00"
+    },
+    {
+      "headline": "HackerOne Faces Uncertain Future",
+      "summary": "HackerOne, a prominent bug bounty platform, is facing an uncertain future amid concerns over its direction and impact on the cybersecurity community. The company's evolution has sparked debate among hackers and security experts, with some questioning its commitment to its original mission.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "source": "Hacker News",
+      "published": "2026-08-07T11:00:00-04:00"
+    },
+    {
+      "headline": "Canada Wildfire Spreads Unchecked",
+      "summary": "A devastating wildfire in British Columbia, Canada, has claimed one life and burned over 53 square miles of land, with residents warned to prepare for the worst. The fire, known as the Bald Range wildfire, remains out of control, prompting widespread concern and evacuation efforts.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T18:13:49.993Z"
+    },
+    {
+      "headline": "Next-Gen Nuclear Reactors on Horizon",
+      "summary": "A new generation of small nuclear reactors is set to come online in the near future, offering a potentially significant shift in the way energy is generated. However, public opinion on the technology remains divided, with some expressing concerns over safety and environmental impact.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
+      "source": "NPR News",
+      "published": "2026-08-10T00:01:00-04:00"
+    },
+    {
+      "headline": "Ecuador Charges Ex-Minister in Assassination Case",
+      "summary": "Ecuadorian prosecutors have charged a former minister and several others, including a cartel leader, in connection with the murder of presidential candidate Fernando Villavicencio. The case has sparked widespread outrage and calls for justice in the country.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T15:34:04.694Z"
+    },
+    {
+      "headline": "The Ambition Project Takes Shape",
+      "summary": "The Ambition Project is a new initiative aimed at driving progress and innovation in various fields, with a focus on collaboration and knowledge-sharing. While details are still emerging, the project has already generated interest and excitement among those looking to make a positive impact.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.betonit.ai/p/the-ambition-project",
+      "source": "Hacker News",
+      "published": "2026-08-04T15:01:27+00:00"
+    },
+    {
+      "headline": "Nigerian Army Rescues Kidnapped Civilians",
+      "summary": "The Nigerian army has successfully rescued 33 people who were kidnapped by gunmen while traveling through the country's north-western Zamfara state. The rescue operation is a rare positive development in a region plagued by violence and instability.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T19:57:28.926Z"
+    },
+    {
+      "headline": "Puerto Rico Imposes Water Rationing",
+      "summary": "Puerto Rico has introduced water rationing measures due to a severe drought, affecting hundreds of thousands of people and highlighting the island's aging infrastructure. The move is a temporary solution to a long-term problem, with officials working to address the underlying issues.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T16:43:23.808Z"
+    },
+    {
+      "headline": "Hacker Community Shares Projects and Interests",
+      "summary": "The Hacker News community has come together to share their current projects and interests, with a wide range of topics and ideas being discussed. From coding and technology to science and art, the conversation is a testament to the diversity and creativity of the community.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://news.ycombinator.com/item?id=49233423",
+      "source": "Hacker News",
+      "published": "2026-08-09T17:23:22+00:00"
+    },
+    {
+      "headline": "Christian Book Deals and Resources",
+      "summary": "A new set of Kindle deals is available, featuring books on preaching, happiness, and other topics of interest to Christians. The selection includes works by prominent authors, such as Andrew Wilson, and offers a valuable resource for those seeking to deepen their faith and understanding.",
       "category": "Faith",
-      "relevance": 5,
+      "relevance": 4,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-10-2026/",
       "source": "Challies",
       "published": "2026-08-10T04:01:00+00:00"
     },
     {
-      "headline": "All‑Time NBA Championship Ring Tally: From Russell to Jordan",
-      "summary": "A Reddit post lists players by total rings, noting Bill Russell's 11, Sam Jones' 10, and others ranging down to a cluster with three to five rings. The ranking sparks discussion about the relative value of championships across eras.",
-      "category": "NBA",
-      "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1vk6h2m/the_authoritative_ring_count/",
-      "source": "r/NBA",
-      "published": "2026-08-10T00:52:29+00:00"
-    },
-    {
-      "headline": "Don Nelson Confronts Karl Malone Over On‑Court Elbow to Shawn Bradley",
-      "summary": "Former coach Don Nelson publicly challenged Malone after the veteran NBA star struck Bradley during a game, igniting a heated exchange. The incident underscores lingering tensions among league veterans.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vk1ow0/don_nelson_gets_into_it_with_karl_malone_after/",
-      "source": "r/NBA",
-      "published": "2026-08-09T21:21:47+00:00"
-    },
-    {
-      "headline": "Kawhi Leonard Accused of Seeking Illicit Perks During 2019 Free Agency",
-      "summary": "Sources claim Leonard's representatives asked the Lakers for private jets, housing, guaranteed off‑court earnings, and even a team ownership stake. The allegations have prompted an NBA investigation into possible cap circumvention.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vjt4os/woike_when_kawhi_became_a_free_agent_in_2019_his/",
-      "source": "r/NBA",
-      "published": "2026-08-09T15:43:02+00:00"
-    },
-    {
-      "headline": "Ujiri Says Kawhi Leonard Was Straightforward in 2019 Clippers Deal",
-      "summary": "In a Summer League interview, Raptors exec Masai Ujiri noted that Leonard was the only member of his camp who was candid during negotiations. The remark hints at possible opacity from other parties involved in the transaction.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vk6iey/after_leonard_signed_with_the_clippers_in_2019/",
-      "source": "r/NBA",
-      "published": "2026-08-10T00:54:17+00:00"
-    },
-    {
-      "headline": "Military Plans Testosterone Screening Amid Social Media Hype",
-      "summary": "The armed forces will begin testing service members for low testosterone levels, while online platforms buzz with unverified claims about hormone therapy. Experts weigh in on who truly benefits from treatment versus those chasing trends.",
+      "headline": "Overcoming Tinnitus Through Mindfulness",
+      "summary": "A new video explores the experience of living with tinnitus, a condition characterized by persistent ringing in the ears, and how mindfulness and self-acceptance can help alleviate its effects. The author shares their personal journey of learning to cope with and eventually overcome the condition.",
       "category": "Other",
       "relevance": 2,
-      "url": "https://www.npr.org/2026/08/10/nx-s1-5920359/health-men-safety-testosterone-fda-hormone-therapy",
-      "source": "NPR News",
-      "published": "2026-08-10T05:00:00-04:00"
+      "url": "https://mynoise.net/vlog.php?ep=20260803",
+      "source": "Hacker News",
+      "published": "2026-08-09T18:41:35+00:00"
     }
   ]
 }
