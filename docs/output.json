@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-10T06:01:12.773810+00:00",
+  "generated_at": "2026-08-10T08:00:32.002312+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Original Sin's Enduring Impact on America",
-      "summary": "The concept of original sin played a significant role in shaping the United States, but its relevance is now being questioned by many evangelicals. Despite its historical importance, the doctrine is facing rejection in modern times, sparking debate about its continued significance.",
+      "headline": "Original Sin Doctrine Shaped America’s Founding, Yet Many Evangelicals Now Dismiss It",
+      "summary": "The piece argues that the concept of original sin was integral to the philosophical underpinnings of the United States. Today, a growing segment of evangelical Christians question or reject the doctrine.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/article/original-sin-1776/",
@@ -12,8 +12,26 @@
       "published": "2026-08-10T04:02:00+00:00"
     },
     {
-      "headline": "The Intersection of AI and Human Emotion",
-      "summary": "A discussion with Rosalind Picard explores the effects of artificial intelligence on human emotional well-being, raising important questions about the potential consequences of increasing AI integration. As AI becomes more prevalent, understanding its impact on human emotions is crucial for promoting healthy interactions between humans and machines.",
+      "headline": "AI’s Tragedy of the Commons Threatens Shared Resources",
+      "summary": "The article warns that unregulated AI development could lead to overuse of data, compute power, and talent, mirroring classic commons dilemmas. It calls for coordinated governance to prevent a race that depletes collective benefits.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "source": "Hacker News",
+      "published": "2026-08-09T19:43:52+00:00"
+    },
+    {
+      "headline": "Leveraging LLMs to Master Difficult Subjects",
+      "summary": "The author shares a step‑by‑step workflow that uses large language models for research, note‑taking, and testing understanding. By iterating prompts and self‑quizzing, they accelerate learning across technical fields.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "source": "Hacker News",
+      "published": "2026-08-09T19:16:49+00:00"
+    },
+    {
+      "headline": "Rosalind Picard Explores Whether AI Can Experience Emotions",
+      "summary": "In a conversation with Christopher Watkin, Picard examines affective computing and its implications for mental health. They debate if machines can truly sense feelings or merely simulate them for user interaction.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-emotion-machines-feel/",
@@ -21,8 +39,8 @@
       "published": "2026-08-10T04:04:45+00:00"
     },
     {
-      "headline": "The Battle for Human Intelligence in the Age of AI",
-      "summary": "The increasing presence of AI in daily life has sparked a debate about the role of human intelligence, with some arguing that relying on machines undermines human capabilities. Proponents of human intelligence advocate for a balanced approach that leverages technology without sacrificing human thought and creativity.",
+      "headline": "AI‑Generated Text Sparks a Human‑Centric Reckoning",
+      "summary": "The article argues that while AI tools are useful, they risk eroding critical thinking if people cede authorship to algorithms. It urges a stance that values human creativity over convenience.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/article/ai-writing-the-day-of-reckoning/",
@@ -30,8 +48,8 @@
       "published": "2026-08-10T04:00:13+00:00"
     },
     {
-      "headline": "Breaking Down Barriers: Running Android Apps on Apple Vision Pro",
-      "summary": "A new development allows users to run Android ARM64 VR apps on the Apple Vision Pro, bridging a significant gap between the two platforms. This innovation has the potential to expand the range of available apps and improve user experience, regardless of the device being used.",
+      "headline": "Run Android ARM64 VR Apps Directly on Apple Vision Pro",
+      "summary": "A GitHub project called Klepton enables Vision Pro to execute ARM64 Android VR packages via emulation. The tool opens cross‑platform possibilities for developers and users eager to test VR content on Apple’s headset.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://github.com/shinyquagsire23/Klepton",
@@ -39,98 +57,62 @@
       "published": "2026-08-10T03:12:48+00:00"
     },
     {
-      "headline": "Notorious Crime Boss Extradited and Appears in Court",
-      "summary": "Daniel Kinahan, a suspected crime boss, has been extradited from Dubai and appeared in court, with authorities taking extensive security measures to ensure his safe transport. The high-profile case has drawn significant attention, with many awaiting the outcome of the legal proceedings against Kinahan.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T08:50:14.363Z"
-    },
-    {
-      "headline": "Israel Rejects Trump's Gaza Peace Plan",
-      "summary": "Israel's Prime Minister has rejected a proposed peace plan for Gaza, citing the need for Hamas to disarm before any agreement can be reached. The plan, which was recently announced by former US President Trump, has been met with skepticism by Israeli leaders who prioritize the country's security above all else.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T11:58:22.434Z"
-    },
-    {
-      "headline": "Evidence Emerges in Murder Case Against South African Special Forces",
-      "summary": "New evidence has come to light in the case of a top detective who was murdered, with allegations pointing to the involvement of South African special forces. The prosecution's case against the accused men is building, with access to key evidence shedding more light on the circumstances surrounding the detective's death.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T23:05:29.703Z"
-    },
-    {
-      "headline": "Netanyahu Stands Firm Against Trump's Gaza Proposal",
-      "summary": "Israeli Prime Minister Netanyahu has reiterated his rejection of a proposed peace plan for Gaza, insisting that Hamas must disarm before any agreement can be considered. The plan, which was recently announced by former US President Trump, has been met with resistance from Israeli leaders who prioritize the country's security and the disarmament of Hamas.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
-      "source": "NPR News",
-      "published": "2026-08-09T14:21:45-04:00"
-    },
-    {
-      "headline": "NBA Investigation Uncovers Potential Cap Circumvention by Clippers",
-      "summary": "An investigation into the LA Clippers has revealed potential cap circumvention, with allegations that the team offered impermissible benefits to Kawhi Leonard during his free agency. The case has significant implications for the NBA, with the league taking a close look at the practices of teams and the representation of high-profile players like Leonard.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vjt4os/woike_when_kawhi_became_a_free_agent_in_2019_his/",
-      "source": "r/NBA",
-      "published": "2026-08-09T15:43:02+00:00"
-    },
-    {
-      "headline": "Bill Russell's Defensive Legacy and Insights",
-      "summary": "Bill Russell's defensive prowess is still widely regarded as one of the greatest in NBA history, with his leadership of the Celtics' defense setting a high standard for generations to come. In discussions during and after his career, Russell shared valuable insights into his approach to defense, including his strategies for guarding legendary players like Wilt Chamberlain and Kareem Abdul-Jabbar.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vk6r3k/during_his_nba_career_bill_russell_led_the_five/",
-      "source": "r/NBA",
-      "published": "2026-08-10T01:05:20+00:00"
-    },
-    {
-      "headline": "Voice‑Driven Murder Mystery Lets You Interview AI Suspects by Speech",
-      "summary": "A developer revived a voice‑AI game where players interrogate virtual suspects using their own voice. The updated prototype adds polished dialogue and interactive clues to the original concept.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.whodunnitai.com/",
-      "source": "Hacker News",
-      "published": "2026-08-10T03:18:40+00:00"
-    },
-    {
-      "headline": "Snowflake Engineers Detail Streaming CDC from Postgres to Snowflake",
-      "summary": "The blog explains a pipeline that captures change‑data‑events from PostgreSQL and mirrors them into Snowflake for near‑real‑time analytics. It covers architecture choices, replication hurdles, and performance improvements.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "source": "Hacker News",
-      "published": "2026-07-23T20:49:13.318Z"
-    },
-    {
-      "headline": "Maverick Drops Surprise ‘Almost Forever’ EP, Revitalizing Proto‑Rage Roots",
-      "summary": "Maverick returns with an EP that fuses his signature proto‑rage aggression with fresh production twists. The tracks feel like an evolution rather than a retread, delivering high‑energy moments for longtime fans.",
+      "headline": "Maverick Returns with Aggressive ‘Almost Forever’ EP",
+      "summary": "The proto‑rage rapper delivers a surprise EP that blends his signature intensity with fresh production twists. Critics note it feels revitalized rather than a mere rehash of past work.",
       "category": "Music",
-      "relevance": 7,
+      "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/lil-uzi-vert-maverick-almost-forever-ep/",
       "source": "Pitchfork",
       "published": "2026-08-10T04:03:00+00:00"
     },
     {
-      "headline": "‘Nebular’ Marries New Zealand Guitar Work with London Avant‑Pop Vocals in Ambient Soundscape",
-      "summary": "A veteran New Zealand guitarist teams with a rising London avant‑pop singer to create foggy drones and wordless, angelic vocals. The album immerses listeners in a meditative, genre‑defying atmosphere.",
+      "headline": "‘I Am Both’ Marries Sparse Folk with Political Fury",
+      "summary": "The New York singer‑songwriter crafts an album of skeletal arrangements that amplify personal and societal frustration. The lyrics confront inertia, urging listeners to act against complacency.",
       "category": "Music",
-      "relevance": 7,
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/margaret-glaspy-i-am-both/",
+      "source": "Pitchfork",
+      "published": "2026-08-10T04:02:00+00:00"
+    },
+    {
+      "headline": "Houthis Claim Aramco Attack as Iran Pushes Strait of Hormuz Talks",
+      "summary": "The Houthi movement says it struck a Saudi Aramco oil site, heightening regional tensions. Meanwhile, Iran demands progress on nuclear negotiations and the Pentagon urges faster weapons production.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+      "source": "NPR News",
+      "published": "2026-08-09T05:44:02-04:00"
+    },
+    {
+      "headline": "Nebular Delivers Dreamy Ambient Drones and Wordless Vocals",
+      "summary": "Veteran New Zealand guitarist teams with a London avant‑pop vocalist for an album of misty soundscapes. The record blends atmospheric drones with ethereal, wordless singing, creating a meditative listening experience.",
+      "category": "Music",
+      "relevance": 8,
       "url": "https://pitchfork.com/reviews/albums/roy-montgomery-martha-skye-murphy-nebular/",
       "source": "Pitchfork",
       "published": "2026-08-10T04:01:00+00:00"
     },
     {
-      "headline": "Idaho’s ‘Atomic City’ Becomes Test Bed for Small Modular Nuclear Reactors",
-      "summary": "The remote town is hosting trials of next‑generation small reactors slated for rollout in the coming years. While the technology promises clean power, public sentiment remains split over safety and environmental concerns.",
+      "headline": "Chinook Debuts with Passion-Driven Indie Rock",
+      "summary": "Philadelphia-based indie rock songwriter Chinook releases a wide-ranging debut album that explores a lifetime of passion. The album is a testament to Chinook's unique sound and style, showcasing her ability to craft meaningful and impactful music.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/mallory-hawk-chinook/",
+      "source": "Pitchfork",
+      "published": "2026-08-10T04:00:00+00:00"
+    },
+    {
+      "headline": "OpenChamber Revolutionizes Development with Agentic Environment",
+      "summary": "OpenChamber is a groundbreaking development environment that enables agentic development, allowing for more efficient and effective coding. With its innovative approach, OpenChamber is poised to change the way developers work and create.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openchamber.dev/",
+      "source": "Hacker News",
+      "published": "2026-08-09T17:27:16+00:00"
+    },
+    {
+      "headline": "Next-Gen Nuclear Reactors Spark Debate in Atomic City",
+      "summary": "A new generation of small nuclear reactors is set to come online in the next few years, but public opinion remains divided on the issue. The reactors, being developed in Atomic City, Idaho, promise to provide cleaner and more efficient energy, but concerns about safety and environmental impact persist.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/10/nx-s1-5884029/the-view-from-the-proving-grounds-for-next-generation-nuclear-reactors-atomic-city-idaho",
@@ -138,17 +120,44 @@
       "published": "2026-08-10T00:01:00-04:00"
     },
     {
-      "headline": "Unidentified Drone Flies Over German Base Storing Patriot Missile Parts",
-      "summary": "German police are investigating a drone sighting above a military facility that houses Patriot missile components. The incident follows a recent bomb attack in Leipzig, heightening security worries.",
+      "headline": "Israel Rejects Trump's Gaza Peace Plan",
+      "summary": "Israel's Prime Minister has rejected a 15-point plan for Gaza proposed by former President Trump, citing concerns about Hamas' disarmament. The move highlights the ongoing challenges in finding a peaceful resolution to the conflict in the region.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-09T16:18:10.683Z"
+      "published": "2026-08-09T11:58:22.434Z"
     },
     {
-      "headline": "Trump Grapples with Iran War Legacy as He Searches for an Exit Strategy",
-      "summary": "The former president faces the lingering fallout of the protracted Iran conflict and looks for a political endgame. Analysts argue the war’s duration could reshape his historical reputation.",
+      "headline": "Docker Introduces Disposable AI Sandboxes",
+      "summary": "Docker has launched a new product that provides disposable, isolated sandboxes for AI agents, enabling more secure and efficient development. The sandboxes allow developers to test and train AI models in a controlled environment, reducing the risk of errors and data breaches.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "source": "Hacker News",
+      "published": "2026-01-30T15:41:42-08:00"
+    },
+    {
+      "headline": "Claude Code Defaults to Auto Mode",
+      "summary": "Claude Code has announced that auto mode is now the default setting for its platform, streamlining the coding process for users. The move is expected to improve productivity and efficiency, allowing developers to focus on more complex tasks.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "source": "Hacker News",
+      "published": "Aug 07, 2026"
+    },
+    {
+      "headline": "Netanyahu Rejects Trump's Gaza Peace Plan",
+      "summary": "Israeli Prime Minister Netanyahu has rejected a peace plan for Gaza proposed by former President Trump, insisting that Hamas must disarm first. The move highlights the ongoing challenges in finding a peaceful resolution to the conflict in the region.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas",
+      "source": "NPR News",
+      "published": "2026-08-09T14:21:45-04:00"
+    },
+    {
+      "headline": "Trump Seeks Endgame in Iran Conflict",
+      "summary": "President Trump is grappling with the challenges of ending a prolonged conflict in Iran, a dilemma that has haunted previous presidents. The conflict has significant implications for Trump's presidency and the future of US foreign policy.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/09/nx-s1-5925960/trump-hoover-iran",
@@ -156,71 +165,89 @@
       "published": "2026-08-09T08:39:47-04:00"
     },
     {
-      "headline": "Using LLMs to Master Complex Topics: A Step‑by‑Step Workflow",
-      "summary": "The author outlines a method that employs large language models to break down and learn difficult subjects, from prompting tactics to iterative refinement. Real‑world examples demonstrate how LLMs can accelerate self‑education.",
+      "headline": "CDC Migrates to Postgres with Snowflake",
+      "summary": "The CDC has successfully migrated its data to Postgres using Snowflake's replication and mirroring technology. The move is expected to improve data management and analysis capabilities, enabling better decision-making and outcomes.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
       "source": "Hacker News",
-      "published": "2026-08-09T19:16:49+00:00"
+      "published": "2026-07-23T20:49:13.318Z"
     },
     {
-      "headline": "NBA Teams Court Ben Simmons; Training Camp Seen as Path to 2028 Olympics",
-      "summary": "Several franchises have offered Simmons a training‑camp invite and a veteran‑minimum contract as he seeks to regain health. The camp could also bolster his chances of representing Australia at the 2028 LA Olympics.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vk8rm8/spears_sources_several_nba_teams_have_expressed/",
-      "source": "r/NBA",
-      "published": "2026-08-10T02:41:43+00:00"
-    },
-    {
-      "headline": "NBER Paper Quantifies Long‑Run Economic Impact of H‑1B Visas",
-      "summary": "The study measures how H‑1B immigration influences U.S. productivity, wages, and innovation over decades. Results indicate the program drives tech growth while only modestly affecting native‑worker earnings.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.nber.org/papers/w35560",
+      "headline": "New Zealand Rebuilds Music Media Landscape",
+      "summary": "New Zealand's music media scene is undergoing a transformation, with new initiatives emerging to replace traditional outlets. The changes aim to promote and support local music talent, fostering a more vibrant and diverse music culture.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
       "source": "Hacker News",
-      "published": "2026-08-10T04:06:10+00:00"
+      "published": "2026-08-09T09:27:06.970Z"
     },
     {
-      "headline": "Anthropic Restores Access to Claude Fable 5 and Mythos 5 After Export‑Control Pause",
-      "summary": "The two AI models launched on June 9, 2026, but were taken offline on June 12 to meet U.S. export‑control rules. The restrictions were lifted on June 30 and Anthropic reinstated user access on July 1.",
+      "headline": "Windows 11 Weather App Guzzles Over 1 GB RAM",
+      "summary": "Testing by Notebookcheck shows the built‑in Weather app in Windows 11 can consume more than a gigabyte of memory during normal use. The bloated footprint can degrade system performance, prompting calls for Microsoft to streamline or replace the app.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+      "source": "Hacker News",
+      "published": "2026-08-09T15:50:00+02:00"
+    },
+    {
+      "headline": "WorkOS Pushes MCP as AI‑Agent Alternative to REST",
+      "summary": "WorkOS argues that its MCP protocol better serves machine‑to‑machine communication than traditional REST, which is geared toward human developers. The post encourages teams to adopt both standards, using MCP for AI agents while keeping REST for human‑focused APIs.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-09T23:31:39+00:00"
+      "url": "https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+      "source": "Daring Fireball",
+      "published": "Mar 13, 2026"
     },
     {
-      "headline": "New York Singer’s ‘I Am Both’ Blends Sparse Folk with Fiery Protest",
-      "summary": "The album strips back instrumentation to skeletal folk while the artist delivers angry commentary on personal and political inertia. Its minimalist soundscape amplifies a urgent call to action.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/margaret-glaspy-i-am-both/",
-      "source": "Pitchfork",
-      "published": "2026-08-10T04:02:00+00:00"
-    },
-    {
-      "headline": "U.S. Faces Surge of 183 New Wildfires, Eight Classified as Large",
-      "summary": "The National Interagency Fire Center reported a rapid rise in fires across the western U.S. and Canada, with dozens threatening communities. Resources are stretched thin as crews battle the expanding blazes.",
+      "headline": "Ex‑Crime Boss Daniel Kinahan Transported to Court in Armored Van",
+      "summary": "Irish authorities flew the suspected crime boss from Dubai to Dublin in a bullet‑proof, bomb‑proof vehicle for his court appearance. The high‑security escort reflects the seriousness of the organized‑crime charges he faces.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
-      "source": "NPR News",
-      "published": "2026-08-09T18:03:09-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T08:50:14.363Z"
     },
     {
-      "headline": "Philadelphia Indie Artist Debuts ‘Chinook’, a Passion‑Fueled Odyssey",
-      "summary": "The newcomer’s first album traverses varied styles, reflecting a lifelong love for music. Its lyrical depth and sonic breadth aim to cement her place in the indie scene.",
-      "category": "Music",
+      "headline": "GitHub Models Service Officially Retired",
+      "summary": "GitHub announced the retirement of its GitHub Models offering, causing recent Actions runs to fail with a retirement error message. Users are urged to migrate to alternative AI model hosting platforms before the service is fully shut down.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/mallory-hawk-chinook/",
-      "source": "Pitchfork",
-      "published": "2026-08-10T04:00:00+00:00"
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-09T22:48:05+00:00"
     },
     {
-      "headline": "DIY Paper Globe Maker Converts Satellite Data into Fold‑able Model",
-      "summary": "A new web app lets users download satellite‑derived maps and print them as sheets that assemble into a globe. The project encourages hands‑on learning of geography and data visualization.",
+      "headline": "South African Special Forces Accused of Killing Detective",
+      "summary": "Prosecution documents released to the BBC allege that elite South African units were involved in the shooting of detective Frans Mathipa. The case highlights alleged state‑linked violence in the country's law‑enforcement landscape.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T23:05:29.703Z"
+    },
+    {
+      "headline": "SQLite Prototype Stores Compressed Text Revision History",
+      "summary": "Simon Willison explores a method of keeping every text revision in a JSON array within SQLite and then compressing the column to save space. The experiment shows a lightweight way to maintain full version histories without external version‑control tools.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-09T22:05:00+00:00"
+    },
+    {
+      "headline": "Unauthorized Drones Detected Over German Base After Leipzig Bomb",
+      "summary": "Police reported an unapproved drone flying near a German military site that stores Patriot missile components, days after a bomb was discovered in Leipzig. The incident has heightened security concerns around the facility.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T16:18:10.683Z"
+    },
+    {
+      "headline": "DIY Paper Globe Made from Satellite Images",
+      "summary": "A new web tool lets users transform satellite imagery into printable templates for assembling a paper globe. Detailed instructions and downloadable files enable hobbyists to create a physical globe at home.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://foldingglobes.com/",
@@ -228,26 +255,8 @@
       "published": "2026-08-10T02:57:38+00:00"
     },
     {
-      "headline": "Inside the Rise and Fall of HackerOne’s Bug‑Bounty Platform",
-      "summary": "The article chronicles HackerOne’s early success, subsequent challenges, and recent setbacks that have reshaped its market position. It examines leadership changes, competition, and community trust issues.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "source": "Hacker News",
-      "published": "2026-08-07T11:00:00-04:00"
-    },
-    {
-      "headline": "Bald Range Wildfire in British Columbia Kills One, Burns 53 Sq Miles",
-      "summary": "Authorities warn residents as the blaze spreads rapidly across rugged terrain. Emergency services are battling the fire amid fears it could worsen.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-08T18:13:49.993Z"
-    },
-    {
-      "headline": "Ecuador Arrests Former Minister Linked to Assassination Plot of Candidate",
-      "summary": "Prosecutors allege six suspects, including the leader of the Los Lobos cartel, played indirect roles in killing Fernando Villavicencio. The charges signal a crackdown on political violence.",
+      "headline": "Ecuador Indicts Former Minister in Assassination of Presidential Candidate",
+      "summary": "Ecuadorian prosecutors have charged a former minister and six others, including a cartel leader, with involvement in the murder of candidate Fernando Villavicencio. The indictment suggests a wider conspiracy linking political figures to organized crime.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
@@ -255,53 +264,44 @@
       "published": "2026-08-09T15:34:04.694Z"
     },
     {
-      "headline": "Houthis Claim Strike on Saudi Aramco; Iran Pushes Strait of Hormuz Talks",
-      "summary": "The Houthi rebels said they hit an Aramco facility, escalating regional tensions. Meanwhile, Iran demands progress on negotiations and the U.S. Pentagon urges faster weapons production.",
+      "headline": "Online Birth‑Control Backlash May Be Fueling U.S. Abortion Rise",
+      "summary": "NPR investigates how anti‑contraceptive sentiment spreading online could be contributing to the recent increase in abortions across the United States. The report links declining use of birth‑control pills to higher rates of unintended pregnancies.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5926387/yemens-houthis-claim-attack-on-aramco-oil-facility-in-saudi-arabia-and-other-middle-east-news",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
       "source": "NPR News",
-      "published": "2026-08-09T05:44:02-04:00"
+      "published": "2026-08-09T08:12:15-04:00"
     },
     {
-      "headline": "Economist Warns AI’s Tragedy of the Commons Threatens Global Welfare",
-      "summary": "The piece argues that unchecked AI development could deplete shared resources and harm society. It calls for coordinated governance to prevent collective overuse.",
+      "headline": "Man Arrested After Boat Capsizes Near Statue of Liberty, Killing Woman and Infant",
+      "summary": "A boat near the Statue of Liberty overturned, resulting in the deaths of a woman and her baby. Twelve other passengers were rescued and are reported to be in stable condition, and authorities have taken the boat's operator into custody.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c935w1d05d7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T15:19:03.241Z"
+    },
+    {
+      "headline": "Ask HN: Community Shares Current Projects and Curiosities (Aug 2026)",
+      "summary": "Hacker News users were prompted to reveal what they’re building and what has sparked their interest lately. The thread has attracted 234 points and over 800 comments, reflecting a wide range of personal and professional endeavors.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "url": "https://news.ycombinator.com/item?id=49233423",
       "source": "Hacker News",
-      "published": "2026-08-09T19:43:52+00:00"
+      "published": "2026-08-09T17:23:22+00:00"
     },
     {
-      "headline": "Revolutionize Your Coding with OpenChamber",
-      "summary": "OpenChamber is an innovative development environment designed to streamline coding processes and boost productivity. Its agentic approach empowers developers to work more efficiently and effectively.",
+      "headline": "Classic Web Principle: Keep URIs Stable",
+      "summary": "The 1998 W3C article “Cool URIs don’t change” argues that persistent URLs are essential for a reliable web, recommending design practices that avoid breaking links. Its guidance remains a cornerstone for developers managing long‑term site architecture.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://openchamber.dev/",
+      "url": "https://www.w3.org/Provider/Style/URI",
       "source": "Hacker News",
-      "published": "2026-08-09T17:27:16+00:00"
+      "published": "2026-08-09T14:32:53+00:00"
     },
     {
-      "headline": "NBA Legend Don Nelson Passes Away at 86",
-      "summary": "Don Nelson, a three-time NBA Coach of the Year and five-time champion with the Boston Celtics, has passed away at the age of 86. His family announced his peaceful passing on Sunday morning.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vjvojn/threetime_nba_coach_of_the_year_don_nelson_has/",
-      "source": "r/NBA",
-      "published": "2026-08-09T17:24:16+00:00"
-    },
-    {
-      "headline": "NBA's Biggest Draft Busts: Where Did They Go Wrong?",
-      "summary": "Several highly touted NBA prospects failed to live up to expectations, with some blaming poor coaching, injuries, or a lack of work ethic. We take a closer look at the careers of Ben McLemore and Justise Winslow.",
-      "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vka7l0/nba_busts_you_thought_were_guaranteed_stars/",
-      "source": "r/NBA",
-      "published": "2026-08-10T03:53:53+00:00"
-    },
-    {
-      "headline": "Small Homes, Big Hospitality: Tips for Hosting Guests",
-      "summary": "Living in a small home doesn't have to mean sacrificing hospitality, and with a few simple strategies, you can create a warm and welcoming space for guests. From creative use of space to thoughtful touches, we explore the possibilities.",
+      "headline": "Hosting Gracefully in Tiny Spaces",
+      "summary": "The piece explores how limited square footage can make entertaining tricky, offering practical tips for making guests feel welcome without overcrowding. It emphasizes mindset shifts and simple adjustments that preserve hospitality even in compact living areas.",
       "category": "Faith",
       "relevance": 5,
       "url": "https://www.challies.com/articles/how-to-show-hospitality-when-you-live-in-a-small-home/",
@@ -309,53 +309,53 @@
       "published": "2026-08-10T04:02:00+00:00"
     },
     {
-      "headline": "Claude Code Gets a Boost with Auto Mode",
-      "summary": "Claude Code has introduced auto mode as its default setting, making it easier for developers to get started and work more efficiently. This move is expected to streamline the coding process and improve productivity.",
+      "headline": "Claude Opus 5 & Mythos 5: Brief Shutdown and Return",
+      "summary": "Anthropic released Claude Opus 5 and Mythos 5 on June 9, 2026, but halted access three days later to comply with U.S. export controls, restoring service on July 1 after the restrictions were lifted. The incident highlights the regulatory challenges facing advanced AI deployments.",
       "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "source": "Hacker News",
-      "published": "Aug 07, 2026"
-    },
-    {
-      "headline": "Compressing Text Histories in SQLite: A New Approach",
-      "summary": "A recent research project proposes a novel method for storing revision histories in relational databases, using compressed text arrays to reduce storage requirements. This innovative approach could revolutionize data management.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Aug/9/sqlite-text-history-prototype/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything",
       "source": "Simon Willison",
-      "published": "2026-08-09T22:05:00+00:00"
+      "published": "2026-08-09T23:31:39+00:00"
     },
     {
-      "headline": "Tupac Shakur Murder Trial Finally Set to Begin",
-      "summary": "After nearly three decades, the trial of Duane Davis, accused of organizing Tupac Shakur's murder, is finally set to begin. This highly anticipated case is expected to shed new light on the circumstances surrounding the rapper's death.",
+      "headline": "Wildfire Surge: 183 New Fires Ignite Across U.S. and Canada",
+      "summary": "The National Interagency Fire Center reported 183 fresh blazes, including eight large ones, have started since Saturday in the western United States. Fire crews are battling the spread amid extreme conditions, with smoke also affecting neighboring Canadian regions.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5924034/nearly-30-years-after-tupacs-death-the-trial-over-his-murder-will-finally-begin",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926463/western-us-wildfires-canada-utah",
       "source": "NPR News",
-      "published": "2026-08-09T17:27:16-04:00"
+      "published": "2026-08-09T18:03:09-04:00"
     },
     {
-      "headline": "Ancient Roman Shipwreck Discovered Off Sicily Coast",
-      "summary": "Italian authorities have announced the discovery of an ancient Roman shipwreck off the coast of Sicily, hailing it as one of the most significant underwater archaeological finds in recent years.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-09T12:27:26.566Z"
-    },
-    {
-      "headline": "Japanese Court Overturns Red RAW Video Patent",
-      "summary": "A Japanese court has ruled in favor of Panasonic, overturning a patent held by Red for its RAW video technology. This decision is expected to have significant implications for the film and photography industries.",
+      "headline": "Show HN: Voice‑Controlled Murder Mystery Game with AI Suspects",
+      "summary": "A developer unveiled a project that lets players interrogate AI-generated suspects using only their voice, reviving a concept first prototyped years ago. The updated version leverages modern voice AI to create an immersive, dialogue‑driven mystery experience.",
       "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
+      "url": "https://www.whodunnitai.com/",
       "source": "Hacker News",
-      "published": "2026-08-06T23:01:48+00:00"
+      "published": "2026-08-10T03:18:40+00:00"
     },
     {
-      "headline": "Nigerian Army Rescues 33 Kidnapped People",
-      "summary": "The Nigerian army has successfully rescued 33 people who were abducted by gunmen while traveling through the country's north-western Zamfara state. The operation was carried out on Saturday.",
+      "headline": "Bald Range Wildfire Claims One Life as Flames Ravage 53 sq mi in B.C.",
+      "summary": "A fast‑moving wildfire in British Columbia’s Bald Range has burned over 53 square miles, killing one person and prompting evacuations. Authorities warn residents to prepare for worsening conditions as the fire continues to spread.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-08T18:13:49.993Z"
+    },
+    {
+      "headline": "What Happened to HackerOne? – A Deep Dive",
+      "summary": "A Hacker News discussion links to a blog post analyzing HackerOne’s recent challenges and strategic shifts, sparking debate about the platform’s future. The thread has gathered 181 points and dozens of comments examining the bug‑bounty market’s evolution.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "source": "Hacker News",
+      "published": "2026-08-07T11:00:00-04:00"
+    },
+    {
+      "headline": "Nigerian Army Rescues 33 Hostage Victims from Zamfara Kidnappers",
+      "summary": "Security forces successfully liberated 33 people abducted while traveling through Zamfara state in north‑western Nigeria. The operation, announced on Saturday, underscores ongoing efforts to combat banditry in the region.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
@@ -363,8 +363,17 @@
       "published": "2026-08-09T19:57:28.926Z"
     },
     {
-      "headline": "Puerto Rico rations water supplies due to intense drought",
-      "summary": "",
+      "headline": "AI Project Aims to Revolutionize Ambition",
+      "summary": "The Ambition Project is an AI-driven initiative that seeks to redefine ambition and provide tools for individuals to achieve their goals. By leveraging AI technology, the project aims to make ambition more accessible and achievable for people worldwide.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.betonit.ai/p/the-ambition-project",
+      "source": "Hacker News",
+      "published": "2026-08-04T15:01:27+00:00"
+    },
+    {
+      "headline": "Puerto Rico Faces Water Crisis Amid Intense Drought",
+      "summary": "A severe drought has led to water rationing in Puerto Rico, affecting hundreds of thousands of people due to hot weather and aging infrastructure. The crisis has highlighted the need for sustainable water management solutions in the region.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.bbc.co.uk/news/articles/cqlxgk7r2vwo?at_medium=RSS&at_campaign=rss",
@@ -372,44 +381,17 @@
       "published": "2026-08-09T16:43:23.808Z"
     },
     {
-      "headline": "New Zealand lost its music media, and what we're building to replace it",
-      "summary": "",
-      "category": "Music",
+      "headline": "Crime Boss Extradited, Charged with Organized Crime",
+      "summary": "Notorious crime boss Daniel Kinahan has been extradited from Dubai and charged with directing a criminal organization in Ireland. The move marks a significant step in efforts to combat organized crime in the region.",
+      "category": "World",
       "relevance": 5,
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "source": "Hacker News",
-      "published": "2026-08-09T09:27:06.970Z"
+      "url": "https://www.bbc.co.uk/news/videos/cly5zpx0ypdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T21:26:56+00:00"
     },
     {
-      "headline": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "source": "Hacker News",
-      "published": "2026-08-09T12:43:16+00:00"
-    },
-    {
-      "headline": "After Leonard signed with the Clippers in 2019, Masai Ujiri was asked if his camp was upfront and honest, to which he replied, \"Kawhi was\".",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1vk6iey/after_leonard_signed_with_the_clippers_in_2019/",
-      "source": "r/NBA",
-      "published": "2026-08-10T00:54:17+00:00"
-    },
-    {
-      "headline": "Scottie Pippen compares himself to LeBron: “My success as a team is more successful than LeBron. I got six rings. Do you want individual accolades or do you want championships? Because I didn’t chase mine.”",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 4,
-      "url": "https://old.reddit.com/r/nba/comments/1vjunrx/scottie_pippen_compares_himself_to_lebron_my/",
-      "source": "r/NBA",
-      "published": "2026-08-09T16:44:00+00:00"
-    },
-    {
-      "headline": "Demi Vollering wins Tour de France for the 2nd time",
-      "summary": "",
+      "headline": "Dutch Cyclist Wins Tour de France for Second Time",
+      "summary": "Demi Vollering has become the second woman to win the Tour de France, finishing the stage over a minute ahead of her closest rivals. Vollering's victory marks a milestone in women's cycling and cements her status as a top contender.",
       "category": "Sports",
       "relevance": 4,
       "url": "https://www.npr.org/2026/08/09/g-s1-137991/demi-vollering-tour-de-france-winner",
@@ -417,26 +399,35 @@
       "published": "2026-08-09T18:00:52-04:00"
     },
     {
-      "headline": "WorkOS: Connect Your Agents to Your API",
-      "summary": "",
+      "headline": "Gym Booking API Vulnerability Exposed",
+      "summary": "A security vulnerability in the OpenClaw API has been discovered, allowing users to cancel other people's reservations without authorization. The issue highlights the need for robust security measures in online booking systems.",
       "category": "Tech/AI",
       "relevance": 4,
-      "url": "https://workos.com/blog/mcp-vs-rest?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-      "source": "Daring Fireball",
-      "published": "Mar 13, 2026"
+      "url": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-10T02:05:16+00:00"
     },
     {
-      "headline": "Was Kawhi leaving Toronto in 2019 one of the worst mistakes from a superstar in nba history?",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vk2p5d/was_kawhi_leaving_toronto_in_2019_one_of_the/",
-      "source": "r/NBA",
-      "published": "2026-08-09T22:04:08+00:00"
+      "headline": "Philippines' Offshoring Industry Thrives Amid AI Boom",
+      "summary": "Despite the rise of AI, the Philippines' offshoring industry continues to grow, driven by a skilled workforce and favorable business conditions. The sector's success has made the country a hub for outsourcing and remote work.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "source": "Hacker News",
+      "published": "2026-08-10T04:35:24+00:00"
     },
     {
-      "headline": "A La Carte (August 10)",
-      "summary": "",
+      "headline": "Surveillance State: Everything You Do is Being Recorded",
+      "summary": "The widespread use of AI-powered wearables and surveillance technology has created a culture of constant monitoring, raising concerns about individual privacy and autonomy. As data collection becomes increasingly pervasive, questions arise about the implications for society.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+      "source": "Hacker News",
+      "published": "2026-05-18T12:24:57Z"
+    },
+    {
+      "headline": "A La Carte: New Week, New Deals on Christian Literature",
+      "summary": "The latest edition of A La Carte features deals on books for preachers and those who listen to sermons, as well as a discounted copy of Andrew Wilson's new book on happiness. The newsletter offers a curated selection of Christian literature and resources.",
       "category": "Faith",
       "relevance": 3,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-10-2026/",
@@ -444,13 +435,22 @@
       "published": "2026-08-10T04:01:00+00:00"
     },
     {
-      "headline": "There's a birth control backlash online. Can it explain the rise in abortions?",
-      "summary": "",
+      "headline": "Ancient Roman Shipwreck Discovered Off Sicily Coast",
+      "summary": "A significant underwater archaeological find has been made off the coast of Sicily, with the discovery of an ancient Roman shipwreck. The find is expected to provide valuable insights into the history and culture of the Roman Empire.",
       "category": "Other",
       "relevance": 3,
-      "url": "https://www.npr.org/2026/08/09/nx-s1-5887615/abortion-rate-birth-control-pills-roe-v-wade",
-      "source": "NPR News",
-      "published": "2026-08-09T08:12:15-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-09T12:27:26.566Z"
+    },
+    {
+      "headline": "Taxi Drivers May Be Less Prone to Alzheimer's Disease",
+      "summary": "Research suggests that taxi drivers, who rely heavily on complex mental maps and spatial reasoning, may be less likely to develop Alzheimer's disease. The findings have implications for our understanding of the relationship between cognitive function and brain health.",
+      "category": "Other",
+      "relevance": 3,
+      "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
+      "source": "Hacker News",
+      "published": "2026-08-09T15:21:46+00:00"
     }
   ]
 }
