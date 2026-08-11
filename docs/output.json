@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-11T17:35:48.752228+00:00",
+  "generated_at": "2026-08-11T18:31:45.110854+00:00",
   "story_count": 50,
   "stories": [
     {
-      "headline": "Kevin Vanhoozer Links Biblical Scholarship to Contemporary Theology",
-      "summary": "Vanhoozer argues that even as traditional biblical culture wanes, rigorous hermeneutics remain essential. He proposes a framework that unites academic study with practical theological insight.",
+      "headline": "Bridging the Gap Between Scripture and Theology",
+      "summary": "Kevin Vanhoozer is navigating the intersection of biblical studies and theology in a post-'demise of biblical civilization' world. His work aims to provide a framework for interpreting God's Word in a rapidly changing landscape.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/kevin-vanhoozer-biblical-studies-theology/",
@@ -12,17 +12,26 @@
       "published": "2026-08-11T04:04:09+00:00"
     },
     {
-      "headline": "Claude Adds Stealth Watermark to All Generated Text",
-      "summary": "Anthropic revealed that its Claude model now inserts an imperceptible, machine‑readable marker into every output. The watermark leaves the text unchanged for readers while enabling provenance verification.",
+      "headline": "AI Transparency: A Promise Unfulfilled",
+      "summary": "Anthropic's support page claims to explain how they plan to implement transparency in AI-generated content, but critics argue it falls short of providing concrete details. The company's commitment to transparency remains unclear.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vlag0q/claude_now_embeds_an_invisible_watermark_into/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T07:20:06+00:00"
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "source": "Daring Fireball",
+      "published": "2026-08-11T17:59:22+00:00"
     },
     {
-      "headline": "Apple Silicon Macs Boost LLM Speed 11‑16× via Llama.cpp in macOS VMs",
-      "summary": "A new guide shows how to run Llama.cpp inside macOS virtual machines on Apple Silicon, achieving dramatic inference acceleration. The technique leverages GPU passthrough to outperform traditional setups.",
+      "headline": "iOS 27 Beta 5: New Features and Tweaks",
+      "summary": "The latest iOS beta introduces several new features, including tweaked app icons and improved Siri voices. Users can now adjust the pace and expressivity of Siri's voice to suit their preferences.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/",
+      "source": "Daring Fireball",
+      "published": "2026-08-10T18:30:00+00:00"
+    },
+    {
+      "headline": "Boosting LLM Inference on Apple Silicon",
+      "summary": "A recent discovery has revealed that Apple Silicon and macOS VMs can achieve 11-16 times faster LLM inference with the use of Llama.cpp. This breakthrough has significant implications for AI developers and researchers.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
@@ -30,35 +39,17 @@
       "published": "2026-08-11T14:50:33+00:00"
     },
     {
-      "headline": "NVIDIA Unveils Trillion‑Parameter Nemotron 4 to Challenge Chinese Open Models",
-      "summary": "NVIDIA’s upcoming Nemotron 4 series will include a model with a minimum of one trillion parameters, aiming for leadership in open‑weight AI. The move is positioned as a strategic response to China’s rapidly advancing open‑source models.",
+      "headline": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "A new article has exposed the vulnerability of proprietary LLM APIs, highlighting the risks of stealing reasoning traces from these systems. This raises concerns about the security and integrity of AI models.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vlluom/nvidia_is_building_its_nextgen_nemotron_4_family/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T16:11:15+00:00"
+      "url": "https://stolen-thoughts.com/",
+      "source": "Hacker News",
+      "published": "2026-08-11T13:22:00+00:00"
     },
     {
-      "headline": "Luxury Tax Limits Complicate Hawks, Bucks Pursuit of Peyton Watson",
-      "summary": "Both Atlanta and Milwaukee sit just below the NBA luxury tax threshold, making a high‑priced addition like Watson financially risky. The teams must balance roster upgrades against potential tax penalties.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vln7rk/windhorst_acquiring_peyton_watson_may_be/",
-      "source": "r/NBA",
-      "published": "2026-08-11T17:00:12+00:00"
-    },
-    {
-      "headline": "Calvin’s Reflection on Genesis 32: God’s Defense Amid Struggle",
-      "summary": "Calvin interprets Jacob’s wrestling with the divine as a metaphor for believers’ reliance on God’s support. He emphasizes that divine assistance outweighs any opposition faced.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.9marks.org/article/wrestling-with-god/?utm_source=rss&utm_medium=rss&utm_campaign=wrestling-with-god",
-      "source": "9Marks",
-      "published": "2026-08-10T17:41:06+00:00"
-    },
-    {
-      "headline": "‘Praying in Pain’ Guides Chronic Sufferers to Constant Prayer",
-      "summary": "Glenna Marshall offers a devotional approach that encourages nonstop prayer for those battling long‑term illness. The book blends scriptural encouragement with practical techniques for maintaining spiritual focus.",
+      "headline": "Praying Through Pain with Constant Devotion",
+      "summary": "Glenna Marshall's book 'Praying in Pain' offers guidance on how Christians can cultivate a spirit of prayer and devotion, even in the midst of chronic health conditions. Her approach emphasizes the importance of perseverance and faith.",
       "category": "Faith",
       "relevance": 8,
       "url": "https://www.thegospelcoalition.org/reviews/praying-pain-when-not-healed/",
@@ -66,26 +57,8 @@
       "published": "2026-08-11T04:02:00+00:00"
     },
     {
-      "headline": "Churches Called to Partner Directly with Local Schools",
-      "summary": "The article proposes that churches become primary resources for student needs, prompting schools to refer families to church ministries. This model seeks to deepen community impact through coordinated care.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/mobilize-serve-local-schools/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-11T04:00:00+00:00"
-    },
-    {
-      "headline": "Trump Allegedly Used Catering Truck in Secret Plane Swap Amid Iran Tensions",
-      "summary": "Reports claim the former president boarded a catering vehicle to disguise a flight change after a NATO summit in Turkey. The maneuver was intended to conceal his movements during heightened Iran concerns.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T08:57:26.665Z"
-    },
-    {
-      "headline": "Zelensky Says Russia Fired North Korean Ballistic Missiles at Ukraine",
-      "summary": "Ukrainian President Zelensky alleges that recent strikes in Zaporizhzhia were carried out with missiles supplied by North Korea. The attack killed seven people and underscores the expanding arms collaboration between Moscow and Pyongyang.",
+      "headline": "Russia Uses North Korean Missiles to Strike Ukraine",
+      "summary": "Ukraine's president has accused Russia of using ballistic missiles from North Korea to carry out strikes in Zaporizhzhia, resulting in the deaths of seven people. The incident highlights the ongoing conflict in the region.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
@@ -93,17 +66,26 @@
       "published": "2026-08-11T09:39:58.754Z"
     },
     {
-      "headline": "Assad Sentenced to Death for War Crimes",
-      "summary": "A Syrian court has convicted former President Bashar al-Assad of war crimes and crimes against humanity, sentencing him to death in absentia. The verdict marks a significant step towards accountability for the atrocities committed during the country's civil war.",
+      "headline": "Houthis Launch Deadly Attack on Small Cargo Ship",
+      "summary": "The Houthi rebels have reportedly carried out a deadly attack on a small cargo ship, killing four people in the process. The incident marks a significant escalation of tensions in the region.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T09:42:48.953Z"
+      "published": "2026-08-11T13:35:57.641Z"
     },
     {
-      "headline": "Nvidia Expands AI Risk",
-      "summary": "Nvidia is introducing new financing options for its customers, increasing the risk of the AI buildout and potentially exposing the company to significant financial liabilities. This move could have far-reaching consequences for the industry and Nvidia's own financial stability.",
+      "headline": "Turkey Offers Conditional Pardon to PKK Militants",
+      "summary": "Turkey's parliament has approved legislation that would introduce a conditional pardon for thousands of Kurdish militants, in an effort to advance the government's peace initiative with the insurgent group. The move aims to bring an end to the conflict.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+      "source": "NPR News",
+      "published": "2026-08-11T02:03:49-04:00"
+    },
+    {
+      "headline": "Nvidia's Risky Business Model",
+      "summary": "Nvidia is expanding its business model to allow customers to raise money, but this move significantly increases the risk of the AI buildout. The company's strategy has sparked concerns about the stability of the AI industry.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
@@ -111,17 +93,8 @@
       "published": "2026-08-11T10:00:00+00:00"
     },
     {
-      "headline": "iOS 27 Beta 5 Brings Minor Updates",
-      "summary": "The latest beta of iOS 27 brings a range of minor updates, including tweaks to app icons and Siri voices. While the changes are incremental, they demonstrate Apple's ongoing commitment to refining its operating system.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://9to5mac.com/2026/08/10/heres-whats-new-with-ios-27-beta-5/",
-      "source": "Daring Fireball",
-      "published": "2026-08-10T18:30:00+00:00"
-    },
-    {
-      "headline": "Apple Brings Live Baseball to Vision Pro",
-      "summary": "Apple is launching a new feature that allows viewers to experience live baseball games in immersive 3D on its Vision Pro headset. The move marks a significant step towards bringing sports to virtual reality platforms.",
+      "headline": "Apple Brings Live Baseball to Vision Pro with Immersive Experience",
+      "summary": "Apple's 'Friday Night Baseball' will now be broadcast live in 3D on Vision Pro, offering an immersive experience for baseball fans. The 8K video will provide a 180-degree field of view, putting viewers right in the action.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/",
@@ -129,44 +102,35 @@
       "published": "2026-08-10Z"
     },
     {
-      "headline": "Assad Sentenced to Death for War Crimes",
-      "summary": "A Syrian court has convicted former President Bashar al-Assad of crimes against humanity and war crimes, sentencing him to death in absentia. The verdict is a significant step towards accountability for the atrocities committed during the country's civil war.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-      "source": "NPR News",
-      "published": "2026-08-11T06:07:14-04:00"
-    },
-    {
-      "headline": "The Breakdown: OpenAI's Ambitions",
-      "summary": "A detailed analysis of OpenAI's business model, ethics, and potential future expansion into areas like robotics and hardware. The article provides a comprehensive overview of the company's goals and challenges.",
+      "headline": "GitHub Copilot Hacked Behind a Proxy, What Was Learned",
+      "summary": "A developer put GitHub Copilot behind a man-in-the-middle proxy to learn more about its inner workings and how it generates code suggestions. The experiment provided valuable insights into the AI-powered coding tool.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vliv6l/the_breakdown_openai/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T14:22:41+00:00"
-    },
-    {
-      "headline": "Stealing Reasoning Traces from AI APIs",
-      "summary": "Researchers have discovered a vulnerability in proprietary AI APIs that allows them to steal reasoning traces, potentially compromising the security and integrity of AI systems. The discovery highlights the need for improved security measures in AI development.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stolen-thoughts.com/",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
       "source": "Hacker News",
-      "published": "2026-08-11T13:22:00+00:00"
+      "published": "2026-08-04T16:39:16+00:00"
     },
     {
-      "headline": "Thunder's Financial Crunch",
-      "summary": "The Oklahoma City Thunder are facing financial difficulties, with three players on max contracts and a need to pivot their roster. GM Sam Presti's ability to build a roster and accumulate assets will be crucial in navigating this challenge.",
-      "category": "NBA",
+      "headline": "AI-Driven Web Changes Erase Internet's Collective Memory",
+      "summary": "As AI-powered tools increasingly dominate the web, the internet's collective memory is disappearing, threatening the preservation of historical information and cultural heritage. Google search is just one example of this trend, where relevant results are becoming harder to find.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "source": "Hacker News",
+      "published": "2026-08-10T22:36:30+00:00"
+    },
+    {
+      "headline": "Churches Mobilize to Support Local Schools with Community Service",
+      "summary": "A church initiative aims to build trust with local schools by providing support and care for students' needs, fostering a sense of community and cooperation between the two institutions. By doing so, schools can refer students to the church for help, strengthening their partnership.",
+      "category": "Faith",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vlimbj/harper_its_questionable_if_the_thunder_proceed/",
-      "source": "r/NBA",
-      "published": "2026-08-11T14:13:27+00:00"
+      "url": "https://www.thegospelcoalition.org/article/mobilize-serve-local-schools/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-11T04:00:00+00:00"
     },
     {
-      "headline": "Chuck Timely Falls Flat",
-      "summary": "Songwriter Tucker Pillsbury's new project, Chuck Timely & The Hourglass, is a time-traveling session musician concept that fails to convince, with a charm that feels forced and artificial. The album's barroom country sound is not entirely convincing.",
+      "headline": "Chuck Timely & The Hourglass: A Time-Traveling Session Musician's Debut",
+      "summary": "Songwriter Tucker Pillsbury has reinvented himself as a time-traveling session musician, releasing a country record that's more nostalgic than innovative. While charming, the album's ersatz barroom country sound may not convince all listeners.",
       "category": "Music",
       "relevance": 7,
       "url": "https://pitchfork.com/reviews/albums/role-model-chuck-timely-and-the-hourglass/",
@@ -174,188 +138,143 @@
       "published": "2026-08-11T04:03:00+00:00"
     },
     {
-      "headline": "The Mountain Goats' Polished Humor",
-      "summary": "The latest Mountain Goats album, Days, is a polished and humorous exploration of grunge-era characters, with performances that convey the same nuance and range as John Darnielle's writing. The album is a standout in the band's discography.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/the-mountain-goats-days/",
-      "source": "Pitchfork",
-      "published": "2026-08-11T04:02:00+00:00"
-    },
-    {
-      "headline": "National Guard's Year in D.C. Marked by Tension and Turmoil",
-      "summary": "The National Guard's deployment to the nation's capital has been a defining feature of the past year, with its presence both calming and contentious. As the anniversary of its deployment approaches, the city remains on edge.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-      "source": "NPR News",
-      "published": "2026-08-11T07:11:14-04:00"
-    },
-    {
-      "headline": "British Singer-Songwriter Finds Newfound Cohesion on Elaborate Art-Pop Album",
-      "summary": "The British singer-songwriter's third album is a masterclass in blending dry wit, unconventional production, and a more cohesive vision, tackling personal upheaval with unflinching honesty.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/the-anchoress-as-we-once-were/",
-      "source": "Pitchfork",
-      "published": "2026-08-11T04:01:00+00:00"
-    },
-    {
-      "headline": "Row-Bot Agent Orchestration Revolutionizes Complex Tasks",
-      "summary": "The updated Row-Bot architecture allows for the splitting of complex tasks across multiple agents, ensuring that work can be done in parallel and that failures don't compromise the entire project.",
+      "headline": "Meta Unveils Muse Glimmer, a New 30B Model with Apache 2.0 License",
+      "summary": "Meta has released Muse Glimmer, a 30B model under the Apache 2.0 license, marking a significant improvement over previous licenses. The model is optimized for local tasks, such as end-to-end agent interactions, and promises to be a powerful tool for developers.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vle36y/i_got_a_lot_of_questions_on_how_updated_agent/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T10:51:37+00:00"
-    },
-    {
-      "headline": "Midwest Rock Group Channels Regret and Reckoning on Sixth Album",
-      "summary": "The Midwest rock group's sixth album is a nuanced exploration of regret and reckoning, balancing post-hardcore propulsion with disarming buoyancy in a mood of introspective melancholy.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/citizen-halcyon-blues/",
-      "source": "Pitchfork",
-      "published": "2026-08-11T04:00:00+00:00"
-    },
-    {
-      "headline": "Former US Marine Released from Russian Custody in Humanitarian Move",
-      "summary": "After being held in a catatonic-like state, former US Marine Robert Gilman has been released from Russian custody on a humanitarian basis, sparking relief and questions about his treatment.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T15:35:01.517Z"
-    },
-    {
-      "headline": "Colombia Devastated by Deadly Earthquake, Families Left to Pick Up the Pieces",
-      "summary": "A devastating earthquake has struck Colombia, leaving at least 169 people dead and a state of emergency declared, as families struggle to come to terms with the loss and destruction.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T10:12:21+00:00"
-    },
-    {
-      "headline": "Open Source AI Popularity Leaderboard: A Glimpse into the AI Ecosystem",
-      "summary": "The open source AI popularity leaderboard provides a snapshot of the current AI landscape, highlighting the most popular and influential projects in the field and offering insights into the evolving AI ecosystem.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vlie3h/open_source_ai_popularity_leaderboard/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T14:04:32+00:00"
-    },
-    {
-      "headline": "Nvidia Nemotron 3.5 Lightning: A Breakthrough in AI Model Training",
-      "summary": "The Nvidia Nemotron 3.5 Lightning is a significant advancement in AI model training, offering a powerful and efficient solution for large-scale AI projects and pushing the boundaries of what is possible in the field.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-      "source": "Hacker News",
-      "published": "2026-08-11T13:26:02+00:00"
-    },
-    {
-      "headline": "Enterprise AI Agent Platform: What to Look for in a Solution",
-      "summary": "When selecting an enterprise AI agent platform, key considerations include its ability to handle routine conversations without creating problems, its integration with existing systems, and its capacity to automate repetitive tasks.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/artificial/comments/1vky7wd/what_should_i_look_for_in_an_enterprise_ai_agent/",
-      "source": "r/Artificial",
-      "published": "2026-08-10T21:38:38+00:00"
-    },
-    {
-      "headline": "The Dark Side of GitHub Copilot: A Cautionary Tale",
-      "summary": "A recent experiment involving GitHub Copilot behind a MitM proxy highlights the potential risks and vulnerabilities of AI-powered coding tools, underscoring the need for caution and careful consideration in their use.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "source": "Hacker News",
-      "published": "2026-08-04T16:39:16+00:00"
-    },
-    {
-      "headline": "After Cuban refused to match the Suns 5 year/$65 million offer, Nash put up 40/9/10 on 60/58/100 splits the final 3 games of the Mavs vs Suns matchup to send the Mavs packing",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vlm2h1/after_cuban_refused_to_match_the_suns_5_year65/",
-      "source": "r/NBA",
-      "published": "2026-08-11T16:18:55+00:00"
-    },
-    {
-      "headline": "Introducing Muse Glimmer",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 6,
       "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/#atom-everything",
       "source": "Simon Willison",
       "published": "2026-08-10T23:56:03+00:00"
     },
     {
-      "headline": "The secret economics inside the new Planet Money board game",
-      "summary": "",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-      "source": "NPR News",
-      "published": "2026-08-11T06:30:00-04:00"
-    },
-    {
-      "headline": "Is artificial intelligence turning everyone into a product builder?",
-      "summary": "",
+      "headline": "Go Language Ideal for AI-Assisted Software Engineering",
+      "summary": "Google has identified Go as an ideal language for AI-assisted software engineering due to its simplicity, concurrency features, and garbage collection. These characteristics make Go an attractive choice for developers working with AI-powered tools and frameworks.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/artificial/comments/1vlbdpn/is_artificial_intelligence_turning_everyone_into/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T08:15:01+00:00"
-    },
-    {
-      "headline": "A midwife crosses 'maternity deserts' to make a difference for Black moms and babies",
-      "summary": "",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
-      "source": "NPR News",
-      "published": "2026-08-11T06:00:00-04:00"
-    },
-    {
-      "headline": "The school year begins in LA with one big change: limited screen time",
-      "summary": "",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-      "source": "NPR News",
-      "published": "2026-08-11T05:00:00-04:00"
-    },
-    {
-      "headline": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
+      "relevance": 7,
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "source": "Hacker News",
-      "published": "2026-08-11T12:12:14Z"
+      "published": "2026-08-11"
     },
     {
-      "headline": "AI Highways and the Death of \"Move Fast and Break Things\"",
-      "summary": "",
+      "headline": "Bashar al-Assad Sentenced to Death for War Crimes and Crimes Against Humanity",
+      "summary": "A Syrian court has sentenced former President Bashar al-Assad to death in absentia for committing war crimes and crimes against humanity during the country's civil war. The verdict marks a significant development in the pursuit of justice for victims of the conflict.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T09:42:48.953Z"
+    },
+    {
+      "headline": "Assad Sentenced to Death for Crimes Against Humanity and War Crimes",
+      "summary": "A Syrian court has sentenced former President Bashar al-Assad and his brother to death in absentia for crimes against humanity and war crimes committed during the country's 14-year conflict. The verdict highlights the ongoing efforts to hold perpetrators accountable for their actions.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+      "source": "NPR News",
+      "published": "2026-08-11T06:07:14-04:00"
+    },
+    {
+      "headline": "Thailand Introduces Tough New Laws After Mass Shooting",
+      "summary": "Thailand has suspended new gun permits and promised tough new laws in response to a mass shooting, which has highlighted the country's high levels of firearms ownership. The move aims to reduce gun violence and improve public safety.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T14:16:44.086Z"
+    },
+    {
+      "headline": "Native MiniMax-H3 Inference Lands on Apple Silicon",
+      "summary": "A new open-source project brings native MiniMax-H3 inference to Apple Silicon, promising faster and more efficient performance for AI applications. This development could have significant implications for the growing ecosystem of AI-powered devices.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/antirez/h3.c",
+      "source": "Hacker News",
+      "published": "2026-08-11T01:22:09+00:00"
+    },
+    {
+      "headline": "Mountain Goats' Latest Album Is a Hilarious and Polished Ride",
+      "summary": "The Mountain Goats' new album is a masterclass in storytelling, with the band's performances conveying the same nuance and range as John Darnielle's writing. The result is a hilarious and polished ride that's sure to delight fans of the band.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/the-mountain-goats-days/",
+      "source": "Pitchfork",
+      "published": "2026-08-11T04:02:00+00:00"
+    },
+    {
+      "headline": "National Guard Marks One Year in D.C., Colombia Hit by Deadly Quake",
+      "summary": "Today marks one year since the National Guard was deployed to the nation's capital, and the impact is still being felt. Meanwhile, a devastating 7.4 magnitude earthquake has left over 100 people dead in Colombia.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
+      "source": "NPR News",
+      "published": "2026-08-11T07:11:14-04:00"
+    },
+    {
+      "headline": "British Singer-Songwriter Tackles Personal Upheaval with Dry Wit",
+      "summary": "On her third album of elaborate art-pop, the British singer-songwriter tackles personal upheaval with dry wit, unconventional production, and a more cohesive vision. The result is a compelling and thought-provoking listen.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/the-anchoress-as-we-once-were/",
+      "source": "Pitchfork",
+      "published": "2026-08-11T04:01:00+00:00"
+    },
+    {
+      "headline": "Midwest Rock Group Channels Regret and Reckoning on New Album",
+      "summary": "The Midwest rock group's sixth album is a moodily introspective work that balances post-hardcore propulsion with disarming buoyancy. The result is a compelling and emotionally resonant listen.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/citizen-halcyon-blues/",
+      "source": "Pitchfork",
+      "published": "2026-08-11T04:00:00+00:00"
+    },
+    {
+      "headline": "Lebanon Abolishes Death Penalty in Landmark Vote",
+      "summary": "Lebanon's parliament has voted to abolish the death penalty, making it the first country in the Middle East to end capital punishment. The new law still needs cabinet approval before it can take effect.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:24:07.157Z"
+    },
+    {
+      "headline": "Voters Head to Polls, Trump Signals Shift on Iran",
+      "summary": "Voters in six states head to the polls today for high-profile primaries, while Trump signals a shift in his strategy with Iran. Meanwhile, a devastating 7.4 magnitude earthquake has left over 100 people dead in Colombia.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5923332/morning-news-brief",
+      "source": "NPR News",
+      "published": "2026-08-11T04:32:41-04:00"
+    },
+    {
+      "headline": "Libyan Oil Refinery Hit by Drone Strike in Third Incident",
+      "summary": "Libyan authorities are battling a major blaze at the Zawiya oil refinery, which was hit by a drone strike for the third time in two days. The incident highlights the ongoing instability in the region.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cp308z9pl30o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T08:28:24.280Z"
+    },
+    {
+      "headline": "France to Ban Unsolicited Telemarketing Calls",
+      "summary": "France is set to ban unsolicited telemarketing calls from today, in a move aimed at protecting consumers from unwanted sales pitches. The ban is part of a broader effort to regulate the use of personal data.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/artificial/comments/1vlm3di/ai_highways_and_the_death_of_move_fast_and_break/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T16:19:51+00:00"
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "source": "Hacker News",
+      "published": "2026-08-11T08:15:46+00:00"
     },
     {
-      "headline": "Kavak Replaced 15 Human Sales Specialists With One AI Agent — It Now Outsells Them 2.1x",
-      "summary": "",
+      "headline": "Interactive Website Lets You Scroll Through 43 Quintillion Rubik's Cube States",
+      "summary": "A new interactive website lets users scroll through all 43 quintillion possible states of a Rubik's Cube, providing a unique and mind-bending experience. The website is a testament to the ingenuity of its creator.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://old.reddit.com/r/artificial/comments/1vldh7d/kavak_replaced_15_human_sales_specialists_with/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T10:17:55+00:00"
+      "url": "https://everycube.alen.is/",
+      "source": "Hacker News",
+      "published": "2026-08-10T23:16:25+00:00"
     },
     {
-      "headline": "A La Carte (August 11)",
-      "summary": "",
+      "headline": "OT Laws Get a Strange New Twist",
+      "summary": "A recent trend of biblical law interpretations has some questioning the boundaries between faith and modern society. Critics argue that these interpretations are being used to justify discriminatory practices.",
       "category": "Faith",
       "relevance": 5,
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-11-2026/",
@@ -363,8 +282,53 @@
       "published": "2026-08-11T04:01:00+00:00"
     },
     {
-      "headline": "Keet App Generates Customizable Video Courses for Lifelong Learning",
-      "summary": "Keet is a mobile app that creates personalized video courses on any topic, with short explanations and interactive games for reinforcement. The app's curriculum is designed to help users learn over an extended period of time.",
+      "headline": "Trump's Secret Plane Swap Exposed",
+      "summary": "US President Donald Trump allegedly used a ruse to avoid reporters, hiding in a catering truck while switching planes over an Iran threat. The incident has sparked controversy and raised questions about presidential transparency.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T08:57:26.665Z"
+    },
+    {
+      "headline": "New Git Tool Simplifies Commit Messages",
+      "summary": "A new GitHub tool, Git-knife, allows users to edit commit messages, authors, and dates in a spreadsheet-like interface. This could streamline the development process and improve collaboration among team members.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://github.com/TheRealYT/git-knife",
+      "source": "Hacker News",
+      "published": "2026-08-11T15:09:34+00:00"
+    },
+    {
+      "headline": "US Marine Released from Russian Custody",
+      "summary": "Former US Marine Robert Gilman, who was arrested in 2022, has been released from Russian custody on a humanitarian basis. The move comes after reports of his poor health and catatonic-like state.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:35:01.517Z"
+    },
+    {
+      "headline": "Midwife Bridges Maternity Care Gap",
+      "summary": "A Black midwife in Alabama is working to address the shortage of labor and delivery hospitals in rural areas, providing critical care to mothers and babies in need. Her efforts highlight the importance of accessible healthcare for marginalized communities.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+      "source": "NPR News",
+      "published": "2026-08-11T06:00:00-04:00"
+    },
+    {
+      "headline": "Colombia Devastated by Massive Earthquake",
+      "summary": "A powerful earthquake has struck Colombia, leaving at least 169 people dead and a state of emergency declared. The disaster has caused widespread destruction and displacement, with rescue efforts underway.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T10:12:21+00:00"
+    },
+    {
+      "headline": "New App Generates Video Courses on Any Topic",
+      "summary": "Keet, a mobile app, allows users to create video courses on any subject, with short videos and games for reinforcement. The app aims to make learning more engaging and accessible.",
       "category": "Tech/AI",
       "relevance": 5,
       "url": "https://www.trykeet.com/",
@@ -372,8 +336,26 @@
       "published": "2026-08-11T14:48:37+00:00"
     },
     {
-      "headline": "Manus Seeks Independence from Parent Company",
-      "summary": "Manus is returning to its roots as an independent company, citing a desire for autonomy and flexibility. The move marks a significant shift for the company, which had previously been part of a larger organization.",
+      "headline": "Alabama Primary Election Marred by Confusion",
+      "summary": "The second primary election in Alabama has been plagued by confusion and concerns about low voter turnout, following the state's redrawing of congressional maps. The situation has raised questions about the effectiveness of the electoral process.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5927490/alabama-primary-election-2026-midterms-redistricting",
+      "source": "NPR News",
+      "published": "2026-08-11T05:00:00-04:00"
+    },
+    {
+      "headline": "Progressive Candidates Face Tests in Midwest Primaries",
+      "summary": "Competitive primaries in Minnesota and Wisconsin will test the power of progressive candidates, with questions about their ability to win in November and the GOP's chances of picking up moderates. The outcome could have significant implications for the 2024 elections.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
+      "source": "NPR News",
+      "published": "2026-08-11T05:00:00-04:00"
+    },
+    {
+      "headline": "Manus Returns to Independent Status",
+      "summary": "Manus, a company, has announced that it will be returning to its independent status after a period of uncertainty. The move has sparked interest among users and investors, with questions about the company's future plans.",
       "category": "Tech/AI",
       "relevance": 5,
       "url": "https://manus.im/blog/a-note-to-our-users",
@@ -381,76 +363,94 @@
       "published": "2026-08-11T14:14:53+00:00"
     },
     {
-      "headline": "Lebanon Votes to Abolish Death Penalty",
-      "summary": "Lebanon's parliament has voted to abolish the death penalty, making it the first country in the Middle East to do so. The move is a significant step towards human rights reform in the region.",
+      "headline": "England on Track to Eradicate Hepatitis C",
+      "summary": "England is poised to become one of the first countries to eliminate hepatitis C, thanks to a concerted effort by health officials and medical professionals. The achievement is a significant milestone in the fight against the disease, which has long plagued global health.",
       "category": "World",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T15:24:07.157Z"
+      "url": "https://www.bbc.com/news/articles/c75gk620r22o",
+      "source": "Hacker News",
+      "published": "2026-08-10T23:40:58.282Z"
     },
     {
-      "headline": "AI Assistants Raise Questions about Trust and Personal Data",
-      "summary": "As AI assistants like ChatGPT become increasingly sophisticated, users are left wondering about the implications of sharing their personal data with these digital entities. Can we truly trust AI assistants with our deepest secrets?",
+      "headline": "Chicken Scheme 6.0 Released",
+      "summary": "The latest version of the Chicken Scheme programming language has been released, featuring a range of improvements and new features. Developers can now take advantage of the updated language to build more efficient and effective applications.",
       "category": "Tech/AI",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/artificial/comments/1vlm0sp/would_you_trust_an_ai_assistant_that_knows_your/",
-      "source": "r/Artificial",
-      "published": "2026-08-11T16:17:18+00:00"
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "source": "Hacker News",
+      "published": "2026-08-11T00:24:15+00:00"
     },
     {
-      "headline": "NBA Opening Night Set for October 20",
-      "summary": "The NBA has announced its opening night schedule, with the Philadelphia 76ers taking on the New York Knicks and the OKC Thunder facing off against the San Antonio Spurs. The games will be broadcast on NBC.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vlf2zf/charania_nba_opening_night_on_oct_20_on_nbc/",
-      "source": "r/NBA",
-      "published": "2026-08-11T11:42:37+00:00"
+      "headline": "Philippines River Choked with Rubbish",
+      "summary": "Heavy rainfall has left a trail of destruction in its wake, with a river in Manila overwhelmed by a tide of trash and debris. Cleanup efforts are underway, but the scale of the problem remains a significant challenge.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/videos/c5y3vzvnnkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T16:10:55+00:00"
     },
     {
-      "headline": "NBA Christmas Day Schedule Revealed",
-      "summary": "The NBA has released its Christmas Day schedule, featuring a star-studded lineup of games including the Spurs vs. Knicks and the 76ers vs. Lakers. The games will be broadcast on ABC and ESPN.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vlf8u6/charania_nba_christmas_day_2026_on_abc_and_espn/",
-      "source": "r/NBA",
-      "published": "2026-08-11T11:50:48+00:00"
+      "headline": "Wildfires Devastate Spokane Neighborhoods",
+      "summary": "Aerial footage captures the devastating aftermath of a series of wildfires that swept through Spokane, leaving homes and cars reduced to rubble. The full extent of the damage is only now becoming clear.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T14:02:07+00:00"
     },
     {
-      "headline": "Spurs CEO's Plan to Draft Victor Wemby at 16 Revealed",
-      "summary": "The San Antonio Spurs' CEO has revealed a plan to draft Victor Wemby, a highly touted young player, just days after his 16th birthday. The move is a testament to the team's commitment to developing young talent.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vlmddn/spurs_ceo_hatched_a_plan_to_draft_wemby_right/",
-      "source": "r/NBA",
-      "published": "2026-08-11T16:29:49+00:00"
+      "headline": "Woman Pulled Over Twice Due to Flock Camera Glitch",
+      "summary": "A woman was pulled over at gunpoint not once, but twice, after a Flock camera incorrectly identified her vehicle as a suspect. The incident highlights the potential risks of relying on AI-powered surveillance systems.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
+      "source": "Hacker News",
+      "published": "2026-08-11T08:15:30-04:00"
     },
     {
-      "headline": "Pistons vs. Celtics Added to NBA Opening Night Schedule",
-      "summary": "The NBA has announced a triple-header for opening night, featuring the Detroit Pistons vs. Boston Celtics in the afternoon. The games will be broadcast on NBC.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://old.reddit.com/r/nba/comments/1vlfn7f/charania_pistons_celtics_at_3pm_before_the_main/",
-      "source": "r/NBA",
-      "published": "2026-08-11T12:09:13+00:00"
-    },
-    {
-      "headline": "LeBron James' Christmas Wish Comes True",
-      "summary": "The NBA has scheduled the 76ers vs. Lakers game on Christmas Day, allowing LeBron James to spend the holiday with his family. The move is a testament to the league's commitment to accommodating its stars.",
-      "category": "NBA",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/",
-      "source": "r/NBA",
-      "published": "2026-08-11T16:11:57+00:00"
-    },
-    {
-      "headline": "Drata Offers Autonomous AI for Compliance and Security",
-      "summary": "Drata is leveraging autonomous AI agents to automate compliance, manage internal and third-party risk, and continuously prove security posture. The platform aims to simplify security and compliance for businesses.",
-      "category": "Other",
-      "relevance": 1,
-      "url": "https://drata.com/daring",
+      "headline": "Astrology App Store Rejection Story Retracted",
+      "summary": "A prominent tech blogger has retracted a story about an astrology app being rejected from the App Store, citing concerns about the accuracy of the information. The retraction is a setback for efforts to reform the App Review process.",
+      "category": "Tech/AI",
+      "relevance": 4,
+      "url": "https://mjtsai.com/blog/2026/08/07/dark-hours-rejected-from-the-app-store/",
       "source": "Daring Fireball",
-      "published": "2026-08-10T22:25:00+00:00"
+      "published": "2026-08-10T20:18:48+00:00"
+    },
+    {
+      "headline": "LA Schools Introduce Limited Screen Time",
+      "summary": "Educators in the Los Angeles school district are preparing for a new policy that limits classroom screen time, a move that some teachers say will be a difficult adjustment. The policy aims to promote healthier learning habits and reduce distractions.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+      "source": "NPR News",
+      "published": "2026-08-11T05:00:00-04:00"
+    },
+    {
+      "headline": "France Bans Unsolicited Telemarketing Calls",
+      "summary": "France has introduced a ban on cold calling, a move that consumer groups are hailing as a \"small revolution\" in the fight against unwanted sales pitches. The ban is expected to improve the lives of millions of French citizens.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T14:19:45.376Z"
+    },
+    {
+      "headline": "Luigi Mangione Appears in Court Ahead of Murder Trial",
+      "summary": "Luigi Mangione has appeared in court as questions continue to surround the case ahead of his murder trial. Prosecutors and Mangione's lawyers are engaged in a battle over evidence, with the trial expected to be a highly publicized event.",
+      "category": "World",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T11:35:20.503Z"
+    },
+    {
+      "headline": "The SpaceX Sham Exposed",
+      "summary": "A new article has shed light on the business practices of SpaceX, revealing a complex web of tax breaks and subsidies that have helped the company achieve its success. The article raises questions about the true cost of SpaceX's ambitions.",
+      "category": "Other",
+      "relevance": 3,
+      "url": "https://dissentmagazine.org/online_articles/spacex-ipo-elon-musk-trillionaire/",
+      "source": "Hacker News",
+      "published": "2026-08-11T14:44:32+00:00"
     }
   ]
 }
