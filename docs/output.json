@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T02:54:04.540602+00:00",
+  "generated_at": "2026-08-12T03:06:46.485563+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -27,7 +27,79 @@
       "relevance": 9,
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
       "source": "Hacker News",
-      "published": "2026-08-11T13:00:05+00:00"
+      "published": "2026-08-11T19:35:52+00:00"
+    },
+    {
+      "headline": "Kawhi's Contract Raises Troubling Questions",
+      "summary": "Daktronics' vague denial of a kickback scheme involving Kawhi Leonard has sparked concerns about the legitimacy of the deal. The lack of a full-throated denial has left many questioning the arrangement.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vlo2jp/windhorst_i_dont_need_fbi_training_to_understand/",
+      "source": "r/NBA",
+      "published": "2026-08-11T17:30:29+00:00"
+    },
+    {
+      "headline": "Thunder's Financial Crunch Threatens Max Contracts",
+      "summary": "The Oklahoma City Thunder are facing financial difficulties, which may force them to reevaluate their max contracts, including Chet Holmgren's deal. GM Sam Presti's ability to navigate the team's finances could be put to the test.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vlimbj/harper_its_questionable_if_the_thunder_proceed/",
+      "source": "r/NBA",
+      "published": "2026-08-11T14:13:27+00:00"
+    },
+    {
+      "headline": "Decoupled Descent: A New Approach to Neural Networks",
+      "summary": "Researchers have developed a method called Decoupled Descent to address the issue of training errors not decreasing in neural networks. This approach uses AMP Onsager corrections to track exact train-test error.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T21:06:36+00:00"
+    },
+    {
+      "headline": "Low Code Submission Rate at AAAI 2027",
+      "summary": "A reviewer has expressed surprise at the low number of code submissions for AAAI 2027, despite the conference's emphasis on reproducibility. This trend may indicate a shift in the way researchers approach paper submissions.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlqjby/aaai_2027_review_no_code_submission_d/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T18:58:04+00:00"
+    },
+    {
+      "headline": "HyperSAE: A New Library for Sparse Autoencoders",
+      "summary": "HyperSAE is a PyTorch library that applies Poincaré hyperbolic geometry to Sparse Autoencoders for improved interpretability. This approach has resulted in a 9.8% reduction in MSE and a 0.2% decrease in dead latents.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlpyh2/hypersae_decoupled_poincaré_geometry_for_sparse/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T18:37:18+00:00"
+    },
+    {
+      "headline": "Context-Induced Activation Drift in RLHF",
+      "summary": "Researchers have discovered that feeding a long, benign context to a language model can cause a massive shift in internal activations, leading to a decoupling of logit values. This phenomenon has implications for RLHF alignment.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vm16hs/contextinduced_activation_drift_long_benign/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-12T02:09:00+00:00"
+    },
+    {
+      "headline": "Intelligent Model Weight Transfer between LLMs",
+      "summary": "Researchers are exploring the possibility of transferring model weights between large language models to reduce pre-training time. This approach could revolutionize the field of LLMs.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlt7t7/research_direction_intelligent_model_weight/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T20:35:27+00:00"
+    },
+    {
+      "headline": "The Agentic World Cup: LLMs Compete in Soccer",
+      "summary": "A team has developed a platform where language models compete in 1v1 soccer, showcasing their ability to understand and interact with the game. This project has implications for the development of embodied AI.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vllvmn/we_built_the_agentic_world_cup_llms_that_compete/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T16:12:11+00:00"
     },
     {
       "headline": "Finding Faith in Suffering: Marshall's Prayer Guide",
@@ -37,15 +109,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/praying-pain-when-not-healed/",
       "source": "The Gospel Coalition",
       "published": "2026-08-11T04:02:00+00:00"
-    },
-    {
-      "headline": "Nvidia's High-Stakes Gamble: Expanding AI Risk",
-      "summary": "Nvidia's efforts to help customers raise capital for AI projects are increasing the risk of the AI buildout, potentially leading to significant consequences.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "source": "Stratechery",
-      "published": "2026-08-11T10:00:00+00:00"
     },
     {
       "headline": "Tucker Pillsbury's Time-Traveling Act: A Country Record",
@@ -63,16 +126,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T19:09:52.999Z"
-    },
-    {
-      "headline": "Colombia Earthquake Death Toll Rises",
-      "summary": "The death toll from Monday's 7.4 magnitude earthquake in Colombia continues to climb, with hundreds of rescue workers deployed to free victims trapped under the rubble.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
-      "source": "NPR News",
-      "published": "2026-08-11T17:12:05-04:00"
+      "published": "2026-08-11T19:09:52+00:00"
     },
     {
       "headline": "Russia-Ukraine Conflict Escalates: North Korean Missiles Used",
@@ -81,7 +135,25 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T09:39:58.754Z"
+      "published": "2026-08-11T16:19:44+00:00"
+    },
+    {
+      "headline": "Colombia Earthquake Death Toll Rises",
+      "summary": "The death toll from Monday's 7.4 magnitude earthquake in Colombia continues to climb, with hundreds of rescue workers deployed to free victims trapped under the rubble.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5928036/the-death-toll-climbs-from-mondays-7-4-magnitude-earthquake-in-colombia",
+      "source": "NPR News",
+      "published": "2026-08-11T21:12:05+00:00"
+    },
+    {
+      "headline": "Nvidia's High-Stakes Gamble: Expanding AI Risk",
+      "summary": "Nvidia's efforts to help customers raise capital for AI projects are increasing the risk of the AI buildout, potentially leading to significant consequences.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "source": "Stratechery",
+      "published": "2026-08-11T10:00:00+00:00"
     },
     {
       "headline": "Stealing AI Reasoning Traces: A New Security Concern",
@@ -118,6 +190,132 @@
       "url": "https://x.ai/bot",
       "source": "Hacker News",
       "published": "2026-08-11T17:23:09+00:00"
+    },
+    {
+      "headline": "Gabe Vincent Defends Bam Adebayo's Scoring Record",
+      "summary": "Former Laker Gabe Vincent has come to the defense of Bam Adebayo, who was criticized for scoring 83 points in a game. Vincent argues that Adebayo's performance is not a problem, but rather a testament to his skill.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vlumj3/former_laker_gabe_vincent_stands_up_for_bam/",
+      "source": "r/NBA",
+      "published": "2026-08-11T21:28:37+00:00"
+    },
+    {
+      "headline": "LeBron James Requests Christmas Day Game",
+      "summary": "The NBA scheduled the 76ers vs Lakers game on Christmas Day to accommodate LeBron James' request to be home for the holidays. James reportedly wanted to be present for his children's gift-giving.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vllvey/jeff_teague_says_the_nba_scheduled_76ers_vs/",
+      "source": "r/NBA",
+      "published": "2026-08-11T16:11:57+00:00"
+    },
+    {
+      "headline": "Mortgage Mogul's $600 Million Downfall",
+      "summary": "Billionaire Mat Ishbia's failed takeover and misjudged bets on interest rates left him on the brink of financial collapse. His rescue highlights the risks of high-stakes business ventures.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vlu0q9/wsj_americas_mortgage_king_lost_600_million_and/",
+      "source": "r/NBA",
+      "published": "2026-08-11T21:05:28+00:00"
+    },
+    {
+      "headline": "Tyrese Maxey's LeBron James Recruitment Pitch",
+      "summary": "Philadelphia 76ers guard Tyrese Maxey revealed his attempts to recruit LeBron James to the team, citing the star's potential to elevate the franchise. Maxey reportedly spoke with James multiple times about the possibility.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vluqqy/highlight_tyrese_maxey_on_recruiting_lebron_james/",
+      "source": "r/NBA",
+      "published": "2026-08-11T21:33:15+00:00"
+    },
+    {
+      "headline": "NBA Stars Unlikely to Extend Contracts",
+      "summary": "Several NBA players, including Michael Porter Jr. and Anthony Davis, are unlikely to sign contract extensions with their current teams. The situation highlights the challenges of retaining top talent in the league.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vltyvm/fischer_michael_porter_jr_and_the_brooklyn_nets/",
+      "source": "r/NBA",
+      "published": "2026-08-11T21:03:30+00:00"
+    },
+    {
+      "headline": "Phil Jackson's Unmatched Playoff Record",
+      "summary": "Chicago Bulls legend Phil Jackson holds the record for the most games above .500 in the playoffs, with 125 victories. His achievement is unlikely to be surpassed anytime soon.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vlq57k/phil_jacksons_playoff_record_is_125_games_above/",
+      "source": "r/NBA",
+      "published": "2026-08-11T18:43:57+00:00"
+    },
+    {
+      "headline": "Midwife Bridges Maternity Care Gap",
+      "summary": "A dedicated midwife is working to address the shortage of labor and delivery hospitals in rural Alabama, providing critical care to Black mothers and babies. Her efforts highlight the need for increased access to maternal healthcare.",
+      "category": "Other",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/11/nx-s1-5678523/maternity-desert-birth-midwife-black-moms-babies",
+      "source": "NPR News",
+      "published": "2026-08-11T06:00:00-04:00"
+    },
+    {
+      "headline": "Trump's Iran War Stakes Revealed",
+      "summary": "A recent plane swap between the US and Iran has raised concerns about the personal stakes of a potential war between the two nations. The move marks another tense episode in the complex history of US-Iran relations.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T00:14:42.808Z"
+    },
+    {
+      "headline": "ML Engineer Job Transition Feasibility",
+      "summary": "A Ph.D. holder in electrical engineering is considering a career shift to machine learning engineering, citing their software development experience and coding competition wins. The transition may require additional education or training.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlfjy3/prospects_of_finding_a_ml_engineering_job_d/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T12:05:00+00:00"
+    },
+    {
+      "headline": "Spiking Language Model Revamp",
+      "summary": "A researcher has rebuilt their spiking language model to prioritize CPU-first inference, aiming to improve performance and efficiency. The project demonstrates the ongoing development of innovative AI architectures.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlrajq/continued_development_of_the_model_based_on_the/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T19:25:06+00:00"
+    },
+    {
+      "headline": "AI for Merge Puzzle",
+      "summary": "A developer is seeking guidance on creating an AI for a single-player merge puzzle game, which involves planning, reinforcement learning, and stochastic elements. The project requires expertise in related algorithms and implementations.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlfavg/planningrl_for_a_stochastic_singleplayer_merge/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-11T11:53:33+00:00"
+    },
+    {
+      "headline": "Banana Raft Rescue in Indian Floods",
+      "summary": "A 97-year-old's dramatic rescue on a banana raft highlights the severity of the floods in Assam, India, which have reached previously safe areas. The incident underscores the need for effective disaster response and relief efforts.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/clye8332d63o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T23:11:32.080Z"
+    },
+    {
+      "headline": "Nash's Playoff Revenge",
+      "summary": "After being spurned by the Mavs, Steve Nash led the Suns to a series win in the 2005 playoffs, averaging 40 points, 9 assists, and 10 rebounds in the final three games. His impressive performance silenced critics who doubted his all-time point guard status.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vlm2h1/after_cuban_refused_to_match_the_suns_5_year65/",
+      "source": "r/NBA",
+      "published": "2026-08-11T16:18:55+00:00"
+    },
+    {
+      "headline": "Cavaliers Stall on Sign-and-Trade Talks",
+      "summary": "The Cleveland Cavaliers are reconsidering a sign-and-trade deal for Jonathan Kuminga and Peyton Watson due to James Harden's growing impatience over his contract negotiations. The delay has put the Cavaliers' plans in jeopardy.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vlttwy/fischer_the_cleveland_cavaliers_may_wind_up/",
+      "source": "r/NBA",
+      "published": "2026-08-11T20:58:21+00:00"
     },
     {
       "headline": "Empowering Churches to Serve Local Schools",
@@ -165,6 +363,24 @@
       "published": "2026-08-11T21:56:18+00:00"
     },
     {
+      "headline": "Compression is a Form of Prediction",
+      "summary": "A new perspective on data compression reveals that it's not just about reducing file size, but also about making predictions about the data itself. This approach can lead to more efficient compression algorithms and better data storage solutions.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "source": "Hacker News",
+      "published": "2026-08-11T19:49:44+00:00"
+    },
+    {
+      "headline": "Go is Ideal for AI-Assisted Software Engineering",
+      "summary": "Google developers argue that the Go programming language is well-suited for AI-assisted software engineering due to its simplicity and concurrency features. This makes it easier to develop and maintain complex software systems.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "source": "Hacker News",
+      "published": "2026-08-11T16:57:09+00:00"
+    },
+    {
       "headline": "As We Once Were: A Haunting and Elaborate Art-Pop Album",
       "summary": "The British singer-songwriter's latest album is a masterful work of art-pop that tackles themes of personal upheaval with dry wit and unconventional production. With its cohesive vision and memorable songs, the album is a standout in the genre.",
       "category": "Music",
@@ -183,112 +399,49 @@
       "published": "2026-08-11T04:00:00+00:00"
     },
     {
-      "headline": "Compression is a Form of Prediction",
-      "summary": "A new perspective on data compression reveals that it's not just about reducing file size, but also about making predictions about the data itself. This approach can lead to more efficient compression algorithms and better data storage solutions.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://ngrok.com/blog/compression-is-prediction",
-      "source": "Hacker News",
-      "published": "2026-08-11T00:00:00Z"
-    },
-    {
       "headline": "Lebanon Abolishes Death Penalty",
       "summary": "Lebanon's parliament has voted to abolish the death penalty, making it the first country in the Middle East to do so. The new law still needs cabinet approval before it can take effect.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T15:24:07.157Z"
+      "published": "2026-08-11T15:24:07+00:00"
     },
     {
-      "headline": "Go is Ideal for AI-Assisted Software Engineering",
-      "summary": "Google developers argue that the Go programming language is well-suited for AI-assisted software engineering due to its simplicity and concurrency features. This makes it easier to develop and maintain complex software systems.",
+      "headline": "Trump Changes Flight Plans Amid Security Concerns",
+      "summary": "President Trump revealed that he switched planes after the NATO summit in Turkey due to potential security threats, citing the Secret Service's concerns. The decision was made to ensure the President's safety.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T01:50:35.139Z"
+    },
+    {
+      "headline": "RSI Simulator Tool Released",
+      "summary": "A new tool has been developed to simulate Relative Strength Index (RSI) indicators, allowing users to test and refine their trading strategies. The simulator provides a realistic environment for traders to practice and improve.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "url": "https://www.paradigm.xyz/writing/rsi-simulator",
       "source": "Hacker News",
-      "published": "2026-08-11"
+      "published": "2026-08-11T09:00:00-07:00"
     },
     {
-      "headline": "BMW's iDrive System Raises Concerns",
-      "summary": "A BMW owner expresses frustration with the car's iDrive system, which can be prone to errors and unexpected behavior. This raises concerns about the reliability and user experience of modern automotive technology.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://tumbledry.org/2026/08/07/idrive_ads",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:56:13+00:00"
-    },
-    {
-      "headline": "DEF CON Attendees Suspected in Fake Hotspot Attack",
-      "summary": "A suspected fake Wi-Fi hotspot attack on a Delta flight has raised concerns about the potential for malicious activity at DEF CON, a popular hacking conference. The incident is still under investigation.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "source": "Hacker News",
-      "published": "2026-08-12T00:08:40+00:00"
-    },
-    {
-      "headline": "Mark Zuckerberg's AI Essay Falls Flat",
-      "summary": "Mark Zuckerberg's 6,500-word essay on AI has been met with criticism for lacking new insights and ideas. Despite its length, the essay fails to provide a compelling vision for the future of artificial intelligence.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.meta.com/thefutureisforeveryone/",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:36:36+00:00"
-    },
-    {
-      "headline": "pg_clickhouse Gets a Major Speed Boost",
-      "summary": "The pg_clickhouse database has been optimized to achieve significant performance gains, with some queries running up to 1000 times faster. This makes it a more viable option for large-scale data processing and analytics.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "source": "Hacker News",
-      "published": "2026-08-11T17:40:40.622Z"
-    },
-    {
-      "headline": "National Guard Deploys in D.C., Colombia Hit by Quake",
-      "summary": "The National Guard has been deployed in Washington D.C. for a year, with mixed results. Meanwhile, a devastating earthquake has struck Colombia, leaving over 100 people dead and many more injured.",
+      "headline": "US Marine Released by Russia in Poor Health",
+      "summary": "Robert Gilman, a former US Marine, has been released by Russia after being held in poor health since his arrest in 2022. His family claims he was subjected to harsh and abusive treatment during his detention.",
       "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-      "source": "NPR News",
-      "published": "2026-08-11T07:11:14-04:00"
-    },
-    {
-      "headline": "Assad Sentenced to Death in Absentia",
-      "summary": "A Syrian court has sentenced former President Bashar al-Assad and his brother to death in absentia for crimes against humanity and war crimes. The sentence is a significant development in the ongoing Syrian conflict.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-      "source": "NPR News",
-      "published": "2026-08-11T06:07:14-04:00"
-    },
-    {
-      "headline": "OpenSSH 10.5 Released with New Features",
-      "summary": "The latest version of OpenSSH, 10.5, has been released with several new features and improvements. The update aims to enhance the security and performance of the popular SSH protocol.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "source": "Hacker News",
-      "published": "2026-08-11T17:49:37+00:00"
-    },
-    {
-      "headline": "Assad Sentenced to Death for War Crimes",
-      "summary": "Bashar al-Assad has been convicted of war crimes and crimes against humanity in absentia, marking a significant step towards accountability for his regime's atrocities.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T09:42:48.953Z"
+      "published": "2026-08-11T15:35:01.517Z"
     },
     {
-      "headline": "Edit Git Commits Like a Spreadsheet",
-      "summary": "Git-knife is a new tool that allows developers to edit commit messages, authors, and dates in a spreadsheet-like interface, streamlining the process of managing Git history.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://github.com/TheRealYT/git-knife",
-      "source": "Hacker News",
-      "published": "2026-08-11T15:09:34+00:00"
+      "headline": "Spurs CEO's Secret Plan to Draft Wemby",
+      "summary": "The San Antonio Spurs' CEO revealed a plan to draft Victor Wembanyama when he was just 16 years old, showcasing the team's early interest in the highly touted prospect. The move paid off, as Wembanyama is now a key player for the Spurs.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vlmddn/spurs_ceo_hatched_a_plan_to_draft_wemby_right/",
+      "source": "r/NBA",
+      "published": "2026-08-11T16:29:49+00:00"
     },
     {
       "headline": "A La Carte: A Mixed Bag of News and Commentary",
@@ -298,159 +451,6 @@
       "url": "https://www.challies.com/a-la-carte/a-la-carte-august-11-2026/",
       "source": "Challies",
       "published": "2026-08-11T04:01:00+00:00"
-    },
-    {
-      "headline": "South Carolina Senator Advances in GOP Primary Runoff",
-      "summary": "Sen. Darline Graham has secured a spot in the special primary runoff for the U.S. Senate seat in South Carolina, alongside Rep. Ralph Norman.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928375/2026-south-carolina-special-primary-election-lindsey-graham-vacancy",
-      "source": "NPR News",
-      "published": "2026-08-11T18:39:22-04:00"
-    },
-    {
-      "headline": "BMW Paid Sony for Spider-Man Ads, Not the Other Way Around",
-      "summary": "BMW has likely paid Sony to feature its cars in the new Spider-Man movie, rather than the other way around, as previously speculated.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.press.bmwgroup.com/global/article/detail/T0459622EN/bmw-brings-modern-mobility-to-the-sony-pictures-film-%E2%80%9Cspider-man%E2%84%A2:-brand-new-day%E2%80%9D?language=en",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:46:49+00:00"
-    },
-    {
-      "headline": "Judge Blocks Postal Service from Enforcing Trump's Mail-in Voting Order",
-      "summary": "A federal judge has expanded a block on a key part of President Trump's order to restrict mail-in voting, banning the Postal Service from carrying out directives in every state.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928383/trump-mail-in-voting-executive-order-usps",
-      "source": "NPR News",
-      "published": "2026-08-11T17:11:09-04:00"
-    },
-    {
-      "headline": "US Helicopter Disables Ship Breaking Iran Blockade",
-      "summary": "A US helicopter has fired missiles to disable a cargo vessel in the Gulf of Oman, reportedly breaking an Iranian blockade.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T20:04:11.591Z"
-    },
-    {
-      "headline": "Kennedy Center Must Pay $250,000 in Legal Fees",
-      "summary": "The Kennedy Center has been ordered to pay $250,000 in legal fees to musician Chuck Redd, who canceled his performance in protest of Trump's name being added to the complex.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5928311/chuck-redd-kennedy-center",
-      "source": "NPR News",
-      "published": "2026-08-11T16:23:07-04:00"
-    },
-    {
-      "headline": "The Talk Show: Getting the Snack Right",
-      "summary": "Chance Miller joins John Gruber on The Talk Show to discuss various topics, including iOS 27's progress, live baseball in Vision Pro, and Apple's trade secret lawsuit against OpenAI.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://daringfireball.net/thetalkshow/2026/08/10/ep-454",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:00:00+00:00"
-    },
-    {
-      "headline": "Has Netflix Peaked?",
-      "summary": "Andrew Sharp argues that Netflix has reached its peak and is now facing increased competition and declining growth, despite still producing high-quality content.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://sharptext.net/2026/is-netflix-washed-now/",
-      "source": "Daring Fireball",
-      "published": "2026-07-17T12:00:00+00:00"
-    },
-    {
-      "headline": "Economic Concepts Come to Life in New Board Game",
-      "summary": "Planet Money's new board game incorporates Nobel Prize-winning research and economic theories, making complex ideas accessible and fun. From the Laffer Curve to Veblen's peacock, the game's designers have woven economic concepts into an engaging experience.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-      "source": "NPR News",
-      "published": "2026-08-11T06:30:00-04:00"
-    },
-    {
-      "headline": "Turning a Pen Plotter into a Holographic Display",
-      "summary": "A creative hacker has discovered a way to use a pen plotter to create holographic images, pushing the boundaries of what's possible with this low-cost device. The technique involves manipulating light and shadow to create a three-dimensional effect.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "source": "Hacker News",
-      "published": "2026-08-11T18:51:35+00:00"
-    },
-    {
-      "headline": "Hungary's New President a Blow to Orbán's Legacy",
-      "summary": "The election of a former judge removed by Viktor Orbán's government as Hungarian president marks a significant shift in the country's politics. The move is seen as a response to the new government's efforts to dismantle Orbán's legacy.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T18:34:39.153Z"
-    },
-    {
-      "headline": "Progressive Candidates Test Their Strength in Midwest Primaries",
-      "summary": "In Minnesota and Wisconsin, competitive primaries will put progressive candidates to the test, raising questions about their chances of winning in November. The outcome could also impact the Republican Party's ability to attract moderates.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/11/nx-s1-5927455/minnesota-wisconsin-primaries-hong-dsa-crowley-lindell-craig-flanagan-trump",
-      "source": "NPR News",
-      "published": "2026-08-11T05:00:00-04:00"
-    },
-    {
-      "headline": "Unlocking Better Text Designs with CSS",
-      "summary": "A recent article highlights essential CSS properties for creating visually appealing text designs, from font styles to spacing and alignment. By mastering these properties, designers can elevate their typography and improve user experience.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://master.dev/blog/typographic-css-tricks/",
-      "source": "Hacker News",
-      "published": "2026-08-11T17:16:06+00:00"
-    },
-    {
-      "headline": "Thailand Cracks Down on Gun Ownership After Mass Shooting",
-      "summary": "In response to a recent mass shooting, Thailand's authorities have suspended new gun permits and pledged to introduce tougher laws. The move aims to address the country's high levels of firearms ownership.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T14:16:44.086Z"
-    },
-    {
-      "headline": "Mojo 1.0: A New Era for Modular Design",
-      "summary": "Modular has released Mojo 1.0, a significant update to its design platform that promises improved performance and features. The update is expected to enhance the user experience and expand the possibilities for creative projects.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "source": "Hacker News",
-      "published": "2026-08-11T16:48:02.447Z"
-    },
-    {
-      "headline": "The Secret Service's Elaborate Deception Operations",
-      "summary": "The US Secret Service employs elaborate deception operations to protect the president, including decoys and elaborate ruses to deceive potential threats. These operations are designed to keep the president safe while maintaining a sense of normalcy.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c9d84874dzjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T20:39:42.118Z"
-    },
-    {
-      "headline": "Rescue Efforts Underway at Collapsed Building in Colombia",
-      "summary": "A building in Cali, Colombia, has collapsed, leaving survivors trapped under the rubble. Rescue workers are fighting to free those still alive, with the Colombian government providing support to the affected families.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T21:34:55.841Z"
-    },
-    {
-      "headline": "Neutrinos Reveal New Insights into Earth's Mantle",
-      "summary": "Scientists have used neutrinos from deep within the Earth to gain a new understanding of the planet's mantle, a region that's difficult to study directly. The research provides valuable insights into the Earth's internal dynamics and composition.",
-      "category": "Other",
-      "relevance": 4,
-      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-      "source": "Hacker News",
-      "published": "2026-08-07T13:55:32+00:00"
     }
   ]
 }
