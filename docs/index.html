@@ -340,6 +340,57 @@
   function setToken(t){ try{localStorage.setItem(GH_TOKEN_KEY,t);}catch(e){} }
   function clearToken(){ try{localStorage.removeItem(GH_TOKEN_KEY);}catch(e){} }
   function resetRunBtn(delay){ setTimeout(()=>{ runLabel.textContent="Run now"; runBtn.disabled=false; },delay); }
+  function sleep(ms){ return new Promise(r=>setTimeout(r,ms)); }
+  const ORIG_TITLE=document.title;
+
+  // Poll the run's live status (same token, Actions:read covers this) so the
+  // button and tab title show real progress instead of a blind 60s guess.
+  async function pollRun(token, sinceMs){
+    const started=Date.now();
+    let runId=null;
+    for(let tries=0; tries<10 && !runId; tries++){
+      await sleep(2000);
+      try{
+        const res=await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/runs?event=workflow_dispatch&per_page=5`,
+          { headers:{ "Authorization":`Bearer ${token}`, "Accept":"application/vnd.github+json" } });
+        if(!res.ok) continue;
+        const data=await res.json();
+        const match=(data.workflow_runs||[]).find(r=>new Date(r.created_at).getTime()>=sinceMs-10000);
+        if(match) runId=match.id;
+      }catch(e){}
+    }
+    if(!runId){
+      runLabel.textContent="Queued…"; document.title=ORIG_TITLE; resetRunBtn(15000); return;
+    }
+    while(true){
+      const elapsed=Math.round((Date.now()-started)/1000);
+      let run;
+      try{
+        const res=await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/runs/${runId}`,
+          { headers:{ "Authorization":`Bearer ${token}`, "Accept":"application/vnd.github+json" } });
+        if(!res.ok) break;
+        run=await res.json();
+      }catch(e){ break; }
+      if(run.status==="completed"){
+        document.title=ORIG_TITLE;
+        if(run.conclusion==="success"){
+          runLabel.textContent="Done ✓ reloading…";
+          await load();
+          runLabel.textContent="Done ✓";
+        } else {
+          runLabel.textContent="Run failed";
+        }
+        resetRunBtn(4000);
+        return;
+      }
+      const phase = run.status==="queued" ? "Queued" : "Running";
+      runLabel.textContent=`${phase}… ${elapsed}s`;
+      document.title=`(${elapsed}s) ⟳ Refreshing`;
+      await sleep(5000);
+    }
+    document.title=ORIG_TITLE;
+    resetRunBtn(3000);
+  }
 
   async function triggerRun(){
     let token=getToken();
@@ -353,14 +404,15 @@
     }
     runBtn.disabled=true; runLabel.textContent="Triggering…";
     try{
+      const sinceMs=Date.now();
       const res=await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/workflows/${GH_WORKFLOW}/dispatches`,{
         method:"POST",
         headers:{ "Authorization":`Bearer ${token}`, "Accept":"application/vnd.github+json" },
         body:JSON.stringify({ref:"main"})
       });
       if(res.status===204){
-        runLabel.textContent="Triggered ✓";
-        resetRunBtn(60000);
+        runLabel.textContent="Queued…";
+        pollRun(token, sinceMs);
       } else if(res.status===401||res.status===403){
         clearToken();
         runLabel.textContent="Bad token";
