@@ -5,7 +5,7 @@ and a multi-provider fallback chain.
 Provider waterfall (tried in order, automatic fallback on ANY failure):
   1. Groq     — llama-3.3-70b-versatile  (best quality, 100k TPD free)
   2. Cerebras — llama-3.3-70b            (CEREBRAS_API_KEY, same weights, generous free)
-  3. Gemini   — gemini-1.5-flash         (GEMINI_API_KEY, 1M tokens/day free)
+  3. Gemini   — gemini-2.5-flash         (GEMINI_API_KEY, generous free tier)
   4. Groq     — openai/gpt-oss-120b      (same key, strong production model)
   5. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
 
@@ -85,7 +85,7 @@ def _gemini_call(key: str):
             }
         }).encode()
         url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-               f"gemini-1.5-flash:generateContent?key={key}")
+               f"gemini-2.5-flash:generateContent?key={key}")
         req = urllib.request.Request(url, data=body,
                                      headers={"Content-Type": "application/json"})
         with urllib.request.urlopen(req, timeout=30) as r:
@@ -137,7 +137,7 @@ def _build_provider_chain():
 
     # Tier 2 — Gemini Flash (different architecture, still very capable)
     if gemini_key:
-        chain.append(("Gemini/gemini-1.5-flash", _gemini_call(gemini_key)))
+        chain.append(("Gemini/gemini-2.5-flash", _gemini_call(gemini_key)))
 
     # Tier 3 — other Groq production models (last resort, same key)
     if groq_key:
