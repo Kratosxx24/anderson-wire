@@ -19,14 +19,20 @@ stories you want per run.
 
 RSS_FEEDS = [
     # --- NBA / basketball (heavy — your main lane) ---
-    ("ESPN NBA", "https://www.espn.com/espn/rss/nba/news"),
+    # ESPN NBA replaced 2026-08-12: ESPN's RSS now returns HTTP 202 with zero
+    # entries on every request (bot-blocked), verified dead across many runs.
+    ("CBS Sports NBA", "https://www.cbssports.com/rss/headlines/nba/"),
+    ("ClutchPoints NBA", "https://www.clutchpoints.com/nba/feed"),
+    ("Yahoo Sports NBA", "https://sports.yahoo.com/nba/rss.xml"),
+    ("BasketballNews", "https://www.basketballnews.com/feed"),
     ("r/NBA", "https://www.reddit.com/r/nba/.rss"),
     ("r/NBA Discussion", "https://www.reddit.com/r/nbadiscussion/.rss"),
     ("r/NBA Analytics", "https://www.reddit.com/r/nbaanalysis/.rss"),
 
     # --- Sports (volleyball, fantasy football, general) ---
     ("Volleyball Mag", "https://volleyballmag.com/feed/"),
-    ("ESPN Sports", "https://www.espn.com/espn/rss/news"),
+    # ESPN Sports replaced 2026-08-12: same ESPN bot-block as above.
+    ("CBS Sports", "https://www.cbssports.com/rss/headlines/"),
     ("r/FantasyFootball", "https://www.reddit.com/r/fantasyfootball/.rss"),
 
     # --- Tech / AI (Apple, Anthropic/LLMs, consumer tech) ---
@@ -48,7 +54,8 @@ RSS_FEEDS = [
     ("Pitchfork", "https://pitchfork.com/feed/feed-album-reviews/rss"),
 
     # --- World Cup 2026 / soccer ---
-    ("ESPN Soccer", "https://www.espn.com/espn/rss/soccer/news"),
+    # ESPN Soccer replaced 2026-08-12: same ESPN bot-block as above.
+    ("BBC Football", "http://feeds.bbci.co.uk/sport/football/rss.xml"),
 
     # --- General / world ---
     ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
