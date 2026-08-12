@@ -30,6 +30,11 @@ RSS_FEEDS = [
     ("r/NBA Discussion", "https://www.reddit.com/r/nbadiscussion/.rss"),
     ("r/NBA Analytics", "https://www.reddit.com/r/nbaanalysis/.rss"),
 
+    # --- NFL / football (analytical lane, added 2026-08-12, same bar as NBA) ---
+    ("Cap & Trade", "https://www.capandtrade.football/feed"),      # salary cap / roster building
+    ("MatchQuarters", "https://www.matchquarters.com/feed"),        # schematic / defensive breakdowns
+    ("Too Deep Zone", "https://miketanier.substack.com/feed"),      # veteran analytics writer
+
     # --- Sports (volleyball, fantasy football, general) ---
     ("Volleyball Mag", "https://volleyballmag.com/feed/"),
     # ESPN Sports replaced 2026-08-12: same ESPN bot-block as above.
@@ -98,11 +103,14 @@ relevance WELL WITHIN each area:
 - NBA: the THINKING side — lineup construction, advanced stats, roster building,
   trades and their second-order effects, front-office strategy, draft analysis.
   Score analytical/strategic pieces high; score gossip and pure highlights low.
+- NFL: the same THINKING side — scheme and play-design breakdowns, salary cap
+  and contract strategy, roster construction, draft analysis. Score analytical/
+  strategic pieces high; score rumor-mill churn and pure highlights low.
 - Faith: Reformed/Presbyterian theology and culture (The Gospel Coalition,
   Desiring God, Ligonier). Score substantive theology and thoughtful cultural
   commentary high; score surface devotional filler and prosperity-gospel low.
-- Sports: volleyball especially, plus basketball/football analysis and fantasy
-  football (lineup/start-sit/waiver strategy).
+- Sports: volleyball especially, plus fantasy football (lineup/start-sit/waiver
+  strategy) and general sports.
 - Tech/AI: predictive modeling, applied ML, and forecasting — especially applied
   to sports or real decisions. Also Apple (products, the company), Anthropic and
   the broader LLM/AI race (Claude, frontier models), and sharp consumer-tech
@@ -129,7 +137,8 @@ MAX_STORIES = 50
 # many relevant articles exist in the pool. Remaining slots (up to MAX_STORIES)
 # fill by overall relevance. Minimums should sum to <= MAX_STORIES.
 CATEGORY_MINIMUMS = {
-    "NBA":     8,
+    "NBA":     4,
+    "NFL":     4,
     "Faith":   7,
     "Sports":  3,
     "Tech/AI": 3,

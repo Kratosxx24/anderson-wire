@@ -463,6 +463,7 @@
   /* ---------- Category colors + luminance helper ---------- */
   const CATEGORY_COLORS = {
     "NBA":    {l:"#d2702a", d:"#e88a45"},
+    "NFL":    {l:"#a1483a", d:"#d98a78"},
     "Sports": {l:"#2f8f55", d:"#5cc483"},
     "Tech/AI":{l:"#3f6dc7", d:"#7aa0e8"},
     "Faith":  {l:"#7d5bc0", d:"#a98fe0"},
@@ -481,7 +482,7 @@
     return `rgba(${parseInt(h.substr(0,2),16)},${parseInt(h.substr(2,2),16)},${parseInt(h.substr(4,2),16)},${a})`; }
 
   /* ---------- State ---------- */
-  const CATEGORY_ORDER=["NBA","Sports","Tech/AI","Faith","Music","World","Other"];
+  const CATEGORY_ORDER=["NBA","NFL","Sports","Tech/AI","Faith","Music","World","Other"];
   let allStories=[];
   let filter={type:"all",value:null};
   let sortMode="newest";

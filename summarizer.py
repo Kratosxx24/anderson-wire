@@ -35,7 +35,7 @@ from groq import Groq
 
 import config
 
-CATEGORIES = ["NBA", "Sports", "Tech/AI", "Faith", "Music", "World", "Other"]
+CATEGORIES = ["NBA", "NFL", "Sports", "Tech/AI", "Faith", "Music", "World", "Other"]
 SUMMARY_BATCH = 10   # stories summarized per AI call
 TRIAGE_BATCH = 40    # headlines categorized per AI call (small enough for any model's TPM)
 BATCH_SLEEP = 12     # seconds between summary batches
