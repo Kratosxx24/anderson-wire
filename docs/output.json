@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-08-12T06:48:13.280678+00:00",
+  "generated_at": "2026-08-12T08:06:52.469902+00:00",
   "story_count": 50,
   "stories": [
-    {
-      "headline": "Medical Journal Claims Human‑Written Research, Yet It's Fully AI‑Generated",
-      "summary": "The startup markets its peer‑reviewed studies as entirely written by humans, but an investigation shows the content is produced by artificial intelligence. This exposes how AI can masquerade as human authorship in scientific publishing.",
-      "category": "Tech/AI",
-      "relevance": 10,
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "source": "Hacker News",
-      "published": "2026-08-12T02:05:42+00:00"
-    },
     {
       "headline": "Trump Secretly Escapes Air Force One in Catering Truck",
       "summary": "US media reports that President Trump was whisked away from Air Force One in a catering truck to avoid a perceived threat from Iran. The dramatic escape has sparked speculation about the president's safety.",
@@ -37,6 +28,15 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
       "published": "2026-08-11T14:54:32+00:00"
+    },
+    {
+      "headline": "Scripture Memorization: A Key to Effective Pastoring",
+      "summary": "A pastor has found that memorizing extended passages of Scripture has been a highly fruitful and eternally consequential practice in their ministry. By committing Scripture to memory, the pastor has been able to more effectively serve and guide their congregation.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/scripture-memorization-helps-pastor-well/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-12T04:00:00+00:00"
     },
     {
       "headline": "Finding Hope in Hard Times: A Scriptural Three‑Step Guide",
@@ -93,6 +93,15 @@
       "published": "2026-08-11T21:37:06+00:00"
     },
     {
+      "headline": "Zuckerberg's AI Essay Falls Flat Despite Lengthy Expansion",
+      "summary": "Mark Zuckerberg has published a 6,500-word essay on AI, but critics argue it fails to add significant new insights beyond his previous 1,000-word piece. The lengthy expansion has raised eyebrows, with some questioning the value of the additional content.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.meta.com/thefutureisforeveryone/",
+      "source": "Daring Fireball",
+      "published": "2026-08-11T19:36:36+00:00"
+    },
+    {
       "headline": "Colombia Earthquake Death Toll Rises to 180",
       "summary": "A devastating earthquake in Colombia has left 180 people dead, with many more trapped in rubble and buildings. Rescue efforts continue amidst aftershocks.",
       "category": "World",
@@ -118,15 +127,6 @@
       "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
       "source": "Hacker News",
       "published": "2026-08-12T01:45:51+00:00"
-    },
-    {
-      "headline": "Zuckerberg's AI Essay Falls Flat Despite Lengthy Expansion",
-      "summary": "Mark Zuckerberg has published a 6,500-word essay on AI, but critics argue it fails to add significant new insights beyond his previous 1,000-word piece. The lengthy expansion has raised eyebrows, with some questioning the value of the additional content.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.meta.com/thefutureisforeveryone/",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:36:36+00:00"
     },
     {
       "headline": "Anthropic's AI Transparency: A Promise Unfulfilled",
@@ -174,24 +174,6 @@
       "published": "2026-08-11T21:56:18+00:00"
     },
     {
-      "headline": "New ClickHouse Update Brings 1000x Speed Boost",
-      "summary": "A new update to ClickHouse has brought a significant speed boost, with queries now running 1000x faster than before. The update includes subquery pushdown, a key feature that improves performance.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
-      "source": "Hacker News",
-      "published": "2026-08-11T21:54:25+00:00"
-    },
-    {
-      "headline": "Emergent Introspective Awareness in Large Language Models",
-      "summary": "Researchers have made a breakthrough in understanding how Large Language Models develop introspective awareness, a key aspect of human intelligence. This discovery could lead to significant advancements in AI.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://arxiv.org/abs/2601.01828",
-      "source": "Hacker News",
-      "published": "2026-08-11T21:14:10+00:00"
-    },
-    {
       "headline": "Ngrok Blog Claims ‘Compression Is Prediction’",
       "summary": "The article explains how modern data compression techniques rely on predictive models to anticipate upcoming bits, blurring the line between compression and AI inference. It argues that understanding this relationship can improve both storage efficiency and model design.",
       "category": "Tech/AI",
@@ -226,15 +208,6 @@
       "url": "https://x.ai/bot",
       "source": "Hacker News",
       "published": "2026-08-11T17:23:09+00:00"
-    },
-    {
-      "headline": "CSS properties you should know for better text designs",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://master.dev/blog/typographic-css-tricks/",
-      "source": "Hacker News",
-      "published": "2026-08-11T17:16:06+00:00"
     },
     {
       "headline": "Google Advocates Go as the Perfect Language for AI‑Assisted Development",
@@ -309,22 +282,31 @@
       "published": "2026-08-11T21:12:05+00:00"
     },
     {
-      "headline": "Nash's Revenge: 40-Point Average Sends Mavs Packing",
-      "summary": "After the Mavericks failed to match the Suns' $65 million offer, Steve Nash led his team to victory with a remarkable 40-point average in their final three playoff games. This impressive performance showcased Nash's skills and proved to be a decisive factor in the series.",
-      "category": "NBA",
+      "headline": "Pitchfork Slams $TARFACE’s Slop‑Pop Album as Smug, Depressing, and Harmful",
+      "summary": "The review calls the concept record a self‑indulgent blend of sloppy pop and rap that feels complacent. It argues the album adds nothing positive and even makes the world a worse place.",
+      "category": "Music",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vlm2h1/after_cuban_refused_to_match_the_suns_5_year65/",
-      "source": "r/NBA",
-      "published": "2026-08-11T16:18:55+00:00"
+      "url": "https://pitchfork.com/reviews/albums/starface-tyga-starface/",
+      "source": "Pitchfork",
+      "published": "2026-08-12T04:02:00+00:00"
     },
     {
-      "headline": "Scripture Memorization: A Key to Effective Pastoring",
-      "summary": "A pastor has found that memorizing extended passages of Scripture has been a highly fruitful and eternally consequential practice in their ministry. By committing Scripture to memory, the pastor has been able to more effectively serve and guide their congregation.",
-      "category": "Faith",
+      "headline": "Neutrinos Reveal New Details of Earth’s Mantle",
+      "summary": "Researchers used neutrinos detected deep underground to map temperature and composition variations in the mantle. The findings offer a novel, indirect view of Earth’s interior that complements seismic studies.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/scripture-memorization-helps-pastor-well/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-12T04:00:00+00:00"
+      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
+      "source": "Hacker News",
+      "published": "2026-08-07T13:55:32+00:00"
+    },
+    {
+      "headline": "Exploring the What-Ifs of Star Players' Team Departures",
+      "summary": "A podcast episode examines the biggest \"what-ifs\" of star players who left their teams over the past 15 years, considering the potential consequences of their decisions. The discussion delves into the possibilities of what could have happened if these players had stayed with their original teams.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.thirdapron.com/p/biggest-what-ifs-for-star-players",
+      "source": "Third Apron",
+      "published": "2026-08-11T23:40:14+00:00"
     },
     {
       "headline": "NBA Analysis and Reporting for August 11, 2026",
@@ -334,24 +316,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81126",
       "source": "Basketball Intelligence",
       "published": "2026-08-11T17:03:44+00:00"
-    },
-    {
-      "headline": "Windhorst Calls Daktronics’ Vague Response ‘Troubling’",
-      "summary": "NBA insider Adrian Windhorst lambasts Daktronics for not outright denying kickback allegations involving Kawhi Leonard, pointing to a half‑hearted PR comment. He argues the lack of a clear denial raises serious transparency concerns.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vlo2jp/windhorst_i_dont_need_fbi_training_to_understand/",
-      "source": "r/NBA",
-      "published": "2026-08-11T17:30:29+00:00"
-    },
-    {
-      "headline": "Spurs Executive Allegedly Plotted 16‑Year‑Old Wembanyama Draft",
-      "summary": "A rumor suggests a San Antonio Spurs executive devised a plan to draft Victor Wembanyama as soon as he turned 16. The alleged scheme indicates the team was preparing to secure the prodigy far earlier than standard NBA eligibility.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vlmddn/spurs_ceo_hatched_a_plan_to_draft_wemby_right/",
-      "source": "r/NBA",
-      "published": "2026-08-11T16:29:49+00:00"
     },
     {
       "headline": "NFL Training Camp Injuries: The Latest Updates",
@@ -390,13 +354,13 @@
       "published": "2026-08-12T04:01:00+00:00"
     },
     {
-      "headline": "Exploring the What-Ifs of Star Players' Team Departures",
-      "summary": "A podcast episode examines the biggest \"what-ifs\" of star players who left their teams over the past 15 years, considering the potential consequences of their decisions. The discussion delves into the possibilities of what could have happened if these players had stayed with their original teams.",
-      "category": "NBA",
+      "headline": "DARPA Challenge Winner Achieves Impressive 3.84:1 Payload-to-Weight Ratio",
+      "summary": "The DARPA heavy lift challenge has concluded with a winner achieving a remarkable payload-to-weight ratio of 3.84:1, demonstrating significant advancements in heavy lift technology. This achievement has the potential to revolutionize various industries and applications that rely on heavy lifting capabilities.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.thirdapron.com/p/biggest-what-ifs-for-star-players",
-      "source": "Third Apron",
-      "published": "2026-08-11T23:40:14+00:00"
+      "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "source": "Hacker News",
+      "published": "2026-08-12T03:27:31+00:00"
     },
     {
       "headline": "American Marine Released from Russian Custody After Four Years",
@@ -405,16 +369,70 @@
       "relevance": 8,
       "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
       "source": "NPR News",
-      "published": "2026-08-12T01:27:13-04:00"
+      "published": "2026-08-12T05:27:13+00:00"
     },
     {
-      "headline": "DARPA Challenge Winner Achieves Impressive 3.84:1 Payload-to-Weight Ratio",
-      "summary": "The DARPA heavy lift challenge has concluded with a winner achieving a remarkable payload-to-weight ratio of 3.84:1, demonstrating significant advancements in heavy lift technology. This achievement has the potential to revolutionize various industries and applications that rely on heavy lifting capabilities.",
+      "headline": "Alex Micek Warns BMW iDrive’s Annoying ‘Special Surprises’",
+      "summary": "Micek lists everyday frustrations drivers face, from breakdowns to water leaks, but notes that intrusive ads are the least irritating. He argues that software quirks that distract drivers are a bigger nuisance than marketing pop‑ups.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "url": "https://tumbledry.org/2026/08/07/idrive_ads",
+      "source": "Daring Fireball",
+      "published": "2026-08-11T19:56:13+00:00"
+    },
+    {
+      "headline": "Pitchfork Praises DMV Rapper’s ‘Somewhere Over the Rainbow’ as Poignant Mastery",
+      "summary": "The critic highlights the artist’s raw storytelling about personal pain, elevating the genre with vivid lyricism. The album blends emotional depth with inventive production, setting a new standard for introspective rap.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/nino-paid-somewhere-over-the-rainbow/",
+      "source": "Pitchfork",
+      "published": "2026-08-12T04:03:00+00:00"
+    },
+    {
+      "headline": "Colombia’s New Government Stretched by Devastating Quake",
+      "summary": "A recent tremor killed at least 181 people, injured thousands, and left thousands missing, according to official and civilian counts. Rescue teams are overwhelmed as the fledgling administration struggles to coordinate relief.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+      "source": "NPR News",
+      "published": "2026-08-12T01:13:06-04:00"
+    },
+    {
+      "headline": "llama.cpp Brings Fast LLM Inference to the Desktop",
+      "summary": "The open‑source project enables running large language models locally with minimal hardware. Its ease of use and speed have sparked a surge of community contributions and discussions.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://llama.app",
       "source": "Hacker News",
-      "published": "2026-08-10T17:05:00.000Z"
+      "published": "2026-08-12T04:51:59+00:00"
+    },
+    {
+      "headline": "Sharp Text Declares Netflix’s Growth Plateau",
+      "summary": "Analyst Andrew Sharp argues that Netflix’s subscriber surge may have peaked, citing slowing content ROI and rising competition. He cautions investors while noting the platform still commands massive viewership.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://sharptext.net/2026/is-netflix-washed-now/",
+      "source": "Daring Fireball",
+      "published": "2026-07-17T12:00:00+00:00"
+    },
+    {
+      "headline": "At Least 15 Dead After Boat Capsizes on Zimbabwe’s Lake Kariba",
+      "summary": "Strong waves caused a vessel to overturn, leading to multiple fatalities. Rescue efforts continue amid concerns over safety on the popular lake.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T06:21:42.481Z"
+    },
+    {
+      "headline": "Model Predicts Upset Winners for 2026 FedEx St. Jude Championship",
+      "summary": "SportsLine’s simulation ran 10,000 iterations, producing surprising odds and picks for the first FedEx Cup playoff event. The data challenges conventional wisdom and highlights potential dark‑horse contenders.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/2026-fedex-st-jude-championship-odds-picks-predictions-field-contenders-favorites/",
+      "source": "CBS Sports",
+      "published": "2026-08-12T00:05:11+00:00"
     },
     {
       "headline": "Can J.J. McCarthy and Anthony Richardson be Saved in the NFL?",
@@ -424,24 +442,6 @@
       "url": "https://www.cbssports.com/nfl/news/can-qbs-j-j-mccarthy-and-anthony-richardson-be-saved/",
       "source": "CBS Sports",
       "published": "2026-08-11T23:21:07+00:00"
-    },
-    {
-      "headline": "Fischer Predicts Few NBA Stars Will Extend Contracts This Summer",
-      "summary": "Analyst Fischer notes that Michael Porter Jr. and the Brooklyn Nets are unlikely to reach a new deal, and similar extensions appear doubtful for Tyler Hero and Anthony Davis. The outlook suggests a wave of free‑agency moves rather than long‑term commitments.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vltyvm/fischer_michael_porter_jr_and_the_brooklyn_nets/",
-      "source": "r/NBA",
-      "published": "2026-08-11T21:03:30+00:00"
-    },
-    {
-      "headline": "The Mild Temper's Experimental Music Compiled in New Box Set",
-      "summary": "A six-CD box set has been released, compiling several years of experimental music from Chicago artist The Mild Temper, with newly mastered tracks by Jim O'Rourke. This comprehensive collection showcases The Mild Temper's innovative and eclectic sound, providing a unique listening experience for fans of experimental music.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/",
-      "source": "Pitchfork",
-      "published": "2026-08-12T04:00:00+00:00"
     },
     {
       "headline": "A La Carte (August 12): A Mixed Bag of Faith, Culture, and Controversy",
