@@ -19,13 +19,9 @@ stories you want per run.
 
 RSS_FEEDS = [
     # --- NBA / basketball (heavy — your main lane) ---
-    # ESPN NBA replaced 2026-08-12: ESPN's RSS now returns HTTP 202 with zero
-    # entries on every request (bot-blocked), verified dead across many runs.
-    ("CBS Sports NBA", "https://www.cbssports.com/rss/headlines/nba/"),
-    ("Yahoo Sports NBA", "https://sports.yahoo.com/nba/rss.xml"),
-    # Analytical/front-office-strategy lane — added 2026-08-12 after ClutchPoints
-    # and BasketballNews (both dropped) turned out to be tabloid/clickbait on
-    # inspection, which the interest profile explicitly scores low.
+    # ESPN NBA, CBS Sports NBA, Yahoo Sports NBA, ClutchPoints, and BasketballNews
+    # all dropped 2026-08-12 — wire/tabloid reporting the profile scores low, or
+    # (ESPN) dead. Kept a pure analytical/front-office-strategy lane instead.
     ("Third Apron", "https://www.thirdapron.com/feed"),          # salary cap / CBA mechanics
     ("Neil Paine", "https://neilpaine.substack.com/feed"),        # stats-driven analysis
     ("The Finder", "https://www.tomthefinder.com/feed"),          # team-strength / title-race analysis
