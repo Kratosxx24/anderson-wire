@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:41:31.698565+00:00",
+  "generated_at": "2026-08-12T03:46:38.581808+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -18,7 +18,7 @@
       "relevance": 10,
       "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T09:39:58.754Z"
+      "published": "2026-08-11T16:19:44+00:00"
     },
     {
       "headline": "Trump Secretly Escapes Air Force One in Catering Truck",
@@ -39,6 +39,24 @@
       "published": "2026-08-11T04:04:09+00:00"
     },
     {
+      "headline": "Vikings Name Kyler Murray Starting Quarterback",
+      "summary": "The Minnesota Vikings have chosen Kyler Murray as their starting quarterback, ending a highly anticipated battle with J.J. McCarthy. The decision comes before the start of the preseason.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/nfl/news/vikings-name-kyler-murray-starting-qb-over-j-j-mccarthy/",
+      "source": "CBS Sports",
+      "published": "2026-08-11T19:53:28+00:00"
+    },
+    {
+      "headline": "Nvidia Expands AI Risk with New Funding Options",
+      "summary": "Nvidia is introducing new ways for customers to raise capital, increasing the risk associated with the AI buildout. This move could have significant implications for the industry.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "source": "Stratechery",
+      "published": "2026-08-11T10:00:00+00:00"
+    },
+    {
       "headline": "The Economist Offers a Cheat Sheet for Detecting AI‑Generated Text",
       "summary": "The piece outlines practical markers that differentiate machine‑written prose from human style, urging readers to use familiar baselines for comparison. It serves as a quick guide for journalists and editors wary of synthetic content.",
       "category": "Tech/AI",
@@ -48,22 +66,13 @@
       "published": "2026-08-11T21:37:06+00:00"
     },
     {
-      "headline": "Zuckerberg's AI Essay Falls Flat Despite Lengthy Expansion",
-      "summary": "Mark Zuckerberg has published a 6,500-word essay on AI, but critics argue it fails to add significant new insights beyond his previous 1,000-word piece. The lengthy expansion has raised eyebrows, with some questioning the value of the additional content.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.meta.com/thefutureisforeveryone/",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:36:36+00:00"
-    },
-    {
-      "headline": "US Helicopter Fires Missiles to Disable Iranian Blockade-Breaking Vessel",
-      "summary": "A US helicopter has targeted a Panama-flagged cargo ship in the Gulf of Oman, disabling it to prevent it from breaking an Iranian blockade. The incident highlights the escalating tensions in the region.",
+      "headline": "Colombia Earthquake Death Toll Rises to 180",
+      "summary": "A devastating earthquake in Colombia has left 180 people dead, with many more trapped in rubble and buildings. Rescue efforts continue amidst aftershocks.",
       "category": "World",
       "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-11T21:14:56+00:00"
+      "published": "2026-08-11T19:09:52+00:00"
     },
     {
       "headline": "Horseshoe Crabs Hold Secret to Saving Lives",
@@ -73,6 +82,15 @@
       "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
       "source": "Hacker News",
       "published": "2026-08-12T01:45:51+00:00"
+    },
+    {
+      "headline": "Zuckerberg's AI Essay Falls Flat Despite Lengthy Expansion",
+      "summary": "Mark Zuckerberg has published a 6,500-word essay on AI, but critics argue it fails to add significant new insights beyond his previous 1,000-word piece. The lengthy expansion has raised eyebrows, with some questioning the value of the additional content.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.meta.com/thefutureisforeveryone/",
+      "source": "Daring Fireball",
+      "published": "2026-08-11T19:36:36+00:00"
     },
     {
       "headline": "Anthropic's AI Transparency: A Promise Unfulfilled",
@@ -91,6 +109,15 @@
       "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text/#atom-everything",
       "source": "Simon Willison",
       "published": "2026-08-11T23:48:35+00:00"
+    },
+    {
+      "headline": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "summary": "Researchers have discovered a vulnerability in proprietary Large Language Model APIs, allowing them to steal reasoning traces. This could have significant implications for AI security.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "source": "Simon Willison",
+      "published": "2026-08-11T22:40:45+00:00"
     },
     {
       "headline": "The Human Is the Loop",
@@ -120,6 +147,15 @@
       "published": "2026-08-11T21:54:25+00:00"
     },
     {
+      "headline": "Emergent Introspective Awareness in Large Language Models",
+      "summary": "Researchers have made a breakthrough in understanding how Large Language Models develop introspective awareness, a key aspect of human intelligence. This discovery could lead to significant advancements in AI.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://arxiv.org/abs/2601.01828",
+      "source": "Hacker News",
+      "published": "2026-08-11T21:14:10+00:00"
+    },
+    {
       "headline": "Ngrok Blog Claims ‘Compression Is Prediction’",
       "summary": "The article explains how modern data compression techniques rely on predictive models to anticipate upcoming bits, blurring the line between compression and AI inference. It argues that understanding this relationship can improve both storage efficiency and model design.",
       "category": "Tech/AI",
@@ -138,6 +174,24 @@
       "published": "2026-08-11T19:35:52+00:00"
     },
     {
+      "headline": "Creating Holograms with a Pen Plotter",
+      "summary": "A creative hack has allowed users to create holograms using a pen plotter, a low-cost and accessible device. This innovation has sparked interest in the DIY holography community.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "source": "Hacker News",
+      "published": "2026-08-11T18:51:35+00:00"
+    },
+    {
+      "headline": "Introducing Grok Bot: A Conversational AI Assistant",
+      "summary": "Grok Bot is a new conversational AI assistant that uses natural language processing to understand and respond to user queries. The bot has gained significant attention in the tech community.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://x.ai/bot",
+      "source": "Hacker News",
+      "published": "2026-08-11T17:23:09+00:00"
+    },
+    {
       "headline": "CSS properties you should know for better text designs",
       "summary": "",
       "category": "Tech/AI",
@@ -147,15 +201,6 @@
       "published": "2026-08-11T17:16:06+00:00"
     },
     {
-      "headline": "RSI Simulator",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "source": "Hacker News",
-      "published": "2026-08-11T17:01:21+00:00"
-    },
-    {
       "headline": "Google Advocates Go as the Perfect Language for AI‑Assisted Development",
       "summary": "Google’s blog outlines Go’s simplicity, strong typing, and concurrency model as assets for integrating large language models into coding workflows. The post suggests Go can streamline AI‑driven tooling while maintaining code reliability.",
       "category": "Tech/AI",
@@ -163,6 +208,15 @@
       "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
       "source": "Hacker News",
       "published": "2026-08-11T16:57:09+00:00"
+    },
+    {
+      "headline": "Modular Releases Mojo 1.0, a Major Update to Its Music Creation Platform",
+      "summary": "Mojo 1.0 introduces a range of new features and improvements to Modular's music creation platform, designed to enhance the creative process for musicians and producers. The update promises to bring a more intuitive and powerful experience to users.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "source": "Hacker News",
+      "published": "2026-08-11T16:56:46+00:00"
     },
     {
       "headline": "Git‑Knife Lets You Edit Commits Like a Spreadsheet",
@@ -183,6 +237,42 @@
       "published": "2026-08-11T13:20:44+00:00"
     },
     {
+      "headline": "Trump's Plane Swap Hints at Personal Stakes in Iran War",
+      "summary": "President Trump's dramatic escape from Air Force One has raised questions about the personal stakes of the US-Iran conflict. The incident marks another tense episode in the two nations' history.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T00:14:42+00:00"
+    },
+    {
+      "headline": "US Helicopter Fires Missiles to Disable Iranian Blockade-Breaking Vessel",
+      "summary": "A US helicopter has targeted a Panama-flagged cargo ship in the Gulf of Oman, disabling it to prevent it from breaking an Iranian blockade. The incident highlights the escalating tensions in the region.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T21:14:56+00:00"
+    },
+    {
+      "headline": "Lebanon Abolishes Death Penalty in Historic Vote",
+      "summary": "Lebanon's parliament has voted to abolish the death penalty, a move that would make it the first country in the Middle East to end capital punishment. The new law still requires cabinet approval before it can come into effect.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T15:24:07+00:00"
+    },
+    {
+      "headline": "Hungary's New Government Seeks to Undo Viktor Orbán's Legacy",
+      "summary": "The new Hungarian government has wasted no time in dismantling the legacy of Viktor Orbán, who was removed as judge earlier this year. The move is seen as a significant shift in the country's politics.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T18:34:39+00:00"
+    },
+    {
       "headline": "Assad Sentenced to Death for War Crimes and Crimes Against Humanity",
       "summary": "A Syrian court has sentenced former President Bashar al-Assad to death in absentia for his role in the country's civil war, which left hundreds of thousands dead. The ruling is a rare example of accountability for those responsible for the atrocities.",
       "category": "World",
@@ -190,6 +280,15 @@
       "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-11T14:50:10+00:00"
+    },
+    {
+      "headline": "Former US Marine Released from Russian Custody in Poor Health",
+      "summary": "Robert Gilman, a former US Marine, has been released from Russian custody after being held in poor health for several years. His family has accused Russian authorities of subjecting him to harsh and abusive treatment.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-11T23:33:45+00:00"
     },
     {
       "headline": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
@@ -228,139 +327,58 @@
       "published": "2026-08-11T21:11:09+00:00"
     },
     {
-      "headline": "Assad Sentenced to Death for War Crimes and Crimes Against Humanity",
-      "summary": "A Syrian court has sentenced former President Bashar al-Assad and his brother to death in absentia for their roles in the country's 14-year conflict, which left hundreds of thousands dead. The ruling is a rare example of accountability for those responsible for the atrocities.",
-      "category": "World",
+      "headline": "NFL Coach's Secret Challenge Flag Tactic Exposed",
+      "summary": "The NFL has changed its rules to allow head coaches to designate someone to throw the challenge flag, but one coach has been doing it for years. Zac Taylor's confession highlights the evolving nature of the game.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
-      "source": "NPR News",
-      "published": "2026-08-11T10:07:14+00:00"
+      "url": "https://www.cbssports.com/nfl/news/nfl-challenge-rule-change-zac-taylor-bengals/",
+      "source": "CBS Sports",
+      "published": "2026-08-11T19:28:13+00:00"
     },
     {
-      "headline": "Vikings Name Kyler Murray Starting Quarterback",
-      "summary": "The Minnesota Vikings have chosen Kyler Murray as their starting quarterback, ending a highly anticipated battle with J.J. McCarthy. The decision comes before the start of the preseason.",
+      "headline": "The Hidden Cost of Football Transfers",
+      "summary": "Player transfer fees are often kept secret, but the reasons behind this secrecy are complex and multifaceted. Teams may choose to keep fees hidden to avoid revealing their financial priorities.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cy0j1284e47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-11T14:54:32.761Z"
+    },
+    {
+      "headline": "Yankees vs. Mariners: Model Picks a Winner",
+      "summary": "A sports model has simulated the Yankees vs. Mariners matchup 10,000 times, revealing a surprising pick for Tuesday's game. The model's prediction could be a valuable tool for bettors and fans.",
       "category": "Sports",
       "relevance": 9,
-      "url": "https://www.cbssports.com/nfl/news/vikings-name-kyler-murray-starting-qb-over-j-j-mccarthy/",
+      "url": "https://www.cbssports.com/betting/news/yankees-mariners-prediction-odds-line-time-2026-mlb-picks-for-tuesday-august-11-best-bets/",
       "source": "CBS Sports",
-      "published": "2026-08-11T19:53:28+00:00"
+      "published": "2026-08-11T20:00:53+00:00"
     },
     {
-      "headline": "Nvidia Expands AI Risk with New Funding Options",
-      "summary": "Nvidia is introducing new ways for customers to raise capital, increasing the risk associated with the AI buildout. This move could have significant implications for the industry.",
-      "category": "Tech/AI",
+      "headline": "Fantasy Football: A Guide to Drafting Running Backs",
+      "summary": "Tier-based rankings can help fantasy football players avoid missing out on position runs in their drafts. By following a round-by-round plan, players can make informed decisions and build a strong team.",
+      "category": "Sports",
       "relevance": 9,
-      "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "source": "Stratechery",
-      "published": "2026-08-11T10:00:00+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/running-back-rankings-tiers-fantasy-football-jamey-eisenberg/",
+      "source": "CBS Sports",
+      "published": "2026-08-11T18:20:13+00:00"
     },
     {
-      "headline": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "summary": "Researchers have discovered a vulnerability in proprietary Large Language Model APIs, allowing them to steal reasoning traces. This could have significant implications for AI security.",
-      "category": "Tech/AI",
+      "headline": "Halcyon Blues: A Moody New Album",
+      "summary": "The Midwest rock group has released its sixth album, which balances post-hardcore propulsion with disarming buoyancy. The new music explores themes of regret and reckoning.",
+      "category": "Music",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
-      "source": "Simon Willison",
-      "published": "2026-08-11T22:40:45+00:00"
+      "url": "https://pitchfork.com/reviews/albums/citizen-halcyon-blues/",
+      "source": "Pitchfork",
+      "published": "2026-08-11T04:00:00+00:00"
     },
     {
-      "headline": "Colombia Earthquake Death Toll Rises to 180",
-      "summary": "A devastating earthquake in Colombia has left 180 people dead, with many more trapped in rubble and buildings. Rescue efforts continue amidst aftershocks.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T19:09:52.999Z"
-    },
-    {
-      "headline": "Emergent Introspective Awareness in Large Language Models",
-      "summary": "Researchers have made a breakthrough in understanding how Large Language Models develop introspective awareness, a key aspect of human intelligence. This discovery could lead to significant advancements in AI.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://arxiv.org/abs/2601.01828",
-      "source": "Hacker News",
-      "published": "2026-08-11T21:14:10+00:00"
-    },
-    {
-      "headline": "Trump's Plane Swap Hints at Personal Stakes in Iran War",
-      "summary": "President Trump's dramatic escape from Air Force One has raised questions about the personal stakes of the US-Iran conflict. The incident marks another tense episode in the two nations' history.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-12T00:14:42.808Z"
-    },
-    {
-      "headline": "Creating Holograms with a Pen Plotter",
-      "summary": "A creative hack has allowed users to create holograms using a pen plotter, a low-cost and accessible device. This innovation has sparked interest in the DIY holography community.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "source": "Hacker News",
-      "published": "2026-08-11T18:51:35+00:00"
-    },
-    {
-      "headline": "Introducing Grok Bot: A Conversational AI Assistant",
-      "summary": "Grok Bot is a new conversational AI assistant that uses natural language processing to understand and respond to user queries. The bot has gained significant attention in the tech community.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://x.ai/bot",
-      "source": "Hacker News",
-      "published": "2026-08-11T17:23:09+00:00"
-    },
-    {
-      "headline": "Modular Releases Mojo 1.0, a Major Update to Its Music Creation Platform",
-      "summary": "Mojo 1.0 introduces a range of new features and improvements to Modular's music creation platform, designed to enhance the creative process for musicians and producers. The update promises to bring a more intuitive and powerful experience to users.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "source": "Hacker News",
-      "published": "2026-08-11T16:48:02.447Z"
-    },
-    {
-      "headline": "Lebanon Abolishes Death Penalty in Historic Vote",
-      "summary": "Lebanon's parliament has voted to abolish the death penalty, a move that would make it the first country in the Middle East to end capital punishment. The new law still requires cabinet approval before it can come into effect.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T15:24:07.157Z"
-    },
-    {
-      "headline": "National Guard Marks One Year in D.C., Colombia Hit by Devastating Earthquake",
-      "summary": "The National Guard has completed its first year of deployment in Washington D.C., with a mixed record of success. Meanwhile, a 7.4 magnitude earthquake has struck Colombia, leaving over 100 people dead.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/11/g-s1-138174/up-first-newsletter-national-guard-primaries-wisconsin-colombia-earthquake-childhood-vaccines",
-      "source": "NPR News",
-      "published": "2026-08-11T07:11:14-04:00"
-    },
-    {
-      "headline": "Planet Money's New Board Game Reveals Hidden Economic Concepts",
-      "summary": "The new board game from Planet Money, a popular podcast, is more than just a game - it's a crash course in economics. From Nobel Prize-winning research to inside jokes, the game is packed with clever references to economic theory.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.npr.org/sections/planet-money/2026/08/11/g-s1-138059/the-secret-economics-inside-the-new-planet-money-board-game",
-      "source": "NPR News",
-      "published": "2026-08-11T06:30:00-04:00"
-    },
-    {
-      "headline": "Hungary's New Government Seeks to Undo Viktor Orbán's Legacy",
-      "summary": "The new Hungarian government has wasted no time in dismantling the legacy of Viktor Orbán, who was removed as judge earlier this year. The move is seen as a significant shift in the country's politics.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/clyed7rem5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T18:34:39.153Z"
-    },
-    {
-      "headline": "Former US Marine Released from Russian Custody in Poor Health",
-      "summary": "Robert Gilman, a former US Marine, has been released from Russian custody after being held in poor health for several years. His family has accused Russian authorities of subjecting him to harsh and abusive treatment.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-11T15:35:01.517Z"
+      "headline": "NBA Analysis and Reporting for August 11, 2026",
+      "summary": "Today's NBA news and analysis covers the latest developments in the league, with expert insights and commentary on the biggest stories. From player performances to team strategies, we've got you covered.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81126",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-11T17:03:44+00:00"
     },
     {
       "headline": "Finding Faith in Suffering: Marshall's Prayer Guide",
@@ -372,24 +390,6 @@
       "published": "2026-08-11T04:02:00+00:00"
     },
     {
-      "headline": "Surprising Predictions for the 2026 FedEx St. Jude Championship",
-      "summary": "SportsLine's model has simulated the FedEx St. Jude Championship 10,000 times, revealing surprising picks for the first event in the 2026 FedEx Cup Playoffs. The model's predictions offer a glimpse into the tournament's potential outcomes.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/2026-fedex-st-jude-championship-odds-picks-predictions-field-contenders-favorites/",
-      "source": "CBS Sports",
-      "published": "2026-08-12T00:05:11+00:00"
-    },
-    {
-      "headline": "Liverpool's Future Uncertain Amid Investment Deal with Bezos and FSG",
-      "summary": "The investment deal between Liverpool's owners and a group including Jeff Bezos has left fans wondering about the team's spending power and direction. The partnership may sit uneasily with supporters, who value the club's identity.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvgx311g1zko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-08-11T16:00:35+00:00"
-    },
-    {
       "headline": "Tucker Pillsbury's Time-Traveling Act: A Country Record",
       "summary": "Songwriter Tucker Pillsbury reinvents himself as a time-traveling session musician, releasing a country record that, while charming, falls short of convincing.",
       "category": "Music",
@@ -399,22 +399,22 @@
       "published": "2026-08-11T04:03:00+00:00"
     },
     {
-      "headline": "As We Once Were",
-      "summary": "",
-      "category": "Music",
+      "headline": "NFL Training Camp Injuries: The Latest Updates",
+      "summary": "As teams prepare for the upcoming season, several key players are dealing with injuries and setbacks. This tracker provides the latest updates on Christian McCaffrey, Alec Pierce, and others.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/the-anchoress-as-we-once-were/",
-      "source": "Pitchfork",
-      "published": "2026-08-11T04:01:00+00:00"
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
+      "source": "CBS Sports",
+      "published": "2026-08-11T20:13:01+00:00"
     },
     {
-      "headline": "NBA Analysis and Reporting for August 11, 2026",
-      "summary": "Today's NBA news and analysis covers the latest developments in the league, with expert insights and commentary on the biggest stories. From player performances to team strategies, we've got you covered.",
-      "category": "NBA",
+      "headline": "Vikings Name Kyler Murray Starter: A Calculated Move",
+      "summary": "Head coach Kevin O'Connell has named Kyler Murray the Week 1 starting QB over J.J. McCarthy, citing the right decision for the team. However, Minnesota may need a new QB in 2027.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81126",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-11T17:03:44+00:00"
+      "url": "https://www.cbssports.com/nfl/news/vikings-name-kyler-murray-starting-qb-right-move-or-wrong-move/",
+      "source": "CBS Sports",
+      "published": "2026-08-11T18:28:36+00:00"
     },
     {
       "headline": "Can J.J. McCarthy and Anthony Richardson be Saved in the NFL?",
