@@ -180,7 +180,7 @@ def llm_complete(messages: list[dict], temperature: float = 0.2,
         except Exception as e:
             reason = "rate-limited" if _is_rate_limit(e) else "error"
             # keep the message short so logs stay readable
-            short = str(e).split("\n")[0][:120]
+            short = str(e).split("\n")[0][:500]
             print(f"  ! {name} {reason} ({short}); trying next provider...")
             last_err = e
             continue
