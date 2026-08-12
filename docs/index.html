@@ -55,6 +55,8 @@
   .theme-toggle:hover { border-color:var(--border-hov); color:var(--text); }
   .theme-toggle:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
   .theme-toggle:disabled { opacity:.55; cursor:default; }
+  .run-progress { height:3px; background:var(--border); border-radius:3px; overflow:hidden; margin-top:10px; }
+  .run-progress-fill { height:100%; width:0%; background:var(--accent); transition:width .5s ease; }
 
   h1.title { font-family:"Fraunces","Space Grotesk",Georgia,serif; font-weight:600;
     font-optical-sizing:auto; font-size:clamp(34px,5.4vw,50px); line-height:1.02;
@@ -265,6 +267,7 @@
           </button>
         </div>
       </div>
+      <div class="run-progress" id="runProgress" hidden><div class="run-progress-fill" id="runProgressFill"></div></div>
       <h1 class="title"><span class="the">The</span> Anderson <span class="glow">Wire</span></h1>
       <div class="dash" id="dash">A private dispatch · filtered from the noise</div>
     </header>
@@ -342,11 +345,35 @@
   function resetRunBtn(delay){ setTimeout(()=>{ runLabel.textContent="Run now"; runBtn.disabled=false; },delay); }
   function sleep(ms){ return new Promise(r=>setTimeout(r,ms)); }
   const ORIG_TITLE=document.title;
+  const runProgress=document.getElementById("runProgress");
+  const runProgressFill=document.getElementById("runProgressFill");
+  function showProgress(){ runProgress.hidden=false; runProgressFill.style.width="4%"; }
+  function setProgress(pct){ runProgressFill.style.width=Math.max(4,Math.min(100,pct))+"%"; }
+  function hideProgress(delay){ setTimeout(()=>{ runProgress.hidden=true; runProgressFill.style.width="0%"; },delay); }
+
+  // Real step-by-step progress from the run's job (not a time-based fake bar):
+  // each GitHub Actions step (checkout, install deps, generate digest, commit...)
+  // reported as complete moves the bar. Returns 0-100, or null if unavailable.
+  async function fetchStepProgress(token, runId){
+    try{
+      const res=await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/actions/runs/${runId}/jobs`,
+        { headers:{ "Authorization":`Bearer ${token}`, "Accept":"application/vnd.github+json" } });
+      if(!res.ok) return null;
+      const data=await res.json();
+      const job=(data.jobs||[])[0];
+      const steps=job&&job.steps;
+      if(!steps||!steps.length) return null;
+      const done=steps.filter(s=>s.status==="completed").length;
+      return Math.round((done/steps.length)*100);
+    }catch(e){ return null; }
+  }
 
   // Poll the run's live status (same token, Actions:read covers this) so the
-  // button and tab title show real progress instead of a blind 60s guess.
+  // button, progress bar, and tab title show real progress instead of a
+  // blind 60s guess.
   async function pollRun(token, sinceMs){
     const started=Date.now();
+    showProgress();
     let runId=null;
     for(let tries=0; tries<10 && !runId; tries++){
       await sleep(2000);
@@ -360,7 +387,7 @@
       }catch(e){}
     }
     if(!runId){
-      runLabel.textContent="Queued…"; document.title=ORIG_TITLE; resetRunBtn(15000); return;
+      runLabel.textContent="Queued…"; document.title=ORIG_TITLE; hideProgress(0); resetRunBtn(15000); return;
     }
     while(true){
       const elapsed=Math.round((Date.now()-started)/1000);
@@ -374,21 +401,26 @@
       if(run.status==="completed"){
         document.title=ORIG_TITLE;
         if(run.conclusion==="success"){
+          setProgress(100);
           runLabel.textContent="Done ✓ reloading…";
           await load();
           runLabel.textContent="Done ✓";
         } else {
           runLabel.textContent="Run failed";
         }
+        hideProgress(1200);
         resetRunBtn(4000);
         return;
       }
       const phase = run.status==="queued" ? "Queued" : "Running";
       runLabel.textContent=`${phase}… ${elapsed}s`;
       document.title=`(${elapsed}s) ⟳ Refreshing`;
+      const pct = run.status==="in_progress" ? await fetchStepProgress(token, runId) : null;
+      if(pct!==null) setProgress(pct);
       await sleep(5000);
     }
     document.title=ORIG_TITLE;
+    hideProgress(0);
     resetRunBtn(3000);
   }
 
