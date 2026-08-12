@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:18:57.575868+00:00",
+  "generated_at": "2026-08-12T18:11:25.781935+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,15 +57,6 @@
       "published": "2026-08-11T22:40:45+00:00"
     },
     {
-      "headline": "AI Threatens the Middle Class in Software Engineering",
-      "summary": "A recent article argues that AI is displacing the middle class of software engineering, with automation and machine learning tools increasingly capable of performing tasks that were once the exclusive domain of human developers. The implications for the industry and its workers are far-reaching and profound.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "source": "Hacker News",
-      "published": "2026-08-12T13:20:05+00:00"
-    },
-    {
       "headline": "Adam’s Update Rule Breaks Rotational Invariance in Factorized Models",
       "summary": "In factorized models W=UV^T the loss stays unchanged under rotations of the factor matrices, and plain gradient descent respects this symmetry. Adam’s per‑coordinate adaptive moments depend on the chosen basis, causing it to violate the invariance and potentially affect convergence.",
       "category": "Tech/AI",
@@ -84,13 +75,40 @@
       "published": "2026-08-11T21:06:36+00:00"
     },
     {
-      "headline": "Lakers Sold for Record-Breaking $12.5 Billion",
-      "summary": "Josh Kushner and Bob Iger have acquired the Los Angeles Lakers from Mark Walter, marking a significant change in ownership for the NBA franchise.",
+      "headline": "Lakers Owner Mark Walter Sells Team for $12.5B Amid Federal Probe",
+      "summary": "Mark Walter's brief tenure as Lakers owner ended with a record $12.5B sale to Josh Kushner and Bob Iger, coming just a month after reports of a federal probe into $16B in undisclosed loans tied to his empire. The swift sale has raised eyebrows over the convenient timing of the deal.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vmivyr/kevin_oconnor_mark_walters_timeline_as_lakers/",
+      "source": "r/NBA",
+      "published": "2026-08-12T16:24:11+00:00"
+    },
+    {
+      "headline": "Debunking Bill Russell Myths: Celtics' Success Attributed to Defense, Not Offense",
+      "summary": "The Boston Celtics' dominance during Bill Russell's era is often misunderstood, with the team's success attributed to their stifling defense rather than a powerhouse offense. Russell's impact on the team's defense was immediate and profound, transforming a previously struggling unit into the most dominant in the league.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vmankk/oc_deconstructing_bill_russell_myths_the_celtics/",
+      "source": "r/NBA",
+      "published": "2026-08-12T10:46:27+00:00"
+    },
+    {
+      "headline": "Lakers Sale to Josh Kushner and Bob Iger Comes Together Quickly",
+      "summary": "The Los Angeles Lakers' sale to Josh Kushner and Bob Iger was a rapid development, with the deal coming together in a remarkably short period of time. According to reports, the sale was finalized just days after initial contact was made, leaving many to wonder at the speed and convenience of the transaction.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vmhqbm/shelburne_they_called_mark_walter_i_am_told_this/",
+      "source": "r/NBA",
+      "published": "2026-08-12T15:42:39+00:00"
+    },
+    {
+      "headline": "Josh Kushner and Bob Iger Offer Over $12 Billion for Lakers",
+      "summary": "Sources tell ESPN that the Los Angeles Lakers are being put up for sale to a consortium led by venture capitalist Josh Kushner and former Disney CEO Bob Iger, with a bid exceeding $12 billion. The deal would represent a record‑breaking valuation for an NBA franchise.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nba/news/lakers-sold-josh-kushner-bob-iger/",
-      "source": "CBS Sports",
-      "published": "2026-08-12T16:42:58+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1vmf37g/shelburne_the_los_angeles_lakers_are_being_sold/",
+      "source": "r/NBA",
+      "published": "2026-08-12T14:04:59+00:00"
     },
     {
       "headline": "Empty Seats and Heavy Hearts",
@@ -136,6 +154,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-12T16:14:08+00:00"
+    },
+    {
+      "headline": "Mark Walter to Offload Lakers to Iger and Kushner for Over $12 Billion",
+      "summary": "According to an anonymous source, the Lakers owner is negotiating a sale to former Disney chief Bob Iger and entrepreneur Joshua Kushner at a valuation surpassing $12 billion. The prospective owners framed the purchase as a stewardship of one of sport’s most iconic brands.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vmfwif/woike_mark_walter_is_selling_the_los_angeles/",
+      "source": "r/NBA",
+      "published": "2026-08-12T14:35:43+00:00"
     },
     {
       "headline": "Draft Wide Receivers Strategically with Tier-Based Rankings",
@@ -210,15 +237,6 @@
       "published": "2026-08-11T19:36:36+00:00"
     },
     {
-      "headline": "Anthropic's AI Transparency Falls Short",
-      "summary": "Anthropic's support page on AI-generated content transparency raises more questions than answers, failing to provide a clear explanation of its methods. The company's commitment to transparency remains uncertain.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T17:59:22+00:00"
-    },
-    {
       "headline": "AI Writing Assistance Comes with Caveats",
       "summary": "Engineers should exercise caution when using AI writing tools, as there are no lossless transformations of natural-language text. A clear policy on AI writing assistance is essential to maintain transparency and credibility.",
       "category": "Tech/AI",
@@ -237,6 +255,24 @@
       "published": "2026-08-12T14:00:35+00:00"
     },
     {
+      "headline": "SpaceXAI’s Grok 4.6 Hits 61 on AI Analysis Index",
+      "summary": "The latest version of Grok, SpaceXAI’s large language model, achieved a score of 61 on the Artificial Analysis Intelligence Index, indicating strong performance on specialized benchmarks. The result was highlighted on Hacker News, drawing moderate discussion.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "source": "Hacker News",
+      "published": "2026-08-12T16:54:25+00:00"
+    },
+    {
+      "headline": "Real‑Time SPAs Using HTML‑Only WebSockets Cut JavaScript to a Minimum",
+      "summary": "A new technique streams raw HTML over WebSocket connections, allowing single‑page applications to update instantly without heavy client‑side scripting. The method promises simpler front‑ends and lower bandwidth usage, as discussed in a Hacker News post.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "source": "Hacker News",
+      "published": "2026-08-12T16:51:25+00:00"
+    },
+    {
       "headline": "License Plate Reader Searches Should Require a Warrant",
       "summary": "The use of license plate readers by law enforcement raises concerns about privacy and surveillance. Requiring a warrant for these searches could help balance public safety with individual rights.",
       "category": "Tech/AI",
@@ -253,6 +289,24 @@
       "url": "https://therad.ninja/from-8-10-seconds-to-3-7-teaching-automatic1111-to-speak-metal-on-an-m3-pro/",
       "source": "Hacker News",
       "published": "2026-08-12T13:41:12+00:00"
+    },
+    {
+      "headline": "Seeking Real‑World Mortgage Lending Predictive Analytics Use Cases",
+      "summary": "A graduate student asks the ML community for concrete examples of variables that drive mortgage refinancing predictions, such as credit behavior, property value trends, and interest‑rate movements. The query aims to ground academic research in practical lending scenarios.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-12T14:10:08+00:00"
+    },
+    {
+      "headline": "Lakers Deal Tops $12.5 Billion, Setting New NBA Sale Record",
+      "summary": "The Los Angeles Lakers are slated to change hands in a transaction valued at roughly $12.5 billion, the highest price ever recorded for an NBA team. The sale comes less than a year after Mark Walter acquired a majority stake.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T16:11:04+00:00"
     },
     {
       "headline": "US Inflation Eases, Food and Fuel Costs Cool",
@@ -318,74 +372,20 @@
       "published": "2026-08-12T12:36:30+00:00"
     },
     {
-      "headline": "Uranium Mining Revival Sparks Tribal Health Concerns",
-      "summary": "Federal efforts to revive uranium mining in the West are raising concerns about the impact on tribal communities' drinking water. The industry's legacy has left a deadly trail.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
-      "source": "NPR News",
-      "published": "2026-08-12T09:00:00+00:00"
-    },
-    {
-      "headline": "Josh Kushner and Bob Iger Offer Over $12 Billion for Lakers",
-      "summary": "Sources tell ESPN that the Los Angeles Lakers are being put up for sale to a consortium led by venture capitalist Josh Kushner and former Disney CEO Bob Iger, with a bid exceeding $12 billion. The deal would represent a record‑breaking valuation for an NBA franchise.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vmf37g/shelburne_the_los_angeles_lakers_are_being_sold/",
-      "source": "r/NBA",
-      "published": "2026-08-12T14:04:59+00:00"
-    },
-    {
-      "headline": "Lakers Deal Tops $12.5 Billion, Setting New NBA Sale Record",
-      "summary": "The Los Angeles Lakers are slated to change hands in a transaction valued at roughly $12.5 billion, the highest price ever recorded for an NBA team. The sale comes less than a year after Mark Walter acquired a majority stake.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-12T16:11:04.209Z"
-    },
-    {
-      "headline": "Mark Walter to Offload Lakers to Iger and Kushner for Over $12 Billion",
-      "summary": "According to an anonymous source, the Lakers owner is negotiating a sale to former Disney chief Bob Iger and entrepreneur Joshua Kushner at a valuation surpassing $12 billion. The prospective owners framed the purchase as a stewardship of one of sport’s most iconic brands.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vmfwif/woike_mark_walter_is_selling_the_los_angeles/",
-      "source": "r/NBA",
-      "published": "2026-08-12T14:35:43+00:00"
-    },
-    {
-      "headline": "SpaceXAI’s Grok 4.6 Hits 61 on AI Analysis Index",
-      "summary": "The latest version of Grok, SpaceXAI’s large language model, achieved a score of 61 on the Artificial Analysis Intelligence Index, indicating strong performance on specialized benchmarks. The result was highlighted on Hacker News, drawing moderate discussion.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "source": "Hacker News",
-      "published": "2026-08-12"
-    },
-    {
-      "headline": "Real‑Time SPAs Using HTML‑Only WebSockets Cut JavaScript to a Minimum",
-      "summary": "A new technique streams raw HTML over WebSocket connections, allowing single‑page applications to update instantly without heavy client‑side scripting. The method promises simpler front‑ends and lower bandwidth usage, as discussed in a Hacker News post.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "source": "Hacker News",
-      "published": "2026-08-12T16:51:25+00:00"
-    },
-    {
-      "headline": "Seeking Real‑World Mortgage Lending Predictive Analytics Use Cases",
-      "summary": "A graduate student asks the ML community for concrete examples of variables that drive mortgage refinancing predictions, such as credit behavior, property value trends, and interest‑rate movements. The query aims to ground academic research in practical lending scenarios.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-12T14:10:08+00:00"
-    },
-    {
       "headline": "Iran‑Linked Cyberattacks Target U.S. Water Infrastructure",
       "summary": "Recent cyber intrusions into American water treatment facilities have exposed critical vulnerabilities, raising concerns that water systems are becoming a new battlefield in the ongoing Iran conflict. Experts warn that the attacks could foreshadow broader sabotage of essential services.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/08/12/nx-s1-5927437/cyberattack-water-iran-war",
+      "source": "NPR News",
+      "published": "2026-08-12T09:00:00+00:00"
+    },
+    {
+      "headline": "Uranium Mining Revival Sparks Tribal Health Concerns",
+      "summary": "Federal efforts to revive uranium mining in the West are raising concerns about the impact on tribal communities' drinking water. The industry's legacy has left a deadly trail.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5927298/nuclear-power-uranium-health-concerns",
       "source": "NPR News",
       "published": "2026-08-12T09:00:00+00:00"
     },
@@ -426,15 +426,6 @@
       "published": "2026-08-12T04:02:00+00:00"
     },
     {
-      "headline": "A La Carte: A Collection of Thought-Provoking Essays",
-      "summary": "The latest edition of A La Carte features a diverse range of essays on topics from faith and culture to politics and personal growth. The collection offers a thought-provoking read for anyone looking to engage with complex issues.",
-      "category": "Faith",
-      "relevance": 6,
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-august-12-2026/",
-      "source": "Challies",
-      "published": "2026-08-12T04:01:00+00:00"
-    },
-    {
       "headline": "Patriots’ Christian Gonzalez Sends Cryptic Message Amid Contract Stalemate",
       "summary": "New England’s top cornerback has not signed his record‑setting extension and posted a vague note on social media, fueling speculation about his future. He also missed a joint practice with the Colts, adding to the uncertainty surrounding the deal.",
       "category": "NFL",
@@ -442,6 +433,15 @@
       "url": "https://www.cbssports.com/nfl/news/christian-gonzalez-contract-patriots-cryptic-message-extension/",
       "source": "CBS Sports",
       "published": "2026-08-12T16:43:17+00:00"
+    },
+    {
+      "headline": "A La Carte: A Collection of Thought-Provoking Essays",
+      "summary": "The latest edition of A La Carte features a diverse range of essays on topics from faith and culture to politics and personal growth. The collection offers a thought-provoking read for anyone looking to engage with complex issues.",
+      "category": "Faith",
+      "relevance": 6,
+      "url": "https://www.challies.com/a-la-carte/a-la-carte-august-12-2026/",
+      "source": "Challies",
+      "published": "2026-08-12T04:01:00+00:00"
     },
     {
       "headline": "Main Streets Evolve as Consumer Habits Shift",
