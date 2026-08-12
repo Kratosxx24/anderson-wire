@@ -267,11 +267,14 @@ Return only the JSON."""
     return out
 
 
-def triage(articles: list[dict]):
+def triage(articles: list[dict], offset: int = 0):
     """Triage EVERY article (up to the cap) in small batches, so all categories
     get seen and the quotas can be enforced — not just whatever's first in the
     feed order. The pool is interleaved across sources BEFORE the cap so thin,
-    late-listed lanes survive the truncation."""
+    late-listed lanes survive the truncation.
+
+    `offset` shifts every returned index — used when this pool is appended
+    after a block of already-cached articles in the caller's combined pool."""
     pool = _interleave_by_source(articles)[: config.MAX_HEADLINES_TO_AI]
     n = len(pool)
 
@@ -292,6 +295,9 @@ def triage(articles: list[dict]):
             print(f"    ! triage batch {b} failed ({e})")
         if end < n:
             time.sleep(TRIAGE_SLEEP)
+    if offset:
+        for item in out:
+            item["index"] += offset
     return pool, out
 
 
@@ -440,16 +446,45 @@ def write_summaries(pool: list[dict], selected: list[dict]) -> list[dict]:
 # Orchestrator
 # ---------------------------------------------------------------------------
 
-def summarize(articles: list[dict]) -> list[dict]:
+def summarize(articles: list[dict], cache: dict | None = None) -> list[dict]:
+    """`cache` maps URL -> the story dict for that URL from the previous run's
+    output (see main.py). Any fetched article whose URL is already in the
+    cache is treated as already triaged and already written — its stored
+    category/relevance/headline/summary is reused verbatim and it costs zero
+    AI calls. Only genuinely new URLs go through triage + Pass 2. Since the
+    same top stories often survive several consecutive runs unchanged, this
+    is most of the token savings on a typical run."""
+    cache = cache or {}
     if not articles:
         print("No articles to summarize.")
         return []
 
-    n = min(len(articles), config.MAX_HEADLINES_TO_AI)
-    print(f"Triaging {n} headlines in batches of {TRIAGE_BATCH} "
+    cached_articles = [a for a in articles if a.get("url") in cache]
+    new_articles = [a for a in articles if a.get("url") not in cache]
+    n_cached = len(cached_articles)
+    print(f"{n_cached} article(s) match a story from the previous run — "
+          f"reusing (no AI cost); {len(new_articles)} are new.")
+
+    n = min(len(new_articles), config.MAX_HEADLINES_TO_AI)
+    print(f"Triaging {n} new headlines in batches of {TRIAGE_BATCH} "
           f"(chain: Groq-70b → Cerebras-70b → Gemini-Flash → Groq-legacy → Groq-8b)...")
-    pool, triaged = triage(articles)
-    print(f"  - categorized {len(triaged)} headlines")
+    new_pool, ai_triaged = triage(new_articles, offset=n_cached) if new_articles else ([], [])
+    pool = cached_articles + new_pool
+    print(f"  - categorized {len(ai_triaged)} new headlines")
+
+    cached_triaged = []
+    for i, a in enumerate(cached_articles):
+        c = cache[a["url"]]
+        cat = c.get("category", "Other")
+        if cat not in CATEGORIES:
+            cat = "Other"
+        try:
+            rel = max(1, min(10, int(c.get("relevance", 5))))
+        except (TypeError, ValueError):
+            rel = 5
+        cached_triaged.append({"index": i, "category": cat, "relevance": rel})
+
+    triaged = cached_triaged + ai_triaged
 
     # show what was actually available per category (helps debug thin lanes)
     avail = dict(Counter(t["category"] for t in triaged))
@@ -465,7 +500,31 @@ def summarize(articles: list[dict]) -> list[dict]:
         if got < m:
             print(f"  ! {cat}: wanted {m}, only {got} available this run")
 
-    print("Writing summaries...")
-    final = write_summaries(pool, selected)
-    print(f"Final stories: {len(final)}")
+    reused = [s for s in selected if s["index"] < n_cached]
+    need_summary = [s for s in selected if s["index"] >= n_cached]
+
+    final = []
+    for s in reused:
+        a = pool[s["index"]]
+        c = cache[a["url"]]
+        final.append({
+            "headline": c.get("headline") or a.get("title", ""),
+            "summary": c.get("summary", ""),
+            "category": s["category"],
+            "relevance": s["relevance"],
+            "url": a.get("url", ""),
+            "source": a.get("source", ""),
+            "published": a.get("published") or c.get("published"),
+            "_from_cache": True,   # tells enrich_published_dates to skip refetch; stripped before writing output.json
+        })
+
+    if need_summary:
+        print(f"Writing summaries for {len(need_summary)} new stories "
+              f"({len(reused)} reused from cache)...")
+        final.extend(write_summaries(pool, need_summary))
+    else:
+        print(f"All {len(reused)} selected stories reused from cache — no summary calls needed.")
+
+    final.sort(key=lambda s: s["relevance"], reverse=True)
+    print(f"Final stories: {len(final)} ({len(reused)} reused, {len(need_summary)} new)")
     return final

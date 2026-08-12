@@ -242,11 +242,13 @@ def _true_published(url: str) -> str | None:
 def enrich_published_dates(stories: list[dict]) -> list[dict]:
     """Overwrite each story's feed date with its true publication date where we
     can find one. Fetches pages concurrently; falls back silently to the feed
-    date on any failure."""
+    date on any failure. Stories reused from a previous run (`_from_cache`)
+    already carry a resolved date from when they were first written, so they're
+    skipped here — no point refetching the same page every run."""
     print("Resolving true publication dates (parallel)...")
-    targets = [s for s in stories if s.get("url")]
+    targets = [s for s in stories if s.get("url") and not s.get("_from_cache")]
     if not targets:
-        print("  - nothing to resolve")
+        print("  - nothing to resolve (all reused from cache, or no URLs)")
         return stories
 
     fixed = 0
