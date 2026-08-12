@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:11:25.781935+00:00",
+  "generated_at": "2026-08-12T19:31:55.759563+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -39,15 +39,6 @@
       "published": "2026-08-11T21:37:06+00:00"
     },
     {
-      "headline": "The Talk Show: Apple's Summer Update",
-      "summary": "Chance Miller joins the show to discuss the latest developments in iOS 27, including its progress over the summer, as well as other topics like live baseball in Vision Pro and Apple's trade secret lawsuit against OpenAI and io. Get the inside scoop on the world of Apple and tech.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://daringfireball.net/thetalkshow/2026/08/10/ep-454",
-      "source": "Daring Fireball",
-      "published": "2026-08-11T19:00:00+00:00"
-    },
-    {
       "headline": "Hacking LLM APIs: A New Frontier in AI Research",
       "summary": "Researchers have discovered a way to extract and replay reasoning traces from proprietary Large Language Model APIs, raising questions about the security and transparency of these powerful tools. This breakthrough could have significant implications for the development and use of AI in various industries.",
       "category": "Tech/AI",
@@ -57,58 +48,31 @@
       "published": "2026-08-11T22:40:45+00:00"
     },
     {
-      "headline": "Adam’s Update Rule Breaks Rotational Invariance in Factorized Models",
-      "summary": "In factorized models W=UV^T the loss stays unchanged under rotations of the factor matrices, and plain gradient descent respects this symmetry. Adam’s per‑coordinate adaptive moments depend on the chosen basis, causing it to violate the invariance and potentially affect convergence.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-12T16:39:12+00:00"
-    },
-    {
-      "headline": "New ‘Decoupled Descent’ Method Guarantees Train‑Test Error Alignment via AMP Corrections",
-      "summary": "Researchers propose a technique that modifies gradient descent with Onsager corrections from approximate message passing, ensuring the test error tracks the training error exactly. The approach aims to eliminate the common scenario where training loss drops while test performance stalls or worsens.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vlu1se/decoupled_descent_enforcing_exact_traintest_error/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-11T21:06:36+00:00"
-    },
-    {
-      "headline": "Lakers Owner Mark Walter Sells Team for $12.5B Amid Federal Probe",
-      "summary": "Mark Walter's brief tenure as Lakers owner ended with a record $12.5B sale to Josh Kushner and Bob Iger, coming just a month after reports of a federal probe into $16B in undisclosed loans tied to his empire. The swift sale has raised eyebrows over the convenient timing of the deal.",
+      "headline": "NBA Deep Dive: Top Stories & Insights for August 12, 2026",
+      "summary": "The latest edition of Basketball Intelligence breaks down the day’s most compelling NBA news, from trade chatter to emerging talent. Readers get concise analysis that cuts through the hype and highlights what truly matters on the court.",
       "category": "NBA",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vmivyr/kevin_oconnor_mark_walters_timeline_as_lakers/",
-      "source": "r/NBA",
-      "published": "2026-08-12T16:24:11+00:00"
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81226",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-12T17:35:55+00:00"
     },
     {
-      "headline": "Debunking Bill Russell Myths: Celtics' Success Attributed to Defense, Not Offense",
-      "summary": "The Boston Celtics' dominance during Bill Russell's era is often misunderstood, with the team's success attributed to their stifling defense rather than a powerhouse offense. Russell's impact on the team's defense was immediate and profound, transforming a previously struggling unit into the most dominant in the league.",
+      "headline": "Russell Westbrook Retires After 18 Seasons, Leaves Triple‑Double Record",
+      "summary": "The former MVP and nine‑time All‑Star announced his retirement, ending a career that produced the most triple‑doubles in league history. Westbrook departs as a cultural icon whose relentless style reshaped expectations for guard play.",
       "category": "NBA",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vmankk/oc_deconstructing_bill_russell_myths_the_celtics/",
-      "source": "r/NBA",
-      "published": "2026-08-12T10:46:27+00:00"
+      "url": "https://www.cbssports.com/nba/news/russell-westbrook-retirement-nba-hall-of-fame/",
+      "source": "CBS Sports",
+      "published": "2026-08-12T19:29:10+00:00"
     },
     {
-      "headline": "Lakers Sale to Josh Kushner and Bob Iger Comes Together Quickly",
-      "summary": "The Los Angeles Lakers' sale to Josh Kushner and Bob Iger was a rapid development, with the deal coming together in a remarkably short period of time. According to reports, the sale was finalized just days after initial contact was made, leaving many to wonder at the speed and convenience of the transaction.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vmhqbm/shelburne_they_called_mark_walter_i_am_told_this/",
-      "source": "r/NBA",
-      "published": "2026-08-12T15:42:39+00:00"
-    },
-    {
-      "headline": "Josh Kushner and Bob Iger Offer Over $12 Billion for Lakers",
-      "summary": "Sources tell ESPN that the Los Angeles Lakers are being put up for sale to a consortium led by venture capitalist Josh Kushner and former Disney CEO Bob Iger, with a bid exceeding $12 billion. The deal would represent a record‑breaking valuation for an NBA franchise.",
+      "headline": "Lakers Deal Tops $12.5 Billion, Setting New NBA Sale Record",
+      "summary": "The Los Angeles Lakers are slated to change hands in a transaction valued at roughly $12.5 billion, the highest price ever recorded for an NBA team. The sale comes less than a year after Mark Walter acquired a majority stake.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vmf37g/shelburne_the_los_angeles_lakers_are_being_sold/",
-      "source": "r/NBA",
-      "published": "2026-08-12T14:04:59+00:00"
+      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T16:11:04+00:00"
     },
     {
       "headline": "Empty Seats and Heavy Hearts",
@@ -147,6 +111,15 @@
       "published": "2026-08-12T15:24:44+00:00"
     },
     {
+      "headline": "Anthropic's Watermarking Plan Falls Short",
+      "summary": "Anthropic's attempt to address EU AI regulations through watermarking is flawed, both philosophically and practically. The approach may not effectively address concerns about AI-generated content.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "source": "Stratechery",
+      "published": "2026-08-12T10:00:00+00:00"
+    },
+    {
       "headline": "Israeli Settlers Besiege Palestinian Families",
       "summary": "A group of Israeli settlers has been reported to be besieging two Palestinian families in a West Bank village, with Israeli security forces absent from the scene.",
       "category": "World",
@@ -156,15 +129,6 @@
       "published": "2026-08-12T16:14:08+00:00"
     },
     {
-      "headline": "Mark Walter to Offload Lakers to Iger and Kushner for Over $12 Billion",
-      "summary": "According to an anonymous source, the Lakers owner is negotiating a sale to former Disney chief Bob Iger and entrepreneur Joshua Kushner at a valuation surpassing $12 billion. The prospective owners framed the purchase as a stewardship of one of sport’s most iconic brands.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vmfwif/woike_mark_walter_is_selling_the_los_angeles/",
-      "source": "r/NBA",
-      "published": "2026-08-12T14:35:43+00:00"
-    },
-    {
       "headline": "Draft Wide Receivers Strategically with Tier-Based Rankings",
       "summary": "Tier-based rankings help you navigate position runs and make informed draft decisions. By prioritizing the right receivers, you can build a strong foundation for your fantasy football team.",
       "category": "Sports",
@@ -172,42 +136,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/wide-receiver-tiers-fantasy-football-rankings-wr-jamey-eisenberg/",
       "source": "CBS Sports",
       "published": "2026-08-12T14:57:05+00:00"
-    },
-    {
-      "headline": "Fantasy Football Draft Strategies Uncovered",
-      "summary": "A recent mock draft offers a closer look at how different strategies can shape a Fantasy roster, with one surprising fall creating a valuable pick. Get the inside scoop on how to build a winning team and outmaneuver your opponents.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-st-jude-fantasy-football-ppr-mock-draft/",
-      "source": "CBS Sports",
-      "published": "2026-08-12T14:25:01+00:00"
-    },
-    {
-      "headline": "Fantasy Baseball Call-Ups on the Horizon",
-      "summary": "As the season enters its final stretch, a series of high-profile call-ups is likely, with several top prospects set to make their major league debuts. Get the latest news and analysis on the prospects who could make a big impact in the second half of the season.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-prospects-report-15-possible-call-ups/",
-      "source": "CBS Sports",
-      "published": "2026-08-12T13:45:39+00:00"
-    },
-    {
-      "headline": "Orioles vs. Twins Prediction and Picks",
-      "summary": "SportsLine's model has simulated the Orioles vs. Twins matchup 10,000 times, revealing its MLB picks for Wednesday's matchup. Get the inside scoop on who's likely to come out on top and why.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/orioles-twins-prediction-odds-line-time-2026-mlb-picks-wednesday-aug-12/",
-      "source": "CBS Sports",
-      "published": "2026-08-12T13:37:54+00:00"
-    },
-    {
-      "headline": "Anthropic's Watermarking Plan Falls Short",
-      "summary": "Anthropic's attempt to address EU AI regulations through watermarking is flawed, both philosophically and practically. The approach may not effectively address concerns about AI-generated content.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-      "source": "Stratechery",
-      "published": "2026-08-12T10:00:00+00:00"
     },
     {
       "headline": "Safari App Store Scam Uncovered",
@@ -291,24 +219,6 @@
       "published": "2026-08-12T13:41:12+00:00"
     },
     {
-      "headline": "Seeking Real‑World Mortgage Lending Predictive Analytics Use Cases",
-      "summary": "A graduate student asks the ML community for concrete examples of variables that drive mortgage refinancing predictions, such as credit behavior, property value trends, and interest‑rate movements. The query aims to ground academic research in practical lending scenarios.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vmf7xu/looking_for_realworld_examples_of_predictive/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-12T14:10:08+00:00"
-    },
-    {
-      "headline": "Lakers Deal Tops $12.5 Billion, Setting New NBA Sale Record",
-      "summary": "The Los Angeles Lakers are slated to change hands in a transaction valued at roughly $12.5 billion, the highest price ever recorded for an NBA team. The sale comes less than a year after Mark Walter acquired a majority stake.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-12T16:11:04+00:00"
-    },
-    {
       "headline": "US Inflation Eases, Food and Fuel Costs Cool",
       "summary": "US inflation dipped to 3.4% in July, with food costs slowing and housing prices remaining stable. The decline in inflation may signal a shift towards a more stable economic environment.",
       "category": "World",
@@ -390,6 +300,60 @@
       "published": "2026-08-12T09:00:00+00:00"
     },
     {
+      "headline": "Star Departures Reimagined: The Biggest ‘What‑If’ Scenarios",
+      "summary": "In the first part of the Third Apron podcast, hosts dissect high‑profile player exits from the past decade and imagine alternate outcomes had they stayed. The discussion blends statistics and storytelling to reveal how franchise fortunes could have shifted.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.thirdapron.com/p/biggest-what-ifs-for-star-players",
+      "source": "Third Apron",
+      "published": "2026-08-11T23:40:14+00:00"
+    },
+    {
+      "headline": "Tight End Market Stalls; Kraft, LaPorta, Bowers Poised to Revive Deals",
+      "summary": "An agent explains why the recent contract boom bypassed tight ends, leaving the position undervalued despite elite talent. He points to Tucker Kraft, Sam LaPorta and Brock Bowers as potential catalysts to reset market expectations.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-tight-end-contracts-highest-paid-tucker-kraft-sam-laporta-brock-bowers/",
+      "source": "CBS Sports",
+      "published": "2026-08-12T19:25:27+00:00"
+    },
+    {
+      "headline": "Flowers Powers: Fincham & Miles Deliver Retro‑Pop Mixtape",
+      "summary": "The duo Leo Fincham and Rowan Miles unleash a mixtape that channels 1960s pop through a modern, experimental lens. Their idiosyncratic soundscape positions them as fresh voices in the indie‑pop renaissance.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/worldpeace-dmt-flowers-powers/",
+      "source": "Pitchfork",
+      "published": "2026-08-12T04:01:00+00:00"
+    },
+    {
+      "headline": "The Mild Temper Box Set: Jim O’Rourke Masters Chicago Experimentals",
+      "summary": "A six‑CD collection gathers years of the Chicago avant‑garde musician’s Bandcamp‑only releases, now freshly mastered by Jim O’Rourke. The set offers listeners a comprehensive look at his evolving, boundary‑pushing compositions.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/kevin-drumm-the-mild-temper/",
+      "source": "Pitchfork",
+      "published": "2026-08-12T04:00:00+00:00"
+    },
+    {
+      "headline": "U.S. Power Shift? China Gains Edge in Tech Amid Geopolitical Turmoil",
+      "summary": "Evan Osnos argues that Beijing’s strategic moves—benefiting from the Iran conflict and past U.S. tariffs—are eroding America’s tech supremacy. The piece examines how these dynamics could reshape global innovation leadership.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
+      "source": "NPR News",
+      "published": "2026-08-12T18:24:48+00:00"
+    },
+    {
+      "headline": "2026 Fantasy Sleepers Unveiled by AI After Achane’s Breakout",
+      "summary": "SportsLine’s simulation engine ran 10,000 season scenarios and identified undervalued players for 2026 fantasy drafts, spotlighting the surprise that followed De’Von Achane’s stellar year. The list gives managers data‑driven targets to gain an edge in upcoming leagues.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-huge-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-12T18:10:31+00:00"
+    },
+    {
       "headline": "AFC East Preview: Buffalo's Defense Meets New England's Passing Game",
       "summary": "The Buffalo Bills' new defense will face off against the New England Patriots' potent passing game in the AFC East. This matchup promises to be a key battle in the division.",
       "category": "NFL",
@@ -397,15 +361,6 @@
       "url": "https://www.matchquarters.com/p/afc-east-preview-buffalos-new-defense",
       "source": "MatchQuarters",
       "published": "2026-08-12T10:03:52+00:00"
-    },
-    {
-      "headline": "Expert Picks Titans to Win Preseason Opener",
-      "summary": "SportsLine expert Larry Hartstein is backing the Titans to win their preseason opener on Thursday. His analysis highlights the team's strengths and weaknesses.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/2026-nfl-preseason-week-1-nfl-odds-predictions-best-bets-picks-today-back-titans-on-thursday/",
-      "source": "CBS Sports",
-      "published": "2026-08-12T15:24:14+00:00"
     },
     {
       "headline": "DMV Rapper Elevates Storytelling with Raw Emotion",
@@ -426,6 +381,51 @@
       "published": "2026-08-12T04:02:00+00:00"
     },
     {
+      "headline": "Grain Flow Disrupted as Russian and Ukrainian Ports Targeted",
+      "summary": "Attacks on major Black Sea terminals in both Russia and Ukraine have sharply reduced grain shipments from the region. The escalating tit‑for‑tat strikes threaten global food supplies and market stability.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-12T17:20:03.036Z"
+    },
+    {
+      "headline": "Reed Jobs Shares Wordless Neuroscience Narrative",
+      "summary": "In a brief visual piece, Reed Jobs conveys a neuroscience concept without dialogue, relying on imagery to evoke the power of genetics. The minimalist approach invites viewers to feel the science rather than hear it explained.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://x.com/sabrinahalper/status/2086964813788258588?s=46",
+      "source": "Daring Fireball",
+      "published": "2026-08-10T23:56:00.000Z"
+    },
+    {
+      "headline": "Kalshi Boosts Trading Platform Transparency",
+      "summary": "Kalshi has partnered with Nasdaq Market Surveillance to enhance oversight and integrity of its prediction markets. This collaboration aims to establish a more secure and trustworthy platform for traders.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/prediction/news/kalshi-announces-partnership-with-nasdaq-market-surveillance-to-support-oversight-of-prediction-markets/",
+      "source": "CBS Sports",
+      "published": "2026-08-12T18:45:19+00:00"
+    },
+    {
+      "headline": "DeepSeek V4 Pro 0813: Enhanced Router Capabilities",
+      "summary": "The latest update to DeepSeek V4 Pro introduces improved features and performance enhancements for users. This release is expected to provide a more efficient and streamlined experience for network administrators.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "source": "Hacker News",
+      "published": "2026-08-12T16:04:50+00:00"
+    },
+    {
+      "headline": "Grok 4.6: SpaceXAI's Latest AI Advancements",
+      "summary": "SpaceXAI has released Grok 4.6, a significant update to its AI platform. This release likely includes new features and improvements to existing functionality, further expanding the capabilities of the platform.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://openrouter.ai/x-ai/grok-4.6",
+      "source": "Hacker News",
+      "published": "2026-08-12T15:55:09+00:00"
+    },
+    {
       "headline": "Patriots’ Christian Gonzalez Sends Cryptic Message Amid Contract Stalemate",
       "summary": "New England’s top cornerback has not signed his record‑setting extension and posted a vague note on social media, fueling speculation about his future. He also missed a joint practice with the Colts, adding to the uncertainty surrounding the deal.",
       "category": "NFL",
@@ -444,13 +444,13 @@
       "published": "2026-08-12T04:01:00+00:00"
     },
     {
-      "headline": "Main Streets Evolve as Consumer Habits Shift",
-      "summary": "Changing shopping habits are driving a transformation of America's Main Streets, with gyms, salons, and ice cream shops becoming increasingly popular. As a result, traditional storefronts are giving way to new types of businesses.",
+      "headline": "The Secret to Success: It's Not Luck or Hard Work",
+      "summary": "A recent article challenges conventional wisdom on success, suggesting that it's not solely dependent on luck or hard work. Instead, the author argues that a combination of skills, mindset, and strategy is key to achieving success.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.npr.org/2026/08/12/nx-s1-5928083/retail-services-gyms-salons-restaurants-downtown-main-street",
-      "source": "NPR News",
-      "published": "2026-08-12T09:00:00+00:00"
+      "relevance": 2,
+      "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+      "source": "Hacker News",
+      "published": "2026-08-12T14:20"
     }
   ]
 }
