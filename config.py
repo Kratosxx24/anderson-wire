@@ -118,10 +118,17 @@ relevance WELL WITHIN each area:
   churn lower.
 - Music: album reviews and music criticism (Pitchfork), jazz, and film scores.
 - World Cup 2026: results, storylines, tactical breakdowns.
-- World: genuinely important news an informed person should know.
+- World: substantive geopolitics, economics, and policy an informed person
+  should track — elections, wars, central bank moves, major diplomacy, science
+  breakthroughs. Score explanatory/analytical pieces high. Score anything
+  built to shock rather than inform — palace-intrigue, "secretly escaped",
+  security-scare, and other tabloid-style political theater — LOW even if it's
+  about a major figure or from a reputable outlet. The test: would this still
+  matter in a week, or is it just a dramatic headline?
 
 Always score as noise (low relevance): celebrity gossip, clickbait,
-marketing/advertising industry news, prosperity gospel, and opinion ragebait.
+marketing/advertising industry news, prosperity gospel, opinion ragebait, and
+sensationalized "you won't believe" framing regardless of category.
 """
 
 
@@ -143,7 +150,7 @@ CATEGORY_MINIMUMS = {
     "Sports":  3,
     "Tech/AI": 3,
     "Music":   2,
-    "World":   3,
+    "World":   1,
     "Other":   1,
 }
 
