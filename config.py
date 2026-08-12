@@ -22,9 +22,14 @@ RSS_FEEDS = [
     # ESPN NBA replaced 2026-08-12: ESPN's RSS now returns HTTP 202 with zero
     # entries on every request (bot-blocked), verified dead across many runs.
     ("CBS Sports NBA", "https://www.cbssports.com/rss/headlines/nba/"),
-    ("ClutchPoints NBA", "https://www.clutchpoints.com/nba/feed"),
     ("Yahoo Sports NBA", "https://sports.yahoo.com/nba/rss.xml"),
-    ("BasketballNews", "https://www.basketballnews.com/feed"),
+    # Analytical/front-office-strategy lane — added 2026-08-12 after ClutchPoints
+    # and BasketballNews (both dropped) turned out to be tabloid/clickbait on
+    # inspection, which the interest profile explicitly scores low.
+    ("Third Apron", "https://www.thirdapron.com/feed"),          # salary cap / CBA mechanics
+    ("Neil Paine", "https://neilpaine.substack.com/feed"),        # stats-driven analysis
+    ("The Finder", "https://www.tomthefinder.com/feed"),          # team-strength / title-race analysis
+    ("Basketball Intelligence", "https://www.basketballintelligence.net/feed"),  # curated daily digest
     ("r/NBA", "https://www.reddit.com/r/nba/.rss"),
     ("r/NBA Discussion", "https://www.reddit.com/r/nbadiscussion/.rss"),
     ("r/NBA Analytics", "https://www.reddit.com/r/nbaanalysis/.rss"),
