@@ -66,6 +66,21 @@ def _groq_call(model: str, key: str):
     return call
 
 
+def _read_http_error(e) -> str:
+    """urllib.error.HTTPError's str() is just 'HTTP Error 404: Not Found' — the
+    actual reason (bad key, wrong model, disabled API) is in the response body,
+    which is otherwise silently discarded. Surface it so fallback failures are
+    diagnosable from the Action log instead of a dead end."""
+    import urllib.error
+    if isinstance(e, urllib.error.HTTPError):
+        try:
+            detail = e.read().decode("utf-8", "ignore")[:300]
+        except Exception:
+            detail = ""
+        return f"HTTP {e.code}: {detail or e.reason}"
+    return str(e)
+
+
 def _gemini_call(key: str):
     """Call Google Gemini via its REST API (no extra package needed)."""
     import urllib.request
@@ -88,8 +103,11 @@ def _gemini_call(key: str):
                f"gemini-2.5-flash:generateContent?key={key}")
         req = urllib.request.Request(url, data=body,
                                      headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=30) as r:
-            data = json.loads(r.read().decode())
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                data = json.loads(r.read().decode())
+        except Exception as e:
+            raise RuntimeError(_read_http_error(e)) from e
         return data["candidates"][0]["content"]["parts"][0]["text"]
     return call
 
@@ -111,8 +129,11 @@ def _openai_compat_call(base_url: str, key: str, model: str):
             headers={"Content-Type": "application/json",
                      "Authorization": f"Bearer {key}"},
         )
-        with urllib.request.urlopen(req, timeout=30) as r:
-            data = json.loads(r.read().decode())
+        try:
+            with urllib.request.urlopen(req, timeout=30) as r:
+                data = json.loads(r.read().decode())
+        except Exception as e:
+            raise RuntimeError(_read_http_error(e)) from e
         return data["choices"][0]["message"]["content"]
     return call
 
