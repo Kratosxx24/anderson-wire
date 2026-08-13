@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:26:40.088869+00:00",
+  "generated_at": "2026-08-13T22:22:47.978312+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -210,6 +210,15 @@
       "published": "2026-08-13T09:58:40+00:00"
     },
     {
+      "headline": "New Open-Source Tool Diagnoses Failures in AI World Models",
+      "summary": "A developer has released worldproof, an open-source diagnostic utility designed to evaluate AI models that predict future frames from actions and context. The tool benchmarks rollout sequences against ground truth and physical invariants to pinpoint where predictions fail. It also measures the threshold where standard pixel-level metrics become ineffective for ranking model performance.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vnliv7/worldproof_diagnosing_where_worldmodel/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-13T19:58:03+00:00"
+    },
+    {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
       "summary": "In the latest Third Apron episode, salary‑cap analyst Yossi Gozlan and Suns After Dark host Gerald Bourguet break down every Phoenix Suns roster move, weighing contracts against the 2026 cap using capsheets.com data. The podcast, available on all major platforms, also promotes Gozlan’s Substack where listeners can subscribe for detailed cap analysis.",
       "category": "NBA",
@@ -246,15 +255,6 @@
       "published": "2026-08-13T10:01:41+00:00"
     },
     {
-      "headline": "AFC East Showdown: Can Buffalo's Defense Contain New England's Air Attack?",
-      "summary": "The Buffalo Bills' revamped defense will face off against the New England Patriots' potent deep passing game in a battle for AFC East supremacy. The matchup promises to be a thrilling test of strength for both teams.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.matchquarters.com/p/afc-east-preview-buffalos-new-defense",
-      "source": "MatchQuarters",
-      "published": "2026-08-12T10:03:52+00:00"
-    },
-    {
       "headline": "CBS Sports Predicts AFC MVPs, Highlights Preseason Needs and Rookie Watch List",
       "summary": "CBS Sports releases a team‑by‑team MVP forecast for every AFC franchise, identifies eight clubs that must use the preseason to improve, and spotlights rookie prospects expected to make an impact in the 2026 NFL season.",
       "category": "NFL",
@@ -271,6 +271,15 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-model-that-called-mcmillans-huge-season/",
       "source": "CBS Sports",
       "published": "2026-08-13T16:56:18+00:00"
+    },
+    {
+      "headline": "Predictive Model Highlights 2026 Fantasy Football Bust Candidates",
+      "summary": "A CBS Sports projection model that previously forecasted Terry McLaurin's statistical decline has released its bust candidates for the 2026 fantasy football season. The analysis aims to help fantasy managers avoid overvaluing high-risk draft picks.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-per-model-that-called-terry-mclaurins-down-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-13T21:24:02+00:00"
     },
     {
       "headline": "NFL Training Camp Injury Tracker Monitors Key Star Availability",
@@ -298,15 +307,6 @@
       "url": "https://pitchfork.com/reviews/albums/moliy-baddies-3-moliy/",
       "source": "Pitchfork",
       "published": "2026-08-13T04:02:00+00:00"
-    },
-    {
-      "headline": "Anthropic's Watermarking Plan Falls Short",
-      "summary": "Anthropic's attempt to address EU AI regulations through watermarking is flawed, both philosophically and practically. The approach may not effectively address concerns about AI-generated content.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-      "source": "Stratechery",
-      "published": "2026-08-12T10:00:00+00:00"
     },
     {
       "headline": "Durability Testing Validates Apple's Ceramic Shield 2 on iPhone 17",
@@ -354,6 +354,15 @@
       "published": "2026-08-12T15:06:05+00:00"
     },
     {
+      "headline": "How Gödel's Proof Works (2020)",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "source": "Hacker News",
+      "published": "2026-08-13T19:44:46+00:00"
+    },
+    {
       "headline": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "summary": "",
       "category": "Tech/AI",
@@ -390,13 +399,22 @@
       "published": "2026-08-13T04:55:58+00:00"
     },
     {
-      "headline": "Rare Ebola Strain Outbreak Could Become Deadliest on Record, WHO Warns",
-      "summary": "The World Health Organization cautioned that a DR Congo Ebola outbreak caused by the rare Bundibugyo strain threatens to surpass the 11,000 deaths seen during the 2014-2016 crisis. Active conflict in eastern DR Congo limits health workers to reaching just 30% of infected individuals, while no proven vaccine currently exists for this strain.",
+      "headline": "Lawmakers Demand Answers Over Deteriorating Conditions Aboard USS Abraham Lincoln",
+      "summary": "Crew members aboard the USS Abraham Lincoln have endured more than 250 days at sea, facing reported supply shortages, broken plumbing, water contamination, and severe mental health strain. Lawmakers are pressing the Pentagon for immediate oversight following reports of service members contemplating jumping overboard during the repeatedly extended Middle East mission. While Defense Secretary Pete Hegseth downplayed the reports, the Navy is reportedly preparing to relieve the carrier with the USS George Washington.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-13T01:31:21+00:00"
+      "published": "2026-08-13T22:02:54+00:00"
+    },
+    {
+      "headline": "Trade Proposals Explore Sign-and-Trade Options for Pistons' Jalen Duren",
+      "summary": "With contract negotiations pending for Detroit Pistons center Jalen Duren, mock trade scenarios explore potential sign-and-trade options to reshape the roster. Proposed frameworks feature packages landing shooting big men like Milwaukee's Myles Turner or Atlanta's Onyeka Okongwu alongside backcourt depth. The suggested moves focus on opening up floor spacing to better complement Cade Cunningham and Ausar Thompson.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.detroitbadboys.com/detroit-pistons-analysis/50935/three-jalen-duren-sign-and-trade-possibilities",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-12T20:55:53Z"
     },
     {
       "headline": "Brutal NBA Cup Draw to Test Retooled Sixers Roster",
@@ -408,49 +426,31 @@
       "published": "2026-08-12T20:07:02Z"
     },
     {
-      "headline": "Predictive Model Highlights 2026 Fantasy Football Bust Candidates",
-      "summary": "A CBS Sports projection model that previously forecasted Terry McLaurin's statistical decline has released its bust candidates for the 2026 fantasy football season. The analysis aims to help fantasy managers avoid overvaluing high-risk draft picks.",
+      "headline": "CBS Sports Releases 2026 Fantasy Football Forecasts and Sleepers",
+      "summary": "CBS Sports has published its 2026 fantasy football outlook, highlighting projected breakout candidates, sleepers, and potential busts across the league. The rankings are generated by a proprietary analytical model noted for previously predicting Daniel Jones' breakout campaign. The projections aim to guide fantasy managers ahead of the upcoming draft season.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-per-model-that-called-terry-mclaurins-down-year/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-big-year/",
       "source": "CBS Sports",
-      "published": "2026-08-13T21:24:02+00:00"
+      "published": "2026-08-13T21:26:43+00:00"
     },
     {
-      "headline": "Trade Proposals Explore Sign-and-Trade Options for Pistons' Jalen Duren",
-      "summary": "With contract negotiations pending for Detroit Pistons center Jalen Duren, mock trade scenarios explore potential sign-and-trade options to reshape the roster. Proposed frameworks feature packages landing shooting big men like Milwaukee's Myles Turner or Atlanta's Onyeka Okongwu alongside backcourt depth. The suggested moves focus on opening up floor spacing to better complement Cade Cunningham and Ausar Thompson.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.detroitbadboys.com/detroit-pistons-analysis/50935/three-jalen-duren-sign-and-trade-possibilities",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-12T20:55:53+00:00"
-    },
-    {
-      "headline": "How Gödel's Proof Works (2020)",
-      "summary": "",
+      "headline": "City2Graph Library Bridges Geospatial Urban Data and Graph Neural Networks",
+      "summary": "A newly published Python library named City2Graph automates the conversion of raw geospatial data into structured graphs for urban analysis. The open-source tool supports spatial network analysis and integrates with heterogeneous Graph Neural Networks for GeoAI research. A formal paper detailing the library's architecture and capabilities has been released alongside the code repository.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "source": "Hacker News",
-      "published": "2020-07-14T14:00:54+00:00"
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-13T11:59:58+00:00"
     },
     {
-      "headline": "Lawmakers Demand Answers Over Deteriorating Conditions Aboard USS Abraham Lincoln",
-      "summary": "Crew members aboard the USS Abraham Lincoln have endured more than 250 days at sea, facing reported supply shortages, broken plumbing, water contamination, and severe mental health strain. Lawmakers are pressing the Pentagon for immediate oversight following reports of service members contemplating jumping overboard during the repeatedly extended Middle East mission. While Defense Secretary Pete Hegseth downplayed the reports, the Navy is reportedly preparing to relieve the carrier with the USS George Washington.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-13T16:30:06.234Z"
-    },
-    {
-      "headline": "Half of England’s World Cup Defenders Set for New Clubs as Transfer Market Heats Up",
-      "summary": "Following England’s third‑place World Cup finish, four of the nine defenders who featured are poised to leave, with Djed Spence tipped for Inter Milan at about £25.6 million, Trevoh Chalobah heading to Como and Ezri Konsa linked with Arsenal. Recent defender moves also include Marc Guehi to Manchester City and Jarell Quansah to Bayer Leverkusen, highlighting strong demand and relatively modest fees compared with the multimillion‑pound deals for England’s attackers.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj63p367gpyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-08-13T14:41:24+00:00"
+      "headline": "Watson to Start Browns' Preseason Opener as QB Battle with Sanders Intensifies",
+      "summary": "Cleveland Browns head coach Todd Monken named Deshaun Watson the starting quarterback for Saturday's exhibition opener in Chicago, marking Watson's first game action since rupturing his Achilles in October 2024. Shedeur Sanders will handle the second half against the Bears before swapping roles to start the following week against Buffalo. Monken plans to resolve the high-profile competition well before the team's September 13 regular-season opener against Jacksonville.",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://sports.yahoo.com/articles/deshaun-watson-starting-browns-exhibition-221123492.html",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-12T22:11:23Z"
     }
   ]
 }
