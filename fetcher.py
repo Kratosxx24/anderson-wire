@@ -139,8 +139,13 @@ def fetch_newsapi() -> list[dict]:
             print("  ! NEWSAPI_KEY not set — skipping NewsAPI layer")
         return []
 
+    # The free/Developer NewsAPI plan embargoes articles for ~24h before
+    # they're queryable at all — asking for "from FRESHNESS_HOURS ago" (24h)
+    # is exactly the embargoed window, so it always returns 0 on that plan.
+    # Look back further to clear the embargo; these articles are still new
+    # to us even if slightly older, since they're deduped against RSS anyway.
     cutoff = (datetime.now(timezone.utc)
-              - timedelta(hours=config.FRESHNESS_HOURS)).strftime("%Y-%m-%dT%H:%M:%S")
+              - timedelta(hours=config.FRESHNESS_HOURS + 30)).strftime("%Y-%m-%dT%H:%M:%S")
     articles = []
 
     for kw in config.NEWSAPI_KEYWORDS:
@@ -156,6 +161,10 @@ def fetch_newsapi() -> list[dict]:
                 data = json.loads(resp.read().decode())
         except Exception as e:
             print(f"  ! NewsAPI '{kw}': {e}")
+            continue
+
+        if data.get("status") == "error":
+            print(f"  ! NewsAPI '{kw}': {data.get('code')} — {data.get('message')}")
             continue
 
         for a in data.get("articles", []):
