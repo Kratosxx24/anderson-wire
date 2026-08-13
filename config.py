@@ -45,17 +45,21 @@ RSS_FEEDS = [
     ("Stratechery", "https://stratechery.com/feed/"),
     ("Daring Fireball", "https://daringfireball.net/feeds/main"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
-    ("MKBHD", "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"),
-    ("The Studio (MKBHD)", "https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA"),
     ("Hacker News", "https://hnrss.org/frontpage"),
     ("r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
     ("r/Artificial", "https://www.reddit.com/r/artificial/.rss"),
 
+    # --- YouTube (own category, added 2026-08-13) — item-count freshness via
+    # SOURCE_RULES below (their last 3 videos, regardless of age) instead of
+    # the usual time window, since a channel can go quiet for days. ---
+    ("MKBHD", "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"),
+    ("The Studio (MKBHD)", "https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA"),
+
     # --- Faith / culture (Presbyterian/Reformed lean) ---
+    # Narrowed to Gospel Coalition only 2026-08-13 — the other three added
+    # volume without matching the bar. 72h window (SOURCE_RULES) since it
+    # posts ~once/day and a tighter window intermittently zeroed Faith out.
     ("The Gospel Coalition", "https://www.thegospelcoalition.org/feed/"),
-    ("Challies", "https://www.challies.com/feed/"),
-    ("Tabletalk", "https://tabletalkmagazine.com/feed/"),
-    ("9Marks", "https://www.9marks.org/feed/"),
 
     # --- Music ---
     ("Pitchfork", "https://pitchfork.com/feed/feed-album-reviews/rss"),
@@ -68,6 +72,24 @@ RSS_FEEDS = [
     ("BBC World", "http://feeds.bbci.co.uk/news/world/rss.xml"),
     ("NPR News", "https://feeds.npr.org/1001/rss.xml"),
 ]
+
+
+# ---------------------------------------------------------------------------
+# 1b. PER-SOURCE FRESHNESS OVERRIDES
+# ---------------------------------------------------------------------------
+# Most feeds use the global FRESHNESS_HOURS window below. Override a specific
+# source here (match its label from RSS_FEEDS exactly) when that doesn't fit:
+#   {"max_age_hours": N} — a different time window for just this source.
+#   {"max_items": N}     — ignore age, just take its N most recent posts.
+#                          Good for low-volume sources (e.g. a YouTube channel)
+#                          that would otherwise go empty between uploads.
+# ---------------------------------------------------------------------------
+
+SOURCE_RULES = {
+    "The Gospel Coalition": {"max_age_hours": 72},
+    "MKBHD": {"max_items": 3},
+    "The Studio (MKBHD)": {"max_items": 3},
+}
 
 
 # ---------------------------------------------------------------------------
@@ -108,18 +130,18 @@ relevance WELL WITHIN each area:
 - NFL: the same THINKING side — scheme and play-design breakdowns, salary cap
   and contract strategy, roster construction, draft analysis. Score analytical/
   strategic pieces high; score rumor-mill churn and pure highlights low.
-- Faith: Reformed/Presbyterian theology and culture (The Gospel Coalition,
-  Desiring God, Ligonier). Score substantive theology and thoughtful cultural
+- Faith: Reformed/Presbyterian theology and culture, specifically Gospel
+  Coalition-caliber writing. Score substantive theology and thoughtful cultural
   commentary high; score surface devotional filler and prosperity-gospel low.
 - Sports: volleyball especially, plus fantasy football (lineup/start-sit/waiver
   strategy) and general sports.
 - Tech/AI: predictive modeling, applied ML, and forecasting — especially applied
   to sports or real decisions. Also Apple (products, the company), Anthropic and
   the broader LLM/AI race (Claude, frontier models), and sharp consumer-tech
-  reviews and analysis (MKBHD-style). Score thoughtful analysis high, rumor-mill
-  churn lower. Anything from MKBHD or The Studio (his vlog channel) is a
-  near-automatic 9-10 — score it at the top of the range by default, especially
-  vlogs/behind-the-scenes content, not just formal reviews.
+  reviews and analysis. Score thoughtful analysis high, rumor-mill churn lower.
+- YouTube: MKBHD and The Studio (his vlog channel) specifically. Near-automatic
+  9-10 regardless of topic — score it at the top of the range by default,
+  especially vlogs/behind-the-scenes content, not just formal reviews.
 - Music: album reviews and music criticism (Pitchfork), jazz, and film scores.
 - World Cup 2026: results, storylines, tactical breakdowns.
 - World: substantive geopolitics, economics, and policy an informed person
@@ -150,7 +172,8 @@ MAX_STORIES = 50
 CATEGORY_MINIMUMS = {
     "NBA":     4,
     "NFL":     4,
-    "Faith":   7,
+    "Faith":   2,   # was 7 — down to one source (Gospel Coalition) now
+    "YouTube": 2,
     "Sports":  3,
     "Tech/AI": 3,
     "Music":   2,

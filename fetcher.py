@@ -93,8 +93,18 @@ def _fetch_feed(url: str, retries: int = 1):
 def fetch_rss() -> list[dict]:
     """Pull every configured RSS feed. Network errors on one feed never
     kill the run — we just skip it and move on. Every feed now prints its
-    HTTP status so you can see what's actually happening."""
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=config.FRESHNESS_HOURS)
+    HTTP status so you can see what's actually happening.
+
+    Most feeds use the global FRESHNESS_HOURS cutoff, but config.SOURCE_RULES
+    can override that per source:
+      {"max_age_hours": N}  — use N hours instead of FRESHNESS_HOURS
+      {"max_items": N}      — ignore age entirely, just take the N most recent
+                               entries (feeds are newest-first). Use this for
+                               low-volume sources (e.g. a YouTube channel)
+                               where you want "their last N posts" rather than
+                               a time window that can go empty between posts.
+    """
+    default_cutoff = datetime.now(timezone.utc) - timedelta(hours=config.FRESHNESS_HOURS)
     articles = []
 
     for label, url in config.RSS_FEEDS:
@@ -113,10 +123,25 @@ def fetch_rss() -> list[dict]:
             print(f"  ! {label}: HTTP {status} — no entries (feed may be down/changed)")
             continue
 
+        rule = config.SOURCE_RULES.get(label, {})
+        max_items = rule.get("max_items")
+        if max_items is not None:
+            entries = parsed.entries[:max_items]
+            cutoff = None  # age doesn't matter — take these N regardless
+            rule_note = f", last {max_items}"
+        elif "max_age_hours" in rule:
+            entries = parsed.entries
+            cutoff = datetime.now(timezone.utc) - timedelta(hours=rule["max_age_hours"])
+            rule_note = f", {rule['max_age_hours']}h window"
+        else:
+            entries = parsed.entries
+            cutoff = default_cutoff
+            rule_note = ""
+
         kept = 0
-        for entry in parsed.entries:
+        for entry in entries:
             published = _entry_time(entry)
-            if published and published < cutoff:
+            if cutoff is not None and published and published < cutoff:
                 continue  # too old
             articles.append({
                 "title": _strip_html(entry.get("title", "")).strip(),
@@ -126,7 +151,7 @@ def fetch_rss() -> list[dict]:
                 "published": published.isoformat() if published else None,
             })
             kept += 1
-        print(f"  - {label}: {kept} fresh / {len(parsed.entries)} in feed (HTTP {status})")
+        print(f"  - {label}: {kept} fresh / {len(parsed.entries)} in feed (HTTP {status}{rule_note})")
 
     return articles
 
