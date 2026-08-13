@@ -3,9 +3,12 @@ summarizer.py — two-pass AI pipeline with code-enforced category quotas
 and a multi-provider fallback chain.
 
 Provider waterfall (tried in order, automatic fallback on ANY failure):
-  1. Groq     — llama-3.3-70b-versatile  (best quality, 100k TPD free)
-  2. Cerebras — llama-3.3-70b            (CEREBRAS_API_KEY, same weights, generous free)
-  3. Gemini   — gemini-2.5-flash         (GEMINI_API_KEY, generous free tier)
+  1. Groq     — llama-3.3-70b-versatile      (best quality, 100k TPD free)
+  2. Cerebras — llama-4-scout-17b-16e-instruct (CEREBRAS_API_KEY; llama-3.3-70b was
+                                                deprecated on Cerebras Feb 2026)
+  3. Gemini   — gemini-flash-latest          (GEMINI_API_KEY; pinned versions keep
+                                                getting sunset out from under new keys,
+                                                so this tracks Google's current release)
   4. Groq     — openai/gpt-oss-120b      (same key, strong production model)
   5. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
 
@@ -109,7 +112,7 @@ def _gemini_call(key: str):
             }
         }).encode()
         url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-               f"gemini-2.5-flash:generateContent?key={key}")
+               f"gemini-flash-latest:generateContent?key={key}")
         req = urllib.request.Request(url, data=body,
                                      headers={"Content-Type": "application/json",
                                               "User-Agent": _BROWSER_UA})
@@ -157,19 +160,22 @@ def _build_provider_chain():
     gemini_key = os.environ.get("GEMINI_API_KEY")
     cerebras_key = os.environ.get("CEREBRAS_API_KEY")
 
-    # Tier 1 — llama-3.3-70b across multiple providers (same weights, best quality)
+    # Tier 1 — best available on each provider (Groq's llama-3.3-70b is the
+    # top pick; Cerebras deprecated 3.3-70b in Feb 2026, so llama-4-scout is
+    # its current best fast/free option — not identical weights anymore, but
+    # still meaningfully better than dropping straight to the 8b last resort)
     if groq_key:
         chain.append(("Groq/llama-3.3-70b-versatile",
                        _groq_call("llama-3.3-70b-versatile", groq_key)))
     if cerebras_key:
-        chain.append(("Cerebras/llama-3.3-70b",
+        chain.append(("Cerebras/llama-4-scout-17b-16e-instruct",
                        _openai_compat_call(
                            "https://api.cerebras.ai/v1",
-                           cerebras_key, "llama-3.3-70b")))
+                           cerebras_key, "llama-4-scout-17b-16e-instruct")))
 
     # Tier 2 — Gemini Flash (different architecture, still very capable)
     if gemini_key:
-        chain.append(("Gemini/gemini-2.5-flash", _gemini_call(gemini_key)))
+        chain.append(("Gemini/gemini-flash-latest", _gemini_call(gemini_key)))
 
     # Tier 3 — other Groq production models (last resort, same key)
     if groq_key:
