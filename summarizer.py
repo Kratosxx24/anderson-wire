@@ -81,6 +81,15 @@ def _read_http_error(e) -> str:
     return str(e)
 
 
+# Cloudflare-fronted APIs (Cerebras) reject urllib's default "Python-urllib/x.y"
+# User-Agent as a bot signature (HTTP 403, Cloudflare error code 1010). A
+# browser-like UA clears it.
+_BROWSER_UA = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
+
+
 def _gemini_call(key: str):
     """Call Google Gemini via its REST API (no extra package needed)."""
     import urllib.request
@@ -102,7 +111,8 @@ def _gemini_call(key: str):
         url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
                f"gemini-2.5-flash:generateContent?key={key}")
         req = urllib.request.Request(url, data=body,
-                                     headers={"Content-Type": "application/json"})
+                                     headers={"Content-Type": "application/json",
+                                              "User-Agent": _BROWSER_UA})
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
                 data = json.loads(r.read().decode())
@@ -127,7 +137,8 @@ def _openai_compat_call(base_url: str, key: str, model: str):
             f"{base_url}/chat/completions",
             data=body,
             headers={"Content-Type": "application/json",
-                     "Authorization": f"Bearer {key}"},
+                     "Authorization": f"Bearer {key}",
+                     "User-Agent": _BROWSER_UA},
         )
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
@@ -201,7 +212,7 @@ def llm_complete(messages: list[dict], temperature: float = 0.2,
         except Exception as e:
             reason = "rate-limited" if _is_rate_limit(e) else "error"
             # keep the message short so logs stay readable
-            short = str(e).split("\n")[0][:500]
+            short = " ".join(str(e).split())[:500]
             print(f"  ! {name} {reason} ({short}); trying next provider...")
             last_err = e
             continue
