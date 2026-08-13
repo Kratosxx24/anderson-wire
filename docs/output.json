@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:41:21.880652+00:00",
+  "generated_at": "2026-08-13T17:47:11.538324+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -216,7 +216,61 @@
       "relevance": 9,
       "url": "https://fortune.com/2026/08/12/cios-and-ctos-spent-years-lauding-ai-now-with-costs-rising-theyre-putting-limits-on-how-its-used/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-12T16:38:40-00:00"
+      "published": "2026-08-12T16:38:40Z"
+    },
+    {
+      "headline": "Warriors Owner Joe Lacob Vows to Maximize Steph Curry’s Final Years",
+      "summary": "In a recent interview, Lacob said the franchise is keen to keep the Warriors competitive while Curry, now entering his 18th season, still stars. He acknowledged the inevitable aging of Curry and Draymond Green, but stressed the team will do everything possible to honor the superstar’s legacy despite missing the playoffs and lacking new roster additions.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/joe-lacob-sensitive-maximizing-steph-currys-career/1956214/?partner=yahoo",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-12T17:03:36-07:00"
+    },
+    {
+      "headline": "Knicks Earn $66.7 Million More After Back‑to‑Back Playoff Runs",
+      "summary": "MSG’s SEC filing shows the New York Knicks generated $66.7 million extra revenue in 2026 compared with 2025, even though both seasons featured nine home playoff games. The boost came from higher ticket prices and increased merchandise sales tied to the team’s deeper postseason performance.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vnd8n9/vorkunov_the_difference_a_nba_finals_run_makes/",
+      "source": "r/NBA",
+      "published": "2026-08-13T15:03:04+00:00"
+    },
+    {
+      "headline": "Google Overhauls DeepMind Leadership to Accelerate Gemini Push",
+      "summary": "Sergey Brin urged AI staff to double‑down on Gemini as rivals Anthropic and OpenAI surged ahead. In August, Google moved DeepMind chief Demis Hassabis to chair and promoted deputy Koray Kavukcuoglu, while the two original Gemini technical co‑leads quit to start a startup, all aimed at closing the performance gap.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-inside-google-executive-moves-173536807.html",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-12T20:42:06Z"
+    },
+    {
+      "headline": "Ukrainian Drone Campaign Cripples Crimea’s Infrastructure",
+      "summary": "Ukrainian drones have repeatedly struck the Russian‑occupied peninsula, causing widespread power outages, fuel shortages, and loss of banking and telecom services. Residents describe a near‑total shutdown of daily life, undermining Russia’s control since its 2014 annexation.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+      "source": "NPR News",
+      "published": "2026-08-13T11:18:27-04:00"
+    },
+    {
+      "headline": "Anthropic Embeds Invisible Watermarks in Claude Outputs to Meet EU AI Act",
+      "summary": "To comply with the EU’s new transparency rules, Anthropic now automatically inserts an imperceptible watermark into all Claude‑generated text, images and files. The marker travels with copied content, though some users fear it could devalue AI‑produced work.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://nypost.com/2026/08/12/business/anthropic-adding-watermarks-to-ai-generated-content-to-comply-with-eu-law/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-12T17:26:22+00:00"
+    },
+    {
+      "headline": "Lakers Set Sports Franchise Record with $12.5 Billion Valuation",
+      "summary": "The Los Angeles Lakers are set to be sold at a record-shattering $12.5 billion valuation. The transaction more than doubles the previous North American sports record set by the $6.1 billion sale of the Boston Celtics in 2025.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vndej3/anderson_when_bill_chisholm_bought_the_celtics/",
+      "source": "r/NBA",
+      "published": "2026-08-13T15:09:07+00:00"
     },
     {
       "headline": "Inside the Red Zone Blitz Scheme Freezing NFL Quarterbacks",
@@ -235,6 +289,15 @@
       "url": "https://www.matchquarters.com/p/afc-east-preview-buffalos-new-defense",
       "source": "MatchQuarters",
       "published": "2026-08-12T10:03:52+00:00"
+    },
+    {
+      "headline": "NFL Training Camp Injury Tracker Monitors Key Star Availability",
+      "summary": "A centralized tracking report is monitoring notable injuries across NFL training camps as teams prepare for the regular season. Latest health updates cover high-profile players including Christian McCaffrey and Alec Pierce.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
+      "source": "CBS Sports",
+      "published": "2026-08-13T17:12:35+00:00"
     },
     {
       "headline": "Phoebe Bridgers Embraces Solitude on 'Lost Weekend'",
@@ -300,6 +363,15 @@
       "published": "2026-08-12T15:06:05+00:00"
     },
     {
+      "headline": "Kubernetes on Oxide: How customer needs shaped our integrations",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
+      "source": "Hacker News",
+      "published": "2026-08-13T14:26:41+00:00"
+    },
+    {
       "headline": "Netlify Integrates OpenRouter to Benchmark 11 AI Coding Models",
       "summary": "Netlify has partnered with OpenRouter to give developers access to 11 different AI models, including DeepSeek V4 and GLM 5.2, directly within its web platform. To help creators choose the right tool, Netlify used its open-source evaluation suite to compare how each model handles real-world coding prompts.",
       "category": "Tech/AI",
@@ -345,112 +417,40 @@
       "published": "2026-08-13T01:31:21+00:00"
     },
     {
-      "headline": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-      "summary": "",
-      "category": "World",
+      "headline": "CBS Sports Predicts AFC MVPs, Highlights Preseason Needs and Rookie Watch List",
+      "summary": "CBS Sports releases a team‑by‑team MVP forecast for every AFC franchise, identifies eight clubs that must use the preseason to improve, and spotlights rookie prospects expected to make an impact in the 2026 NFL season.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-      "source": "NPR News",
-      "published": "2026-08-13T11:31:18+00:00"
-    },
-    {
-      "headline": "Lakers Set Sports Franchise Record with $12.5 Billion Valuation",
-      "summary": "The Los Angeles Lakers are set to be sold at a record-shattering $12.5 billion valuation. The transaction more than doubles the previous North American sports record set by the $6.1 billion sale of the Boston Celtics in 2025.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vndej3/anderson_when_bill_chisholm_bought_the_celtics/",
-      "source": "r/NBA",
-      "published": "2026-08-13T15:09:07+00:00"
-    },
-    {
-      "headline": "Fantasy Football Community Opens Central Index and Prize Leagues",
-      "summary": "Reddit's primary fantasy football community has posted its daily advice index for team management and roster questions. The subreddit is also running sponsored contest series with $2,800 in total cash prizes across the NFL season.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vn7jce/official_index_for_all_your_teamleague_questions/",
-      "source": "r/FantasyFootball",
-      "published": "2026-08-13T11:01:35+00:00"
-    },
-    {
-      "headline": "NFL Training Camp Injury Tracker Monitors Key Star Availability",
-      "summary": "A centralized tracking report is monitoring notable injuries across NFL training camps as teams prepare for the regular season. Latest health updates cover high-profile players including Christian McCaffrey and Alec Pierce.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
+      "url": "https://www.cbssports.com/nfl/news/predicting-mvp-for-each-afc-team-plus-eight-teams-that-need-the-preseason-the-most-and-rookies-to-watch/",
       "source": "CBS Sports",
-      "published": "2026-08-13T16:26:31+00:00"
+      "published": "2026-08-13T17:03:01+00:00"
     },
     {
-      "headline": "Brian Thomas Jr. Slated for Featured Role in Offense",
-      "summary": "Wide receiver Brian Thomas Jr. is set to be showcased in the primary 'X' receiver position this season. The tactical move positions him for a potentially dominant target share in his team's passing attack.",
+      "headline": "2026 Fantasy Football Breakout Rankings Reveal McMillan‑Fueled Surprises",
+      "summary": "Using a model that correctly anticipated McMillan’s breakout year, CBS Sports publishes its 2026 fantasy football breakout rankings, offering analysts’ picks for players poised to exceed expectations and dominate fantasy lineups.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-model-that-called-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-13T16:56:18+00:00"
+    },
+    {
+      "headline": "Leicester City Club Put Up for Sale at Over £200 Million",
+      "summary": "King Power is seeking buyers for Leicester City, its women’s side, the 32,000‑seat stadium, training facility and sister club OH Leuven, valuing assets at more than £200 million. The sales brochure omits the club’s recent £180 million losses and £103.6 million in bank loans as it sits in League One after consecutive relegations.",
       "category": "Sports",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vnc1fl/brian_thomas_jr_to_be_showcased_in_x_role_wolfe/",
-      "source": "r/FantasyFootball",
-      "published": "2026-08-13T14:18:54+00:00"
-    },
-    {
-      "headline": "Why EU-Mandated AI Text Watermarks Are Technical Dead Ends",
-      "summary": "As upcoming European Union regulations mandate detectable signatures on AI outputs, experts warn that text watermarking is inherently easy to bypass. Unlike images, digital text lacks hidden noise, meaning watermark signatures can be easily stripped out without degrading the prose.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-      "source": "Hacker News",
-      "published": "2026-08-13T15:07:10+00:00"
-    },
-    {
-      "headline": "Bitcoin Miner Riot Platforms Shifts Focus with $9.1 Billion AI Deal",
-      "summary": "Crypto mining company Riot Platforms is diversifying beyond cryptocurrency with a massive $9.1 billion artificial intelligence deal. The strategic pivot aims to cushion the company against the extreme market volatility of Bitcoin.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.thestreet.com/investing/riot-platforms-bitcoin-miner-9-billion-anthropic-ai-deal",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-12T16:37:22Z"
-    },
-    {
-      "headline": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "source": "Hacker News",
-      "published": "2026-08-13T14:26:41+00:00"
-    },
-    {
-      "headline": "Warriors Owner Joe Lacob Defends Quiet Offseason Following Injury Woes",
-      "summary": "Golden State Warriors owner Joe Lacob dismissed fan criticism over standing pat with last year's roster, blaming the team's 37-45 record on injuries to key players like Jimmy Butler and Steph Curry. Despite missing out on trade targets Giannis Antetokounmpo and LeBron James, Lacob maintained that roster continuity was a deliberate choice.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/joe-lacob-doesnt-understand-faced-criticism/1956190/?partner=yahoo",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-12T16:05:35-07:00"
-    },
-    {
-      "headline": "Cardinals GM Squashes Trade Rumors Surrounding Josh Sweat",
-      "summary": "Arizona Cardinals general manager Monti Ossenfort publicly shut down rumors that the team is looking to trade edge rusher Josh Sweat to suitors like Green Bay or Philadelphia. Ossenfort affirmed Sweat's importance to a defense that gave up seven fourth-quarter leads last season.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.revengeofthebirds.com/arizona-cardinals-depth-chart/93432/cardinals-ossenfort-we-have-no-interest-in-trading-josh",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-12T16:30:01+00:00"
-    },
-    {
-      "headline": "Jeff Teague Reflects on Crucial On-Court Lesson From Russell Westbrook",
-      "summary": "Former NBA guard Jeff Teague shared insights into the most valuable lesson he learned from competing against Russell Westbrook. The post highlights Westbrook's fierce competitive mindset and how it impacted Teague's own approach to the game.",
-      "category": "NBA",
       "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vn0plm/jeff_teague_on_the_biggest_lesson_westbrook/",
-      "source": "r/NBA",
-      "published": "2026-08-13T04:33:40+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce3qp0yy0j9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-13T14:08:18.669Z"
     },
     {
-      "headline": "Joshua Dobbs Blasts Patriots Over Mismanaged Offseason Release",
-      "summary": "Quarterback Joshua Dobbs voiced sharp frustration with New England for delaying his release by two weeks during free agency while unsuccessfully trying to trade him. The poor timing cost Dobbs prime opportunities to secure a new deal early in free agency before he eventually signed with the Detroit Lions. Dobbs noted that while he understands the business side of the NFL, the team's handling of his exit was unnecessarily difficult.",
-      "category": "NFL",
-      "relevance": 2,
-      "url": "https://nesn.com/new-england-patriots/news/former-patriots-quarterback-rips-new-england-over-very-frustrating-exit/f9199a4f235b823b33db73e2",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-12T16:38:34+00:00"
+      "headline": "Arsenal Revive Pursuit of Aston Villa Defender Ezri Konsa",
+      "summary": "The Gunners have renewed talks to sign England centre‑back Konsa, improving on an earlier £30 million offer but still well below Villa’s £60 million asking price. The 28‑year‑old, a World Cup regular, is Arteta’s preferred target as Arsenal look to shore up the back line after signing Bruno Guimaraes.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-12T15:21:59.650Z"
     }
   ]
 }
