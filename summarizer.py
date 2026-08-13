@@ -102,14 +102,19 @@ def _gemini_call(key: str):
             f"{'System' if m['role']=='system' else 'User'}: {m['content']}"
             for m in messages
         )
+        generation_config = {
+            "temperature": temperature,
+            "maxOutputTokens": max_tokens,
+        }
         if json_mode:
-            prompt += "\n\nRespond with valid JSON only."
+            # A prompt instruction alone is NOT reliable for valid JSON — Gemini
+            # (unlike Groq/OpenAI-compatible APIs) needs the real structured-
+            # output flag, or it can wrap/truncate/preface the JSON and break
+            # parsing downstream.
+            generation_config["responseMimeType"] = "application/json"
         body = json.dumps({
             "contents": [{"parts": [{"text": prompt}]}],
-            "generationConfig": {
-                "temperature": temperature,
-                "maxOutputTokens": max_tokens,
-            }
+            "generationConfig": generation_config,
         }).encode()
         url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
                f"gemini-flash-latest:generateContent?key={key}")
