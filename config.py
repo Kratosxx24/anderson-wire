@@ -46,6 +46,7 @@ RSS_FEEDS = [
     ("Daring Fireball", "https://daringfireball.net/feeds/main"),
     ("Simon Willison", "https://simonwillison.net/atom/everything/"),
     ("MKBHD", "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ"),
+    ("The Studio (MKBHD)", "https://www.youtube.com/feeds/videos.xml?channel_id=UCG7J20LhUeLl6y_Emi7OJrA"),
     ("Hacker News", "https://hnrss.org/frontpage"),
     ("r/MachineLearning", "https://www.reddit.com/r/MachineLearning/.rss"),
     ("r/Artificial", "https://www.reddit.com/r/artificial/.rss"),
@@ -78,11 +79,12 @@ RSS_FEEDS = [
 # run on RSS alone (fully free, no key needed).
 # ---------------------------------------------------------------------------
 
-# NewsAPI keyword layer — DISABLED. The key was returning 401 (invalid/not set),
-# and the RSS feeds provide plenty of material. To re-enable: add a valid
-# NEWSAPI_KEY repo secret and put keywords back in this list (keep it short —
-# each keyword is 1 of 100 free daily requests).
-NEWSAPI_KEYWORDS = []
+# Re-enabled 2026-08-13. Kept short (3 keywords) since the cron now runs
+# ~4x/hour (~15-20 runs/day) — 3 keywords x 20 runs = 60 requests/day, safely
+# under the 100/day free cap. Requires a valid NEWSAPI_KEY repo secret (the
+# old one returned 401); if it's still invalid this just no-ops per run
+# without breaking anything else (see fetcher.fetch_newsapi).
+NEWSAPI_KEYWORDS = ["NBA trade", "NFL contract", "Anthropic Claude"]
 
 
 # ---------------------------------------------------------------------------
@@ -115,7 +117,9 @@ relevance WELL WITHIN each area:
   to sports or real decisions. Also Apple (products, the company), Anthropic and
   the broader LLM/AI race (Claude, frontier models), and sharp consumer-tech
   reviews and analysis (MKBHD-style). Score thoughtful analysis high, rumor-mill
-  churn lower.
+  churn lower. Anything from MKBHD or The Studio (his vlog channel) is a
+  near-automatic 9-10 — score it at the top of the range by default, especially
+  vlogs/behind-the-scenes content, not just formal reviews.
 - Music: album reviews and music criticism (Pitchfork), jazz, and film scores.
 - World Cup 2026: results, storylines, tactical breakdowns.
 - World: substantive geopolitics, economics, and policy an informed person

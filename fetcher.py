@@ -266,3 +266,46 @@ def enrich_published_dates(stories: list[dict]) -> list[dict]:
 
     print(f"  - resolved {fixed}/{len(targets)} from the source page")
     return stories
+
+
+# ---------------------------------------------------------------------------
+# Full-article text (for richer summaries than the ~300-char RSS blurb)
+# ---------------------------------------------------------------------------
+
+_BLOCK_TAG_RE = re.compile(r'<(script|style|nav|header|footer|aside)[^>]*>.*?</\1>', re.I | re.S)
+
+
+def fetch_full_text(url: str, limit: int = 2500) -> str | None:
+    """Best-effort fetch of an article's readable body text. Crude extraction —
+    drops script/style/nav/footer blocks, strips remaining tags, collapses
+    whitespace — not real content extraction, just enough noise reduction to
+    give the summarizer real article text instead of a thin RSS snippet.
+    Returns None on any failure so callers can fall back to the RSS summary."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
+        with urllib.request.urlopen(req, timeout=DATE_RESOLVE_TIMEOUT) as resp:
+            html_text = resp.read(400_000).decode("utf-8", "ignore")
+    except Exception:
+        return None
+    cleaned = _BLOCK_TAG_RE.sub(" ", html_text)
+    text = re.sub(r'\s+', ' ', _strip_html(cleaned)).strip()
+    return text[:limit] if text else None
+
+
+def fetch_full_texts(urls: list[str]) -> dict[str, str]:
+    """Fetch full text for many URLs concurrently. Returns {url: text} for
+    whichever fetches succeeded — missing URLs just mean the fetch failed."""
+    if not urls:
+        return {}
+    out = {}
+    with ThreadPoolExecutor(max_workers=DATE_RESOLVE_WORKERS) as pool:
+        future_to_url = {pool.submit(fetch_full_text, u): u for u in urls}
+        for fut in as_completed(future_to_url):
+            u = future_to_url[fut]
+            try:
+                text = fut.result()
+            except Exception:
+                text = None
+            if text:
+                out[u] = text
+    return out

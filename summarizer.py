@@ -152,13 +152,25 @@ def _openai_compat_call(base_url: str, key: str, model: str):
     return call
 
 
-def _build_provider_chain():
+def _build_provider_chain(prefer_gemini: bool = False):
     """Build the list of available providers at runtime based on which keys exist.
-    Ordered by output quality — best first, last-resort fallbacks last."""
-    chain = []
+    Ordered by output quality — best first, last-resort fallbacks last.
+
+    `prefer_gemini`: put Gemini first instead of third. Used for Pass 2 (full-
+    article summaries) — those prompts are much bigger than triage's, and
+    Gemini's free tier has far more headroom than Groq's tight daily token cap,
+    which triage (run on every article, every run) already consumes most of.
+    Keeping summaries off Groq-first leaves more of that scarce budget for
+    triage instead of the two passes competing for the same quota."""
     groq_key = os.environ.get("GROQ_API_KEY")
     gemini_key = os.environ.get("GEMINI_API_KEY")
     cerebras_key = os.environ.get("CEREBRAS_API_KEY")
+
+    gemini_entry = ("Gemini/gemini-flash-latest", _gemini_call(gemini_key)) if gemini_key else None
+
+    chain = []
+    if prefer_gemini and gemini_entry:
+        chain.append(gemini_entry)
 
     # Tier 1 — best available on each provider (Groq's llama-3.3-70b is the
     # top pick; Cerebras deprecated 3.3-70b in Feb 2026, so llama-4-scout is
@@ -173,9 +185,8 @@ def _build_provider_chain():
                            "https://api.cerebras.ai/v1",
                            cerebras_key, "llama-4-scout-17b-16e-instruct")))
 
-    # Tier 2 — Gemini Flash (different architecture, still very capable)
-    if gemini_key:
-        chain.append(("Gemini/gemini-flash-latest", _gemini_call(gemini_key)))
+    if not prefer_gemini and gemini_entry:
+        chain.append(gemini_entry)
 
     # Tier 3 — other Groq production models (last resort, same key)
     if groq_key:
@@ -202,12 +213,13 @@ def _is_rate_limit(e: Exception) -> bool:
 
 
 def llm_complete(messages: list[dict], temperature: float = 0.2,
-                 max_tokens: int = 4000, json_mode: bool = True) -> str:
+                 max_tokens: int = 4000, json_mode: bool = True,
+                 prefer_gemini: bool = False) -> str:
     """Try each provider in the chain, falling through on ANY failure — a
     rate-limit, a decommissioned model, a network blip, a bad response. The
     whole point of the chain is resilience, so one provider breaking should
     never kill the run. Only raise if every provider has failed."""
-    chain = _build_provider_chain()
+    chain = _build_provider_chain(prefer_gemini=prefer_gemini)
     last_err = None
     for name, call_fn in chain:
         try:
@@ -391,9 +403,13 @@ def select_with_quotas(triaged: list[dict]) -> list[dict]:
 # ---------------------------------------------------------------------------
 
 _SUMMARY_SYSTEM = """You are a sharp, no-nonsense personal news editor. For each \
-headline given, write a clean punchy headline and a tight 2-sentence summary in \
+story given, write a clean punchy headline and a tight 2-3 sentence summary in \
 your OWN words — never copy article text verbatim. Lead with substance, not \
-"This article discusses". Return STRICT JSON only — no markdown, no backticks."""
+"This article discusses". Where the full article text is provided, use it: pull \
+out the actual specifics (numbers, names, what changed and why it matters) \
+instead of restating the headline in other words. Where only a short blurb is \
+given, summarize what's there without inventing detail. Return STRICT JSON \
+only — no markdown, no backticks."""
 
 
 _WORD_RE = re.compile(r"[a-z0-9]+")
@@ -427,21 +443,27 @@ def _summarize_batch(pool: list[dict], batch: list[dict]) -> dict:
     lines = []
     for s in batch:
         a = pool[s["index"]]
+        body = a.get("full_text") or a.get("summary", "")[:300]
+        tag = "FULL ARTICLE" if a.get("full_text") else "BLURB ONLY"
         lines.append(
             f"[{s['index']}] ({a.get('source','')}) {a.get('title','')}\n"
-            f"    {a.get('summary','')[:300]}"
+            f"    {tag}: {body}"
         )
-    user = (f"Write a headline and 2-sentence summary for each:\n"
+    user = (f"Write a headline and summary for each story:\n"
             f"{chr(10).join(lines)}\n\n"
-            f'Return JSON: {{"stories": [{{"index": <int>, "headline": "<headline>", "summary": "<two sentences>"}}]}}\n'
+            f'Return JSON: {{"stories": [{{"index": <int>, "headline": "<headline>", "summary": "<2-3 sentences>"}}]}}\n'
             f"Return only the JSON.")
 
+    # Prefer Gemini here: these prompts are much bigger (full article text)
+    # than triage's, and Gemini's free tier has far more headroom than the
+    # Groq daily budget that triage already leans on every run.
     raw = llm_complete(
         messages=[{"role": "system", "content": _SUMMARY_SYSTEM},
                   {"role": "user", "content": user}],
         temperature=0.3,
-        max_tokens=3000,
+        max_tokens=3500,
         json_mode=True,
+        prefer_gemini=True,
     )
     data = _parse_json(raw)
     smap = {}
@@ -453,6 +475,20 @@ def _summarize_batch(pool: list[dict], batch: list[dict]) -> dict:
 
 
 def write_summaries(pool: list[dict], selected: list[dict]) -> list[dict]:
+    # Fetch full article text for these (concurrently) so summaries are
+    # written from real content instead of the ~300-char RSS blurb alone.
+    # Best-effort — any URL that fails to fetch just falls back to the blurb.
+    import fetcher
+    urls = [pool[s["index"]]["url"] for s in selected if pool[s["index"]].get("url")]
+    print(f"  - fetching full article text for {len(urls)} stories...")
+    full_texts = fetcher.fetch_full_texts(urls)
+    print(f"    got {len(full_texts)}/{len(urls)}")
+    for s in selected:
+        a = pool[s["index"]]
+        text = full_texts.get(a.get("url", ""))
+        if text:
+            a["full_text"] = text
+
     smap = {}
     batches = [selected[i:i+SUMMARY_BATCH]
                for i in range(0, len(selected), SUMMARY_BATCH)]
