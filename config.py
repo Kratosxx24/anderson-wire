@@ -166,7 +166,12 @@ MAX_HEADLINES_TO_AI = 75
 
 # Only consider articles published within this many hours (keeps it fresh).
 # Widen this if you aren't consistently filling 50 stories.
-FRESHNESS_HOURS = 24
+# Bumped 24->36 on 2026-08-13: daily-cadence blogs (Gospel Coalition et al.
+# post once/day around a fixed time) would intermittently age out of a strict
+# 24h window right before their next post, zeroing out Faith entirely. 36h
+# gives enough slack for once-a-day sources without meaningfully staling
+# anything else (selection is still relevance/quota-driven, not just recency).
+FRESHNESS_HOURS = 36
 
 # Primary model. The fallback chain in summarizer.py automatically waterfalls
 # to Groq 8b, Groq legacy, Gemini, Cerebras, and Together if this hits limits.
