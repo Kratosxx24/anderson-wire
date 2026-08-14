@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:46:17.776597+00:00",
+  "generated_at": "2026-08-14T08:52:41.922029+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,15 +57,6 @@
       "published": "2026-08-12T21:23:30+00:00"
     },
     {
-      "headline": "Google's Pixel 11 Lineup Emphasizes AI-Powered Productivity",
-      "summary": "Google's Pixel 11 series introduces Gemini, an AI-powered assistant that can complete tasks and make calls on users' behalf. This feature is initially available to U.S.-based users.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/",
-      "source": "Daring Fireball",
-      "published": "2026-08-12T19:45:58+00:00"
-    },
-    {
       "headline": "DeepSeek V4 Pro 0813 Model Released via API",
       "summary": "The latest DeepSeek Pro model is now available, but there's no official announcement page. The model's weights may be released, and benchmarks are available, but only through a WeChat group and Reddit.",
       "category": "Tech/AI",
@@ -73,6 +64,15 @@
       "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
       "source": "Simon Willison",
       "published": "2026-08-12T23:59:23+00:00"
+    },
+    {
+      "headline": "OpenAI’s GPT‑5.6 Sol Ultrafast Cuts Inference Time to a Fraction, Beats Claude 5 by 7‑Fold on ‘Humanity’s Last Exam’",
+      "summary": "Partnering with Cerebras, OpenAI rolled out an Ultrafast tier for GPT‑5.6 Sol that can output up to 750 tokens per second without quality loss. In tests it completed the 2,500‑question Humanity’s Last Exam in just over 11 hours—about seven times faster than Claude Fable 5—and delivered a 5.6× speedup on economic‑value benchmarks. The service starts with a limited customer set before expanding.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "source": "Hacker News",
+      "published": "2026-08-13T18:10:02+00:00"
     },
     {
       "headline": "Israel Deploys Reinforcements as Settler Siege Escalates in West Bank Village",
@@ -84,13 +84,31 @@
       "published": "2026-08-13T20:12:17+00:00"
     },
     {
-      "headline": "OpenAI’s GPT‑5.6 Sol Ultrafast Cuts Inference Time to a Fraction, Beats Claude 5 by 7‑Fold on ‘Humanity’s Last Exam’",
-      "summary": "Partnering with Cerebras, OpenAI rolled out an Ultrafast tier for GPT‑5.6 Sol that can output up to 750 tokens per second without quality loss. In tests it completed the 2,500‑question Humanity’s Last Exam in just over 11 hours—about seven times faster than Claude Fable 5—and delivered a 5.6× speedup on economic‑value benchmarks. The service starts with a limited customer set before expanding.",
-      "category": "Tech/AI",
+      "headline": "Google Pixel 11 and Fold Impressions: Routine Upgrades in a Mature Lineup",
+      "summary": "Marques Brownlee shares first impressions of Google's latest hardware family, spanning the Pixel 11, Pro, and Fold models. The evaluation weighs Google's iterative chassis refinements and onboard AI features against an increasingly predictable annual upgrade cycle. The overall take suggests a competent lineup that refines established strengths without delivering radical surprises.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "source": "Hacker News",
-      "published": "2026-08-13T18:10:02+00:00"
+      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "source": "MKBHD",
+      "published": "2026-08-12T14:00:35+00:00"
+    },
+    {
+      "headline": "Samsung Galaxy Z Fold 8 Review: The Novelty Wears Off",
+      "summary": "Marques Brownlee assesses Samsung's Galaxy Z Fold 8, looking past the initial novelty of foldable displays to evaluate real-world durability and utility. The review balances multitasking capabilities against ongoing pain points like hinge bulk, crease visibility, and camera parity with standard flagships. With foldables now firmly established, the verdict demands more substantial year-over-year innovation to justify top-tier pricing.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "source": "MKBHD",
+      "published": "2026-08-01T00:05:00+00:00"
+    },
+    {
+      "headline": "Framework 13 Pro Review: Modular Computing Finally Delivers",
+      "summary": "Marques Brownlee reviews the Framework 13 Pro, examining whether its modular, repairable architecture can compete with conventional high-end laptops. The machine earns praise for swappable port modules, easily replaceable components, and solid performance gains. It serves as a proof of concept that right-to-repair principles can coexist with sleek ultrabook design.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "source": "MKBHD",
+      "published": "2026-07-27T15:38:21+00:00"
     },
     {
       "headline": "Pastoral Reflections on Scripture Memorization",
@@ -120,40 +138,13 @@
       "published": "2026-08-13T15:18:27+00:00"
     },
     {
-      "headline": "Google Pixel 11 and Fold Impressions: Routine Upgrades in a Mature Lineup",
-      "summary": "Marques Brownlee shares first impressions of Google's latest hardware family, spanning the Pixel 11, Pro, and Fold models. The evaluation weighs Google's iterative chassis refinements and onboard AI features against an increasingly predictable annual upgrade cycle. The overall take suggests a competent lineup that refines established strengths without delivering radical surprises.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "source": "MKBHD",
-      "published": "2026-08-12T14:00:35+00:00"
-    },
-    {
-      "headline": "Samsung Galaxy Z Fold 8 Review: The Novelty Wears Off",
-      "summary": "Marques Brownlee assesses Samsung's Galaxy Z Fold 8, looking past the initial novelty of foldable displays to evaluate real-world durability and utility. The review balances multitasking capabilities against ongoing pain points like hinge bulk, crease visibility, and camera parity with standard flagships. With foldables now firmly established, the verdict demands more substantial year-over-year innovation to justify top-tier pricing.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "source": "MKBHD",
-      "published": "2026-08-01T00:05:00+00:00"
-    },
-    {
       "headline": "Anthropic Adds Invisible Watermarks to Claude AI Output",
       "summary": "Anthropic is rolling out watermarking for Claude-generated text by embedding subtle, statistically distinct word choices directly during the generation process. The hidden patterns persist through standard copy-pasting and can be identified by specialized detection tools to curb online spam and assist academic integrity. However, heavy manual rewriting or passing text through secondary AI models can still degrade the watermark's reliability.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T03:15:00-04:00"
-    },
-    {
-      "headline": "Framework 13 Pro Review: Modular Computing Finally Delivers",
-      "summary": "Marques Brownlee reviews the Framework 13 Pro, examining whether its modular, repairable architecture can compete with conventional high-end laptops. The machine earns praise for swappable port modules, easily replaceable components, and solid performance gains. It serves as a proof of concept that right-to-repair principles can coexist with sleek ultrabook design.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "source": "MKBHD",
-      "published": "2026-07-27T15:38:21+00:00"
+      "published": "2026-08-13T07:15:00Z"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -442,6 +433,15 @@
       "url": "https://heavy.com/sports/nfl/new-england-patriots/patriots-bring-back-veteran-rb-on-1-year-deal-expected-to-play-vs-colts/",
       "source": "NewsAPI:NFL contract",
       "published": "2026-08-13T04:02:23Z"
+    },
+    {
+      "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
+      "summary": "Chase Budinger and Trevor Crabb entered the Manhattan Beach Open as the No. 1 men’s seed, teaming up on U.S. soil for the first time after Budinger’s 2025 win with Miles Evans. The three‑day event features 64 main‑draw teams and a Thursday qualifier that saw 160 pairs vie for 16 spots, with free sand admission. Defending women’s champions Taryn Brasher and Kristen Cruz are the top seed, chasing a historic third straight title.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp/?utm_source=rss&utm_medium=rss&utm_campaign=budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp",
+      "source": "Volleyball Mag",
+      "published": "2026-08-14T07:11:30+00:00"
     },
     {
       "headline": "Burgas, Bulgaria confirmed as host city for Eurovision 2027",
