@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T12:27:01.296660+00:00",
+  "generated_at": "2026-08-14T13:59:44.084721+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -111,31 +111,31 @@
       "published": "2026-08-12T04:00:00+00:00"
     },
     {
-      "headline": "Anthropic aims for $2 trillion IPO, targeting record‑breaking debut",
-      "summary": "Investors expect Claude creator Anthropic to launch an October IPO seeking a valuation of at least $2 trillion, which would eclipse all prior public listings. The move would test the market’s appetite for AI‑driven growth as the company prepares for its biggest public‑market test yet.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://biztoc.com/x/bb7d241c332864ee",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T10:52:44+00:00"
-    },
-    {
-      "headline": "Anthropic backers bet on $2 trillion valuation in October float",
-      "summary": "Backers told the Financial Post that the AI start‑up plans to go public at a $2 trillion-plus valuation, outpacing SpaceX and setting a new IPO record. They cite projected 2026 revenue of $100‑$120 billion—more than tenfold growth—to justify the lofty price, while noting the gamble amid a wary market.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://financialpost.com/financial-times/anthropic-investors-bet-valuation-ipo",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T11:56:22+0000"
-    },
-    {
       "headline": "U.S. missionary Kevin Rideout freed after nine‑month Niger captivity",
       "summary": "Kevin Rideout, an American missionary and pilot, was released in Niger after more than nine months in the hands of armed men, likely linked to al‑Qaeda affiliate JNIM. He is now in FBI custody and expected to reunite with his family, though details of the rescue remain undisclosed.",
       "category": "Faith",
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-14T10:18:02.678Z"
+      "published": "2026-08-14T10:18:02+00:00"
+    },
+    {
+      "headline": "Hope for the Doubting and Deconstructing Offers Faith‑Based Reassurance",
+      "summary": "The Gospel Coalition publishes an essay aimed at believers wrestling with doubt or deconstruction, encouraging them to find hope within the Christian narrative. It positions the piece as a resource for those questioning their faith, without prescribing a specific theological stance.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/podcasts/tgc-podcast/hope-doubting-deconstructing-2/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-14T04:04:00+00:00"
+    },
+    {
+      "headline": "Zambia Halts Vote Counting Amid Alleged Attacks on Poll Workers",
+      "summary": "The Electoral Commission suspended counting for the presidential, parliamentary and local elections after reports of violence and theft of marked ballot papers. Incumbent President Hakainde Hichilema seeks a second term, while main challenger Brian Mundubile warned the delay could enable manipulation and called for immediate, station‑by‑station results. The commission will review the suspension within 24 hours.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-13T10:51:35.355Z"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -192,15 +192,6 @@
       "published": "2026-08-14T03:59:10+00:00"
     },
     {
-      "headline": "CBS Sports Predicts AFC MVPs, Highlights Preseason Needs and Rookie Watch List",
-      "summary": "CBS Sports releases a team‑by‑team MVP forecast for every AFC franchise, identifies eight clubs that must use the preseason to improve, and spotlights rookie prospects expected to make an impact in the 2026 NFL season.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/predicting-mvp-for-each-afc-team-plus-eight-teams-that-need-the-preseason-the-most-and-rookies-to-watch/",
-      "source": "CBS Sports",
-      "published": "2026-08-13T17:03:01+00:00"
-    },
-    {
       "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
       "summary": "Chase Budinger and Trevor Crabb entered the Manhattan Beach Open as the No. 1 men’s seed, teaming up on U.S. soil for the first time after Budinger’s 2025 win with Miles Evans. The three‑day event features 64 main‑draw teams and a Thursday qualifier that saw 160 pairs vie for 16 spots, with free sand admission. Defending women’s champions Taryn Brasher and Kristen Cruz are the top seed, chasing a historic third straight title.",
       "category": "Sports",
@@ -228,6 +219,24 @@
       "published": "2026-08-13T21:24:02+00:00"
     },
     {
+      "headline": "Durability Testing Validates Apple's Ceramic Shield 2 on iPhone 17",
+      "summary": "Early torture tests show Apple's second-generation Ceramic Shield offers measurable gains in physical resilience for the iPhone 17. The new glass formulation demonstrated improved resistance against scratches, bending stress, and direct drop impacts compared to previous models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping",
+      "source": "Daring Fireball",
+      "published": "2026-08-13T15:46:41+00:00"
+    },
+    {
+      "headline": "sqlite‑utils 4.2.1 Fixes Crash Bug by Adding Proper Dependency Handling and New Isolated Smoke Test",
+      "summary": "The 4.2.1 release resolves a crash caused by the missing typing‑extensions package, which previously arrived only via dev dependencies. The update introduces a smoke‑test that runs the CLI in an isolated environment, guaranteeing functionality even when default groups are omitted. Developers can verify the fix with `uv run --isolated --no-default-groups sqlite-utils --help`.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "source": "Simon Willison",
+      "published": "2026-08-13T23:53:47+00:00"
+    },
+    {
       "headline": "fata morgana",
       "summary": "",
       "category": "Music",
@@ -253,42 +262,6 @@
       "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
       "source": "CBS Sports",
       "published": "2026-08-13T20:29:44+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Breakout Rankings Reveal McMillan‑Fueled Surprises",
-      "summary": "Using a model that correctly anticipated McMillan’s breakout year, CBS Sports publishes its 2026 fantasy football breakout rankings, offering analysts’ picks for players poised to exceed expectations and dominate fantasy lineups.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-model-that-called-mcmillans-huge-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-13T16:56:18+00:00"
-    },
-    {
-      "headline": "Durability Testing Validates Apple's Ceramic Shield 2 on iPhone 17",
-      "summary": "Early torture tests show Apple's second-generation Ceramic Shield offers measurable gains in physical resilience for the iPhone 17. The new glass formulation demonstrated improved resistance against scratches, bending stress, and direct drop impacts compared to previous models.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.tomsguide.com/phones/iphones/iphone-17-and-iphone-air-durability-testing-heres-how-the-new-iphones-stand-up-to-bending-scratching-and-dropping",
-      "source": "Daring Fireball",
-      "published": "2026-08-13T15:46:41+00:00"
-    },
-    {
-      "headline": "Google Design Faces Twitter Backlash",
-      "summary": "Google Design's recent Twitter post has sparked criticism and ridicule, with many questioning the authenticity and quality of the content. The post's amateurish tone and lack of sophistication have led some to speculate about the involvement of AI or a potential hack.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://x.com/googledesign/status/2087195277094695096",
-      "source": "Daring Fireball",
-      "published": "2026-08-13T01:03:45+00:00"
-    },
-    {
-      "headline": "sqlite‑utils 4.2.1 Fixes Crash Bug by Adding Proper Dependency Handling and New Isolated Smoke Test",
-      "summary": "The 4.2.1 release resolves a crash caused by the missing typing‑extensions package, which previously arrived only via dev dependencies. The update introduces a smoke‑test that runs the CLI in an isolated environment, guaranteeing functionality even when default groups are omitted. Developers can verify the fix with `uv run --isolated --no-default-groups sqlite-utils --help`.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
-      "source": "Simon Willison",
-      "published": "2026-08-13T23:53:47+00:00"
     },
     {
       "headline": "sqlite-utils 4.2 Adds Robust Transform Feature and Fixes",
@@ -399,6 +372,15 @@
       "published": "2026-08-13T04:00:00+00:00"
     },
     {
+      "headline": "Record rain in Japan’s Chiba kills eight, strands thousands at Narita",
+      "summary": "Unprecedented downpours in Chiba prefecture dumped over 100 mm of rain per hour—about three times the August norm—causing floods, power outages to 20,000 homes, and eight deaths. The deluge forced evacuations, shut highways and rail lines, and left thousands stranded at Narita Airport as emergency warnings were issued.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T10:36:14+00:00"
+    },
+    {
       "headline": "White House Claims Over 40 Nations Help China Sidestep U.S. Tariffs",
       "summary": "A new administration report says China has been routing $30‑$300 billion of goods through countries such as Canada, India, Mexico, Japan and South Korea to avoid higher U.S. duties. The White House says the transshipment scheme costs American jobs and revenue, and it is now using AI tools to track the practice ahead of a Trump‑Xi summit.",
       "category": "World",
@@ -426,22 +408,40 @@
       "published": "2026-08-13T04:55:58+00:00"
     },
     {
-      "headline": "Record rain in Japan’s Chiba kills eight, strands thousands at Narita",
-      "summary": "Unprecedented downpours in Chiba prefecture dumped over 100 mm of rain per hour—about three times the August norm—causing floods, power outages to 20,000 homes, and eight deaths. The deluge forced evacuations, shut highways and rail lines, and left thousands stranded at Narita Airport as emergency warnings were issued.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T04:54:13.284Z"
-    },
-    {
       "headline": "Victor Wembanyama’s playoff dominance could trigger OKC Thunder’s roster overhaul",
       "summary": "After Wembanyama outplayed Chet Holmgren in the Spurs‑Thunder series, Oklahoma City may consider trading Holmgren to free up $239 million in cap space. The potential move reflects mounting salary‑cap pressure (“second apron”) and the Thunder’s need to reshape an expensive roster.",
       "category": "NBA",
       "relevance": 8,
       "url": "https://roundtable.io/sports/nba/spurs/news/victor-wembanyama-could-force-okc-thunder-to-make-massive-trade",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-13T12:25:25.606Z"
+      "published": "2026-08-13T12:25:25Z"
+    },
+    {
+      "headline": "Fantasy IDP Rankings Keep Seattle Safety Nick Emmanwori in Top Tier",
+      "summary": "Matt De Lima’s 2026 IDP defensive back rankings still place Seahawks safety Nick Emmanwori among the elite despite his injury rehab, citing his versatility and tackle volume. The list also highlights Kyle Hamilton and Derwin James Jr. at the summit, while noting discrepancies for players like Jordan Battle, whose lower PFF grades keep him out of the consensus top spots.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.thebiglead.com/fantasy-football-idp-db-rankings-tiers-kyle-hamilton-derwin-james-nick-emmanwori/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-13T13:18:50+00:00"
+    },
+    {
+      "headline": "Progressive Becomes Title Sponsor of AVP League in Biggest Sponsorship Push Yet",
+      "summary": "Progressive Insurance signed a multi‑year title deal for the AVP League and the Manhattan Beach Open, marking the tour’s first title sponsor in years. The partnership arrived alongside seven other blue‑chip brands—including Gatorade, Delta Air Lines and Chevron—signaling a surge in commercial interest as the AVP prepares its 42nd Manhattan Beach Open, touted as the sport’s Wimbledon equivalent.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/progressive-insurance-headlines-avp-s-biggest-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=progressive-insurance-headlines-avp-s-biggest-sponsorship",
+      "source": "Volleyball Mag",
+      "published": "2026-08-14T07:09:52+00:00"
+    },
+    {
+      "headline": "Instagram Influencers Charged for Selling Paid Migration Advice to Ceuta Crossers",
+      "summary": "BBC investigators created a dummy profile to expose a network of Instagram accounts that market paid instructions for crossing from Morocco into the Spanish enclave of Ceuta. The accounts demand up to 5,000 dirhams (£400) for tips such as sewer‑pipe routes, a scheme that has coincided with a surge of 78,000 migrants and 100 deaths in recent weeks.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T12:19:21.315Z"
     },
     {
       "headline": "Arsenal Begin Talks to Sign Bayer Leverkusen’s Versatile Defender Jarell Quansah",
