@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:02:47.563689+00:00",
+  "generated_at": "2026-08-14T02:37:42.414701+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -210,13 +210,22 @@
       "published": "2026-08-13T09:58:40+00:00"
     },
     {
-      "headline": "Claude Opus Detects Injected Concepts in Its Own Neural Activations",
-      "summary": "Anthropic researchers found that Claude Opus 4 and 4.1 can identify when foreign concepts are artificially inserted into their internal activations without any prompt cues. The models successfully recognized and named the injected concepts in roughly 20% of trials while producing zero false positives across 100 control runs. The findings suggest advanced language models may possess a nascent ability to inspect their own internal processing states.",
+      "headline": "SpaceXAI Unveils Grok 4.6, Claims Parity with GPT‑5.6 and Edge Over Claude Fable 5",
+      "summary": "SpaceXAI, freshly rebranded after its SpaceX acquisition, launched Grok 4.6 just a month after Grok 4.5. The model received a longer AI‑generated training run, supervised fine‑tuning and reinforcement learning, plus high‑quality engineering data to boost reasoning. On the Artificial Analysis Intelligence Index it scored 61, matching OpenAI’s GPT‑5.6 Sol and trailing Claude Fable 5 by one point, while beating the rival on three of nine additional benchmarks.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://spacedaily.com/n-researchers-slipped-a-single-word-bread-directly-into-an-ai-models-own-neural-activations-with-nothing-in-the-prompt-to-hint-at-it-and-claude-opus-still-caught-the-change-about-one-time-in/",
+      "url": "https://siliconangle.com/2026/08/12/spacexai-releases-flagship-grok-4-6-model-advanced-reasoning-capabilities/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-12T23:02:09Z"
+      "published": "2026-08-12T21:27:09-04:00"
+    },
+    {
+      "headline": "OpenAI’s GPT‑5.6 Sol Ultrafast Cuts Inference Time to a Fraction, Beats Claude 5 by 7‑Fold on ‘Humanity’s Last Exam’",
+      "summary": "Partnering with Cerebras, OpenAI rolled out an Ultrafast tier for GPT‑5.6 Sol that can output up to 750 tokens per second without quality loss. In tests it completed the 2,500‑question Humanity’s Last Exam in just over 11 hours—about seven times faster than Claude Fable 5—and delivered a 5.6× speedup on economic‑value benchmarks. The service starts with a limited customer set before expanding.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "source": "Hacker News",
+      "published": "2026-08-13T18:10:02+00:00"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -426,31 +435,22 @@
       "published": "2026-08-13T23:06:23+00:00"
     },
     {
-      "headline": "Trade Proposals Explore Sign-and-Trade Options for Pistons' Jalen Duren",
-      "summary": "With contract negotiations pending for Detroit Pistons center Jalen Duren, mock trade scenarios explore potential sign-and-trade options to reshape the roster. Proposed frameworks feature packages landing shooting big men like Milwaukee's Myles Turner or Atlanta's Onyeka Okongwu alongside backcourt depth. The suggested moves focus on opening up floor spacing to better complement Cade Cunningham and Ausar Thompson.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.detroitbadboys.com/detroit-pistons-analysis/50935/three-jalen-duren-sign-and-trade-possibilities",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-12T20:55:53Z"
-    },
-    {
-      "headline": "Brutal NBA Cup Draw to Test Retooled Sixers Roster",
-      "summary": "Following a blockbuster offseason where Philadelphia traded for Jaylen Brown and signed LeBron James to a veteran-minimum deal, the 76ers face a steep early-season gauge in the Emirates NBA Cup. Drawn into a group alongside the Knicks, Cavaliers, Heat, and Pacers, the tournament will immediately test how quickly the overhauled lineup can build chemistry against top Eastern Conference contenders.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.libertyballers.com/76ers-analysis/97372/the-nba-cup-will-be-a-valuable-measuring-stick-for-the-new-look-sixers",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-12T20:07:02Z"
-    },
-    {
-      "headline": "NFL Preseason Week 1 DFS Picks and Lineup Strategies",
-      "summary": "Daily fantasy football advice and lineup projections are live for the opening Thursday slate of the NFL preseason. Fantasy players can review top value plays and roster strategies across both DraftKings and FanDuel platforms.",
+      "headline": "Chargers’ OC Mike McDaniel Adopts 49ers‑Style Flexible Backfield, Shuns New‑Age Offense Overhaul",
+      "summary": "Mike McDaniel is borrowing the rotating‑backfield playbook he helped craft with the San Francisco 49ers from 2017‑2021 rather than inventing a brand‑new rushing scheme for Los Angeles. He will mix Omarion Hampton, Keaton Mitchell and Kimani Vidal in ratios dictated by opponent and in‑game performance, echoing the way Raheem Mostert earned a breakout role in 2019. McDaniel says the goal is to create advantageous situations, not chase novelty.",
       "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-1-preseason-daily-fantasy-football-picks-thursday-lineups-draftkings-fanduel/",
-      "source": "CBS Sports",
-      "published": "2026-08-13T20:45:47+00:00"
+      "relevance": 8,
+      "url": "https://nypost.com/2026/08/12/sports/mike-mcdaniel-turns-to-49ers-past-for-chargers-rushing-attack/?utm_source=yahoo&amp;utm_campaign=nypost&amp;utm_medium=referral",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-13T02:30:30Z"
+    },
+    {
+      "headline": "sqlite‑utils 4.2.1 Fixes Crash Bug by Adding Proper Dependency Handling and New Isolated Smoke Test",
+      "summary": "The 4.2.1 release resolves a crash caused by the missing typing‑extensions package, which previously arrived only via dev dependencies. The update introduces a smoke‑test that runs the CLI in an isolated environment, guaranteeing functionality even when default groups are omitted. Developers can verify the fix with `uv run --isolated --no-default-groups sqlite-utils --help`.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils-2/",
+      "source": "Simon Willison",
+      "published": "2026-08-13T23:53:47+00:00"
     }
   ]
 }
