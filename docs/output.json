@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:52:41.922029+00:00",
+  "generated_at": "2026-08-14T09:48:43.329383+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -48,15 +48,6 @@
       "published": "2026-08-13T04:00:00+00:00"
     },
     {
-      "headline": "Pixel 11's 'HiLight' Notification Light Falls Short",
-      "summary": "The Pixel 11's notification light is a nostalgic feature, but its customization options are limited. Users who crave more control over their notification lights may be disappointed.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://thenewthings.com/p/the-new-pixel-feature-i-want-on-my-iphone?gift_content=e9bf3ebd-db33-4ee5-91b0-84d7acac3263",
-      "source": "Daring Fireball",
-      "published": "2026-08-12T21:23:30+00:00"
-    },
-    {
       "headline": "DeepSeek V4 Pro 0813 Model Released via API",
       "summary": "The latest DeepSeek Pro model is now available, but there's no official announcement page. The model's weights may be released, and benchmarks are available, but only through a WeChat group and Reddit.",
       "category": "Tech/AI",
@@ -73,6 +64,15 @@
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00"
+    },
+    {
+      "headline": "Anthropic Adds Invisible Watermarks to Claude AI Output",
+      "summary": "Anthropic is rolling out watermarking for Claude-generated text by embedding subtle, statistically distinct word choices directly during the generation process. The hidden patterns persist through standard copy-pasting and can be identified by specialized detection tools to curb online spam and assist academic integrity. However, heavy manual rewriting or passing text through secondary AI models can still degrade the watermark's reliability.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T07:15:00Z"
     },
     {
       "headline": "Israel Deploys Reinforcements as Settler Siege Escalates in West Bank Village",
@@ -120,31 +120,22 @@
       "published": "2026-08-12T04:00:00+00:00"
     },
     {
-      "headline": "Putin Visits Disputed Kuril Islands, Provoking Diplomatic Protest From Tokyo",
-      "summary": "Russian President Vladimir Putin made his first official visit to the disputed Kuril Islands, touring a fish plant, hospital, and school on Iturup Island. Japan quickly lodged a formal protest over the trip, reiterating its claim to the four southernmost islands seized by Soviet forces at the end of World War II. The longstanding territorial rift has prevented the two nations from ever signing a formal peace treaty to end wartime hostilities.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest",
-      "source": "NPR News",
-      "published": "2026-08-13T16:40:26+00:00"
-    },
-    {
-      "headline": "Ukrainian Drone Campaign Cripples Crimea’s Infrastructure",
-      "summary": "Ukrainian drones have repeatedly struck the Russian‑occupied peninsula, causing widespread power outages, fuel shortages, and loss of banking and telecom services. Residents describe a near‑total shutdown of daily life, undermining Russia’s control since its 2014 annexation.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
-      "source": "NPR News",
-      "published": "2026-08-13T15:18:27+00:00"
-    },
-    {
-      "headline": "Anthropic Adds Invisible Watermarks to Claude AI Output",
-      "summary": "Anthropic is rolling out watermarking for Claude-generated text by embedding subtle, statistically distinct word choices directly during the generation process. The hidden patterns persist through standard copy-pasting and can be identified by specialized detection tools to curb online spam and assist academic integrity. However, heavy manual rewriting or passing text through secondary AI models can still degrade the watermark's reliability.",
+      "headline": "Anthropic Bars Use of Claude Outputs to Train Competing AI Models",
+      "summary": "Anthropic says users own the text Claude generates, but the company forbids using those outputs to train any model that could compete with its own services. Allowed uses include building niche tools like sentiment classifiers or search utilities, while prohibited activities cover general‑purpose chatbots, open‑ended generators, and reverse‑engineering attempts. The restriction protects safety controls and prevents customers from leveraging Anthropic’s investment to create rival AI.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society/",
+      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T07:15:00Z"
+      "published": "2026-08-13T09:34:13Z"
+    },
+    {
+      "headline": "EU and California Require Invisible Watermarks in AI‑Written Text",
+      "summary": "New regulations in the European Union and California demand that AI‑generated prose be clearly identifiable, prompting providers to embed hidden digital identifiers. Anthropic’s Claude adds a cryptographic tag that survives copy‑paste and limited editing, allowing automated detection even though the watermark isn’t visible to readers. This approach aims to meet legal mandates while keeping the text’s appearance unchanged.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.afterdawn.com/news/article.cfm/2026/08/13/this-is-how-ai-generated-text-is-watermarked",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "August, 13 2026 07:17:43 +0000"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -219,6 +210,15 @@
       "published": "2026-08-13T16:56:18+00:00"
     },
     {
+      "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
+      "summary": "Chase Budinger and Trevor Crabb entered the Manhattan Beach Open as the No. 1 men’s seed, teaming up on U.S. soil for the first time after Budinger’s 2025 win with Miles Evans. The three‑day event features 64 main‑draw teams and a Thursday qualifier that saw 160 pairs vie for 16 spots, with free sand admission. Defending women’s champions Taryn Brasher and Kristen Cruz are the top seed, chasing a historic third straight title.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp/?utm_source=rss&utm_medium=rss&utm_campaign=budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp",
+      "source": "Volleyball Mag",
+      "published": "2026-08-14T07:11:30+00:00"
+    },
+    {
       "headline": "CBS Sports Releases 2026 Fantasy Football Forecasts and Sleepers",
       "summary": "CBS Sports has published its 2026 fantasy football outlook, highlighting projected breakout candidates, sleepers, and potential busts across the league. The rankings are generated by a proprietary analytical model noted for previously predicting Daniel Jones' breakout campaign. The projections aim to guide fantasy managers ahead of the upcoming draft season.",
       "category": "Sports",
@@ -235,15 +235,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-per-model-that-called-terry-mclaurins-down-year/",
       "source": "CBS Sports",
       "published": "2026-08-13T21:24:02+00:00"
-    },
-    {
-      "headline": "NFL Training Camp Injury Tracker Monitors Key Star Availability",
-      "summary": "A centralized tracking report is monitoring notable injuries across NFL training camps as teams prepare for the regular season. Latest health updates cover high-profile players including Christian McCaffrey and Alec Pierce.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
-      "source": "CBS Sports",
-      "published": "2026-08-13T20:29:44+00:00"
     },
     {
       "headline": "fata morgana",
@@ -264,6 +255,15 @@
       "published": "2026-08-14T04:02:00+00:00"
     },
     {
+      "headline": "NFL Training Camp Injury Tracker Monitors Key Star Availability",
+      "summary": "A centralized tracking report is monitoring notable injuries across NFL training camps as teams prepare for the regular season. Latest health updates cover high-profile players including Christian McCaffrey and Alec Pierce.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/",
+      "source": "CBS Sports",
+      "published": "2026-08-13T20:29:44+00:00"
+    },
+    {
       "headline": "Durability Testing Validates Apple's Ceramic Shield 2 on iPhone 17",
       "summary": "Early torture tests show Apple's second-generation Ceramic Shield offers measurable gains in physical resilience for the iPhone 17. The new glass formulation demonstrated improved resistance against scratches, bending stress, and direct drop impacts compared to previous models.",
       "category": "Tech/AI",
@@ -280,15 +280,6 @@
       "url": "https://x.com/googledesign/status/2087195277094695096",
       "source": "Daring Fireball",
       "published": "2026-08-13T01:03:45+00:00"
-    },
-    {
-      "headline": "Google Introduces Camera Looks for Pixel 11 Phones",
-      "summary": "Google has introduced a new feature called Camera Looks, which allows users to apply different styles and effects to their photos. This move is seen as a response to the growing demand for more creative and imperfect photography, rather than flawless and polished images.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography",
-      "source": "Daring Fireball",
-      "published": "2026-08-12T20:58:15+00:00"
     },
     {
       "headline": "sqlite‑utils 4.2.1 Fixes Crash Bug by Adding Proper Dependency Handling and New Isolated Smoke Test",
@@ -435,13 +426,22 @@
       "published": "2026-08-13T04:02:23Z"
     },
     {
-      "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
-      "summary": "Chase Budinger and Trevor Crabb entered the Manhattan Beach Open as the No. 1 men’s seed, teaming up on U.S. soil for the first time after Budinger’s 2025 win with Miles Evans. The three‑day event features 64 main‑draw teams and a Thursday qualifier that saw 160 pairs vie for 16 spots, with free sand admission. Defending women’s champions Taryn Brasher and Kristen Cruz are the top seed, chasing a historic third straight title.",
-      "category": "Sports",
+      "headline": "sqlite-utils 4.2 Adds Robust Transform Feature and Fixes",
+      "summary": "The latest sqlite-utils 4.2 release upgrades the table.transform() command, enabling complex ALTER‑TABLE operations that preserve check constraints, unique constraints, and column comments. New introspection properties expose these constraints, and a host of smaller tweaks improve overall stability. A crash bug discovered in 4.2 was patched in the quick 4.2.1 follow‑up.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://volleyballmag.com/budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp/?utm_source=rss&utm_medium=rss&utm_campaign=budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp",
-      "source": "Volleyball Mag",
-      "published": "2026-08-14T07:11:30+00:00"
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "source": "Simon Willison",
+      "published": "2026-08-13T20:11:29+00:00"
+    },
+    {
+      "headline": "llm‑gemini 0.33 Supports Gemini 3.7 Flash and New Embedding Models",
+      "summary": "The llm‑gemini plugin now works with Google’s Gemini 3.7 Flash, plus earlier 3.6‑flash and 3.5‑flash‑lite models, and adds two fresh embedding endpoints. Compatibility with LLM 0.32 brings reasoning traces and server‑side tool support, though a rendering quirk shows pelican SVGs only in Safari. The update broadens model access while highlighting cross‑browser SVG differences.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "source": "Simon Willison",
+      "published": "2026-08-13T19:37:34+00:00"
     },
     {
       "headline": "Burgas, Bulgaria confirmed as host city for Eurovision 2027",
