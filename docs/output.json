@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:34:15.319976+00:00",
+  "generated_at": "2026-08-14T12:27:01.296660+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -30,6 +30,15 @@
       "published": "2026-06-30T19:46:26+00:00"
     },
     {
+      "headline": "Celtics Swap Jaylen Brown for Paul George, Prioritizing Flexibility in Summer Overhaul",
+      "summary": "Boston sent franchise star Jaylen Brown to the 76ers and brought in Paul George plus draft picks, aiming for a better fit alongside Jayson Tatum and future cap space. The move follows a busy offseason that added veterans Mitchell Robinson and Mike Conley and secured extensions for young pieces, while turning Philadelphia into a hot destination for other free agents.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.celticsblog.com/boston-celtics-discussion-topics/144923/optionality-winning-now-and-the-crossroads-the-celtics-and-red-sox-faced-this-summer",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-13T11:00:00Z"
+    },
+    {
       "headline": "Equipping Kids to Navigate Western Culture Through Faith",
       "summary": "In an interview discussing 'The Gospel Way Catechism for Kids,' authors Trevin Wax and Thomas West address Christian parenting in contemporary society. The resource guides parents in framing modern Western culture as a mission field for young believers. It offers structured religious instruction designed to help children engage thoughtfully with surrounding cultural norms.",
       "category": "Faith",
@@ -48,15 +57,6 @@
       "published": "2026-08-13T04:00:00+00:00"
     },
     {
-      "headline": "DeepSeek V4 Pro 0813 Model Released via API",
-      "summary": "The latest DeepSeek Pro model is now available, but there's no official announcement page. The model's weights may be released, and benchmarks are available, but only through a WeChat group and Reddit.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-      "source": "Simon Willison",
-      "published": "2026-08-12T23:59:23+00:00"
-    },
-    {
       "headline": "OpenAI’s GPT‑5.6 Sol Ultrafast Cuts Inference Time to a Fraction, Beats Claude 5 by 7‑Fold on ‘Humanity’s Last Exam’",
       "summary": "Partnering with Cerebras, OpenAI rolled out an Ultrafast tier for GPT‑5.6 Sol that can output up to 750 tokens per second without quality loss. In tests it completed the 2,500‑question Humanity’s Last Exam in just over 11 hours—about seven times faster than Claude Fable 5—and delivered a 5.6× speedup on economic‑value benchmarks. The service starts with a limited customer set before expanding.",
       "category": "Tech/AI",
@@ -64,15 +64,6 @@
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "source": "Hacker News",
       "published": "2026-08-13T18:10:02+00:00"
-    },
-    {
-      "headline": "Anthropic Bars Use of Claude Outputs to Train Competing AI Models",
-      "summary": "Anthropic says users own the text Claude generates, but the company forbids using those outputs to train any model that could compete with its own services. Allowed uses include building niche tools like sentiment classifiers or search utilities, while prohibited activities cover general‑purpose chatbots, open‑ended generators, and reverse‑engineering attempts. The restriction protects safety controls and prevents customers from leveraging Anthropic’s investment to create rival AI.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T09:34:13Z"
     },
     {
       "headline": "Israel Deploys Reinforcements as Settler Siege Escalates in West Bank Village",
@@ -120,13 +111,31 @@
       "published": "2026-08-12T04:00:00+00:00"
     },
     {
-      "headline": "Celtics Swap Jaylen Brown for Paul George, Prioritizing Flexibility in Summer Overhaul",
-      "summary": "Boston sent franchise star Jaylen Brown to the 76ers and brought in Paul George plus draft picks, aiming for a better fit alongside Jayson Tatum and future cap space. The move follows a busy offseason that added veterans Mitchell Robinson and Mike Conley and secured extensions for young pieces, while turning Philadelphia into a hot destination for other free agents.",
-      "category": "NBA",
+      "headline": "Anthropic aims for $2 trillion IPO, targeting record‑breaking debut",
+      "summary": "Investors expect Claude creator Anthropic to launch an October IPO seeking a valuation of at least $2 trillion, which would eclipse all prior public listings. The move would test the market’s appetite for AI‑driven growth as the company prepares for its biggest public‑market test yet.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.celticsblog.com/boston-celtics-discussion-topics/144923/optionality-winning-now-and-the-crossroads-the-celtics-and-red-sox-faced-this-summer",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-13T11:00:00+00:00"
+      "url": "https://biztoc.com/x/bb7d241c332864ee",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T10:52:44+00:00"
+    },
+    {
+      "headline": "Anthropic backers bet on $2 trillion valuation in October float",
+      "summary": "Backers told the Financial Post that the AI start‑up plans to go public at a $2 trillion-plus valuation, outpacing SpaceX and setting a new IPO record. They cite projected 2026 revenue of $100‑$120 billion—more than tenfold growth—to justify the lofty price, while noting the gamble amid a wary market.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://financialpost.com/financial-times/anthropic-investors-bet-valuation-ipo",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T11:56:22+0000"
+    },
+    {
+      "headline": "U.S. missionary Kevin Rideout freed after nine‑month Niger captivity",
+      "summary": "Kevin Rideout, an American missionary and pilot, was released in Niger after more than nine months in the hands of armed men, likely linked to al‑Qaeda affiliate JNIM. He is now in FBI custody and expected to reunite with his family, though details of the rescue remain undisclosed.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T10:18:02.678Z"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -417,31 +426,22 @@
       "published": "2026-08-13T04:55:58+00:00"
     },
     {
-      "headline": "Chris Paul Eyed for Potential Lakers Role Under Incoming Ownership Group",
-      "summary": "Recently retired NBA star Chris Paul is emerging as a name to watch for a potential front-office or advisory role with the Los Angeles Lakers following Bob Iger and Josh Kushner's $12.5 billion purchase agreement. Paul shares a decade-long friendship with Iger, who has served as a mentor to the former point guard since his playing days with the Clippers. While no formal position has been offered and the team sale still requires league approval, insiders expect the two to hold discussions once the transition progresses.",
+      "headline": "Record rain in Japan’s Chiba kills eight, strands thousands at Narita",
+      "summary": "Unprecedented downpours in Chiba prefecture dumped over 100 mm of rain per hour—about three times the August norm—causing floods, power outages to 20,000 homes, and eight deaths. The deluge forced evacuations, shut highways and rail lines, and left thousands stranded at Narita Airport as emergency warnings were issued.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T04:54:13.284Z"
+    },
+    {
+      "headline": "Victor Wembanyama’s playoff dominance could trigger OKC Thunder’s roster overhaul",
+      "summary": "After Wembanyama outplayed Chet Holmgren in the Spurs‑Thunder series, Oklahoma City may consider trading Holmgren to free up $239 million in cap space. The potential move reflects mounting salary‑cap pressure (“second apron”) and the Thunder’s need to reshape an expensive roster.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-chris-paul-bob-iger-ownership-role/",
+      "url": "https://roundtable.io/sports/nba/spurs/news/victor-wembanyama-could-force-okc-thunder-to-make-massive-trade",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-13T02:33:00Z"
-    },
-    {
-      "headline": "What to Watch in Steelers‑Packers Preseason Opener Under New Coach Mike McCarthy",
-      "summary": "Pittsburgh’s first game of 2026 pits the newly hired Mike McCarthy against Green Bay, with Aaron Rodgers likely sitting. Key storylines include McCarthy’s push for 55 touches per skill player, limited starter snaps, and backups Mason Rudolph, Will Howard and rookie Drew Allar vying for quarterback minutes.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.usatoday.com/story/sports/nfl/steelers/2026/08/13/nfl-preseason-week-1-pittsburgh-steelers-watch-green-bay-packers/91262664007/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-13T10:02:27Z"
-    },
-    {
-      "headline": "Anthropic’s Claude Gains Enterprise Traction Faster Than OpenAI, Yet “Fable 5” Remains Murky",
-      "summary": "Anthropic’s latest Claude 4.5 models, equipped with Structured Outputs and deep integration into AWS Bedrock, are accelerating corporate adoption and reportedly outpacing OpenAI’s uptake. Analysts note a mysterious “Fable 5” reference in usage data, but its exact nature is still unverified.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/anthropic-enterprise-ai-lead-openai-claude/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T10:12:15Z"
+      "published": "2026-08-13T12:25:25.606Z"
     },
     {
       "headline": "Arsenal Begin Talks to Sign Bayer Leverkusen’s Versatile Defender Jarell Quansah",
@@ -450,7 +450,7 @@
       "relevance": 3,
       "url": "https://www.bbc.co.uk/sport/football/articles/c9q92xr0854o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-08-14T10:35:26.014Z"
+      "published": "2026-08-14T10:35:26+00:00"
     }
   ]
 }
