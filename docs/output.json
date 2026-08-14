@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T09:48:43.329383+00:00",
+  "generated_at": "2026-08-14T10:48:52.003927+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -66,13 +66,13 @@
       "published": "2026-08-13T18:10:02+00:00"
     },
     {
-      "headline": "Anthropic Adds Invisible Watermarks to Claude AI Output",
-      "summary": "Anthropic is rolling out watermarking for Claude-generated text by embedding subtle, statistically distinct word choices directly during the generation process. The hidden patterns persist through standard copy-pasting and can be identified by specialized detection tools to curb online spam and assist academic integrity. However, heavy manual rewriting or passing text through secondary AI models can still degrade the watermark's reliability.",
+      "headline": "Anthropic Bars Use of Claude Outputs to Train Competing AI Models",
+      "summary": "Anthropic says users own the text Claude generates, but the company forbids using those outputs to train any model that could compete with its own services. Allowed uses include building niche tools like sentiment classifiers or search utilities, while prohibited activities cover general‑purpose chatbots, open‑ended generators, and reverse‑engineering attempts. The restriction protects safety controls and prevents customers from leveraging Anthropic’s investment to create rival AI.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.forbes.com/sites/lanceeliot/2026/08/13/explaining-anthropics-new-watermarking-of-claude-ai-generated-outputs-and-what-it-signifies-for-society/",
+      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T07:15:00Z"
+      "published": "2026-08-13T09:34:13Z"
     },
     {
       "headline": "Israel Deploys Reinforcements as Settler Siege Escalates in West Bank Village",
@@ -118,24 +118,6 @@
       "url": "https://www.thegospelcoalition.org/article/scripture-memorization-helps-pastor-well/",
       "source": "The Gospel Coalition",
       "published": "2026-08-12T04:00:00+00:00"
-    },
-    {
-      "headline": "Anthropic Bars Use of Claude Outputs to Train Competing AI Models",
-      "summary": "Anthropic says users own the text Claude generates, but the company forbids using those outputs to train any model that could compete with its own services. Allowed uses include building niche tools like sentiment classifiers or search utilities, while prohibited activities cover general‑purpose chatbots, open‑ended generators, and reverse‑engineering attempts. The restriction protects safety controls and prevents customers from leveraging Anthropic’s investment to create rival AI.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T09:34:13Z"
-    },
-    {
-      "headline": "EU and California Require Invisible Watermarks in AI‑Written Text",
-      "summary": "New regulations in the European Union and California demand that AI‑generated prose be clearly identifiable, prompting providers to embed hidden digital identifiers. Anthropic’s Claude adds a cryptographic tag that survives copy‑paste and limited editing, allowing automated detection even though the watermark isn’t visible to readers. This approach aims to meet legal mandates while keeping the text’s appearance unchanged.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.afterdawn.com/news/article.cfm/2026/08/13/this-is-how-ai-generated-text-is-watermarked",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "August, 13 2026 07:17:43 +0000"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -291,13 +273,22 @@
       "published": "2026-08-13T23:53:47+00:00"
     },
     {
-      "headline": "How Gödel's Proof Works (2020)",
-      "summary": "",
+      "headline": "sqlite-utils 4.2 Adds Robust Transform Feature and Fixes",
+      "summary": "The latest sqlite-utils 4.2 release upgrades the table.transform() command, enabling complex ALTER‑TABLE operations that preserve check constraints, unique constraints, and column comments. New introspection properties expose these constraints, and a host of smaller tweaks improve overall stability. A crash bug discovered in 4.2 was patched in the quick 4.2.1 follow‑up.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "source": "Hacker News",
-      "published": "2026-08-13T19:44:46+00:00"
+      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
+      "source": "Simon Willison",
+      "published": "2026-08-13T20:11:29+00:00"
+    },
+    {
+      "headline": "llm‑gemini 0.33 Supports Gemini 3.7 Flash and New Embedding Models",
+      "summary": "The llm‑gemini plugin now works with Google’s Gemini 3.7 Flash, plus earlier 3.6‑flash and 3.5‑flash‑lite models, and adds two fresh embedding endpoints. Compatibility with LLM 0.32 brings reasoning traces and server‑side tool support, though a rendering quirk shows pelican SVGs only in Safari. The update broadens model access while highlighting cross‑browser SVG differences.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
+      "source": "Simon Willison",
+      "published": "2026-08-13T19:37:34+00:00"
     },
     {
       "headline": "New Study Tracks Organizational Adoption Patterns of ChatGPT",
@@ -408,40 +399,49 @@
       "published": "2026-08-13T04:55:58+00:00"
     },
     {
-      "headline": "Steelers Bring Back Veteran Linebacker Elandon Roberts on One-Year Deal",
-      "summary": "The Pittsburgh Steelers have signed free-agent linebacker Elandon Roberts to a one-year contract, reuniting him with his former team after a season with the Las Vegas Raiders. Roberts previously recorded 147 combined tackles and 3.5 sacks across 33 games in Pittsburgh from 2023 to 2024. The move adds proven run defense to the depth chart while pairing Roberts with defensive coordinator Patrick Graham, who coached him in Las Vegas.",
+      "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
+      "summary": "Defensive coordinator Anthony Campanile is fusing Vic Fangio’s split‑field coverage concepts with Brian Flores’ aggressive pressure tactics. The hybrid uses nickel blitzes and fire‑zone routes to generate a relentless pass rush while sealing off deep passing lanes.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://heavy.com/sports/nfl/pittsburgh-steelers/elandon-roberts-nfl-news-free-agency/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-13T04:04:59Z"
+      "url": "https://www.matchquarters.com/p/jaguars-quarters-pressure-package-anthony-campanile",
+      "source": "MatchQuarters",
+      "published": "2026-08-14T10:01:48+00:00"
     },
     {
-      "headline": "Patriots Sign Running Back JaMycal Hasty to One-Year Contract",
-      "summary": "The New England Patriots have signed running back JaMycal Hasty to a one-year deal following a successful workout. The 29-year-old previously spent parts of the last three seasons with the franchise, offering established familiarity on both offense and special teams. Hasty is expected to suit up immediately for New England's preseason opener against the Indianapolis Colts.",
+      "headline": "White House Claims Over 40 Nations Help China Sidestep U.S. Tariffs",
+      "summary": "A new administration report says China has been routing $30‑$300 billion of goods through countries such as Canada, India, Mexico, Japan and South Korea to avoid higher U.S. duties. The White House says the transshipment scheme costs American jobs and revenue, and it is now using AI tools to track the practice ahead of a Trump‑Xi summit.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T03:09:48.308Z"
+    },
+    {
+      "headline": "Anthropic’s Claude Gains Enterprise Traction Faster Than OpenAI, Yet “Fable 5” Remains Murky",
+      "summary": "Anthropic’s latest Claude 4.5 models, equipped with Structured Outputs and deep integration into AWS Bedrock, are accelerating corporate adoption and reportedly outpacing OpenAI’s uptake. Analysts note a mysterious “Fable 5” reference in usage data, but its exact nature is still unverified.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://cryptobriefing.com/anthropic-enterprise-ai-lead-openai-claude/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T10:12:15+00:00"
+    },
+    {
+      "headline": "What to Watch in Steelers‑Packers Preseason Opener Under New Coach Mike McCarthy",
+      "summary": "Pittsburgh’s first game of 2026 pits the newly hired Mike McCarthy against Green Bay, with Aaron Rodgers likely sitting. Key storylines include McCarthy’s push for 55 touches per skill player, limited starter snaps, and backups Mason Rudolph, Will Howard and rookie Drew Allar vying for quarterback minutes.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://heavy.com/sports/nfl/new-england-patriots/patriots-bring-back-veteran-rb-on-1-year-deal-expected-to-play-vs-colts/",
+      "url": "https://www.usatoday.com/story/sports/nfl/steelers/2026/08/13/nfl-preseason-week-1-pittsburgh-steelers-watch-green-bay-packers/91262664007/",
       "source": "NewsAPI:NFL contract",
-      "published": "2026-08-13T04:02:23Z"
+      "published": "2026-08-13T10:02:27Z"
     },
     {
-      "headline": "sqlite-utils 4.2 Adds Robust Transform Feature and Fixes",
-      "summary": "The latest sqlite-utils 4.2 release upgrades the table.transform() command, enabling complex ALTER‑TABLE operations that preserve check constraints, unique constraints, and column comments. New introspection properties expose these constraints, and a host of smaller tweaks improve overall stability. A crash bug discovered in 4.2 was patched in the quick 4.2.1 follow‑up.",
+      "headline": "GLM‑5.3 Sparks Hot Debate on Hacker News Over Its Coding and Cyber Powers",
+      "summary": "The GLM‑5.3 model is drawing attention for its frontier coding abilities and emerging cyber‑security capabilities, earning 518 points and over 200 comments on Hacker News. The discussion highlights both excitement about its technical potential and concerns about misuse.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-      "source": "Simon Willison",
-      "published": "2026-08-13T20:11:29+00:00"
-    },
-    {
-      "headline": "llm‑gemini 0.33 Supports Gemini 3.7 Flash and New Embedding Models",
-      "summary": "The llm‑gemini plugin now works with Google’s Gemini 3.7 Flash, plus earlier 3.6‑flash and 3.5‑flash‑lite models, and adds two fresh embedding endpoints. Compatibility with LLM 0.32 brings reasoning traces and server‑side tool support, though a rendering quirk shows pelican SVGs only in Safari. The update broadens model access while highlighting cross‑browser SVG differences.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-      "source": "Simon Willison",
-      "published": "2026-08-13T19:37:34+00:00"
+      "url": "https://z.ai/blog/glm-5.3",
+      "source": "Hacker News",
+      "published": "2026-08-14T05:19:59+00:00"
     },
     {
       "headline": "Burgas, Bulgaria confirmed as host city for Eurovision 2027",
