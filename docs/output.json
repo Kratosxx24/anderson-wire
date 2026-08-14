@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:03:40.781057+00:00",
+  "generated_at": "2026-08-14T22:34:12.358035+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -192,6 +192,15 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
+      "headline": "CBS Sports Unveils 2026 Fantasy Football Model Projections",
+      "summary": "CBS Sports has released its 2026 fantasy football forecast, relying on the predictive analytical model that previously identified Daniel Jones' breakout campaign. The tool spotlights key sleepers, potential breakout players, and high-risk busts across the league for upcoming fantasy drafts.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-called-daniel-jones-big-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-14T19:48:47+00:00"
+    },
+    {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
       "summary": "In the latest Third Apron episode, salary‑cap analyst Yossi Gozlan and Suns After Dark host Gerald Bourguet break down every Phoenix Suns roster move, weighing contracts against the 2026 cap using capsheets.com data. The podcast, available on all major platforms, also promotes Gozlan’s Substack where listeners can subscribe for detailed cap analysis.",
       "category": "NBA",
@@ -309,6 +318,15 @@
       "published": "2026-08-13T15:46:41+00:00"
     },
     {
+      "headline": "Willison Suggests LLM‑Generated Tags Then Match via Embeddings",
+      "summary": "In a August 14, 2026 blog post, Simon Willison notes his site’s 1,856 tags are too many for a language model to handle directly. He shares Doug Turnbull’s workaround: have the model invent novel tags, then use vector embeddings to find the closest existing tags, streamlining classification without a predefined taxonomy.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "source": "Simon Willison",
+      "published": "2026-08-14T21:54:35+00:00"
+    },
+    {
       "headline": "sqlite‑utils 4.2.1 Fixes Crash Bug by Adding Proper Dependency Handling and New Isolated Smoke Test",
       "summary": "The 4.2.1 release resolves a crash caused by the missing typing‑extensions package, which previously arrived only via dev dependencies. The update introduces a smoke‑test that runs the CLI in an isolated environment, guaranteeing functionality even when default groups are omitted. Developers can verify the fix with `uv run --isolated --no-default-groups sqlite-utils --help`.",
       "category": "Tech/AI",
@@ -424,24 +442,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-14T08:39:46+00:00"
-    },
-    {
-      "headline": "Hurts Looks Faster in Camp, Could Run More in 2026",
-      "summary": "Eagles quarterback Jalen Hurts appeared noticeably quicker during training camp, upping his rushing attempts after posting career‑low rushing totals last season. The uptick hints Philadelphia may lean on his legs more as they head into the 2026 campaign.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.nj.com/eagles/2026/08/jalen-hurts-looks-faster-in-camp-will-the-eagles-qb-run-more-in-2026.html",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-13T20:23:17Z"
-    },
-    {
-      "headline": "Willison Suggests LLM‑Generated Tags Then Match via Embeddings",
-      "summary": "In a August 14, 2026 blog post, Simon Willison notes his site’s 1,856 tags are too many for a language model to handle directly. He shares Doug Turnbull’s workaround: have the model invent novel tags, then use vector embeddings to find the closest existing tags, streamlining classification without a predefined taxonomy.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-      "source": "Simon Willison",
-      "published": "2026-08-14T21:54:35+00:00"
     },
     {
       "headline": "New bounds pin Grothendieck constant’s tenths digit at 7",
