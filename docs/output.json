@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:55:11.126951+00:00",
+  "generated_at": "2026-08-15T13:39:05.519188+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -111,13 +111,13 @@
       "published": "2026-08-15T07:59:42+00:00"
     },
     {
-      "headline": "Apple Blocks Developer After False Match on US Sanctions List",
-      "summary": "Developer Sean Joseph Byrne was denied App Store Connect access after Apple matched his details to a US government sanctions record for a different individual. Despite providing identity documents, Apple failed to resolve the mismatch, exposing flaws in the consolidated screening list used for export controls.",
+      "headline": "ThoughtDAG Turns LLM Context Into an Editable Graph",
+      "summary": "ThoughtDAG lets users view and modify the conversation history of large‑language‑model interactions as a graph, rather than a linear prompt. The tool walks the incoming edges of a node, orders relevant ancestors, and builds the message sequence sent to the model, giving users a preview of what the model will receive and allowing pruning, merging, or branching without overwriting the original path. Available as a web and desktop app for macOS, Windows, and Linux, it ships with a bundled local engine and supports Apple‑Silicon builds.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "url": "https://chenxiachan.github.io/thoughtdag/",
       "source": "Hacker News",
-      "published": "2026-08-15T04:18:44+00:00"
+      "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
@@ -126,7 +126,16 @@
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-15T12:31:55+00:00"
+      "published": "2026-08-15T13:35:57+00:00"
+    },
+    {
+      "headline": "Apple Blocks Developer After False Match on US Sanctions List",
+      "summary": "Developer Sean Joseph Byrne was denied App Store Connect access after Apple matched his details to a US government sanctions record for a different individual. Despite providing identity documents, Apple failed to resolve the mismatch, exposing flaws in the consolidated screening list used for export controls.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "source": "Hacker News",
+      "published": "2026-08-15T04:18:44+00:00"
     },
     {
       "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
@@ -291,31 +300,13 @@
       "published": "2026-08-14T10:49:36Z"
     },
     {
-      "headline": "EU Enforces Watermarking for AI‑Generated Images and Text",
-      "summary": "The EU’s new AI Act requires AI‑generated content to carry verifiable watermarks, forcing companies like Anthropic and OpenAI to embed identifiers. The rule aims to preserve photographic truth and give users clear indication of machine‑created media.",
-      "category": "Tech/AI",
+      "headline": "Celtics Face Fallout of Jaylen Brown Trade, Analysts Issue Bold Predictions",
+      "summary": "The Boston Celtics are reacting to a controversial trade involving star guard Jaylen Brown. Analysts and insiders are making bold predictions about how the move will reshape the team's roster and playoff prospects, sparking debate among fans and commentators about its long‑term impact.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://en.protothema.gr/2026/08/14/new-eu-rules-on-the-use-of-artificial-intelligence-how-ai-generated-images-text-will-be-identified/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T10:47:00Z"
-    },
-    {
-      "headline": "Chinese AI Models Narrow Gap with Anthropic’s Mythos 5 in Cyber‑Defense Tests",
-      "summary": "At ISC.AI 2026, Qihoo 360 and Zhipu AI demonstrated vulnerability‑hunting and benchmark results that bring their models close to Anthropic’s Claude Mythos 5. Qihoo’s suite flagged over 3,400 bugs, while Zhipu’s GLM‑5.2 matched Claude Opus 4.8 in targeted bug‑finding tests, signaling rapid progress in China’s cyber‑AI capabilities.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://cryptobriefing.com/china-ai-mythos-5-cyber-defense/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T10:45:40Z"
-    },
-    {
-      "headline": "ThoughtDAG Turns LLM Context Into an Editable Graph",
-      "summary": "ThoughtDAG lets users view and modify the conversation history of large‑language‑model interactions as a graph, rather than a linear prompt. The tool walks the incoming edges of a node, orders relevant ancestors, and builds the message sequence sent to the model, giving users a preview of what the model will receive and allowing pruning, merging, or branching without overwriting the original path. Available as a web and desktop app for macOS, Windows, and Linux, it ships with a bundled local engine and supports Apple‑Silicon builds.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "source": "Hacker News",
-      "published": "2026-08-15T04:42:07+00:00"
+      "url": "https://www.sportingnews.com/us/nba/boston-celtics/news/celtics-receive-bold-prediction-after-controversial-jaylen-brown-trade/46aaa8e749e03a988cff8326",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T13:37:46+00:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -435,13 +426,22 @@
       "published": "2026-08-14T17:16:15+00:00"
     },
     {
-      "headline": "Road Trips Threaten Celtics’ 50‑Game Season",
-      "summary": "The 2026‑27 Celtics schedule includes several long stretches of travel, including a 5‑game run in eight nights and 16 back‑to‑back games, which could keep the team from reaching a 50‑win season. Despite a strong start and a relatively low mileage ranking, the extended road trips and back‑to‑back sequences may force the Celtics to fall short of the 50‑win mark, even if they maintain a winning record.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.celticsblog.com/celtics-analysis/145076/the-odyssey-several-extended-road-trips-stand-in-the-way-of-50-celtics-wins",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T12:29:00+00:00"
+      "headline": "Official FanDuel League Launch on r/FantasyFootball: $2,800 in Weekly Prizes",
+      "summary": "Reddit’s r/FantasyFootball has announced an official FanDuel league partnership, offering a series of free contests with a total of $2,800 in cash prizes spread over the first 20 weeks. The post outlines posting rules, a player discussion thread guide, and a FAQ wiki for participants, inviting users to join and compete for weekly rewards.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vozxke/official_index_for_all_your_teamleague_questions/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-15T11:01:36+00:00"
+    },
+    {
+      "headline": "Auto-Research with Codex Yields 232× Speedup on GPU QR Kernel",
+      "summary": "In a GPU Mode auto‑research contest, the author used Codex to implement a batched Householder QR factorization kernel, achieving a 232‑fold speedup over the baseline and ranking 12th among 183 entrants. The post details the problem, the techniques used—such as blocked Householder algorithms and idea diversity—and the lessons learned from the competition, serving as a case study in rapid, AI‑driven kernel optimization.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "Hacker News",
+      "published": "2026-08-15T11:00:02+00:00"
     },
     {
       "headline": "Pitchfork Reviews the Genre-Spanning Soundtrack to 'Donkey Kong Bananza'",
