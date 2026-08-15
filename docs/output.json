@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:33:24.547185+00:00",
+  "generated_at": "2026-08-15T14:54:26.949958+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -28,6 +28,15 @@
       "url": "https://www.youtube.com/shorts/DCfhUeYWv9A",
       "source": "The Studio (MKBHD)",
       "published": "2026-06-30T19:46:26+00:00"
+    },
+    {
+      "headline": "SportsLine Newsletter August 15, 2026",
+      "summary": "",
+      "category": "YouTube",
+      "relevance": 10,
+      "url": "https://www.cbssports.com/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T12:52:18+00:00"
     },
     {
       "headline": "Cavaliers trade Dennis Schröder to Hornets, positioning for a bigger future deal",
@@ -111,13 +120,13 @@
       "published": "2026-08-15T12:56:56+00:00"
     },
     {
-      "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
-      "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
+      "headline": "T3X/0: A Tiny, Cross‑Platform Procedural Language for Teaching and Retro Development",
+      "summary": "T3X/0 is a compact, block‑structured language with Pascal‑like syntax and BCPL‑style semantics, released under a public‑domain license. It ships with lightweight editors, a three‑key compiler, and runs on modern Unix, FreeBSD, macOS, DOS, CP/M, and even ARM, making it ideal for educational projects and retro‑style programming.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "url": "https://t3x.org/t3x/0/index.html",
       "source": "Hacker News",
-      "published": "2026-08-15T07:59:42+00:00"
+      "published": "2026-08-15T12:06:24+00:00"
     },
     {
       "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
@@ -127,6 +136,24 @@
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-15T13:35:57+00:00"
+    },
+    {
+      "headline": "Coding With AI Turns Into Leadership, Not Just Programming",
+      "summary": "The author argues that interacting with AI requires the same clarity, context, and iterative guidance as leading a team, rather than treating the model as a deterministic compiler. By framing prompts as collaborative conversations, developers can better align AI output with intent and improve efficiency.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "source": "Hacker News",
+      "published": "2026-08-15T10:39:41+00:00"
+    },
+    {
+      "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
+      "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "source": "Hacker News",
+      "published": "2026-08-15T07:59:42+00:00"
     },
     {
       "headline": "ThoughtDAG Turns LLM Context Into an Editable Graph",
@@ -207,7 +234,7 @@
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-15T09:35:23+00:00"
+      "published": "2026-08-15T14:40:15+00:00"
     },
     {
       "headline": "Afghan Women Describe Life Under Taliban as Unrecognizable Five Years On",
@@ -264,24 +291,6 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
-      "headline": "Anthropic to Watermark Claude Text, EU AI Act Compliance",
-      "summary": "Anthropic will embed invisible watermarks in all Claude‑generated text, including code, to meet EU AI Act disclosure rules. While some users call the move unethical, most see watermarking as a step toward transparency, allowing employers and readers to detect AI‑edited content.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.pcworld.com/article/3212654/watermarking-ai-text-is-the-right-idea-but-it-wont-stop-ai-slop.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T11:15:00Z"
-    },
-    {
-      "headline": "Schneier Urges US Nationalization of OpenAI and Anthropic if Markets Fail",
-      "summary": "Security expert Bruce Schneier argues that if investors undervalue AI labs like OpenAI and Anthropic, the US should seize shares or convert them into national labs to protect public interest. He cites IPO hype, wealth concentration fears, and the risk that market forces may prioritize profit over safety.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T11:04:09Z"
-    },
-    {
       "headline": "AI Prompt Seeks 19th-Century Life Snapshot of Rebecca Spangler",
       "summary": "A user asked an AI to paint a picture of 14‑year‑old Rebecca Spangler living in Mercer County, Pennsylvania in 1846, hoping for details about her daily routine, family, and social context. The request highlights how people use generative models to reconstruct historical lives.",
       "category": "Tech/AI",
@@ -291,22 +300,85 @@
       "published": "2026-08-14T13:05:00Z"
     },
     {
-      "headline": "T3X/0: A Tiny, Cross‑Platform Procedural Language for Teaching and Retro Development",
-      "summary": "T3X/0 is a compact, block‑structured language with Pascal‑like syntax and BCPL‑style semantics, released under a public‑domain license. It ships with lightweight editors, a three‑key compiler, and runs on modern Unix, FreeBSD, macOS, DOS, CP/M, and even ARM, making it ideal for educational projects and retro‑style programming.",
-      "category": "Tech/AI",
+      "headline": "388 years ago, Galileo worked out why human giants can't exist",
+      "summary": "",
+      "category": "Other",
       "relevance": 9,
-      "url": "https://t3x.org/t3x/0/index.html",
+      "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
       "source": "Hacker News",
-      "published": "2026-08-15T12:06:24+00:00"
+      "published": "2026-08-15T13:15:48+00:00"
     },
     {
-      "headline": "Coding With AI Turns Into Leadership, Not Just Programming",
-      "summary": "The author argues that interacting with AI requires the same clarity, context, and iterative guidance as leading a team, rather than treating the model as a deterministic compiler. By framing prompts as collaborative conversations, developers can better align AI output with intent and improve efficiency.",
+      "headline": "Fantasy football rankings 2026: Sleepers, breakouts, busts from model that called Daniel Jones' big year",
+      "summary": "",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-big-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T14:24:32+00:00"
+    },
+    {
+      "headline": "Trace cascading decision failures with a blame graph on Amazon OpenSearch Service",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "url": "https://aws.amazon.com/blogs/big-data/trace-cascading-decision-failures-with-a-blame-graph-on-amazon-opensearch-service/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T07:32:13-07:00"
+    },
+    {
+      "headline": "US AI Labs Cut Prices 25% in 1 Month to Fend Off Chinese Rivals",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-ai-labs-cut-prices-25percent-in-1-month-to-fend-off-chinese-rivals/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T14:07:42+00:00"
+    },
+    {
+      "headline": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "summary": "",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T17:03:17.201Z"
+    },
+    {
+      "headline": "The AI party keeps roaring: Why it won’t end anytime soon",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://siliconangle.com/2026/08/14/ai-party-keeps-roaring-wont-end-anytime-soon/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T09:45:48-04:00"
+    },
+    {
+      "headline": "Brain turns listening inward during REM sleep, EEG recordings suggest",
+      "summary": "",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
       "source": "Hacker News",
-      "published": "2026-08-15T10:06:22Z"
+      "published": "2026-08-15T13:09:28+00:00"
+    },
+    {
+      "headline": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-z-ai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests/articleshow/133242158.cms",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T18:25:42+05:30"
+    },
+    {
+      "headline": "Xorshift Generators",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
+      "source": "Hacker News",
+      "published": "2026-08-15T12:47:52+00:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -379,78 +451,6 @@
       "url": "https://pitchfork.com/reviews/albums/open-mike-eagle-kenny-segal-doomed/",
       "source": "Pitchfork",
       "published": "2026-08-14T04:02:00+00:00"
-    },
-    {
-      "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
-      "summary": "Chase Budinger and Trevor Crabb entered the Manhattan Beach Open as the No. 1 men’s seed, teaming up on U.S. soil for the first time after Budinger’s 2025 win with Miles Evans. The three‑day event features 64 main‑draw teams and a Thursday qualifier that saw 160 pairs vie for 16 spots, with free sand admission. Defending women’s champions Taryn Brasher and Kristen Cruz are the top seed, chasing a historic third straight title.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp/?utm_source=rss&utm_medium=rss&utm_campaign=budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp",
-      "source": "Volleyball Mag",
-      "published": "2026-08-14T07:11:30+00:00"
-    },
-    {
-      "headline": "Progressive Becomes Title Sponsor of AVP League in Biggest Sponsorship Push Yet",
-      "summary": "Progressive Insurance signed a multi‑year title deal for the AVP League and the Manhattan Beach Open, marking the tour’s first title sponsor in years. The partnership arrived alongside seven other blue‑chip brands—including Gatorade, Delta Air Lines and Chevron—signaling a surge in commercial interest as the AVP prepares its 42nd Manhattan Beach Open, touted as the sport’s Wimbledon equivalent.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/progressive-insurance-headlines-avp-s-biggest-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=progressive-insurance-headlines-avp-s-biggest-sponsorship",
-      "source": "Volleyball Mag",
-      "published": "2026-08-14T07:09:52+00:00"
-    },
-    {
-      "headline": "Dave Richard’s TE Tier 3.0: LaPorta, Kraft, Pitts and Kittle in Focus",
-      "summary": "The latest tight‑end tier list advises when to draft Sam LaPorta, Tucker Kraft, Kyle Pitts and veteran George Kittle, weighing upside, role and schedule for fantasy owners.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/tight-end-tiers-fantasy-football-rankings-te-dave-richard-august/",
-      "source": "CBS Sports",
-      "published": "2026-08-14T18:24:39+00:00"
-    },
-    {
-      "headline": "2026.33: The CapEx Train Keeps Rolling",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "source": "Stratechery",
-      "published": "2026-08-14T17:00:00+00:00"
-    },
-    {
-      "headline": "iPhone Camera Lens Covers Are Sapphire, Not Scratch‑Prone Glass",
-      "summary": "The glossy circles on the back of iPhones are protective sapphire covers, not the actual lenses, which sit recessed inside. Sapphire’s hardness makes it virtually immune to scratches—experiments by YouTuber JerryRigEverything show a razor blade can’t mark them, though the material can shatter under extreme force. So everyday placement of the phone face‑down won’t damage the camera’s optics.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance",
-      "source": "Daring Fireball",
-      "published": "2026-08-14T17:16:15+00:00"
-    },
-    {
-      "headline": "Auto-Research with Codex Yields 232× Speedup on GPU QR Kernel",
-      "summary": "In a GPU Mode auto‑research contest, the author used Codex to implement a batched Householder QR factorization kernel, achieving a 232‑fold speedup over the baseline and ranking 12th among 183 entrants. The post details the problem, the techniques used—such as blocked Householder algorithms and idea diversity—and the lessons learned from the competition, serving as a case study in rapid, AI‑driven kernel optimization.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "source": "Hacker News",
-      "published": "2026-08-15T11:00:02+00:00"
-    },
-    {
-      "headline": "Sweeping Promises Push Art‑Punk Boundaries on New Album",
-      "summary": "The Kansas‑by‑way‑of‑Boston duo expands their garage‑rock wall of sound on 'You Say I Romanticize', layering vocals and instrumentation for a denser, more expansive take on their signature punchy style. The album sees lead singer Lira Mondal’s growling vocals added to a lo‑fi fuzz backdrop, creating a broader sonic palette while retaining the band’s core energy.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/sweeping-promises-you-say-i-romanticize/",
-      "source": "Pitchfork",
-      "published": "2026-08-14T04:01:00+00:00"
-    },
-    {
-      "headline": "Mangione Pleads Guilty to Federal Stalking Charges; State Trial Pending",
-      "summary": "Luigi Mangione, charged with the 2024 shooting death of UnitedHealthcare CEO Brian Thompson, admitted guilt to federal stalking charges in Manhattan court, but a separate judge will decide whether his state trial proceeds. Mangione offered no remorse and maintained he knew what he was doing.",
-      "category": "Other",
-      "relevance": 4,
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-      "source": "NPR News",
-      "published": "2026-08-14T12:05:24-04:00"
     }
   ]
 }
