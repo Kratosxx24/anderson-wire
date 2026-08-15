@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T08:03:49.528756+00:00",
+  "generated_at": "2026-08-15T08:41:52.311913+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -126,7 +126,7 @@
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-15T07:22:22+00:00"
+      "published": "2026-08-15T08:21:01+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -219,13 +219,22 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
-      "headline": "Extreme Weather Sweeps Globe: Floods Kill 8 in Japan, Heatwave Sparks Fires Across Europe",
-      "summary": "Record‑breaking rains in eastern Japan caused landslides, power outages and eight fatalities, while more than 100,000 people were ordered to evacuate as floodwaters engulfed 40 % of the region. Simultaneously, Europe endured its fifth summer heatwave, with firefighters from Britain to Croatia battling widespread wildfires.",
-      "category": "World",
+      "headline": "Heat Eyes Kevin Durant in Multi‑Team Trade to Build New Big 3",
+      "summary": "The Miami Heat are exploring a blockbuster deal that would bring Kevin Durant and Kevin Porter Jr. to the franchise, pairing them with Giannis Antetokounmpo and Bam Adebayo. The trade would send the Rockets three pieces—Myles Turner, Andrew Wiggins, Davion Mitchell and a 2027 lottery‑protected pick—to Miami, while the Bucks would receive Daniel Gafford and Fred VanVleet and the Mavericks would get Reed Sheppard. The move aims to add elite scoring and playmaking to a roster that has struggled to find a reliable offensive spark.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
+      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-kevin-durant-trade/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T01:54:31+00:00"
+    },
+    {
+      "headline": "U.S. Missionary Kevin Rideout Released After Niger Kidnapping",
+      "summary": "Kevin Rideout, a U.S. missionary abducted in Niamey on October 21, 2025, was freed on August 14, 2026 and is reported to be in good health under U.S. officials’ care. The Christian NGO SIM International confirmed his release, though the U.S. State Department has yet to issue an official statement. No group claimed responsibility, and details of the release remain undisclosed amid Niger’s ongoing security challenges.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
       "source": "NPR News",
-      "published": "2026-08-14T10:30:17+00:00"
+      "published": "2026-08-14T08:11:50-04:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -244,15 +253,6 @@
       "url": "https://www.cbssports.com/nba/news/nba-basketball-hall-of-fame-tiers-first-ballot-locks/",
       "source": "CBS Sports",
       "published": "2026-08-14T21:35:19+00:00"
-    },
-    {
-      "headline": "Bradley Beal Re‑Signs with Clippers on Two‑Year, $13.2 Million Deal",
-      "summary": "The veteran guard returns to Los Angeles, agreeing to a reported two‑year contract worth $13.2 million, keeping him on the roster as the Clippers chase a deeper playoff run.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.nbcsports.com/nba/news/bradley-beal-re-signs-with-clippers-for-reported-two-years-13-2-million",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T05:50:58Z"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -381,13 +381,13 @@
       "published": "2026-08-13T23:53:47+00:00"
     },
     {
-      "headline": "sqlite-utils 4.2 Adds Robust Transform Feature and Fixes",
-      "summary": "The latest sqlite-utils 4.2 release upgrades the table.transform() command, enabling complex ALTER‑TABLE operations that preserve check constraints, unique constraints, and column comments. New introspection properties expose these constraints, and a host of smaller tweaks improve overall stability. A crash bug discovered in 4.2 was patched in the quick 4.2.1 follow‑up.",
+      "headline": "ThoughtDAG Turns Messy AI Chat Histories into an Editable Graph",
+      "summary": "A new local desktop app called ThoughtDAG replaces linear chatbot interfaces with a visual directed acyclic graph, giving users direct control over what an LLM remembers. Instead of allowing unrelated conversational tangents to pollute downstream prompts, users can branch, prune, and merge specific reasoning paths before sending token payloads. The open tool bundles a local engine across macOS, Windows, and Linux, ensuring data stays strictly on the user's device.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/13/sqlite-utils/",
-      "source": "Simon Willison",
-      "published": "2026-08-13T20:11:29+00:00"
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "source": "Hacker News",
+      "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "headline": "Google is making private AI practical with homomorphic encryption",
@@ -435,13 +435,13 @@
       "published": "2026-08-14T17:03:17+00:00"
     },
     {
-      "headline": "ThoughtDAG Turns Messy AI Chat Histories into an Editable Graph",
-      "summary": "A new local desktop app called ThoughtDAG replaces linear chatbot interfaces with a visual directed acyclic graph, giving users direct control over what an LLM remembers. Instead of allowing unrelated conversational tangents to pollute downstream prompts, users can branch, prune, and merge specific reasoning paths before sending token payloads. The open tool bundles a local engine across macOS, Windows, and Linux, ensuring data stays strictly on the user's device.",
-      "category": "Tech/AI",
+      "headline": "Bradley Beal Re‑Signs with Clippers on Two‑Year, $13.2 Million Deal",
+      "summary": "The veteran guard returns to Los Angeles, agreeing to a reported two‑year contract worth $13.2 million, keeping him on the roster as the Clippers chase a deeper playoff run.",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "source": "Hacker News",
-      "published": "2026-08-15T04:42:07+00:00"
+      "url": "https://www.nbcsports.com/nba/news/bradley-beal-re-signs-with-clippers-for-reported-two-years-13-2-million",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T05:50:58Z"
     },
     {
       "headline": "Pitchfork Reviews the Genre-Spanning Soundtrack to 'Donkey Kong Bananza'",
