@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T12:02:09.453163+00:00",
+  "generated_at": "2026-08-15T12:55:11.126951+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -126,7 +126,7 @@
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-15T11:48:58+00:00"
+      "published": "2026-08-15T12:31:55+00:00"
     },
     {
       "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
@@ -163,6 +163,15 @@
       "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
       "source": "MKBHD",
       "published": "2026-07-27T15:38:21+00:00"
+    },
+    {
+      "headline": "Navigating Literal Versus Symbolic Interpretations of Revelation",
+      "summary": "The Gospel Coalition tackles the long-standing debate over how to properly interpret the apocalyptic imagery in the biblical Book of Revelation. The resource provides guidance for believers aiming to balance literal and symbolic readings of the text responsibly. It offers theological frameworks to help readers understand the prophetic book within its proper biblical and historical context.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/literal-symbolic-reading-revelation/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-14T04:00:00+00:00"
     },
     {
       "headline": "Equipping Kids to Navigate Western Culture Through Faith",
@@ -300,13 +309,13 @@
       "published": "2026-08-14T10:45:40Z"
     },
     {
-      "headline": "Navigating Literal Versus Symbolic Interpretations of Revelation",
-      "summary": "The Gospel Coalition tackles the long-standing debate over how to properly interpret the apocalyptic imagery in the biblical Book of Revelation. The resource provides guidance for believers aiming to balance literal and symbolic readings of the text responsibly. It offers theological frameworks to help readers understand the prophetic book within its proper biblical and historical context.",
-      "category": "Faith",
+      "headline": "ThoughtDAG Turns LLM Context Into an Editable Graph",
+      "summary": "ThoughtDAG lets users view and modify the conversation history of large‑language‑model interactions as a graph, rather than a linear prompt. The tool walks the incoming edges of a node, orders relevant ancestors, and builds the message sequence sent to the model, giving users a preview of what the model will receive and allowing pruning, merging, or branching without overwriting the original path. Available as a web and desktop app for macOS, Windows, and Linux, it ships with a bundled local engine and supports Apple‑Silicon builds.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/literal-symbolic-reading-revelation/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-14T04:00:00+00:00"
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "source": "Hacker News",
+      "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -325,15 +334,6 @@
       "url": "https://www.cbssports.com/nba/news/nba-basketball-hall-of-fame-tiers-first-ballot-locks/",
       "source": "CBS Sports",
       "published": "2026-08-14T21:35:19+00:00"
-    },
-    {
-      "headline": "Six NBA Players Poised for Breakout 2026‑27 Season",
-      "summary": "Sporting News names Austin Reaves, Matas Buzelis, Dylan Harper, and three others as top breakout prospects, citing improved roles and recent performance spikes. Analysts predict these players could see significant jumps in minutes, points, and overall impact in the upcoming season.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.sportingnews.com/us/nba/news/nba-breakout-candidates-2026-27-austin-reaves-matas-buzelis/4ad9154e223c8128ae929163",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T11:00:01Z"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -435,13 +435,13 @@
       "published": "2026-08-14T17:16:15+00:00"
     },
     {
-      "headline": "Google’s Material 3 Expressive Design Criticized as Over‑Documented",
-      "summary": "Google’s new Material 3 Expressive system is backed by 46 research studies involving over 18,000 participants, aiming to inject emotion into UI through color, shape, and motion. Critics argue the extensive write‑up feels excessive, dubbing it 93.3 % embarrassing.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://design.google/library/expressive-material-design-google-research",
-      "source": "Daring Fireball",
-      "published": "2026-08-14T16:33:55+00:00"
+      "headline": "Road Trips Threaten Celtics’ 50‑Game Season",
+      "summary": "The 2026‑27 Celtics schedule includes several long stretches of travel, including a 5‑game run in eight nights and 16 back‑to‑back games, which could keep the team from reaching a 50‑win season. Despite a strong start and a relatively low mileage ranking, the extended road trips and back‑to‑back sequences may force the Celtics to fall short of the 50‑win mark, even if they maintain a winning record.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.celticsblog.com/celtics-analysis/145076/the-odyssey-several-extended-road-trips-stand-in-the-way-of-50-celtics-wins",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T12:29:00+00:00"
     },
     {
       "headline": "Pitchfork Reviews the Genre-Spanning Soundtrack to 'Donkey Kong Bananza'",
