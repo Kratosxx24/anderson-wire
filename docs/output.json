@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:52:12.710242+00:00",
+  "generated_at": "2026-08-15T12:02:09.453163+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -93,31 +93,31 @@
       "published": "2026-08-14T18:07:08+00:00"
     },
     {
-      "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
-      "summary": "Anthropic’s Lydia Hallie outlines practical habits—clearing context between tasks, setting model and effort levels upfront, using @‑mentions for files, running /context once, and summarizing with /compact—to reduce unnecessary token usage and get more value from Claude Code sessions.",
+      "headline": "Debian Opens Vote on Future of AI/LLM Contributions",
+      "summary": "Debian’s community has launched a formal voting process to decide how to handle contributions from AI and large language model tools. The vote will set guidelines on accepting AI‑generated code, balancing productivity gains against quality and security concerns.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
       "source": "Hacker News",
-      "published": "2026-08-14T16:15:21+00:00"
+      "published": "2026-08-15T09:20:07+00:00"
     },
     {
-      "headline": "Anthropic to Watermark Claude Text, EU AI Act Compliance",
-      "summary": "Anthropic will embed invisible watermarks in all Claude‑generated text, including code, to meet EU AI Act disclosure rules. While some users call the move unethical, most see watermarking as a step toward transparency, allowing employers and readers to detect AI‑edited content.",
+      "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
+      "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.pcworld.com/article/3212654/watermarking-ai-text-is-the-right-idea-but-it-wont-stop-ai-slop.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T11:15:00Z"
+      "url": "https://uecker.codeberg.page/2026-07-14.html",
+      "source": "Hacker News",
+      "published": "2026-08-15T07:59:42+00:00"
     },
     {
-      "headline": "QCon Talk: Why 300 Tokens Outperform 100k in AI Context Engineering",
-      "summary": "Baruch Sadogursky and Patrick Debois explain that bloated prompt windows hurt agent performance, and propose techniques like lazy‑loaded skills, versioned context, and external memory banks. The session highlighted practical fixes to keep AI agents efficient and reliable.",
+      "headline": "Apple Blocks Developer After False Match on US Sanctions List",
+      "summary": "Developer Sean Joseph Byrne was denied App Store Connect access after Apple matched his details to a US government sanctions record for a different individual. Despite providing identity documents, Apple failed to resolve the mismatch, exposing flaws in the consolidated screening list used for export controls.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.infoq.com/presentations/architecture-context-engineering/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T11:00:00Z"
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "source": "Hacker News",
+      "published": "2026-08-15T04:18:44+00:00"
     },
     {
       "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
@@ -127,6 +127,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-15T11:48:58+00:00"
+    },
+    {
+      "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
+      "summary": "Anthropic’s Lydia Hallie outlines practical habits—clearing context between tasks, setting model and effort levels upfront, using @‑mentions for files, running /context once, and summarizing with /compact—to reduce unnecessary token usage and get more value from Claude Code sessions.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "source": "Hacker News",
+      "published": "2026-08-14T16:15:21+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -201,6 +210,15 @@
       "published": "2026-08-14T16:28:59+00:00"
     },
     {
+      "headline": "7.7‑Magnitude Quake Off Indonesia Kills 38, Triggers Tsunami Warning",
+      "summary": "A powerful 7.7‑magnitude earthquake struck the Flores region early Saturday, killing at least 38 people and damaging buildings. Authorities issued a tsunami warning that was later lifted after no significant sea‑level rise was detected.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "source": "NPR News",
+      "published": "2026-08-15T08:29:20+00:00"
+    },
+    {
       "headline": "Clint Smith Says America Misreads Slavery’s Legacy",
       "summary": "On Fresh Air, poet‑author Clint Smith discusses his books ‘How the Word Is Passed’ and ‘Above Ground,’ using poetry to confront the enduring impact of slavery on descendants. He argues that mainstream narratives often downplay the continuity of oppression, urging a more honest historical reckoning.",
       "category": "World",
@@ -228,13 +246,13 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
-      "headline": "Debian Opens Vote on Future of AI/LLM Contributions",
-      "summary": "Debian’s community has launched a formal voting process to decide how to handle contributions from AI and large language model tools. The vote will set guidelines on accepting AI‑generated code, balancing productivity gains against quality and security concerns.",
+      "headline": "Anthropic to Watermark Claude Text, EU AI Act Compliance",
+      "summary": "Anthropic will embed invisible watermarks in all Claude‑generated text, including code, to meet EU AI Act disclosure rules. While some users call the move unethical, most see watermarking as a step toward transparency, allowing employers and readers to detect AI‑edited content.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T09:20:07+00:00"
+      "url": "https://www.pcworld.com/article/3212654/watermarking-ai-text-is-the-right-idea-but-it-wont-stop-ai-slop.html",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T11:15:00Z"
     },
     {
       "headline": "Schneier Urges US Nationalization of OpenAI and Anthropic if Markets Fail",
@@ -243,16 +261,16 @@
       "relevance": 9,
       "url": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T11:03:50+00:00"
+      "published": "2026-08-14T11:04:09Z"
     },
     {
-      "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
-      "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
+      "headline": "QCon Talk: Why 300 Tokens Outperform 100k in AI Context Engineering",
+      "summary": "Baruch Sadogursky and Patrick Debois explain that bloated prompt windows hurt agent performance, and propose techniques like lazy‑loaded skills, versioned context, and external memory banks. The session highlighted practical fixes to keep AI agents efficient and reliable.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T07:59:42+00:00"
+      "url": "https://www.infoq.com/presentations/architecture-context-engineering/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T11:00:00Z"
     },
     {
       "headline": "AI Firms Warn of Risks While Selling Safeguards, Raising Governance Questions",
@@ -261,25 +279,7 @@
       "relevance": 9,
       "url": "https://www.business-standard.com/technology/artificial-intelligence/agi-safety-paradox-ai-firms-warn-danger-offer-models-manage-it-126081401290_1.html",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T16:19:36+05:30"
-    },
-    {
-      "headline": "Apple Blocks Developer After False Match on US Sanctions List",
-      "summary": "Developer Sean Joseph Byrne was denied App Store Connect access after Apple matched his details to a US government sanctions record for a different individual. Despite providing identity documents, Apple failed to resolve the mismatch, exposing flaws in the consolidated screening list used for export controls.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "source": "Hacker News",
-      "published": "2026-08-15T04:18:44+00:00"
-    },
-    {
-      "headline": "7.7‑Magnitude Quake Off Indonesia Kills 38, Triggers Tsunami Warning",
-      "summary": "A powerful 7.7‑magnitude earthquake struck the Flores region early Saturday, killing at least 38 people and damaging buildings. Authorities issued a tsunami warning that was later lifted after no significant sea‑level rise was detected.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
-      "source": "NPR News",
-      "published": "2026-08-15T04:29:20-04:00"
+      "published": "2026-08-14T10:49:36Z"
     },
     {
       "headline": "EU Enforces Watermarking for AI‑Generated Images and Text",
@@ -288,7 +288,7 @@
       "relevance": 9,
       "url": "https://en.protothema.gr/2026/08/14/new-eu-rules-on-the-use-of-artificial-intelligence-how-ai-generated-images-text-will-be-identified/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T10:47:00+00:00"
+      "published": "2026-08-14T10:47:00Z"
     },
     {
       "headline": "Chinese AI Models Narrow Gap with Anthropic’s Mythos 5 in Cyber‑Defense Tests",
@@ -297,7 +297,16 @@
       "relevance": 9,
       "url": "https://cryptobriefing.com/china-ai-mythos-5-cyber-defense/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T10:45:40+00:00"
+      "published": "2026-08-14T10:45:40Z"
+    },
+    {
+      "headline": "Navigating Literal Versus Symbolic Interpretations of Revelation",
+      "summary": "The Gospel Coalition tackles the long-standing debate over how to properly interpret the apocalyptic imagery in the biblical Book of Revelation. The resource provides guidance for believers aiming to balance literal and symbolic readings of the text responsibly. It offers theological frameworks to help readers understand the prophetic book within its proper biblical and historical context.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/literal-symbolic-reading-revelation/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-14T04:00:00+00:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -433,15 +442,6 @@
       "url": "https://design.google/library/expressive-material-design-google-research",
       "source": "Daring Fireball",
       "published": "2026-08-14T16:33:55+00:00"
-    },
-    {
-      "headline": "Willison Suggests LLM‑Generated Tags Then Match via Embeddings",
-      "summary": "In a August 14, 2026 blog post, Simon Willison notes his site’s 1,856 tags are too many for a language model to handle directly. He shares Doug Turnbull’s workaround: have the model invent novel tags, then use vector embeddings to find the closest existing tags, streamlining classification without a predefined taxonomy.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-      "source": "Simon Willison",
-      "published": "2026-08-14T21:54:35+00:00"
     },
     {
       "headline": "Pitchfork Reviews the Genre-Spanning Soundtrack to 'Donkey Kong Bananza'",
