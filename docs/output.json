@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:38:07.929683+00:00",
+  "generated_at": "2026-08-15T08:03:49.528756+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -129,6 +129,33 @@
       "published": "2026-08-15T07:22:22+00:00"
     },
     {
+      "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
+      "summary": "Marques Brownlee shares initial hands-on reactions to Google's refreshed hardware portfolio, spanning the Pixel 11, 11 Pro, and new Fold. The overview assesses whether Google's iterative updates and software features offer meaningful progress.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "source": "MKBHD",
+      "published": "2026-08-12T14:00:35+00:00"
+    },
+    {
+      "headline": "Samsung Galaxy Z Fold 8 Review: The Realities of Daily Folding",
+      "summary": "Marques Brownlee delivers a long-term verdict on Samsung's Galaxy Z Fold 8 once the initial novelty has worn off. The review weighs ongoing hardware trade-offs and durability against the practical utility of the folding form factor.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "source": "MKBHD",
+      "published": "2026-08-01T00:05:00+00:00"
+    },
+    {
+      "headline": "Framework Laptop 13 Pro Proves Modular Computing Is Here to Stay",
+      "summary": "Marques Brownlee reviews the Framework Laptop 13 Pro, highlighting significant strides in modular, repairable personal computing. The assessment focuses on whether the laptop delivers mainstream performance and polish without sacrificing user-swappable components.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
+      "source": "MKBHD",
+      "published": "2026-07-27T15:38:21+00:00"
+    },
+    {
       "headline": "Equipping Kids to Navigate Western Culture Through Faith",
       "summary": "In an interview discussing 'The Gospel Way Catechism for Kids,' authors Trevin Wax and Thomas West address Christian parenting in contemporary society. The resource guides parents in framing modern Western culture as a mission field for young believers. It offers structured religious instruction designed to help children engage thoughtfully with surrounding cultural norms.",
       "category": "Faith",
@@ -199,33 +226,6 @@
       "url": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
       "source": "NPR News",
       "published": "2026-08-14T10:30:17+00:00"
-    },
-    {
-      "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
-      "summary": "Marques Brownlee shares initial hands-on reactions to Google's refreshed hardware portfolio, spanning the Pixel 11, 11 Pro, and new Fold. The overview assesses whether Google's iterative updates and software features offer meaningful progress.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "source": "MKBHD",
-      "published": "2026-08-12T14:00:35+00:00"
-    },
-    {
-      "headline": "Samsung Galaxy Z Fold 8 Review: The Realities of Daily Folding",
-      "summary": "Marques Brownlee delivers a long-term verdict on Samsung's Galaxy Z Fold 8 once the initial novelty has worn off. The review weighs ongoing hardware trade-offs and durability against the practical utility of the folding form factor.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "source": "MKBHD",
-      "published": "2026-08-01T00:05:00+00:00"
-    },
-    {
-      "headline": "Framework Laptop 13 Pro Proves Modular Computing Is Here to Stay",
-      "summary": "Marques Brownlee reviews the Framework Laptop 13 Pro, highlighting significant strides in modular, repairable personal computing. The assessment focuses on whether the laptop delivers mainstream performance and polish without sacrificing user-swappable components.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "source": "MKBHD",
-      "published": "2026-07-27T15:38:21+00:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -390,15 +390,6 @@
       "published": "2026-08-13T20:11:29+00:00"
     },
     {
-      "headline": "llm‑gemini 0.33 Supports Gemini 3.7 Flash and New Embedding Models",
-      "summary": "The llm‑gemini plugin now works with Google’s Gemini 3.7 Flash, plus earlier 3.6‑flash and 3.5‑flash‑lite models, and adds two fresh embedding endpoints. Compatibility with LLM 0.32 brings reasoning traces and server‑side tool support, though a rendering quirk shows pelican SVGs only in Safari. The update broadens model access while highlighting cross‑browser SVG differences.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/13/llm-gemini/",
-      "source": "Simon Willison",
-      "published": "2026-08-13T19:37:34+00:00"
-    },
-    {
       "headline": "Google is making private AI practical with homomorphic encryption",
       "summary": "",
       "category": "Tech/AI",
@@ -444,13 +435,22 @@
       "published": "2026-08-14T17:03:17+00:00"
     },
     {
-      "headline": "Rare Lone Northern Gannet Sighted at California's Pillar Point Harbor",
-      "summary": "Simon Willison documented a sighting of Morris, a local celebrity and the only known Northern Gannet inhabiting the entire Pacific Ocean. Having arrived in the region 14 years ago, the white-bodied, yellow-headed bird now regularly roams Pillar Point Harbor alongside local cormorants.",
+      "headline": "ThoughtDAG Turns Messy AI Chat Histories into an Editable Graph",
+      "summary": "A new local desktop app called ThoughtDAG replaces linear chatbot interfaces with a visual directed acyclic graph, giving users direct control over what an LLM remembers. Instead of allowing unrelated conversational tangents to pollute downstream prompts, users can branch, prune, and merge specific reasoning paths before sending token payloads. The open tool bundles a local engine across macOS, Windows, and Linux, ensuring data stays strictly on the user's device.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://chenxiachan.github.io/thoughtdag/",
+      "source": "Hacker News",
+      "published": "2026-08-15T04:42:07+00:00"
+    },
+    {
+      "headline": "Pitchfork Reviews the Genre-Spanning Soundtrack to 'Donkey Kong Bananza'",
+      "summary": "Nintendo has officially released the standalone soundtrack for 'Donkey Kong Bananza,' the critically acclaimed 3D platformer that reinvented the classic ape franchise. Spearheaded by 'Super Mario Odyssey' composer Naoto Kubo, the album blends Pop and R&B into a dynamic, genre-hopping score that drove the game's music-centric narrative. The release pays homage to the series' iconic audio legacy while pushing DK's musical identity firmly into modern territory.",
       "category": "Other",
-      "relevance": 1,
-      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
-      "source": "Simon Willison",
-      "published": "2026-08-15T03:22:00+00:00"
+      "relevance": 2,
+      "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
+      "source": "Pitchfork",
+      "published": "2026-08-15T04:00:00+00:00"
     }
   ]
 }
