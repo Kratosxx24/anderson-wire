@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:55:12.219078+00:00",
+  "generated_at": "2026-08-15T01:45:14.918438+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -91,15 +91,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/jacob-gibbs-rankings-fantasy-football-2026-half-ppr/",
       "source": "CBS Sports",
       "published": "2026-08-14T18:07:08+00:00"
-    },
-    {
-      "headline": "New Verifier Flags Over Half of LLM‑Generated GPU Kernels as Incorrect",
-      "summary": "Researchers introduced a contract‑grade verifier with twelve adversarial checks that audited 2,638 machine‑generated kernels, discovering 39.5% were fundamentally broken and 62.1% violated at least one contract. The standard single‑shape test had mistakenly approved 1,487 of these, while the verifier only rejected 14 that the test accepted, underscoring the need for tolerance‑free contracts.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://arxiv.org/abs/2608.12700",
-      "source": "Hacker News",
-      "published": "2026-08-14T16:57:14+00:00"
     },
     {
       "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
@@ -210,6 +201,42 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
+      "headline": "Anthropic Backers Eye $2 Trillion Valuation for October IPO",
+      "summary": "Investors in AI developer Anthropic are setting an unprecedented $2 trillion target ahead of an anticipated October public offering. Roughly half a dozen backers confirmed the aggressive valuation goal to the Financial Times. If achieved, the offering would establish a record-breaking market capitalization for a newly public tech company.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://biztoc.com/x/bff088b7485f0f7c",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T01:21:18+00:00"
+    },
+    {
+      "headline": "How Model-Level Watermarking Leaves Invisible Signatures in AI Text",
+      "summary": "AI developers like Google and Anthropic are embedding invisible, copy-proof watermarks into generated text without relying on traditional metadata. Instead of modifying characters, the technology uses a secret mathematical key to gently bias the statistical word choices a model selects mid-sentence. Anthropic implemented the technique across new Claude models in August 2026, following Google's rollout in Gemini.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://declaude.org/watermarking/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T23:16:55Z"
+    },
+    {
+      "headline": "Anthropic Backers Target Massive $2 Trillion Valuation",
+      "summary": "Financial backers of Claude developer Anthropic are setting sights on a massive $2 trillion valuation. The ambitious figure highlights the sky-high financial expectations surrounding top-tier artificial intelligence labs.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://gizmodo.com/anthropic-investors-thinks-its-worth-2-trillion-2000798509",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T23:05:12Z"
+    },
+    {
+      "headline": "Google Debuts Gemini 3.7 Flash with Major Upgrades in Coding and Agent Workflows",
+      "summary": "Google launched Gemini 3.7 Flash just three weeks after its previous release, adding a 1-million-token context window and 64,000-token output capacity. The model outperformed Claude Sonnet 5 and GPT-5.6 Terra across nine evaluations, including the 100-task FrontierCode benchmark and the GDP.pdf document test. Google highlighted significant improvements in user interface generation and multi-step planning for autonomous agent systems.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-13T19:00:35-04:00"
+    },
+    {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
       "summary": "In the latest Third Apron episode, salary‑cap analyst Yossi Gozlan and Suns After Dark host Gerald Bourguet break down every Phoenix Suns roster move, weighing contracts against the 2026 cap using capsheets.com data. The podcast, available on all major platforms, also promotes Gozlan’s Substack where listeners can subscribe for detailed cap analysis.",
       "category": "NBA",
@@ -255,24 +282,6 @@
       "published": "2026-08-14T18:35:19+00:00"
     },
     {
-      "headline": "CBS Sports Unveils 2026 Fantasy Football Model Projections",
-      "summary": "CBS Sports has released its algorithmic fantasy football forecast, highlighting potential breakout stars, sleepers, and busts for the 2026 campaign. The projection model, which accurately predicted Daniel Jones' breakout season, aims to help fantasy managers pinpoint market inefficiencies and avoid overvalued picks.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-big-year/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-13T21:26:43Z"
-    },
-    {
-      "headline": "2026.33: The CapEx Train Keeps Rolling",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "source": "Stratechery",
-      "published": "2026-08-14T17:00:00+00:00"
-    },
-    {
       "headline": "fata morgana",
       "summary": "",
       "category": "Music",
@@ -307,6 +316,15 @@
       "url": "https://volleyballmag.com/progressive-insurance-headlines-avp-s-biggest-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=progressive-insurance-headlines-avp-s-biggest-sponsorship",
       "source": "Volleyball Mag",
       "published": "2026-08-14T07:09:52+00:00"
+    },
+    {
+      "headline": "2026.33: The CapEx Train Keeps Rolling",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
+      "source": "Stratechery",
+      "published": "2026-08-14T17:00:00+00:00"
     },
     {
       "headline": "Google’s Material 3 Expressive Design Criticized as Over‑Documented",
@@ -363,15 +381,6 @@
       "published": "2026-08-13T19:37:34+00:00"
     },
     {
-      "headline": "LuaCAD Brings Parametric CAD Scripting to Lua with Rust Engine",
-      "summary": "LuaCAD lets users write parametric 2D and 3D models in Lua, exporting to formats like STL and 3MF, and offers a GUI preview via luacad‑studio. The tool embeds Lua 5.4 in a Rust backend, supporting operator overloading and OpenSCAD compatibility.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://luacad.ad-si.com",
-      "source": "Hacker News",
-      "published": "2026-08-14T16:43:22+00:00"
-    },
-    {
       "headline": "Google is making private AI practical with homomorphic encryption",
       "summary": "",
       "category": "Tech/AI",
@@ -426,22 +435,13 @@
       "published": "2026-08-14T17:03:17+00:00"
     },
     {
-      "headline": "Record rain in Japan’s Chiba kills eight, strands thousands at Narita",
-      "summary": "Unprecedented downpours in Chiba prefecture dumped over 100 mm of rain per hour—about three times the August norm—causing floods, power outages to 20,000 homes, and eight deaths. The deluge forced evacuations, shut highways and rail lines, and left thousands stranded at Narita Airport as emergency warnings were issued.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T10:36:14+00:00"
-    },
-    {
-      "headline": "Canva Cuts 2026 Growth Target by One‑Third, Jeff Dean Exits Google, Elon Musk Launches Own Chip Fab",
-      "summary": "Canva announced it will trim its 2026 growth outlook by roughly 33%, signaling a slowdown in its expansion plans. Google’s AI chief Jeff Dean has left the company after a decade‑plus tenure to pursue new ventures. Meanwhile, Elon Musk disclosed plans to build a private semiconductor fabrication plant, aiming to secure supply for his hardware ambitions. All three moves were highlighted in the 20VC × SaaStr discussion.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T23:32:55Z"
+      "headline": "NFL Preseason Week 1: Best Bets and Odds for Friday's Slate",
+      "summary": "CBS Sports has published its betting lines and expert picks for the Friday slate of NFL preseason Week 1 matchups. Analysis for the August 14 games highlights the New York Jets as a primary wager recommendation.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/2026-nfl-preseason-week-1-nfl-odds-lines-picks-today-expert-backs-jets-in-friday-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-08-14T19:29:56+00:00"
     },
     {
       "headline": "New bounds pin Grothendieck constant’s tenths digit at 7",
