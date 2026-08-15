@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:51:45.086148+00:00",
+  "generated_at": "2026-08-15T18:04:15.702174+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -183,6 +183,15 @@
       "published": "2026-08-15T12:47:52+00:00"
     },
     {
+      "headline": "Developer Leverages Codex Auto-Research Loops to Speed Up GPU Kernel 232x",
+      "summary": "Software engineer Sankalp utilized Codex-driven automated research loops to optimize batched compact-Householder QR decomposition kernels, finishing 12th out of 183 competitors in GPU Mode's competition. The iterative optimization approach delivered a 232x speedup over the baseline solution across matrix dimensions scaling up to 4096. The process demonstrated how pairing LLMs with automated benchmarking loops can rapidly navigate complex CUDA performance bottlenecks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "Hacker News",
+      "published": "2026-08-15T11:00:02+00:00"
+    },
+    {
       "headline": "Coding With AI Turns Into Leadership, Not Just Programming",
       "summary": "The author argues that interacting with AI requires the same clarity, context, and iterative guidance as leading a team, rather than treating the model as a deterministic compiler. By framing prompts as collaborative conversations, developers can better align AI output with intent and improve efficiency.",
       "category": "Tech/AI",
@@ -199,15 +208,6 @@
       "url": "https://uecker.codeberg.page/2026-07-14.html",
       "source": "Hacker News",
       "published": "2026-08-15T07:59:42+00:00"
-    },
-    {
-      "headline": "ThoughtDAG Turns LLM Context Into an Editable Graph",
-      "summary": "ThoughtDAG lets users view and modify the conversation history of large‑language‑model interactions as a graph, rather than a linear prompt. The tool walks the incoming edges of a node, orders relevant ancestors, and builds the message sequence sent to the model, giving users a preview of what the model will receive and allowing pruning, merging, or branching without overwriting the original path. Available as a web and desktop app for macOS, Windows, and Linux, it ships with a bundled local engine and supports Apple‑Silicon builds.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "source": "Hacker News",
-      "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "headline": "Apple Blocks Developer After False Match on US Sanctions List",
@@ -381,31 +381,13 @@
       "published": "2026-08-14T14:57:16Z"
     },
     {
-      "headline": "EEG Data Suggests Brain Directs Auditory Focus Inward During REM Sleep",
-      "summary": "New EEG recordings indicate that the brain shifts its auditory processing inward rather than tuning into external sounds during REM sleep. The findings suggest the dreaming brain dampens outside sensory inputs to prioritize internal activity.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T13:09:28+00:00"
-    },
-    {
-      "headline": "Developer Leverages Codex Auto-Research Loops to Speed Up GPU Kernel 232x",
-      "summary": "Software engineer Sankalp utilized Codex-driven automated research loops to optimize batched compact-Householder QR decomposition kernels, finishing 12th out of 183 competitors in GPU Mode's competition. The iterative optimization approach delivered a 232x speedup over the baseline solution across matrix dimensions scaling up to 4096. The process demonstrated how pairing LLMs with automated benchmarking loops can rapidly navigate complex CUDA performance bottlenecks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "source": "Hacker News",
-      "published": "2026-08-15T11:00:02+00:00"
-    },
-    {
-      "headline": "NBA Schedules, Coaching Moves, and Key Insights: Basketball Intelligence 8/14/26",
-      "summary": "The latest Basketball Intelligence newsletter breaks down team‑specific schedules—from the Hawks’ tough start to the Bulls’ early season plans—while spotlighting coaching milestones like Doc Rivers’ Hall of Fame induction and player performances across the league. It also offers analysis on upcoming matchups and strategic trends.",
+      "headline": "Warriors Eye $165M Jimmy Butler Trade in 8‑Player Mega Deal",
+      "summary": "Golden State is reportedly lining up a blockbuster swap that would send guard Jimmy Butler to the franchise for a $165 million cap hit. The deal would also feature a two‑time NBA blocks leader and involve eight players, signaling a major roster overhaul for the Warriors.",
       "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-14T17:43:32+00:00"
+      "relevance": 9,
+      "url": "https://www.sportingnews.com/us/nba/news/warriors-predicted-trade-jimmy-butler-165m-two-time-nba-blocks-leader-8-player-mega-deal/60770e0f41112f8591f8dc3d",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T16:17:35+00:00"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -435,6 +417,24 @@
       "published": "2026-08-14T07:11:30+00:00"
     },
     {
+      "headline": "NBA Schedules, Coaching Moves, and Key Insights: Basketball Intelligence 8/14/26",
+      "summary": "The latest Basketball Intelligence newsletter breaks down team‑specific schedules—from the Hawks’ tough start to the Bulls’ early season plans—while spotlighting coaching milestones like Doc Rivers’ Hall of Fame induction and player performances across the league. It also offers analysis on upcoming matchups and strategic trends.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-14T17:43:32+00:00"
+    },
+    {
+      "headline": "2026 Fantasy Football Rankings Spotlight McMillan’s Breakout Models",
+      "summary": "CBS Sports unveiled its 2026 fantasy football rankings, highlighting the models that predicted a huge season for quarterback McMillan. The rankings spotlight breakout players and offer insights for managers looking to capitalize on emerging talent.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T17:02:10+00:00"
+    },
+    {
       "headline": "Donkey Kong Bananza",
       "summary": "",
       "category": "Music",
@@ -450,7 +450,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-14T13:18:08.758Z"
+      "published": "2026-08-14T13:18:08+00:00"
     }
   ]
 }
