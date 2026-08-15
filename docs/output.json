@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:31:14.477191+00:00",
+  "generated_at": "2026-08-15T17:51:45.086148+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -165,6 +165,15 @@
       "published": "2026-08-15T13:35:57+00:00"
     },
     {
+      "headline": "Can a Computer Scientist Program a Brain?",
+      "summary": "The article explores whether a computer scientist could write a genome‑sized program that builds a brain, arguing that developmental constraints force solutions similar to biological ones. It examines scaling from C. elegans to humans and suggests that computational necessity may explain neural development.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "source": "Hacker News",
+      "published": "2026-08-15T13:26:28+00:00"
+    },
+    {
       "headline": "Xorshift Generators",
       "summary": "",
       "category": "Tech/AI",
@@ -262,6 +271,15 @@
       "url": "https://www.thegospelcoalition.org/article/pain-blessing-hard-adoptions/",
       "source": "The Gospel Coalition",
       "published": "2026-08-13T04:00:00+00:00"
+    },
+    {
+      "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
+      "summary": "Eleven people died in Israeli airstrikes on southern Lebanon, including three children and two women, marking one of the deadliest days since a June ceasefire agreement. Lebanese officials say the strikes hit a house near Ansar and the town of Deir al-Zahrani, while Israel claims it targeted a Hezbollah commander and his associates. Prime Minister Nawaf Salam condemned the attacks, calling the civilians \"not military infrastructure.\"",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T16:02:49+00:00"
     },
     {
       "headline": "South Korea Calls for Talks to End Korean Peninsula War",
@@ -363,31 +381,22 @@
       "published": "2026-08-14T14:57:16Z"
     },
     {
-      "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
-      "summary": "Eleven people died in Israeli airstrikes on southern Lebanon, including three children and two women, marking one of the deadliest days since a June ceasefire agreement. Lebanese officials say the strikes hit a house near Ansar and the town of Deir al-Zahrani, while Israel claims it targeted a Hezbollah commander and his associates. Prime Minister Nawaf Salam condemned the attacks, calling the civilians \"not military infrastructure.\"",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T11:24:24.725Z"
-    },
-    {
-      "headline": "LeBron James Launches YouTube Channel",
-      "summary": "LeBron James has opened a YouTube channel, as announced by user /u/gridironk on r/NBA. The post includes a link and invites discussion.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vp4xts/lebron_now_has_a_youtube_channel/",
-      "source": "r/NBA",
-      "published": "2026-08-15T14:56:10+00:00"
-    },
-    {
-      "headline": "Can a Computer Scientist Program a Brain?",
-      "summary": "The article explores whether a computer scientist could write a genome‑sized program that builds a brain, arguing that developmental constraints force solutions similar to biological ones. It examines scaling from C. elegans to humans and suggests that computational necessity may explain neural development.",
+      "headline": "EEG Data Suggests Brain Directs Auditory Focus Inward During REM Sleep",
+      "summary": "New EEG recordings indicate that the brain shifts its auditory processing inward rather than tuning into external sounds during REM sleep. The findings suggest the dreaming brain dampens outside sensory inputs to prioritize internal activity.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
       "source": "Hacker News",
-      "published": "2026-08-15T13:26:28+00:00"
+      "published": "2026-08-15T13:09:28+00:00"
+    },
+    {
+      "headline": "Developer Leverages Codex Auto-Research Loops to Speed Up GPU Kernel 232x",
+      "summary": "Software engineer Sankalp utilized Codex-driven automated research loops to optimize batched compact-Householder QR decomposition kernels, finishing 12th out of 183 competitors in GPU Mode's competition. The iterative optimization approach delivered a 232x speedup over the baseline solution across matrix dimensions scaling up to 4096. The process demonstrated how pairing LLMs with automated benchmarking loops can rapidly navigate complex CUDA performance bottlenecks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://sankalp.bearblog.dev/autoresearch/",
+      "source": "Hacker News",
+      "published": "2026-08-15T11:00:02+00:00"
     },
     {
       "headline": "NBA Schedules, Coaching Moves, and Key Insights: Basketball Intelligence 8/14/26",
@@ -426,15 +435,6 @@
       "published": "2026-08-14T07:11:30+00:00"
     },
     {
-      "headline": "Draft/Tanking Rule Changes May Hurt Teams with Bad Contracts",
-      "summary": "The NBA's new draft and tanking rules create a stronger incentive to compete for playoffs, potentially reducing teams willing to sell players at trade deadlines. The post questions how these changes will affect teams over the next 1–3 years.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nbadiscussion/comments/1vp341v/with_new_draft_tanking_rules_handing_out_bad/",
-      "source": "r/NBA Discussion",
-      "published": "2026-08-15T13:37:31+00:00"
-    },
-    {
       "headline": "Donkey Kong Bananza",
       "summary": "",
       "category": "Music",
@@ -444,13 +444,13 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
-      "headline": "Alzheimer's Surgery Claims Reversal, but Article Unavailable",
-      "summary": "The article cannot be accessed because JavaScript is disabled; the page indicates a loading error and suggests enabling JavaScript or disabling ad blockers.",
+      "headline": "Renovation Crew Unearths €9 Million Gold Cache in Belgian Cellar",
+      "summary": "Construction workers laying sewage pipes in East Flanders, Belgium, discovered a hidden stash of gold bars and coins worth an estimated €9 million sealed inside a cellar wall. The crew reported the find to police, who secured the treasure from the property owned by local social welfare charity CAW Oost-Vlaanderen. Under Belgian law, the original owner has five years to claim the hoard before ownership rights transfer to the finders or the property owner.",
       "category": "Other",
-      "relevance": 2,
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "source": "Hacker News",
-      "published": "2026-08-15T16:38:34+00:00"
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T13:18:08.758Z"
     }
   ]
 }
