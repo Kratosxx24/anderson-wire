@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:10:10.189531+00:00",
+  "generated_at": "2026-08-15T19:40:17.532467+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -172,15 +172,6 @@
       "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
       "source": "Hacker News",
       "published": "2026-08-15T13:26:28+00:00"
-    },
-    {
-      "headline": "Xorshift Generators",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.alanzucconi.com/2026/08/15/xorshift-generators/",
-      "source": "Hacker News",
-      "published": "2026-08-15T12:47:52+00:00"
     },
     {
       "headline": "Developer Leverages Codex Auto-Research Loops to Speed Up GPU Kernel 232x",
@@ -363,13 +354,49 @@
       "published": "2026-08-14T18:38:42Z"
     },
     {
-      "headline": "Anthropic Releases Second Risk Report, Tightening Safety Oversight Under New Scaling Policy",
-      "summary": "Anthropic has published its second public Risk Report, detailing potential dangers of its latest model, Claude Opus 4.6, and outlining mitigation plans. The report is part of the company’s Responsible Scaling Policy, which now mandates risk disclosures every 3‑6 months to keep safety reviews in step with rapid model advances. The policy has evolved to version 3.4, adding stricter redaction rules and internal sharing procedures.",
-      "category": "Tech/AI",
+      "headline": "BriskDB Turns SQLite into Parallel‑Write Sharded Database",
+      "summary": "BriskDB transforms ordinary SQLite files into a single sharded database that supports parallel writes, PostgreSQL‑compatible queries, and HTTP access. Each shard remains a standard SQLite WAL file, so tools can inspect data without a fork, and shard‑safe IDs avoid write‑lock contention. The Rust engine powers a binary, Python wheel, and crate, making it easy to embed or run as a service.",
+      "category": "Other",
       "relevance": 9,
-      "url": "https://cryptobriefing.com/anthropic-second-risk-report-responsible-scaling/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T18:07:30+00:00"
+      "url": "https://github.com/schapman1974/briskdb",
+      "source": "Hacker News",
+      "published": "2026-08-15T17:56:57+00:00"
+    },
+    {
+      "headline": "Heatwaves Leave Europe’s Landscapes Scorched and Visible from Space",
+      "summary": "Satellite imagery from Sentinel‑2 and Copernicus shows western Europe’s record‑high June‑July temperatures manifested as shrinking glaciers, brown‑tinted fields, and lower river levels. Even iconic sites like the Palace of Versailles appear as isolated green islands amid desiccated surroundings. The images underscore how persistent high‑pressure systems and climate change are intensifying heatwaves and their environmental impact.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+      "source": "Hacker News",
+      "published": "2026-08-15T05:01:13.969Z"
+    },
+    {
+      "headline": "Dutch Town Loosdrecht’s Residents Live on Narrow Lake Islands",
+      "summary": "In Loosdrecht, homes sit on slender strips of land left after centuries of peat mining, creating a network of boat‑only islands within the lake. The geography, a manmade curiosity, was repurposed in the 20th century for residential development, and today hundreds live in these unique, water‑accessed homes. The layout reflects the region’s history of peat extraction and the ingenuity of building on reclaimed land.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.core77.com/posts/144869",
+      "source": "Hacker News",
+      "published": "2026-08-15T16:53:47+00:00"
+    },
+    {
+      "headline": "Controversial Alzheimer’s Surgery Claims to Reverse Symptoms",
+      "summary": "A newly reported surgical procedure has been touted as reversing Alzheimer’s symptoms, sparking debate among clinicians. Early reports suggest improvements in cognitive function, but experts caution that evidence is preliminary and the technique remains unproven. The controversy highlights the need for rigorous trials before adopting novel interventions for neurodegenerative disease.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "source": "Hacker News",
+      "published": "2026-08-15T16:38:34+00:00"
+    },
+    {
+      "headline": "Semaglutide Linked to 26% Lower 5‑Year Predicted Dementia Risk",
+      "summary": "A recent study found that semaglutide, a GLP‑1 receptor agonist used for diabetes, is associated with a 26% reduction in predicted 5‑year dementia risk. The analysis, published in the Alzheimer’s & Dementia journal, suggests potential cognitive benefits beyond glucose control. Researchers emphasize that further trials are needed to confirm causality and long‑term effects.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "source": "Hacker News",
+      "published": "2026-08-15T15:58:53+00:00"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -390,24 +417,6 @@
       "published": "2026-08-15T17:02:10+00:00"
     },
     {
-      "headline": "Budinger and Trevor Crabb Earn #1 Seeds at 2026 AVP Manhattan Beach Open",
-      "summary": "Chase Budinger and Trevor Crabb are the top seeds in the men’s draw of the 2026 AVP Progressive Manhattan Beach Open, while Taryn Brasher and Kristen Cruz lead the women’s bracket. The tournament features 64 teams, 160 qualifiers, and free general admission.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp/?utm_source=rss&utm_medium=rss&utm_campaign=budinger-and-trevor-crabb-top-the-seed-list-at-the-2026-avp",
-      "source": "Volleyball Mag",
-      "published": "2026-08-14T07:11:30+00:00"
-    },
-    {
-      "headline": "Progressive Secures Title Sponsorship of AVP League, Boosting Beach Volleyball’s Profile",
-      "summary": "Progressive Insurance has become the first title sponsor of the AVP League and the Manhattan Beach Open in years, signaling a new era of commercial backing for beach volleyball. The deal, announced alongside partners like Gatorade, Delta, and Skechers, aims to broaden the sport’s appeal and elevate its profile, with the 42nd Manhattan Beach Open featuring a 32‑team field. League officials say the partnership reflects the AVP’s efforts to repackage the sport for a wider audience.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/progressive-insurance-headlines-avp-s-biggest-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=progressive-insurance-headlines-avp-s-biggest-sponsorship",
-      "source": "Volleyball Mag",
-      "published": "2026-08-14T07:09:52+00:00"
-    },
-    {
       "headline": "NBA Schedules, Coaching Moves, and Key Insights: Basketball Intelligence 8/14/26",
       "summary": "The latest Basketball Intelligence newsletter breaks down team‑specific schedules—from the Hawks’ tough start to the Bulls’ early season plans—while spotlighting coaching milestones like Doc Rivers’ Hall of Fame induction and player performances across the league. It also offers analysis on upcoming matchups and strategic trends.",
       "category": "NBA",
@@ -417,22 +426,22 @@
       "published": "2026-08-14T17:43:32+00:00"
     },
     {
-      "headline": "NFL preseason Week 1 winners and losers: Steelers rookie QB shines, Cam Ward struggles for Titans",
-      "summary": "",
-      "category": "NFL",
+      "headline": "2026 Fantasy Football Draft Prep: Experts Release Rankings and Rookie Picks",
+      "summary": "SportsLine experts have unveiled their 2026 fantasy football rankings, listing the top 150 players and highlighting optimal rookie selections. The guide emphasizes key positions such as running back and wide receiver, offering insights into projected breakout performers. Draft strategists can use the rankings to shape their 2026 roster and plan for upcoming free‑agency moves.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-winners-and-losers/",
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-release-rankings-top-150-optimal-rookie-picks/",
       "source": "CBS Sports",
-      "published": "2026-08-15T02:37:13+00:00"
+      "published": "2026-08-15T19:20:34+00:00"
     },
     {
-      "headline": "Patriots Cornerback Christian Gonzalez Missing Preseason Practice Amid Injury Concerns",
-      "summary": "Patriots cornerback Christian Gonzalez was listed as physically unavailable and missed the preseason opener, prompting speculation about an injury or holdout. Head coach Mike Vrabel confirmed the player was unable to attend practice, but the exact nature of the issue remains unclear. The absence has raised concerns about Gonzalez’s readiness for the upcoming season.",
-      "category": "NFL",
+      "headline": "Shohei Ohtani Completes Bullpen Session, Eyes Pitching Return",
+      "summary": "Shohei Ohtani completed his first bullpen session after a shoulder injury, marking a significant step toward resuming his dual role with the Dodgers. The session’s performance and recovery timeline are being closely monitored by the coaching staff, who aim to balance his pitching and hitting responsibilities. Ohtani’s return could reshape the Dodgers’ lineup and bullpen strategy for the remainder of the season.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://nesn.com/new-england-patriots/news/injury-holdout-christian-gonzalez-patriots-preseason-sideline/f1a0435d43c181254ce43b26",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-14T18:39:04Z"
+      "url": "https://www.cbssports.com/mlb/news/shohei-ohtani-dodgers-bullpen-session-injury-update-timeline/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T15:57:11+00:00"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -442,15 +451,6 @@
       "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
       "source": "Pitchfork",
       "published": "2026-08-15T04:00:00+00:00"
-    },
-    {
-      "headline": "Renovation Crew Unearths €9 Million Gold Cache in Belgian Cellar",
-      "summary": "Construction workers laying sewage pipes in East Flanders, Belgium, discovered a hidden stash of gold bars and coins worth an estimated €9 million sealed inside a cellar wall. The crew reported the find to police, who secured the treasure from the property owned by local social welfare charity CAW Oost-Vlaanderen. Under Belgian law, the original owner has five years to claim the hoard before ownership rights transfer to the finders or the property owner.",
-      "category": "Other",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T13:18:08+00:00"
     }
   ]
 }
