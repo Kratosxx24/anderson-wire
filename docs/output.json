@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:34:38.022693+00:00",
+  "generated_at": "2026-08-15T22:54:11.391881+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -156,6 +156,15 @@
       "published": "2026-08-15T17:56:57+00:00"
     },
     {
+      "headline": "AI Accelerates Drug Discovery: Current Landscape and Future Directions",
+      "summary": "The Nature review outlines how artificial intelligence is reshaping drug discovery, highlighting recent breakthroughs, existing challenges, and the roadmap needed to bring AI‑driven therapeutics to market.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News",
+      "published": "2026-08-15T19:12:53+00:00"
+    },
+    {
       "headline": "AI Out-Remembers Mathematicians, Not Out-Thinkers",
       "summary": "The article argues that AI’s edge in solving tough math problems stems more from its virtually unlimited symbolic working memory than from superior reasoning. By keeping the entire problem statement, hundreds of intermediate equations, and multiple abandoned approaches in its context window, an AI can bypass the human brain’s severe working‑memory limits.",
       "category": "Tech/AI",
@@ -190,24 +199,6 @@
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "source": "Hacker News",
       "published": "2026-08-15T15:58:53+00:00"
-    },
-    {
-      "headline": "Developer Leverages Codex Auto-Research Loops to Speed Up GPU Kernel 232x",
-      "summary": "Software engineer Sankalp utilized Codex-driven automated research loops to optimize batched compact-Householder QR decomposition kernels, finishing 12th out of 183 competitors in GPU Mode's competition. The iterative optimization approach delivered a 232x speedup over the baseline solution across matrix dimensions scaling up to 4096. The process demonstrated how pairing LLMs with automated benchmarking loops can rapidly navigate complex CUDA performance bottlenecks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "source": "Hacker News",
-      "published": "2026-08-15T11:00:02+00:00"
-    },
-    {
-      "headline": "Coding With AI Turns Into Leadership, Not Just Programming",
-      "summary": "The author argues that interacting with AI requires the same clarity, context, and iterative guidance as leading a team, rather than treating the model as a deterministic compiler. By framing prompts as collaborative conversations, developers can better align AI output with intent and improve efficiency.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "source": "Hacker News",
-      "published": "2026-08-15T10:39:41+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -327,13 +318,58 @@
       "published": "2026-08-14T18:13:00+00:00"
     },
     {
-      "headline": "AI Accelerates Drug Discovery: Current Landscape and Future Directions",
-      "summary": "The Nature review outlines how artificial intelligence is reshaping drug discovery, highlighting recent breakthroughs, existing challenges, and the roadmap needed to bring AI‑driven therapeutics to market.",
+      "headline": "Engineers will do anything to avoid learning from history",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
       "source": "Hacker News",
-      "published": "2026-08-15T19:12:53+00:00"
+      "published": "2026-08-15T22:08:22+00:00"
+    },
+    {
+      "headline": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://xescu.re/keeta-consensus.pdf",
+      "source": "Hacker News",
+      "published": "2026-08-15T21:49:45+00:00"
+    },
+    {
+      "headline": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/christensen143/claude-trofeo-hud",
+      "source": "Hacker News",
+      "published": "2026-08-15T21:42:39+00:00"
+    },
+    {
+      "headline": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
+      "source": "Hacker News",
+      "published": "2026-08-12T07:48:22+00:00"
+    },
+    {
+      "headline": "A spectre is haunting Unicode",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "source": "Hacker News",
+      "published": "2026-08-15T14:34:04+00:00"
+    },
+    {
+      "headline": "Five years after the Taliban swept to power, does the West have any influence?",
+      "summary": "",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T17:00:14.208Z"
     },
     {
       "headline": "Basketball Intelligence 8/14/26: NBA Schedules, Coaching Insights, and Team Overviews",
@@ -399,40 +435,13 @@
       "published": "2026-08-14T17:00:00+00:00"
     },
     {
-      "headline": "Drata Sponsors Daring Fireball, Promotes AI‑Driven Compliance Automation",
-      "summary": "Drata, a compliance automation platform, thanked Daring Fireball for sponsorship and highlighted its autonomous AI agents that streamline compliance, manage risk, and continuously validate security posture.",
-      "category": "Tech/AI",
+      "headline": "Deshaun Watson outplays Shedeur Sanders in preseason opener, but Browns QB battle leaves plenty to be desired",
+      "summary": "",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://drata.com/daring",
-      "source": "Daring Fireball",
-      "published": "2026-08-15T21:40:15+00:00"
-    },
-    {
-      "headline": "Morris the Lone Northern Gannet Makes Pillar Point Harbor Home",
-      "summary": "Morris, the only known Northern Gannet in the Pacific, has settled in Pillar Point Harbor, California, where he can be spotted by his distinctive white body and yellow head, often seen near Brandt’s cormorants.",
-      "category": "Other",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
-      "source": "Simon Willison",
-      "published": "2026-08-15T03:22:00+00:00"
-    },
-    {
-      "headline": "Indonesia Earthquake Leaves 47 Dead, Rescue Teams Search for Survivors",
-      "summary": "A 7.7‑magnitude earthquake struck Flores, Indonesia, killing at least 47 people and severely damaging hundreds of buildings; rescue teams are combing the rubble while aid agencies deliver supplies amid ongoing aftershocks.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T21:49:12.510Z"
-    },
-    {
-      "headline": "Midwest Flooding Rages as Indiana Requests FEMA Aid",
-      "summary": "Heavy thunderstorms have flooded large parts of the Midwest, with Indiana recording record river levels and power outages affecting over 150,000 residents; the state has requested FEMA assistance to address the escalating crisis.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
-      "source": "NPR News",
-      "published": "2026-08-15T16:04:13-04:00"
+      "url": "https://www.cbssports.com/nfl/news/shedeur-sanders-deshaun-watson-browns-qb-battle-preseason-bears/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T20:59:09+00:00"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -442,15 +451,6 @@
       "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
       "source": "Pitchfork",
       "published": "2026-08-15T04:00:00+00:00"
-    },
-    {
-      "headline": "Titans CB Nazeeh Johnson Blames Fertility Medication for Six‑Game PED Suspension",
-      "summary": "Titans cornerback Nazeeh Johnson explains that a fertility medication he was taking triggered a six‑game suspension for a PED violation. Johnson details how the medication led to a positive test and the resulting disciplinary action.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/titans-nazeeh-johnson-suspension-fertility-medication/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T15:40:51+00:00"
     }
   ]
 }
