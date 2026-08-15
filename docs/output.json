@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:55:00.904652+00:00",
+  "generated_at": "2026-08-15T21:31:57.471791+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -73,15 +73,6 @@
       "url": "https://www.fearthesword.com/cavs-news/52214/cavs-trade-dennis-schroder-to-hornets-for-tre-mann",
       "source": "NewsAPI:NBA trade",
       "published": "2026-08-14T19:54:20Z"
-    },
-    {
-      "headline": "Schröder Traded Again as Cavaliers Acquire Tre Mann, Move Toward Cap Flexibility",
-      "summary": "The Cavaliers sent Dennis Schröder and cash to the Hornets for Tre Mann, marking Schröder’s ninth trade and giving Cleveland a $6.8 million salary relief. The acquisition adds a young guard who could serve as a trade chip or role player in Cleveland’s roster.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://sports.yahoo.com/nba/article/cavaliers-trade-g-dennis-schroder-cash-to-hornets-for-g-tre-mann-194810353.html",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T19:48:10Z"
     },
     {
       "headline": "Devon Witherspoon Signs $132M Extension, Becomes NFL’s Highest‑Paid Cornerback",
@@ -237,24 +228,6 @@
       "published": "2026-08-15T10:39:41+00:00"
     },
     {
-      "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
-      "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T07:59:42+00:00"
-    },
-    {
-      "headline": "Apple Blocks Developer After False Match on US Sanctions List",
-      "summary": "Developer Sean Joseph Byrne was denied App Store Connect access after Apple matched his details to a US government sanctions record for a different individual. Despite providing identity documents, Apple failed to resolve the mismatch, exposing flaws in the consolidated screening list used for export controls.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "source": "Hacker News",
-      "published": "2026-08-15T04:18:44+00:00"
-    },
-    {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
       "summary": "Marques Brownlee shares initial hands-on reactions to Google's refreshed hardware portfolio, spanning the Pixel 11, 11 Pro, and new Fold. The overview assesses whether Google's iterative updates and software features offer meaningful progress.",
       "category": "YouTube",
@@ -381,6 +354,33 @@
       "published": "2026-08-14T18:13:00+00:00"
     },
     {
+      "headline": "Model Predicts Daniel Jones’ Breakout, Highlights 2026 Fantasy Sleepers and Busts",
+      "summary": "A new fantasy‑football model flagged quarterback Daniel Jones as a top performer for 2026, while also naming a slate of sleeper picks, breakout prospects, and likely busts. The analysis ranks players by projected points, offering managers a data‑driven roadmap for draft and trade decisions.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-called-daniel-jones-big-year/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-14T19:48:47Z"
+    },
+    {
+      "headline": "Model Calls Terry McLaurin a Bust, Spotlights 2026 Fantasy Down‑Year",
+      "summary": "The same predictive model that praised Jones instead flagged wide receiver Terry McLaurin as a likely bust for 2026, citing declining production and injury concerns. It also lists other players expected to underperform, giving fantasy owners a warning list for the upcoming season.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-called-terry-mclaurins-down-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T18:15:38+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence 8/14/26: NBA Schedules, Coaching Insights, and Team Overviews",
+      "summary": "The newsletter compiles analysis of upcoming NBA schedules, coaching changes, and team performance, featuring pieces on the Hawks’ tough start, Doc Rivers’ Hall of Fame induction, the Bulls’ early-season schedule, and the Cavaliers’ coaching rankings. It also covers the Clippers’ 2026‑27 schedule, Lakers’ new faces, and the Grizzlies’ schedule analysis, among other team‑specific stories.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-14T17:43:32+00:00"
+    },
+    {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
       "summary": "Defensive coordinator Anthony Campanile is fusing Vic Fangio’s split‑field coverage concepts with Brian Flores’ aggressive pressure tactics. The hybrid uses nickel blitzes and fire‑zone routes to generate a relentless pass rush while sealing off deep passing lanes.",
       "category": "NFL",
@@ -417,15 +417,6 @@
       "published": "2026-08-15T15:57:11+00:00"
     },
     {
-      "headline": "Basketball Intelligence 8/14/26: NBA Schedules, Coaching Insights, and Team Overviews",
-      "summary": "The newsletter compiles analysis of upcoming NBA schedules, coaching changes, and team performance, featuring pieces on the Hawks’ tough start, Doc Rivers’ Hall of Fame induction, the Bulls’ early-season schedule, and the Cavaliers’ coaching rankings. It also covers the Clippers’ 2026‑27 schedule, Lakers’ new faces, and the Grizzlies’ schedule analysis, among other team‑specific stories.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-14T17:43:32+00:00"
-    },
-    {
       "headline": "CapEx Train Keeps Rolling: Nvidia’s New Funding Mechanism Fuels AI Capital Crunch",
       "summary": "Ben Thompson highlights how the AI compute shortage is now being matched by a capital shortage, with Nvidia launching a long‑duration capital funding tool and Google tapping equity to bridge the gap. The move could sustain AI revenue streams but also risks inflating a bubble that could hurt Nvidia’s margins.",
       "category": "Tech/AI",
@@ -442,6 +433,15 @@
       "url": "https://www.nature.com/articles/s41573-026-01496-2",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00"
+    },
+    {
+      "headline": "Midwest Flooding Rages: Indiana Seeks FEMA Aid After Record‑Breaking Storms",
+      "summary": "A week of relentless thunderstorms has dumped more than 11 inches of rain across Indiana, Illinois and neighboring states, swelling rivers to historic levels—most notably the White River in Anderson, which peaked at 24.9 feet. The deluge has killed three people, left over 150,000 residents without power, and prompted Indiana officials to request federal assistance as the region braces for further flooding.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "source": "NPR News",
+      "published": "2026-08-15T16:04:13-04:00"
     },
     {
       "headline": "Donkey Kong Bananza",
