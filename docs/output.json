@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:39:05.519188+00:00",
+  "generated_at": "2026-08-15T14:03:27.481963+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -37,6 +37,15 @@
       "url": "https://www.cbssports.com/nba/news/dennis-schroder-trade-grades-cavaliers-hornets-tre-mann/",
       "source": "CBS Sports",
       "published": "2026-08-14T20:17:12+00:00"
+    },
+    {
+      "headline": "Celtics Face Fallout of Jaylen Brown Trade, Analysts Issue Bold Predictions",
+      "summary": "The Boston Celtics are reacting to a controversial trade involving star guard Jaylen Brown. Analysts and insiders are making bold predictions about how the move will reshape the team's roster and playoff prospects, sparking debate among fans and commentators about its long‑term impact.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.sportingnews.com/us/nba/boston-celtics/news/celtics-receive-bold-prediction-after-controversial-jaylen-brown-trade/46aaa8e749e03a988cff8326",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T13:37:46Z"
     },
     {
       "headline": "CBS Sports Unveils 2026 Fantasy Football Model Projections",
@@ -93,15 +102,6 @@
       "published": "2026-08-14T18:07:08+00:00"
     },
     {
-      "headline": "Debian Opens Vote on Future of AI/LLM Contributions",
-      "summary": "Debian’s community has launched a formal voting process to decide how to handle contributions from AI and large language model tools. The vote will set guidelines on accepting AI‑generated code, balancing productivity gains against quality and security concerns.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T09:20:07+00:00"
-    },
-    {
       "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
       "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
       "category": "Tech/AI",
@@ -120,15 +120,6 @@
       "published": "2026-08-15T04:42:07+00:00"
     },
     {
-      "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
-      "summary": "A shallow 7.7‑magnitude earthquake struck Indonesia’s Flores island at a depth of 15 km, leaving at least 14 people dead and many more injured. Strong aftershocks, including a 6.1 magnitude tremor, damaged the Maumere port, prompted a brief tsunami warning, and forced roughly 2,000 residents to evacuate.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T13:35:57+00:00"
-    },
-    {
       "headline": "Apple Blocks Developer After False Match on US Sanctions List",
       "summary": "Developer Sean Joseph Byrne was denied App Store Connect access after Apple matched his details to a US government sanctions record for a different individual. Despite providing identity documents, Apple failed to resolve the mismatch, exposing flaws in the consolidated screening list used for export controls.",
       "category": "Tech/AI",
@@ -136,6 +127,15 @@
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "source": "Hacker News",
       "published": "2026-08-15T04:18:44+00:00"
+    },
+    {
+      "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
+      "summary": "A shallow 7.7‑magnitude earthquake struck Indonesia’s Flores island at a depth of 15 km, leaving at least 14 people dead and many more injured. Strong aftershocks, including a 6.1 magnitude tremor, damaged the Maumere port, prompted a brief tsunami warning, and forced roughly 2,000 residents to evacuate.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T13:35:57+00:00"
     },
     {
       "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
@@ -291,22 +291,22 @@
       "published": "2026-08-14T11:00:00Z"
     },
     {
-      "headline": "AI Firms Warn of Risks While Selling Safeguards, Raising Governance Questions",
-      "summary": "OpenAI, Anthropic, and DeepMind promote advanced models and market safety frameworks, creating a paradox where creators also certify safety. Experts question who should design and enforce these safeguards, noting the tension between commercial interests and public risk management.",
+      "headline": "LLM Tagging Hack: Generate New Labels, Match with Existing Corpus",
+      "summary": "Simon Willison proposes letting a language model invent tags for content, then using vector embeddings to map those imagined tags to his 1,856 existing ones. This sidesteps the need to feed the entire tag list to the model while still producing relevant, structured labels, as illustrated with a furniture‑classification example.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.business-standard.com/technology/artificial-intelligence/agi-safety-paradox-ai-firms-warn-danger-offer-models-manage-it-126081401290_1.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T10:49:36Z"
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "source": "Simon Willison",
+      "published": "2026-08-14T21:54:35+00:00"
     },
     {
-      "headline": "Celtics Face Fallout of Jaylen Brown Trade, Analysts Issue Bold Predictions",
-      "summary": "The Boston Celtics are reacting to a controversial trade involving star guard Jaylen Brown. Analysts and insiders are making bold predictions about how the move will reshape the team's roster and playoff prospects, sparking debate among fans and commentators about its long‑term impact.",
-      "category": "NBA",
+      "headline": "Netflix Deploys LLM‑Native Recommendation System",
+      "summary": "Netflix has unveiled GenRec, a recommendation engine built around large language models that aims to personalize content more accurately and reduce cold‑start problems. By leveraging LLMs, the system can interpret user preferences and content attributes in a more nuanced way than traditional collaborative filtering.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.sportingnews.com/us/nba/boston-celtics/news/celtics-receive-bold-prediction-after-controversial-jaylen-brown-trade/46aaa8e749e03a988cff8326",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T13:37:46+00:00"
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "source": "Hacker News",
+      "published": "2026-08-15T12:56:56+00:00"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -426,15 +426,6 @@
       "published": "2026-08-14T17:16:15+00:00"
     },
     {
-      "headline": "Official FanDuel League Launch on r/FantasyFootball: $2,800 in Weekly Prizes",
-      "summary": "Reddit’s r/FantasyFootball has announced an official FanDuel league partnership, offering a series of free contests with a total of $2,800 in cash prizes spread over the first 20 weeks. The post outlines posting rules, a player discussion thread guide, and a FAQ wiki for participants, inviting users to join and compete for weekly rewards.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vozxke/official_index_for_all_your_teamleague_questions/",
-      "source": "r/FantasyFootball",
-      "published": "2026-08-15T11:01:36+00:00"
-    },
-    {
       "headline": "Auto-Research with Codex Yields 232× Speedup on GPU QR Kernel",
       "summary": "In a GPU Mode auto‑research contest, the author used Codex to implement a batched Householder QR factorization kernel, achieving a 232‑fold speedup over the baseline and ranking 12th among 183 entrants. The post details the problem, the techniques used—such as blocked Householder algorithms and idea diversity—and the lessons learned from the competition, serving as a case study in rapid, AI‑driven kernel optimization.",
       "category": "Tech/AI",
@@ -444,13 +435,22 @@
       "published": "2026-08-15T11:00:02+00:00"
     },
     {
-      "headline": "Pitchfork Reviews the Genre-Spanning Soundtrack to 'Donkey Kong Bananza'",
-      "summary": "Nintendo has officially released the standalone soundtrack for 'Donkey Kong Bananza,' the critically acclaimed 3D platformer that reinvented the classic ape franchise. Spearheaded by 'Super Mario Odyssey' composer Naoto Kubo, the album blends Pop and R&B into a dynamic, genre-hopping score that drove the game's music-centric narrative. The release pays homage to the series' iconic audio legacy while pushing DK's musical identity firmly into modern territory.",
-      "category": "Other",
-      "relevance": 2,
-      "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
+      "headline": "Sweeping Promises Push Art‑Punk Boundaries on New Album",
+      "summary": "The Kansas‑by‑way‑of‑Boston duo expands their garage‑rock wall of sound on 'You Say I Romanticize', layering vocals and instrumentation for a denser, more expansive take on their signature punchy style. The album sees lead singer Lira Mondal’s growling vocals added to a lo‑fi fuzz backdrop, creating a broader sonic palette while retaining the band’s core energy.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/sweeping-promises-you-say-i-romanticize/",
       "source": "Pitchfork",
-      "published": "2026-08-15T04:00:00+00:00"
+      "published": "2026-08-14T04:01:00+00:00"
+    },
+    {
+      "headline": "EEG Reveals Brain Focuses Inward During REM Sleep",
+      "summary": "Recent EEG recordings show that during REM sleep the brain shifts from external sensory processing to internal auditory activity, suggesting a role in memory consolidation and dream generation. The study indicates that the brain’s listening mechanisms become self‑referential during this sleep stage.",
+      "category": "Other",
+      "relevance": 3,
+      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
+      "source": "Hacker News",
+      "published": "2026-08-15T13:09:28+00:00"
     }
   ]
 }
