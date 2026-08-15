@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:40:17.532467+00:00",
+  "generated_at": "2026-08-15T20:01:59.962023+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -162,7 +162,52 @@
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-15T13:35:57+00:00"
+      "published": "2026-08-15T20:00:15+00:00"
+    },
+    {
+      "headline": "BriskDB Turns SQLite into Parallel‑Write Sharded Database",
+      "summary": "BriskDB transforms ordinary SQLite files into a single sharded database that supports parallel writes, PostgreSQL‑compatible queries, and HTTP access. Each shard remains a standard SQLite WAL file, so tools can inspect data without a fork, and shard‑safe IDs avoid write‑lock contention. The Rust engine powers a binary, Python wheel, and crate, making it easy to embed or run as a service.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://github.com/schapman1974/briskdb",
+      "source": "Hacker News",
+      "published": "2026-08-15T17:56:57+00:00"
+    },
+    {
+      "headline": "Heatwaves Leave Europe’s Landscapes Scorched and Visible from Space",
+      "summary": "Satellite imagery from Sentinel‑2 and Copernicus shows western Europe’s record‑high June‑July temperatures manifested as shrinking glaciers, brown‑tinted fields, and lower river levels. Even iconic sites like the Palace of Versailles appear as isolated green islands amid desiccated surroundings. The images underscore how persistent high‑pressure systems and climate change are intensifying heatwaves and their environmental impact.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
+      "source": "Hacker News",
+      "published": "2026-08-15T17:21:26+00:00"
+    },
+    {
+      "headline": "Dutch Town Loosdrecht’s Residents Live on Narrow Lake Islands",
+      "summary": "In Loosdrecht, homes sit on slender strips of land left after centuries of peat mining, creating a network of boat‑only islands within the lake. The geography, a manmade curiosity, was repurposed in the 20th century for residential development, and today hundreds live in these unique, water‑accessed homes. The layout reflects the region’s history of peat extraction and the ingenuity of building on reclaimed land.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.core77.com/posts/144869",
+      "source": "Hacker News",
+      "published": "2026-08-15T16:53:47+00:00"
+    },
+    {
+      "headline": "Controversial Alzheimer’s Surgery Claims to Reverse Symptoms",
+      "summary": "A newly reported surgical procedure has been touted as reversing Alzheimer’s symptoms, sparking debate among clinicians. Early reports suggest improvements in cognitive function, but experts caution that evidence is preliminary and the technique remains unproven. The controversy highlights the need for rigorous trials before adopting novel interventions for neurodegenerative disease.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.nature.com/articles/d41586-026-02448-x",
+      "source": "Hacker News",
+      "published": "2026-08-15T16:38:34+00:00"
+    },
+    {
+      "headline": "Semaglutide Linked to 26% Lower 5‑Year Predicted Dementia Risk",
+      "summary": "A recent study found that semaglutide, a GLP‑1 receptor agonist used for diabetes, is associated with a 26% reduction in predicted 5‑year dementia risk. The analysis, published in the Alzheimer’s & Dementia journal, suggests potential cognitive benefits beyond glucose control. Researchers emphasize that further trials are needed to confirm causality and long‑term effects.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "source": "Hacker News",
+      "published": "2026-08-15T15:58:53+00:00"
     },
     {
       "headline": "Can a Computer Scientist Program a Brain?",
@@ -336,67 +381,31 @@
       "published": "2026-08-14T18:13:00+00:00"
     },
     {
-      "headline": "Warriors Eye $165M Jimmy Butler Trade in 8‑Player Mega Deal",
-      "summary": "Golden State is reportedly lining up a blockbuster swap that would send guard Jimmy Butler to the franchise for a $165 million cap hit. The deal would also feature a two‑time NBA blocks leader and involve eight players, signaling a major roster overhaul for the Warriors.",
+      "headline": "Basketball Intelligence Newsletter Highlights Kings Youth Movement, Giddey's Resilience, and More",
+      "summary": "The August 15 edition of Basketball Intelligence offers deep dives into the Sacramento Kings’ emerging roster, Josh Giddey’s continued improvement, Dallas’ potential turnaround, and other team‑specific analyses. It also features a podcast with Fran Fraschilla discussing the Kings’ youth strategy and future prospects.",
       "category": "NBA",
       "relevance": 9,
-      "url": "https://www.sportingnews.com/us/nba/news/warriors-predicted-trade-jimmy-butler-165m-two-time-nba-blocks-leader-8-player-mega-deal/60770e0f41112f8591f8dc3d",
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81526",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-15T18:52:12+00:00"
+    },
+    {
+      "headline": "Cavaliers Offload Dennis Schröder for Tre Mann, Clearing $6.8M",
+      "summary": "Cleveland traded veteran guard Dennis Schröder and cash to the Charlotte Hornets for 25‑year‑old guard Tre Mann, freeing $6.8 million in cap space. The move positions the Cavs to pursue free‑agent targets while giving Mann a chance to develop in a new system.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.fearthesword.com/cavs-news/52214/cavs-trade-dennis-schroder-to-hornets-for-tre-mann",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T16:17:35Z"
+      "published": "2026-08-14T19:54:20+00:00"
     },
     {
-      "headline": "Anthropic Unveils Internal Model ‘Model 2’ Surpassing Mythos 5, Holds Back Release",
-      "summary": "Anthropic has revealed an internal model, dubbed Model 2, that outperforms its previous Mythos 5 in a range of tasks but will not be released to the public. The company cites ongoing risk assessments and incomplete pre‑deployment testing as reasons for withholding the model, while noting a modest rise in its catastrophic‑harm risk rating. Internally, Model 2 is already being used for coding and data generation, and the firm reports that AI assistance has accelerated research, though not yet doubled output.",
-      "category": "Tech/AI",
+      "headline": "Schröder Traded Again as Cavaliers Acquire Tre Mann, Move Toward Cap Flexibility",
+      "summary": "The Cavaliers sent Dennis Schröder and cash to the Hornets for Tre Mann, marking Schröder’s ninth trade and giving Cleveland a $6.8 million salary relief. The acquisition adds a young guard who could serve as a trade chip or role player in Cleveland’s roster.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://cryptobriefing.com/anthropic-mythos-new-version-ai-race/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T18:38:42Z"
-    },
-    {
-      "headline": "BriskDB Turns SQLite into Parallel‑Write Sharded Database",
-      "summary": "BriskDB transforms ordinary SQLite files into a single sharded database that supports parallel writes, PostgreSQL‑compatible queries, and HTTP access. Each shard remains a standard SQLite WAL file, so tools can inspect data without a fork, and shard‑safe IDs avoid write‑lock contention. The Rust engine powers a binary, Python wheel, and crate, making it easy to embed or run as a service.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://github.com/schapman1974/briskdb",
-      "source": "Hacker News",
-      "published": "2026-08-15T17:56:57+00:00"
-    },
-    {
-      "headline": "Heatwaves Leave Europe’s Landscapes Scorched and Visible from Space",
-      "summary": "Satellite imagery from Sentinel‑2 and Copernicus shows western Europe’s record‑high June‑July temperatures manifested as shrinking glaciers, brown‑tinted fields, and lower river levels. Even iconic sites like the Palace of Versailles appear as isolated green islands amid desiccated surroundings. The images underscore how persistent high‑pressure systems and climate change are intensifying heatwaves and their environmental impact.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
-      "source": "Hacker News",
-      "published": "2026-08-15T05:01:13.969Z"
-    },
-    {
-      "headline": "Dutch Town Loosdrecht’s Residents Live on Narrow Lake Islands",
-      "summary": "In Loosdrecht, homes sit on slender strips of land left after centuries of peat mining, creating a network of boat‑only islands within the lake. The geography, a manmade curiosity, was repurposed in the 20th century for residential development, and today hundreds live in these unique, water‑accessed homes. The layout reflects the region’s history of peat extraction and the ingenuity of building on reclaimed land.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.core77.com/posts/144869",
-      "source": "Hacker News",
-      "published": "2026-08-15T16:53:47+00:00"
-    },
-    {
-      "headline": "Controversial Alzheimer’s Surgery Claims to Reverse Symptoms",
-      "summary": "A newly reported surgical procedure has been touted as reversing Alzheimer’s symptoms, sparking debate among clinicians. Early reports suggest improvements in cognitive function, but experts caution that evidence is preliminary and the technique remains unproven. The controversy highlights the need for rigorous trials before adopting novel interventions for neurodegenerative disease.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "source": "Hacker News",
-      "published": "2026-08-15T16:38:34+00:00"
-    },
-    {
-      "headline": "Semaglutide Linked to 26% Lower 5‑Year Predicted Dementia Risk",
-      "summary": "A recent study found that semaglutide, a GLP‑1 receptor agonist used for diabetes, is associated with a 26% reduction in predicted 5‑year dementia risk. The analysis, published in the Alzheimer’s & Dementia journal, suggests potential cognitive benefits beyond glucose control. Researchers emphasize that further trials are needed to confirm causality and long‑term effects.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "source": "Hacker News",
-      "published": "2026-08-15T15:58:53+00:00"
+      "url": "https://sports.yahoo.com/nba/article/cavaliers-trade-g-dennis-schroder-cash-to-hornets-for-g-tre-mann-194810353.html",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T19:48:10Z"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -415,15 +424,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-mcmillans-huge-season/",
       "source": "CBS Sports",
       "published": "2026-08-15T17:02:10+00:00"
-    },
-    {
-      "headline": "NBA Schedules, Coaching Moves, and Key Insights: Basketball Intelligence 8/14/26",
-      "summary": "The latest Basketball Intelligence newsletter breaks down team‑specific schedules—from the Hawks’ tough start to the Bulls’ early season plans—while spotlighting coaching milestones like Doc Rivers’ Hall of Fame induction and player performances across the league. It also offers analysis on upcoming matchups and strategic trends.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-14T17:43:32+00:00"
     },
     {
       "headline": "2026 Fantasy Football Draft Prep: Experts Release Rankings and Rookie Picks",
