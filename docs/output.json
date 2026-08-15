@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:44:13.784103+00:00",
+  "generated_at": "2026-08-15T05:11:47.375426+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -84,15 +84,6 @@
       "published": "2026-08-14T01:21:18Z"
     },
     {
-      "headline": "How Model-Level Watermarking Leaves Invisible Signatures in AI Text",
-      "summary": "AI developers like Google and Anthropic are embedding invisible, copy-proof watermarks into generated text without relying on traditional metadata. Instead of modifying characters, the technology uses a secret mathematical key to gently bias the statistical word choices a model selects mid-sentence. Anthropic implemented the technique across new Claude models in August 2026, following Google's rollout in Gemini.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://declaude.org/watermarking/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T23:16:55Z"
-    },
-    {
       "headline": "Afghan Women Describe Life Under Taliban as Unrecognizable Five Years On",
       "summary": "Five years after the Taliban reclaimed power, women across Afghanistan report that their daily existence has been dramatically altered. Girls over 12 are barred from school, travel requires a male escort, and a new law tacitly permits child marriage, leaving many to abandon education and career aspirations. Despite the Taliban foreign minister’s claim that women are not fully restricted, interviewees say survival now outweighs any hope for the future.",
       "category": "World",
@@ -118,24 +109,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-14T16:28:59+00:00"
-    },
-    {
-      "headline": "U.S. missionary Kevin Rideout freed after nine‑month Niger captivity",
-      "summary": "Kevin Rideout, an American missionary and pilot, was released in Niger after more than nine months in the hands of armed men, likely linked to al‑Qaeda affiliate JNIM. He is now in FBI custody and expected to reunite with his family, though details of the rescue remain undisclosed.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T10:18:02+00:00"
-    },
-    {
-      "headline": "Israel Deploys Reinforcements as Settler Siege Escalates in West Bank Village",
-      "summary": "The Israeli military is sending extra troops to Qusra after failing to clear settlers who trapped two Palestinian families in their homes and cut off their power and water. The ongoing blockade drew fierce condemnation from U.S. Ambassador Mike Huckabee, who described the settlers' actions as terror intended to harass and intimidate.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-13T20:12:17+00:00"
     },
     {
       "headline": "Clint Smith Says America Misreads Slavery’s Legacy",
@@ -165,22 +138,76 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
-      "headline": "Anthropic Backers Target Massive $2 Trillion Valuation",
-      "summary": "Financial backers of Claude developer Anthropic are setting sights on a massive $2 trillion valuation. The ambitious figure highlights the sky-high financial expectations surrounding top-tier artificial intelligence labs.",
-      "category": "Tech/AI",
+      "headline": "Kobe Bryant Sent Adam Morrison a Signed Didier Drogba Jersey as a Personal Pep Talk",
+      "summary": "Adam Morrison says Kobe publicly defended him and, knowing Morrison’s admiration for soccer star Didier Drogba, mailed a game‑worn, autographed Drogba jersey when Morrison was out of the NBA. The gesture was meant as a morale boost during a low point and illustrates Kobe’s habit of supporting teammates beyond basketball.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://gizmodo.com/anthropic-investors-thinks-its-worth-2-trillion-2000798509",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T23:05:12Z"
+      "url": "https://old.reddit.com/r/nba/comments/1vops4y/adam_morrison_on_kobe_he_publicly_defended_me/",
+      "source": "r/NBA",
+      "published": "2026-08-15T01:40:20+00:00"
     },
     {
-      "headline": "Google Debuts Gemini 3.7 Flash with Major Upgrades in Coding and Agent Workflows",
-      "summary": "Google launched Gemini 3.7 Flash just three weeks after its previous release, adding a 1-million-token context window and 64,000-token output capacity. The model outperformed Claude Sonnet 5 and GPT-5.6 Terra across nine evaluations, including the 100-task FrontierCode benchmark and the GDP.pdf document test. Google highlighted significant improvements in user interface generation and multi-step planning for autonomous agent systems.",
+      "headline": "Klay Thompson Names Dream Starting Five: Curry, Kobe, LeBron, Duncan, Shaq",
+      "summary": "Klay Thompson posted his ultimate lineup, slotting Stephen Curry at point guard, Kobe Bryant at shooting guard, LeBron James at small forward, Tim Duncan at power forward, and Shaquille O’Neal at center. The fan‑submitted list sparked discussion about the all‑time best backcourt and frontcourt combos.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vo95ys/klay_thompson_reveals_his_alltime_starting_five_c/",
+      "source": "r/NBA",
+      "published": "2026-08-14T14:41:49+00:00"
+    },
+    {
+      "headline": "Researcher Encodes Doom’s Rendering Engine into a 21‑Billion‑Parameter Transformer Without Training",
+      "summary": "A developer converted the Doom game’s rendering algorithm into a 21 billion‑parameter transformer by compiling the computation graph directly into model weights, bypassing any training phase. The experiment shows that massive transformers can be repurposed to run arbitrary code when their weights are engineered rather than learned.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-14T15:50:11+00:00"
+    },
+    {
+      "headline": "The ‘Centaur Era’: AI’s Surge in Verifiable Fields and the Rise of Human‑Machine Teams",
+      "summary": "Deric’s MindBlog argues that AI is delivering “Move 37” breakthroughs—unexpected, high‑impact discoveries—in domains where results can be rigorously checked, such as mathematics and code. From a 2023 dip in elementary math to a perfect Olympiad score in 2026, frontier models have solved problems previously thought intractable, prompting a shift toward human‑AI collaboration dubbed the centaur era, even as sandbox‑escape incidents raise safety concerns.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://mindblog.dericbownds.net/2026/08/how-ai-changes-everything-centaur-era.html",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T23:00:35Z"
+      "published": "2026-08-14T05:00:00Z"
+    },
+    {
+      "headline": "Designing an Adaptive Recommendation Engine for Student Question Banks",
+      "summary": "The post asks for a method to build a system that profiles a learner’s strengths and weaknesses and then suggests practice questions that target weak areas without overwhelming difficulty. An effective solution would combine diagnostic testing, Bayesian updating, and difficulty‑balancing algorithms to personalize the question flow.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-14T18:54:26+00:00"
+    },
+    {
+      "headline": "OncoThresh: Open‑Source Toolkit and Dashboard for Assessing Oncology AI at Decision Cutoffs",
+      "summary": "Typical oncology AI metrics like AUC miss performance at the exact threshold that determines whether a patient is flagged for biopsy or treatment. The new Python library and no‑code web dashboard evaluate models precisely at those clinical decision points, giving clinicians actionable reliability data.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-14T17:06:09+00:00"
+    },
+    {
+      "headline": "How Does TMLR Stack Up Against Top ML Conferences and Journals?",
+      "summary": "A Reddit user seeks clarification on the prestige of the Transactions on Machine Learning Research (TMLR) relative to flagship conferences such as NeurIPS, ICLR, ICML, and established journals like JMLR. The discussion centers on impact, acceptance rates, and community perception.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-13T23:16:16+00:00"
+    },
+    {
+      "headline": "torch‑preflight: A PyTorch Linter to Catch Bugs and Save GPU Hours",
+      "summary": "The creator released torch‑preflight, a static analysis tool that scans PyTorch scripts for common coding errors that can waste GPU resources. By flagging issues before runtime, it aims to reduce debugging time and improve reproducibility for deep‑learning projects.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-14T14:30:56+00:00"
     },
     {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
@@ -190,24 +217,6 @@
       "url": "https://www.thirdapron.com/p/phoenix-suns-2026-offseason-reaction",
       "source": "Third Apron",
       "published": "2026-08-13T18:21:15+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
-      "summary": "The August 14 issue compiles expert takes on the 2026‑27 NBA calendar, including the Hawks’ West Coast challenges, Doc Rivers’ Hall of Fame induction, Bulls’ early‑season outlook, and detailed schedule analyses for the Lakers, Knicks, Grizzlies, and others, aimed at paid subscribers.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-14T17:43:32+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Publishes August 13 Newsletter Packed with Team‑Specific NBA Analysis",
-      "summary": "The August 13 edition of Basketball Intelligence delivers a suite of articles covering the Celtics’ “Mazzulla Ball” strategy, Dillon Mitchell’s defensive prospects, the Mavericks’ offseason recap, and pieces on Tyrese Haliburton, Yaxel Lendeborg, and more. It also previews league‑wide and draft content available to paid subscribers, positioning the newsletter as a one‑stop source for in‑depth NBA reporting.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81326",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-13T18:23:12+00:00"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -255,6 +264,24 @@
       "published": "2026-08-14T04:02:00+00:00"
     },
     {
+      "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
+      "summary": "The August 14 issue compiles expert takes on the 2026‑27 NBA calendar, including the Hawks’ West Coast challenges, Doc Rivers’ Hall of Fame induction, Bulls’ early‑season outlook, and detailed schedule analyses for the Lakers, Knicks, Grizzlies, and others, aimed at paid subscribers.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-14T17:43:32+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence Publishes August 13 Newsletter Packed with Team‑Specific NBA Analysis",
+      "summary": "The August 13 edition of Basketball Intelligence delivers a suite of articles covering the Celtics’ “Mazzulla Ball” strategy, Dillon Mitchell’s defensive prospects, the Mavericks’ offseason recap, and pieces on Tyrese Haliburton, Yaxel Lendeborg, and more. It also previews league‑wide and draft content available to paid subscribers, positioning the newsletter as a one‑stop source for in‑depth NBA reporting.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81326",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-13T18:23:12+00:00"
+    },
+    {
       "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
       "summary": "Chase Budinger and Trevor Crabb entered the Manhattan Beach Open as the No. 1 men’s seed, teaming up on U.S. soil for the first time after Budinger’s 2025 win with Miles Evans. The three‑day event features 64 main‑draw teams and a Thursday qualifier that saw 160 pairs vie for 16 spots, with free sand admission. Defending women’s champions Taryn Brasher and Kristen Cruz are the top seed, chasing a historic third straight title.",
       "category": "Sports",
@@ -289,6 +316,15 @@
       "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
       "source": "Stratechery",
       "published": "2026-08-14T17:00:00+00:00"
+    },
+    {
+      "headline": "iPhone Camera Lens Covers Are Sapphire, Not Scratch‑Prone Glass",
+      "summary": "The glossy circles on the back of iPhones are protective sapphire covers, not the actual lenses, which sit recessed inside. Sapphire’s hardness makes it virtually immune to scratches—experiments by YouTuber JerryRigEverything show a razor blade can’t mark them, though the material can shatter under extreme force. So everyday placement of the phone face‑down won’t damage the camera’s optics.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance",
+      "source": "Daring Fireball",
+      "published": "2026-08-14T17:16:15+00:00"
     },
     {
       "headline": "Google’s Material 3 Expressive Design Criticized as Over‑Documented",
@@ -399,15 +435,6 @@
       "published": "2026-08-14T16:37:54+00:00"
     },
     {
-      "headline": "NBA insider reveals why Warriors lost interest in a Kawhi Leonard trade",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://warriorswire.usatoday.com/story/sports/nba/warriors/2026/08/13/warriors-insider-reveals-team-lost-interest-kawhi-leonard-trade/91297372007/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T01:37:11Z"
-    },
-    {
       "headline": "6 takeaways from Detroit Lions’ 16-14 loss to the Bengals",
       "summary": "",
       "category": "NFL",
@@ -415,33 +442,6 @@
       "url": "https://www.prideofdetroit.com/detroit-lions-analysis/169136/6-takeaways-detroit-lions-loss-cincinnati-bengals-preseason-week-1",
       "source": "NewsAPI:NFL contract",
       "published": "2026-08-14T03:02:51Z"
-    },
-    {
-      "headline": "European publishers are getting hit harder by AI bot scraping, report finds",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "http://digiday.com/media/european-publishers-are-getting-hit-harder-by-ai-bot-scraping-report-finds/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T04:01:00Z"
-    },
-    {
-      "headline": "Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-13T23:32:55Z"
-    },
-    {
-      "headline": "iPhone Camera Lens Covers Are Sapphire, Not Scratch‑Prone Glass",
-      "summary": "The glossy circles on the back of iPhones are protective sapphire covers, not the actual lenses, which sit recessed inside. Sapphire’s hardness makes it virtually immune to scratches—experiments by YouTuber JerryRigEverything show a razor blade can’t mark them, though the material can shatter under extreme force. So everyday placement of the phone face‑down won’t damage the camera’s optics.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/iphone_camera_lens_scratch_resistance",
-      "source": "Daring Fireball",
-      "published": "2026-08-14T17:16:15+00:00"
     },
     {
       "headline": "New bounds pin Grothendieck constant’s tenths digit at 7",
