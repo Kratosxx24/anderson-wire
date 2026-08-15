@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:11:47.375426+00:00",
+  "generated_at": "2026-08-15T05:46:43.521404+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,13 +75,13 @@
       "published": "2026-08-14T16:15:21+00:00"
     },
     {
-      "headline": "Anthropic Backers Eye $2 Trillion Valuation for October IPO",
-      "summary": "Investors in AI developer Anthropic are setting an unprecedented $2 trillion target ahead of an anticipated October public offering. Roughly half a dozen backers confirmed the aggressive valuation goal to the Financial Times. If achieved, the offering would establish a record-breaking market capitalization for a newly public tech company.",
+      "headline": "The ‘Centaur Era’: AI’s Surge in Verifiable Fields and the Rise of Human‑Machine Teams",
+      "summary": "Deric’s MindBlog argues that AI is delivering “Move 37” breakthroughs—unexpected, high‑impact discoveries—in domains where results can be rigorously checked, such as mathematics and code. From a 2023 dip in elementary math to a perfect Olympiad score in 2026, frontier models have solved problems previously thought intractable, prompting a shift toward human‑AI collaboration dubbed the centaur era, even as sandbox‑escape incidents raise safety concerns.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://biztoc.com/x/bff088b7485f0f7c",
+      "url": "https://mindblog.dericbownds.net/2026/08/how-ai-changes-everything-centaur-era.html",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T01:21:18Z"
+      "published": "2026-08-14T05:00:00Z"
     },
     {
       "headline": "Afghan Women Describe Life Under Taliban as Unrecognizable Five Years On",
@@ -138,78 +138,6 @@
       "published": "2026-08-14T14:41:22+00:00"
     },
     {
-      "headline": "Kobe Bryant Sent Adam Morrison a Signed Didier Drogba Jersey as a Personal Pep Talk",
-      "summary": "Adam Morrison says Kobe publicly defended him and, knowing Morrison’s admiration for soccer star Didier Drogba, mailed a game‑worn, autographed Drogba jersey when Morrison was out of the NBA. The gesture was meant as a morale boost during a low point and illustrates Kobe’s habit of supporting teammates beyond basketball.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vops4y/adam_morrison_on_kobe_he_publicly_defended_me/",
-      "source": "r/NBA",
-      "published": "2026-08-15T01:40:20+00:00"
-    },
-    {
-      "headline": "Klay Thompson Names Dream Starting Five: Curry, Kobe, LeBron, Duncan, Shaq",
-      "summary": "Klay Thompson posted his ultimate lineup, slotting Stephen Curry at point guard, Kobe Bryant at shooting guard, LeBron James at small forward, Tim Duncan at power forward, and Shaquille O’Neal at center. The fan‑submitted list sparked discussion about the all‑time best backcourt and frontcourt combos.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vo95ys/klay_thompson_reveals_his_alltime_starting_five_c/",
-      "source": "r/NBA",
-      "published": "2026-08-14T14:41:49+00:00"
-    },
-    {
-      "headline": "Researcher Encodes Doom’s Rendering Engine into a 21‑Billion‑Parameter Transformer Without Training",
-      "summary": "A developer converted the Doom game’s rendering algorithm into a 21 billion‑parameter transformer by compiling the computation graph directly into model weights, bypassing any training phase. The experiment shows that massive transformers can be repurposed to run arbitrary code when their weights are engineered rather than learned.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-14T15:50:11+00:00"
-    },
-    {
-      "headline": "The ‘Centaur Era’: AI’s Surge in Verifiable Fields and the Rise of Human‑Machine Teams",
-      "summary": "Deric’s MindBlog argues that AI is delivering “Move 37” breakthroughs—unexpected, high‑impact discoveries—in domains where results can be rigorously checked, such as mathematics and code. From a 2023 dip in elementary math to a perfect Olympiad score in 2026, frontier models have solved problems previously thought intractable, prompting a shift toward human‑AI collaboration dubbed the centaur era, even as sandbox‑escape incidents raise safety concerns.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://mindblog.dericbownds.net/2026/08/how-ai-changes-everything-centaur-era.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T05:00:00Z"
-    },
-    {
-      "headline": "Designing an Adaptive Recommendation Engine for Student Question Banks",
-      "summary": "The post asks for a method to build a system that profiles a learner’s strengths and weaknesses and then suggests practice questions that target weak areas without overwhelming difficulty. An effective solution would combine diagnostic testing, Bayesian updating, and difficulty‑balancing algorithms to personalize the question flow.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vog25j/how_to_build_an_adaptive_learningrecommendation/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-14T18:54:26+00:00"
-    },
-    {
-      "headline": "OncoThresh: Open‑Source Toolkit and Dashboard for Assessing Oncology AI at Decision Cutoffs",
-      "summary": "Typical oncology AI metrics like AUC miss performance at the exact threshold that determines whether a patient is flagged for biopsy or treatment. The new Python library and no‑code web dashboard evaluate models precisely at those clinical decision points, giving clinicians actionable reliability data.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-14T17:06:09+00:00"
-    },
-    {
-      "headline": "How Does TMLR Stack Up Against Top ML Conferences and Journals?",
-      "summary": "A Reddit user seeks clarification on the prestige of the Transactions on Machine Learning Research (TMLR) relative to flagship conferences such as NeurIPS, ICLR, ICML, and established journals like JMLR. The discussion centers on impact, acceptance rates, and community perception.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-13T23:16:16+00:00"
-    },
-    {
-      "headline": "torch‑preflight: A PyTorch Linter to Catch Bugs and Save GPU Hours",
-      "summary": "The creator released torch‑preflight, a static analysis tool that scans PyTorch scripts for common coding errors that can waste GPU resources. By flagging issues before runtime, it aims to reduce debugging time and improve reproducibility for deep‑learning projects.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-14T14:30:56+00:00"
-    },
-    {
       "headline": "Phoenix Suns' 2026 Offseason Moves Scrutinized in Salary‑Cap Deep Dive",
       "summary": "In the latest Third Apron episode, salary‑cap analyst Yossi Gozlan and Suns After Dark host Gerald Bourguet break down every Phoenix Suns roster move, weighing contracts against the 2026 cap using capsheets.com data. The podcast, available on all major platforms, also promotes Gozlan’s Substack where listeners can subscribe for detailed cap analysis.",
       "category": "NBA",
@@ -217,6 +145,24 @@
       "url": "https://www.thirdapron.com/p/phoenix-suns-2026-offseason-reaction",
       "source": "Third Apron",
       "published": "2026-08-13T18:21:15+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
+      "summary": "The August 14 issue compiles expert takes on the 2026‑27 NBA calendar, including the Hawks’ West Coast challenges, Doc Rivers’ Hall of Fame induction, Bulls’ early‑season outlook, and detailed schedule analyses for the Lakers, Knicks, Grizzlies, and others, aimed at paid subscribers.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-14T17:43:32+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence Publishes August 13 Newsletter Packed with Team‑Specific NBA Analysis",
+      "summary": "The August 13 edition of Basketball Intelligence delivers a suite of articles covering the Celtics’ “Mazzulla Ball” strategy, Dillon Mitchell’s defensive prospects, the Mavericks’ offseason recap, and pieces on Tyrese Haliburton, Yaxel Lendeborg, and more. It also previews league‑wide and draft content available to paid subscribers, positioning the newsletter as a one‑stop source for in‑depth NBA reporting.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81326",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-13T18:23:12+00:00"
     },
     {
       "headline": "Jaguars Blend Fangio Shells with Flores Pressure in New Split-Field Scheme",
@@ -246,6 +192,15 @@
       "published": "2026-08-14T18:35:19+00:00"
     },
     {
+      "headline": "2026.33: The CapEx Train Keeps Rolling",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
+      "source": "Stratechery",
+      "published": "2026-08-14T17:00:00+00:00"
+    },
+    {
       "headline": "fata morgana",
       "summary": "",
       "category": "Music",
@@ -262,24 +217,6 @@
       "url": "https://pitchfork.com/reviews/albums/open-mike-eagle-kenny-segal-doomed/",
       "source": "Pitchfork",
       "published": "2026-08-14T04:02:00+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
-      "summary": "The August 14 issue compiles expert takes on the 2026‑27 NBA calendar, including the Hawks’ West Coast challenges, Doc Rivers’ Hall of Fame induction, Bulls’ early‑season outlook, and detailed schedule analyses for the Lakers, Knicks, Grizzlies, and others, aimed at paid subscribers.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-14T17:43:32+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Publishes August 13 Newsletter Packed with Team‑Specific NBA Analysis",
-      "summary": "The August 13 edition of Basketball Intelligence delivers a suite of articles covering the Celtics’ “Mazzulla Ball” strategy, Dillon Mitchell’s defensive prospects, the Mavericks’ offseason recap, and pieces on Tyrese Haliburton, Yaxel Lendeborg, and more. It also previews league‑wide and draft content available to paid subscribers, positioning the newsletter as a one‑stop source for in‑depth NBA reporting.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81326",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-13T18:23:12+00:00"
     },
     {
       "headline": "Budinger, Crabb Earn Top Seed at 2026 AVP Manhattan Beach Open",
@@ -307,15 +244,6 @@
       "url": "https://www.cbssports.com/nba/news/nba-basketball-hall-of-fame-tiers-first-ballot-locks/",
       "source": "CBS Sports",
       "published": "2026-08-14T21:35:19+00:00"
-    },
-    {
-      "headline": "2026.33: The CapEx Train Keeps Rolling",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "source": "Stratechery",
-      "published": "2026-08-14T17:00:00+00:00"
     },
     {
       "headline": "iPhone Camera Lens Covers Are Sapphire, Not Scratch‑Prone Glass",
@@ -442,6 +370,78 @@
       "url": "https://www.prideofdetroit.com/detroit-lions-analysis/169136/6-takeaways-detroit-lions-loss-cincinnati-bengals-preseason-week-1",
       "source": "NewsAPI:NFL contract",
       "published": "2026-08-14T03:02:51Z"
+    },
+    {
+      "headline": "Anthropic Targets Record $2 Trillion Valuation in Fall IPO",
+      "summary": "Investors expect the AI firm to go public later this year with a valuation of at least $2 trillion, eclipsing SpaceX’s recent market cap. The lofty figure reflects strong backing and hype around its Claude models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://biztoc.com/x/de6d26ec91e67144",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T05:34:00+00:00"
+    },
+    {
+      "headline": "Kidnapped U.S. Missionary Kevin Rideout Released in Niger",
+      "summary": "After being abducted in Niamey on Oct. 21, 2025, missionary Kevin Rideout was freed on Aug. 14, 2026 and is reported to be in good health under U.S. officials’ care. Details of the release were not disclosed and the State Department has not yet confirmed the news.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
+      "source": "NPR News",
+      "published": "2026-08-14T08:11:50-04:00"
+    },
+    {
+      "headline": "Luka Doncic to Video‑Chat with New Lakers Owners Kushner and Iger",
+      "summary": "Following the sale of the franchise to Josh Kushner and Bob Iger, Luka Doncic plans a virtual meeting next week from Slovenia. He will also host a minicamp for his teammates Aug 20‑24, cementing his leadership after LeBron James’ departure.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://lebronwire.usatoday.com/story/sports/nba/2026/08/13/report-luka-doncic-will-meet-with-new-lakers-owners-soon/91299556007/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T05:10:27Z"
+    },
+    {
+      "headline": "Patriots Face Hurdle Getting Value for WR Kayshon Boutte",
+      "summary": "New England’s deep receiver room makes it tough to trade Boutte, who logged 33 catches for 551 yards and six touchdowns last season and is entering the final year of his contract. The team seeks significant return before his deal expires, but few suitors appear willing to meet that price.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://heavy.com/sports/nfl/new-england-patriots/facing-unexpected-challenge-trading-kayshon-boutte/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-14T01:10:02+00:00"
+    },
+    {
+      "headline": "Telegram Bot ‘cliclaw’ Lets Users Run Claude, Codex, Pi, Gemini CLIs from Phone",
+      "summary": "The open‑source project provides a macOS daemon that bridges four local coding command‑line tools—Claude Code, OpenAI Codex, Pi, and Google Gemini—to a Telegram interface, supporting per‑chat sessions, safety confirmations, response streaming, and corporate TLS auto‑detection. Installation requires Bun or npm and the respective CLI binaries.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/choiyounggi/cliclaw",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-14T05:07:01Z"
+    },
+    {
+      "headline": "Heat Propose Blockbuster Deal to Add Kevin Durant, Form New Big 3",
+      "summary": "Miami’s plan would send Myles Turner, Andrew Wiggins, Davion Mitchell and a 2027 protected first‑round pick to the Rockets, while the Bucks receive Daniel Gafford and Fred VanVleet and the Mavericks acquire Reed Sheppard, in exchange for Kevin Durant and guard Kevin Porter Jr. The move aims to pair Durant with Giannis Antetokounmpo and Bam Adebayo despite salary‑cap constraints.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-kevin-durant-trade/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T01:54:31+00:00"
+    },
+    {
+      "headline": "Patriots Cornerback Christian Gonzalez Skips Training Camp Over Injury",
+      "summary": "New England placed Gonzalez on the sidelines as he recovers from lingering issues that limited him to four games his rookie season. Coaches called the decision logical, leaving the team to rely on depth in the secondary.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://nesn.com/new-england-patriots/news/patriots-christian-gonzalez-sitting-camp-logical-amid-injury/6fb6d6f27cca8356afd06e32",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-14T03:10:01+00:00"
+    },
+    {
+      "headline": "Clippers Re‑Sign Bradley Beal to Two‑Year, $13.2 Million Deal",
+      "summary": "After declining a $5.6 million player option, Beal returned to Los Angeles on a two‑year contract worth $13.2 million, with a player option for the second year. The three‑time All‑Star is coming off hip‑surgery rehab and the move frees salary space for the club, though the Kawhi Leonard saga remains unresolved.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://heavy.com/sports/nba/los-angeles-clippers/clippers-bring-back-3x-nba-allstar/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-14T00:25:36+00:00"
     },
     {
       "headline": "New bounds pin Grothendieck constant’s tenths digit at 7",
