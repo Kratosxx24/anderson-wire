@@ -10,7 +10,9 @@ Provider waterfall (tried in order, automatic fallback on ANY failure):
                                                 getting sunset out from under new keys,
                                                 so this tracks Google's current release)
   4. Groq     — openai/gpt-oss-120b      (same key, strong production model)
-  5. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
+  5. Groq     — openai/gpt-oss-20b       (same key, separate quota from 120b)
+  6. Groq     — qwen/qwen3.6-27b         (same key, separate quota)
+  7. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
 
 The chain falls through on any provider error (rate-limit, decommissioned
 model, network blip), so one provider breaking never kills the run. Any
@@ -193,10 +195,16 @@ def _build_provider_chain(prefer_gemini: bool = False):
     if not prefer_gemini and gemini_entry:
         chain.append(gemini_entry)
 
-    # Tier 3 — other Groq production models (last resort, same key)
+    # Tier 3 — other Groq production models (last resort, same key). Each
+    # model has its own separate free-tier quota (not a shared pool), so
+    # these add real fallback capacity rather than just redundancy.
     if groq_key:
         chain.append(("Groq/gpt-oss-120b",
                        _groq_call("openai/gpt-oss-120b", groq_key)))
+        chain.append(("Groq/gpt-oss-20b",
+                       _groq_call("openai/gpt-oss-20b", groq_key)))
+        chain.append(("Groq/qwen3.6-27b",
+                       _groq_call("qwen/qwen3.6-27b", groq_key)))
         chain.append(("Groq/llama-3.1-8b-instant",
                        _groq_call("llama-3.1-8b-instant", groq_key)))
 
