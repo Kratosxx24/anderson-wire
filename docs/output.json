@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:03:27.481963+00:00",
+  "generated_at": "2026-08-15T14:33:24.547185+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -48,15 +48,6 @@
       "published": "2026-08-14T13:37:46Z"
     },
     {
-      "headline": "CBS Sports Unveils 2026 Fantasy Football Model Projections",
-      "summary": "CBS Sports has released its 2026 fantasy football forecast, relying on the predictive analytical model that previously identified Daniel Jones' breakout campaign. The tool spotlights key sleepers, potential breakout players, and high-risk busts across the league for upcoming fantasy drafts.",
-      "category": "NFL",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-called-daniel-jones-big-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-14T19:48:47+00:00"
-    },
-    {
       "headline": "Guiding Teens Through Social‑Media Friendship Challenges",
       "summary": "The article offers parents and youth leaders practical advice for helping adolescents maintain healthy friendships amid the pressures of platforms like Instagram and TikTok. It stresses open communication, digital‑literacy skills, and setting clear boundaries to prevent online drama from spilling into real‑life relationships.",
       "category": "Faith",
@@ -102,6 +93,24 @@
       "published": "2026-08-14T18:07:08+00:00"
     },
     {
+      "headline": "LLM Tagging Hack: Generate New Labels, Match with Existing Corpus",
+      "summary": "Simon Willison proposes letting a language model invent tags for content, then using vector embeddings to map those imagined tags to his 1,856 existing ones. This sidesteps the need to feed the entire tag list to the model while still producing relevant, structured labels, as illustrated with a furniture‑classification example.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+      "source": "Simon Willison",
+      "published": "2026-08-14T21:54:35+00:00"
+    },
+    {
+      "headline": "Netflix Deploys LLM‑Native Recommendation System",
+      "summary": "Netflix has unveiled GenRec, a recommendation engine built around large language models that aims to personalize content more accurately and reduce cold‑start problems. By leveraging LLMs, the system can interpret user preferences and content attributes in a more nuanced way than traditional collaborative filtering.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "source": "Hacker News",
+      "published": "2026-08-15T12:56:56+00:00"
+    },
+    {
       "headline": "GCC 16 Eliminates Trampolines for Non‑Capturing Nested Functions",
       "summary": "GCC 16 guarantees that nested functions that do not access parent locals no longer require runtime trampolines, allowing safe return of such functions and reducing stack‑executability requirements. The update also warns when returning capturing functions and paves the way for future wide‑pointer support.",
       "category": "Tech/AI",
@@ -109,6 +118,15 @@
       "url": "https://uecker.codeberg.page/2026-07-14.html",
       "source": "Hacker News",
       "published": "2026-08-15T07:59:42+00:00"
+    },
+    {
+      "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
+      "summary": "A shallow 7.7‑magnitude earthquake struck Indonesia’s Flores island at a depth of 15 km, leaving at least 14 people dead and many more injured. Strong aftershocks, including a 6.1 magnitude tremor, damaged the Maumere port, prompted a brief tsunami warning, and forced roughly 2,000 residents to evacuate.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T13:35:57+00:00"
     },
     {
       "headline": "ThoughtDAG Turns LLM Context Into an Editable Graph",
@@ -127,24 +145,6 @@
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
       "source": "Hacker News",
       "published": "2026-08-15T04:18:44+00:00"
-    },
-    {
-      "headline": "7.7‑Magnitude Quake on Flores Kills at Least 14, Triggers Tsunami Alert",
-      "summary": "A shallow 7.7‑magnitude earthquake struck Indonesia’s Flores island at a depth of 15 km, leaving at least 14 people dead and many more injured. Strong aftershocks, including a 6.1 magnitude tremor, damaged the Maumere port, prompted a brief tsunami warning, and forced roughly 2,000 residents to evacuate.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T13:35:57+00:00"
-    },
-    {
-      "headline": "Claude Code Guide Shows How to Cut Token Costs and Boost Productivity",
-      "summary": "Anthropic’s Lydia Hallie outlines practical habits—clearing context between tasks, setting model and effort levels upfront, using @‑mentions for files, running /context once, and summarizing with /compact—to reduce unnecessary token usage and get more value from Claude Code sessions.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "Hacker News",
-      "published": "2026-08-14T16:15:21+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -282,31 +282,31 @@
       "published": "2026-08-14T11:04:09Z"
     },
     {
-      "headline": "QCon Talk: Why 300 Tokens Outperform 100k in AI Context Engineering",
-      "summary": "Baruch Sadogursky and Patrick Debois explain that bloated prompt windows hurt agent performance, and propose techniques like lazy‑loaded skills, versioned context, and external memory banks. The session highlighted practical fixes to keep AI agents efficient and reliable.",
+      "headline": "AI Prompt Seeks 19th-Century Life Snapshot of Rebecca Spangler",
+      "summary": "A user asked an AI to paint a picture of 14‑year‑old Rebecca Spangler living in Mercer County, Pennsylvania in 1846, hoping for details about her daily routine, family, and social context. The request highlights how people use generative models to reconstruct historical lives.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.infoq.com/presentations/architecture-context-engineering/",
+      "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/5659095246675499672",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T11:00:00Z"
+      "published": "2026-08-14T13:05:00Z"
     },
     {
-      "headline": "LLM Tagging Hack: Generate New Labels, Match with Existing Corpus",
-      "summary": "Simon Willison proposes letting a language model invent tags for content, then using vector embeddings to map those imagined tags to his 1,856 existing ones. This sidesteps the need to feed the entire tag list to the model while still producing relevant, structured labels, as illustrated with a furniture‑classification example.",
+      "headline": "T3X/0: A Tiny, Cross‑Platform Procedural Language for Teaching and Retro Development",
+      "summary": "T3X/0 is a compact, block‑structured language with Pascal‑like syntax and BCPL‑style semantics, released under a public‑domain license. It ships with lightweight editors, a three‑key compiler, and runs on modern Unix, FreeBSD, macOS, DOS, CP/M, and even ARM, making it ideal for educational projects and retro‑style programming.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-      "source": "Simon Willison",
-      "published": "2026-08-14T21:54:35+00:00"
-    },
-    {
-      "headline": "Netflix Deploys LLM‑Native Recommendation System",
-      "summary": "Netflix has unveiled GenRec, a recommendation engine built around large language models that aims to personalize content more accurately and reduce cold‑start problems. By leveraging LLMs, the system can interpret user preferences and content attributes in a more nuanced way than traditional collaborative filtering.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+      "url": "https://t3x.org/t3x/0/index.html",
       "source": "Hacker News",
-      "published": "2026-08-15T12:56:56+00:00"
+      "published": "2026-08-15T12:06:24+00:00"
+    },
+    {
+      "headline": "Coding With AI Turns Into Leadership, Not Just Programming",
+      "summary": "The author argues that interacting with AI requires the same clarity, context, and iterative guidance as leading a team, rather than treating the model as a deterministic compiler. By framing prompts as collaborative conversations, developers can better align AI output with intent and improve efficiency.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "source": "Hacker News",
+      "published": "2026-08-15T10:06:22Z"
     },
     {
       "headline": "Basketball Intelligence Issues Season‑Preview Digest with Team‑by‑Team Schedule Breakdowns",
@@ -354,6 +354,15 @@
       "published": "2026-08-14T18:35:19+00:00"
     },
     {
+      "headline": "Dave Richard’s WR Tier Update: Malik Nabers Leaps, Courtland Sutton Slides",
+      "summary": "Fantasy analysts move Malik Nabers up the wide‑receiver rankings after a breakout performance, while Courtland Sutton drops a tier amid concerns over consistency and target share.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-wide-receiver-tiers-wr-rankings-dave-richard/",
+      "source": "CBS Sports",
+      "published": "2026-08-14T18:30:03+00:00"
+    },
+    {
       "headline": "fata morgana",
       "summary": "",
       "category": "Music",
@@ -388,15 +397,6 @@
       "url": "https://volleyballmag.com/progressive-insurance-headlines-avp-s-biggest-sponsorship/?utm_source=rss&utm_medium=rss&utm_campaign=progressive-insurance-headlines-avp-s-biggest-sponsorship",
       "source": "Volleyball Mag",
       "published": "2026-08-14T07:09:52+00:00"
-    },
-    {
-      "headline": "Dave Richard’s WR Tier Update: Malik Nabers Leaps, Courtland Sutton Slides",
-      "summary": "Fantasy analysts move Malik Nabers up the wide‑receiver rankings after a breakout performance, while Courtland Sutton drops a tier amid concerns over consistency and target share.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-wide-receiver-tiers-wr-rankings-dave-richard/",
-      "source": "CBS Sports",
-      "published": "2026-08-14T18:30:03+00:00"
     },
     {
       "headline": "Dave Richard’s TE Tier 3.0: LaPorta, Kraft, Pitts and Kittle in Focus",
@@ -444,13 +444,13 @@
       "published": "2026-08-14T04:01:00+00:00"
     },
     {
-      "headline": "EEG Reveals Brain Focuses Inward During REM Sleep",
-      "summary": "Recent EEG recordings show that during REM sleep the brain shifts from external sensory processing to internal auditory activity, suggesting a role in memory consolidation and dream generation. The study indicates that the brain’s listening mechanisms become self‑referential during this sleep stage.",
+      "headline": "Mangione Pleads Guilty to Federal Stalking Charges; State Trial Pending",
+      "summary": "Luigi Mangione, charged with the 2024 shooting death of UnitedHealthcare CEO Brian Thompson, admitted guilt to federal stalking charges in Manhattan court, but a separate judge will decide whether his state trial proceeds. Mangione offered no remorse and maintained he knew what he was doing.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T13:09:28+00:00"
+      "relevance": 4,
+      "url": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
+      "source": "NPR News",
+      "published": "2026-08-14T12:05:24-04:00"
     }
   ]
 }
