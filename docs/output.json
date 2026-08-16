@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:48:17.997337+00:00",
+  "generated_at": "2026-08-16T10:04:16.717816+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -48,6 +48,24 @@
       "published": "2026-08-15T18:52:12+00:00"
     },
     {
+      "headline": "Jaylen Brown Compares Modern Social Media to Bentham's Panopticon",
+      "summary": "Boston Celtics star Jaylen Brown framed modern digital platforms as a form of psychological surveillance and control. He argued that bots, fake accounts, and viral clips now act as a digital watchtower, driving behavioral changes and normalization across the public.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vp4xuu/jaylen_brown_panopticism_a_prison_design_so/",
+      "source": "r/NBA",
+      "published": "2026-08-15T14:56:12+00:00"
+    },
+    {
+      "headline": "Fans Demand Draft Pick Penalties Over Alleged NBA Salary Cap Evasion",
+      "summary": "NBA fans are calling on Commissioner Adam Silver to strip draft picks from ultra-wealthy team owners instead of issuing standard fines. The outrage follows reports and leaked emails detailing financial maneuvers involving Aspiration and Daktronics to circumvent league spending rules.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vp8wp3/take_away_their_picks_or_stop_pretending_the_cap/",
+      "source": "r/NBA",
+      "published": "2026-08-15T17:35:04+00:00"
+    },
+    {
       "headline": "Devon Witherspoon Signs $132M Extension, Becomes NFL’s Highest‑Paid Cornerback",
       "summary": "Seattle Seahawks cornerback Devon Witherspoon agreed to a five‑year, $132 million extension, setting a new record for defensive backs and raising the benchmark for players like Christian Gonzalez. The deal makes Witherspoon the highest‑paid CB in NFL history.",
       "category": "NFL",
@@ -75,15 +93,6 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
-      "headline": "LLM Tagging Hack: Generate New Labels, Match with Existing Corpus",
-      "summary": "Simon Willison proposes letting a language model invent tags for content, then using vector embeddings to map those imagined tags to his 1,856 existing ones. This sidesteps the need to feed the entire tag list to the model while still producing relevant, structured labels, as illustrated with a furniture‑classification example.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
-      "source": "Simon Willison",
-      "published": "2026-08-14T21:54:35+00:00"
-    },
-    {
       "headline": "AI Workflow Successfully Modernizes 250,000-Line Legacy Fortran Weather Model for GPUs",
       "summary": "Researchers deployed a CLI-based AI agent to convert CReSS, a massive legacy Fortran weather simulation, to run on GPUs using OpenACC. The validation-focused pipeline successfully adapted 162 computational kernels, caught subtle floating-point discrepancies, and delivered a 5.1x application-level speedup during typhoon modeling benchmarks.",
       "category": "Tech/AI",
@@ -102,15 +111,6 @@
       "published": "2026-08-15T22:31:09+00:00"
     },
     {
-      "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
-      "summary": "Eleven people died in Israeli airstrikes on southern Lebanon, including three children and two women, marking one of the deadliest days since a June ceasefire agreement. Lebanese officials say the strikes hit a house near Ansar and the town of Deir al-Zahrani, while Israel claims it targeted a Hezbollah commander and his associates. Prime Minister Nawaf Salam condemned the attacks, calling the civilians \"not military infrastructure.\"",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T20:21:14+00:00"
-    },
-    {
       "headline": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
       "summary": "",
       "category": "Tech/AI",
@@ -118,6 +118,15 @@
       "url": "https://sugartrack-beta.vercel.app/",
       "source": "Hacker News",
       "published": "2026-08-15T22:28:14+00:00"
+    },
+    {
+      "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
+      "summary": "Eleven people died in Israeli airstrikes on southern Lebanon, including three children and two women, marking one of the deadliest days since a June ceasefire agreement. Lebanese officials say the strikes hit a house near Ansar and the town of Deir al-Zahrani, while Israel claims it targeted a Hezbollah commander and his associates. Prime Minister Nawaf Salam condemned the attacks, calling the civilians \"not military infrastructure.\"",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T20:21:14+00:00"
     },
     {
       "headline": "Developer Solves Elusive Zsh History Loss Flaw",
@@ -183,6 +192,15 @@
       "published": "2026-08-15T18:33:25+00:00"
     },
     {
+      "headline": "AI's Mathematical Prowess Driven by Massive Working Memory, Not Superior Logic",
+      "summary": "An analysis argues that advanced AI models excel at complex mathematics because of their massive symbolic context windows rather than human-like intuition. While human mathematicians are biologically constrained to holding a few variables in mind, AI systems can effortlessly track entire problem statements, definitions, and abandoned proofs simultaneously.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News",
+      "published": "2026-08-15T18:13:02+00:00"
+    },
+    {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
       "summary": "Marques Brownlee shares initial hands-on reactions to Google's refreshed hardware portfolio, spanning the Pixel 11, 11 Pro, and new Fold. The overview assesses whether Google's iterative updates and software features offer meaningful progress.",
       "category": "YouTube",
@@ -246,6 +264,15 @@
       "published": "2026-08-15T21:30:21+00:00"
     },
     {
+      "headline": "Elon Musk Concedes Anthropic Leads AI Sector Amid $100B Amazon Infrastructure Deal",
+      "summary": "Elon Musk reversed his past skepticism of Anthropic, publicly declaring the company the current industry leader thanks to its Mythos and Fable models. The admission aligns with Amazon expanding its financial backing toward a potential $33 billion total investment. In exchange, Anthropic committed more than $100 billion over the next decade to utilize Amazon's custom Trainium and Graviton cloud hardware.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.ibtimes.com.au/elon-musk-anthropic-ai-leader-amazon-partnership-1874067",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T06:17:36Z"
+    },
+    {
       "headline": "Riffn Links iOS Voice Commands Directly to Local AI Coding Agents",
       "summary": "Riffn is a new iOS app designed to let developers talk to coding agents running in local repositories over a private Tailscale network. Users pair their device by running a lightweight, open-source Node bridge on their machine and scanning a QR code, avoiding public internet exposure. The audio connection persists in the background with earbud and CarPlay support, allowing hands-free interaction while walking, driving, or away from the keyboard.",
       "category": "Tech/AI",
@@ -253,6 +280,15 @@
       "url": "https://riffn.io/how-riffn-works/",
       "source": "NewsAPI:Anthropic Claude",
       "published": "2026-08-15T06:05:09Z"
+    },
+    {
+      "headline": "Anthropic Targets $200B Revenue by 2028 to Justify Multi-Hundred-Billion IPO Valuation",
+      "summary": "Anthropic is targeting an annual revenue run rate of $190 billion to $200 billion by 2028 to support its planned initial public offering. The ambitious benchmark represents a massive leap from its current $47 billion run rate. Investors are heavily weighing future capacity growth against its recent $965 billion post-money private valuation.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://cryptobriefing.com/anthropic-ipo-valuation-hinges-on-190-200b-2028-revenue-forecast/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T05:14:25Z"
     },
     {
       "headline": "Vinod Khosla Says AI Is Creating a ‘Hyperabundance’ of New Drugs, but Testing Is Still ‘18th-Century’",
@@ -264,94 +300,40 @@
       "published": "2026-08-15T03:30:44Z"
     },
     {
-      "headline": "Anthropic says text watermarking scheme relies on inconsequential words",
+      "headline": "Hey, Your AI Is Showing",
       "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://biztoc.com/x/41c0637698757b11",
+      "url": "http://nymag.com/intelligencer/article/ai-disclosure-day-is-coming.html",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T01:59:17Z"
+      "published": "2026-08-15T10:00:04.862Z"
     },
     {
-      "headline": "Jaylen Brown Compares Modern Social Media to Bentham's Panopticon",
-      "summary": "Boston Celtics star Jaylen Brown framed modern digital platforms as a form of psychological surveillance and control. He argued that bots, fake accounts, and viral clips now act as a digital watchtower, driving behavioral changes and normalization across the public.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vp4xuu/jaylen_brown_panopticism_a_prison_design_so/",
-      "source": "r/NBA",
-      "published": "2026-08-15T14:56:12+00:00"
-    },
-    {
-      "headline": "Fans Demand Draft Pick Penalties Over Alleged NBA Salary Cap Evasion",
-      "summary": "NBA fans are calling on Commissioner Adam Silver to strip draft picks from ultra-wealthy team owners instead of issuing standard fines. The outrage follows reports and leaked emails detailing financial maneuvers involving Aspiration and Daktronics to circumvent league spending rules.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vp8wp3/take_away_their_picks_or_stop_pretending_the_cap/",
-      "source": "r/NBA",
-      "published": "2026-08-15T17:35:04+00:00"
-    },
-    {
-      "headline": "Machine Learning Community Discusses Non-LLM Use Cases for High-End GPUs",
-      "summary": "A discussion on Reddit is challenging machine learning practitioners to identify practical projects for high-end GPUs that exclude training or running large language models. The prompt urges developers to look beyond text generation and explore niche scientific computing or alternative architectures.",
+      "headline": "DeepSeek Unveils Modular AI Harness, Open‑Source Plug‑In Architecture",
+      "summary": "DeepSeek released DeepSeek Harness, an MIT‑licensed preview that lets teams swap out nearly every component of an AI agent—tools, memory, workflows—without touching the core model. The Cordis‑based system logs full session trajectories and offers a plugin‑centric design that could intensify competition with OpenAI and Anthropic.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-15T07:26:32+00:00"
-    },
-    {
-      "headline": "Elon Musk Concedes Anthropic Leads AI Sector Amid $100B Amazon Infrastructure Deal",
-      "summary": "Elon Musk reversed his past skepticism of Anthropic, publicly declaring the company the current industry leader thanks to its Mythos and Fable models. The admission aligns with Amazon expanding its financial backing toward a potential $33 billion total investment. In exchange, Anthropic committed more than $100 billion over the next decade to utilize Amazon's custom Trainium and Graviton cloud hardware.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.ibtimes.com.au/elon-musk-anthropic-ai-leader-amazon-partnership-1874067",
+      "url": "https://4sysops.com/archives/deepseek-harness-turns-every-part-of-an-ai-agent-into-a-swappable-plug-in/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T16:17:36+10:00"
+      "published": "2026-08-15T02:10:20-07:00"
     },
     {
-      "headline": "AI's Mathematical Prowess Driven by Massive Working Memory, Not Superior Logic",
-      "summary": "An analysis argues that advanced AI models excel at complex mathematics because of their massive symbolic context windows rather than human-like intuition. While human mathematicians are biologically constrained to holding a few variables in mind, AI systems can effortlessly track entire problem statements, definitions, and abandoned proofs simultaneously.",
-      "category": "Tech/AI",
+      "headline": "US State Dept. Spokesperson Discusses Iran Conflict and Visa Revocations",
+      "summary": "In an NPR interview, spokesperson Tommy Pigott explained that the U.S. has revoked visas for hundreds of thousands of foreign nationals amid ongoing tensions with Iran, and outlined the challenges of resolving the Strait of Hormuz dispute. Pigott emphasized the lack of a diplomatic solution and the impact on international travel.",
+      "category": "World",
       "relevance": 9,
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Hacker News",
-      "published": "2026-08-04T13:00:48+00:00"
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "source": "NPR News",
+      "published": "2026-08-15T17:20:51-04:00"
     },
     {
-      "headline": "BDH-CQ Architecture Integrates In-Context Learning With Recurrent Latent Reasoning",
-      "summary": "Researchers have introduced BDH-CQ, a framework designed to improve reasoning without decoding intermediate steps into natural language. The system updates recurrent memory from unseen task demonstrations and resolves queries through iterative computation directly inside a high-dimensional latent workspace.",
+      "headline": "Claude Surges in India, Gemini Gains Ground on ChatGPT",
+      "summary": "Sensor Tower data shows Claude's downloads in India jumped 30‑fold to 8.5 million in Q2 2026, with spending rising 19‑fold to ₹62.2 crore, while ChatGPT remains the top spender and Gemini is rapidly increasing engagement. The surge positions Claude as the fastest‑growing major player in a market where generative AI apps vie for dominance.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-15T06:18:15+00:00"
-    },
-    {
-      "headline": "Researchers Question Whether Honest Limitations Sections Harm Peer Review Outcomes",
-      "summary": "A debate has surfaced regarding whether transparently disclosing research limitations puts machine learning papers at a disadvantage during peer review. Authors worry that highlighting flaws might introduce bias among human reviewers or automated AI evaluation tools.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1voksgz/how_much_does_adding_an_honest_limitations/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-14T21:55:55+00:00"
-    },
-    {
-      "headline": "Anthropic Targets $200B Revenue by 2028 to Justify Multi-Hundred-Billion IPO Valuation",
-      "summary": "Anthropic is targeting an annual revenue run rate of $190 billion to $200 billion by 2028 to support its planned initial public offering. The ambitious benchmark represents a massive leap from its current $47 billion run rate. Investors are heavily weighing future capacity growth against its recent $965 billion post-money private valuation.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://cryptobriefing.com/anthropic-ipo-valuation-hinges-on-190-200b-2028-revenue-forecast/",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-ai-app-race-heats-up-as-claude-surges-and-gemini-closes-in-on-chatgpt/articleshow/133258423.cms",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T05:14:25+00:00"
-    },
-    {
-      "headline": "Authors Report Missing Area Chair Threads on OpenReview",
-      "summary": "Machine learning authors are raising concerns after critical discussion threads vanished from the OpenReview platform during the rebuttal phase. The missing content included an Area Chair's summary of reviewer weaknesses alongside the authors' formal responses.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-15T00:32:25+00:00"
+      "published": "2026-08-15T13:14:00+05:30"
     },
     {
       "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
@@ -433,6 +415,24 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-mcmillans-huge-season/",
       "source": "CBS Sports",
       "published": "2026-08-15T17:02:10+00:00"
+    },
+    {
+      "headline": "What happens when an LLM never sees material beyond fifth grade?",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News",
+      "published": "2026-08-16T07:37:53+00:00"
+    },
+    {
+      "headline": "Russia Launches Drone and Missile Assault, Killing Five in Ukraine",
+      "summary": "Russian forces struck multiple Ukrainian cities, including Kyiv, Kremenchuk, and Kryvyi Rih, with drones, guided bombs and missiles, killing five civilians and injuring more than ten. President Zelensky accused Russia of targeting civilian infrastructure, while Moscow claimed to hit Ukrainian military facilities and intercepted 822 Ukrainian drones.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-16T08:14:56.855Z"
     },
     {
       "headline": "Donkey Kong Bananza",
