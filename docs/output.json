@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T05:48:37.717818+00:00",
+  "generated_at": "2026-08-16T06:16:03.511856+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -336,6 +336,42 @@
       "published": "2026-08-15T09:00:00+00:00"
     },
     {
+      "headline": "Massive Security Flaws Leave 21,000 AI Model Context Protocol Servers Exposed",
+      "summary": "Over 21,000 internet-facing Model Context Protocol (MCP) servers are publicly accessible, with nearly 92% of audited production deployments lacking basic OAuth authentication and hundreds granting unrestricted shell access. Security researchers warn that an architectural flaw in the standard's STDIO transport exposes up to 150 million package downloads to supply chain attacks, even as Anthropic maintains the protocol is secure by design. The mounting vulnerabilities have triggered emergency governance shifts to the Linux Foundation to overhaul the protocol's safety standards.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
+      "source": "Hacker News",
+      "published": "2026-08-11T11:18:09+00:00"
+    },
+    {
+      "headline": "ProofRun Cryptographically Enforces Test Accuracy for AI Coding Agents",
+      "summary": "A new developer tool called ProofRun generates cryptographic verification receipts to ensure AI coding agents do not hallucinate passing test suites. The utility hashes the exact state of a codebase—including unstaged and uncommitted edits—and automatically flags previous test passes as stale the moment a single byte changes. This prevents agents from modifying source code and falsely claiming earlier test results still apply.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/yebiguo/ProofRun",
+      "source": "Hacker News",
+      "published": "2026-08-16T03:22:15+00:00"
+    },
+    {
+      "headline": "Bears Offense Rebounds Against Browns After Antwaan Randle El Takes Over Play-Calling",
+      "summary": "Chicago gave Antwaan Randle El offensive play-calling responsibilities over Ben Johnson during their preseason matchup with the Cleveland Browns. The strategic switch provided an immediate spark, driving a sharper offensive performance in the exhibition victory.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/antwaan-randle-el-takes-over-play-calling-duties-and-bears-offense-comes-to-life-in-preseason-win-over-browns/",
+      "source": "CBS Sports",
+      "published": "2026-08-16T02:07:26+00:00"
+    },
+    {
+      "headline": "Stealth AI Model 'Big Pickle' Tops Open-Source Engineering Benchmark",
+      "summary": "An unannounced model dubbed 'big-pickle' scored 50.8% on Scale AI's SWE Atlas Codebase QnA evaluation, outperforming GLM 5.2 and GPT-5.6-Sol within the Mini-SWE-Agent testing scaffold. The model excelled particularly in TypeScript tasks and codebase onboarding, trailing only proprietary Claude Opus runs on the official leaderboard. The benchmark run provides complete logs and reproduction configs for all 124 software engineering tasks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+      "source": "Hacker News",
+      "published": "2026-08-16T00:10:48+00:00"
+    },
+    {
       "headline": "Donkey Kong Bananza",
       "summary": "",
       "category": "Music",
@@ -381,13 +417,13 @@
       "published": "2026-08-15T17:25:34+00:00"
     },
     {
-      "headline": "Historic Heatwave Leaves Europe Parched and Rivers at Record Lows",
-      "summary": "Satellite imagery reveals severe environmental toll across Western Europe following its hottest June-to-July on record, leaving dried pastures, retreating Alpine glaciers, and drastically depleted waterways. The Danube has dropped to 30-year lows, exposing ancient mammoth bones and sunken World War II wrecks while forcing nuclear reactors in Hungary and Romania to curtail output due to cooling constraints. Low levels on the Rhine have also disrupted cargo logistics and halted river cruises.",
+      "headline": "Targeted Marine Cloud Seeding Can Weaken Future El Niño Cycles",
+      "summary": "New climate research published in Science Advances shows that targeted marine cloud brightening can effectively mitigate the strength of subsequent El Niño events. By enhancing cloud reflectivity over strategic ocean regions, the geoengineering approach provides a potential mechanism for cooling sea surfaces and blunting extreme weather patterns.",
       "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T05:01:13.969Z"
+      "relevance": 7,
+      "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+      "source": "Hacker News",
+      "published": "2026-08-16T03:40:05+00:00"
     },
     {
       "headline": "Waist Size Beats BMI at Identifying Hidden Heart Disease Risks",
@@ -399,49 +435,13 @@
       "published": "2026-08-15T21:14:34+00:00"
     },
     {
-      "headline": "AI Coding Tools Elevate the Value of Core Software Architecture",
-      "summary": "While modern AI agent harnesses make generating raw code trivial, engineering durable systems still relies heavily on sound structural fundamentals and test-driven design. Automated tools struggle with high-level software seams, API design, and system integration, which remain nuanced, context-dependent engineering tasks. Navigating the current wave of fast, cheap model capabilities requires developers to act as architects rather than just generating code without foresight.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "source": "Hacker News",
-      "published": "2026-08-15T21:57:42+00:00"
-    },
-    {
-      "headline": "SugarTrack Offers Fully Offline, Privacy-First Glucose Logging on Android",
-      "summary": "A newly launched open-source Android app called SugarTrack allows users to record blood sugar levels, medications, meal notes, and A1C results entirely on-device without cloud sync or user accounts. Designed to replace physical paper logbooks, the tool displays target-range trends and exports reports in PDF or CSV formats for medical appointments. The developer released the free utility to safeguard sensitive health data and plans to build a broader suite of local-only tracking tools.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://sugartrack-beta.vercel.app/",
-      "source": "Hacker News",
-      "published": "2026-08-15T22:28:14+00:00"
-    },
-    {
-      "headline": "Bribes.fyi Launches Side-by-Side Public Corruption Comparison Tool",
-      "summary": "Reader-funded website Bribes.fyi has introduced a public data dashboard designed to analyze and compare reported bribe metrics across civic departments. Users can select agencies such as regional transport offices, local police forces, and municipal bodies to inspect differences in bribe sizes, frequency, and city-level trends. The platform operates without paywalls or advertisements to highlight systemic patterns in administrative corruption.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://bribes.fyi/compare",
-      "source": "Hacker News",
-      "published": "2026-08-15T22:11:16+00:00"
-    },
-    {
-      "headline": "Sebastien Pocognoli Emerges as Frontrunner for Scotland Manager Role",
-      "summary": "The Scottish FA has targeted 39-year-old Belgian coach Sebastien Pocognoli to succeed Steve Clarke following the nation's early World Cup exit. Pocognoli, who recently left Monaco after securing a historic league title with Union Saint-Gilloise in 2025, is in advanced talks ahead of September's Nations League matches. If appointed, the former Premier League defender would become only the second foreign manager in the history of the Scotland men's national team.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwyrre1qzwlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-08-15T13:58:42.626Z"
-    },
-    {
-      "headline": "Premier League Teams Raid Lower Leagues Early to Snag Rising Talent",
-      "summary": "Top-flight English clubs are aggressively scouting and purchasing teenage prospects directly from EFL and Scottish academies before they command massive senior price tags. Highlighting this trend, Manchester City paid £12.5m for 17-year-old Leicester prodigy Jeremy Monga, matching a record 14 lower-league developmental signings this window alone. Recruitment departments view these early lower-tier acquisitions as a vital strategy to emulate the lucrative development pathways of stars like Antoine Semenyo and Eberechi Eze.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-08-15T07:16:50.094Z"
+      "headline": "Historic Heatwave Leaves Europe Parched and Rivers at Record Lows",
+      "summary": "Satellite imagery reveals severe environmental toll across Western Europe following its hottest June-to-July on record, leaving dried pastures, retreating Alpine glaciers, and drastically depleted waterways. The Danube has dropped to 30-year lows, exposing ancient mammoth bones and sunken World War II wrecks while forcing nuclear reactors in Hungary and Romania to curtail output due to cooling constraints. Low levels on the Rhine have also disrupted cargo logistics and halted river cruises.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T05:01:13+00:00"
     },
     {
       "headline": "Solitude, Not Shared Workspaces, Nurtures Breakthrough Ideas",
@@ -450,7 +450,7 @@
       "relevance": 3,
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
       "source": "Hacker News",
-      "published": "2023-07-26T14:35:46+00:00"
+      "published": "2026-08-15T20:54:11+00:00"
     }
   ]
 }
