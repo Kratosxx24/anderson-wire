@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:12:14.615440+00:00",
+  "generated_at": "2026-08-16T13:05:20.607258+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,6 +75,15 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
+      "headline": "Drata Sponsors Daring Fireball, Promotes AI‑Driven Compliance",
+      "summary": "Drata thanked Daring Fireball for last week’s sponsorship, urging the use of autonomous AI agents to automate compliance and manage risk. The company highlighted continuous security posture verification as a key benefit.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://drata.com/daring",
+      "source": "Daring Fireball",
+      "published": "2026-08-15T21:40:15+00:00"
+    },
+    {
       "headline": "ESP32 FM Radio Project Evolves to Custom PCB with PAM8403 Amplifier",
       "summary": "The turtushig22-blip GitHub repo documents a DIY FM radio built around the TEA5767 tuner and an ESP32, originally prototyped on an Arduino UNO in January 2026. The new phase focuses on a compact custom PCB that adds a PAM8403 amplifier, rotary encoder, OLED display, and streamlined audio output, with design files and a video demo already available.",
       "category": "Tech/AI",
@@ -91,15 +100,6 @@
       "url": "https://arxiv.org/abs/2608.13122",
       "source": "Hacker News",
       "published": "2026-08-15T22:41:51+00:00"
-    },
-    {
-      "headline": "Software Engineering fundamentals matter more",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "source": "Hacker News",
-      "published": "2026-08-15T22:31:09+00:00"
     },
     {
       "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
@@ -145,6 +145,15 @@
       "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
       "source": "Hacker News",
       "published": "2026-08-16T02:36:10+00:00"
+    },
+    {
+      "headline": "Software Engineering fundamentals matter more",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
+      "source": "Hacker News",
+      "published": "2026-08-15T22:31:09+00:00"
     },
     {
       "headline": "Developer Solves Elusive Zsh History Loss Flaw",
@@ -199,15 +208,6 @@
       "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
       "source": "Hacker News",
       "published": "2026-08-15T18:33:25+00:00"
-    },
-    {
-      "headline": "AI's Mathematical Prowess Driven by Massive Working Memory, Not Superior Logic",
-      "summary": "An analysis argues that advanced AI models excel at complex mathematics because of their massive symbolic context windows rather than human-like intuition. While human mathematicians are biologically constrained to holding a few variables in mind, AI systems can effortlessly track entire problem statements, definitions, and abandoned proofs simultaneously.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Hacker News",
-      "published": "2026-08-15T18:13:02+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -282,6 +282,15 @@
       "published": "2026-08-15T21:20:51+00:00"
     },
     {
+      "headline": "AI Store Manager Fires First Human After Rule Reminder",
+      "summary": "Andon Labs’ Claude‑based AI manager, Luna, dismissed its first employee after a reminder of its own policies. Luna had created an attendance rule, lost track of it, and only after a human review did it recommend termination, illustrating the lab’s safety oversight.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T11:04:54Z"
+    },
+    {
       "headline": "Anthropic Details Claude's SynthID-Derived Text Watermarking Technique",
       "summary": "Anthropic disclosed how its text watermarking system operates, revealing it uses an updated variant of Google DeepMind's SynthID-Text framework. Rather than injecting hidden Unicode characters or relying on stylistic quirks, the system subtly steers Claude's pseudo-random token selection using a secret key, leaving the output indistinguishable to readers while remaining verifiable to keyholders.",
       "category": "Tech/AI",
@@ -336,40 +345,13 @@
       "published": "2026-08-15T06:05:09Z"
     },
     {
-      "headline": "Klay Thompson Declares Russell‑Signed Ball a Family Treasure",
-      "summary": "Klay Thompson says a Bill Russell‑signed basketball will remain in his family forever, calling it his most prized possession. He praised Russell’s impact on the game and his civil‑rights advocacy, noting the ball was gifted to players he respected.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vp9zuc/klay_on_his_bill_russell_signed_ball_this_will/",
-      "source": "r/NBA",
-      "published": "2026-08-15T18:17:47+00:00"
-    },
-    {
-      "headline": "Drata Sponsors Daring Fireball, Promotes AI‑Driven Compliance",
-      "summary": "Drata thanked Daring Fireball for last week’s sponsorship, urging the use of autonomous AI agents to automate compliance and manage risk. The company highlighted continuous security posture verification as a key benefit.",
+      "headline": "Anthropic Deploys Global Invisible Watermark to Flag Claude‑Generated Text",
+      "summary": "Anthropic is embedding a subtle, AI‑driven watermark into all Claude outputs worldwide, nudging the model toward statistically favored filler words that create a hidden signal detectable in long passages. The company has held back a public detection tool and says the watermark has no measurable impact on quality, though it weakens in short or highly factual text and can be stripped by heavy editing. Non‑text files will carry C2PA provenance metadata, and the rollout’s scope remains unclear after the August 2 cutoff.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://drata.com/daring",
-      "source": "Daring Fireball",
-      "published": "2026-08-15T21:40:15+00:00"
-    },
-    {
-      "headline": "AI Store Manager Fires First Human After Rule Reminder",
-      "summary": "Andon Labs’ Claude‑based AI manager, Luna, dismissed its first employee after a reminder of its own policies. Luna had created an attendance rule, lost track of it, and only after a human review did it recommend termination, illustrating the lab’s safety oversight.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+      "url": "https://4sysops.com/archives/claudes-invisible-text-watermark-is-global/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T11:04:54+00:00"
-    },
-    {
-      "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
-      "summary": "NBA insider Zach Lowe argues that the Mavericks’ concerns over Luka Doncic’s conditioning and injury history were justified, noting the player’s recent leg issues that caused him to miss playoff games. Lowe acknowledges the trade was “insane” but believes Doncic’s health risks could limit his championship potential.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/zach-lowe-mavericks-right-luka-doncic/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T04:33:02Z"
+      "published": "2026-08-15T02:10:19-07:00"
     },
     {
       "headline": "Bears Offense Rebounds Against Browns After Antwaan Randle El Takes Over Play-Calling",
@@ -435,13 +417,13 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "NBA’s Black Journalists Award Thumbs Down to Stephen A. Smith",
-      "summary": "The National Association of Black Journalists gave Stephen A. Smith a Thumbs Down award for a pattern of public disparagement toward prominent Black women in politics, sports, and media. The award highlights the journalist’s repeated negative commentary.",
+      "headline": "Heat’s Giannis Pursuit and Portis Clause Blocked Powell’s Return",
+      "summary": "Miami’s bid for Giannis Antetokounmpo hinged on acquiring Bobby Portis, a $14.5 million contract the Bucks insisted be part of any trade, which ate up the cap space the Heat needed to bring back former guard Norman Powell. Powell left for Chicago on a $21.5 million deal, a salary the Heat could have matched if Portis and a $6.1 million Hardaway Jr. deal weren’t in the mix. Thus both the claim that a path existed and that it was blocked are technically true.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vpm6jp/the_national_association_of_black_journalists/",
-      "source": "r/NBA",
-      "published": "2026-08-16T03:26:51+00:00"
+      "url": "https://www.sun-sentinel.com/2026/08/15/ira-winderman-powell-vs-portis-shows-dual-heat-truths-can-be-correct/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T13:01:46+00:00"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -451,6 +433,24 @@
       "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
       "source": "Pitchfork",
       "published": "2026-08-15T04:00:00+00:00"
+    },
+    {
+      "headline": "Ousmane Dieng’s Underwhelming Thunder Tenure Ends with Trade to Bucks",
+      "summary": "In 2025‑26, the rookie logged just 3.7 points, 1.6 rebounds and 1.0 assist per game, shooting 41.8% overall, and was graded 15th on the Thunder’s roster before being dealt to Milwaukee at the trade deadline. His modest usage (14.9% rate) and limited role on a league‑best 64‑18 team earned him a modest $0.6 win‑share and a three‑year, $5.8 million contract extension, but he never secured a regular rotation spot before departing with a championship ring.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/08/15/2025-26-thunder-player-grades-ousmane-dieng/91314086007/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T12:02:06Z"
+    },
+    {
+      "headline": "Celtics Lead List of Six NBA Franchises Burdened by 2026‑27 Schedule",
+      "summary": "The new 2026‑27 calendar gives Boston a league‑worst 16 back‑to‑back sets and a stretch of 22 games in just three‑games‑over‑four‑nights, leaving them four net‑rest games behind rivals. According to the NBA Schedule Dashboard, five other clubs face similarly brutal travel and rest imbalances, making the unbalanced schedule a competitive disadvantage for those teams.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.sbnation.com/nba/1124980/nba-teams-hardest-schedules-bulls-lakers-celtics-news",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T12:00:00+00:00"
     }
   ]
 }
