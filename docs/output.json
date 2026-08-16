@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-08-16T17:05:07.175592+00:00",
+  "generated_at": "2026-08-16T17:30:39.715562+00:00",
   "story_count": 50,
   "stories": [
-    {
-      "headline": "LeBron James Launches YouTube Golf Channel, Debuts Cavaliers Reunion Video",
-      "summary": "LeBron James has launched a YouTube channel dedicated to golf, kicking it off with a video of a trip to Scotland with his 2016 Cavaliers title teammates. The clip shows the former NBA star playing on the links and reminiscing about his time with the team, aiming to share his passion for the sport with fans.",
-      "category": "YouTube",
-      "relevance": 10,
-      "url": "https://www.cbssports.com/golf/news/lebron-james-youtube-golf-channel-cavaliers-teammates/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T16:05:46+00:00"
-    },
     {
       "headline": "Deciphering the Iconic Sound Design of the iPhone",
       "summary": "The Studio explores the distinct audio identity and acoustic design choices behind Apple's iPhone lineup. The video dives into how everyday notification chimes and interface cues are crafted and recognized worldwide.",
@@ -46,15 +37,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81526",
       "source": "Basketball Intelligence",
       "published": "2026-08-15T18:52:12+00:00"
-    },
-    {
-      "headline": "Thunder Trade Ousmane Dieng to Bucks at 2026 Deadline",
-      "summary": "The Oklahoma City Thunder sent rookie forward Ousmane Dieng to the Milwaukee Bucks, ending his four-year tenure in OKC. Dieng posted modest averages of 3.7 points and 1.6 rebounds while earning a championship ring, but his limited minutes and injuries kept him from establishing a larger role.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://okcthunderwire.usatoday.com/story/sports/nba/thunder/2026/08/15/2025-26-thunder-player-grades-ousmane-dieng/91314086007/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T12:02:06Z"
     },
     {
       "headline": "SportsLine Unveils 2026 Fantasy Football Rankings, Highlights Breakout Rookies",
@@ -111,6 +93,15 @@
       "published": "2026-08-15T21:40:15+00:00"
     },
     {
+      "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
+      "summary": "Anthropic CEO Dario Amodei argued that public skepticism toward AI stems from a broader, long-standing distrust of tech companies and institutions rather than safety warnings from industry leaders. Rejecting glitzy marketing campaigns and lofty promises like curing cancer as deceptive clichés, Amodei stated that the only way AI companies can earn trust is by actually delivering tangible, real-world breakthroughs. He acknowledged that the most valid criticism of the industry is its failure so far to deliver on its grand promises.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T15:05:36+00:00"
+    },
+    {
       "headline": "Show HN: One AI with Shared Memory Across All Users",
       "summary": "A new public AI platform proposes a single chatbot whose memory is shared among every user, aiming to create a collective knowledge base. The concept raises questions about privacy and content control.",
       "category": "Tech/AI",
@@ -118,15 +109,6 @@
       "url": "https://wildstatic.com/",
       "source": "Hacker News",
       "published": "2026-08-16T13:21:45+00:00"
-    },
-    {
-      "headline": "U.S. Drafts Strategy to Prevent Creation of Mirror Life",
-      "summary": "RAND researchers outline a national plan to stop the development of mirror organisms—life built from opposite‑handed biomolecules—whose existence could evade immune detection and spread uncontrollably. The proposal calls for regulatory safeguards and international cooperation before the technology matures.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
-      "source": "Hacker News",
-      "published": "2026-08-16T13:09:41+00:00"
     },
     {
       "headline": "Indonesia Earthquake Leaves 5,000 Displaced, 53 Dead After 7.7‑Magnitude Quake",
@@ -145,6 +127,24 @@
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
       "source": "Simon Willison",
       "published": "2026-08-15T14:49:54+00:00"
+    },
+    {
+      "headline": "U.S. Drafts Strategy to Prevent Creation of Mirror Life",
+      "summary": "RAND researchers outline a national plan to stop the development of mirror organisms—life built from opposite‑handed biomolecules—whose existence could evade immune detection and spread uncontrollably. The proposal calls for regulatory safeguards and international cooperation before the technology matures.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.rand.org/pubs/research_reports/RRA4335-1.html",
+      "source": "Hacker News",
+      "published": "2026-08-16T13:09:41+00:00"
+    },
+    {
+      "headline": "Anthropic Publishes System Prompts and Safety Guardrails for Claude Models",
+      "summary": "Anthropic has documented the official system prompts powering Claude's web and mobile applications across its model lineup, including Claude Opus 5 and Claude Fable 5. The prompts mandate formatting conventions like Markdown code blocks and direct the AI to keep answers brief when conversations drift into risky territory. The guidelines strictly prohibit assisting with dangerous weapons or substances, instructing the model to reject queries even when users cite public availability or research motives.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "published": "2026-08-16T12:48:21+00:00"
     },
     {
       "headline": "Software Engineering fundamentals matter more",
@@ -282,33 +282,6 @@
       "published": "2026-08-15T21:30:21+00:00"
     },
     {
-      "headline": "Anthropic Revenue Soars Over $11.5 B in Q2, 14‑Fold Jump",
-      "summary": "Claude chatbot maker Anthropic reported preliminary Q2 revenue exceeding $11.5 billion, a more than 14‑times increase from the same period last year. The surge signals rapid growth as the company prepares for a potential IPO.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://biztoc.com/x/588966582fdfd35b",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T15:36:47Z"
-    },
-    {
-      "headline": "Anthropic Revenue Exceeds $11.5 B in Q2, 14‑Fold Increase",
-      "summary": "Bloomberg documents show Anthropic’s second‑quarter revenue jumped more than 14 times year‑on‑year to over $11.5 billion, underscoring the company’s rapid expansion ahead of a potential IPO.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://biztoc.com/x/c0653f2e01b8f773",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T14:51:12Z"
-    },
-    {
-      "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
-      "summary": "Anthropic CEO Dario Amodei argued that public skepticism toward AI stems from a broader, long-standing distrust of tech companies and institutions rather than safety warnings from industry leaders. Rejecting glitzy marketing campaigns and lofty promises like curing cancer as deceptive clichés, Amodei stated that the only way AI companies can earn trust is by actually delivering tangible, real-world breakthroughs. He acknowledged that the most valid criticism of the industry is its failure so far to deliver on its grand promises.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T15:05:36+00:00"
-    },
-    {
       "headline": "New Python Package gnosis-air Released on PyPI",
       "summary": "A new package titled gnosis-air has been published to the Python Package Index repository. Additional technical details regarding its functionality are currently unavailable due to access issues.",
       "category": "Tech/AI",
@@ -333,7 +306,7 @@
       "relevance": 9,
       "url": "https://thenextweb.com/news/amd-4-75-billion-bond-sale-anthropic-ai-debt",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T16:49:08+00:00"
+      "published": "2026-08-15T16:49:08Z"
     },
     {
       "headline": "Ancestry.com Updates Outlined in AI-Generated Overview",
@@ -345,13 +318,40 @@
       "published": "2026-08-15T16:17:00Z"
     },
     {
-      "headline": "Anthropic Publishes System Prompts and Safety Guardrails for Claude Models",
-      "summary": "Anthropic has documented the official system prompts powering Claude's web and mobile applications across its model lineup, including Claude Opus 5 and Claude Fable 5. The prompts mandate formatting conventions like Markdown code blocks and direct the AI to keep answers brief when conversations drift into risky territory. The guidelines strictly prohibit assisting with dangerous weapons or substances, instructing the model to reject queries even when users cite public availability or research motives.",
+      "headline": "Anthropic Revenue Soars Over $11.5 B in Q2, 14‑Fold Jump",
+      "summary": "Claude chatbot maker Anthropic reported preliminary Q2 revenue exceeding $11.5 billion, a more than 14‑times increase from the same period last year. The surge signals rapid growth as the company prepares for a potential IPO.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "source": "Hacker News",
-      "published": "2026-08-16T12:48:21+00:00"
+      "url": "https://biztoc.com/x/588966582fdfd35b",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T15:36:47Z"
+    },
+    {
+      "headline": "Anthropic Revenue Exceeds $11.5 B in Q2, 14‑Fold Increase",
+      "summary": "Bloomberg documents show Anthropic’s second‑quarter revenue jumped more than 14 times year‑on‑year to over $11.5 billion, underscoring the company’s rapid expansion ahead of a potential IPO.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://biztoc.com/x/c0653f2e01b8f773",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T14:51:12Z"
+    },
+    {
+      "headline": "Anthropic Earns Most AI Revenue Despite Highest Prices",
+      "summary": "Anthropic’s premium pricing strategy has paid off, generating the largest share of AI revenue even though its user volume lags behind competitors. The company’s focus on high‑margin enterprise contracts keeps earnings high while keeping prices steep.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.techradar.com/pro/anthropic-becomes-the-apple-of-ai-as-it-grabs-most-revenue-despite-being-the-most-expensive",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T17:05:00Z"
+    },
+    {
+      "headline": "New Tool Lets Users Run Multiple Signed‑In AI Bots on a Single Mac",
+      "summary": "The open‑source project \"Lots of Agents\" launches separate instances of Grok Bot, Cursor, Claude, and ChatGPT on one machine, each with its own private data folder. This lets teams keep work and personal accounts signed in simultaneously without duplicating app bundles, simplifying workflow on macOS 14+.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/carllippert/lots_of_agents",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T15:23:17Z"
     },
     {
       "headline": "Heat’s Giannis Pursuit and Portis Clause Blocked Powell’s Return",
@@ -444,13 +444,13 @@
       "published": "2026-08-16T16:34:12+00:00"
     },
     {
-      "headline": "Ukraine Unleashes Record 822-Drone Swarm on Russia as Cross-Border Strikes Claim Dozens",
-      "summary": "Ukraine launched its largest offensive of 2026, firing 822 drones at Russian targets including a major Wildberries logistics hub near Moscow, killing at least seven people. In retaliation, Russian missiles and drones struck multiple Ukrainian regions overnight, killing another seven and wounding dozens, including a child in Kyiv. Both sides continue to escalate long-range strikes, with Kyiv explicitly targeting supply chains used to equip Russian forces.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-16T15:50:12+00:00"
+      "headline": "Cavaliers Eye 22‑Point All‑Star Wing in Trade for Donovan Mitchell",
+      "summary": "After trading Dennis Schroder, Cleveland is poised to pursue a high‑scoring forward to pair with Donovan Mitchell. Analysts suggest a deal involving Norman Powell or other All‑Star talent could give the Cavs a veteran wing, boosting their championship window.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://heavy.com/sports/mlb/st-louis-cardinals/cavaliers-trade-22ppg-all-star-mitchell/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T13:00:22+00:00"
     }
   ]
 }
