@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:53:08.889832+00:00",
+  "generated_at": "2026-08-16T23:07:10.780879+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -181,6 +181,15 @@
       "url": "https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/",
       "source": "CBS Sports",
       "published": "2026-08-16T13:33:28+00:00"
+    },
+    {
+      "headline": "Qwen 3.8 27B Delivers Strong Local Performance but Wastes Resources on Default Overthinking",
+      "summary": "Alibaba’s newly released Qwen 3.8 27B model runs efficiently on consumer hardware and delivers impressive output quality, but its default high reasoning setting causes severe token bloat on simple prompts. Running a basic SVG generation task consumed over 22,000 reasoning tokens and 21 minutes before producing just 3,000 output tokens. Developers will need to manually dial down the reasoning effort to avoid exhausting context windows and wasting compute time.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T22:00:39+00:00"
     },
     {
       "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
@@ -399,24 +408,6 @@
       "published": "2026-08-15T18:34:26Z"
     },
     {
-      "headline": "Redick Defends 2020 NBA Activism as Moral Imperative, Not Political Posturing",
-      "summary": "Former NBA star JJ Redick reflects on basketball as a colorblind meritocracy where talent dictates opportunity. He also addresses the league’s 2020 social justice push, insisting that taking a stand was never a calculated political move but a straightforward moral obligation, even if it sparked division.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vpzuih/jj_redick_talks_about_racism_and_basketball_by/",
-      "source": "r/NBA",
-      "published": "2026-08-16T15:23:11+00:00"
-    },
-    {
-      "headline": "Qwen 3.8 27B Delivers Strong Local Performance but Wastes Resources on Default Overthinking",
-      "summary": "Alibaba’s newly released Qwen 3.8 27B model runs efficiently on consumer hardware and delivers impressive output quality, but its default high reasoning setting causes severe token bloat on simple prompts. Running a basic SVG generation task consumed over 22,000 reasoning tokens and 21 minutes before producing just 3,000 output tokens. Developers will need to manually dial down the reasoning effort to avoid exhausting context windows and wasting compute time.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T22:00:39+00:00"
-    },
-    {
       "headline": "CBS SportsLine Publishes Early 2026 Fantasy Football Draft Board and Tier List",
       "summary": "SportsLine analysts have released preliminary draft preparation rankings ahead of the 2026 fantasy football season. The guide outlines positional tiers, top-150 overall player valuations, and projected breakout rookie targets. Fantasy managers can use the early cheat sheet to map out long-term roster strategies and keeper decisions.",
       "category": "NFL",
@@ -444,13 +435,22 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "Vikings Sign Former Lions Back Jermar Jefferson After Waiving Jordan Mims",
-      "summary": "The Minnesota Vikings have signed former Detroit Lions running back Jermar Jefferson to bolster their depth chart after waiving Jordan Mims due to injury. Jefferson, a 2021 seventh-round pick who spent time with four other franchises since his 2024 release, recorded zero yards on three preseason carries against the Giants. He is now set to face his former team twice during the 2026 regular season, opening with a November 1 matchup in Detroit.",
+      "headline": "Basketball Intelligence For 8/16/26",
+      "summary": "",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-16T18:22:28+00:00"
+    },
+    {
+      "headline": "Seahawks Pay Up: Witherspoon Inks $132M Extension to Lead NFL Cornerbacks",
+      "summary": "Seattle has agreed to a four-year, $132 million contract extension with cornerback Devon Witherspoon, instantly making him the league’s highest-paid defensive back. The deal locks up a key piece of the Seahawks’ secondary and signals the franchise’s commitment to building around its young defensive core.",
       "category": "NFL",
-      "relevance": 5,
-      "url": "https://lionswire.usatoday.com/story/sports/nfl/lions/2026/08/15/detroit-lions-jermar-jefferson-signs-minnesota-vikings/91312068007/",
+      "relevance": 7,
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184991566",
       "source": "NewsAPI:NFL contract",
-      "published": "2026-08-15T22:45:17Z"
+      "published": "2026-08-15T22:32:48Z"
     }
   ]
 }
