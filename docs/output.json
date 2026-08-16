@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:53:38.965522+00:00",
+  "generated_at": "2026-08-16T21:30:20.134502+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -111,6 +111,24 @@
       "published": "2026-08-16T13:33:28+00:00"
     },
     {
+      "headline": "Gruber Slams Anthropic’s Claude Watermark as Semantic Sabotage",
+      "summary": "John Gruber condemns Anthropic’s new Claude watermarking system, which embeds probabilistic fingerprints through altered word and token selection rather than invisible characters. He argues this directly contradicts Anthropic’s promise that the feature would leave text quality and meaning untouched, calling the deliberate semantic tweaking an unacceptable corruption of writing for compliance tracking.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Daring Fireball",
+      "published": "2026-08-16T19:26:33+00:00"
+    },
+    {
+      "headline": "Padolsey Warns Anthropic’s Fragile Watermarks Punish Vulnerable AI Users",
+      "summary": "James Padolsey argues Anthropic’s new machine-readable watermarks, deployed to satisfy the EU AI Act, are technically fragile and legally misguided. He warns the compliance measure will disproportionately burden disabled, neurodivergent, and time-constrained writers who rely on AI for substantial editing, effectively penalizing them for using assistive technology while failing to stop sophisticated users from stripping the marks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
+      "source": "Daring Fireball",
+      "published": "2026-08-16T17:30:00+00:00"
+    },
+    {
       "headline": "Drata Sponsors Daring Fireball, Promotes AI‑Driven Compliance",
       "summary": "Drata thanked Daring Fireball for last week’s sponsorship, urging the use of autonomous AI agents to automate compliance and manage risk. The company highlighted continuous security posture verification as a key benefit.",
       "category": "Tech/AI",
@@ -118,24 +136,6 @@
       "url": "https://drata.com/daring",
       "source": "Daring Fireball",
       "published": "2026-08-15T21:40:15+00:00"
-    },
-    {
-      "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
-      "summary": "Anthropic CEO Dario Amodei argued that public skepticism toward AI stems from a broader, long-standing distrust of tech companies and institutions rather than safety warnings from industry leaders. Rejecting glitzy marketing campaigns and lofty promises like curing cancer as deceptive clichés, Amodei stated that the only way AI companies can earn trust is by actually delivering tangible, real-world breakthroughs. He acknowledged that the most valid criticism of the industry is its failure so far to deliver on its grand promises.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T15:05:36+00:00"
-    },
-    {
-      "headline": "Protobuf has LSP support. You're welcome",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://buf.build/blog/protobuf-lsp",
-      "source": "Hacker News",
-      "published": "2026-08-16T18:48:27+00:00"
     },
     {
       "headline": "Hurricane Lala Triggers Flash Floods and Power Outages on Hawaii’s Big Island",
@@ -154,6 +154,24 @@
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
       "source": "Simon Willison",
       "published": "2026-08-15T14:49:54+00:00"
+    },
+    {
+      "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
+      "summary": "Anthropic CEO Dario Amodei argued that public skepticism toward AI stems from a broader, long-standing distrust of tech companies and institutions rather than safety warnings from industry leaders. Rejecting glitzy marketing campaigns and lofty promises like curing cancer as deceptive clichés, Amodei stated that the only way AI companies can earn trust is by actually delivering tangible, real-world breakthroughs. He acknowledged that the most valid criticism of the industry is its failure so far to deliver on its grand promises.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T15:05:36+00:00"
+    },
+    {
+      "headline": "Protobuf has LSP support. You're welcome",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "source": "Hacker News",
+      "published": "2026-08-16T18:48:27+00:00"
     },
     {
       "headline": "MathCode, Mathematical Coding Agent",
@@ -345,31 +363,13 @@
       "published": "2026-08-15T18:12:14Z"
     },
     {
-      "headline": "Show HN: Self-hosted monitoring for AI recommendations (MIT License)",
-      "summary": "",
-      "category": "Tech/AI",
+      "headline": "CBS Sports Unveils 2026 Fantasy Football Breakout Projections",
+      "summary": "CBS Sports has released its early 2026 fantasy football rankings, highlighting potential breakout candidates across the league. The projections rely on an analytical model credited with forecasting Tetairoa McMillan's standout campaign. The tool aims to help managers identify high-upside draft targets well ahead of the upcoming season.",
+      "category": "Sports",
       "relevance": 9,
-      "url": "https://lettertrace.com",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T17:35:13Z"
-    },
-    {
-      "headline": "Gruber Slams Anthropic’s Claude Watermark as Semantic Sabotage",
-      "summary": "John Gruber condemns Anthropic’s new Claude watermarking system, which embeds probabilistic fingerprints through altered word and token selection rather than invisible characters. He argues this directly contradicts Anthropic’s promise that the feature would leave text quality and meaning untouched, calling the deliberate semantic tweaking an unacceptable corruption of writing for compliance tracking.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "source": "Daring Fireball",
-      "published": "2026-08-16T19:26:33+00:00"
-    },
-    {
-      "headline": "Padolsey Warns Anthropic’s Fragile Watermarks Punish Vulnerable AI Users",
-      "summary": "James Padolsey argues Anthropic’s new machine-readable watermarks, deployed to satisfy the EU AI Act, are technically fragile and legally misguided. He warns the compliance measure will disproportionately burden disabled, neurodivergent, and time-constrained writers who rely on AI for substantial editing, effectively penalizing them for using assistive technology while failing to stop sophisticated users from stripping the marks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
-      "source": "Daring Fireball",
-      "published": "2026-08-16T17:30:00+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-model-that-nailed-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-16T18:35:25+00:00"
     },
     {
       "headline": "NBA Daily Digest Highlights Suns Roster Moves and Offseason Strategy",
@@ -426,6 +426,15 @@
       "published": "2026-08-16T14:37:30+00:00"
     },
     {
+      "headline": "USA, China, Türkiye, and Chinese Taipei Clinch U17 Volleyball Semifinal Spots",
+      "summary": "The United States, China, Türkiye, and Chinese Taipei secured their places in the FIVB Girls' U17 World Championship semifinals after decisive quarterfinal victories. The Americans remained the only squad to drop zero sets, while Türkiye ended Korea’s perfect run and Chinese Taipei rallied past Thailand in five-set thrillers. The championship bracket now pits USA against defending champions China, with Chinese Taipei facing Türkiye in the other semifinal.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/usa-china-t-rkiye-and-chinese-taipei-advance-to-u17-world/?utm_source=rss&utm_medium=rss&utm_campaign=usa-china-t-rkiye-and-chinese-taipei-advance-to-u17-world",
+      "source": "Volleyball Mag",
+      "published": "2026-08-15T21:15:09+00:00"
+    },
+    {
       "headline": "AI Labs Trade Facts for Reasoning, Making Models “Dumber” on Recall",
       "summary": "Researchers are intentionally reducing factual recall in large language models to compress reasoning abilities. While models like GLM‑5.2 and Qwen3.5 excel at math and code, they hallucinate on factual queries, with hallucination rates exceeding 80%, reflecting a deliberate trade‑off between knowledge storage and reasoning efficiency.",
       "category": "Tech/AI",
@@ -442,15 +451,6 @@
       "url": "https://www.sportingnews.com/us/nba/charlotte-hornets/news/hornets-expected-waive-52m-nba-champion-after-acquiring-dennis-schroder-cavaliers/bbc1a74995978fbf23bf5cc0",
       "source": "NewsAPI:NBA trade",
       "published": "2026-08-15T19:08:29Z"
-    },
-    {
-      "headline": "USA, China, Türkiye, and Chinese Taipei Clinch U17 Volleyball Semifinal Spots",
-      "summary": "The United States, China, Türkiye, and Chinese Taipei secured their places in the FIVB Girls' U17 World Championship semifinals after decisive quarterfinal victories. The Americans remained the only squad to drop zero sets, while Türkiye ended Korea’s perfect run and Chinese Taipei rallied past Thailand in five-set thrillers. The championship bracket now pits USA against defending champions China, with Chinese Taipei facing Türkiye in the other semifinal.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/usa-china-t-rkiye-and-chinese-taipei-advance-to-u17-world/?utm_source=rss&utm_medium=rss&utm_campaign=usa-china-t-rkiye-and-chinese-taipei-advance-to-u17-world",
-      "source": "Volleyball Mag",
-      "published": "2026-08-15T21:15:09+00:00"
     }
   ]
 }
