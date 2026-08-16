@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:33:42.213454+00:00",
+  "generated_at": "2026-08-16T20:53:38.965522+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -37,6 +37,15 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81526",
       "source": "Basketball Intelligence",
       "published": "2026-08-15T18:52:12+00:00"
+    },
+    {
+      "headline": "Warriors Eye Trade of $227M, Four-Time Champion",
+      "summary": "The Golden State Warriors are reportedly considering trading Stephen Curry, who carries a $227 million cap hit, to free up space for new acquisitions. Curry, a four‑time NBA champion and four‑time All‑Star, would be the most expensive trade in league history, potentially reshaping the team's roster and salary structure.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-predicted-part-ways-227m-four-time-nba-champion-four-time-all-star/598002991c71e324c7bb67b1",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T20:01:46Z"
     },
     {
       "headline": "SportsLine Unveils 2026 Fantasy Football Rankings, Highlights Breakout Rookies",
@@ -183,15 +192,6 @@
       "published": "2026-08-16T14:44:55+00:00"
     },
     {
-      "headline": "Show HN: One AI with Shared Memory Across All Users",
-      "summary": "A new public AI platform proposes a single chatbot whose memory is shared among every user, aiming to create a collective knowledge base. The concept raises questions about privacy and content control.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://wildstatic.com/",
-      "source": "Hacker News",
-      "published": "2026-08-16T13:21:45+00:00"
-    },
-    {
       "headline": "Anthropic Publishes System Prompts and Safety Guardrails for Claude Models",
       "summary": "Anthropic has documented the official system prompts powering Claude's web and mobile applications across its model lineup, including Claude Opus 5 and Claude Fable 5. The prompts mandate formatting conventions like Markdown code blocks and direct the AI to keep answers brief when conversations drift into risky territory. The guidelines strictly prohibit assisting with dangerous weapons or substances, instructing the model to reject queries even when users cite public availability or research motives.",
       "category": "Tech/AI",
@@ -199,15 +199,6 @@
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
       "source": "Hacker News",
       "published": "2026-08-16T12:48:21+00:00"
-    },
-    {
-      "headline": "Cultivating a state of mind where new ideas are born (2023)",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "source": "Hacker News",
-      "published": "2026-08-15T20:54:11+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -318,15 +309,6 @@
       "published": "2026-08-16T09:00:00+00:00"
     },
     {
-      "headline": "Lindsay Clancy's trial highlights gaps in understanding, treating postpartum psychosis",
-      "summary": "",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5931964/lindsay-clancy-trial-postpartum-psychosis-diagnosis",
-      "source": "NPR News",
-      "published": "2026-08-16T09:00:00+00:00"
-    },
-    {
       "headline": "Anthropic shares more details about how Claude’s new watermarks will work | TechCrunch",
       "summary": "",
       "category": "Tech/AI",
@@ -372,13 +354,22 @@
       "published": "2026-08-15T17:35:13Z"
     },
     {
-      "headline": "Warriors Eye Trade of $227M, Four-Time Champion",
-      "summary": "The Golden State Warriors are reportedly considering trading Stephen Curry, who carries a $227 million cap hit, to free up space for new acquisitions. Curry, a four‑time NBA champion and four‑time All‑Star, would be the most expensive trade in league history, potentially reshaping the team's roster and salary structure.",
-      "category": "NBA",
+      "headline": "Gruber Slams Anthropic’s Claude Watermark as Semantic Sabotage",
+      "summary": "John Gruber condemns Anthropic’s new Claude watermarking system, which embeds probabilistic fingerprints through altered word and token selection rather than invisible characters. He argues this directly contradicts Anthropic’s promise that the feature would leave text quality and meaning untouched, calling the deliberate semantic tweaking an unacceptable corruption of writing for compliance tracking.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.sportingnews.com/us/nba/golden-state-warriors/news/warriors-predicted-part-ways-227m-four-time-nba-champion-four-time-all-star/598002991c71e324c7bb67b1",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T20:01:46+00:00"
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "source": "Daring Fireball",
+      "published": "2026-08-16T19:26:33+00:00"
+    },
+    {
+      "headline": "Padolsey Warns Anthropic’s Fragile Watermarks Punish Vulnerable AI Users",
+      "summary": "James Padolsey argues Anthropic’s new machine-readable watermarks, deployed to satisfy the EU AI Act, are technically fragile and legally misguided. He warns the compliance measure will disproportionately burden disabled, neurodivergent, and time-constrained writers who rely on AI for substantial editing, effectively penalizing them for using assistive technology while failing to stop sophisticated users from stripping the marks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
+      "source": "Daring Fireball",
+      "published": "2026-08-16T17:30:00+00:00"
     },
     {
       "headline": "NBA Daily Digest Highlights Suns Roster Moves and Offseason Strategy",
@@ -390,13 +381,13 @@
       "published": "2026-08-16T18:22:28+00:00"
     },
     {
-      "headline": "Hornets to Waive $52M NBA Champion After Acquiring Dennis Schroder",
-      "summary": "The Charlotte Hornets are expected to waive a $52 million NBA champion after acquiring Dennis Schroder from the Cleveland Cavaliers.",
+      "headline": "76ers May Test Jaylen Brown Early, Could Be Hot Seat",
+      "summary": "Philadelphia’s new acquisition Jaylen Brown faces pressure to perform quickly, with the 76ers likely evaluating him early in the season and possibly benching him if expectations aren’t met. The team aims to integrate Brown into the rotation while balancing roster depth and performance goals.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://www.sportingnews.com/us/nba/charlotte-hornets/news/hornets-expected-waive-52m-nba-champion-after-acquiring-dennis-schroder-cavaliers/bbc1a74995978fbf23bf5cc0",
+      "url": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/jaylen-brown-could-already-be-hot-seat-76ers/a553cc59827aac81708e60cd",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T19:08:29Z"
+      "published": "2026-08-15T19:22:20Z"
     },
     {
       "headline": "NFL's Highest-Paid Players: Cornerback Market Reset",
@@ -406,6 +397,15 @@
       "url": "https://www.cbssports.com/nfl/news/highest-paid-players-at-every-nfl-position-2026/",
       "source": "CBS Sports",
       "published": "2026-08-16T17:57:38+00:00"
+    },
+    {
+      "headline": "Gonzalez Celebrates Witherspoon’s Record Corner Contract",
+      "summary": "New England Patriots cornerback Christian Gonzalez posted a congratulatory message after the Seattle Seahawks signed Devon Witherspoon to a four‑year, $132 million extension with $101 million guaranteed, making him the highest‑paid cornerback ever. The deal sets a new market baseline that could help Gonzalez renegotiate his own contract with the Patriots.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/08/15/christian-gonzalez-reacts-devon-witherspoon-contract/91321321007/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-15T20:33:01Z"
     },
     {
       "headline": "Future’s 2014 ‘Monster’ Mixtape Re‑Examined as His Defining Work",
@@ -426,31 +426,31 @@
       "published": "2026-08-16T14:37:30+00:00"
     },
     {
-      "headline": "Gonzalez Celebrates Witherspoon’s Record Corner Contract",
-      "summary": "New England Patriots cornerback Christian Gonzalez posted a congratulatory message after the Seattle Seahawks signed Devon Witherspoon to a four‑year, $132 million extension with $101 million guaranteed, making him the highest‑paid cornerback ever. The deal sets a new market baseline that could help Gonzalez renegotiate his own contract with the Patriots.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://patriotswire.usatoday.com/story/sports/nfl/patriots/2026/08/15/christian-gonzalez-reacts-devon-witherspoon-contract/91321321007/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-15T20:33:01Z"
-    },
-    {
       "headline": "AI Labs Trade Facts for Reasoning, Making Models “Dumber” on Recall",
       "summary": "Researchers are intentionally reducing factual recall in large language models to compress reasoning abilities. While models like GLM‑5.2 and Qwen3.5 excel at math and code, they hallucinate on factual queries, with hallucination rates exceeding 80%, reflecting a deliberate trade‑off between knowledge storage and reasoning efficiency.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
       "source": "Hacker News",
-      "published": "2026-08-17"
+      "published": "2026-08-16T19:04:26+00:00"
     },
     {
-      "headline": "76ers May Test Jaylen Brown Early, Could Be Hot Seat",
-      "summary": "Philadelphia’s new acquisition Jaylen Brown faces pressure to perform quickly, with the 76ers likely evaluating him early in the season and possibly benching him if expectations aren’t met. The team aims to integrate Brown into the rotation while balancing roster depth and performance goals.",
+      "headline": "Hornets to Waive $52M NBA Champion After Acquiring Dennis Schroder",
+      "summary": "The Charlotte Hornets are expected to waive a $52 million NBA champion after acquiring Dennis Schroder from the Cleveland Cavaliers.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://www.sportingnews.com/us/nba/philadelphia-76ers/news/jaylen-brown-could-already-be-hot-seat-76ers/a553cc59827aac81708e60cd",
+      "url": "https://www.sportingnews.com/us/nba/charlotte-hornets/news/hornets-expected-waive-52m-nba-champion-after-acquiring-dennis-schroder-cavaliers/bbc1a74995978fbf23bf5cc0",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T19:22:20+00:00"
+      "published": "2026-08-15T19:08:29Z"
+    },
+    {
+      "headline": "USA, China, Türkiye, and Chinese Taipei Clinch U17 Volleyball Semifinal Spots",
+      "summary": "The United States, China, Türkiye, and Chinese Taipei secured their places in the FIVB Girls' U17 World Championship semifinals after decisive quarterfinal victories. The Americans remained the only squad to drop zero sets, while Türkiye ended Korea’s perfect run and Chinese Taipei rallied past Thailand in five-set thrillers. The championship bracket now pits USA against defending champions China, with Chinese Taipei facing Türkiye in the other semifinal.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/usa-china-t-rkiye-and-chinese-taipei-advance-to-u17-world/?utm_source=rss&utm_medium=rss&utm_campaign=usa-china-t-rkiye-and-chinese-taipei-advance-to-u17-world",
+      "source": "Volleyball Mag",
+      "published": "2026-08-15T21:15:09+00:00"
     }
   ]
 }
