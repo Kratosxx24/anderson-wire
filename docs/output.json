@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:16:03.511856+00:00",
+  "generated_at": "2026-08-16T07:04:48.209769+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -201,6 +201,24 @@
       "published": "2026-08-15T08:29:20+00:00"
     },
     {
+      "headline": "Essay Explores How Human Frailty Opens the Door to Divine Grace",
+      "summary": "The piece argues that personal weakness is not a flaw but an invitation for God’s work, encouraging believers to embrace vulnerability as a conduit for spiritual growth.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/weakness-gods-invitation/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-16T04:00:00+00:00"
+    },
+    {
+      "headline": "Bears Offense Rebounds Against Browns After Antwaan Randle El Takes Over Play-Calling",
+      "summary": "Chicago gave Antwaan Randle El offensive play-calling responsibilities over Ben Johnson during their preseason matchup with the Cleveland Browns. The strategic switch provided an immediate spark, driving a sharper offensive performance in the exhibition victory.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/antwaan-randle-el-takes-over-play-calling-duties-and-bears-offense-comes-to-life-in-preseason-win-over-browns/",
+      "source": "CBS Sports",
+      "published": "2026-08-16T02:07:26+00:00"
+    },
+    {
       "headline": "Computer Model Flags Fantasy Football Sleepers After De'Von Achane’s Breakout 2025 Season",
       "summary": "A data‑driven ranking for the 2026 fantasy football draft highlighted a list of sleeper picks that a predictive algorithm identified following De'Von Achane’s standout year. The model’s picks aim to give owners an edge by targeting undervalued players poised for breakout performances.",
       "category": "NFL",
@@ -217,15 +235,6 @@
       "url": "https://www.cbssports.com/nfl/news/shedeur-sanders-deshaun-watson-browns-qb-battle-preseason-bears/",
       "source": "CBS Sports",
       "published": "2026-08-15T20:59:09+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Rankings Spotlight McMillan’s Breakout Models",
-      "summary": "CBS Sports unveiled its 2026 fantasy football rankings, highlighting the models that predicted a huge season for quarterback McMillan. The rankings spotlight breakout players and offer insights for managers looking to capitalize on emerging talent.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-mcmillans-huge-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T17:02:10+00:00"
     },
     {
       "headline": "USA, China, Turkey, Chinese Taipei Advance to U17 World Championship Semifinals",
@@ -264,6 +273,15 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
+      "headline": "2026 Fantasy Football Rankings Spotlight McMillan’s Breakout Models",
+      "summary": "CBS Sports unveiled its 2026 fantasy football rankings, highlighting the models that predicted a huge season for quarterback McMillan. The rankings spotlight breakout players and offer insights for managers looking to capitalize on emerging talent.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-per-model-that-called-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T17:02:10+00:00"
+    },
+    {
       "headline": "Shohei Ohtani Completes Bullpen Session, Eyes Pitching Return",
       "summary": "Shohei Ohtani completed his first bullpen session after a shoulder injury, marking a significant step toward resuming his dual role with the Dodgers. The session’s performance and recovery timeline are being closely monitored by the coaching staff, who aim to balance his pitching and hitting responsibilities. Ohtani’s return could reshape the Dodgers’ lineup and bullpen strategy for the remainder of the season.",
       "category": "Sports",
@@ -289,6 +307,15 @@
       "url": "https://www.anthropic.com/research/multiagent-systems",
       "source": "Hacker News",
       "published": "2026-08-16T02:12:53+00:00"
+    },
+    {
+      "headline": "Stealth AI Model 'Big Pickle' Tops Open-Source Engineering Benchmark",
+      "summary": "An unannounced model dubbed 'big-pickle' scored 50.8% on Scale AI's SWE Atlas Codebase QnA evaluation, outperforming GLM 5.2 and GPT-5.6-Sol within the Mini-SWE-Agent testing scaffold. The model excelled particularly in TypeScript tasks and codebase onboarding, trailing only proprietary Claude Opus runs on the official leaderboard. The benchmark run provides complete logs and reproduction configs for all 124 software engineering tasks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+      "source": "Hacker News",
+      "published": "2026-08-16T00:10:48+00:00"
     },
     {
       "headline": "Magnitude 7.7 Earthquake Kills at Least 47 on Indonesia's Flores Island",
@@ -336,40 +363,49 @@
       "published": "2026-08-15T09:00:00+00:00"
     },
     {
-      "headline": "Massive Security Flaws Leave 21,000 AI Model Context Protocol Servers Exposed",
-      "summary": "Over 21,000 internet-facing Model Context Protocol (MCP) servers are publicly accessible, with nearly 92% of audited production deployments lacking basic OAuth authentication and hundreds granting unrestricted shell access. Security researchers warn that an architectural flaw in the standard's STDIO transport exposes up to 150 million package downloads to supply chain attacks, even as Anthropic maintains the protocol is secure by design. The mounting vulnerabilities have triggered emergency governance shifts to the Linux Foundation to overhaul the protocol's safety standards.",
+      "headline": "CORS Chat: Browser‑Based Interface for Testing Any OpenAI‑Compatible API",
+      "summary": "Simon Willison built a web UI that lets users chat with any CORS‑enabled OpenAI‑Responses endpoint, supporting custom headers, session saving, and live SVG rendering; he tested it on Qwen 3.8 27B via LM Studio on an M5 MacBook Pro and an NVIDIA DGX Spark.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
-      "source": "Hacker News",
-      "published": "2026-08-11T11:18:09+00:00"
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+      "source": "Simon Willison",
+      "published": "2026-08-15T14:49:54+00:00"
     },
     {
-      "headline": "ProofRun Cryptographically Enforces Test Accuracy for AI Coding Agents",
-      "summary": "A new developer tool called ProofRun generates cryptographic verification receipts to ensure AI coding agents do not hallucinate passing test suites. The utility hashes the exact state of a codebase—including unstaged and uncommitted edits—and automatically flags previous test passes as stale the moment a single byte changes. This prevents agents from modifying source code and falsely claiming earlier test results still apply.",
+      "headline": "Musk Concedes Anthropic Leads AI Race as Amazon Deepens $13 B Investment",
+      "summary": "Elon Musk publicly reversed his criticism, calling Anthropic the current AI leader after its Mythos/Fable models, while Amazon has poured an extra $5 billion (with up to $20 billion more) into the firm, securing a commitment for Anthropic to spend over $100 billion on AWS and use up to 5 GW of Trainium/Graviton capacity.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/yebiguo/ProofRun",
-      "source": "Hacker News",
-      "published": "2026-08-16T03:22:15+00:00"
+      "url": "https://www.ibtimes.com.au/elon-musk-anthropic-ai-leader-amazon-partnership-1874067",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T16:17:36+10:00"
     },
     {
-      "headline": "Bears Offense Rebounds Against Browns After Antwaan Randle El Takes Over Play-Calling",
-      "summary": "Chicago gave Antwaan Randle El offensive play-calling responsibilities over Ben Johnson during their preseason matchup with the Cleveland Browns. The strategic switch provided an immediate spark, driving a sharper offensive performance in the exhibition victory.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/antwaan-randle-el-takes-over-play-calling-duties-and-bears-offense-comes-to-life-in-preseason-win-over-browns/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T02:07:26+00:00"
-    },
-    {
-      "headline": "Stealth AI Model 'Big Pickle' Tops Open-Source Engineering Benchmark",
-      "summary": "An unannounced model dubbed 'big-pickle' scored 50.8% on Scale AI's SWE Atlas Codebase QnA evaluation, outperforming GLM 5.2 and GPT-5.6-Sol within the Mini-SWE-Agent testing scaffold. The model excelled particularly in TypeScript tasks and codebase onboarding, trailing only proprietary Claude Opus runs on the official leaderboard. The benchmark run provides complete logs and reproduction configs for all 124 software engineering tasks.",
+      "headline": "Riffn Lets iPhone Users Voice‑Control Local Code Agents via Tailscale",
+      "summary": "The Show HN project offers an iOS app that pairs a phone with a repository‑hosted AI agent through a lightweight Node bridge, enabling hands‑free queries, background sessions, and secure, private connections without exposing services to the internet.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
-      "source": "Hacker News",
-      "published": "2026-08-16T00:10:48+00:00"
+      "url": "https://riffn.io/how-riffn-works/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T06:05:09Z"
+    },
+    {
+      "headline": "Anthropic’s IPO Valuation Tied to $190‑200 B Revenue Goal by 2028",
+      "summary": "Analysts say the company’s public‑market price hinges on reaching $190‑200 billion in revenue, far above its current $47 billion run rate; its last funding round valued Anthropic at $965 billion, reflecting investor focus on future growth rather than present earnings.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://cryptobriefing.com/anthropic-ipo-valuation-hinges-on-190-200b-2028-revenue-forecast/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T05:14:25+00:00"
+    },
+    {
+      "headline": "Anthropic Proposes Subtle Word‑Level Watermark to Flag AI‑Generated Text",
+      "summary": "To meet EU AI Act requirements, Anthropic plans to embed a detectable pattern by subtly altering low‑impact words in Claude’s output, creating a watermark that distinguishes machine‑written content without altering meaning.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://biztoc.com/x/41c0637698757b11",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T00:44:41+00:00"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -381,67 +417,31 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
-      "headline": "Electro‑Zapping Rocks Unlocks a New Source of Geologic Hydrogen",
-      "summary": "Researchers demonstrate that applying electrical pulses to certain rocks releases stimulated hydrogen, offering a potentially scalable method for clean‑energy production from abundant geological formations.",
-      "category": "Tech/AI",
+      "headline": "Klay Thompson Calls Bill Russell‑Signed Ball His Most Treasured Keepsake",
+      "summary": "The Warriors guard shared that the ball signed by the legendary Bill Russell, who championed civil rights, will stay in his family forever and represents his greatest personal memento.",
+      "category": "NBA",
       "relevance": 7,
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "source": "Hacker News",
-      "published": "2026-08-16T02:36:10+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1vp9zuc/klay_on_his_bill_russell_signed_ball_this_will/",
+      "source": "r/NBA",
+      "published": "2026-08-15T18:17:47+00:00"
     },
     {
-      "headline": "Morocco Detains Over 100 Migrants Attempting to Reach Spanish Enclave Ceuta",
-      "summary": "Security forces intercepted 111 migrants near the Fnideq border, using tear gas and deploying army assets after a recent surge that saw 78,000 arrivals in Ceuta, prompting heightened Franco‑Spanish security measures.",
-      "category": "World",
+      "headline": "Reddit User Demands Real Salary‑Cap Enforcement Over Mere Fines",
+      "summary": "A poster argues that the NBA should strip teams of draft picks or enforce stricter penalties rather than allowing owners to evade the cap with fines, citing recent leaks and ongoing cap‑circumvention concerns.",
+      "category": "NBA",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T20:58:31+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1vp8wp3/take_away_their_picks_or_stop_pretending_the_cap/",
+      "source": "r/NBA",
+      "published": "2026-08-15T17:35:04+00:00"
     },
     {
-      "headline": "Multiple Shooters Remain at Large After Five Injured in Virginia State University Shooting",
-      "summary": "A nighttime gunfire incident outside a VSU residence hall left five people wounded, including a student and a minor; police confirm more than one shooter and continue the manhunt while the campus lockdown is lifted.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T19:34:22+00:00"
-    },
-    {
-      "headline": "Trump Administration Proposes Private‑Sector Hacks of Foreign Cybercriminals",
-      "summary": "A White House memorandum would let contracted U.S. companies conduct offensive cyber operations against designated foreign actors, a shift from traditional government‑only espionage and sabotage activities.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
-      "source": "NPR News",
-      "published": "2026-08-15T17:25:34+00:00"
-    },
-    {
-      "headline": "Targeted Marine Cloud Seeding Can Weaken Future El Niño Cycles",
-      "summary": "New climate research published in Science Advances shows that targeted marine cloud brightening can effectively mitigate the strength of subsequent El Niño events. By enhancing cloud reflectivity over strategic ocean regions, the geoengineering approach provides a potential mechanism for cooling sea surfaces and blunting extreme weather patterns.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.science.org/doi/10.1126/sciadv.adx3012",
-      "source": "Hacker News",
-      "published": "2026-08-16T03:40:05+00:00"
-    },
-    {
-      "headline": "Waist Size Beats BMI at Identifying Hidden Heart Disease Risks",
-      "summary": "A 20-year study of more than 260,000 individuals published in JACC found that waist circumference and waist-to-hip ratios predict cardiovascular risk far more accurately than body mass index alone. Relying solely on BMI routinely misclassifies patients, as nearly one-fifth of normal-weight participants exhibited elevated central adiposity linked to fatal and non-fatal cardiac events. Researchers emphasize that visceral fat concentrated around internal organs poses severe metabolic risks that standard weight-to-height metrics ignore.",
-      "category": "Tech/AI",
+      "headline": "Westbrook’s Entire 18‑Year Career Unfolded After LeBron’s First Finals Appearance",
+      "summary": "The post highlights that Russell Westbrook entered the league a year after LeBron’s 2007 Finals run and has since amassed 18 seasons, MVP, and record triple‑doubles, while LeBron remains active.",
+      "category": "NBA",
       "relevance": 6,
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "source": "Hacker News",
-      "published": "2026-08-15T21:14:34+00:00"
-    },
-    {
-      "headline": "Historic Heatwave Leaves Europe Parched and Rivers at Record Lows",
-      "summary": "Satellite imagery reveals severe environmental toll across Western Europe following its hottest June-to-July on record, leaving dried pastures, retreating Alpine glaciers, and drastically depleted waterways. The Danube has dropped to 30-year lows, exposing ancient mammoth bones and sunken World War II wrecks while forcing nuclear reactors in Hungary and Romania to curtail output due to cooling constraints. Low levels on the Rhine have also disrupted cargo logistics and halted river cruises.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c4gxy0wqqd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T05:01:13+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/",
+      "source": "r/NBA",
+      "published": "2026-08-15T22:27:49+00:00"
     },
     {
       "headline": "Solitude, Not Shared Workspaces, Nurtures Breakthrough Ideas",
