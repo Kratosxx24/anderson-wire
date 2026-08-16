@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T13:05:20.607258+00:00",
+  "generated_at": "2026-08-16T13:41:23.687097+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -84,22 +84,22 @@
       "published": "2026-08-15T21:40:15+00:00"
     },
     {
-      "headline": "ESP32 FM Radio Project Evolves to Custom PCB with PAM8403 Amplifier",
-      "summary": "The turtushig22-blip GitHub repo documents a DIY FM radio built around the TEA5767 tuner and an ESP32, originally prototyped on an Arduino UNO in January 2026. The new phase focuses on a compact custom PCB that adds a PAM8403 amplifier, rotary encoder, OLED display, and streamlined audio output, with design files and a video demo already available.",
+      "headline": "Software Engineering fundamentals matter more",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
       "source": "Hacker News",
-      "published": "2026-08-15T23:54:35+00:00"
+      "published": "2026-08-15T22:31:09+00:00"
     },
     {
-      "headline": "AI Workflow Successfully Modernizes 250,000-Line Legacy Fortran Weather Model for GPUs",
-      "summary": "Researchers deployed a CLI-based AI agent to convert CReSS, a massive legacy Fortran weather simulation, to run on GPUs using OpenACC. The validation-focused pipeline successfully adapted 162 computational kernels, caught subtle floating-point discrepancies, and delivered a 5.1x application-level speedup during typhoon modeling benchmarks.",
+      "headline": "Cultivating a state of mind where new ideas are born (2023)",
+      "summary": "",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://arxiv.org/abs/2608.13122",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
       "source": "Hacker News",
-      "published": "2026-08-15T22:41:51+00:00"
+      "published": "2026-08-15T20:54:11+00:00"
     },
     {
       "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
@@ -138,51 +138,6 @@
       "published": "2026-08-16T04:19:32+00:00"
     },
     {
-      "headline": "Electrifying Underground Rock Formations to Produce Clean Geologic Hydrogen",
-      "summary": "Researchers and engineers are exploring techniques to stimulate natural geologic hydrogen production by applying electrical currents to subsurface rocks alongside water. The stimulated extraction method aims to tap subterranean formations as a scalable source of clean energy.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "source": "Hacker News",
-      "published": "2026-08-16T02:36:10+00:00"
-    },
-    {
-      "headline": "Software Engineering fundamentals matter more",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/",
-      "source": "Hacker News",
-      "published": "2026-08-15T22:31:09+00:00"
-    },
-    {
-      "headline": "Developer Solves Elusive Zsh History Loss Flaw",
-      "summary": "Engineer Michael Stapelberg tracked down an intermittent bug that caused the Z shell to wipe years of recent command history from disk. By forcing Zsh to intentionally crash and inspecting the core dump, he isolated the root cause, resulting in an upstream fix in Zsh 5.9.2.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-      "source": "Hacker News",
-      "published": "2026-08-15T21:39:09+00:00"
-    },
-    {
-      "headline": "Abdominal fat predicts heart disease risk better than BMI",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "source": "Hacker News",
-      "published": "2026-08-15T21:14:34+00:00"
-    },
-    {
-      "headline": "Cultivating a state of mind where new ideas are born (2023)",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "source": "Hacker News",
-      "published": "2026-08-15T20:54:11+00:00"
-    },
-    {
       "headline": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
       "summary": "",
       "category": "Tech/AI",
@@ -190,24 +145,6 @@
       "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
       "source": "Hacker News",
       "published": "2026-08-15T19:20:51+00:00"
-    },
-    {
-      "headline": "AI Accelerates Drug Discovery: Current Landscape and Future Directions",
-      "summary": "The Nature review outlines how artificial intelligence is reshaping drug discovery, highlighting recent breakthroughs, existing challenges, and the roadmap needed to bring AI‑driven therapeutics to market.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "Hacker News",
-      "published": "2026-08-15T19:12:53+00:00"
-    },
-    {
-      "headline": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-      "source": "Hacker News",
-      "published": "2026-08-15T18:33:25+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -318,40 +255,31 @@
       "published": "2026-08-15T09:10:20Z"
     },
     {
-      "headline": "Claude Surges in India, Gemini Gains Ground on ChatGPT",
-      "summary": "Sensor Tower data shows Claude's downloads in India jumped 30‑fold to 8.5 million in Q2 2026, with spending rising 19‑fold to ₹62.2 crore, while ChatGPT remains the top spender and Gemini is rapidly increasing engagement. The surge positions Claude as the fastest‑growing major player in a market where generative AI apps vie for dominance.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-ai-app-race-heats-up-as-claude-surges-and-gemini-closes-in-on-chatgpt/articleshow/133258423.cms",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T07:44:45Z"
-    },
-    {
-      "headline": "Elon Musk Concedes Anthropic Leads AI Sector Amid $100B Amazon Infrastructure Deal",
-      "summary": "Elon Musk reversed his past skepticism of Anthropic, publicly declaring the company the current industry leader thanks to its Mythos and Fable models. The admission aligns with Amazon expanding its financial backing toward a potential $33 billion total investment. In exchange, Anthropic committed more than $100 billion over the next decade to utilize Amazon's custom Trainium and Graviton cloud hardware.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.ibtimes.com.au/elon-musk-anthropic-ai-leader-amazon-partnership-1874067",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T06:17:36Z"
-    },
-    {
-      "headline": "Riffn Links iOS Voice Commands Directly to Local AI Coding Agents",
-      "summary": "Riffn is a new iOS app designed to let developers talk to coding agents running in local repositories over a private Tailscale network. Users pair their device by running a lightweight, open-source Node bridge on their machine and scanning a QR code, avoiding public internet exposure. The audio connection persists in the background with earbud and CarPlay support, allowing hands-free interaction while walking, driving, or away from the keyboard.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://riffn.io/how-riffn-works/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T06:05:09Z"
-    },
-    {
       "headline": "Anthropic Deploys Global Invisible Watermark to Flag Claude‑Generated Text",
       "summary": "Anthropic is embedding a subtle, AI‑driven watermark into all Claude outputs worldwide, nudging the model toward statistically favored filler words that create a hidden signal detectable in long passages. The company has held back a public detection tool and says the watermark has no measurable impact on quality, though it weakens in short or highly factual text and can be stripped by heavy editing. Non‑text files will carry C2PA provenance metadata, and the rollout’s scope remains unclear after the August 2 cutoff.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://4sysops.com/archives/claudes-invisible-text-watermark-is-global/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T02:10:19-07:00"
+      "published": "2026-08-15T09:10:19Z"
+    },
+    {
+      "headline": "Fantasy football 2026 rankings, draft prep: NFL model unveils QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
+      "summary": "",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-nfl-model-unveils-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "source": "CBS Sports",
+      "published": "2026-08-16T13:20:37+00:00"
+    },
+    {
+      "headline": "Heat’s Giannis Pursuit and Portis Clause Blocked Powell’s Return",
+      "summary": "Miami’s bid for Giannis Antetokounmpo hinged on acquiring Bobby Portis, a $14.5 million contract the Bucks insisted be part of any trade, which ate up the cap space the Heat needed to bring back former guard Norman Powell. Powell left for Chicago on a $21.5 million deal, a salary the Heat could have matched if Portis and a $6.1 million Hardaway Jr. deal weren’t in the mix. Thus both the claim that a path existed and that it was blocked are technically true.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.sun-sentinel.com/2026/08/15/ira-winderman-powell-vs-portis-shows-dual-heat-truths-can-be-correct/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T13:01:00Z"
     },
     {
       "headline": "Bears Offense Rebounds Against Browns After Antwaan Randle El Takes Over Play-Calling",
@@ -399,15 +327,6 @@
       "published": "2026-08-15T21:45:36+00:00"
     },
     {
-      "headline": "2026 Fantasy Football Draft Prep: Experts Release Rankings and Rookie Picks",
-      "summary": "SportsLine experts have unveiled their 2026 fantasy football rankings, listing the top 150 players and highlighting optimal rookie selections. The guide emphasizes key positions such as running back and wide receiver, offering insights into projected breakout performers. Draft strategists can use the rankings to shape their 2026 roster and plan for upcoming free‑agency moves.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-release-rankings-top-150-optimal-rookie-picks/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T19:20:34+00:00"
-    },
-    {
       "headline": "Future’s 2014 ‘Monster’ Mixtape Re‑Examined as His Defining Work",
       "summary": "Pitchfork revisits Future’s raw 2014 mixtape ‘Monster,’ arguing it remains the apex of his catalog despite his later mainstream success and high‑profile relationships. The review highlights his early club hits, celebrity collaborations, and the mixtape’s unfiltered lyrical style that set a benchmark for his career.",
       "category": "Music",
@@ -417,22 +336,67 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "Heat’s Giannis Pursuit and Portis Clause Blocked Powell’s Return",
-      "summary": "Miami’s bid for Giannis Antetokounmpo hinged on acquiring Bobby Portis, a $14.5 million contract the Bucks insisted be part of any trade, which ate up the cap space the Heat needed to bring back former guard Norman Powell. Powell left for Chicago on a $21.5 million deal, a salary the Heat could have matched if Portis and a $6.1 million Hardaway Jr. deal weren’t in the mix. Thus both the claim that a path existed and that it was blocked are technically true.",
-      "category": "NBA",
+      "headline": "2026 Fantasy Football Draft Prep: Experts Release Rankings and Rookie Picks",
+      "summary": "SportsLine experts have unveiled their 2026 fantasy football rankings, listing the top 150 players and highlighting optimal rookie selections. The guide emphasizes key positions such as running back and wide receiver, offering insights into projected breakout performers. Draft strategists can use the rankings to shape their 2026 roster and plan for upcoming free‑agency moves.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://www.sun-sentinel.com/2026/08/15/ira-winderman-powell-vs-portis-shows-dual-heat-truths-can-be-correct/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T13:01:46+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-release-rankings-top-150-optimal-rookie-picks/",
+      "source": "CBS Sports",
+      "published": "2026-08-15T19:20:34+00:00"
     },
     {
-      "headline": "Donkey Kong Bananza",
+      "headline": "Five killed as Russia launches fresh aerial attacks across Ukraine",
       "summary": "",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
-      "source": "Pitchfork",
-      "published": "2026-08-15T04:00:00+00:00"
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-16T08:14:56.855Z"
+    },
+    {
+      "headline": "Steelers’ Keeanu Benton makes franchise history with massive extension",
+      "summary": "",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.thebiglead.com/steelers-keeanu-benton-franchise-history-massive-extension/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-15T13:34:21+00:00"
+    },
+    {
+      "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
+      "summary": "",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5933006/ukraine-aerial-attack-6-dead-russia",
+      "source": "NPR News",
+      "published": "2026-08-16T06:12:09-04:00"
+    },
+    {
+      "headline": "UFC 330 results, takeaways: Islam Makhachev makes history, but more danger is lurking",
+      "summary": "",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/ufc/news/ufc-330-results-takeaways-islam-makhachev-ian-garry-mackenzie-dern/",
+      "source": "CBS Sports",
+      "published": "2026-08-16T06:41:20+00:00"
+    },
+    {
+      "headline": "Claude: System Prompts",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "published": "2026-08-16T12:48:21+00:00"
+    },
+    {
+      "headline": "TreVeyon Henderson Fantasy Outlook 2026: Will the Patriots RB Be a League-Winner or a Complete Bust?",
+      "summary": "",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.profootballnetwork.com/fantasy-football/treveyon-henderson-fantasy-outlook-2026/?utm_medium=rss&amp;utm_source=nordot",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-15T08:33:24-04:00"
     },
     {
       "headline": "Ousmane Dieng’s Underwhelming Thunder Tenure Ends with Trade to Bucks",
@@ -450,7 +414,43 @@
       "relevance": 7,
       "url": "https://www.sbnation.com/nba/1124980/nba-teams-hardest-schedules-bulls-lakers-celtics-news",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T12:00:00+00:00"
+      "published": "2026-08-15T12:00:00Z"
+    },
+    {
+      "headline": "Donkey Kong Bananza",
+      "summary": "",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
+      "source": "Pitchfork",
+      "published": "2026-08-15T04:00:00+00:00"
+    },
+    {
+      "headline": "marginal added to PyPI",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://pypi.org/project/marginal/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T13:39:21Z"
+    },
+    {
+      "headline": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "summary": "",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T21:49:12.510Z"
+    },
+    {
+      "headline": "How to become an AI Designer",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T13:16:28Z"
     }
   ]
 }
