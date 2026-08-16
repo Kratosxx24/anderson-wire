@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T16:46:05.567424+00:00",
+  "generated_at": "2026-08-16T17:05:07.175592+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -145,24 +145,6 @@
       "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
       "source": "Simon Willison",
       "published": "2026-08-15T14:49:54+00:00"
-    },
-    {
-      "headline": "Classic Math and Physics Web Simulators Ported to Modern JavaScript",
-      "summary": "Paul Falstad's long-running suite of interactive educational applets for math, physics, and engineering has been converted from Java to JavaScript for broad browser support. The collection spans interactive simulations for wave mechanics, acoustics, signal processing, electrodynamics, analog circuits, and quantum orbital states.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.falstad.com/mathphysics.html",
-      "source": "Hacker News",
-      "published": "2026-08-16T04:19:32+00:00"
-    },
-    {
-      "headline": "Patterns and problems in emerging multi-agent systems",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Hacker News",
-      "published": "2026-08-16T02:12:53+00:00"
     },
     {
       "headline": "Software Engineering fundamentals matter more",
@@ -318,13 +300,58 @@
       "published": "2026-08-15T14:51:12Z"
     },
     {
-      "headline": "I Vibe Coded an App With Opus 5 to Get Better at The Finals, and It's Working",
-      "summary": "",
+      "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
+      "summary": "Anthropic CEO Dario Amodei argued that public skepticism toward AI stems from a broader, long-standing distrust of tech companies and institutions rather than safety warnings from industry leaders. Rejecting glitzy marketing campaigns and lofty promises like curing cancer as deceptive clichés, Amodei stated that the only way AI companies can earn trust is by actually delivering tangible, real-world breakthroughs. He acknowledged that the most valid criticism of the industry is its failure so far to deliver on its grand promises.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://uk.pcmag.com/ai/166743/i-vibe-coded-an-app-with-opus-5-to-get-better-at-the-finals-and-its-working",
+      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T15:05:36+00:00"
+    },
+    {
+      "headline": "New Python Package gnosis-air Released on PyPI",
+      "summary": "A new package titled gnosis-air has been published to the Python Package Index repository. Additional technical details regarding its functionality are currently unavailable due to access issues.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://pypi.org/project/gnosis-air/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T14:00:00Z"
+      "published": "2026-08-15T17:01:46Z"
+    },
+    {
+      "headline": "Evaluation Package pp-evals Published to PyPI",
+      "summary": "The pp-evals package has been added to the Python Package Index. Detailed release notes and package specifications could not be retrieved from the host page.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://pypi.org/project/pp-evals/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T16:51:17Z"
+    },
+    {
+      "headline": "AMD Issues Record $4.75B Bond Sale Alongside Major Anthropic Commitment",
+      "summary": "AMD completed its largest-ever debt offering, raising $4.75 billion across four bond tranches despite holding $13.1 billion in cash reserves. The fundraising closely mirrors AMD's agreement to invest up to $5 billion in Anthropic to deploy two gigawatts of its Instinct MI450 chips for running Claude models. The move reflects an industry-wide trend where major chip suppliers increasingly finance the AI customers buying their hardware.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://thenextweb.com/news/amd-4-75-billion-bond-sale-anthropic-ai-debt",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T16:49:08+00:00"
+    },
+    {
+      "headline": "Ancestry.com Updates Outlined in AI-Generated Overview",
+      "summary": "An automated overview highlights ten new and updated features on Ancestry.com as of August 2026 using ChatGPT. Full details of the feature list were inaccessible due to browser compatibility restrictions on the source page.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/26204193/6629117705014716670",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T16:17:00Z"
+    },
+    {
+      "headline": "Anthropic Publishes System Prompts and Safety Guardrails for Claude Models",
+      "summary": "Anthropic has documented the official system prompts powering Claude's web and mobile applications across its model lineup, including Claude Opus 5 and Claude Fable 5. The prompts mandate formatting conventions like Markdown code blocks and direct the AI to keep answers brief when conversations drift into risky territory. The guidelines strictly prohibit assisting with dangerous weapons or substances, instructing the model to reject queries even when users cite public availability or research motives.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "Hacker News",
+      "published": "2026-08-16T12:48:21+00:00"
     },
     {
       "headline": "Heat’s Giannis Pursuit and Portis Clause Blocked Powell’s Return",
@@ -408,24 +435,6 @@
       "published": "2026-08-16T06:41:20+00:00"
     },
     {
-      "headline": "New Open-Source Tool Enables Multiple Signed-In AI Coding Profiles on Mac",
-      "summary": "Developer Carl Lippert released Lots of Agents, a macOS utility that runs multiple isolated instances of tools like Cursor, Claude, Grok Bot, and ChatGPT simultaneously. By assigning separate data directories to each launch rather than cloning full application bundles, the software lets developers easily separate active work and personal accounts.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/carllippert/lots_of_agents",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T15:23:17Z"
-    },
-    {
-      "headline": "Anthropic Discloses Bioweapon Filters Were Inactive for 133 Million Contractor Chats",
-      "summary": "Anthropic's latest risk report revealed that biological weapon blocking safeguards and audit logging were accidentally disabled on human-feedback platforms for eleven months, spanning roughly 133 million conversations across 50,000 contractor accounts. A retroactive review using Claude Sonnet 5 identified nearly 1,200 high-risk chats, though internal investigators concluded none resulted in verified dangerous misuse. The company acknowledged that third-party vendor vetting was insufficient during the period to prevent potential threat actors from gaining access.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://thenextweb.com/news/anthropic-risk-report-bio-classifiers-human-feedback-gap",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T14:14:18Z"
-    },
-    {
       "headline": "Trump Pushes Back on Apple's Shift to Chinese Memory Chips",
       "summary": "Apple is considering sourcing RAM from Chinese suppliers to ease a component shortage, but Commerce Secretary Howard Lutnick says the Trump administration opposes the move. Lutnick made the comments after visiting an Apple manufacturing site in Houston, signaling Washington will pressure the tech giant to find alternative supply chains.",
       "category": "Tech/AI",
@@ -441,16 +450,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-16T08:14:56.855Z"
-    },
-    {
-      "headline": "Seahawks Lock Up Devon Witherspoon With Record-Breaking $132 Million Extension",
-      "summary": "The Seattle Seahawks have secured cornerback Devon Witherspoon with a four-year, $132 million contract featuring $101 million in guarantees, shattering previous NFL records for total value and average annual salary at the position. The deal rewards a three-time Pro Bowler who anchored a Super Bowl-winning defense and topped cornerbacks in overall grade and pass-rush pressures last season. Witherspoon’s market-setting deal also intensifies pressure on other teams, notably the Patriots, who are negotiating a potential league-record extension with Christian Gonzalez.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.foxsports.com/stories/nfl/seahawks-devon-witherspoon-extension-highest-paid-nfl-cornerbacks",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-15T12:42:08-04:00"
+      "published": "2026-08-16T15:50:12+00:00"
     }
   ]
 }
