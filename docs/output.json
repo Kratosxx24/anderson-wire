@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T01:53:50.262333+00:00",
+  "generated_at": "2026-08-16T03:10:00.151026+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -10,15 +10,6 @@
       "url": "https://www.cbssports.com/golf/news/lebron-james-youtube-golf-channel-cavaliers-teammates/",
       "source": "CBS Sports",
       "published": "2026-08-15T16:05:46+00:00"
-    },
-    {
-      "headline": "SportsLine Newsletter August 15, 2026",
-      "summary": "",
-      "category": "YouTube",
-      "relevance": 10,
-      "url": "https://www.cbssports.com/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T12:52:18+00:00"
     },
     {
       "headline": "Deciphering the Iconic Sound Design of the iPhone",
@@ -147,15 +138,6 @@
       "published": "2026-08-15T15:58:53+00:00"
     },
     {
-      "headline": "Modeling and Verification of Keeta's Consensus [pdf]",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://xescu.re/keeta-consensus.pdf",
-      "source": "Hacker News",
-      "published": "2026-08-15T21:49:45+00:00"
-    },
-    {
       "headline": "Developer Solves Elusive Zsh History Loss Flaw",
       "summary": "Engineer Michael Stapelberg tracked down an intermittent bug that caused the Z shell to wipe years of recent command history from disk. By forcing Zsh to intentionally crash and inspecting the core dump, he isolated the root cause, resulting in an upstream fix in Zsh 5.9.2.",
       "category": "Tech/AI",
@@ -190,15 +172,6 @@
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "source": "Hacker News",
       "published": "2026-08-15T18:13:02+00:00"
-    },
-    {
-      "headline": "A spectre is haunting Unicode",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "source": "Hacker News",
-      "published": "2026-08-15T14:34:04+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -327,6 +300,24 @@
       "published": "2026-08-15T08:29:20+00:00"
     },
     {
+      "headline": "Klay Thompson Treasures Signed Bill Russell Basketball as Family Heirloom",
+      "summary": "Klay Thompson highlighted a basketball autographed by Bill Russell as his most valued keepsake, pointing to the late legend's civil rights advocacy and lasting impact on the sport. Russell gave the personalized gifts exclusively to a select group of his favorite players, making the gesture especially meaningful to Thompson.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vp9zuc/klay_on_his_bill_russell_signed_ball_this_will/",
+      "source": "r/NBA",
+      "published": "2026-08-15T18:17:47+00:00"
+    },
+    {
+      "headline": "AI Workflow Successfully Modernizes 250,000-Line Legacy Fortran Weather Model for GPUs",
+      "summary": "Researchers deployed a CLI-based AI agent to convert CReSS, a massive legacy Fortran weather simulation, to run on GPUs using OpenACC. The validation-focused pipeline successfully adapted 162 computational kernels, caught subtle floating-point discrepancies, and delivered a 5.1x application-level speedup during typhoon modeling benchmarks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://arxiv.org/abs/2608.13122",
+      "source": "Hacker News",
+      "published": "2026-08-15T22:41:51+00:00"
+    },
+    {
       "headline": "Basketball Intelligence 8/14/26: NBA Schedules, Coaching Insights, and Team Overviews",
       "summary": "The newsletter compiles analysis of upcoming NBA schedules, coaching changes, and team performance, featuring pieces on the Hawks’ tough start, Doc Rivers’ Hall of Fame induction, the Bulls’ early-season schedule, and the Cavaliers’ coaching rankings. It also covers the Clippers’ 2026‑27 schedule, Lakers’ new faces, and the Grizzlies’ schedule analysis, among other team‑specific stories.",
       "category": "NBA",
@@ -334,6 +325,15 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81426",
       "source": "Basketball Intelligence",
       "published": "2026-08-14T17:43:32+00:00"
+    },
+    {
+      "headline": "Computer Model Flags Fantasy Football Sleepers After De'Von Achane’s Breakout 2025 Season",
+      "summary": "A data‑driven ranking for the 2026 fantasy football draft highlighted a list of sleeper picks that a predictive algorithm identified following De'Von Achane’s standout year. The model’s picks aim to give owners an edge by targeting undervalued players poised for breakout performances.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-impressive-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-16T00:19:50+00:00"
     },
     {
       "headline": "Deshaun Watson outplays Shedeur Sanders in preseason opener, but Browns QB battle leaves plenty to be desired",
@@ -417,22 +417,31 @@
       "published": "2026-08-15T21:49:12+00:00"
     },
     {
-      "headline": "Computer Model Flags Fantasy Football Sleepers After De'Von Achane’s Breakout 2025 Season",
-      "summary": "A data‑driven ranking for the 2026 fantasy football draft highlighted a list of sleeper picks that a predictive algorithm identified following De'Von Achane’s standout year. The model’s picks aim to give owners an edge by targeting undervalued players poised for breakout performances.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-impressive-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T00:19:50+00:00"
-    },
-    {
       "headline": "State Dept. Spokesperson Warns of Iran Conflict and Mass Visa Revocations",
       "summary": "In a six‑minute NPR interview, State Department spokesperson Tommy Pigott addressed the escalating war‑like situation with Iran and explained that the U.S. has revoked visas for hundreds of thousands of foreign nationals as a security measure. He emphasized that the revocations are part of a broader diplomatic response to the regional tension.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
       "source": "NPR News",
-      "published": "2026-08-15T17:20:51-04:00"
+      "published": "2026-08-15T21:20:51+00:00"
+    },
+    {
+      "headline": "Russell Westbrook's Entire Hall-of-Fame Career Fits Inside LeBron James' Post-Finals Era",
+      "summary": "Russell Westbrook entered the league in 2008—a full year after LeBron James made his first NBA Finals appearance with Cleveland. Across the next 18 seasons, Westbrook built a complete Hall-of-Fame resume and retired, while James continues to play at the professional level.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vpg0kw/russell_westbrooks_entire_18year_nba_career/",
+      "source": "r/NBA",
+      "published": "2026-08-15T22:27:49+00:00"
+    },
+    {
+      "headline": "Lethal Midwest Floods Prompt Indiana Disaster Appeal as Rain Persists",
+      "summary": "Severe torrential storms across the Midwest have claimed at least three lives, cut power to over 150,000 customers, and pushed Indiana to request emergency federal assistance. Hardest-hit areas received over 11 inches of rain, with Anderson, Indiana's White River shattering a high-water mark that stood since 1913.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "source": "NPR News",
+      "published": "2026-08-15T16:04:13-04:00"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -442,15 +451,6 @@
       "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
       "source": "Pitchfork",
       "published": "2026-08-15T04:00:00+00:00"
-    },
-    {
-      "headline": "Morocco Detains Over 100 Migrants Near Ceuta Amid Heightened Security",
-      "summary": "Moroccan security forces intercepted more than 100 migrants, primarily from sub‑Saharan Africa, attempting to cross into the Spanish enclave of Ceuta, detaining 111 people near the town of Fnideq. The operation involved riot police, tear‑gas, and a surge of military assets after a recent surge of 78,000 arrivals that left 100 dead, prompting Spain to deploy 1,500 officers and reinforce barriers, while Italy suspended Schengen travel with Spain.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T19:16:40.486Z"
     }
   ]
 }
