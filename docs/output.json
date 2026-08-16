@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T23:51:03.471905+00:00",
-  "story_count": 49,
+  "generated_at": "2026-08-16T00:02:03.535179+00:00",
+  "story_count": 50,
   "stories": [
     {
       "headline": "LeBron James Launches YouTube Golf Channel, Debuts Cavaliers Reunion Video",
@@ -336,6 +336,24 @@
       "published": "2026-08-15T08:29:20+00:00"
     },
     {
+      "headline": "Autonomous Taxis Expand Across Select US Markets",
+      "summary": "Fully autonomous ride-hailing services are finally operating commercially after years of anticipation and development. However, access remains confined to specific metropolitan testbeds rather than a widespread national footprint.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5918065/are-robotaxis-finally-here",
+      "source": "NPR News",
+      "published": "2026-08-15T17:30:21-04:00"
+    },
+    {
+      "headline": "Developer Solves Elusive Zsh History Loss Flaw",
+      "summary": "Engineer Michael Stapelberg tracked down an intermittent bug that caused the Z shell to wipe years of recent command history from disk. By forcing Zsh to intentionally crash and inspecting the core dump, he isolated the root cause, resulting in an upstream fix in Zsh 5.9.2.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "source": "Hacker News",
+      "published": "2026-08-15T21:39:09+00:00"
+    },
+    {
       "headline": "Basketball Intelligence 8/14/26: NBA Schedules, Coaching Insights, and Team Overviews",
       "summary": "The newsletter compiles analysis of upcoming NBA schedules, coaching changes, and team performance, featuring pieces on the Hawks’ tough start, Doc Rivers’ Hall of Fame induction, the Bulls’ early-season schedule, and the Cavaliers’ coaching rankings. It also covers the Clippers’ 2026‑27 schedule, Lakers’ new faces, and the Grizzlies’ schedule analysis, among other team‑specific stories.",
       "category": "NBA",
@@ -408,6 +426,24 @@
       "published": "2026-08-14T17:00:00+00:00"
     },
     {
+      "headline": "Drata Highlights AI-Powered Compliance and Risk Platform",
+      "summary": "Security platform Drata is marketing autonomous AI tools built to automate regulatory compliance for businesses. The service aims to streamline internal and vendor risk tracking while offering continuous proof of security posture.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://drata.com/daring",
+      "source": "Daring Fireball",
+      "published": "2026-08-15T21:40:15+00:00"
+    },
+    {
+      "headline": "Magnitude 7.7 Earthquake Kills at Least 47 on Indonesia's Flores Island",
+      "summary": "A powerful 7.7-magnitude earthquake struck eastern Indonesia at a shallow depth of 15 kilometers, flattening homes and killing dozens while they slept. The disaster caused widespread destruction across Manggarai province and collapsed infrastructure at the Maumere ferry terminal. Emergency teams are now distributing aid and scouring rubble in the remote, mountainous terrain amid dozens of aftershocks.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T21:49:12.510Z"
+    },
+    {
       "headline": "Donkey Kong Bananza",
       "summary": "",
       "category": "Music",
@@ -415,33 +451,6 @@
       "url": "https://pitchfork.com/reviews/albums/nintendo-sound-team-donkey-kong-bananza/",
       "source": "Pitchfork",
       "published": "2026-08-15T04:00:00+00:00"
-    },
-    {
-      "headline": "Tess's Android Wayland Compositor Lets Users Run Linux Apps on Android Without Root",
-      "summary": "The open-source project tawc brings a Wayland compositor, a fast rootless runtime (tawcroot), and a UI that lets users launch and manage Linux CLI and graphical apps directly on Android. It supports hardware-accelerated X11 via XWayland, embeds a Termux terminal, and lets Linux apps appear on the home screen alongside native Android apps—all without requiring root access.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/wmww/tawc",
-      "source": "Hacker News",
-      "published": "2026-08-15T18:34:26+00:00"
-    },
-    {
-      "headline": "Former Five-Star QBs Scrimmage Showdown at Alabama, Tennessee, Vanderbilt",
-      "summary": "CBS Sports examines how former five-star quarterbacks performed in key scrimmage battles for the 2026 season at Alabama, Tennessee, and Vanderbilt. The article compares their play-calling and execution in practice sessions, highlighting which prospects are shaping up to be the next starting quarterbacks for each program.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/college-football/news/alabama-tennessee-vanderbilt-2026-quaterback-compeition/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T20:19:06+00:00"
-    },
-    {
-      "headline": "Titans CB Nazeeh Johnson Blames Fertility Medication for Six-Game PED Suspension",
-      "summary": "Titans cornerback Nazeeh Johnson said a fertility medication he was taking triggered a positive test for a prohibited substance, leading to a six-game suspension. Johnson explained that the medication contained a banned compound and he was unaware of the violation when he took it.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/titans-nazeeh-johnson-suspension-fertility-medication/",
-      "source": "CBS Sports",
-      "published": "2026-08-15T15:40:51+00:00"
     }
   ]
 }
