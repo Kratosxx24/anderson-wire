@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:04:28.612028+00:00",
+  "generated_at": "2026-08-16T04:46:52.942091+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -93,15 +93,6 @@
       "published": "2026-08-14T17:16:15+00:00"
     },
     {
-      "headline": "Google’s ‘Material 3’ Design Write-Up Is 93.3 Percent Embarrassing",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://design.google/library/expressive-material-design-google-research",
-      "source": "Daring Fireball",
-      "published": "2026-08-14T16:33:55+00:00"
-    },
-    {
       "headline": "LLM Tagging Hack: Generate New Labels, Match with Existing Corpus",
       "summary": "Simon Willison proposes letting a language model invent tags for content, then using vector embeddings to map those imagined tags to his 1,856 existing ones. This sidesteps the need to feed the entire tag list to the model while still producing relevant, structured labels, as illustrated with a furniture‑classification example.",
       "category": "Tech/AI",
@@ -111,15 +102,6 @@
       "published": "2026-08-14T21:54:35+00:00"
     },
     {
-      "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
-      "summary": "Eleven people died in Israeli airstrikes on southern Lebanon, including three children and two women, marking one of the deadliest days since a June ceasefire agreement. Lebanese officials say the strikes hit a house near Ansar and the town of Deir al-Zahrani, while Israel claims it targeted a Hezbollah commander and his associates. Prime Minister Nawaf Salam condemned the attacks, calling the civilians \"not military infrastructure.\"",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-15T20:21:14+00:00"
-    },
-    {
       "headline": "AI Workflow Successfully Modernizes 250,000-Line Legacy Fortran Weather Model for GPUs",
       "summary": "Researchers deployed a CLI-based AI agent to convert CReSS, a massive legacy Fortran weather simulation, to run on GPUs using OpenACC. The validation-focused pipeline successfully adapted 162 computational kernels, caught subtle floating-point discrepancies, and delivered a 5.1x application-level speedup during typhoon modeling benchmarks.",
       "category": "Tech/AI",
@@ -127,6 +109,15 @@
       "url": "https://arxiv.org/abs/2608.13122",
       "source": "Hacker News",
       "published": "2026-08-15T22:41:51+00:00"
+    },
+    {
+      "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
+      "summary": "Eleven people died in Israeli airstrikes on southern Lebanon, including three children and two women, marking one of the deadliest days since a June ceasefire agreement. Lebanese officials say the strikes hit a house near Ansar and the town of Deir al-Zahrani, while Israel claims it targeted a Hezbollah commander and his associates. Prime Minister Nawaf Salam condemned the attacks, calling the civilians \"not military infrastructure.\"",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T20:21:14+00:00"
     },
     {
       "headline": "Developer Solves Elusive Zsh History Loss Flaw",
@@ -154,15 +145,6 @@
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "source": "Hacker News",
       "published": "2026-08-15T19:12:53+00:00"
-    },
-    {
-      "headline": "AI Out-Remembers Mathematicians, Not Out-Thinkers",
-      "summary": "The article argues that AI’s edge in solving tough math problems stems more from its virtually unlimited symbolic working memory than from superior reasoning. By keeping the entire problem statement, hundreds of intermediate equations, and multiple abandoned approaches in its context window, an AI can bypass the human brain’s severe working‑memory limits.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "Hacker News",
-      "published": "2026-08-15T18:13:02+00:00"
     },
     {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
@@ -228,15 +210,6 @@
       "published": "2026-08-14T17:03:17+00:00"
     },
     {
-      "headline": "Zambia Halts Vote Counting Amid Alleged Attacks on Poll Workers",
-      "summary": "The Electoral Commission suspended counting for the presidential, parliamentary and local elections after reports of violence and theft of marked ballot papers. Incumbent President Hakainde Hichilema seeks a second term, while main challenger Brian Mundubile warned the delay could enable manipulation and called for immediate, station‑by‑station results. The commission will review the suspension within 24 hours.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-14T16:28:59+00:00"
-    },
-    {
       "headline": "Five years after the Taliban swept to power, does the West have any influence?",
       "summary": "",
       "category": "World",
@@ -271,33 +244,6 @@
       "url": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
       "source": "NPR News",
       "published": "2026-08-15T08:29:20+00:00"
-    },
-    {
-      "headline": "What to Build with Spare GPUs When LLMs Are Off‑Limits?",
-      "summary": "Reddit’s r/MachineLearning asked members to imagine a stack of high‑end GPUs landing on their desk and propose projects that don’t involve running local large language models. The thread seeks fresh, niche ideas—especially scientific or engineering applications—beyond the overused LLM use case.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-15T07:26:32+00:00"
-    },
-    {
-      "headline": "BDH‑CQ Introduces Recurrent Latent Reasoning for In‑Context Learning",
-      "summary": "Researchers unveiled BDH‑CQ, a system that merges in‑context learning with a recurrent memory that updates as new tasks arrive. Queries are solved through iterative computation inside a high‑dimensional latent space, keeping intermediate reasoning hidden from the language output.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-15T06:18:15+00:00"
-    },
-    {
-      "headline": "Jacob​ian Lens Tested Across Qwen Model Update Shows Surprising Portability",
-      "summary": "An interpretability tool calibrated on the Qwen3.6‑27B checkpoint was examined to see if it still works on the newer Qwen3.8‑27B without retraining. The experiment found that the Jacobian lens largely survives the model revision, suggesting such lenses may not need refitting for each release.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-15T18:24:00+00:00"
     },
     {
       "headline": "Basketball Intelligence 8/14/26: NBA Schedules, Coaching Insights, and Team Overviews",
@@ -372,6 +318,15 @@
       "published": "2026-08-15T19:20:34+00:00"
     },
     {
+      "headline": "Future’s 2014 ‘Monster’ Mixtape Re‑Examined as His Defining Work",
+      "summary": "Pitchfork revisits Future’s raw 2014 mixtape ‘Monster,’ arguing it remains the apex of his catalog despite his later mainstream success and high‑profile relationships. The review highlights his early club hits, celebrity collaborations, and the mixtape’s unfiltered lyrical style that set a benchmark for his career.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/future-monster/",
+      "source": "Pitchfork",
+      "published": "2026-08-16T04:00:00+00:00"
+    },
+    {
       "headline": "Shohei Ohtani Completes Bullpen Session, Eyes Pitching Return",
       "summary": "Shohei Ohtani completed his first bullpen session after a shoulder injury, marking a significant step toward resuming his dual role with the Dodgers. The session’s performance and recovery timeline are being closely monitored by the coaching staff, who aim to balance his pitching and hitting responsibilities. Ohtani’s return could reshape the Dodgers’ lineup and bullpen strategy for the remainder of the season.",
       "category": "Sports",
@@ -405,7 +360,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-15T21:49:12+00:00"
+      "published": "2026-08-16T04:13:32+00:00"
     },
     {
       "headline": "State Dept. Spokesperson Warns of Iran Conflict and Mass Visa Revocations",
@@ -426,13 +381,13 @@
       "published": "2026-08-15T20:04:13+00:00"
     },
     {
-      "headline": "Future’s 2014 ‘Monster’ Mixtape Re‑Examined as His Defining Work",
-      "summary": "Pitchfork revisits Future’s raw 2014 mixtape ‘Monster,’ arguing it remains the apex of his catalog despite his later mainstream success and high‑profile relationships. The review highlights his early club hits, celebrity collaborations, and the mixtape’s unfiltered lyrical style that set a benchmark for his career.",
-      "category": "Music",
+      "headline": "Speculation that Kawhi Leonard’s Spurs exit stemmed from cap‑cheating requests",
+      "summary": "Reddit users wonder whether Leonard’s messy split with San Antonio was tied to attempts to skirt NBA salary‑cap rules, citing rumors of 2019 offers like free Toronto penthouses and comparing his behavior to Antonio Brown’s off‑court antics.",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/future-monster/",
-      "source": "Pitchfork",
-      "published": "2026-08-16T04:00:00+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1vpd08v/with_all_the_stuff_we_know_about_kawhi_could_the/",
+      "source": "r/NBA",
+      "published": "2026-08-15T20:18:31+00:00"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -444,13 +399,58 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
+      "headline": "Zuckerberg pushes Meta’s ad revenue onto shaky AI tools that mis‑render fashion",
+      "summary": "Meta’s CEO has bet the company’s advertising future on generative‑AI, but early demos are producing nonsensical copy and turning dresses into pants, prompting criticism that the push is more hype than substance.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/artificial/comments/1vpcxj4/zuckerberg_is_betting_metas_whole_ad_business_on/",
+      "source": "r/Artificial",
+      "published": "2026-08-15T20:15:29+00:00"
+    },
+    {
+      "headline": "USS George Washington dispatched to replace USS Abraham Lincoln amid sailor welfare concerns",
+      "summary": "The carrier USS George Washington, currently near Malaysia, is slated to arrive in the Middle East around 22 August to relieve the Abraham Lincoln, whose nine‑month deployment has seen food shortages, plumbing failures and reports of crew mental‑health strain. The move will keep three US carriers in the region, while President Trump dismissed worries about the Lincoln’s extended tour.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-14T16:07:32.496Z"
+    },
+    {
+      "headline": "When does an AI product graduate from tool to platform?",
+      "summary": "A Reddit discussion notes that many AI applications start as single‑purpose tools but evolve into broader platforms as users integrate them into workflows, share them across teams, and build extensions, blurring the line between utility and ecosystem.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/artificial/comments/1vp7x59/at_what_point_does_an_ai_tool_become_a_platform/",
+      "source": "r/Artificial",
+      "published": "2026-08-15T16:56:40+00:00"
+    },
+    {
+      "headline": "New South Wales launches cash‑for‑guns buyback after Bondi Beach massacre",
+      "summary": "NSW will pay up to A$1,000 for eligible handguns, shotguns and rifles starting 2 Nov, with a second phase next year covering high‑value firearms up to A$10,000. The scheme, jointly funded by state and federal governments, follows the December attack that killed 15 people and aims to remove excess weapons under new ownership limits.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-15T21:41:43.401Z"
+    },
+    {
+      "headline": "Mic Drop: Real‑time multiplayer karaoke game goes live on Hacker News",
+      "summary": "A new browser‑based karaoke platform called Mic Drop lets players grab the mic and sing together online, offering a free, JavaScript‑enabled multiplayer experience.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.micdrop.gg/",
+      "source": "Hacker News",
+      "published": "2026-08-16T00:46:29+00:00"
+    },
+    {
       "headline": "Cambridge Sociologist Jason Arday Found Dead After Plagiarism Scandal",
       "summary": "Jason Arday, the university’s youngest Black professor, was discovered unresponsive in a Battersea home weeks after resigning amid intense plagiarism accusations and scrutiny of his credentials. His death coincides with the upcoming release of his memoir, “Great and Unfortunate Things,” adding a tragic note to the controversy.",
       "category": "Other",
       "relevance": 2,
       "url": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
       "source": "NPR News",
-      "published": "2026-08-15T13:04:43-04:00"
+      "published": "2026-08-15T17:04:43+00:00"
     }
   ]
 }
