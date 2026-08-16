@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:40:35.692594+00:00",
+  "generated_at": "2026-08-16T08:11:53.369216+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -216,7 +216,7 @@
       "relevance": 9,
       "url": "https://blog.sucuri.net/2026/08/the-illusion-of-a-lock-how-ai-is-changing-the-speed-and-scale-of-hands-on-wordpress-vulnerability-research.html",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T01:06:46+00:00"
+      "published": "2026-08-15T01:06:46Z"
     },
     {
       "headline": "Anthropic Surges to $11.5 B in Q2, First Profitable Quarter, IPO on Horizon",
@@ -225,16 +225,25 @@
       "relevance": 9,
       "url": "https://cryptobriefing.com/anthropic-14-fold-revenue-increase-q2/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T23:55:08+00:00"
+      "published": "2026-08-14T23:55:08Z"
     },
     {
-      "headline": "Anthropic Unveils Model 2, Raises Alignment Risks in Latest AI Safety Report",
-      "summary": "Anthropic released a new, more capable model dubbed Model 2 in its 186‑page risk report, noting a shift from “very low” to “low” risk for Threat Model 2 after recent internal cyber incidents. The report outlines two threat categories, including catastrophic harms and system tampering, and explains that Model 2 is heavily used by staff for software development and training data generation.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://siliconangle.com/2026/08/14/anthropic-details-unreleased-model-2-new-alignment-concerns-latest-ai-risk-report/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T19:31:54-04:00"
+      "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
+      "summary": "NBA insider Zach Lowe argues that the Mavericks’ concerns over Luka Doncic’s conditioning and injury history were justified, noting the player’s recent leg issues that caused him to miss playoff games. Lowe acknowledges the trade was “insane” but believes Doncic’s health risks could limit his championship potential.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://heavy.com/sports/nba/los-angeles-lakers/zach-lowe-mavericks-right-luka-doncic/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T04:33:02Z"
+    },
+    {
+      "headline": "UWM Losses Don’t Threaten Suns, but Spotlight Owner’s Wealth Fluctuations",
+      "summary": "Mat Ishbia’s United Wholesale Mortgage suffered a $603 M loss and halted dividends, yet the Suns remain financially secure as Ishbia’s net worth stays around $6 B. While the owner’s stake in the franchise has grown to nearly 99%, the team’s operations are not currently affected by UWM’s downturn.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://burncitysports.com/2026/08/14/should-phoenix-suns-fans-be-worried/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T04:13:25Z"
     },
     {
       "headline": "Bears Offense Rebounds Against Browns After Antwaan Randle El Takes Over Play-Calling",
@@ -408,22 +417,22 @@
       "published": "2026-08-15T06:17:36Z"
     },
     {
-      "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
-      "summary": "NBA insider Zach Lowe argues that the Mavericks’ concerns over Luka Doncic’s conditioning and injury history were justified, noting the player’s recent leg issues that caused him to miss playoff games. Lowe acknowledges the trade was “insane” but believes Doncic’s health risks could limit his championship potential.",
-      "category": "NBA",
+      "headline": "LLMs Trained Only on K‑5 Curriculum Remain Confined to Elementary Knowledge",
+      "summary": "The LittleLearner project trained three language models (0.6B, 1.3B, and 5B parameters) from scratch on an 88‑billion‑token dataset filtered to U.S. elementary‑school standards, pairing each with an unfiltered control. Scaling, supervised fine‑tuning (SFT+GRPO), and in‑context prompting all boosted performance on K‑5 tasks, but none lifted the models’ ability to handle concepts beyond grade five, suggesting the pretraining filter imposes a hard capability ceiling.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/zach-lowe-mavericks-right-luka-doncic/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T01:33:02+00:00"
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News",
+      "published": "2026-08-16T07:37:53+00:00"
     },
     {
-      "headline": "UWM Losses Don’t Threaten Suns, but Spotlight Owner’s Wealth Fluctuations",
-      "summary": "Mat Ishbia’s United Wholesale Mortgage suffered a $603 M loss and halted dividends, yet the Suns remain financially secure as Ishbia’s net worth stays around $6 B. While the owner’s stake in the franchise has grown to nearly 99%, the team’s operations are not currently affected by UWM’s downturn.",
+      "headline": "Heat Eye Klay Thompson in Trade, Offer Nikola Jović for $17.4 M Salary",
+      "summary": "The Miami Heat are considering a one‑on‑one swap to acquire Klay Thompson, sending Nikola Jović in return and covering Thompson’s expiring $17.4 M salary. With limited trade assets, the Heat would need to convince the Mavericks of Jović’s upside, as the deal offers no additional draft picks or first‑rounders.",
       "category": "NBA",
-      "relevance": 8,
-      "url": "https://burncitysports.com/2026/08/14/should-phoenix-suns-fans-be-worried/",
+      "relevance": 7,
+      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-klay-thompson/",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-14T21:13:25-07:00"
+      "published": "2026-08-15T04:59:26Z"
     },
     {
       "headline": "Donkey Kong Bananza",
@@ -435,22 +444,13 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
-      "headline": "Heat Eye Klay Thompson in Trade, Offer Nikola Jović for $17.4 M Salary",
-      "summary": "The Miami Heat are considering a one‑on‑one swap to acquire Klay Thompson, sending Nikola Jović in return and covering Thompson’s expiring $17.4 M salary. With limited trade assets, the Heat would need to convince the Mavericks of Jović’s upside, as the deal offers no additional draft picks or first‑rounders.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-klay-thompson/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T01:59:26+00:00"
-    },
-    {
-      "headline": "Solitude, Not Shared Workspaces, Nurtures Breakthrough Ideas",
-      "summary": "Early-stage concepts often sound absurd and require isolated environments to survive the harsh peer skepticism common in open coworking setups. Highlighting perspectives from startup accelerator leaders and renowned artists, the essay argues that excessive socialization acts as a destructive filter that weeds out fragile, high-potential innovations alongside bad ones. Protecting novel ideas during their initial larval phase requires intentional solitude and freedom from immediate outside judgment.",
+      "headline": "Government‑Funded Alcohol Study Fails Scrutiny, Says Taleb",
+      "summary": "Nassim Nicholas Taleb’s Substack piece critiques a recent government‑sponsored study on alcohol, arguing it suffers from serious methodological flaws such as selection bias and misinterpretation of data. The analysis sparked a lively Hacker News discussion, with commenters questioning the study’s conclusions and calling for more rigorous research standards.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "relevance": 4,
+      "url": "https://nntaleb.substack.com/p/have-another-drink",
       "source": "Hacker News",
-      "published": "2026-08-15T20:54:11+00:00"
+      "published": "2026-08-16T03:23:34+00:00"
     }
   ]
 }
