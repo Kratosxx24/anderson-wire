@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:54:56.957727+00:00",
+  "generated_at": "2026-08-16T11:30:24.734071+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -109,6 +109,42 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-15T20:21:14+00:00"
+    },
+    {
+      "headline": "Browser-Based Tool Enables Direct Chat with CORS-Enabled LLM Endpoints",
+      "summary": "Simon Willison released CORS Chat, a web utility designed to interact directly with OpenAI Responses-compatible API endpoints from the browser without an intermediary server. Tested against OpenRouter and LM Studio running local models, the tool stores chat history locally, supports JSON export, and progressively renders streaming SVG code in real time.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
+      "source": "Simon Willison",
+      "published": "2026-08-15T14:49:54+00:00"
+    },
+    {
+      "headline": "Pacific's Lone Northern Gannet Spotted at California Harbor",
+      "summary": "Simon Willison spotted Morris, the only documented Northern Gannet residing in the Pacific Ocean, at Pillar Point Harbor in California. First recorded in the Farallon Islands 14 years ago, the distinct white-and-yellow seabird has become a regional fixture typically seen roosting among local Brandt's cormorants.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
+      "source": "Simon Willison",
+      "published": "2026-08-15T03:22:00+00:00"
+    },
+    {
+      "headline": "Classic Math and Physics Web Simulators Ported to Modern JavaScript",
+      "summary": "Paul Falstad's long-running suite of interactive educational applets for math, physics, and engineering has been converted from Java to JavaScript for broad browser support. The collection spans interactive simulations for wave mechanics, acoustics, signal processing, electrodynamics, analog circuits, and quantum orbital states.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://www.falstad.com/mathphysics.html",
+      "source": "Hacker News",
+      "published": "2026-08-16T04:19:32+00:00"
+    },
+    {
+      "headline": "Electrifying Underground Rock Formations to Produce Clean Geologic Hydrogen",
+      "summary": "Researchers and engineers are exploring techniques to stimulate natural geologic hydrogen production by applying electrical currents to subsurface rocks alongside water. The stimulated extraction method aims to tap subterranean formations as a scalable source of clean energy.",
+      "category": "Other",
+      "relevance": 9,
+      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+      "source": "Hacker News",
+      "published": "2026-08-16T02:36:10+00:00"
     },
     {
       "headline": "Developer Solves Elusive Zsh History Loss Flaw",
@@ -255,6 +291,15 @@
       "published": "2026-08-15T21:20:51+00:00"
     },
     {
+      "headline": "Anthropic Details Claude's SynthID-Derived Text Watermarking Technique",
+      "summary": "Anthropic disclosed how its text watermarking system operates, revealing it uses an updated variant of Google DeepMind's SynthID-Text framework. Rather than injecting hidden Unicode characters or relying on stylistic quirks, the system subtly steers Claude's pseudo-random token selection using a secret key, leaving the output indistinguishable to readers while remaining verifiable to keyholders.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T10:46:00Z"
+    },
+    {
       "headline": "Hey, Your AI Is Showing",
       "summary": "",
       "category": "Tech/AI",
@@ -298,60 +343,6 @@
       "url": "https://riffn.io/how-riffn-works/",
       "source": "NewsAPI:Anthropic Claude",
       "published": "2026-08-15T06:05:09Z"
-    },
-    {
-      "headline": "Anthropic Targets $200B Revenue by 2028 to Justify Multi-Hundred-Billion IPO Valuation",
-      "summary": "Anthropic is targeting an annual revenue run rate of $190 billion to $200 billion by 2028 to support its planned initial public offering. The ambitious benchmark represents a massive leap from its current $47 billion run rate. Investors are heavily weighing future capacity growth against its recent $965 billion post-money private valuation.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://cryptobriefing.com/anthropic-ipo-valuation-hinges-on-190-200b-2028-revenue-forecast/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T05:14:25Z"
-    },
-    {
-      "headline": "Browser-Based Tool Enables Direct Chat with CORS-Enabled LLM Endpoints",
-      "summary": "Simon Willison released CORS Chat, a web utility designed to interact directly with OpenAI Responses-compatible API endpoints from the browser without an intermediary server. Tested against OpenRouter and LM Studio running local models, the tool stores chat history locally, supports JSON export, and progressively renders streaming SVG code in real time.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-      "source": "Simon Willison",
-      "published": "2026-08-15T14:49:54+00:00"
-    },
-    {
-      "headline": "Classic Math and Physics Web Simulators Ported to Modern JavaScript",
-      "summary": "Paul Falstad's long-running suite of interactive educational applets for math, physics, and engineering has been converted from Java to JavaScript for broad browser support. The collection spans interactive simulations for wave mechanics, acoustics, signal processing, electrodynamics, analog circuits, and quantum orbital states.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://www.falstad.com/mathphysics.html",
-      "source": "Hacker News",
-      "published": "2026-08-16T04:19:32+00:00"
-    },
-    {
-      "headline": "Anthropic Details Claude's SynthID-Derived Text Watermarking Technique",
-      "summary": "Anthropic disclosed how its text watermarking system operates, revealing it uses an updated variant of Google DeepMind's SynthID-Text framework. Rather than injecting hidden Unicode characters or relying on stylistic quirks, the system subtly steers Claude's pseudo-random token selection using a secret key, leaving the output indistinguishable to readers while remaining verifiable to keyholders.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.searchenginejournal.com/anthropic-reveals-what-the-watermark-is-and-how-it-can-be-defeated/585930/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T10:46:00+00:00"
-    },
-    {
-      "headline": "Pacific's Lone Northern Gannet Spotted at California Harbor",
-      "summary": "Simon Willison spotted Morris, the only documented Northern Gannet residing in the Pacific Ocean, at Pillar Point Harbor in California. First recorded in the Farallon Islands 14 years ago, the distinct white-and-yellow seabird has become a regional fixture typically seen roosting among local Brandt's cormorants.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/",
-      "source": "Simon Willison",
-      "published": "2026-08-15T03:22:00+00:00"
-    },
-    {
-      "headline": "Electrifying Underground Rock Formations to Produce Clean Geologic Hydrogen",
-      "summary": "Researchers and engineers are exploring techniques to stimulate natural geologic hydrogen production by applying electrical currents to subsurface rocks alongside water. The stimulated extraction method aims to tap subterranean formations as a scalable source of clean energy.",
-      "category": "Other",
-      "relevance": 9,
-      "url": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
-      "source": "Hacker News",
-      "published": "2026-08-11T13:00:01Z"
     },
     {
       "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
@@ -424,6 +415,15 @@
       "url": "https://pitchfork.com/reviews/albums/future-monster/",
       "source": "Pitchfork",
       "published": "2026-08-16T04:00:00+00:00"
+    },
+    {
+      "headline": "Curriculum‑Limited Training Caps LLM Knowledge Even With Scaling and Fine‑Tuning",
+      "summary": "The LittleLearner project trained 0.6B, 1.3B and 5B‑parameter models from scratch on an 88‑billion‑token corpus stripped to U.S. K‑5 curriculum content, pairing each with an unfiltered control. Experiments show that larger size, post‑training (GRPO) and in‑context learning improve performance on in‑scope elementary tasks but fail to boost out‑of‑scope abilities, indicating the pretraining filter sets a hard ceiling on what the model can learn.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News",
+      "published": "2026-08-16T07:37:53+00:00"
     },
     {
       "headline": "Heat Eye Klay Thompson, Offer Nikola Jovic in One‑for‑One Swap",
