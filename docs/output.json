@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:11:53.369216+00:00",
+  "generated_at": "2026-08-16T08:51:50.372460+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -219,13 +219,13 @@
       "published": "2026-08-15T01:06:46Z"
     },
     {
-      "headline": "Anthropic Surges to $11.5 B in Q2, First Profitable Quarter, IPO on Horizon",
-      "summary": "Anthropic announced Q2 2026 revenue of $11.5 B, a 14‑fold jump from last year and a 2‑fold rise from Q1, marking its first positive adjusted operating income. The explosive growth, driven by enterprise adoption of Claude, has pushed the company toward a potential IPO and an annualized run‑rate that could rival industry giants.",
+      "headline": "Riffn Links iOS Voice Commands Directly to Local AI Coding Agents",
+      "summary": "Riffn is a new iOS app designed to let developers talk to coding agents running in local repositories over a private Tailscale network. Users pair their device by running a lightweight, open-source Node bridge on their machine and scanning a QR code, avoiding public internet exposure. The audio connection persists in the background with earbud and CarPlay support, allowing hands-free interaction while walking, driving, or away from the keyboard.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://cryptobriefing.com/anthropic-14-fold-revenue-increase-q2/",
+      "url": "https://riffn.io/how-riffn-works/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-14T23:55:08Z"
+      "published": "2026-08-15T06:05:09Z"
     },
     {
       "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
@@ -345,6 +345,15 @@
       "published": "2026-08-15T14:49:54+00:00"
     },
     {
+      "headline": "LLMs Trained Only on K‑5 Curriculum Remain Confined to Elementary Knowledge",
+      "summary": "The LittleLearner project trained three language models (0.6B, 1.3B, and 5B parameters) from scratch on an 88‑billion‑token dataset filtered to U.S. elementary‑school standards, pairing each with an unfiltered control. Scaling, supervised fine‑tuning (SFT+GRPO), and in‑context prompting all boosted performance on K‑5 tasks, but none lifted the models’ ability to handle concepts beyond grade five, suggesting the pretraining filter imposes a hard capability ceiling.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://littlelearner-ll.github.io/",
+      "source": "Hacker News",
+      "published": "2026-08-16T07:37:53+00:00"
+    },
+    {
       "headline": "Emerging Multi‑Agent AI Systems Pose Coordination and Safety Risks",
       "summary": "Anthropic’s frontier‑team paper warns that as AI agents become more autonomous and interact at scale, their differing goals and lack of hierarchical control could trigger systemic failures, urging research into coordination mechanisms and safeguards.",
       "category": "Tech/AI",
@@ -369,7 +378,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-16T04:13:32+00:00"
+      "published": "2026-08-16T08:23:38+00:00"
     },
     {
       "headline": "Liechtenstein Switches to Absolute Primogeniture, Allowing Women to Inherit the Throne",
@@ -417,22 +426,13 @@
       "published": "2026-08-15T06:17:36Z"
     },
     {
-      "headline": "LLMs Trained Only on K‑5 Curriculum Remain Confined to Elementary Knowledge",
-      "summary": "The LittleLearner project trained three language models (0.6B, 1.3B, and 5B parameters) from scratch on an 88‑billion‑token dataset filtered to U.S. elementary‑school standards, pairing each with an unfiltered control. Scaling, supervised fine‑tuning (SFT+GRPO), and in‑context prompting all boosted performance on K‑5 tasks, but none lifted the models’ ability to handle concepts beyond grade five, suggesting the pretraining filter imposes a hard capability ceiling.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://littlelearner-ll.github.io/",
-      "source": "Hacker News",
-      "published": "2026-08-16T07:37:53+00:00"
-    },
-    {
-      "headline": "Heat Eye Klay Thompson in Trade, Offer Nikola Jović for $17.4 M Salary",
-      "summary": "The Miami Heat are considering a one‑on‑one swap to acquire Klay Thompson, sending Nikola Jović in return and covering Thompson’s expiring $17.4 M salary. With limited trade assets, the Heat would need to convince the Mavericks of Jović’s upside, as the deal offers no additional draft picks or first‑rounders.",
+      "headline": "Klay Thompson Names Bill Russell Autographed Ball His Most Prized Possession",
+      "summary": "Klay Thompson revealed that a basketball personally signed and gifted by the late Bill Russell is his most cherished keepsake and will remain in his family forever. The NBA star emphasized that the ball holds deep personal significance because Russell selectively gifted them to players he respected. Thompson praised the Celtics legend for both his transformational impact on the court and his relentless civil rights advocacy.",
       "category": "NBA",
-      "relevance": 7,
-      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-klay-thompson/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T04:59:26Z"
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vp9zuc/klay_on_his_bill_russell_signed_ball_this_will/",
+      "source": "r/NBA",
+      "published": "2026-08-15T18:17:47+00:00"
     },
     {
       "headline": "Donkey Kong Bananza",
