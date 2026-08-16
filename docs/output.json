@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:04:16.717816+00:00",
+  "generated_at": "2026-08-16T10:34:07.442892+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -48,24 +48,6 @@
       "published": "2026-08-15T18:52:12+00:00"
     },
     {
-      "headline": "Jaylen Brown Compares Modern Social Media to Bentham's Panopticon",
-      "summary": "Boston Celtics star Jaylen Brown framed modern digital platforms as a form of psychological surveillance and control. He argued that bots, fake accounts, and viral clips now act as a digital watchtower, driving behavioral changes and normalization across the public.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vp4xuu/jaylen_brown_panopticism_a_prison_design_so/",
-      "source": "r/NBA",
-      "published": "2026-08-15T14:56:12+00:00"
-    },
-    {
-      "headline": "Fans Demand Draft Pick Penalties Over Alleged NBA Salary Cap Evasion",
-      "summary": "NBA fans are calling on Commissioner Adam Silver to strip draft picks from ultra-wealthy team owners instead of issuing standard fines. The outrage follows reports and leaked emails detailing financial maneuvers involving Aspiration and Daktronics to circumvent league spending rules.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vp8wp3/take_away_their_picks_or_stop_pretending_the_cap/",
-      "source": "r/NBA",
-      "published": "2026-08-15T17:35:04+00:00"
-    },
-    {
       "headline": "Devon Witherspoon Signs $132M Extension, Becomes NFL’s Highest‑Paid Cornerback",
       "summary": "Seattle Seahawks cornerback Devon Witherspoon agreed to a five‑year, $132 million extension, setting a new record for defensive backs and raising the benchmark for players like Christian Gonzalez. The deal makes Witherspoon the highest‑paid CB in NFL history.",
       "category": "NFL",
@@ -111,13 +93,13 @@
       "published": "2026-08-15T22:31:09+00:00"
     },
     {
-      "headline": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-      "summary": "",
+      "headline": "Developer Solves Elusive Zsh History Loss Flaw",
+      "summary": "Engineer Michael Stapelberg tracked down an intermittent bug that caused the Z shell to wipe years of recent command history from disk. By forcing Zsh to intentionally crash and inspecting the core dump, he isolated the root cause, resulting in an upstream fix in Zsh 5.9.2.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://sugartrack-beta.vercel.app/",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
       "source": "Hacker News",
-      "published": "2026-08-15T22:28:14+00:00"
+      "published": "2026-08-15T21:39:09+00:00"
     },
     {
       "headline": "Eleven Killed in Israeli Strikes on Southern Lebanon, Authorities Report",
@@ -127,15 +109,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-15T20:21:14+00:00"
-    },
-    {
-      "headline": "Developer Solves Elusive Zsh History Loss Flaw",
-      "summary": "Engineer Michael Stapelberg tracked down an intermittent bug that caused the Z shell to wipe years of recent command history from disk. By forcing Zsh to intentionally crash and inspecting the core dump, he isolated the root cause, resulting in an upstream fix in Zsh 5.9.2.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
-      "source": "Hacker News",
-      "published": "2026-08-15T21:39:09+00:00"
     },
     {
       "headline": "Abdominal fat predicts heart disease risk better than BMI",
@@ -264,6 +237,42 @@
       "published": "2026-08-15T21:30:21+00:00"
     },
     {
+      "headline": "US State Dept. Spokesperson Discusses Iran Conflict and Visa Revocations",
+      "summary": "In an NPR interview, spokesperson Tommy Pigott explained that the U.S. has revoked visas for hundreds of thousands of foreign nationals amid ongoing tensions with Iran, and outlined the challenges of resolving the Strait of Hormuz dispute. Pigott emphasized the lack of a diplomatic solution and the impact on international travel.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
+      "source": "NPR News",
+      "published": "2026-08-15T21:20:51+00:00"
+    },
+    {
+      "headline": "Hey, Your AI Is Showing",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "http://nymag.com/intelligencer/article/ai-disclosure-day-is-coming.html",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T10:00:04Z"
+    },
+    {
+      "headline": "DeepSeek Unveils Modular AI Harness, Open‑Source Plug‑In Architecture",
+      "summary": "DeepSeek released DeepSeek Harness, an MIT‑licensed preview that lets teams swap out nearly every component of an AI agent—tools, memory, workflows—without touching the core model. The Cordis‑based system logs full session trajectories and offers a plugin‑centric design that could intensify competition with OpenAI and Anthropic.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://4sysops.com/archives/deepseek-harness-turns-every-part-of-an-ai-agent-into-a-swappable-plug-in/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T09:10:20Z"
+    },
+    {
+      "headline": "Claude Surges in India, Gemini Gains Ground on ChatGPT",
+      "summary": "Sensor Tower data shows Claude's downloads in India jumped 30‑fold to 8.5 million in Q2 2026, with spending rising 19‑fold to ₹62.2 crore, while ChatGPT remains the top spender and Gemini is rapidly increasing engagement. The surge positions Claude as the fastest‑growing major player in a market where generative AI apps vie for dominance.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-ai-app-race-heats-up-as-claude-surges-and-gemini-closes-in-on-chatgpt/articleshow/133258423.cms",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-15T07:44:45Z"
+    },
+    {
       "headline": "Elon Musk Concedes Anthropic Leads AI Sector Amid $100B Amazon Infrastructure Deal",
       "summary": "Elon Musk reversed his past skepticism of Anthropic, publicly declaring the company the current industry leader thanks to its Mythos and Fable models. The admission aligns with Amazon expanding its financial backing toward a potential $33 billion total investment. In exchange, Anthropic committed more than $100 billion over the next decade to utilize Amazon's custom Trainium and Graviton cloud hardware.",
       "category": "Tech/AI",
@@ -300,40 +309,22 @@
       "published": "2026-08-15T03:30:44Z"
     },
     {
-      "headline": "Hey, Your AI Is Showing",
-      "summary": "",
+      "headline": "ESP32 FM Radio Project Evolves to Custom PCB with PAM8403 Amplifier",
+      "summary": "The turtushig22-blip GitHub repo documents a DIY FM radio built around the TEA5767 tuner and an ESP32, originally prototyped on an Arduino UNO in January 2026. The new phase focuses on a compact custom PCB that adds a PAM8403 amplifier, rotary encoder, OLED display, and streamlined audio output, with design files and a video demo already available.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "http://nymag.com/intelligencer/article/ai-disclosure-day-is-coming.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T10:00:04.862Z"
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
+      "source": "Hacker News",
+      "published": "2026-08-15T23:54:35+00:00"
     },
     {
-      "headline": "DeepSeek Unveils Modular AI Harness, Open‑Source Plug‑In Architecture",
-      "summary": "DeepSeek released DeepSeek Harness, an MIT‑licensed preview that lets teams swap out nearly every component of an AI agent—tools, memory, workflows—without touching the core model. The Cordis‑based system logs full session trajectories and offers a plugin‑centric design that could intensify competition with OpenAI and Anthropic.",
+      "headline": "Ghost Characters in Japanese Unicode Trace Back to Cataloging Errors",
+      "summary": "The JIS X 0208 standard, adopted in 1978, contains several “ghost” characters whose origins were unclear. A 1997 investigation revealed that many were accidental inventions during cataloging, such as the character 妛 formed from a mis‑merged 山 and 女. The study traced most ghosts to errors in the “Overview of National Administrative Districts” source documents.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://4sysops.com/archives/deepseek-harness-turns-every-part-of-an-ai-agent-into-a-swappable-plug-in/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T02:10:20-07:00"
-    },
-    {
-      "headline": "US State Dept. Spokesperson Discusses Iran Conflict and Visa Revocations",
-      "summary": "In an NPR interview, spokesperson Tommy Pigott explained that the U.S. has revoked visas for hundreds of thousands of foreign nationals amid ongoing tensions with Iran, and outlined the challenges of resolving the Strait of Hormuz dispute. Pigott emphasized the lack of a diplomatic solution and the impact on international travel.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/15/nx-s1-5931811/state-department-spokesperson-on-iran-war-and-u-s-visa-revocations",
-      "source": "NPR News",
-      "published": "2026-08-15T17:20:51-04:00"
-    },
-    {
-      "headline": "Claude Surges in India, Gemini Gains Ground on ChatGPT",
-      "summary": "Sensor Tower data shows Claude's downloads in India jumped 30‑fold to 8.5 million in Q2 2026, with spending rising 19‑fold to ₹62.2 crore, while ChatGPT remains the top spender and Gemini is rapidly increasing engagement. The surge positions Claude as the fastest‑growing major player in a market where generative AI apps vie for dominance.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-ai-app-race-heats-up-as-claude-surges-and-gemini-closes-in-on-chatgpt/articleshow/133258423.cms",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-15T13:14:00+05:30"
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "source": "Hacker News",
+      "published": "2026-08-15T14:34:04+00:00"
     },
     {
       "headline": "Zach Lowe Questions Luka Doncic’s Health, Supports Mavericks’ Trade Rationale",
@@ -426,15 +417,6 @@
       "published": "2026-08-16T07:37:53+00:00"
     },
     {
-      "headline": "Russia Launches Drone and Missile Assault, Killing Five in Ukraine",
-      "summary": "Russian forces struck multiple Ukrainian cities, including Kyiv, Kremenchuk, and Kryvyi Rih, with drones, guided bombs and missiles, killing five civilians and injuring more than ten. President Zelensky accused Russia of targeting civilian infrastructure, while Moscow claimed to hit Ukrainian military facilities and intercepted 822 Ukrainian drones.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-16T08:14:56.855Z"
-    },
-    {
       "headline": "Donkey Kong Bananza",
       "summary": "",
       "category": "Music",
@@ -451,6 +433,24 @@
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "source": "Hacker News",
       "published": "2026-08-15T15:58:53+00:00"
+    },
+    {
+      "headline": "Heat Eye Klay Thompson, Offer Nikola Jovic in One‑for‑One Swap",
+      "summary": "The Miami Heat are lining up a one‑for‑one trade with the Dallas Mavericks that would send veteran sharpshooter Klay Thompson to Miami in exchange for forward Nikola Jovic, whose four‑year, $62 million contract is set to begin this year. With no first‑round picks or swap rights left, the Heat would rely on Jovic’s upside to sweeten the deal, while Thompson has made it clear he wants to join a contender.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-klay-thompson/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T01:59:26+00:00"
+    },
+    {
+      "headline": "Hornets Acquire Dennis Schroder from Cavaliers for Tre Mann and Cash",
+      "summary": "The Charlotte Hornets have agreed to trade guard Tre Mann and cash to the Cleveland Cavaliers for veteran point guard Dennis Schroder, a 32‑year‑old who has played for 12 teams and averages 13.7 points and 4.9 assists per game. The move gives Charlotte a backup behind Coby White after trading LaMelo Ball earlier this offseason.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://sports.yahoo.com/articles/hornets-getting-dennis-schroder-trade-041813513.html",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-15T04:18:13Z"
     }
   ]
 }
