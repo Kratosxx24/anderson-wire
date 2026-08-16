@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:32:14.198934+00:00",
+  "generated_at": "2026-08-16T22:53:08.889832+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -192,6 +192,24 @@
       "published": "2026-08-16T15:05:36+00:00"
     },
     {
+      "headline": "Open-Source Tool Flags Crypto Pump-and-Dumps With Real-Time Telegram Alerts",
+      "summary": "A new TypeScript monorepo scrapes public Binance and Bybit market data to identify pump-and-dump patterns and push instant warnings to Telegram. Built with Turso for storage and requiring no exchange API keys, the project is actively seeking machine learning contributors to refine its detection algorithms.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "source": "Hacker News",
+      "published": "2026-08-16T20:16:30+00:00"
+    },
+    {
+      "headline": "AI Labs Are Intentionally Shrinking Models to Boost Reasoning Over Factual Recall",
+      "summary": "Developers are deliberately stripping world knowledge from large language models to prioritize reasoning capabilities, with new systems like GLM-5.2 and Qwen3.5 achieving elite math scores using a fraction of the active parameters of older models. While this compression strategy slashes compute costs and VRAM requirements, it comes at a steep price: factual recall plummets, with compact models hallucinating on up to 82% of straightforward knowledge questions.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "source": "Hacker News",
+      "published": "2026-08-16T19:04:26+00:00"
+    },
+    {
       "headline": "Protobuf has LSP support. You're welcome",
       "summary": "",
       "category": "Tech/AI",
@@ -336,6 +354,15 @@
       "published": "2026-08-15T20:21:14+00:00"
     },
     {
+      "headline": "Federal Medicaid Ban on Youth Gender-Affirming Care Sparks Fear Among Families",
+      "summary": "The Trump administration has finalized a policy banning federal Medicaid and CHIP funding for gender-affirming care for minors, leaving families like a California mother’s facing immediate financial and medical uncertainty. Medical professionals warn the restriction will severely impact vulnerable youth, while affected parents report mounting anxiety over what healthcare access will be stripped next.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
+      "source": "NPR News",
+      "published": "2026-08-16T11:54:19+00:00"
+    },
+    {
       "headline": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
       "summary": "",
       "category": "World",
@@ -372,49 +399,22 @@
       "published": "2026-08-15T18:34:26Z"
     },
     {
-      "headline": "Open-Source Tool Flags Crypto Pump-and-Dumps With Real-Time Telegram Alerts",
-      "summary": "A new TypeScript monorepo scrapes public Binance and Bybit market data to identify pump-and-dump patterns and push instant warnings to Telegram. Built with Turso for storage and requiring no exchange API keys, the project is actively seeking machine learning contributors to refine its detection algorithms.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
-      "source": "Hacker News",
-      "published": "2026-08-16T20:16:30+00:00"
-    },
-    {
-      "headline": "AI Labs Are Intentionally Shrinking Models to Boost Reasoning Over Factual Recall",
-      "summary": "Developers are deliberately stripping world knowledge from large language models to prioritize reasoning capabilities, with new systems like GLM-5.2 and Qwen3.5 achieving elite math scores using a fraction of the active parameters of older models. While this compression strategy slashes compute costs and VRAM requirements, it comes at a steep price: factual recall plummets, with compact models hallucinating on up to 82% of straightforward knowledge questions.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "source": "Hacker News",
-      "published": "2026-08-17"
-    },
-    {
-      "headline": "Federal Medicaid Ban on Youth Gender-Affirming Care Sparks Fear Among Families",
-      "summary": "The Trump administration has finalized a policy banning federal Medicaid and CHIP funding for gender-affirming care for minors, leaving families like a California mother’s facing immediate financial and medical uncertainty. Medical professionals warn the restriction will severely impact vulnerable youth, while affected parents report mounting anxiety over what healthcare access will be stripped next.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.npr.org/2026/08/16/nx-s1-5932491/transgender-health-care-medicaid-trump-oz",
-      "source": "NPR News",
-      "published": "2026-08-16T07:54:19-04:00"
-    },
-    {
-      "headline": "NIH Axes Critical Funding Pipeline for Early-Career Clinical Researchers",
-      "summary": "The National Institutes of Health is terminating a major grant program designed to support early-career clinical researchers, effectively cutting off a vital funding pathway for budding scientists. The move threatens to stall the next generation of medical research and clinical trials.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-      "source": "Hacker News",
-      "published": "2026-08-16T16:14:55+00:00"
-    },
-    {
-      "headline": "NBA Daily Digest Highlights Suns Roster Moves and Offseason Strategy",
-      "summary": "The latest edition of Basketball Intelligence curates top reporting from around the league, spotlighting Dillon Brooks's $73 million contract extension in Phoenix and Mitchell Robinson's impact in Boston. Additional coverage analyzes roster depth charts in San Antonio and evaluates future backcourt fits across both conferences.",
+      "headline": "Redick Defends 2020 NBA Activism as Moral Imperative, Not Political Posturing",
+      "summary": "Former NBA star JJ Redick reflects on basketball as a colorblind meritocracy where talent dictates opportunity. He also addresses the league’s 2020 social justice push, insisting that taking a stand was never a calculated political move but a straightforward moral obligation, even if it sparked division.",
       "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-16T18:22:28+00:00"
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vpzuih/jj_redick_talks_about_racism_and_basketball_by/",
+      "source": "r/NBA",
+      "published": "2026-08-16T15:23:11+00:00"
+    },
+    {
+      "headline": "Qwen 3.8 27B Delivers Strong Local Performance but Wastes Resources on Default Overthinking",
+      "summary": "Alibaba’s newly released Qwen 3.8 27B model runs efficiently on consumer hardware and delivers impressive output quality, but its default high reasoning setting causes severe token bloat on simple prompts. Running a basic SVG generation task consumed over 22,000 reasoning tokens and 21 minutes before producing just 3,000 output tokens. Developers will need to manually dial down the reasoning effort to avoid exhausting context windows and wasting compute time.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T22:00:39+00:00"
     },
     {
       "headline": "CBS SportsLine Publishes Early 2026 Fantasy Football Draft Board and Tier List",
@@ -444,13 +444,13 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "Vita Vea’s Contract Standoff Makes Him a Prime Trade Target for the 49ers",
-      "summary": "Tampa Bay nose tackle Vita Vea has halted practice and skipped preseason games while demanding a trade, citing a pay gap between his expiring $18 million contract and the $30 million-plus market rate for elite defensive tackles. With the 49ers, Bills, and Bears circling, Vea’s two-year production of 11.5 sacks and 101 pressures makes him a high-impact, low-risk acquisition for any franchise willing to negotiate past Tampa Bay’s current holdout.",
+      "headline": "Vikings Sign Former Lions Back Jermar Jefferson After Waiving Jordan Mims",
+      "summary": "The Minnesota Vikings have signed former Detroit Lions running back Jermar Jefferson to bolster their depth chart after waiving Jordan Mims due to injury. Jefferson, a 2021 seventh-round pick who spent time with four other franchises since his 2024 release, recorded zero yards on three preseason carries against the Giants. He is now set to face his former team twice during the 2026 regular season, opening with a November 1 matchup in Detroit.",
       "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.usatoday.com/story/sports/nfl/49ers/2026/08/15/vita-vea-trade-rumors-sf-49ers-buccaneers/91319385007/",
+      "relevance": 5,
+      "url": "https://lionswire.usatoday.com/story/sports/nfl/lions/2026/08/15/detroit-lions-jermar-jefferson-signs-minnesota-vikings/91312068007/",
       "source": "NewsAPI:NFL contract",
-      "published": "2026-08-15T20:43:57Z"
+      "published": "2026-08-15T22:45:17Z"
     }
   ]
 }
