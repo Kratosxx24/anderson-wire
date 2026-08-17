@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:37:25.424896+00:00",
+  "generated_at": "2026-08-17T23:52:51.384798+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -192,6 +192,15 @@
       "published": "2026-08-16T18:36:54Z"
     },
     {
+      "headline": "Anthropic’s Inference Hooks Let Firms Plug Existing Security Tools Directly Into Claude",
+      "summary": "Anthropic’s beta launch of Inference Hooks for Claude Enterprise routes every prompt through a company’s own AI security server before the model ever sees it, eliminating the need for external proxies or endpoint agents. By integrating directly with six major security vendors at the infrastructure level, the feature shifts enterprise AI procurement from chasing pre-vetted models to demanding full governance control. This directly tackles a critical industry gap where agentic AI adoption is surging but mature security frameworks remain scarce.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://forkast.news/anthropic-lets-enterprises-bring-their-own-security-to-claude-and-that-changes-how-companies-buy-ai/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-16T23:50:41+00:00"
+    },
+    {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
       "summary": "Yossi Gozlan and Sam Quinn revisit NBA transactions, speculating on the impact of star players who departed their franchises, and discuss salary‑cap implications and missed chemistry across several teams.",
       "category": "NBA",
@@ -246,13 +255,13 @@
       "published": "2026-08-17T13:38:23+00:00"
     },
     {
-      "headline": "CBS Sports Computer Model Projects 2026 Fantasy Football Breakouts",
-      "summary": "CBS Sports is unveiling its 2026 fantasy football breakout rankings, driven by a predictive algorithm that accurately forecasted McMillan’s standout previous campaign. The model targets undervalued players expected to deliver major statistical jumps in the upcoming season.",
+      "headline": "Fantasy Model Flags Terry McLaurin as 2026 Bust",
+      "summary": "A CBS Sports fantasy football projection system has identified Washington receiver Terry McLaurin as a likely underperformer for the upcoming season. The provided text offers no additional statistical breakdown or roster implications beyond this initial warning.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-computer-that-nailed-mcmillans-huge-season/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-projected-terry-mclaurins-down-year/",
       "source": "CBS Sports",
-      "published": "2026-08-17T19:45:38+00:00"
+      "published": "2026-08-17T22:44:27+00:00"
     },
     {
       "headline": "Kiwi Jr. Explodes with Frantic Energy on ‘Blowin’ Up’",
@@ -280,6 +289,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-17T19:25:05+00:00"
+    },
+    {
+      "headline": "CBS Sports Computer Model Projects 2026 Fantasy Football Breakouts",
+      "summary": "CBS Sports is unveiling its 2026 fantasy football breakout rankings, driven by a predictive algorithm that accurately forecasted McMillan’s standout previous campaign. The model targets undervalued players expected to deliver major statistical jumps in the upcoming season.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-computer-that-nailed-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-17T19:45:38+00:00"
     },
     {
       "headline": "Algorithm Backs 2026 Fantasy Sleepers After Achane Success",
@@ -372,6 +390,33 @@
       "published": "2026-08-17T04:41:31+00:00"
     },
     {
+      "headline": "Federal Court Strikes Down Key Gun Control Provisions, Lifting Silencer Restrictions",
+      "summary": "A Texas federal judge invalidated core components of the nearly century-old National Firearms Act across more than a dozen states, effectively removing purchase restrictions on silencers and certain firearms. The Justice Department missed its emergency appeal deadline, allowing the ruling to take immediate effect while the agency separately moves to restore firearm access for some nonviolent felons.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
+      "source": "NPR News",
+      "published": "2026-08-17T22:37:58+00:00"
+    },
+    {
+      "headline": "Heat Must Resist Trading Jovic for Klay Thompson",
+      "summary": "Despite reports linking Miami to Dallas wing Klay Thompson, trading young forward Nikola Jovic would be a costly mistake that sacrifices long-term potential for a short-term rental. After already committing $62.4 million to Jovic on a recent extension, the Heat should preserve their youth and use remaining cap flexibility to fill roster gaps around Giannis Antetokounmpo and Bam Adebayo.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://roundtable.io/sports/nba/heat/news/opinion-miami-heat-should-not-trade-nikola-jovic-for-klay-thompson",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-16T23:00:09Z"
+    },
+    {
+      "headline": "Proposed Four-Team Deal Would Pair Jamal Murray with Kawhi Leonard in Toronto",
+      "summary": "A reported four-team trade proposal would send Denver guard Jamal Murray to the Toronto Raptors, potentially pairing him with Kawhi Leonard if the pending probe clears. Adding the Canadian-born All-Star would instantly transform Toronto into a legitimate Eastern Conference title contender, giving them the second superstar needed to advance past the second round.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://heavy.com/sports/nba/toronto-raptors/nba-trade-raptors-jamal-murray/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-16T22:52:27Z"
+    },
+    {
       "headline": "Paul George Embraces Celtics Role After Jaylen Brown Swap",
       "summary": "Veteran forward Paul George arrived in Boston ready to lead after the Celtics traded Jaylen Brown to Philadelphia for the 36-year-old. Front office president Brad Stevens emphasized George’s high basketball IQ and veteran leadership as the perfect fit for their system, betting his experience will keep Boston competitive despite his age.",
       "category": "NBA",
@@ -399,58 +444,13 @@
       "published": "2026-08-16T22:28:57Z"
     },
     {
-      "headline": "EU Mandates AI Content Labels, Raising Questions About Deepfake Detection",
-      "summary": "Starting August 2, the EU’s AI Act forces tech firms to clearly label AI-generated or manipulated media and public-interest text, complete with standardized icons and machine-readable watermarks. While designed to boost transparency, critics warn that mandatory labeling could inadvertently normalize synthetic media and blur the line for consumers trying to spot sophisticated deepfakes.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://theconversation.com/new-eu-laws-make-ai-content-labels-compulsory-but-might-just-make-it-harder-to-spot-deepfakes-289597",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-16T20:06:14Z"
-    },
-    {
-      "headline": "Anthropic Targets Record-Breaking $965B IPO in 2026, Though Launch Date Remains Unset",
-      "summary": "Prediction markets currently price Anthropic at a 41% chance of executing the biggest initial public offering of 2026, buoyed by a staggering $965 billion private valuation from its May Series H funding round. Despite the massive market cap projections and heavy speculation, the Claude chatbot developer has not locked in an official listing date. Investors are closely monitoring the next 137 days for concrete filing signals as expectations for the AI giant’s public debut remain highly fluid.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/anthropic-eyes-largest-2026-ipo-with-965b-valuation-no-date-set/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-16T15:04:14Z"
-    },
-    {
-      "headline": "Fantasy Model Flags Terry McLaurin as 2026 Bust",
-      "summary": "A CBS Sports fantasy football projection system has identified Washington receiver Terry McLaurin as a likely underperformer for the upcoming season. The provided text offers no additional statistical breakdown or roster implications beyond this initial warning.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-projected-terry-mclaurins-down-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-17T22:44:27+00:00"
-    },
-    {
-      "headline": "Federal Court Strikes Down Key Gun Control Provisions, Lifting Silencer Restrictions",
-      "summary": "A Texas federal judge invalidated core components of the nearly century-old National Firearms Act across more than a dozen states, effectively removing purchase restrictions on silencers and certain firearms. The Justice Department missed its emergency appeal deadline, allowing the ruling to take immediate effect while the agency separately moves to restore firearm access for some nonviolent felons.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/17/nx-s1-5935562/firearms-law-lapsed-federal-court-ruling",
-      "source": "NPR News",
-      "published": "2026-08-17T18:37:58-04:00"
-    },
-    {
-      "headline": "Heat Must Resist Trading Jovic for Klay Thompson",
-      "summary": "Despite reports linking Miami to Dallas wing Klay Thompson, trading young forward Nikola Jovic would be a costly mistake that sacrifices long-term potential for a short-term rental. After already committing $62.4 million to Jovic on a recent extension, the Heat should preserve their youth and use remaining cap flexibility to fill roster gaps around Giannis Antetokounmpo and Bam Adebayo.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://roundtable.io/sports/nba/heat/news/opinion-miami-heat-should-not-trade-nikola-jovic-for-klay-thompson",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T23:00:09.014Z"
-    },
-    {
-      "headline": "Proposed Four-Team Deal Would Pair Jamal Murray with Kawhi Leonard in Toronto",
-      "summary": "A reported four-team trade proposal would send Denver guard Jamal Murray to the Toronto Raptors, potentially pairing him with Kawhi Leonard if the pending probe clears. Adding the Canadian-born All-Star would instantly transform Toronto into a legitimate Eastern Conference title contender, giving them the second superstar needed to advance past the second round.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/toronto-raptors/nba-trade-raptors-jamal-murray/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T19:52:27+00:00"
+      "headline": "New Doc Exposes Guardiola’s Bitter Fallout With Former Captain Kyle Walker",
+      "summary": "An Amazon Prime documentary reveals the raw tension behind Pep Guardiola’s final Manchester City seasons, highlighting a heated December 2024 dressing-room clash where the manager publicly blamed captain Kyle Walker for a costly Liverpool penalty. The footage captures Guardiola’s emotional address to the squad after Walker requested a January 2025 loan move to AC Milan, with the coach insisting the defender failed to lead during critical moments. The series also shows a tearful Guardiola defending his renewed contract commitment, emphasizing his desire to win rather than simply collect a paycheck.",
+      "category": "Other",
+      "relevance": 3,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-17T23:00:04.571Z"
     }
   ]
 }
