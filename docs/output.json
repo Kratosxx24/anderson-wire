@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T15:12:08.419288+00:00",
-  "story_count": 47,
+  "generated_at": "2026-08-17T15:46:05.902962+00:00",
+  "story_count": 50,
   "stories": [
     {
       "headline": "Deciphering the Iconic Sound Design of the iPhone",
@@ -145,15 +145,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-16T10:53:50+00:00"
-    },
-    {
-      "headline": "St. Jude Championship Launches FedEx Cup Playoffs With $20 Million Purse",
-      "summary": "The 2026 St. Jude Championship officially opens the FedEx Cup Playoffs with a total prize pool of $20 million. The payout structure heavily rewards top finishers, establishing the financial baseline for golf's season finale.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/golf/news/st-jude-championship-2026-prize-money-purse-payouts-fedex-cup-playoffs/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T22:03:16+00:00"
     },
     {
       "headline": "Simon Willison Releases Markdown‑SVG Renderer with MP4 Export",
@@ -327,15 +318,6 @@
       "published": "2026-08-17T01:59:18+00:00"
     },
     {
-      "headline": "CBS SportsLine Publishes Early 2026 Fantasy Football Draft Board and Tier List",
-      "summary": "SportsLine analysts have released preliminary draft preparation rankings ahead of the 2026 fantasy football season. The guide outlines positional tiers, top-150 overall player valuations, and projected breakout rookie targets. Fantasy managers can use the early cheat sheet to map out long-term roster strategies and keeper decisions.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-unveil-rankings-tiers-top-150-optimal-rookie-picks/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T21:53:36+00:00"
-    },
-    {
       "headline": "Cami Clark: From One‑Time Pornographer to Anthropic’s First Lady",
       "summary": "Cami Clark, wife of Anthropic co‑founder Dario Amodei and a former friend of Ivanka Trump, has become the company’s unofficial public face. She accompanies Amodei on global AI talks—from New Delhi to Davos—while her past as a would‑be pornographer adds a controversial twist to her current role.",
       "category": "Tech/AI",
@@ -399,6 +381,15 @@
       "published": "2026-08-16T11:59:37Z"
     },
     {
+      "headline": "AirTag Tracks Rare Book Order Straight to Amazon’s AI Scanning Facility",
+      "summary": "An investigation by 404 Media used an AirTag to follow a bulk order of roughly 1,000 rare books, tracing the package directly to a Las Vegas Amazon warehouse. Workers confirmed the specific facility corner destructively scans physical copies to feed AI training datasets, confirming long-standing suspicions about how tech giants are sourcing copyrighted material.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "source": "Simon Willison",
+      "published": "2026-08-17T15:21:29+00:00"
+    },
+    {
       "headline": "Copilot Autofix Introduces Critical Injection Flaw in Snowflake’s GitHub Workflow",
       "summary": "Wiz Research’s autonomous AI tool discovered a critical script injection flaw in Snowflake’s GitHub repository that was accidentally introduced by GitHub Copilot Autofix. The AI coding assistant removed a necessary input sanitization step and replaced it with direct string expansion, enabling unauthenticated users to execute arbitrary commands by submitting a crafted GitHub issue. Snowflake patched the vulnerability and rotated credentials on June 23, 2026, confirming the exposure was contained.",
       "category": "Tech/AI",
@@ -415,6 +406,42 @@
       "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/",
       "source": "Pitchfork",
       "published": "2026-08-17T04:03:00+00:00"
+    },
+    {
+      "headline": "Speko Automates Voice AI Model Selection to Cut Costs and Latency",
+      "summary": "Y Combinator-backed Speko functions as a dynamic router for voice AI stacks, continuously benchmarking speech-to-text, LLM, and text-to-speech models against user-defined constraints for cost, speed, and accuracy. By handling provider switching and session prefetching automatically, the platform eliminates the integration friction that typically locks developers into outdated or overpriced AI pipelines.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://news.ycombinator.com/item?id=49332751",
+      "source": "Hacker News",
+      "published": "2026-08-17T15:36:18+00:00"
+    },
+    {
+      "headline": "Man/Woman/Chainsaw Trades Post-Punk Chaos for Melodramatic Pop on Debut",
+      "summary": "UK sextet Man/Woman/Chainsaw steps away from the jagged post-punk norms of the London Windmill scene to deliver a debut album that balances noisy experimentation with polished pop melodies. The six-piece leans into themes of fractured romance and jealousy, using a rich instrumental lineup that includes violin and motorik drums to amplify the emotional tension across tracks like Only Girl.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/man-woman-chainsaw-cannonball/",
+      "source": "Pitchfork",
+      "published": "2026-08-17T04:00:00+00:00"
+    },
+    {
+      "headline": "Last Day to Enter the 2026 NarFFL Farm Lottery!",
+      "summary": "",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vq5i6z/last_day_to_enter_the_2026_narffl_farm_lottery/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-16T19:02:05+00:00"
+    },
+    {
+      "headline": "XCancel — An Unofficial Twitter/X Mirror",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://xcancel.com/about",
+      "source": "Daring Fireball",
+      "published": "2026-08-16T14:33:16+00:00"
     },
     {
       "headline": "Could Private‑Equity Ownership Undermine Yankees’ Legacy?",
