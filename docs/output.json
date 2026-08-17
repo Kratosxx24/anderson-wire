@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:46:05.902962+00:00",
+  "generated_at": "2026-08-17T16:03:28.016050+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -336,6 +336,15 @@
       "published": "2026-08-16T16:34:12+00:00"
     },
     {
+      "headline": "AirTag Tracks Rare Book Order Straight to Amazon’s AI Scanning Facility",
+      "summary": "An investigation by 404 Media used an AirTag to follow a bulk order of roughly 1,000 rare books, tracing the package directly to a Las Vegas Amazon warehouse. Workers confirmed the specific facility corner destructively scans physical copies to feed AI training datasets, confirming long-standing suspicions about how tech giants are sourcing copyrighted material.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
+      "source": "Simon Willison",
+      "published": "2026-08-17T15:21:29+00:00"
+    },
+    {
       "headline": "Russia and Ukraine trade more deadly strikes",
       "summary": "",
       "category": "World",
@@ -363,15 +372,6 @@
       "published": "2026-08-16T14:00:00Z"
     },
     {
-      "headline": "Charles Robinson Launches NFL Blue Book to Demystify Front Offices",
-      "summary": "Former Yahoo Sports writer Charles Robinson has launched a Substack newsletter, NFL Blue Book, to give fans insight into how NFL teams build rosters and run operations. He plans to cover all 32 front offices with high‑level analysis after leaving Yahoo.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://awfulannouncing.com/nfl/charles-robinson-blue-book-front-office.html",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-16T13:00:22Z"
-    },
-    {
       "headline": "Anthropic Battles Pentagon Over AI Contract, Court Blocks Designation",
       "summary": "The U.S. Department of Defense threatened to label Anthropic a supply‑chain risk over its Claude models, risking a $200 million contract. Anthropic sued, and a federal judge granted a preliminary injunction, halting enforcement while litigation continues.",
       "category": "Tech/AI",
@@ -381,13 +381,40 @@
       "published": "2026-08-16T11:59:37Z"
     },
     {
-      "headline": "AirTag Tracks Rare Book Order Straight to Amazon’s AI Scanning Facility",
-      "summary": "An investigation by 404 Media used an AirTag to follow a bulk order of roughly 1,000 rare books, tracing the package directly to a Las Vegas Amazon warehouse. Workers confirmed the specific facility corner destructively scans physical copies to feed AI training datasets, confirming long-standing suspicions about how tech giants are sourcing copyrighted material.",
+      "headline": "Lions Center Battle Heats Up as Mays Sidelined, McLaughlin Steps In",
+      "summary": "With top free-agent signing Cade Mays out early due to a wrist injury, the Detroit Lions are leaning on Seth McLaughlin to lead a tight center competition alongside Tate Ratledge and Juice Scruggs. McLaughlin logged 39 snaps in the preseason opener, earning a 62.0 PFF grade and drawing praise from head coach Dan Campbell for his quickness and ability to anchor despite his smaller frame. The battle will determine who protects the blind side while the team navigates early-season roster adjustments.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://lionswire.usatoday.com/story/sports/nfl/lions/2026/08/16/detroit-lions-center-training-camp-competition/91328497007/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-16T16:00:56Z"
+    },
+    {
+      "headline": "Stop Letting AI Do the Heavy Lifting in Your Code",
+      "summary": "Relying entirely on AI to write code or solve problems creates a dangerous illusion of competence that leaves developers unprepared when the tools fail. Instead of banning AI or surrendering to it, programmers and students must use the technology as a supplement while actively stress-testing their own understanding of the underlying concepts. Building genuine technical intuition requires deliberate practice, not token-burning shortcuts.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
-      "source": "Simon Willison",
-      "published": "2026-08-17T15:21:29+00:00"
+      "url": "https://peterbloem.nl/blog/craft-coding",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-16T10:31:36Z"
+    },
+    {
+      "headline": "Germany Forces Apple to Level the Playing Field for App Ad Tracking",
+      "summary": "The German competition authority has forced Apple to overhaul its App Tracking Transparency Framework after ruling that the company unfairly exempted its own apps from strict consent prompts while burdening third-party developers. Under binding new commitments, Apple must align its data-request rules across its ecosystem and allow outside app publishers greater flexibility in how they handle user permissions. The settlement closes a long-running antitrust probe while preserving Apple’s baseline privacy standards.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
+      "source": "Hacker News",
+      "published": "2026-08-17T14:07:59+00:00"
+    },
+    {
+      "headline": "Speko Automates Voice AI Model Selection to Cut Costs and Latency",
+      "summary": "Y Combinator-backed Speko functions as a dynamic router for voice AI stacks, continuously benchmarking speech-to-text, LLM, and text-to-speech models against user-defined constraints for cost, speed, and accuracy. By handling provider switching and session prefetching automatically, the platform eliminates the integration friction that typically locks developers into outdated or overpriced AI pipelines.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://news.ycombinator.com/item?id=49332751",
+      "source": "Hacker News",
+      "published": "2026-08-17T15:36:18+00:00"
     },
     {
       "headline": "Copilot Autofix Introduces Critical Injection Flaw in Snowflake’s GitHub Workflow",
@@ -408,15 +435,6 @@
       "published": "2026-08-17T04:03:00+00:00"
     },
     {
-      "headline": "Speko Automates Voice AI Model Selection to Cut Costs and Latency",
-      "summary": "Y Combinator-backed Speko functions as a dynamic router for voice AI stacks, continuously benchmarking speech-to-text, LLM, and text-to-speech models against user-defined constraints for cost, speed, and accuracy. By handling provider switching and session prefetching automatically, the platform eliminates the integration friction that typically locks developers into outdated or overpriced AI pipelines.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://news.ycombinator.com/item?id=49332751",
-      "source": "Hacker News",
-      "published": "2026-08-17T15:36:18+00:00"
-    },
-    {
       "headline": "Man/Woman/Chainsaw Trades Post-Punk Chaos for Melodramatic Pop on Debut",
       "summary": "UK sextet Man/Woman/Chainsaw steps away from the jagged post-punk norms of the London Windmill scene to deliver a debut album that balances noisy experimentation with polished pop melodies. The six-piece leans into themes of fractured romance and jealousy, using a rich instrumental lineup that includes violin and motorik drums to amplify the emotional tension across tracks like Only Girl.",
       "category": "Music",
@@ -424,24 +442,6 @@
       "url": "https://pitchfork.com/reviews/albums/man-woman-chainsaw-cannonball/",
       "source": "Pitchfork",
       "published": "2026-08-17T04:00:00+00:00"
-    },
-    {
-      "headline": "Last Day to Enter the 2026 NarFFL Farm Lottery!",
-      "summary": "",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vq5i6z/last_day_to_enter_the_2026_narffl_farm_lottery/",
-      "source": "r/FantasyFootball",
-      "published": "2026-08-16T19:02:05+00:00"
-    },
-    {
-      "headline": "XCancel — An Unofficial Twitter/X Mirror",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://xcancel.com/about",
-      "source": "Daring Fireball",
-      "published": "2026-08-16T14:33:16+00:00"
     },
     {
       "headline": "Could Private‑Equity Ownership Undermine Yankees’ Legacy?",
