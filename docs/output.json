@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:56:36.303911+00:00",
+  "generated_at": "2026-08-17T07:11:43.338856+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -28,15 +28,6 @@
       "url": "https://www.youtube.com/shorts/DCfhUeYWv9A",
       "source": "The Studio (MKBHD)",
       "published": "2026-06-30T19:46:26+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Newsletter Highlights Kings Youth Movement, Giddey's Resilience, and More",
-      "summary": "The August 15 edition of Basketball Intelligence offers deep dives into the Sacramento Kings’ emerging roster, Josh Giddey’s continued improvement, Dallas’ potential turnaround, and other team‑specific analyses. It also features a podcast with Fran Fraschilla discussing the Kings’ youth strategy and future prospects.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81526",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-15T18:52:12+00:00"
     },
     {
       "headline": "Von Miller signs with Cowboys as free‑agency tracker shows four top‑100 players still unsigned",
@@ -183,6 +174,15 @@
       "published": "2026-08-16T13:33:28+00:00"
     },
     {
+      "headline": "Simon Willison Releases Markdown‑SVG Renderer with MP4 Export",
+      "summary": "Willison’s tool now renders SVG directly in Markdown and offers PNG, JPEG, and a new MP4 tab that converts animated SVGs to video using ffmpeg.wasm in the browser, making animated graphics shareable on platforms that don’t support SVG.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T23:59:37+00:00"
+    },
+    {
       "headline": "Qwen 3.8 27B Delivers Strong Local Performance but Wastes Resources on Default Overthinking",
       "summary": "Alibaba’s newly released Qwen 3.8 27B model runs efficiently on consumer hardware and delivers impressive output quality, but its default high reasoning setting causes severe token bloat on simple prompts. Running a basic SVG generation task consumed over 22,000 reasoning tokens and 21 minutes before producing just 3,000 output tokens. Developers will need to manually dial down the reasoning effort to avoid exhausting context windows and wasting compute time.",
       "category": "Tech/AI",
@@ -199,6 +199,51 @@
       "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
       "source": "Simon Willison",
       "published": "2026-08-16T15:05:36+00:00"
+    },
+    {
+      "headline": "New Review Highlights Lensed Supernovae as Cosmology Tool",
+      "summary": "The review explains how time delays between multiple images of strongly lensed supernovae can measure the Hubble constant and other cosmological parameters. It notes that the upcoming LSST will provide many such events, though finding them remains difficult.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
+      "source": "Hacker News",
+      "published": "2026-08-17T02:55:20+00:00"
+    },
+    {
+      "headline": "AGI‑64 Lets You Play Sierra Games on 1 MHz Commodore 64",
+      "summary": "AGI‑64, a Commodore 64 interpreter, is 75% complete for Space Quest 1 and supports most AGI titles. It can compile .vol/.obj files into a 1 MB EasyFlash CRT, and offers save/load via SD card on the 1 MHz machine.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
+      "source": "Hacker News",
+      "published": "2026-08-17T01:45:36+00:00"
+    },
+    {
+      "headline": "Prolly: Immutable Ordered Map Built on Prolly Trees",
+      "summary": "Prolly delivers a content‑addressed ordered map with immutable snapshots, cheap branching, efficient diffs, and verifiable proofs. The GitHub repo shows 33 stars, 2 forks, and includes bindings for Gluesql.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/crabbuild/prolly",
+      "source": "Hacker News",
+      "published": "2026-08-17T01:00:45+00:00"
+    },
+    {
+      "headline": "Rhombus Language Updates: v1.1 Adds Annotation Syntax and FFI Enhancements",
+      "summary": "Version 1.1 introduces annot and annot.def for defining annotations, an as binding form, and several Pict and slideshow improvements. Community contributions are welcomed via Racket forums.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+      "source": "Hacker News",
+      "published": "2026-08-17T00:48:21+00:00"
+    },
+    {
+      "headline": "Scientists Explore Plant‑Based Photosynthesis to Treat Dry Eye",
+      "summary": "A Science.org blog discusses using photosynthetic mechanisms to develop new treatments for dry eye, aiming to harness plant processes for ocular therapy.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+      "source": "Hacker News",
+      "published": "2026-08-17T00:35:29+00:00"
     },
     {
       "headline": "Open-Source Tool Flags Crypto Pump-and-Dumps With Real-Time Telegram Alerts",
@@ -336,85 +381,22 @@
       "published": "2026-08-16T10:12:09+00:00"
     },
     {
-      "headline": "JJ Redick Reflects on Growing Up Amid Confederate Flags",
-      "summary": "Redick says his parents were the most empathetic allies he could have, but he grew up in an area littered with Confederate flags. He acknowledges that while his family fostered empathy, others around him held different views, making him acutely aware of racism.",
+      "headline": "NBA Midseason Insights: From Mitchell Robinson’s Rebounds to Suns’ $73M Deal",
+      "summary": "Basketball Intelligence delivers a roundup of key NBA stories for August 16, 2026, covering Mitchell Robinson’s rebounding prowess, the Lakers’ offseason moves, Ryan Rollins’ transition role for the Bucks, Anthony Edwards’ efficiency tips, and the Suns’ contract talks with Dillon Brooks, among other team analyses.",
       "category": "NBA",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vpyxwj/jj_redick_on_racism_my_parents_are_the_most/",
-      "source": "r/NBA",
-      "published": "2026-08-16T14:47:17+00:00"
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-16T18:22:28+00:00"
     },
     {
-      "headline": "LeBron James Only 8 Degrees From Every NBA Player",
-      "summary": "A Reddit post claims LeBron is at most eight degrees of separation from every player in NBA history, yet only eight players meet that criterion. Those eight all played in the league’s inaugural 1946‑47 season and never returned.",
-      "category": "NBA",
+      "headline": "AI and Aging: Embracing God’s Grace Amid Technological Limits",
+      "summary": "In this essay, Autumn Ridenour and Sam Storms explore how the rapid rise of artificial intelligence intersects with the human experience of aging, arguing that recognizing our finite nature can deepen our reliance on divine grace and counter the temptation to over‑rely on technology.",
+      "category": "Faith",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vq0wmm/graphsketball_lebron_is_at_most_8_degrees_away/",
-      "source": "r/NBA",
-      "published": "2026-08-16T16:05:04+00:00"
-    },
-    {
-      "headline": "Redick Says Basketball Erases Racial Lines, Reflects on 2020",
-      "summary": "Redick notes that by the time he reached Duke and the NBA, race was irrelevant on the court. He also comments on 2020, expressing pride in being part of the NBA during a divisive era.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vpzuih/jj_redick_talks_about_racism_and_basketball_by/",
-      "source": "r/NBA",
-      "published": "2026-08-16T15:23:11+00:00"
-    },
-    {
-      "headline": "Simon Willison Releases Markdown‑SVG Renderer with MP4 Export",
-      "summary": "Willison’s tool now renders SVG directly in Markdown and offers PNG, JPEG, and a new MP4 tab that converts animated SVGs to video using ffmpeg.wasm in the browser, making animated graphics shareable on platforms that don’t support SVG.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T23:59:37+00:00"
-    },
-    {
-      "headline": "New Review Highlights Lensed Supernovae as Cosmology Tool",
-      "summary": "The review explains how time delays between multiple images of strongly lensed supernovae can measure the Hubble constant and other cosmological parameters. It notes that the upcoming LSST will provide many such events, though finding them remains difficult.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://infoscience.epfl.ch/entities/publication/644cad8a-6c9b-4b02-bcf3-b8b6e8c614c5",
-      "source": "Hacker News",
-      "published": "2024-02-01"
-    },
-    {
-      "headline": "AGI‑64 Lets You Play Sierra Games on 1 MHz Commodore 64",
-      "summary": "AGI‑64, a Commodore 64 interpreter, is 75% complete for Space Quest 1 and supports most AGI titles. It can compile .vol/.obj files into a 1 MB EasyFlash CRT, and offers save/load via SD card on the 1 MHz machine.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "source": "Hacker News",
-      "published": "2026-08-17T01:45:36+00:00"
-    },
-    {
-      "headline": "Prolly: Immutable Ordered Map Built on Prolly Trees",
-      "summary": "Prolly delivers a content‑addressed ordered map with immutable snapshots, cheap branching, efficient diffs, and verifiable proofs. The GitHub repo shows 33 stars, 2 forks, and includes bindings for Gluesql.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://github.com/crabbuild/prolly",
-      "source": "Hacker News",
-      "published": "2026-08-17T01:00:45+00:00"
-    },
-    {
-      "headline": "Rhombus Language Updates: v1.1 Adds Annotation Syntax and FFI Enhancements",
-      "summary": "Version 1.1 introduces annot and annot.def for defining annotations, an as binding form, and several Pict and slideshow improvements. Community contributions are welcomed via Racket forums.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "source": "Hacker News",
-      "published": "2026-08-17T00:48:21+00:00"
-    },
-    {
-      "headline": "Scientists Explore Plant‑Based Photosynthesis to Treat Dry Eye",
-      "summary": "A Science.org blog discusses using photosynthetic mechanisms to develop new treatments for dry eye, aiming to harness plant processes for ocular therapy.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-      "source": "Hacker News",
-      "published": "2026-08-17T00:35:29+00:00"
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-aging-grace-limits/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-17T04:04:50+00:00"
     },
     {
       "headline": "CBS SportsLine Publishes Early 2026 Fantasy Football Draft Board and Tier List",
@@ -444,13 +426,31 @@
       "published": "2026-08-17T04:01:00+00:00"
     },
     {
+      "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
+      "summary": "Yossi Gozlan and Sam Quinn revisit NBA transactions, speculating on the impact of star players who departed their franchises, and discuss salary‑cap implications and missed chemistry across several teams.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.thirdapron.com/p/biggest-what-ifs-for-star-players-cce",
+      "source": "Third Apron",
+      "published": "2026-08-17T01:53:31+00:00"
+    },
+    {
+      "headline": "PJM Modeling Error Cost U.S. Ratepayers $12 B",
+      "summary": "Researchers uncovered that PJM’s Reserve Requirement Study contained critical errors, overestimating supply‑demand gaps and leading to $12 billion in unnecessary costs for 66 million residents between 2025 and 2027, highlighting flaws in the capacity market and governance.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://newsletter.semianalysis.com/p/12b-of-us-ratepayers-money-wasted",
+      "source": "Hacker News",
+      "published": "2026-08-16T22:27:59+00:00"
+    },
+    {
       "headline": "Hawaii Hit by Tropical Storm Lala, Bringing Heavy Rain and Wind",
       "summary": "Lala weakened to a tropical storm after skirting Hawaii, dumping nearly three feet of rain on the Big Island and causing flooding, mudslides, and hurricane‑force gusts. Winds spread across the islands, with mountain winds up to 30% stronger than surface readings.",
       "category": "Other",
       "relevance": 6,
       "url": "https://www.npr.org/2026/08/16/g-s1-138926/lala-tropical-storm-hawaii-hurricane",
       "source": "NPR News",
-      "published": "2026-08-16T11:47:58-04:00"
+      "published": "2026-08-16T15:47:58+00:00"
     }
   ]
 }
