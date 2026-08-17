@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:37:29.166986+00:00",
+  "generated_at": "2026-08-17T19:56:55.317199+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -37,15 +37,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
       "source": "Basketball Intelligence",
       "published": "2026-08-16T18:22:28+00:00"
-    },
-    {
-      "headline": "NBA Investigates Clippers’ Sponsor Deal with Kawhi Leonard for Salary Cap Violation",
-      "summary": "The league is probing whether the Clippers used sponsor channels to pay Leonard, potentially circumventing the salary cap, and whether the organization failed to supervise staff. The investigation centers on the team’s introduction of Leonard to sponsors and the legality of the arrangement.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vqycps/espn_instead_of_ballmer_the_nba_is_focused_on/",
-      "source": "r/NBA",
-      "published": "2026-08-17T17:14:26+00:00"
     },
     {
       "headline": "How Vance Joseph's Double-Mug Scheme Unleashed Denver's Historic Pass Rush",
@@ -228,6 +219,15 @@
       "published": "2026-08-17T01:53:31+00:00"
     },
     {
+      "headline": "Was Enes Kanter Freedom a Good NBA Player? An Investigation",
+      "summary": "",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.complex.com/bets/a/jeff-smith/enes-kanter-freedom-nba-career-analysis",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-16T17:30:46Z"
+    },
+    {
       "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
       "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
       "category": "NFL",
@@ -280,15 +280,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-17T19:25:05+00:00"
-    },
-    {
-      "headline": "NBA Rules Out Ballmer’s Alleged Salary Cap Evasion via Sponsors",
-      "summary": "After reviewing the Clippers’ finances, the league found no evidence that owner Steve Ballmer used sponsor channels to pay Kawhi Leonard, clearing the team of cap circumvention allegations.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vqx3ov/holmes_and_charania_the_nba_has_found_no_evidence/",
-      "source": "r/NBA",
-      "published": "2026-08-17T16:31:43+00:00"
     },
     {
       "headline": "Algorithm Backs 2026 Fantasy Sleepers After Achane Success",
@@ -381,24 +372,6 @@
       "published": "2026-08-17T04:41:31+00:00"
     },
     {
-      "headline": "Was Enes Kanter Freedom a Good NBA Player? An Investigation",
-      "summary": "",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.complex.com/bets/a/jeff-smith/enes-kanter-freedom-nba-career-analysis",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T17:30:46Z"
-    },
-    {
-      "headline": "Spurs Likely Trade Away De'Aaron Fox, Not Keldon Johnson",
-      "summary": "San Antonio’s trade rumors point to De'Aaron Fox as the first player to move, while Keldon Johnson may stay. Fox’s contract and lack of a market make him a likely target, whereas Johnson’s role could secure him a longer future with the team.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://roundtable.io/sports/nba/spurs/news/next-san-antonio-spurs-trade-wont-include-deaaron-fox",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T12:15:19Z"
-    },
-    {
       "headline": "Fantasy Football 2026 Rankings Reveal Sleepers, Breakouts, and Busts",
       "summary": "A predictive model that forecasted Daniel Jones’ breakout season now lists top sleepers, breakout prospects, and likely busts for the 2026 fantasy season, offering managers a data‑driven guide for drafting and trading.",
       "category": "NFL",
@@ -435,22 +408,49 @@
       "published": "2026-08-16T11:59:37Z"
     },
     {
-      "headline": "XCancel Provides Fast, Privacy-Focused Access to X Without an Account",
-      "summary": "XCancel operates as a lightweight mirror powered by open-source Nitter software, allowing people to read posts on X without dealing with mandatory logins, ads, or tracking. By routing requests through its backend, the service blocks IP and browser fingerprinting while loading pages roughly 15 times lighter than the official platform. It also provides RSS feeds and responsive mobile views, bypassing recent restrictions that limit public browsing.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://xcancel.com/about",
-      "source": "Daring Fireball",
-      "published": "2026-08-16T14:33:16+00:00"
+      "headline": "CBS Sports Drops 2026 Fantasy Football Draft Guide with Model Rankings",
+      "summary": "CBS Sports has published its comprehensive 2026 fantasy football draft kit, featuring algorithmic rankings, tier breakdowns, and average draft position data across all major positions. The release aims to streamline preseason prep with ready-to-use cheat sheets and positional breakdowns for QBs, RBs, WRs, and TEs.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-nfl-model-releases-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-16T17:20:37Z"
     },
     {
-      "headline": "Guillotine Leagues Platform Announces Return Ahead of Fantasy Football Season",
-      "summary": "The creator behind GuillotineLeagues.com announced that the specialized fantasy elimination platform is officially back online. The update teases fresh announcements and promotional offers aimed at bringing skeptical fantasy football players back to the service.",
+      "headline": "Alibaba’s Qwen3.8 27B Tops AI Benchmarks with Free, Open-Weight Release",
+      "summary": "Alibaba’s newly released Qwen3.8 27B model achieved a 52 on the Artificial Analysis Intelligence Index, drastically outperforming the 9-point median for comparable open-weight models. Licensed under Apache 2.0 and completely free to run, the 27B-parameter system supports text and image inputs with a 256k context window, though it tends to generate highly verbose outputs.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "source": "Hacker News",
+      "published": "2026-08-17T17:25:17+00:00"
+    },
+    {
+      "headline": "Trump Slashes US-South Korea Military Drills Over Iran Stance",
+      "summary": "President Trump announced a major cutback to joint US-South Korea military exercises, directly tying the decision to Seoul’s refusal to participate in a proposed US-led operation in Iran. While Washington frames the move as a cost-saving measure aligned with improved ties to Pyongyang, defense experts warn that scaling back the drills will severely hamper combined readiness against North Korean threats.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-16T21:24:26.021Z"
+    },
+    {
+      "headline": "New Rust Framework Delivers Safe, High-Performance GPU Computing",
+      "summary": "Researchers have unveiled a native Rust compiler extension that enables memory-safe, multi-vendor GPU programming without relying on unsafe pointers or proprietary languages. By leveraging Rust’s ownership model and a two-pass LLVM pipeline, the framework matches the performance of hand-tuned CUDA and HIP C++ kernels while eliminating traditional memory management risks.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://arxiv.org/abs/2608.13759",
+      "source": "Hacker News",
+      "published": "2026-08-17T17:54:59+00:00"
+    },
+    {
+      "headline": "Living with nuns: Priced out of D.C., young women found low rent with unlikely roommates",
+      "summary": "",
       "category": "Other",
-      "relevance": 2,
-      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vq5bfa/guillotineleaguescom_are_back_baby_and_theyre/",
-      "source": "r/FantasyFootball",
-      "published": "2026-08-16T18:54:52+00:00"
+      "relevance": 4,
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5913980/nuns-dc-affordable-housing",
+      "source": "NPR News",
+      "published": "2026-08-17T05:00:00-04:00"
     }
   ]
 }
