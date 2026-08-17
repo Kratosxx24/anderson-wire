@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:03:24.926096+00:00",
+  "generated_at": "2026-08-17T19:37:29.166986+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -37,6 +37,15 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
       "source": "Basketball Intelligence",
       "published": "2026-08-16T18:22:28+00:00"
+    },
+    {
+      "headline": "NBA Investigates Clippers’ Sponsor Deal with Kawhi Leonard for Salary Cap Violation",
+      "summary": "The league is probing whether the Clippers used sponsor channels to pay Leonard, potentially circumventing the salary cap, and whether the organization failed to supervise staff. The investigation centers on the team’s introduction of Leonard to sponsors and the legality of the arrangement.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vqycps/espn_instead_of_ballmer_the_nba_is_focused_on/",
+      "source": "r/NBA",
+      "published": "2026-08-17T17:14:26+00:00"
     },
     {
       "headline": "How Vance Joseph's Double-Mug Scheme Unleashed Denver's Historic Pass Rush",
@@ -201,22 +210,13 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
-      "headline": "NBA Investigates Clippers’ Sponsor Deal with Kawhi Leonard for Salary Cap Violation",
-      "summary": "The league is probing whether the Clippers used sponsor channels to pay Leonard, potentially circumventing the salary cap, and whether the organization failed to supervise staff. The investigation centers on the team’s introduction of Leonard to sponsors and the legality of the arrangement.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vqycps/espn_instead_of_ballmer_the_nba_is_focused_on/",
-      "source": "r/NBA",
-      "published": "2026-08-17T17:14:26+00:00"
-    },
-    {
       "headline": "US AI Labs Slash Inference Prices by 25% as Chinese Competitors Push War",
       "summary": "OpenAI and Anthropic cut mid‑tier model prices, with OpenAI reducing GPT‑5.6 Luna by 80% and GPT‑5.6 Terra by 20%, while Anthropic halved Claude Opus 5’s cost. The moves reflect pressure from cheaper Chinese providers like DeepSeek and Moonshot, driving GPT‑4‑class inference costs below $1 per million tokens.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://cryptobriefing.com/us-labs-ai-inference-price-war/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-16T18:36:54+00:00"
+      "published": "2026-08-16T18:36:54Z"
     },
     {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
@@ -234,7 +234,7 @@
       "relevance": 8,
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
-      "published": "2026-08-17T17:14:20+00:00"
+      "published": "2026-08-17T18:34:06+00:00"
     },
     {
       "headline": "Rookie Quarterbacks Graded After Preseason Opener",
@@ -279,7 +279,16 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-17T16:26:34+00:00"
+      "published": "2026-08-17T19:25:05+00:00"
+    },
+    {
+      "headline": "NBA Rules Out Ballmer’s Alleged Salary Cap Evasion via Sponsors",
+      "summary": "After reviewing the Clippers’ finances, the league found no evidence that owner Steve Ballmer used sponsor channels to pay Kawhi Leonard, clearing the team of cap circumvention allegations.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vqx3ov/holmes_and_charania_the_nba_has_found_no_evidence/",
+      "source": "r/NBA",
+      "published": "2026-08-17T16:31:43+00:00"
     },
     {
       "headline": "Algorithm Backs 2026 Fantasy Sleepers After Achane Success",
@@ -390,6 +399,15 @@
       "published": "2026-08-16T12:15:19Z"
     },
     {
+      "headline": "Fantasy Football 2026 Rankings Reveal Sleepers, Breakouts, and Busts",
+      "summary": "A predictive model that forecasted Daniel Jones’ breakout season now lists top sleepers, breakout prospects, and likely busts for the 2026 fantasy season, offering managers a data‑driven guide for drafting and trading.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-per-nfl-model-that-called-daniel-jones-big-year/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-16T18:50:41Z"
+    },
+    {
       "headline": "Vikings Name Kyler Murray Starter as McCarthy Falls Short",
       "summary": "Head coach Kevin O’Connell officially tapped Kyler Murray as Minnesota’s opening-day quarterback after J.J. McCarthy failed to consistently outplay him in training camp. The decision prioritizes immediate stability, with Murray viewed as the safer option to push the team past its recent one-and-done playoff exits and protect O’Connell’s job security.",
       "category": "NFL",
@@ -417,40 +435,22 @@
       "published": "2026-08-16T11:59:37Z"
     },
     {
-      "headline": "Stop Letting AI Do the Heavy Lifting in Your Code",
-      "summary": "Relying entirely on AI to write code or solve problems creates a dangerous illusion of competence that leaves developers unprepared when the tools fail. Instead of banning AI or surrendering to it, programmers and students must use the technology as a supplement while actively stress-testing their own understanding of the underlying concepts. Building genuine technical intuition requires deliberate practice, not token-burning shortcuts.",
+      "headline": "XCancel Provides Fast, Privacy-Focused Access to X Without an Account",
+      "summary": "XCancel operates as a lightweight mirror powered by open-source Nitter software, allowing people to read posts on X without dealing with mandatory logins, ads, or tracking. By routing requests through its backend, the service blocks IP and browser fingerprinting while loading pages roughly 15 times lighter than the official platform. It also provides RSS feeds and responsive mobile views, bypassing recent restrictions that limit public browsing.",
       "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://peterbloem.nl/blog/craft-coding",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-16T10:31:36Z"
+      "relevance": 5,
+      "url": "https://xcancel.com/about",
+      "source": "Daring Fireball",
+      "published": "2026-08-16T14:33:16+00:00"
     },
     {
-      "headline": "NBA Rules Out Ballmer’s Alleged Salary Cap Evasion via Sponsors",
-      "summary": "After reviewing the Clippers’ finances, the league found no evidence that owner Steve Ballmer used sponsor channels to pay Kawhi Leonard, clearing the team of cap circumvention allegations.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vqx3ov/holmes_and_charania_the_nba_has_found_no_evidence/",
-      "source": "r/NBA",
-      "published": "2026-08-17T16:31:43+00:00"
-    },
-    {
-      "headline": "Fantasy Football 2026 Rankings Reveal Sleepers, Breakouts, and Busts",
-      "summary": "A predictive model that forecasted Daniel Jones’ breakout season now lists top sleepers, breakout prospects, and likely busts for the 2026 fantasy season, offering managers a data‑driven guide for drafting and trading.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-per-nfl-model-that-called-daniel-jones-big-year/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-16T18:50:41Z"
-    },
-    {
-      "headline": "Gift Your Friends Home Batteries for Long‑Term Savings",
-      "summary": "The article proposes a birthday club where friends pool money to buy 5 kWh home batteries, which can store cheap electricity and deliver power during peak rates, potentially saving €100–€200 per person over 12 years and providing backup during outages.",
+      "headline": "Guillotine Leagues Platform Announces Return Ahead of Fantasy Football Season",
+      "summary": "The creator behind GuillotineLeagues.com announced that the specialized fantasy elimination platform is officially back online. The update teases fresh announcements and promotional offers aimed at bringing skeptical fantasy football players back to the service.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-      "source": "Hacker News",
-      "published": "2026-08-17T09:00:00&#43;02:00"
+      "relevance": 2,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vq5bfa/guillotineleaguescom_are_back_baby_and_theyre/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-16T18:54:52+00:00"
     }
   ]
 }
