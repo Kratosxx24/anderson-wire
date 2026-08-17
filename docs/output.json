@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:02:39.809945+00:00",
+  "generated_at": "2026-08-17T13:49:08.997144+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,15 +57,6 @@
       "published": "2026-08-17T01:37:51+00:00"
     },
     {
-      "headline": "Fantasy Models Predict Terry McLaurin as 2026 Bust",
-      "summary": "A predictive model flagged Washington’s Terry McLaurin as a likely fantasy bust for the 2026 season, a forecast that the rankings confirm. The article examines how the model’s prediction matched McLaurin’s actual decline and highlights other players who underperformed relative to expectations.",
-      "category": "NFL",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-predicted-terry-mclaurins-down-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T14:30:56+00:00"
-    },
-    {
       "headline": "AI and Aging: Embracing God’s Grace Amid Technological Limits",
       "summary": "In this essay, Autumn Ridenour and Sam Storms explore how the rapid rise of artificial intelligence intersects with the human experience of aging, arguing that recognizing our finite nature can deepen our reliance on divine grace and counter the temptation to over‑rely on technology.",
       "category": "Faith",
@@ -111,6 +102,15 @@
       "published": "2026-08-16T22:03:16+00:00"
     },
     {
+      "headline": "Stripe Buys OpenRouter, Betting on AI Model Aggregation",
+      "summary": "Stripe announced it is acquiring OpenRouter, a platform that aggregates access to multiple AI models. The deal signals Stripe’s bet on a future market where businesses can pull in diverse models, potentially shifting its revenue model from payment processing to AI services.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "source": "Stratechery",
+      "published": "2026-08-17T10:00:00+00:00"
+    },
+    {
       "headline": "Gruber Slams Anthropic’s Claude Watermark as Semantic Sabotage",
       "summary": "John Gruber condemns Anthropic’s new Claude watermarking system, which embeds probabilistic fingerprints through altered word and token selection rather than invisible characters. He argues this directly contradicts Anthropic’s promise that the feature would leave text quality and meaning untouched, calling the deliberate semantic tweaking an unacceptable corruption of writing for compliance tracking.",
       "category": "Tech/AI",
@@ -127,15 +127,6 @@
       "url": "https://blog.j11y.io/2026-08-12_Anthropics-weak-watermarks-appease-a-weak-law/",
       "source": "Daring Fireball",
       "published": "2026-08-16T17:30:00+00:00"
-    },
-    {
-      "headline": "Simon Willison Releases Markdown‑SVG Renderer with MP4 Export",
-      "summary": "Willison’s tool now renders SVG directly in Markdown and offers PNG, JPEG, and a new MP4 tab that converts animated SVGs to video using ffmpeg.wasm in the browser, making animated graphics shareable on platforms that don’t support SVG.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T23:59:37+00:00"
     },
     {
       "headline": "Polish Bus Crash on Hungarian Motorway Claims 12 Lives",
@@ -156,31 +147,13 @@
       "published": "2026-08-16T18:35:25+00:00"
     },
     {
-      "headline": "Tommy John, subject of revolutionary elbow surgery that changed baseball forever, dies at 83",
-      "summary": "",
-      "category": "Sports",
+      "headline": "Simon Willison Releases Markdown‑SVG Renderer with MP4 Export",
+      "summary": "Willison’s tool now renders SVG directly in Markdown and offers PNG, JPEG, and a new MP4 tab that converts animated SVGs to video using ffmpeg.wasm in the browser, making animated graphics shareable on platforms that don’t support SVG.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.cbssports.com/mlb/news/tommy-john-dies-elbow-surgery/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T18:20:49+00:00"
-    },
-    {
-      "headline": "Arsenal’s Community Shield Rout Exposes City’s Defensive Cracks",
-      "summary": "Arsenal dismantled Manchester City in the Community Shield, demonstrating the tactical discipline and attacking efficiency that could dominate the upcoming season. The lopsided result underscores City's lingering defensive vulnerabilities and validates Arsenal's squad upgrades.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/soccer/news/arsenals-crushing-win-manchester-city-community-shield/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T16:46:41+00:00"
-    },
-    {
-      "headline": "Tomorrow's Top 25 Today: Big Ten takeover in the top five in new college football rankings",
-      "summary": "",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/college-football/news/top-25-preseason-rankings-big-ten/",
-      "source": "CBS Sports",
-      "published": "2026-08-16T13:33:28+00:00"
+      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades/",
+      "source": "Simon Willison",
+      "published": "2026-08-16T23:59:37+00:00"
     },
     {
       "headline": "Qwen 3.8 27B Delivers Strong Local Performance but Wastes Resources on Default Overthinking",
@@ -208,15 +181,6 @@
       "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
       "source": "Hacker News",
       "published": "2026-08-17T01:45:36+00:00"
-    },
-    {
-      "headline": "Prolly: Immutable Ordered Map Built on Prolly Trees",
-      "summary": "Prolly delivers a content‑addressed ordered map with immutable snapshots, cheap branching, efficient diffs, and verifiable proofs. The GitHub repo shows 33 stars, 2 forks, and includes bindings for Gluesql.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://github.com/crabbuild/prolly",
-      "source": "Hacker News",
-      "published": "2026-08-17T01:00:45+00:00"
     },
     {
       "headline": "Rhombus Language Updates: v1.1 Adds Annotation Syntax and FFI Enhancements",
@@ -318,13 +282,13 @@
       "published": "2026-08-17T00:20:51+00:00"
     },
     {
-      "headline": "Stripe Buys OpenRouter, Betting on AI Model Aggregation",
-      "summary": "Stripe announced it is acquiring OpenRouter, a platform that aggregates access to multiple AI models. The deal signals Stripe’s bet on a future market where businesses can pull in diverse models, potentially shifting its revenue model from payment processing to AI services.",
-      "category": "Tech/AI",
+      "headline": "Fantasy 2026 Rankings Reveal Sleepers, Breakouts, and Busts—Model That Forecasted Daniel Jones' Surge",
+      "summary": "The same predictive model that flagged Daniel Jones’ breakout has produced a 2026 fantasy football ranking list, spotlighting sleepers, breakout prospects, and likely busts. It pinpoints key positions and players for draft and waiver strategies, giving managers a data‑driven roadmap for the upcoming season.",
+      "category": "Sports",
       "relevance": 9,
-      "url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "source": "Stratechery",
-      "published": "2026-08-17T10:00:00+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-model-that-predicted-daniel-jones-big-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-17T13:31:16+00:00"
     },
     {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
@@ -334,6 +298,24 @@
       "url": "https://www.thirdapron.com/p/biggest-what-ifs-for-star-players-cce",
       "source": "Third Apron",
       "published": "2026-08-17T01:53:31+00:00"
+    },
+    {
+      "headline": "Spurs Likely Trade Away De'Aaron Fox, Not Keldon Johnson",
+      "summary": "San Antonio’s trade rumors point to De'Aaron Fox as the first player to move, while Keldon Johnson may stay. Fox’s contract and lack of a market make him a likely target, whereas Johnson’s role could secure him a longer future with the team.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://roundtable.io/sports/nba/spurs/news/next-san-antonio-spurs-trade-wont-include-deaaron-fox",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-16T12:15:19Z"
+    },
+    {
+      "headline": "Cowboys Top 2026 NFL Valuations, Jets Enter Top Five",
+      "summary": "The latest NFL franchise valuations keep the Dallas Cowboys at the top, while the New York Jets break into the top five. Other teams, such as the Seahawks, see changes in their market value.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-team-valuations-for-2026-cowboys/",
+      "source": "CBS Sports",
+      "published": "2026-08-17T12:06:24+00:00"
     },
     {
       "headline": "Early Preseason Hot Takes Highlight Cam Ward and 49ers Rookie Receiver",
@@ -399,31 +381,13 @@
       "published": "2026-08-16T16:34:12+00:00"
     },
     {
-      "headline": "Spurs Likely Trade Away De'Aaron Fox, Not Keldon Johnson",
-      "summary": "San Antonio’s trade rumors point to De'Aaron Fox as the first player to move, while Keldon Johnson may stay. Fox’s contract and lack of a market make him a likely target, whereas Johnson’s role could secure him a longer future with the team.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://roundtable.io/sports/nba/spurs/news/next-san-antonio-spurs-trade-wont-include-deaaron-fox",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T12:15:19.163Z"
-    },
-    {
-      "headline": "Cowboys Top 2026 NFL Valuations, Jets Enter Top Five",
-      "summary": "The latest NFL franchise valuations keep the Dallas Cowboys at the top, while the New York Jets break into the top five. Other teams, such as the Seahawks, see changes in their market value.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/nfl-team-valuations-for-2026-cowboys/",
-      "source": "CBS Sports",
-      "published": "2026-08-17T12:06:24+00:00"
-    },
-    {
       "headline": "Charles Robinson Launches NFL Blue Book to Demystify Front Offices",
       "summary": "Former Yahoo Sports writer Charles Robinson has launched a Substack newsletter, NFL Blue Book, to give fans insight into how NFL teams build rosters and run operations. He plans to cover all 32 front offices with high‑level analysis after leaving Yahoo.",
       "category": "NFL",
       "relevance": 8,
       "url": "https://awfulannouncing.com/nfl/charles-robinson-blue-book-front-office.html",
       "source": "NewsAPI:NFL contract",
-      "published": "2026-08-16T13:00:22+00:00"
+      "published": "2026-08-16T13:00:22Z"
     },
     {
       "headline": "Anthropic Battles Pentagon Over AI Contract, Court Blocks Designation",
@@ -435,6 +399,24 @@
       "published": "2026-08-16T11:59:37Z"
     },
     {
+      "headline": "Heat’s Long‑Term Plan: Build Around Giannis, Use 2027 Payroll Space for Big Moves",
+      "summary": "Miami is juggling short‑term competitiveness with a long‑term build, structuring Andrew Wiggins’ extension to free up about $50 million in 2027 payroll. The plan involves one‑year deals to finish the roster while keeping the option to trade or sign‑and‑trade for impact players, all while maintaining a “now” focus.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.sun-sentinel.com/2026/08/16/ask-ira-is-heat-approach-to-be-good-now-better-later/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-16T10:05:50+00:00"
+    },
+    {
+      "headline": "Pitt’s Olivia Babcock Tops NCAA.com’s 2026 Returning Opposite Ranking",
+      "summary": "Olivia Babcock, the two‑time National Player of the Year, is ranked first among returning opposite hitters for the 2026 women's college volleyball season. Her return anchors Pittsburgh’s lineup and makes the Panthers a top‑watch program as the season opens on August 17.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/babcock-of-pitt-leads-ncaa-com-s-ranking-of-top-returning/?utm_source=rss&utm_medium=rss&utm_campaign=babcock-of-pitt-leads-ncaa-com-s-ranking-of-top-returning",
+      "source": "Volleyball Mag",
+      "published": "2026-08-17T13:38:23+00:00"
+    },
+    {
       "headline": "Lakers Eye Klay Thompson If Mavs Buy Out Contract",
       "summary": "Los Angeles Lakers are reportedly interested in acquiring Klay Thompson, but only if the Dallas Mavericks buy out his remaining year. Thompson, 36, would be a free‑agent 3‑point threat; the Lakers would likely offer a veteran minimum due to cap space constraints.",
       "category": "NBA",
@@ -444,13 +426,31 @@
       "published": "2026-08-16T12:03:05Z"
     },
     {
+      "headline": "Djrum’s ‘I Wander’ Condenses Breakbeats and Ambient Layers Into a 16‑Minute Powerhouse",
+      "summary": "Djrum stitches six tracks into a seamless suite that blends shuddering breakbeats, tempo twists, and orchestral textures. The EP showcases his genre‑blending style while delivering a compact, high‑energy listening experience.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/",
+      "source": "Pitchfork",
+      "published": "2026-08-17T04:03:00+00:00"
+    },
+    {
+      "headline": "Trump Announces US Will Scale Back Joint Drills With South Korea, Citing Good Relations With Kim Jong Un",
+      "summary": "President Trump declared a substantial reduction in U.S.–South Korea military exercises, arguing they are costly and hostile. He cited South Korea’s refusal to join a U.S. “denuclearization” effort in Iran and said the move could open diplomatic space with Pyongyang.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-16T21:24:26.021Z"
+    },
+    {
       "headline": "Could Private‑Equity Ownership Undermine Yankees’ Legacy?",
       "summary": "The article examines the potential impact of private‑equity investment in the New York Yankees, questioning whether profit‑driven motives could clash with the franchise’s storied culture and fan expectations.",
       "category": "Other",
       "relevance": 4,
       "url": "http://nymag.com/intelligencer/article/will-private-equity-ruin-new-york-yankees-apollo-global-sports-deal.html",
       "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T05:00:17.178-04:00"
+      "published": "2026-08-16T09:00:17Z"
     }
   ]
 }
