@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T04:24:56.423754+00:00",
+  "generated_at": "2026-08-17T05:18:57.019381+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -39,13 +39,13 @@
       "published": "2026-08-15T18:52:12+00:00"
     },
     {
-      "headline": "Lakers Stall on Kuminga Pursuit Amid Asset Concerns",
-      "summary": "The Los Angeles Lakers remain the leading contender to sign 23-year-old Jonathan Kuminga, who would immediately plug their starting wing/forward vacancy. However, negotiations have hit a wall as Los Angeles refuses to drain its roster assets or meet his maximum financial demands. Insiders note the Hawks lack leverage to force a sign-and-trade, leaving the deal in limbo despite mutual on-court potential.",
-      "category": "NBA",
+      "headline": "Von Miller signs with Cowboys as free‑agency tracker shows four top‑100 players still unsigned",
+      "summary": "Veteran pass rusher Von Miller has agreed to a deal with Dallas, leaving only four of the top‑100 free agents on the market. CBS Sports’ tracker notes the remaining unsigned talent includes several high‑profile names, underscoring a still‑active offseason.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/nab-trade-lakers-jonathan-kuminga-trade/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-15T23:25:01Z"
+      "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-tracker-best-unsigned-free-agents-2026/",
+      "source": "CBS Sports",
+      "published": "2026-08-17T01:37:51+00:00"
     },
     {
       "headline": "2026 Fantasy Football Sleepers, Breakouts, and Busts",
@@ -219,15 +219,6 @@
       "published": "2026-08-16T20:16:30+00:00"
     },
     {
-      "headline": "AI Labs Are Intentionally Shrinking Models to Boost Reasoning Over Factual Recall",
-      "summary": "Developers are deliberately stripping world knowledge from large language models to prioritize reasoning capabilities, with new systems like GLM-5.2 and Qwen3.5 achieving elite math scores using a fraction of the active parameters of older models. While this compression strategy slashes compute costs and VRAM requirements, it comes at a steep price: factual recall plummets, with compact models hallucinating on up to 82% of straightforward knowledge questions.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
-      "source": "Hacker News",
-      "published": "2026-08-16T19:04:26+00:00"
-    },
-    {
       "headline": "Protobuf has LSP support. You're welcome",
       "summary": "",
       "category": "Tech/AI",
@@ -354,13 +345,13 @@
       "published": "2026-08-16T09:00:00+00:00"
     },
     {
-      "headline": "Von Miller signs with Cowboys as free‑agency tracker shows four top‑100 players still unsigned",
-      "summary": "Veteran pass rusher Von Miller has agreed to a deal with Dallas, leaving only four of the top‑100 free agents on the market. CBS Sports’ tracker notes the remaining unsigned talent includes several high‑profile names, underscoring a still‑active offseason.",
-      "category": "NFL",
+      "headline": "Red Queen Hypothesis Offers Blueprint for Self‑Improving AI",
+      "summary": "Cambridge researchers propose that AI systems can evolve by continuously outpacing their environment, mirroring the evolutionary \"Red Queen\" concept. The approach embeds adaptive constraints that could accelerate progress while mitigating runaway growth, potentially redefining safety protocols for autonomous agents.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.cbssports.com/nfl/news/nfl-free-agency-tracker-best-unsigned-free-agents-2026/",
-      "source": "CBS Sports",
-      "published": "2026-08-17T01:37:51+00:00"
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "source": "Hacker News",
+      "published": "2026-08-16T20:01:13+00:00"
     },
     {
       "headline": "Third Apron Podcast Explores ‘What‑If’ Scenarios for Departed NBA Stars – Part II",
@@ -370,6 +361,15 @@
       "url": "https://www.thirdapron.com/p/biggest-what-ifs-for-star-players-cce",
       "source": "Third Apron",
       "published": "2026-08-17T01:53:31+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence’s August 16 roundup covers NBA rebounding, Lakers offseason and upcoming draft chatter",
+      "summary": "The daily newsletter highlights Boston’s Mitchell Robinson rebounding surge, a Lakers offseason status check, and analysis of potential point‑guard prospects for the Bucks. It also previews rookie rankings, contract risks, and a list of the best under‑25 players heading into the 2026‑27 season.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-16T18:22:28+00:00"
     },
     {
       "headline": "CBS SportsLine Publishes Early 2026 Fantasy Football Draft Board and Tier List",
@@ -408,40 +408,40 @@
       "published": "2026-08-16T17:57:38+00:00"
     },
     {
-      "headline": "Basketball Intelligence’s August 16 roundup covers NBA rebounding, Lakers offseason and upcoming draft chatter",
-      "summary": "The daily newsletter highlights Boston’s Mitchell Robinson rebounding surge, a Lakers offseason status check, and analysis of potential point‑guard prospects for the Bucks. It also previews rookie rankings, contract risks, and a list of the best under‑25 players heading into the 2026‑27 season.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81626",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-16T18:22:28+00:00"
-    },
-    {
-      "headline": "Meta faces $1 trillion state lawsuit; loss could force Instagram and Facebook to scrap likes, infinite scroll and more",
-      "summary": "Thirty U.S. states allege Meta violated child‑privacy laws and are seeking up to $1 trillion in damages. The trial could compel the companies to add parental verification, remove dopamine‑driven recommendation algorithms, end like counts, and halt autoplay and multiple‑account creation for teen users.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.bbc.com/news/articles/clyqpx6xk69o",
-      "source": "Hacker News",
-      "published": "2026-08-16T23:27:36.748Z"
-    },
-    {
       "headline": "Jared Kushner meets Hamas leader in Egypt to advance Trump‑backed Gaza peace plan",
       "summary": "Trump’s envoy sat down with Hamas chief Khalil al‑Hayya, alongside Tony Blair and other mediators, to discuss disarmament, Israeli troop withdrawal and reconstruction. Kushner also met Egyptian President Sisi, with plans to bring Netanyahu into talks despite Israel’s rejection of the 15‑point proposal.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-16T19:58:14.784Z"
+      "published": "2026-08-17T04:50:56+00:00"
     },
     {
-      "headline": "Djrum’s ‘I Wander’ EP condenses his genre‑bending breakbeat wizardry into a 16‑minute seamless suite",
-      "summary": "The UK DJ’s new EP delivers six tightly linked tracks that blend shuddering breakbeats, rapid tempo shifts and ambient textures, echoing the complexity of his previous album in a club‑ready format. Reviewers note the rapid‑fire structure and inventive use of acoustic instruments within the electronic framework.",
+      "headline": "Kiwi Jr. Explodes with Frantic Energy on ‘Blowin’ Up’",
+      "summary": "The Canadian jangle‑pop quartet’s fourth album amps up grit and percussion, reflecting frustration and ambition. Working with Detroit producer Graham Walsh and indie stalwarts, the record injects sharper guitar work and a more explosive sound while retaining the band’s signature melodic hooks.",
       "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/kiwi-jr-blowin-up/",
       "source": "Pitchfork",
-      "published": "2026-08-17T04:03:00+00:00"
+      "published": "2026-08-17T04:02:00+00:00"
+    },
+    {
+      "headline": "Radiator Hospital’s ‘Distorting Time’ Delivers Minimalist Tales of History and Politics",
+      "summary": "Philadelphia singer‑songwriter Sam Cook‑Parrott’s sixth album blends lo‑fi indie pop with stories about his infamous ancestor and contemporary concerns. Recorded on a four‑track cassette, the sparse arrangements highlight narratives of outlaw heritage and political fatigue, offering a haunting listening experience.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/radiator-hospital-distorting-time/",
+      "source": "Pitchfork",
+      "published": "2026-08-17T04:01:00+00:00"
+    },
+    {
+      "headline": "Russia Reports Seven Dead in Largest Drone Assault by Ukraine in 2026",
+      "summary": "Ukrainian forces launched a massive drone strike using 822 drones, targeting Moscow and other Russian regions, killing seven and injuring dozens. The attack hit a Wildberries warehouse near Moscow and also struck civilian targets in Belgorod and Rostov, while Russia retaliated with missile strikes across Ukraine.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-16T08:14:56.855Z"
     },
     {
       "headline": "NPR Announces Senior Podcast Challenge Rules for 65‑Plus Contestants",
