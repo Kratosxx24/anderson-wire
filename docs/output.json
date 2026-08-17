@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T14:49:16.569262+00:00",
-  "story_count": 50,
+  "generated_at": "2026-08-17T15:12:08.419288+00:00",
+  "story_count": 47,
   "stories": [
     {
       "headline": "Deciphering the Iconic Sound Design of the iPhone",
@@ -183,33 +183,6 @@
       "published": "2026-08-16T15:05:36+00:00"
     },
     {
-      "headline": "AGI‑64 Lets You Play Sierra Games on 1 MHz Commodore 64",
-      "summary": "AGI‑64, a Commodore 64 interpreter, is 75% complete for Space Quest 1 and supports most AGI titles. It can compile .vol/.obj files into a 1 MB EasyFlash CRT, and offers save/load via SD card on the 1 MHz machine.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "source": "Hacker News",
-      "published": "2026-08-17T01:45:36+00:00"
-    },
-    {
-      "headline": "Rhombus Language Updates: v1.1 Adds Annotation Syntax and FFI Enhancements",
-      "summary": "Version 1.1 introduces annot and annot.def for defining annotations, an as binding form, and several Pict and slideshow improvements. Community contributions are welcomed via Racket forums.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "source": "Hacker News",
-      "published": "2026-08-17T00:48:21+00:00"
-    },
-    {
-      "headline": "Scientists Explore Plant‑Based Photosynthesis to Treat Dry Eye",
-      "summary": "A Science.org blog discusses using photosynthetic mechanisms to develop new treatments for dry eye, aiming to harness plant processes for ocular therapy.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
-      "source": "Hacker News",
-      "published": "2026-08-17T00:35:29+00:00"
-    },
-    {
       "headline": "First Impressions: Google's Pixel 11, Pro, and Fold Lineup",
       "summary": "Marques Brownlee shares initial hands-on reactions to Google's refreshed hardware portfolio, spanning the Pixel 11, 11 Pro, and new Fold. The overview assesses whether Google's iterative updates and software features offer meaningful progress.",
       "category": "YouTube",
@@ -318,6 +291,15 @@
       "published": "2026-08-17T13:38:23+00:00"
     },
     {
+      "headline": "Fantasy Football: Preseason Week 1 Shakes Up 2026 Rankings",
+      "summary": "Dave Richard’s updated 2026 fantasy rankings track early preseason shifts, highlighting notable movement for the Cardinals, Jonathon Brooks, and Kyle Pitts. These Week 1 performances are already influencing draft valuations and roster strategies.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-preseason-rankings-risers-fallers-dave-richard/",
+      "source": "CBS Sports",
+      "published": "2026-08-17T14:14:00+00:00"
+    },
+    {
       "headline": "Jamey Eisenberg makes a few drastic changes to 2026 Fantasy Football rankings: Mid-August Risers & Fallers",
       "summary": "",
       "category": "Sports",
@@ -417,13 +399,13 @@
       "published": "2026-08-16T11:59:37Z"
     },
     {
-      "headline": "Fantasy Football: Preseason Week 1 Shakes Up 2026 Rankings",
-      "summary": "Dave Richard’s updated 2026 fantasy rankings track early preseason shifts, highlighting notable movement for the Cardinals, Jonathon Brooks, and Kyle Pitts. These Week 1 performances are already influencing draft valuations and roster strategies.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-preseason-rankings-risers-fallers-dave-richard/",
-      "source": "CBS Sports",
-      "published": "2026-08-17T14:14:00+00:00"
+      "headline": "Copilot Autofix Introduces Critical Injection Flaw in Snowflake’s GitHub Workflow",
+      "summary": "Wiz Research’s autonomous AI tool discovered a critical script injection flaw in Snowflake’s GitHub repository that was accidentally introduced by GitHub Copilot Autofix. The AI coding assistant removed a necessary input sanitization step and replaced it with direct string expansion, enabling unauthenticated users to execute arbitrary commands by submitting a crafted GitHub issue. Snowflake patched the vulnerability and rotated credentials on June 23, 2026, confirming the exposure was contained.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "source": "Hacker News",
+      "published": "2026-08-17T14:18:38+00:00"
     },
     {
       "headline": "Djrum’s ‘I Wander’ Condenses Breakbeats and Ambient Layers Into a 16‑Minute Powerhouse",
@@ -433,15 +415,6 @@
       "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/",
       "source": "Pitchfork",
       "published": "2026-08-17T04:03:00+00:00"
-    },
-    {
-      "headline": "Copilot Autofix Introduces Critical Injection Flaw in Snowflake’s GitHub Workflow",
-      "summary": "Wiz Research’s autonomous AI tool discovered a critical script injection flaw in Snowflake’s GitHub repository that was accidentally introduced by GitHub Copilot Autofix. The AI coding assistant removed a necessary input sanitization step and replaced it with direct string expansion, enabling unauthenticated users to execute arbitrary commands by submitting a crafted GitHub issue. Snowflake patched the vulnerability and rotated credentials on June 23, 2026, confirming the exposure was contained.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "source": "Hacker News",
-      "published": "2026-08-17T10:00:00-04:00"
     },
     {
       "headline": "Could Private‑Equity Ownership Undermine Yankees’ Legacy?",
