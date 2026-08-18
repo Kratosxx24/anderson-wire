@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:52:51.384798+00:00",
+  "generated_at": "2026-08-18T00:27:46.849559+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -183,6 +183,15 @@
       "published": "2026-08-15T04:00:00+00:00"
     },
     {
+      "headline": "Anthropic’s Inference Hooks Let Firms Plug Existing Security Tools Directly Into Claude",
+      "summary": "Anthropic’s beta launch of Inference Hooks for Claude Enterprise routes every prompt through a company’s own AI security server before the model ever sees it, eliminating the need for external proxies or endpoint agents. By integrating directly with six major security vendors at the infrastructure level, the feature shifts enterprise AI procurement from chasing pre-vetted models to demanding full governance control. This directly tackles a critical industry gap where agentic AI adoption is surging but mature security frameworks remain scarce.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://forkast.news/anthropic-lets-enterprises-bring-their-own-security-to-claude-and-that-changes-how-companies-buy-ai/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-16T23:50:41Z"
+    },
+    {
       "headline": "US AI Labs Slash Inference Prices by 25% as Chinese Competitors Push War",
       "summary": "OpenAI and Anthropic cut mid‑tier model prices, with OpenAI reducing GPT‑5.6 Luna by 80% and GPT‑5.6 Terra by 20%, while Anthropic halved Claude Opus 5’s cost. The moves reflect pressure from cheaper Chinese providers like DeepSeek and Moonshot, driving GPT‑4‑class inference costs below $1 per million tokens.",
       "category": "Tech/AI",
@@ -190,15 +199,6 @@
       "url": "https://cryptobriefing.com/us-labs-ai-inference-price-war/",
       "source": "NewsAPI:Anthropic Claude",
       "published": "2026-08-16T18:36:54Z"
-    },
-    {
-      "headline": "Anthropic’s Inference Hooks Let Firms Plug Existing Security Tools Directly Into Claude",
-      "summary": "Anthropic’s beta launch of Inference Hooks for Claude Enterprise routes every prompt through a company’s own AI security server before the model ever sees it, eliminating the need for external proxies or endpoint agents. By integrating directly with six major security vendors at the infrastructure level, the feature shifts enterprise AI procurement from chasing pre-vetted models to demanding full governance control. This directly tackles a critical industry gap where agentic AI adoption is surging but mature security frameworks remain scarce.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://forkast.news/anthropic-lets-enterprises-bring-their-own-security-to-claude-and-that-changes-how-companies-buy-ai/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-16T23:50:41+00:00"
     },
     {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
@@ -210,13 +210,13 @@
       "published": "2026-08-17T01:53:31+00:00"
     },
     {
-      "headline": "Buss family sells Lakers stake, ending an era for one of NBA's marquee franchises",
-      "summary": "",
+      "headline": "Heat Must Resist Trading Jovic for Klay Thompson",
+      "summary": "Despite reports linking Miami to Dallas wing Klay Thompson, trading young forward Nikola Jovic would be a costly mistake that sacrifices long-term potential for a short-term rental. After already committing $62.4 million to Jovic on a recent extension, the Heat should preserve their youth and use remaining cap flexibility to fill roster gaps around Giannis Antetokounmpo and Bam Adebayo.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nba/news/buss-family-sells-lakers-stake-ending-era/",
-      "source": "CBS Sports",
-      "published": "2026-08-17T22:19:57+00:00"
+      "url": "https://roundtable.io/sports/nba/heat/news/opinion-miami-heat-should-not-trade-nikola-jovic-for-klay-thompson",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-16T23:00:09Z"
     },
     {
       "headline": "Renner's 2027 NFL Draft scouting series: Ranking the top 10 offensive tackles",
@@ -399,15 +399,6 @@
       "published": "2026-08-17T22:37:58+00:00"
     },
     {
-      "headline": "Heat Must Resist Trading Jovic for Klay Thompson",
-      "summary": "Despite reports linking Miami to Dallas wing Klay Thompson, trading young forward Nikola Jovic would be a costly mistake that sacrifices long-term potential for a short-term rental. After already committing $62.4 million to Jovic on a recent extension, the Heat should preserve their youth and use remaining cap flexibility to fill roster gaps around Giannis Antetokounmpo and Bam Adebayo.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://roundtable.io/sports/nba/heat/news/opinion-miami-heat-should-not-trade-nikola-jovic-for-klay-thompson",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T23:00:09Z"
-    },
-    {
       "headline": "Proposed Four-Team Deal Would Pair Jamal Murray with Kawhi Leonard in Toronto",
       "summary": "A reported four-team trade proposal would send Denver guard Jamal Murray to the Toronto Raptors, potentially pairing him with Kawhi Leonard if the pending probe clears. Adding the Canadian-born All-Star would instantly transform Toronto into a legitimate Eastern Conference title contender, giving them the second superstar needed to advance past the second round.",
       "category": "NBA",
@@ -415,24 +406,6 @@
       "url": "https://heavy.com/sports/nba/toronto-raptors/nba-trade-raptors-jamal-murray/",
       "source": "NewsAPI:NBA trade",
       "published": "2026-08-16T22:52:27Z"
-    },
-    {
-      "headline": "Paul George Embraces Celtics Role After Jaylen Brown Swap",
-      "summary": "Veteran forward Paul George arrived in Boston ready to lead after the Celtics traded Jaylen Brown to Philadelphia for the 36-year-old. Front office president Brad Stevens emphasized George’s high basketball IQ and veteran leadership as the perfect fit for their system, betting his experience will keep Boston competitive despite his age.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/boston-celtics/paul-george-sends-strong-message-after-celtics-blockbuster-jaylen-brown-trade/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T22:21:06Z"
-    },
-    {
-      "headline": "Knicks Eye Yves Missi with Miles McBride and Protected First-Rounder",
-      "summary": "After losing Mitchell Robinson, the New York Knicks are reportedly targeting 22-year-old Pelicans center Yves Missi with a hypothetical package featuring guard Miles McBride and a top-four protected 2033 first-round pick. New Orleans has previously rejected bids, viewing the athletic, budget-friendly rim protector as a franchise cornerstone, but the added draft capital could finally coax a deal.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/new-york-knicks/knicks-trade-pitch-yves-missi-mcbride/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T20:03:21Z"
     },
     {
       "headline": "Anthropic’s Claude Platform Suffers Major Outage",
@@ -444,13 +417,40 @@
       "published": "2026-08-16T22:28:57Z"
     },
     {
+      "headline": "NBA Clears Clippers Owner Ballmer of Salary Cap Violations",
+      "summary": "An internal investigation found zero proof that Steve Ballmer secretly routed sponsor funds to Kawhi Leonard to bypass league payroll rules. The league’s clean bill of health ends speculation over the Clippers’ financial dealings and keeps the franchise’s competitive status intact.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vqx3ov/holmes_and_charania_the_nba_has_found_no_evidence/",
+      "source": "r/NBA",
+      "published": "2026-08-17T16:31:43+00:00"
+    },
+    {
+      "headline": "Djrum Compresses His Signature Sound Into a 16-Minute EP",
+      "summary": "Felix Manuel’s latest release, I Wander, strips his sprawling, genre-blending production down to a tight, 16-minute suite of six interconnected tracks. Built on shifting breakbeats, warped tempos, and layered acoustic textures, the Houndstooth record trades his previous album’s maximalism for focused, club-ready intensity.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/djrum-i-wander/",
+      "source": "Pitchfork",
+      "published": "2026-08-17T04:03:00+00:00"
+    },
+    {
+      "headline": "Anthropic Restores Full Access to Claude AI After Authentication Glitch",
+      "summary": "The developer behind the Claude chatbot confirmed that a widespread outage impacting Claude AI, Claude Code, and related tools has been fully patched. The service interruption, which stemmed from login failures and sluggish performance, has been resolved with normal operations restored.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://biztoc.com/x/31d6e6a89093e6b5",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-16T22:54:00+00:00"
+    },
+    {
       "headline": "New Doc Exposes Guardiola’s Bitter Fallout With Former Captain Kyle Walker",
       "summary": "An Amazon Prime documentary reveals the raw tension behind Pep Guardiola’s final Manchester City seasons, highlighting a heated December 2024 dressing-room clash where the manager publicly blamed captain Kyle Walker for a costly Liverpool penalty. The footage captures Guardiola’s emotional address to the squad after Walker requested a January 2025 loan move to AC Milan, with the coach insisting the defender failed to lead during critical moments. The series also shows a tearful Guardiola defending his renewed contract commitment, emphasizing his desire to win rather than simply collect a paycheck.",
       "category": "Other",
       "relevance": 3,
       "url": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-08-17T23:00:04.571Z"
+      "published": "2026-08-17T23:00:04+00:00"
     }
   ]
 }
