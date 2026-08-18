@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:20:21.424055+00:00",
+  "generated_at": "2026-08-18T19:47:03.375208+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -147,15 +147,6 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "Diffusion Model Fits on Microcontroller with 264KB RAM",
-      "summary": "A developer successfully trained an image generation model capable of producing 32 by 32 pixel images to run on a Shrike lite microcontroller. To accelerate calculations on the 264KB SRAM device, an onboard FPGA was utilized to construct two parallel INT8 MAC engines featuring 16-bit accumulation.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vrk7t5/trained_an_diffusion_model_that_runs_on_264kb_of/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-18T09:26:21+00:00"
-    },
-    {
       "headline": "NBA Intelligence Roundup: Kawhi Investigation And Team Updates",
       "summary": "The latest Basketball Intelligence newsletter covers league-wide rumblings, including an investigation into the Clippers and Steve Ballmer that could impact the salary cap. Other featured breakdowns analyze the Lakers' organizational shifts following their sale, Chicago's roster weaknesses, and the latest free agent movement.",
       "category": "NBA",
@@ -183,13 +174,13 @@
       "published": "2026-08-18T17:27:28+00:00"
     },
     {
-      "headline": "Commanders Tap Diggs to Accelerate Daniels' Development",
-      "summary": "Washington is betting that Stefon Diggs' extensive background working alongside young quarterbacks will translate to the development of Jayden Daniels. The franchise hopes the veteran wide receiver's presence can immediately elevate the team's passing attack.",
+      "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
+      "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/commanders-stefon-diggs-jayden-daniels/",
+      "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
-      "published": "2026-08-18T18:04:16+00:00"
+      "published": "2026-08-18T19:34:08+00:00"
     },
     {
       "headline": "Big Ten and SEC Launch Inaugural Volleyball Challenge Week, Culminating at Wrigley Field",
@@ -219,6 +210,15 @@
       "published": "2026-08-18T16:43:27+00:00"
     },
     {
+      "headline": "Nvidia Fuels OpenAI Data Center, Anthropic Revenue Soars, Google Buys Spirit Airlines Data",
+      "summary": "Nvidia announced a new partnership to support an OpenAI data center, while Anthropic reported impressive revenue growth that continues to surprise analysts. In a separate move, Google acquired data from Spirit Airlines, signaling a push into aviation data services. The trio of deals underscores the expanding reach of AI and data across industries.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "source": "Stratechery",
+      "published": "2026-08-18T10:00:00+00:00"
+    },
+    {
       "headline": "Russia warns UK over supplying drones to Ukraine",
       "summary": "",
       "category": "World",
@@ -228,6 +228,15 @@
       "published": "2026-08-18T12:36:11+00:00"
     },
     {
+      "headline": "Commanders Tap Diggs to Accelerate Daniels' Development",
+      "summary": "Washington is betting that Stefon Diggs' extensive background working alongside young quarterbacks will translate to the development of Jayden Daniels. The franchise hopes the veteran wide receiver's presence can immediately elevate the team's passing attack.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/commanders-stefon-diggs-jayden-daniels/",
+      "source": "CBS Sports",
+      "published": "2026-08-18T18:04:16+00:00"
+    },
+    {
       "headline": "Giants Add Najee Harris on One-Year Contract",
       "summary": "The New York Giants have agreed to sign running back Najee Harris to a one-year deal. The acquisition introduces fresh competition and shifts the dynamic within an already crowded backfield.",
       "category": "NFL",
@@ -235,51 +244,6 @@
       "url": "https://www.cbssports.com/nfl/news/giants-signing-najee-harris-what-does-it-mean-for-new-yorks-backfield/",
       "source": "CBS Sports",
       "published": "2026-08-18T17:32:51+00:00"
-    },
-    {
-      "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
-      "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/",
-      "source": "CBS Sports",
-      "published": "2026-08-18T16:46:31+00:00"
-    },
-    {
-      "headline": "Fantasy football 2026 rankings, draft prep: NFL model makes top QB, RB, WR, TE picks, cheat sheets, ADP, tiers",
-      "summary": "",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-nfl-model-makes-top-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
-      "source": "CBS Sports",
-      "published": "2026-08-18T14:30:47+00:00"
-    },
-    {
-      "headline": "MLB Playoff Spots Should Be Off-Limits to Trade Deadline Sellers",
-      "summary": "CBS Sports columnist Keith Snyder argues that teams purging their rosters at the trade deadline forfeit their right to compete for a postseason berth. The proposal aims to protect competitive integrity by ensuring only clubs actively building for October earn a spot in the playoffs.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/mlb/news/snyders-soapbox-trade-deadline-sellers-playoffs/",
-      "source": "CBS Sports",
-      "published": "2026-08-18T14:30:11+00:00"
-    },
-    {
-      "headline": "Colts Ink Veteran Receiver Keenan Allen on One-Year Deal",
-      "summary": "Indianapolis added six‑time Pro Bowler Keenan Allen to its wide‑receiver corps on a one‑year contract, hoping his experience and route‑running can lift a struggling offense. The fit may be complicated by the Colts’ scheme and depth chart, but Allen’s production in the past seasons gives the team a veteran presence.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/keenan-allen-colts-wr-contract/",
-      "source": "CBS Sports",
-      "published": "2026-08-18T14:18:22+00:00"
-    },
-    {
-      "headline": "Nvidia Fuels OpenAI Data Center, Anthropic Revenue Soars, Google Buys Spirit Airlines Data",
-      "summary": "Nvidia announced a new partnership to support an OpenAI data center, while Anthropic reported impressive revenue growth that continues to surprise analysts. In a separate move, Google acquired data from Spirit Airlines, signaling a push into aviation data services. The trio of deals underscores the expanding reach of AI and data across industries.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
-      "source": "Stratechery",
-      "published": "2026-08-18T10:00:00+00:00"
     },
     {
       "headline": "Apple Revamps Traffic Light Window Controls in Latest macOS Beta",
@@ -345,6 +309,15 @@
       "published": "2026-08-17T15:21:29+00:00"
     },
     {
+      "headline": "PantheonGPU Launches for Hardware Stress Testing and AI Workloads",
+      "summary": "PantheonGPU is a new diagnostic tool designed to evaluate GPU compute, memory, cache, and power behavior through targeted stress tests and AI benchmarks. The software supports both NVIDIA CUDA and AMD ROCm platforms, providing local telemetry reporting and simple installation via Debian packages or release bundles.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://pantheongpu.com/",
+      "source": "Hacker News",
+      "published": "2026-08-18T18:47:51+00:00"
+    },
+    {
       "headline": "Claude Code Usage Limits Set to Drop Next Month",
       "summary": "Anthropic is concluding its promotional period that temporarily boosted Claude Code weekly usage limits by 50%. Starting August 20, 2026, user limits for Pro, Max, Team, and legacy Enterprise tiers will return to standard baseline levels.",
       "category": "Tech/AI",
@@ -352,15 +325,6 @@
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
       "source": "Hacker News",
       "published": "2026-08-18T17:02:15+00:00"
-    },
-    {
-      "headline": "Code-native generation of highly programmable 3D assets (2026)",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arxiv.org/abs/2607.22738",
-      "source": "Hacker News",
-      "published": "2026-08-18T14:54:44+00:00"
     },
     {
       "headline": "Themelios 51.2",
@@ -417,13 +381,49 @@
       "published": "2026-08-18T09:00:00+00:00"
     },
     {
-      "headline": "PantheonGPU Launches for Hardware Stress Testing and AI Workloads",
-      "summary": "PantheonGPU is a new diagnostic tool designed to evaluate GPU compute, memory, cache, and power behavior through targeted stress tests and AI benchmarks. The software supports both NVIDIA CUDA and AMD ROCm platforms, providing local telemetry reporting and simple installation via Debian packages or release bundles.",
+      "headline": "John Gruber Slams Anthropic's Claude Watermarking Plan",
+      "summary": "Tech blogger John Gruber has heavily criticized Anthropic's decision to watermark Claude's writing to comply with EU regulations. Gruber argued that forcing language models to alter word choice for detection purposes represents a perversion of writing that compromises output quality. Anthropic maintains that its statistical watermarking technique preserves clarity and does not utilize hidden characters.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://pantheongpu.com/",
+      "url": "https://www.businessinsider.com/john-gruber-claude-watermark-perversion-offensive-ai-2026-8#article",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-17"
+    },
+    {
+      "headline": "Argus Introduces Agentic Visual UI Testing for Fast-Moving Teams",
+      "summary": "Argus is a new open-source, local visual UI testing tool designed to keep pace with rapid coding agents. By leveraging a five-agent pipeline built on Playwright, it autonomously explores web applications like a real user without requiring scripted tests or selector maintenance. The platform generates structured reports complete with timelines and screenshots to catch unscripted bugs.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/argus-testing/argus",
       "source": "Hacker News",
-      "published": "2026-08-18T18:47:51+00:00"
+      "published": "2026-08-18T19:10:16+00:00"
+    },
+    {
+      "headline": "Anthropic CEO Predicts AI Will Cure Most Diseases Within a Decade",
+      "summary": "Anthropic CEO Dario Amodei has doubled down on his claim that advanced AI could compress a century of medical progress into the next five to ten years. Despite acknowledging that the industry has yet to see the projected tenfold biotech acceleration, Amodei remains optimistic about AI-driven drug discovery. The company recently launched Claude Science to aid researchers and pharmaceutical firms in tackling neglected conditions.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://cryptobriefing.com/anthropic-ceo-ai-cure-diseases-prediction/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-17T19:05:59+00:00"
+    },
+    {
+      "headline": "OpenAI Discusses Pacing Model Development for Cyber-Critical Capabilities",
+      "summary": "OpenAI has published a new index page addressing the pacing of model development in the context of cyber-critical capabilities. The brief posting outlines strategic considerations for managing advanced technological risks. Further details and community discussions are currently hosted on Hacker News.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "source": "Hacker News",
+      "published": "2026-08-18T18:14:59+00:00"
+    },
+    {
+      "headline": "HarnessRouter Launches Unified Open-Source Interface for Agent Harnesses",
+      "summary": "HarnessRouter Community Edition has released a self-hosted, Apache-2.0 licensed interface designed to run multiple agent harnesses like Codex and Claude Code through a single API. Operating locally via Docker with user-supplied API keys, it implements the open-standard Unified Harness Protocol without relying on cloud accounts or telemetry. The setup requires no sign-up procedures and keeps all credential handling strictly on the user's infrastructure.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/harnessrouter/harnessrouter",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-17T18:33:38Z"
     },
     {
       "headline": "Wild EP",
