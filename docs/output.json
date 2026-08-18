@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T09:54:42.262349+00:00",
-  "story_count": 46,
+  "generated_at": "2026-08-18T10:40:16.259363+00:00",
+  "story_count": 50,
   "stories": [
     {
       "headline": "NBA Offseason Roundup: Celtics Additions, LeBron’s Philly Impact, and 76ers’ Data-Driven Overhaul",
@@ -84,13 +84,13 @@
       "published": "2026-08-16T23:59:37+00:00"
     },
     {
-      "headline": "Qwen 3.8 27B Delivers Strong Local Performance but Wastes Resources on Default Overthinking",
-      "summary": "Alibaba’s newly released Qwen 3.8 27B model runs efficiently on consumer hardware and delivers impressive output quality, but its default high reasoning setting causes severe token bloat on simple prompts. Running a basic SVG generation task consumed over 22,000 reasoning tokens and 21 minutes before producing just 3,000 output tokens. Developers will need to manually dial down the reasoning effort to avoid exhausting context windows and wasting compute time.",
+      "headline": "Anthropic’s Model 2 Outperforms Mythos 5 in Internal Benchmarks",
+      "summary": "Anthropic’s new Model 2 scored 62.8% on its internal Codebench test, surpassing Mythos 5 but still below the 85% threshold for public release. The company will keep it internal pending further risk assessments, reflecting a cautious approach to AI deployment.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T22:00:39+00:00"
+      "url": "https://www.geeky-gadgets.com/anthropic-model-2-details/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-17T09:17:00Z"
     },
     {
       "headline": "Framework 13 Pro: The Modular Laptop is Real!",
@@ -147,13 +147,13 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "Anthropic’s Model 2 Outperforms Mythos 5 in Internal Benchmarks",
-      "summary": "Anthropic’s new Model 2 scored 62.8% on its internal Codebench test, surpassing Mythos 5 but still below the 85% threshold for public release. The company will keep it internal pending further risk assessments, reflecting a cautious approach to AI deployment.",
+      "headline": "Claude Opus 5 Tops AI Rankings as Anthropic Raises $65B Series H",
+      "summary": "Anthropic’s newest model, Claude Opus 5, has taken the top spot in AI intelligence rankings, outpacing rivals such as GPT‑5.6 Sol and Claude Fable 5. The company closed a $65 billion Series H round, pushing its post‑money valuation to $965 billion and reinforcing its leadership in the AI sector.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.geeky-gadgets.com/anthropic-model-2-details/",
+      "url": "https://cryptobriefing.com/anthropics-claude-opus-5-leads-ai-rankings-raises-65b-in-series-h-funding/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-17T09:17:00Z"
+      "published": "2026-08-17T09:40:46+00:00"
     },
     {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
@@ -252,7 +252,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-18T09:33:49+00:00"
+      "published": "2026-08-18T09:55:00+00:00"
     },
     {
       "headline": "Algorithm Backs 2026 Fantasy Sleepers After Achane Success",
@@ -390,22 +390,58 @@
       "published": "2026-08-17T07:00:00Z"
     },
     {
-      "headline": "Alibaba Offloads Profitable Lingxi Games to Fuel AI Ambitions",
-      "summary": "Alibaba sold its gaming studio Lingxi Games to private‑equity Trustar Capital for a deal valued between $1.5bn and $2bn, freeing capital for its Qwen AI platform and data‑center expansion. The sale reflects CEO Eddie Wu’s strategy of shedding non‑core assets—even profitable ones—to focus on AI and cloud, with a target of $100bn in AI revenue over five years.",
+      "headline": "Nvidia Fuels OpenAI Data Center, Anthropic Revenue Soars, Google Buys Spirit Airlines Data",
+      "summary": "Nvidia announced a new partnership to support an OpenAI data center, while Anthropic reported impressive revenue growth that continues to surprise analysts. In a separate move, Google acquired data from Spirit Airlines, signaling a push into aviation data services. The trio of deals underscores the expanding reach of AI and data across industries.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://thenextweb.com/news/alibaba-sells-lingxi-games-ai-pivot",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-17T08:25:09Z"
+      "url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+      "source": "Stratechery",
+      "published": "2026-08-18T10:00:00+00:00"
     },
     {
-      "headline": "NBA Investigation Findings Delivered to Clippers; Pablo Torre Criticizes Negotiation Approach",
-      "summary": "The NBA, via a probe led by Wachtell, Lipton, Rosen & Katz, handed its initial findings to the Los Angeles Clippers in late July, according to multiple sources. Pablo Torre, a former NBA executive, criticized the league's approach, noting that the subject of an investigation should not negotiate with the investigators.",
+      "headline": "AI Music Sparks Payment Battle as Industry Grapples with Who Gets Paid",
+      "summary": "Generative AI platforms like Suno and Udio can produce full songs from text prompts, challenging the traditional licensing model that has governed music royalties for a century. The industry now faces a complex dispute over how to compensate songwriters, performers, and rights holders when AI creates new works. Stakeholders are debating new frameworks to ensure fair payment in the AI‑driven music economy.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
+      "source": "NPR News",
+      "published": "2026-08-18T06:30:00-04:00"
+    },
+    {
+      "headline": "College Football’s Build‑A‑Roster Convention Highlights AI, Money, and Talent Hunt",
+      "summary": "The 48‑hour Personnel and Recruiting Symposium in Nashville drew 1,600 staff from 160 schools, turning the city into a networking hub for college football talent acquisition. Veteran coach Mack Brown emphasized the importance of quality over speed in roster building, while the event showcased how AI and data analytics are reshaping recruitment strategies. The convention also highlighted the growing financial stakes involved in securing top prospects.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2026/08/17/behind-scenes-college-football-most-important-recruiting-convention/91310296007/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-17T09:14:50Z"
+    },
+    {
+      "headline": "Claude Watermark Lets Anthropic Subtly Shape AI Output, Raising Trust Concerns",
+      "summary": "Anthropic’s planned watermark for Claude biases token selection, allowing the model to steer tone and emphasis without user awareness. By nudging certain words, the watermark can alter meaning while remaining imperceptible, giving providers a hidden influence over content. This raises concerns for businesses that rely on trustworthy AI-generated text.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://4sysops.com/archives/anthropics-ai-watermarking-gives-the-model-maker-hidden-power-to-manipulate-meaning/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-17T03:07:05-07:00"
+    },
+    {
+      "headline": "Anthropic Details How Claude’s Watermark Works and How It Can Be Detected",
+      "summary": "The watermark operates by using a secret key to influence word choice among equally suitable tokens, creating a statistically detectable pattern. No visible marks are added, but detection requires Anthropic’s key and works best on longer, less factual passages. The explanation clarifies the mechanism and its limitations for identifying Claude‑generated text.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://4sysops.com/archives/anthropic-explains-claude-text-watermarking/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-17T03:07:02-07:00"
+    },
+    {
+      "headline": "Scout Warns Cavaliers Might Lose More Than Gain by Targeting Jonathan Kuminga",
+      "summary": "An NBA scout cautioned that acquiring free‑agent Jonathan Kuminga could leave the Cavaliers worse off than before, favoring current players like Max Strus for versatility and work ethic. Despite the warning, Cleveland remains active in pursuing Kuminga, while the Hawks also show interest and may seek a sign‑and‑trade. The debate highlights the risk of high‑profile acquisitions in a competitive talent market.",
       "category": "NBA",
-      "relevance": 5,
-      "url": "https://old.reddit.com/r/nba/comments/1vr9nq9/pablo_torre_on_espns_report_regarding/",
-      "source": "r/NBA",
-      "published": "2026-08-18T00:20:52+00:00"
+      "relevance": 8,
+      "url": "https://roundtable.io/sports/nba/hawks/news/nba-scout-questions-cavs-pursuit-of-hawks-fa-jonathan-kuminga",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-17T06:26:40.887Z"
     },
     {
       "headline": "Exercise Intensity Alters Interorgan Communication, Study Finds",
