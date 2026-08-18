@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T09:18:47.847787+00:00",
-  "story_count": 50,
+  "generated_at": "2026-08-18T09:54:42.262349+00:00",
+  "story_count": 46,
   "stories": [
     {
       "headline": "NBA Offseason Roundup: Celtics Additions, LeBron’s Philly Impact, and 76ers’ Data-Driven Overhaul",
@@ -30,6 +30,15 @@
       "published": "2026-08-17T10:02:53+00:00"
     },
     {
+      "headline": "Longevity Gurus Misinterpret Death, Says Gospel Coalition",
+      "summary": "The article argues that influencers who champion extended life often misunderstand the Christian view of death, overlooking its spiritual significance and the hope of resurrection.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/longevity-influencers-death/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-18T04:00:00+00:00"
+    },
+    {
       "headline": "AI and Aging: Embracing God’s Grace Amid Technological Limits",
       "summary": "In this essay, Autumn Ridenour and Sam Storms explore how the rapid rise of artificial intelligence intersects with the human experience of aging, arguing that recognizing our finite nature can deepen our reliance on divine grace and counter the temptation to over‑rely on technology.",
       "category": "Faith",
@@ -37,15 +46,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-aging-grace-limits/",
       "source": "The Gospel Coalition",
       "published": "2026-08-17T04:04:50+00:00"
-    },
-    {
-      "headline": "Youth Pastor Shortage Sparks Concern Across Churches",
-      "summary": "The piece investigates the widening gap in youth ministry leadership, noting that many churches can’t fill pastor positions for teen programs. It points to low pay, burnout and cultural shifts as key drivers, warning the void may erode churches’ ability to reach younger generations.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/missing-youth-pastors/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-17T04:00:08+00:00"
     },
     {
       "headline": "Google Pixel 11/Pro/Fold Impressions: It Is What It Is",
@@ -129,6 +129,15 @@
       "published": "2026-07-03T19:29:25+00:00"
     },
     {
+      "headline": "Youth Pastor Shortage Sparks Concern Across Churches",
+      "summary": "The piece investigates the widening gap in youth ministry leadership, noting that many churches can’t fill pastor positions for teen programs. It points to low pay, burnout and cultural shifts as key drivers, warning the void may erode churches’ ability to reach younger generations.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/missing-youth-pastors/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-17T04:00:08+00:00"
+    },
+    {
       "headline": "Essay Explores How Human Frailty Opens the Door to Divine Grace",
       "summary": "The piece argues that personal weakness is not a flaw but an invitation for God’s work, encouraging believers to embrace vulnerability as a conduit for spiritual growth.",
       "category": "Faith",
@@ -138,31 +147,13 @@
       "published": "2026-08-16T04:00:00+00:00"
     },
     {
-      "headline": "Longevity Gurus Misinterpret Death, Says Gospel Coalition",
-      "summary": "The article argues that influencers who champion extended life often misunderstand the Christian view of death, overlooking its spiritual significance and the hope of resurrection.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/longevity-influencers-death/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-18T04:00:00+00:00"
-    },
-    {
       "headline": "Anthropic’s Model 2 Outperforms Mythos 5 in Internal Benchmarks",
       "summary": "Anthropic’s new Model 2 scored 62.8% on its internal Codebench test, surpassing Mythos 5 but still below the 85% threshold for public release. The company will keep it internal pending further risk assessments, reflecting a cautious approach to AI deployment.",
       "category": "Tech/AI",
       "relevance": 9,
       "url": "https://www.geeky-gadgets.com/anthropic-model-2-details/",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-17T09:17:00+00:00"
-    },
-    {
-      "headline": "Engineer Lauren Tan Advances to Quality Control After Building Her Own Case",
-      "summary": "Lauren Tan, a former coder, earned a promotion to quality‑control lead by incrementally adding lint rules and CI gates that proved her tooling’s value. Her story illustrates how internal tooling can drive career growth when the evidence is undeniable.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vrih0c/lauren_tan_cursor_engineer_i_stopped_writing_code/",
-      "source": "r/Artificial",
-      "published": "2026-08-18T07:41:23+00:00"
+      "published": "2026-08-17T09:17:00Z"
     },
     {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
@@ -261,7 +252,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-18T09:11:57+00:00"
+      "published": "2026-08-18T09:33:49+00:00"
     },
     {
       "headline": "Algorithm Backs 2026 Fantasy Sleepers After Achane Success",
@@ -325,15 +316,6 @@
       "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/",
       "source": "Simon Willison",
       "published": "2026-08-17T15:21:29+00:00"
-    },
-    {
-      "headline": "alloca Uses Stack Probe to Avoid Guard Page Skips",
-      "summary": "Raymond Chen explains that the _alloca() function calls _chkstk() to probe the stack before allocating memory, ensuring large stack allocations don’t bypass guard pages. The same probe is used when creating local frames, keeping stack safety consistent.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-      "source": "Hacker News",
-      "published": "2026-08-17T21:06:10+00:00"
     },
     {
       "headline": "Themelios 51.2",
@@ -417,31 +399,13 @@
       "published": "2026-08-17T08:25:09Z"
     },
     {
-      "headline": "One‑Time $99.99 Subscription Gives Lifetime Access to 50+ AI Models",
-      "summary": "1min.AI’s Advanced Business Plan offers a lifetime subscription for $99.99, bundling OpenAI, Anthropic, Google, Meta, Mistral, and Cohere models along with writing, image, document, audio, and video tools. The plan replaces a $540 monthly bundle, consolidating multiple AI services into a single workspace and cutting costs for users.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.pcworld.com/article/3212796/pay-99-99-once-for-gpt-claude-gemini-and-more.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-17T08:00:00Z"
-    },
-    {
-      "headline": "Anthropic’s fight with Pentagon shows how AI could threaten a crucial safeguard of democracy",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.thehindubusinessline.com/news/world/anthropics-fight-with-pentagon-shows-how-ai-could-threaten-a-crucial-safeguard-of-democracy/article71355170.ece",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-17T06:58:34Z"
-    },
-    {
-      "headline": "ChatGPT, Gemini, Claude: Which LLM Wins for Your Task?",
-      "summary": "The article contrasts leading large language models, noting ChatGPT excels at multi‑step reasoning and third‑party integration, Gemini is strong in abstract reasoning, and Claude shines in coding. It stresses selecting models based on specific tasks, highlights privacy‑focused options like Mina, and discusses open‑weight alternatives such as Llama and DeepSeek for cost‑effective local deployment.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.geeky-gadgets.com/best-large-language-models-comparison/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-17T06:13:00Z"
+      "headline": "NBA Investigation Findings Delivered to Clippers; Pablo Torre Criticizes Negotiation Approach",
+      "summary": "The NBA, via a probe led by Wachtell, Lipton, Rosen & Katz, handed its initial findings to the Los Angeles Clippers in late July, according to multiple sources. Pablo Torre, a former NBA executive, criticized the league's approach, noting that the subject of an investigation should not negotiate with the investigators.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1vr9nq9/pablo_torre_on_espns_report_regarding/",
+      "source": "r/NBA",
+      "published": "2026-08-18T00:20:52+00:00"
     },
     {
       "headline": "Exercise Intensity Alters Interorgan Communication, Study Finds",
