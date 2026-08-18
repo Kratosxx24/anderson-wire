@@ -285,19 +285,48 @@ def _parse_json(raw: str, key: str) -> dict:
     'list object has no attribute get' and the whole batch was discarded — a
     fallback model that answered correctly still counted as a failure."""
     clean = raw.strip().replace("```json", "").replace("```", "").strip()
-    data = json.loads(clean)
 
+    # Models sometimes emit SEVERAL top-level JSON documents back to back (one
+    # per chunk of the answer), or one document followed by a stray trailing
+    # token. json.loads rejects the whole string for that ("Extra data: line 42
+    # ..."), losing a complete, correct first document. Decode successively
+    # instead and merge whatever we get.
+    decoder = json.JSONDecoder()
+    docs, pos = [], 0
+    while pos < len(clean):
+        try:
+            doc, pos = decoder.raw_decode(clean, pos)
+        except ValueError:
+            break
+        docs.append(doc)
+        while pos < len(clean) and clean[pos] in " \t\r\n,":
+            pos += 1
+    if not docs:
+        raise ValueError(f"no JSON object found in model output: {clean[:200]!r}")
+    if len(docs) == 1:
+        data = docs[0]
+    else:
+        merged = []
+        for d in docs:
+            merged.extend(_extract_list(d, key))
+        return {key: merged}
+
+    return {key: _extract_list(data, key)}
+
+
+def _extract_list(data, key: str) -> list:
+    """Pull the payload list out of whatever envelope a model chose."""
     if isinstance(data, list):
-        return {key: data}
-    if not isinstance(data, dict):
-        return {key: []}
-    if isinstance(data.get(key), list):
         return data
+    if not isinstance(data, dict):
+        return []
+    if isinstance(data.get(key), list):
+        return data[key]
     # Right shape, wrong label — take the first list-of-objects value present.
     for v in data.values():
         if isinstance(v, list) and (not v or isinstance(v[0], dict)):
-            return {key: v}
-    return {key: []}
+            return v
+    return []
 
 
 # ---------------------------------------------------------------------------
