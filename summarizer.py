@@ -274,10 +274,30 @@ def llm_complete(messages: list[dict], temperature: float = 0.2,
     raise RuntimeError(f"All providers failed. Last error: {last_err}")
 
 
-def _parse_json(raw: str) -> dict:
-    """Strip markdown fences if a model wraps its JSON, then parse."""
+def _parse_json(raw: str, key: str) -> dict:
+    """Strip markdown fences if a model wraps its JSON, then parse and normalize
+    to {key: [...]}.
+
+    The normalization matters now that the chain spans many more models: asked
+    for {"items": [...]}, some of them return a BARE ARRAY instead, and some
+    wrap the array under a different key ("results", "headlines", ...). The
+    content is right, the envelope isn't. Before this, a bare array raised
+    'list object has no attribute get' and the whole batch was discarded — a
+    fallback model that answered correctly still counted as a failure."""
     clean = raw.strip().replace("```json", "").replace("```", "").strip()
-    return json.loads(clean)
+    data = json.loads(clean)
+
+    if isinstance(data, list):
+        return {key: data}
+    if not isinstance(data, dict):
+        return {key: []}
+    if isinstance(data.get(key), list):
+        return data
+    # Right shape, wrong label — take the first list-of-objects value present.
+    for v in data.values():
+        if isinstance(v, list) and (not v or isinstance(v[0], dict)):
+            return {key: v}
+    return {key: []}
 
 
 # ---------------------------------------------------------------------------
@@ -344,7 +364,7 @@ Return only the JSON."""
         max_tokens=2500,
         json_mode=True,
     )
-    data = _parse_json(raw)
+    data = _parse_json(raw, "items")
 
     out = []
     for it in data.get("items", []):
@@ -502,7 +522,7 @@ def _summarize_batch(pool: list[dict], batch: list[dict]) -> dict:
         json_mode=True,
         prefer_gemini=True,
     )
-    data = _parse_json(raw)
+    data = _parse_json(raw, "stories")
     smap = {}
     for st in data.get("stories", []):
         idx = st.get("index")
