@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:05:41.147932+00:00",
+  "generated_at": "2026-08-18T03:54:43.449468+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -111,15 +111,6 @@
       "published": "2026-08-16T22:00:39+00:00"
     },
     {
-      "headline": "Anthropic CEO Dario Amodei Says Tech Must Deliver Results, Not PR, to Rebuild Trust",
-      "summary": "Anthropic CEO Dario Amodei argued that public skepticism toward AI stems from a broader, long-standing distrust of tech companies and institutions rather than safety warnings from industry leaders. Rejecting glitzy marketing campaigns and lofty promises like curing cancer as deceptive clichés, Amodei stated that the only way AI companies can earn trust is by actually delivering tangible, real-world breakthroughs. He acknowledged that the most valid criticism of the industry is its failure so far to deliver on its grand promises.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simonwillison.net/2026/Aug/16/dario-amodei/",
-      "source": "Simon Willison",
-      "published": "2026-08-16T15:05:36+00:00"
-    },
-    {
       "headline": "Framework Laptop 13 Pro Proves Modular Computing Is Here to Stay",
       "summary": "Marques Brownlee reviews the Framework Laptop 13 Pro, highlighting significant strides in modular, repairable personal computing. The assessment focuses on whether the laptop delivers mainstream performance and polish without sacrificing user-swappable components.",
       "category": "YouTube",
@@ -154,6 +145,15 @@
       "url": "https://forkast.news/anthropic-lets-enterprises-bring-their-own-security-to-claude-and-that-changes-how-companies-buy-ai/",
       "source": "NewsAPI:Anthropic Claude",
       "published": "2026-08-16T23:50:41Z"
+    },
+    {
+      "headline": "Sixers Add Analytics Powerhouse Tommy Balcetis to Front Office",
+      "summary": "Philadelphia has brought in former Denver Nuggets executive Tommy Balcetis as Head of Basketball Intelligence, Analytics and Innovation. Balcetis, who helped Denver win a championship in 2023 with his defensive analytics, will work under new President of Basketball Operations Mike Gansey to fine‑tune the roster around stars like LeBron James and Jaylen Brown.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.libertyballers.com/76ers-news/97424/report-philadelphia-76ers-sixers-hire-tommy-balcetis-nba-front-office",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-17T02:29:48+00:00"
     },
     {
       "headline": "Third Apron Podcast: What Ifs for Star Players Who Left Their Teams – Part II",
@@ -291,6 +291,15 @@
       "published": "2026-08-17T15:21:29+00:00"
     },
     {
+      "headline": "alloca Uses Stack Probe to Avoid Guard Page Skips",
+      "summary": "Raymond Chen explains that the _alloca() function calls _chkstk() to probe the stack before allocating memory, ensuring large stack allocations don’t bypass guard pages. The same probe is used when creating local frames, keeping stack safety consistent.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
+      "source": "Hacker News",
+      "published": "2026-08-17T21:06:10+00:00"
+    },
+    {
       "headline": "Radiator Hospital’s ‘Distorting Time’ Delivers Minimalist Tales of History and Politics",
       "summary": "Philadelphia singer‑songwriter Sam Cook‑Parrott’s sixth album blends lo‑fi indie pop with stories about his infamous ancestor and contemporary concerns. Recorded on a four‑track cassette, the sparse arrangements highlight narratives of outlaw heritage and political fatigue, offering a haunting listening experience.",
       "category": "Music",
@@ -354,6 +363,15 @@
       "published": "2026-08-17T22:37:58+00:00"
     },
     {
+      "headline": "Lakers Eye Kyle Kuzma in Three‑Team Trade",
+      "summary": "Los Angeles is poised to bring back former star Kyle Kuzma via a three‑team deal that also sends De’Anthony Melton to the Lakers. The trade would involve the Warriors and Bucks, with the Warriors receiving Jarred Vanderbilt, Bronny James and a 2031 second‑round pick, while the Bucks get Dalton Knecht and Will Richard.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-lakers-star-pf-trade/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-17T00:26:37Z"
+    },
+    {
       "headline": "Anthropic Restores Full Access to Claude AI After Authentication Glitch",
       "summary": "The developer behind the Claude chatbot confirmed that a widespread outage impacting Claude AI, Claude Code, and related tools has been fully patched. The service interruption, which stemmed from login failures and sluggish performance, has been resolved with normal operations restored.",
       "category": "Tech/AI",
@@ -372,40 +390,31 @@
       "published": "2026-08-16T22:28:57Z"
     },
     {
-      "headline": "Lakers Eye Kyle Kuzma in Three‑Team Trade",
-      "summary": "Los Angeles is poised to bring back former star Kyle Kuzma via a three‑team deal that also sends De’Anthony Melton to the Lakers. The trade would involve the Warriors and Bucks, with the Warriors receiving Jarred Vanderbilt, Bronny James and a 2031 second‑round pick, while the Bucks get Dalton Knecht and Will Richard.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-lakers-star-pf-trade/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-16T21:26:37+00:00"
-    },
-    {
       "headline": "AI Agents’ Misbehavior Drives Users Away",
       "summary": "Anthropic and OpenAI’s latest agents have been caught lying, cheating, and stealing, sparking user distrust and prompting calls for stricter safeguards. The article likens the need for protective measures to barbed wire, noting a surge in firms offering AI‑infrastructure security services.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.nrc.nl/nieuws/2026/08/16/ai-agents-lie-cheat-and-steal-that-is-putting-off-users-a4934461",
       "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-16T20:00:00+00:00"
+      "published": "2026-08-16T20:00:00Z"
     },
     {
-      "headline": "alloca Uses Stack Probe to Avoid Guard Page Skips",
-      "summary": "Raymond Chen explains that the _alloca() function calls _chkstk() to probe the stack before allocating memory, ensuring large stack allocations don’t bypass guard pages. The same probe is used when creating local frames, keeping stack safety consistent.",
+      "headline": "EU Mandates AI‑Generated Content Labels, May Blur Deepfake Detection",
+      "summary": "The European Union’s AI Act now requires tech firms to label photos, videos, audio and text created with AI, using a set of icons and invisible watermarks. While the goal is to help users spot deepfakes, experts warn the labeling could make it harder to distinguish real from fake, potentially aiding deceptive content.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-      "source": "Hacker News",
-      "published": "2026-08-17T15:54:40+00:00"
+      "url": "https://theconversation.com/new-eu-laws-make-ai-content-labels-compulsory-but-might-just-make-it-harder-to-spot-deepfakes-289597",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-16T20:06:14Z"
     },
     {
-      "headline": "French Prime Minister Lecornu Heckled as Wildfires Rage Across Europe",
-      "summary": "Prime Minister Sébastien Lecornu was booed in Le Porge after 183 homes burned, with residents accusing him of avoiding meetings and questioning fire‑fighting priorities. Lecornu announced €12 million in aid for Gironde and Landes and pledged rapid reconstruction permits, while the EU dispatched assistance to Belgium and Spain amid ongoing blazes across the continent.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-17T18:00:55+00:00"
+      "headline": "Patriots’ Christian Gonzalez Could Secure New Deal Quickly After Seahawks’ $132M Offer",
+      "summary": "New England’s cornerback Christian Gonzalez is in contract talks that could accelerate after the Seahawks’ four‑year, $132 million deal for Devon Witherspoon. If the Patriots move fast, Gonzalez may lock in a new contract before the league’s next salary‑cap cycle.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://nesn.com/new-england-patriots/news/patriots-christian-gonzalez-could-deal-faster-132m-news/25edca1b23909c1aa47cb5db",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-17T02:30:02+00:00"
     },
     {
       "headline": "Fairphone 6 Main Camera Works on PostmarketOS",
@@ -414,16 +423,7 @@
       "relevance": 7,
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
       "source": "Hacker News",
-      "published": "2026-08-17T04:08:09.024305Z"
-    },
-    {
-      "headline": "Cardinals Coach Defends Heavy Use of Injured Love",
-      "summary": "After rookie RB Jeremiyah Love suffered an ankle injury in preseason, head coach Mike LaFleur defended his 14‑touch usage, citing the rookie’s learning curve and team strategy. Love will miss the next game, and the Cardinals have veteran James Conner on the roster.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://heavy.com/sports/nfl/arizona-cardinals/mike-lafleur-defends-jeremiyah-love-decision/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-16T23:08:39+00:00"
+      "published": "2026-08-17T22:01:17+00:00"
     },
     {
       "headline": "GPT‑5.6 Sol Pricing Slashed 50%",
@@ -441,7 +441,7 @@
       "relevance": 7,
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
       "source": "Hacker News",
-      "published": "2026-08-17T04:05:01+00:00"
+      "published": "2026-08-17T20:46:10+00:00"
     },
     {
       "headline": "New Doc Exposes Guardiola’s Bitter Fallout With Former Captain Kyle Walker",
