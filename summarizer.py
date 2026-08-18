@@ -2,17 +2,18 @@
 summarizer.py — two-pass AI pipeline with code-enforced category quotas
 and a multi-provider fallback chain.
 
-Provider waterfall (tried in order, automatic fallback on ANY failure):
-  1. Groq     — llama-3.3-70b-versatile      (best quality, 100k TPD free)
-  2. Cerebras — llama-4-scout-17b-16e-instruct (CEREBRAS_API_KEY; llama-3.3-70b was
-                                                deprecated on Cerebras Feb 2026)
-  3. Gemini   — gemini-flash-latest          (GEMINI_API_KEY; pinned versions keep
-                                                getting sunset out from under new keys,
-                                                so this tracks Google's current release)
-  4. Groq     — openai/gpt-oss-120b      (same key, strong production model)
-  5. Groq     — openai/gpt-oss-20b       (same key, separate quota from 120b)
-  6. Groq     — qwen/qwen3.6-27b         (same key, separate quota)
-  7. Groq     — llama-3.1-8b-instant     (same key, last resort, ~500k TPD)
+Provider waterfall (tried in order, automatic fallback on ANY failure).
+Models are defined in GEMINI_MODELS / GROQ_MODELS below — edit there, not here:
+
+  Pass 1 (triage):   Groq bench -> Cerebras -> Gemini bench
+  Pass 2 (summaries): Gemini bench -> Groq bench -> Cerebras
+
+  Groq bench   — gpt-oss-120b, gpt-oss-20b (200k TPD each), then compound and
+                 compound-mini (no TPD cap, 250 RPD), then qwen3.6-27b (preview)
+  Gemini bench — gemini-flash-latest, then pinned 3.5/2.5 flash + flash-lite
+                 variants; free-tier quota is metered per model, so each is a
+                 separate daily budget rather than a retry of a spent one
+  Cerebras     — llama-4-scout-17b-16e-instruct (only if CEREBRAS_API_KEY is set)
 
 The chain falls through on any provider error (rate-limit, decommissioned
 model, network blip), so one provider breaking never kills the run. Any
@@ -95,8 +96,12 @@ _BROWSER_UA = (
 )
 
 
-def _gemini_call(key: str):
-    """Call Google Gemini via its REST API (no extra package needed)."""
+def _gemini_call(key: str, model: str):
+    """Call Google Gemini via its REST API (no extra package needed).
+
+    `model` is a parameter (not hardcoded) so the chain can waterfall across
+    several Gemini models — the free tier meters quota PER MODEL, so a 429 on
+    one model says nothing about the next one's remaining budget."""
     import urllib.request
     def call(messages, temperature, max_tokens, json_mode):
         # Flatten messages to a single prompt for Gemini
@@ -119,7 +124,7 @@ def _gemini_call(key: str):
             "generationConfig": generation_config,
         }).encode()
         url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-               f"gemini-flash-latest:generateContent?key={key}")
+               f"{model}:generateContent?key={key}")
         req = urllib.request.Request(url, data=body,
                                      headers={"Content-Type": "application/json",
                                               "User-Agent": _BROWSER_UA})
@@ -159,54 +164,73 @@ def _openai_compat_call(base_url: str, key: str, model: str):
     return call
 
 
+# Gemini free-tier quota is metered PER MODEL, so each entry here is a fresh
+# daily budget, not a retry of the same one. Ordered newest/strongest first,
+# with the lite variants after — they're weaker per call but the whole point
+# of a deep bench is having something left when the good ones are spent.
+# `gemini-flash-latest` is an alias that tracks Google's current release
+# (pinned versions keep getting sunset out from under new keys); the pinned
+# IDs below it are there so the chain survives the alias itself 429ing.
+GEMINI_MODELS = [
+    "gemini-flash-latest",
+    "gemini-3.5-flash-lite",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-3.1-flash-lite",
+]
+
+# Groq production models, each with its own separate free-tier quota.
+# NOTE (2026-08-18): llama-3.3-70b-versatile and llama-3.1-8b-instant were
+# BOTH removed from Groq — they 404'd on every call, silently costing the
+# chain two of its slots. Groq's production line is now the gpt-oss pair
+# plus the compound systems. The compound systems carry no TPD cap at all
+# (250 RPD / 70k TPM), which makes them the natural late-chain backstop for
+# exactly the case that keeps biting: gpt-oss TPD exhausted mid-day.
+# qwen3.6-27b is preview-tier with an 8k TPM ceiling that our larger prompts
+# routinely exceed (413), so it sits dead last — free when it works, no loss
+# when it doesn't.
+GROQ_MODELS = [
+    ("Groq/gpt-oss-120b",   "openai/gpt-oss-120b"),
+    ("Groq/gpt-oss-20b",    "openai/gpt-oss-20b"),
+    ("Groq/compound",       "groq/compound"),
+    ("Groq/compound-mini",  "groq/compound-mini"),
+    ("Groq/qwen3.6-27b",    "qwen/qwen3.6-27b"),
+]
+
+
 def _build_provider_chain(prefer_gemini: bool = False):
     """Build the list of available providers at runtime based on which keys exist.
     Ordered by output quality — best first, last-resort fallbacks last.
 
-    `prefer_gemini`: put Gemini first instead of third. Used for Pass 2 (full-
-    article summaries) — those prompts are much bigger than triage's, and
-    Gemini's free tier has far more headroom than Groq's tight daily token cap,
-    which triage (run on every article, every run) already consumes most of.
-    Keeping summaries off Groq-first leaves more of that scarce budget for
-    triage instead of the two passes competing for the same quota."""
+    `prefer_gemini`: put the Gemini bench first instead of after Groq. Used for
+    Pass 2 (full-article summaries) — those prompts are much bigger than
+    triage's, and Groq's 200k tokens-per-day cap is the scarcer resource, which
+    triage (run on every article, every run) already consumes most of. Keeping
+    summaries off Groq-first leaves more of that budget for triage instead of
+    the two passes competing for the same quota."""
     groq_key = os.environ.get("GROQ_API_KEY")
     gemini_key = os.environ.get("GEMINI_API_KEY")
     cerebras_key = os.environ.get("CEREBRAS_API_KEY")
 
-    gemini_entry = ("Gemini/gemini-flash-latest", _gemini_call(gemini_key)) if gemini_key else None
+    gemini_chain = ([(f"Gemini/{m}", _gemini_call(gemini_key, m)) for m in GEMINI_MODELS]
+                    if gemini_key else [])
+    groq_chain = ([(label, _groq_call(model, groq_key)) for label, model in GROQ_MODELS]
+                  if groq_key else [])
 
     chain = []
-    if prefer_gemini and gemini_entry:
-        chain.append(gemini_entry)
+    if prefer_gemini:
+        chain += gemini_chain
 
-    # Tier 1 — best available on each provider (Groq's llama-3.3-70b is the
-    # top pick; Cerebras deprecated 3.3-70b in Feb 2026, so llama-4-scout is
-    # its current best fast/free option — not identical weights anymore, but
-    # still meaningfully better than dropping straight to the 8b last resort)
-    if groq_key:
-        chain.append(("Groq/llama-3.3-70b-versatile",
-                       _groq_call("llama-3.3-70b-versatile", groq_key)))
+    chain += groq_chain
+
     if cerebras_key:
         chain.append(("Cerebras/llama-4-scout-17b-16e-instruct",
                        _openai_compat_call(
                            "https://api.cerebras.ai/v1",
                            cerebras_key, "llama-4-scout-17b-16e-instruct")))
 
-    if not prefer_gemini and gemini_entry:
-        chain.append(gemini_entry)
-
-    # Tier 3 — other Groq production models (last resort, same key). Each
-    # model has its own separate free-tier quota (not a shared pool), so
-    # these add real fallback capacity rather than just redundancy.
-    if groq_key:
-        chain.append(("Groq/gpt-oss-120b",
-                       _groq_call("openai/gpt-oss-120b", groq_key)))
-        chain.append(("Groq/gpt-oss-20b",
-                       _groq_call("openai/gpt-oss-20b", groq_key)))
-        chain.append(("Groq/qwen3.6-27b",
-                       _groq_call("qwen/qwen3.6-27b", groq_key)))
-        chain.append(("Groq/llama-3.1-8b-instant",
-                       _groq_call("llama-3.1-8b-instant", groq_key)))
+    if not prefer_gemini:
+        chain += gemini_chain
 
     if not chain:
         raise RuntimeError("No AI provider keys found. Set at least GROQ_API_KEY.")

@@ -164,6 +164,19 @@ def fetch_newsapi() -> list[dict]:
             print("  ! NEWSAPI_KEY not set — skipping NewsAPI layer")
         return []
 
+    # Duty cycle. The cron runs ~96x/day and the free plan allows 100 requests
+    # /day total, so calling NewsAPI every run burns the whole daily budget
+    # before lunch and 429s for the rest of the day. Only run inside the hours
+    # configured in NEWSAPI_HOURS_UTC. An empty/missing list = every run (the
+    # old behavior), which will blow the cap — it's opt-out on purpose.
+    hours = getattr(config, "NEWSAPI_HOURS_UTC", None)
+    if hours:
+        now_hour = datetime.now(timezone.utc).hour
+        if now_hour not in hours:
+            print(f"  - NewsAPI: skipped (hour {now_hour:02d} UTC not in "
+                  f"{sorted(hours)} — staying under the 100 req/day cap)")
+            return []
+
     # The free/Developer NewsAPI plan embargoes articles for ~24h before
     # they're queryable at all — asking for "from FRESHNESS_HOURS ago" (24h)
     # is exactly the embargoed window, so it always returns 0 on that plan.

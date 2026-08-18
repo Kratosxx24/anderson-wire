@@ -101,12 +101,29 @@ SOURCE_RULES = {
 # run on RSS alone (fully free, no key needed).
 # ---------------------------------------------------------------------------
 
-# Re-enabled 2026-08-13. Kept short (3 keywords) since the cron now runs
-# ~4x/hour (~15-20 runs/day) — 3 keywords x 20 runs = 60 requests/day, safely
-# under the 100/day free cap. Requires a valid NEWSAPI_KEY repo secret (the
-# old one returned 401); if it's still invalid this just no-ops per run
-# without breaking anything else (see fetcher.fetch_newsapi).
+# Re-enabled 2026-08-13.
+#
+# CORRECTED 2026-08-18: the old note here budgeted "~15-20 runs/day", but the
+# cron fires at :07/:22/:37/:52 — 96 runs/day. At 3 keywords that's 288
+# requests against a 100/day cap, and the logs confirm it: all three keywords
+# 429'd on every run from mid-morning on. NewsAPI was effectively dead most of
+# the day, every day.
+#
+# The fix is a duty cycle, not a shorter keyword list — even ONE keyword at 96
+# runs/day would sit right on the cap. NEWSAPI_HOURS_UTC below limits which
+# runs are allowed to call it at all.
 NEWSAPI_KEYWORDS = ["NBA trade", "NFL contract", "Anthropic Claude"]
+
+# Only runs starting within these UTC hours call NewsAPI; every other run skips
+# the layer entirely. Budget = len(HOURS) x 4 runs/hour x len(KEYWORDS).
+# Currently 3 x 4 x 3 = 36/day worst case, comfortably under the 100/day cap.
+#
+# Gated on the hour rather than an exact run slot on purpose: GitHub delays and
+# drops scheduled runs constantly, so pinning this to "the :07 run" would mean
+# silently skipping whole days whenever that slot slipped. Any run inside the
+# hour does the fetch, and the extra ones are deduped downstream anyway.
+# Spread across the day so the wire picks up keyword stories morning/day/night.
+NEWSAPI_HOURS_UTC = [7, 13, 19]
 
 
 # ---------------------------------------------------------------------------
@@ -196,6 +213,8 @@ MAX_HEADLINES_TO_AI = 75
 # anything else (selection is still relevance/quota-driven, not just recency).
 FRESHNESS_HOURS = 36
 
-# Primary model. The fallback chain in summarizer.py automatically waterfalls
-# to Groq 8b, Groq legacy, Gemini, Cerebras, and Together if this hits limits.
-GROQ_MODEL = "llama-3.3-70b-versatile"
+# Models are NOT configured here. The provider waterfall lives in
+# summarizer.py (GEMINI_MODELS / GROQ_MODELS) because the order matters as much
+# as the names — edit it there. (A GROQ_MODEL setting used to sit here; it was
+# read by nothing, and still pointed at llama-3.3-70b-versatile months after
+# Groq removed that model, so it looked like config while doing nothing.)
