@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T16:16:36.409997+00:00",
+  "generated_at": "2026-08-19T16:52:24.340247+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -147,6 +147,15 @@
       "published": "2026-08-19T04:01:00+00:00"
     },
     {
+      "headline": "U.S. Military Strained as Iran Rapidly Produces Cheap Weaponry",
+      "summary": "Defense analyst Stacie Pettyjohn points out that the U.S. military is currently struggling with depleted long-range missile stocks, abandoned regional bases, and extended troop deployments. Meanwhile, Iran maintains a distinct tactical advantage by quickly manufacturing inexpensive weapons.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "source": "NPR News",
+      "published": "2026-08-19T12:18:35-04:00"
+    },
+    {
       "headline": "NBA Intelligence Roundup: Kawhi Investigation And Team Updates",
       "summary": "The latest Basketball Intelligence newsletter covers league-wide rumblings, including an investigation into the Clippers and Steve Ballmer that could impact the salary cap. Other featured breakdowns analyze the Lakers' organizational shifts following their sale, Chicago's roster weaknesses, and the latest free agent movement.",
       "category": "NBA",
@@ -171,7 +180,7 @@
       "relevance": 8,
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
-      "published": "2026-08-19T15:45:50+00:00"
+      "published": "2026-08-19T16:46:51+00:00"
     },
     {
       "headline": "Five Keys for the Chiefs Offense to Break Out of a Three-Year Slump",
@@ -228,15 +237,6 @@
       "published": "2026-08-18T22:23:45+00:00"
     },
     {
-      "headline": "IDF Admits Firing on Hind Rajab's Vehicle in Gaza",
-      "summary": "The Israeli military has confirmed for the first time that its troops opened fire on a vehicle carrying five-year-old Hind Rajab and her relatives in Gaza City during January 2024. The admission comes as the IDF initiates a Military Police criminal investigation into both the family's killing and a coordinated Red Crescent ambulance strike. The tragic incident previously drew international condemnation and inspired an Oscar-nominated film.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-19T15:33:32+00:00"
-    },
-    {
       "headline": "Big Ten and SEC Launch Inaugural Volleyball Challenge Week, Culminating at Wrigley Field",
       "summary": "",
       "category": "Sports",
@@ -244,6 +244,24 @@
       "url": "https://volleyballmag.com/big-ten-and-sec-launch-inaugural-volleyball-challenge-week/?utm_source=rss&utm_medium=rss&utm_campaign=big-ten-and-sec-launch-inaugural-volleyball-challenge-week",
       "source": "Volleyball Mag",
       "published": "2026-08-18T12:15:10+00:00"
+    },
+    {
+      "headline": "Computer-Generated 2026 Fantasy Football Sleepers Released",
+      "summary": "CBS Sports has dropped its 2026 fantasy football sleepers, utilizing the same predictive computer model that accurately forecasted De'Von Achane's breakout campaign. The projections aim to give fantasy managers an early edge by identifying undervalued talent ahead of the upcoming NFL season.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-superb-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-19T15:03:29+00:00"
+    },
+    {
+      "headline": "Fantasy Football RB Tiers Downgrade Breece Hall and Jeremiyah Love",
+      "summary": "CBS Sports analyst Heath Cummings has released his updated 2026 running back tiers, adjusting rankings to account for rising injury concerns. Both Breece Hall and Jeremiyah Love took hits in the latest shuffle, dropping them down the draft board for fantasy managers.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/heath-cummings-fantasy-football-running-back-tiers-2-0/",
+      "source": "CBS Sports",
+      "published": "2026-08-19T14:53:19+00:00"
     },
     {
       "headline": "Grading College Basketball's Transfer Portal Moves",
@@ -273,6 +291,15 @@
       "published": "2026-08-18T21:39:20+00:00"
     },
     {
+      "headline": "Ornith-1.5 Launches End-to-End AI Self-Improvement Loop",
+      "summary": "The new Ornith-1.5 model family introduces an autonomous self-improvement loop where the AI proposes tasks, builds scaffolds, and generates its own reinforcement learning solutions. Spanning scales from a 397B MoE down to an edge-deployable 9B model, it matches leading proprietary models like Claude Opus 4.8 on major coding and reasoning benchmarks while outperforming peer open-source networks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "source": "Hacker News",
+      "published": "2026-08-19T14:48:39+00:00"
+    },
+    {
       "headline": "Geolocating an Islet via Geometry and CUDA",
       "summary": "A developer bypassed automated tools like Google Lens to solve a map challenge using custom Python scripts and CUDA GPU acceleration. By extracting a geometric fingerprint of three islands and filtering global coastlines within tropical latitudes, the program successfully pinpointed the target location.",
       "category": "Tech/AI",
@@ -298,15 +325,6 @@
       "url": "https://www.cerebras.ai/cs4",
       "source": "Hacker News",
       "published": "2026-08-19T00:28:18+00:00"
-    },
-    {
-      "headline": "Turbovec Brings Google's TurboQuant to Rust for Lean, High-Speed Vector Search",
-      "summary": "A new open-source vector search library called Turbovec slashes a 10-million-document corpus from 31 GB of RAM down to just 4 GB using Google's TurboQuant algorithm. Written in Rust with Python bindings, the engine eliminates the traditional training phase to allow immediate vector ingestion alongside crash-safe incremental syncs. Its hand-written SIMD kernels deliver search speeds averaging 3.4 times faster than FAISS at 4-bit quantization, targeting local and privacy-focused RAG deployments.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "source": "Hacker News",
-      "published": "2026-08-18T18:07:21+00:00"
     },
     {
       "headline": "Pure C GPT Implementation Hits 10 Million Tokens Per Second on M5 Mac",
@@ -363,58 +381,40 @@
       "published": "2026-08-19T04:00:00+00:00"
     },
     {
-      "headline": "US Slams Israeli Airstrikes on Syrian Airbase as Unnecessary Escalation",
-      "summary": "The United States issued a rare rebuke against Israel following eight airstrikes on the Abu Duhur military base near the Turkish border. While Syria and Turkey condemned the attack as a violation of sovereignty, Israel claimed Syria was on the verge of breaching a security status quo by permitting Turkish troop deployments. No injuries were reported from the Tuesday raid.",
+      "headline": "IDF Admits Firing on Hind Rajab's Vehicle in Gaza",
+      "summary": "The Israeli military has confirmed for the first time that its troops opened fire on a vehicle carrying five-year-old Hind Rajab and her relatives in Gaza City during January 2024. The admission comes as the IDF initiates a Military Police criminal investigation into both the family's killing and a coordinated Red Crescent ambulance strike. The tragic incident previously drew international condemnation and inspired an Oscar-nominated film.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-19T00:48:16+00:00"
+      "published": "2026-08-19T15:33:32+00:00"
     },
     {
-      "headline": "Celtics Owner Admits Fan Emotion Made Jaylen Brown Trade Tough",
-      "summary": "Boston Celtics owner Bill Chisholm confessed that parting ways with Jaylen Brown was a difficult pill to swallow on a personal level. Despite maintaining complete trust in the front office, he admitted it took a conscious effort to quiet his inner super fan and look at the move objectively.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vslxjy/celtics_owner_bill_chisholm_on_the_jaylen_brown/",
-      "source": "r/NBA",
-      "published": "2026-08-19T13:07:17+00:00"
-    },
-    {
-      "headline": "Ornith-1.5 Launches End-to-End AI Self-Improvement Loop",
-      "summary": "The new Ornith-1.5 model family introduces an autonomous self-improvement loop where the AI proposes tasks, builds scaffolds, and generates its own reinforcement learning solutions. Spanning scales from a 397B MoE down to an edge-deployable 9B model, it matches leading proprietary models like Claude Opus 4.8 on major coding and reasoning benchmarks while outperforming peer open-source networks.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://ornith.ai/ornith_1_5.html",
-      "source": "Hacker News",
-      "published": "2026-08-19T14:48:39+00:00"
-    },
-    {
-      "headline": "Computer-Generated 2026 Fantasy Football Sleepers Released",
-      "summary": "CBS Sports has dropped its 2026 fantasy football sleepers, utilizing the same predictive computer model that accurately forecasted De'Von Achane's breakout campaign. The projections aim to give fantasy managers an early edge by identifying undervalued talent ahead of the upcoming NFL season.",
+      "headline": "Texas and Ohio State Lead 2026 College Football Rosters",
+      "summary": "Anonymous insiders have ranked the top college football rosters for the 2026 season. Texas and Ohio State lead the pack in what promises to be a heavily contested and competitive field.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-superb-year/",
+      "url": "https://www.cbssports.com/college-football/news/college-football-best-rosters-2026-texas-ohio-state/",
       "source": "CBS Sports",
-      "published": "2026-08-19T15:03:29+00:00"
+      "published": "2026-08-19T16:48:15+00:00"
     },
     {
-      "headline": "The Mystery of Russell Westbrook's Free Throw Decline",
-      "summary": "A glaring statistical shift has baffled observers as Russell Westbrook's career free-throw percentage plummeted from 81.4% between 2009 and 2018 down to 67.9% from 2019 onward. Such a steep, sustained drop late in a career is virtually unprecedented for a player who was not already a poor shooter.",
-      "category": "NBA",
+      "headline": "Ousted Ukrainian Defense Minister Demands Wartime Elections",
+      "summary": "Recently sacked defense minister Mykhailo Fedorov has publicly called for wartime elections, posing a major political threat to President Volodymyr Zelensky. Fedorov cited a systemic governance crisis and rampant corruption that deprives troops of necessary equipment, sparking protests and a concurrent anti-corruption sweep in Kyiv.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vs6ivd/from_2009_to_2018_russell_westbrooks_ft_was_814/",
-      "source": "r/NBA",
-      "published": "2026-08-19T00:08:31+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-19T01:31:15.432Z"
     },
     {
-      "headline": "Fantasy Football RB Tiers Downgrade Breece Hall and Jeremiyah Love",
-      "summary": "CBS Sports analyst Heath Cummings has released his updated 2026 running back tiers, adjusting rankings to account for rising injury concerns. Both Breece Hall and Jeremiyah Love took hits in the latest shuffle, dropping them down the draft board for fantasy managers.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/heath-cummings-fantasy-football-running-back-tiers-2-0/",
+      "headline": "Jaguars Land Former Ravens Starter in Trade with Giants",
+      "summary": "The Jacksonville Jaguars have acquired offensive talent Daniel Faalele in a trade with the New York Giants. The deal sees John Harbaugh shipping off a familiar face as the Jaguars look to bolster their roster with proven starting experience.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/giants-jaguars-daniel-faalele-trade-grades/",
       "source": "CBS Sports",
-      "published": "2026-08-19T14:53:19+00:00"
+      "published": "2026-08-19T16:03:56+00:00"
     },
     {
       "headline": "Highway Hijackers Target AI Hardware in Violent Cargo Heists",
@@ -435,13 +435,13 @@
       "published": "2026-08-18T14:54:28+00:00"
     },
     {
-      "headline": "Jaguars Land Former Ravens Starter in Trade with Giants",
-      "summary": "The Jacksonville Jaguars have acquired offensive talent Daniel Faalele in a trade with the New York Giants. The deal sees John Harbaugh shipping off a familiar face as the Jaguars look to bolster their roster with proven starting experience.",
-      "category": "NFL",
+      "headline": "High-Speed Star Discovered Orbiting Milky Way's Supermassive Black Hole",
+      "summary": "Astronomers have identified a star designated S301 whipping around the Milky Way's central black hole at speeds exceeding 15,000 miles per second at its closest approach. This extreme velocity offers researchers valuable new data on the gargantuan, four-million-solar-mass black hole dominating our galaxy's center.",
+      "category": "World",
       "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/giants-jaguars-daniel-faalele-trade-grades/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T16:03:56+00:00"
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
+      "source": "NPR News",
+      "published": "2026-08-19T11:38:57-04:00"
     },
     {
       "headline": "Monet's Normandy Haven Trouville-sur-Mer Retains Its Timeless Charm",
