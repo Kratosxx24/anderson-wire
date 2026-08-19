@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:12:25.236839+00:00",
+  "generated_at": "2026-08-19T21:46:19.133990+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -189,7 +189,7 @@
       "relevance": 8,
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
-      "published": "2026-08-19T20:33:45+00:00"
+      "published": "2026-08-19T20:56:09+00:00"
     },
     {
       "headline": "Bergen Reilly Leads NCAA.com's Top Setters",
@@ -255,33 +255,6 @@
       "published": "2026-08-19T16:26:57+00:00"
     },
     {
-      "headline": "Michigan Basketball 2026-27 Roster Outlook",
-      "summary": "CBS Sports breaks down the roster and projected starting lineup for the reigning national champion Michigan basketball team heading into the 2026-27 season. The preview analyzes how the program plans to reload and maintain its championship standard.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/college-basketball/news/michigan-basketball-2026-27-roster-starting-lineup/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T16:41:06+00:00"
-    },
-    {
-      "headline": "Five Keys for the Chiefs Offense to Break Out of a Three-Year Slump",
-      "summary": "Patrick Mahomes and the Kansas City offense are facing scrutiny after a three-year offensive drought. Analysts have outlined five critical areas the team must address to engineer a major turnaround. Fixing these specific structural issues will determine if the unit can return to dominant form.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-chiefs-offense-rebound/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T18:01:51+00:00"
-    },
-    {
-      "headline": "Computer-Generated 2026 Fantasy Football Sleepers Released",
-      "summary": "CBS Sports has dropped its 2026 fantasy football sleepers, utilizing the same predictive computer model that accurately forecasted De'Von Achane's breakout campaign. The projections aim to give fantasy managers an early edge by identifying undervalued talent ahead of the upcoming NFL season.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-superb-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T15:03:29+00:00"
-    },
-    {
       "headline": "Apple Slams DOJ Antitrust Pushback",
       "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
       "category": "Tech/AI",
@@ -325,6 +298,15 @@
       "url": "https://ornith.ai/ornith_1_5.html",
       "source": "Hacker News",
       "published": "2026-08-19T14:48:39+00:00"
+    },
+    {
+      "headline": "Moderna and Merck Score Historic Phase 3 Win for Melanoma mRNA Therapy",
+      "summary": "Moderna and Merck announced positive Phase 3 results for intismeran autogene, an individualized mRNA neoantigen therapy combined with KEYTRUDA in resected stage IIB-IV melanoma patients. The trial successfully hit its primary endpoint of recurrence-free survival alongside a secondary endpoint for distant metastasis-free survival. This marks the first successful Phase 3 trial for both an mRNA cancer therapy and an individualized neoantigen treatment.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "source": "Hacker News",
+      "published": "2026-08-19T13:33:35+00:00"
     },
     {
       "headline": "Evaluating Faith and Identity in Christian Higher Education",
@@ -417,13 +399,22 @@
       "published": "2026-08-19T20:09:39+00:00"
     },
     {
-      "headline": "Moderna and Merck Score Historic Phase 3 Win for Melanoma mRNA Therapy",
-      "summary": "Moderna and Merck announced positive Phase 3 results for intismeran autogene, an individualized mRNA neoantigen therapy combined with KEYTRUDA in resected stage IIB-IV melanoma patients. The trial successfully hit its primary endpoint of recurrence-free survival alongside a secondary endpoint for distant metastasis-free survival. This marks the first successful Phase 3 trial for both an mRNA cancer therapy and an individualized neoantigen treatment.",
+      "headline": "Unsloth Rolls Out Dynamic 3.0 GGUFs with Qwen3.8-27B",
+      "summary": "Unsloth has released Dynamic v3.0 GGUF quants for Qwen3.8-27B, delivering over 10 percent better top-1 accuracy at identical file sizes compared to competing providers. The update relies on post-training quantization using a refined imatrix dataset tailored for agentic coding and multilingual tasks, while dropping the MTP module on smaller quants to save disk space. These new models are fully compatible with llama.cpp and Unsloth Desktop.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
       "source": "Hacker News",
-      "published": "2026-08-19T12:16:04.000Z"
+      "published": "2026-08-19T18:36:45+00:00"
+    },
+    {
+      "headline": "OpenRouter Acquired by Stripe to Scale AI Infrastructure",
+      "summary": "Model marketplace and gateway OpenRouter is being acquired by Stripe after experiencing tenfold yearly inference growth and scaling to over ten trillion tokens processed daily. OpenRouter will maintain its current branding, product roadmap, and standalone operations while leveraging Stripe to expand its infrastructure. The platform remains committed to offering developer choice across more than 400 models without favoring specific providers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "source": "Hacker News",
+      "published": "2026-08-19T00:00:00.000Z"
     },
     {
       "headline": "Seahawks Add Former Cowboys Cornerback Trevon Diggs",
@@ -435,13 +426,13 @@
       "published": "2026-08-19T18:31:02+00:00"
     },
     {
-      "headline": "Y Combinator Alum OneCLI Launches Open-Source Agent Harness for Teams",
-      "summary": "OneCLI (YC S26) has released an open-source, sandboxed agent harness designed to securely equip every employee with a personal AI assistant. The platform addresses enterprise bottlenecks by providing credential management, permission controls, and policy enforcement for team-wide autonomous agents. Companies can either deploy the Rust-backed software locally or utilize its cloud-hosted option.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/onecli/onecli",
-      "source": "Hacker News",
-      "published": "2026-08-19T16:29:02+00:00"
+      "headline": "Tyrese Haliburton Opens Up About Finals Achilles Tear",
+      "summary": "Tyrese Haliburton discussed the devastating moment he tore his Achilles during the NBA Finals. The discussion provides a firsthand look at the star player's injury and the road ahead.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1vswgp4/numbers_on_the_board_tyrese_haliburton_on_tearing/",
+      "source": "r/NBA",
+      "published": "2026-08-19T19:27:12+00:00"
     },
     {
       "headline": "Study Shows Remote Employees Enjoy Highest Well-Being",
@@ -451,6 +442,15 @@
       "url": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
       "source": "Hacker News",
       "published": "2026-08-19T15:32:08+00:00"
+    },
+    {
+      "headline": "NBA Denial of ESPN Report Points to Significant Inaccuracies",
+      "summary": "Commentators analyze the rare official denial issued by the NBA regarding a recent ESPN article, noting the league's history makes such direct pushback unprecedented. Based on prior investigations, reporters suggest the disputed claims closely mirror past controversies involving the Clippers.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1vsufen/amin_on_nba_denial_of_espn_article_it_probably/",
+      "source": "r/NBA",
+      "published": "2026-08-19T18:15:07+00:00"
     }
   ]
 }
