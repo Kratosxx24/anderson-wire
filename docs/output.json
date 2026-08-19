@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:58:32.263572+00:00",
+  "generated_at": "2026-08-19T23:32:39.967203+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -201,6 +201,15 @@
       "published": "2026-08-19T04:01:00+00:00"
     },
     {
+      "headline": "Ornith-1.5 AI Model Family Achieves Closed-Loop Self-Improvement",
+      "summary": "The newly released Ornith-1.5 model lineup spans three scales, from a 9B dense model to a flagship 397B MoE, utilizing an automated self-improvement loop of task generation, scaffolding, and reinforcement learning. The largest 397B variant matches Claude Opus 4.8 on benchmarks like Terminal-Bench 2.1 and DeepSWE. Meanwhile, the compact 9B mobile version punches above its weight, outperforming significantly larger open-source models such as Gemma 4-31B and Qwen 3.6-35B.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://ornith.ai/ornith_1_5.html",
+      "source": "Hacker News",
+      "published": "2026-08-19T14:48:39+00:00"
+    },
+    {
       "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
       "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
       "category": "NFL",
@@ -217,15 +226,6 @@
       "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
       "source": "Stratechery",
       "published": "2026-08-19T10:00:00+00:00"
-    },
-    {
-      "headline": "Apple Slams DOJ Antitrust Pushback",
-      "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
-      "source": "Daring Fireball",
-      "published": "2026-08-18T22:23:45+00:00"
     },
     {
       "headline": "Bergen Reilly Leads NCAA.com's Top Setters",
@@ -273,13 +273,22 @@
       "published": "2026-08-19T19:47:33+00:00"
     },
     {
-      "headline": "Texas and Ohio State Lead 2026 College Football Rosters",
-      "summary": "Anonymous insiders have ranked the top college football rosters for the 2026 season. Texas and Ohio State lead the pack in what promises to be a heavily contested and competitive field.",
+      "headline": "CBS Sports Runs 10,000 Simulations for 2026 BMW Championship",
+      "summary": "CBS Sports has released its computer-generated predictions and odds for the upcoming 2026 BMW Championship following ten thousand tournament simulations. The betting preview leverages a predictive model boasting a strong track record of hitting major championship outcomes. Bettors and fans are using these data-driven insights to gauge the field and spot value picks ahead of the event.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/college-football/news/college-football-best-rosters-2026-texas-ohio-state/",
+      "url": "https://www.cbssports.com/betting/news/2026-bmw-championship-odds-picks-predictions-field-format-course/",
       "source": "CBS Sports",
-      "published": "2026-08-19T16:48:15+00:00"
+      "published": "2026-08-19T19:38:34+00:00"
+    },
+    {
+      "headline": "Apple Slams DOJ Antitrust Pushback",
+      "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+      "source": "Daring Fireball",
+      "published": "2026-08-18T22:23:45+00:00"
     },
     {
       "headline": "Apple Revamps Traffic Light Window Controls in Latest macOS Beta",
@@ -298,6 +307,15 @@
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "source": "Simon Willison",
       "published": "2026-08-18T21:39:20+00:00"
+    },
+    {
+      "headline": "Anthropic Clashes Over AGENTS.md Standard",
+      "summary": "Developers are pushing Anthropic to adopt the universal AGENTS.md file format for codebase navigation, arguing it works better across multiple tools than the proprietary CLAUDE.md standard. While competitors like Codex, Amp, and Cursor have started rallying around the unified markdown approach, Anthropic's platform remains siloed. This creates friction for multi-developer teams utilizing various AI assistants on the same project.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/anthropics/claude-code/issues/6235",
+      "source": "Hacker News",
+      "published": "2026-08-19T21:19:50+00:00"
     },
     {
       "headline": "Unsloth Rolls Out Dynamic 3.0 GGUFs with Qwen3.8-27B",
@@ -424,24 +442,6 @@
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
       "source": "NPR News",
       "published": "2026-08-19T20:09:39+00:00"
-    },
-    {
-      "headline": "Anthropic Clashes Over AGENTS.md Standard",
-      "summary": "Developers are pushing Anthropic to adopt the universal AGENTS.md file format for codebase navigation, arguing it works better across multiple tools than the proprietary CLAUDE.md standard. While competitors like Codex, Amp, and Cursor have started rallying around the unified markdown approach, Anthropic's platform remains siloed. This creates friction for multi-developer teams utilizing various AI assistants on the same project.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "source": "Hacker News",
-      "published": "2025-08-21T07:22:15.000Z"
-    },
-    {
-      "headline": "CBS Sports Runs 10,000 Simulations for 2026 BMW Championship",
-      "summary": "CBS Sports has released its computer-generated predictions and odds for the upcoming 2026 BMW Championship following ten thousand tournament simulations. The betting preview leverages a predictive model boasting a strong track record of hitting major championship outcomes. Bettors and fans are using these data-driven insights to gauge the field and spot value picks ahead of the event.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/2026-bmw-championship-odds-picks-predictions-field-format-course/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T19:38:34+00:00"
     },
     {
       "headline": "Study Shows Remote Employees Enjoy Highest Well-Being",
