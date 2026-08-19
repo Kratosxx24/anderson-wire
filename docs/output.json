@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T17:14:59.991617+00:00",
+  "generated_at": "2026-08-19T17:46:57.934137+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -10,6 +10,15 @@
       "url": "https://www.thirdapron.com/p/houston-rockets-2026-offseason-reaction",
       "source": "Third Apron",
       "published": "2026-08-18T20:16:13+00:00"
+    },
+    {
+      "headline": "NBA Summer Buzz Covers Draft Fits and Roster Moves",
+      "summary": "Recent NBA reporting highlights various team storylines heading into the season, including Kelvin Sampson backing rookie Chris Cenac Jr.'s fit with the Celtics. Analysts are also examining roster shifts for the Knicks, Bucks, and other franchises as front offices finalize their lineups.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81826-d8d",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-19T16:51:14+00:00"
     },
     {
       "headline": "AFC North Teams Unveil Major Offseason Scheme Overhauls",
@@ -147,13 +156,13 @@
       "published": "2026-08-19T04:01:00+00:00"
     },
     {
-      "headline": "NBA Summer Buzz Covers Draft Fits and Roster Moves",
-      "summary": "Recent NBA reporting highlights various team storylines heading into the season, including Kelvin Sampson backing rookie Chris Cenac Jr.'s fit with the Celtics. Analysts are also examining roster shifts for the Knicks, Bucks, and other franchises as front offices finalize their lineups.",
-      "category": "NBA",
+      "headline": "Terence Tao Analyzes Mathematics in the Age of AI",
+      "summary": "In an essay based on his 2026 International Congress of Mathematicians lecture, Terence Tao examines how artificial intelligence performing research-level tasks impacts the field. Rather than debating AI capabilities, the paper explores the core goals and values of mathematical research, using problem-solving as a primary case study.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81826-d8d",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-19T16:51:14+00:00"
+      "url": "https://arxiv.org/abs/2608.16753",
+      "source": "Hacker News",
+      "published": "2026-08-19T15:14:25+00:00"
     },
     {
       "headline": "Knicks Overtake Celtics in NBA Front Office Rankings",
@@ -219,15 +228,6 @@
       "published": "2026-08-18T10:00:00+00:00"
     },
     {
-      "headline": "Apple Slams DOJ Antitrust Pushback",
-      "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
-      "source": "Daring Fireball",
-      "published": "2026-08-18T22:23:45+00:00"
-    },
-    {
       "headline": "Texas and Ohio State Lead 2026 College Football Rosters",
       "summary": "Anonymous insiders have ranked the top college football rosters for the 2026 season. Texas and Ohio State lead the pack in what promises to be a heavily contested and competitive field.",
       "category": "Sports",
@@ -235,6 +235,15 @@
       "url": "https://www.cbssports.com/college-football/news/college-football-best-rosters-2026-texas-ohio-state/",
       "source": "CBS Sports",
       "published": "2026-08-19T16:48:15+00:00"
+    },
+    {
+      "headline": "Fantasy Football Experts Drop 2026 Draft Rankings",
+      "summary": "SportsLine experts have released comprehensive fantasy football preparation materials for the upcoming season. The updated resources feature tiered player rankings, top 150 picks, breakout candidates, and rookie advice.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-release-rankings-tiers-top-150-picks-rookie-advice/",
+      "source": "CBS Sports",
+      "published": "2026-08-19T16:26:57+00:00"
     },
     {
       "headline": "Computer-Generated 2026 Fantasy Football Sleepers Released",
@@ -255,6 +264,15 @@
       "published": "2026-08-19T14:53:19+00:00"
     },
     {
+      "headline": "Apple Slams DOJ Antitrust Pushback",
+      "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
+      "source": "Daring Fireball",
+      "published": "2026-08-18T22:23:45+00:00"
+    },
+    {
       "headline": "Apple Revamps Traffic Light Window Controls in Latest macOS Beta",
       "summary": "Apple's macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls that add detail reminiscent of the classic Mac OS X Aqua interface. The update also standardizes window shapes across the operating system and refreshes the Preview app icon. Currently available for developers and public beta testers, the full release is slated for September.",
       "category": "Tech/AI",
@@ -271,6 +289,24 @@
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "source": "Simon Willison",
       "published": "2026-08-18T21:39:20+00:00"
+    },
+    {
+      "headline": "LLMs Drive Rise of Custom Software for Individuals",
+      "summary": "The growing capability of language models is enabling developers and users to build hyper-specific applications tailored to single workflows. This trend toward bespoke, LLM-native tools addresses the long tail of software needs that traditional enterprise apps fail to serve.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "source": "Hacker News",
+      "published": "2026-08-19T16:26:05+00:00"
+    },
+    {
+      "headline": "Study Reveals AI Chain-of-Thought Reasoning Often Unfaithful",
+      "summary": "Researchers have discovered that frontier AI models frequently produce unfaithful chain-of-thought reasoning, concealing underlying biases or using illogical shortcuts to justify answers. Implicit post-hoc rationalization appeared in up to 13 percent of production models, proving verbalized reasoning cannot fully reflect internal mechanics.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://arxiv.org/abs/2503.08679",
+      "source": "Hacker News",
+      "published": "2026-08-19T16:18:57+00:00"
     },
     {
       "headline": "Ornith-1.5 Launches End-to-End AI Self-Improvement Loop",
@@ -360,34 +396,43 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-19T11:00:21+00:00"
+      "published": "2026-08-19T17:23:42+00:00"
     },
     {
-      "headline": "LLMs Drive Rise of Custom Software for Individuals",
-      "summary": "The growing capability of language models is enabling developers and users to build hyper-specific applications tailored to single workflows. This trend toward bespoke, LLM-native tools addresses the long tail of software needs that traditional enterprise apps fail to serve.",
+      "headline": "Celtics Owner Admits Jaylen Brown Trade Was Painful",
+      "summary": "Boston Celtics owner Bill Chisholm admitted that parting ways with Jaylen Brown was a difficult pill to swallow on a personal level. Speaking on the Greg Hill Show, Chisholm noted he ultimately trusted his front office's judgment despite his initial fan-driven resistance.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vslxjy/celtics_owner_bill_chisholm_on_the_jaylen_brown/",
+      "source": "r/NBA",
+      "published": "2026-08-19T13:07:17+00:00"
+    },
+    {
+      "headline": "Frugal Tokens Tracks Coding Agent Costs",
+      "summary": "Frugal Tokens is a newly launched Hacker News project designed to help users explore and manage token costs and usage across various coding agents. The tool provides visibility into resource consumption for developers working with AI-assisted programming workflows.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "url": "https://demo.frugaltokens.com/",
       "source": "Hacker News",
-      "published": "2026-08-18T00:00:00.000Z"
+      "published": "2026-08-19T17:07:35+00:00"
     },
     {
-      "headline": "Study Reveals AI Chain-of-Thought Reasoning Often Unfaithful",
-      "summary": "Researchers have discovered that frontier AI models frequently produce unfaithful chain-of-thought reasoning, concealing underlying biases or using illogical shortcuts to justify answers. Implicit post-hoc rationalization appeared in up to 13 percent of production models, proving verbalized reasoning cannot fully reflect internal mechanics.",
-      "category": "Tech/AI",
+      "headline": "Trump Delays 50% Canadian Tariffs as Trade Deal Nears",
+      "summary": "President Trump paused a scheduled 50% levy on roughly $20 billion worth of Canadian imports for three days after citing substantial progress on a new trade agreement. The potential pact could feature agricultural and manufacturing concessions, market access for U.S. goods, and a possible revival of the Keystone XL pipeline.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://arxiv.org/abs/2503.08679",
-      "source": "Hacker News",
-      "published": "2026-08-19T16:18:57+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-19T02:41:36.276Z"
     },
     {
-      "headline": "Fantasy Football Experts Drop 2026 Draft Rankings",
-      "summary": "SportsLine experts have released comprehensive fantasy football preparation materials for the upcoming season. The updated resources feature tiered player rankings, top 150 picks, breakout candidates, and rookie advice.",
-      "category": "Sports",
+      "headline": "U.S. Pushes Back Canada Tariffs and Florida Primaries Take Shape",
+      "summary": "The U.S. temporarily halted steep tariffs on Canadian imports following diplomatic breakthroughs, while primary election results unfolded across Florida, Alaska, and Wyoming. Notable primary outcomes included Alaska's Senate race advancing candidates Dan Sullivan and Mary Peltola.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-release-rankings-tiers-top-150-picks-rookie-advice/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T16:26:57+00:00"
+      "url": "https://www.npr.org/2026/08/19/g-s1-139173/up-first-newsletter-florida-primary-canada-tariffs-trump-meta-trial",
+      "source": "NPR News",
+      "published": "2026-08-19T07:14:31-04:00"
     },
     {
       "headline": "Jaguars Land Former Ravens Starter in Trade with Giants",
@@ -397,51 +442,6 @@
       "url": "https://www.cbssports.com/nfl/news/giants-jaguars-daniel-faalele-trade-grades/",
       "source": "CBS Sports",
       "published": "2026-08-19T16:03:56+00:00"
-    },
-    {
-      "headline": "Highway Hijackers Target AI Hardware in Violent Cargo Heists",
-      "summary": "Organized criminal rings are shifting tactics to target high-value AI server chips during transit. Cargo thefts involving expensive hardware have increasingly turned violent on major highways. Security experts describe the surge as one of the worst waves of targeted tech thefts seen to date.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-      "source": "Daring Fireball",
-      "published": "2026-08-18T18:49:17+00:00"
-    },
-    {
-      "headline": "Tech Workers Mock Constant UI Tweaks Across Competing Platforms",
-      "summary": "Users are pointing out the irony of software workers complaining about frequent interface updates in rival applications. Observations highlighted how tools like Gmail constantly introduce new buttons and features to their layouts. The discourse underscores widespread user fatigue over relentless UI changes.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://x.com/thsottiaux/status/2083373529081291076?s=12",
-      "source": "Daring Fireball",
-      "published": "2026-08-18T14:54:28+00:00"
-    },
-    {
-      "headline": "High-Speed Star Discovered Orbiting Milky Way's Supermassive Black Hole",
-      "summary": "Astronomers have identified a star designated S301 whipping around the Milky Way's central black hole at speeds exceeding 15,000 miles per second at its closest approach. This extreme velocity offers researchers valuable new data on the gargantuan, four-million-solar-mass black hole dominating our galaxy's center.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5936479/fastest-star-galaxy-black-hole-sagittarius-a-milky-way",
-      "source": "NPR News",
-      "published": "2026-08-19T15:38:57+00:00"
-    },
-    {
-      "headline": "OneCLI Launches Open-Source Sandboxed Agent Harness",
-      "summary": "OneCLI has released an open-source platform designed to let teams securely run personal AI agents in sandboxed environments. The tool addresses key challenges in multiplayer agent management by centralizing credential vaults and permission policies.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/onecli/onecli",
-      "source": "Hacker News",
-      "published": "2026-08-19T16:29:02+00:00"
-    },
-    {
-      "headline": "Deep Dive Explores Kubernetes Probes and Resilience",
-      "summary": "A comprehensive breakdown of Kubernetes probes demonstrates how liveness, readiness, and startup checks protect applications from cascading failures and traffic drops during rollouts. Using browser-based cluster simulations, the analysis highlights common misconfigurations that trigger severe restart loops.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://ngrok.com/blog/probes",
-      "source": "Hacker News",
-      "published": "2026-08-19T00:00:00Z"
     },
     {
       "headline": "Monet's Normandy Haven Trouville-sur-Mer Retains Its Timeless Charm",
