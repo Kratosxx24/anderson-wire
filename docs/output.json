@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:55:36.572530+00:00",
+  "generated_at": "2026-08-20T10:40:59.772716+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -201,6 +201,24 @@
       "published": "2026-08-19T04:01:00+00:00"
     },
     {
+      "headline": "Deadly Kyiv Strikes Expose Air Defense Shortages",
+      "summary": "Recent Russian missile strikes on Kyiv killed 13 people and injured 40, damaging residential buildings, a children's hospital, and a school. Ukrainian leadership stressed that the high casualties stem from a severe lack of western-supplied interceptor missiles and air defense systems. Officials warned that without urgent military aid from international partners, the country remains completely vulnerable to ballistic attacks.",
+      "category": "World",
+      "relevance": 9,
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T01:43:36.659Z"
+    },
+    {
+      "headline": "Finding Spiritual Lessons in a Household Pest Crisis",
+      "summary": "An unexpected roach infestation prompted a spiritual reflection on personal habits and the necessity of rest. The commentary uses the domestic ordeal to explore broader themes of faith, perseverance, and pastoral wisdom. It highlights how mundane household struggles can unexpectedly drive spiritual growth.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/roach-infestation-taught-rest/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-20T04:00:00+00:00"
+    },
+    {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
       "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
       "category": "NBA",
@@ -228,22 +246,13 @@
       "published": "2026-08-19T10:00:00+00:00"
     },
     {
-      "headline": "Apple Slams DOJ Antitrust Pushback",
-      "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
+      "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
+      "summary": "Benchmarking of smolvm 1.8.3 confirms it effectively sandboxes untrusted Python and JavaScript with hardware-isolated VMs rather than shared-kernel containers. The setup successfully enforced offline execution, strict CPU and RAM limits, and storage quotas, delivering cold start times under 1.5 seconds and warm executions around 50 milliseconds. When an AI agent hit environment constraints preventing local nested virtualization, it dynamically routed and executed the test suite using GitHub Actions runners.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
-      "source": "Daring Fireball",
-      "published": "2026-08-18T22:23:45+00:00"
-    },
-    {
-      "headline": "Evergrande Founder Sentenced to Life in Prison Over Fraud",
-      "summary": "Hui Ka Yan, the founder of collapsed Chinese property giant Evergrande, has been sentenced to life in prison and had his personal assets confiscated following guilty pleas for embezzlement and bribery. The Shenzhen Intermediate People's Court also slapped his former companies with 15.82bn yuan in fines for falsifying records and concealing debt, marking a definitive climax to the fallout from the firm's historic 2021 collapse.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T06:08:02+00:00"
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "source": "Simon Willison",
+      "published": "2026-08-19T23:16:00+00:00"
     },
     {
       "headline": "Bergen Reilly Leads NCAA.com's Top Setters",
@@ -307,15 +316,6 @@
       "url": "https://www.cbssports.com/nfl/news/steelers-will-howard-start-preseason-week-2-aaron-rodgers-sits/",
       "source": "CBS Sports",
       "published": "2026-08-19T19:47:33+00:00"
-    },
-    {
-      "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
-      "summary": "Benchmarking of smolvm 1.8.3 confirms it effectively sandboxes untrusted Python and JavaScript with hardware-isolated VMs rather than shared-kernel containers. The setup successfully enforced offline execution, strict CPU and RAM limits, and storage quotas, delivering cold start times under 1.5 seconds and warm executions around 50 milliseconds. When an AI agent hit environment constraints preventing local nested virtualization, it dynamically routed and executed the test suite using GitHub Actions runners.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "source": "Simon Willison",
-      "published": "2026-08-19T23:16:00+00:00"
     },
     {
       "headline": "Anthropic Clashes Over AGENTS.md Standard",
@@ -435,13 +435,13 @@
       "published": "2026-08-20T04:03:00+00:00"
     },
     {
-      "headline": "NBA pushes back on ESPN report",
-      "summary": "League analyst Amin Elhassan suggests the recent ESPN report likely contained major inaccuracies based on his own investigative work. He notes that the NBA's aggressive public denial is unprecedented compared to how they handled previous reporting.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vsufen/amin_on_nba_denial_of_espn_article_it_probably/",
-      "source": "r/NBA",
-      "published": "2026-08-19T18:15:07+00:00"
+      "headline": "Evergrande Founder Sentenced to Life in Prison Over Fraud",
+      "summary": "Hui Ka Yan, the founder of collapsed Chinese property giant Evergrande, has been sentenced to life in prison and had his personal assets confiscated following guilty pleas for embezzlement and bribery. The Shenzhen Intermediate People's Court also slapped his former companies with 15.82bn yuan in fines for falsifying records and concealing debt, marking a definitive climax to the fallout from the firm's historic 2021 collapse.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T06:08:02+00:00"
     },
     {
       "headline": "Manabu Kosaka Crafts Intricate Sculptures Entirely from Paper",
