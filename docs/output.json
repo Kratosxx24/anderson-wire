@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:50:45.867840+00:00",
+  "generated_at": "2026-08-20T18:17:35.169569+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -84,15 +84,6 @@
       "published": "2026-08-20T11:25:41+00:00"
     },
     {
-      "headline": "Developer Trains 125M Transformer for Real-Time Piano Autocompletion on iPhone",
-      "summary": "A developer successfully built an on-device AI model that generates real-time piano continuations on an iPhone 15 at about 108 notes per second. The project, named RollTab, relies on careful MIDI representation, clean training data, and DPO post-training to function like a coding assistant for musicians.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "source": "Hacker News",
-      "published": "2026-08-20T12:04:38+00:00"
-    },
-    {
       "headline": "Deadly Kyiv Strikes Expose Air Defense Shortages",
       "summary": "Recent Russian missile strikes on Kyiv killed 13 people and injured 40, damaging residential buildings, a children's hospital, and a school. Ukrainian leadership stressed that the high casualties stem from a severe lack of western-supplied interceptor missiles and air defense systems. Officials warned that without urgent military aid from international partners, the country remains completely vulnerable to ballistic attacks.",
       "category": "World",
@@ -165,6 +156,15 @@
       "published": "2026-08-20T09:00:00+00:00"
     },
     {
+      "headline": "James Harden Re-Signs with Cavaliers on Three-Year, $97 Million Deal",
+      "summary": "Star guard James Harden is heading back to the Cleveland Cavaliers on a lucrative three-year contract worth $97 million. The move follows the franchise's recent acquisition of Peyton Watson as Cleveland locks in its roster core. Harden will look to keep the Cavaliers competitive in the Eastern Conference.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/nba/news/james-harden-contract-details-cavaliers/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T17:49:06+00:00"
+    },
+    {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
       "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
       "category": "NBA",
@@ -183,13 +183,13 @@
       "published": "2026-08-20T16:48:38+00:00"
     },
     {
-      "headline": "CBS Sports Releases DFS Picks and Lineups for Week 2 NFL Preseason Action",
-      "summary": "CBS Sports provides daily fantasy football advice and optimal Thursday night lineups for DraftKings and FanDuel contests. The slate covers crucial Week 2 preseason matchups as players battle for roster spots.",
+      "headline": "NFL Survivor Pool Week 1: Model Advises Avoiding Cowboys",
+      "summary": "CBS Sports' predictive model has released its survivor pool strategy for Week 1 of the 2026 NFL season. The algorithm specifically warns players to steer clear of picking the Dallas Cowboys in knockout pools. The advice aims to help bettors navigate early-season upsets safely.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-2-nfl-preseason-daily-fantasy-football-picks-thursday-lineups/",
+      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-picks-advice-strategy-week-1-2026-avoid-cowboys/",
       "source": "CBS Sports",
-      "published": "2026-08-20T14:50:03+00:00"
+      "published": "2026-08-20T16:04:16+00:00"
     },
     {
       "headline": "Bergen Reilly Leads NCAA.com's Top Setters",
@@ -228,6 +228,24 @@
       "published": "2026-08-19T23:16:00+00:00"
     },
     {
+      "headline": "New Tool Translates Claude 5 Token Vomit Using Local LLMs",
+      "summary": "Developer Zach Ahn has released 'Vomit,' an open-source Go utility that pipes Claude's incomprehensible token output through a local LLM to translate it into readable English. Running entirely locally via tools like Ollama or Llama.app, the software operates with zero telemetry and relies on terminal hooks. While it occasionally hallucinates and lacks direct file access, it offers a clever workaround to save tokens and sanity.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/zachahn/vomit",
+      "source": "Hacker News",
+      "published": "2026-08-20T15:26:02+00:00"
+    },
+    {
+      "headline": "Computer Model Picks Eagles and Jaguars for NFL Week 1",
+      "summary": "A sophisticated computer model running 10,000 simulations has locked in its best bets and projected odds for Week 1 of the 2026 NFL season. The algorithm heavily favors both the Philadelphia Eagles and the Jacksonville Jaguars to start their campaigns strong. Bettors can use these data-driven predictions to identify high-value lines across the opening slate.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-lines-spreads-best-bets-predictions/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T15:47:30+00:00"
+    },
+    {
       "headline": "CBS Sports Previews 2026 Fantasy Football Busts Using Predictive Models",
       "summary": "CBS Sports examines potential fantasy football busts for the 2026 season using the analytical model that previously flagged Terry McLaurin's struggles. The data-driven breakdown helps managers identify overvalued players before draft day.",
       "category": "Sports",
@@ -235,6 +253,15 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-called-terry-mclaurins-tough-season/",
       "source": "CBS Sports",
       "published": "2026-08-20T15:03:02+00:00"
+    },
+    {
+      "headline": "CBS Sports Releases DFS Picks and Lineups for Week 2 NFL Preseason Action",
+      "summary": "CBS Sports provides daily fantasy football advice and optimal Thursday night lineups for DraftKings and FanDuel contests. The slate covers crucial Week 2 preseason matchups as players battle for roster spots.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-2-nfl-preseason-daily-fantasy-football-picks-thursday-lineups/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T14:50:03+00:00"
     },
     {
       "headline": "Computer-Driven 2026 Fantasy Football Breakout Predictions",
@@ -253,15 +280,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-phenomenal-year/",
       "source": "CBS Sports",
       "published": "2026-08-20T14:02:42+00:00"
-    },
-    {
-      "headline": "Buccaneers Secure Vita Vea with $30 Million Contract Extension",
-      "summary": "Tampa Bay Buccaneers defensive lineman Vita Vea has ended his hold-in by agreeing to a lucrative $30 million contract extension. The deal locks in a vital anchor for the Tampa Bay defense as the franchise prepares for the upcoming NFL season.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-vita-vea-agrees-to-30m-extension-top-30-nfl-players-age-30-and-over-best-nba-front-offices/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T13:00:04+00:00"
     },
     {
       "headline": "Hacking a $27 Smartwatch with Claude",
@@ -390,40 +408,22 @@
       "published": "2026-08-20T09:24:45+00:00"
     },
     {
-      "headline": "NFL Survivor Pool Week 1: Model Advises Avoiding Cowboys",
-      "summary": "CBS Sports' predictive model has released its survivor pool strategy for Week 1 of the 2026 NFL season. The algorithm specifically warns players to steer clear of picking the Dallas Cowboys in knockout pools. The advice aims to help bettors navigate early-season upsets safely.",
+      "headline": "2026 Fantasy Football TE Tiers: Dalton Schultz Rises Amid Roster Shifts",
+      "summary": "Heath Cummings has released his updated 2026 fantasy football tight end tiers, highlighting notable movement across the position. Colston Loveland has pushed into elite territory, while Dalton Schultz gets a boost with Jayden Higgins out of the lineup. Fantasy managers should adjust their draft boards accordingly.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/heath-cummings-2026-fantasy-football-te-tiers-2-0/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T17:44:40+00:00"
+    },
+    {
+      "headline": "NFL Hot Seat Tracker, Top Over-30 Vets, and 2026 Undefeated Predictions",
+      "summary": "A comprehensive NFL preview breaks down every coach and executive currently feeling the heat on the hot seat. The feature also ranks the league's top 30 players aged 30 and older and offers a bold prediction for 2026's final undefeated team. It serves as a definitive look at the pressure points and veteran powerhouses defining the upcoming football season.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-picks-advice-strategy-week-1-2026-avoid-cowboys/",
+      "url": "https://www.cbssports.com/nfl/news/everyone-on-nfl-hot-seat-plus-the-top-30-players-30-and-over-and-predicting-2026s-final-undefeated-team/",
       "source": "CBS Sports",
-      "published": "2026-08-20T16:04:16+00:00"
-    },
-    {
-      "headline": "New Tool Translates Claude 5 Token Vomit Using Local LLMs",
-      "summary": "Developer Zach Ahn has released 'Vomit,' an open-source Go utility that pipes Claude's incomprehensible token output through a local LLM to translate it into readable English. Running entirely locally via tools like Ollama or Llama.app, the software operates with zero telemetry and relies on terminal hooks. While it occasionally hallucinates and lacks direct file access, it offers a clever workaround to save tokens and sanity.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/zachahn/vomit",
-      "source": "Hacker News",
-      "published": "2026-08-20T15:26:02+00:00"
-    },
-    {
-      "headline": "Computer Model Picks Eagles and Jaguars for NFL Week 1",
-      "summary": "A sophisticated computer model running 10,000 simulations has locked in its best bets and projected odds for Week 1 of the 2026 NFL season. The algorithm heavily favors both the Philadelphia Eagles and the Jacksonville Jaguars to start their campaigns strong. Bettors can use these data-driven predictions to identify high-value lines across the opening slate.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-lines-spreads-best-bets-predictions/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T15:47:30+00:00"
-    },
-    {
-      "headline": "NBA Offseason Updates and Roster Reviews Highlighted",
-      "summary": "The latest Basketball Intelligence newsletter breaks down key offseason moves, contract talks, and early projections for multiple NBA franchises. Notable reports cover Jalen Duren's ongoing contract negotiations in Detroit, Mitchell Robinson's defensive impact in Boston, and comprehensive 2026-27 season previews for both the Thunder and Timberwolves. The roundup also touches on early prospects to watch for the 2027 draft class.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82026",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-20T17:30:43+00:00"
+      "published": "2026-08-20T16:54:40+00:00"
     },
     {
       "headline": "Hovvdy Embraces a Relaxed Approach on New Album Big World",
