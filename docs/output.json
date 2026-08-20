@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:40:15.557619+00:00",
+  "generated_at": "2026-08-20T06:19:37.220293+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -264,6 +264,15 @@
       "published": "2026-08-18T22:23:45+00:00"
     },
     {
+      "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
+      "summary": "Benchmarking of smolvm 1.8.3 confirms it effectively sandboxes untrusted Python and JavaScript with hardware-isolated VMs rather than shared-kernel containers. The setup successfully enforced offline execution, strict CPU and RAM limits, and storage quotas, delivering cold start times under 1.5 seconds and warm executions around 50 milliseconds. When an AI agent hit environment constraints preventing local nested virtualization, it dynamically routed and executed the test suite using GitHub Actions runners.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "source": "Simon Willison",
+      "published": "2026-08-19T23:16:00+00:00"
+    },
+    {
       "headline": "Mojo Programming Language Goes Open Source Under Apache 2 License",
       "summary": "Following its 1.0 release, the Mojo programming language has officially open-sourced its compiler and toolchain. Originally pitched as a Python superset in 2023, the language has since evolved to stand on its own while retaining Python-inspired syntax tailored for GPU optimization.",
       "category": "Tech/AI",
@@ -271,15 +280,6 @@
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
       "source": "Simon Willison",
       "published": "2026-08-18T21:39:20+00:00"
-    },
-    {
-      "headline": "Research Explores Universality of Neural Network Training via Gradient Descent",
-      "summary": "A 2020 paper by G. Welper investigates whether neural networks can always be redesigned to successfully train using gradient descent. The research demonstrates that if any algorithm can solve a classification task for a given network, an extended version of that network exists that can replicate those weights through standard gradient descent.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arxiv.org/abs/2007.13664",
-      "source": "Hacker News",
-      "published": "2026-08-20T00:05:12+00:00"
     },
     {
       "headline": "Anthropic Clashes Over AGENTS.md Standard",
@@ -381,76 +381,76 @@
       "published": "2026-08-19T23:02:14+00:00"
     },
     {
-      "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
-      "summary": "Benchmarking of smolvm 1.8.3 confirms it effectively sandboxes untrusted Python and JavaScript with hardware-isolated VMs rather than shared-kernel containers. The setup successfully enforced offline execution, strict CPU and RAM limits, and storage quotas, delivering cold start times under 1.5 seconds and warm executions around 50 milliseconds. When an AI agent hit environment constraints preventing local nested virtualization, it dynamically routed and executed the test suite using GitHub Actions runners.",
+      "headline": "Asana Blasts Through Engineering Backlog Using OpenAI Codex",
+      "summary": "Asana dramatically accelerated its engineering timeline, clearing five years of planned work in just two weeks with the help of OpenAI's Codex. The breakthrough highlights the massive productivity gains AI coding tools are delivering for enterprise development teams. While brief details are sparse, the speed of the backlog clearance points to a major leap in automated software engineering.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "source": "Simon Willison",
-      "published": "2026-08-19T23:16:00+00:00"
+      "url": "https://openai.com/index/asana/",
+      "source": "Hacker News",
+      "published": "2026-08-20T05:54:20+00:00"
     },
     {
-      "headline": "Vita Vea and Buccaneers Agree to $30 Million Extension",
-      "summary": "Tampa Bay Buccaneers defensive tackle Vita Vea has reportedly signed a $30 million contract extension following a trade request. The new deal resolves his contract status and secures his presence on the team's defensive line moving forward.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/vita-vea-contract-buccaneers-extension-trade/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T00:10:54+00:00"
-    },
-    {
-      "headline": "Jazz Supergroup Dinner Party Returns With Casual Grooves on 'Whatchu Bringing?'",
-      "summary": "The jazz-hip-hop ensemble featuring Robert Glasper, Terrace Martin, Kamasi Washington, and 9th Wonder is back with their third album, maintaining a relaxed and communal atmosphere. Co-writer and vocalist Phoelix anchors the nine-track project with understated charm, leaning on long-standing friendships rather than flashy virtuosity.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
-      "source": "Pitchfork",
-      "published": "2026-08-20T04:02:00+00:00"
-    },
-    {
-      "headline": "Israel Confirms Troops Fired on Car That Killed Hind Rajab",
-      "summary": "The Israeli military has acknowledged for the first time that its soldiers opened fire on a vehicle carrying five-year-old Hind Rajab in Gaza in 2024, resulting in her death and the deaths of six relatives. Following international condemnation over the incident and the subsequent shelling of a rescue ambulance, the IDF announced a criminal investigation by the Military Police.",
+      "headline": "Evergrande Founder Hui Ka Yan Sentenced to Life in Prison",
+      "summary": "The founder of collapsed Chinese property giant Evergrande, Hui Ka Yan, has been sentenced to life in prison and stripped of his personal assets following a guilty plea to corporate bribery and embezzlement. Shenzhen Intermediate People's Court also slapped his former companies with a 15.82 billion yuan ($2.35 billion) fine for falsifying records and concealing debt. The sentencing closes a dramatic chapter on the real estate crash that severely rattled China's broader economy and financial markets.",
       "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T04:17:53+00:00"
+      "published": "2026-08-20T04:42:13.549Z"
     },
     {
-      "headline": "U.S. National Debt Surpasses Record $40 Trillion Milestone",
-      "summary": "The federal debt has officially climbed past $40 trillion just five months after crossing the $39 trillion threshold, according to Treasury Department data. With annual government spending outpacing tax revenues by more than $2 trillion, nervous investors are demanding higher interest rates and driving up economy-wide borrowing costs.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
-      "source": "NPR News",
-      "published": "2026-08-19T20:09:39+00:00"
+      "headline": "Cavs, Nuggets, and Clippers Finalize Three-Team Blockbuster Trade",
+      "summary": "Cleveland, Denver, and the Los Angeles Clippers have orchestrated a three-team deal sending Payton Watson to the Cavaliers and Max Strus to the Clippers. To land Watson, the Cavs are also sending an unprotected 2031 first-round pick and a 2032 second-rounder to the Nuggets. Watson is simultaneously locking in a new four-year, $88 million contract extension with the Cavaliers.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vt3fea/charania_breaking_cleveland_denver_and_the/",
+      "source": "r/NBA",
+      "published": "2026-08-19T23:56:53+00:00"
     },
     {
-      "headline": "Australia Condemns Israel's Decision Not to Prosecute Over Fatal Aid Convoy Strike",
-      "summary": "Australian Foreign Minister Penny Wong voiced outrage and summoned Israel's ambassador after the IDF closed its investigation without bringing criminal charges for the April 2024 airstrike that killed seven World Central Kitchen workers, including Australian Zomi Frankcom. The Israeli military claimed the convoy deviated from its route and carried an armed guard mistaken for a Hamas operative, concluding the fatal error did not constitute criminal misconduct. Wong criticized the response as insufficient accountability, demanding answers as to why three separate strikes hit the convoy minutes apart and noting Israel has still withheld drone audio.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-19T22:04:21.097Z"
-    },
-    {
-      "headline": "Armed Cargo Hijackers Target High-Value AI Server Hardware",
-      "summary": "Organized theft rings have escalated to violent highway hijackings targeting shipments of advanced AI hardware and server chips. The soaring value and extreme market demand for cutting-edge semiconductor components have turned transport trucks into prime targets for coordinated criminal operations.",
+      "headline": "Google's Pixel 11 Pro Fold Misses the Mark on Form Factor",
+      "summary": "Google's Pixel 11 Pro Fold offers solid hardware upgrades like an IP68 rating and a brighter display, but its square design feels dated as competitors shift toward much thinner, passport-style foldables. While the device benefits from helpful software features like Camera Looks and multitasking Bubbles, it largely retains last year's bulky physical proportions. As Samsung and Apple race ahead with sleeker hardware, Google's latest foldable risks getting left behind.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
-      "source": "Daring Fireball",
-      "published": "2026-08-12T10:00:00.000Z"
+      "relevance": 8,
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "source": "Hacker News",
+      "published": "2026-08-19T16:00:00+00:00"
     },
     {
-      "headline": "Dallas Wings Rookie Azzi Fudd Sidelined for Season After Knee Surgery",
-      "summary": "Dallas Wings rookie Azzi Fudd will miss the rest of the WNBA season to undergo surgery on her right knee. The injury sidelines a key contributor and delivers a major setback to the Wings' postseason ambitions.",
+      "headline": "OneCLI Launches Open-Source Sandboxed Agent Harness for Teams",
+      "summary": "OneCLI has released an open-source platform designed to securely manage and run autonomous AI agents across corporate teams. Built in Rust, the tool acts as a credential vault and permission gateway, letting companies deploy sandboxed personal agents for every employee without messy multi-user overhead. Teams can either run the harness via cloud hosting or self-host the repository directly through GitHub.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/onecli/onecli",
+      "source": "Hacker News",
+      "published": "2026-08-19T16:29:02+00:00"
+    },
+    {
+      "headline": "Payton Watson Lands Four-Year, $88 Million Deal with Cleveland",
+      "summary": "As part of a multi-team trade agreement, Payton Watson is finalizing a lucrative four-year, $88 million contract to join the Cleveland Cavaliers. The newly minted deal includes both a player option and a trade kicker for the incoming forward. The financial terms cap off a major roster shakeup involving the Nuggets, Clippers, and Cavs.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vt3qx5/peyton_watson_will_sign_a_new_fouryear_88_million/",
+      "source": "r/NBA",
+      "published": "2026-08-20T00:10:01+00:00"
+    },
+    {
+      "headline": "Reigning FPL Champion Shares Five Winning Tips for the New Season",
+      "summary": "Erik Ibsen, a 23-year-old medical student who won last year's Fantasy Premier League out of 11 million players on his first try, is sharing his winning playbook. He stresses that maintaining patience through bad gameweeks and avoiding knee-jerk transfers is critical over a 38-week season. Ibsen also advises targeting cheap budget enablers to free up funds for premium superstars rather than spreading cash evenly.",
       "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/wnba/news/dallas-wings-azzi-fudd-knee-surgery-out-for-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T23:56:13+00:00"
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-19T07:11:05.941Z"
+    },
+    {
+      "headline": "Manabu Kosaka Crafts Intricate Sculptures Entirely from Paper",
+      "summary": "Artist Manabu Kosaka transforms everyday items into highly detailed sculptural forms using nothing more than paper. Through meticulous cutting, shaping, and assembly, he builds complex objects like vintage radios by hand over extended periods. The resulting works rely on repetition and precision to turn fragile sheets into solid, tangible art pieces.",
+      "category": "Other",
+      "relevance": 4,
+      "url": "https://coca11272000.wixsite.com/manabukosaka",
+      "source": "Hacker News",
+      "published": "2026-08-19T14:20:10+00:00"
     }
   ]
 }
