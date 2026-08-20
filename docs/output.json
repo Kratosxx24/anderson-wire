@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T04:58:08.742014+00:00",
+  "generated_at": "2026-08-20T05:40:15.557619+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -64,24 +64,6 @@
       "url": "https://www.thegospelcoalition.org/article/longevity-influencers-death/",
       "source": "The Gospel Coalition",
       "published": "2026-08-18T04:00:00+00:00"
-    },
-    {
-      "headline": "Google Pixel 11 and Fold Lineup Delivers Predictable Upgrades",
-      "summary": "Early hands-on impressions of Google's Pixel 11, Pro, and Fold devices show a lineup prioritizing refinement over radical reinvention. The latest iterations lean heavily into subtle hardware tweaks and existing software ecosystems. With fewer surprises in store, Google appears focused on solidifying its standard flagship formula.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
-      "source": "MKBHD",
-      "published": "2026-08-12T14:00:35+00:00"
-    },
-    {
-      "headline": "Galaxy Z Fold 8 Review Signals Fading Novelty for Foldables",
-      "summary": "A full review of Samsung's Galaxy Z Fold 8 shows that the initial excitement surrounding foldable displays has settled into routine iteration. Persistent trade-offs in thickness, crease visibility, and pricing continue to temper practical everyday adoption. Without major architectural leaps, the device serves primarily as an incremental hardware polish for dedicated enthusiasts.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
-      "source": "MKBHD",
-      "published": "2026-08-01T00:05:00+00:00"
     },
     {
       "headline": "CBS Sports Previews 2026 Fantasy Football Busts",
@@ -165,15 +147,6 @@
       "published": "2026-08-19T19:32:26+00:00"
     },
     {
-      "headline": "Framework 13 Pro Proves Modular Computing Is Here to Stay",
-      "summary": "The Framework 13 Pro demonstrates that easily repairable, user-upgradable laptops can compete directly with closed-ecosystem alternatives. Swappable I/O ports and accessible internal components challenge industry norms that prioritize soldered hardware over longevity. The notebook balances practical DIY flexibility with reliable everyday performance.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=_xjxwl1zLMc",
-      "source": "MKBHD",
-      "published": "2026-07-27T15:38:21+00:00"
-    },
-    {
       "headline": "Icona Pop's Dancefloor Healing Falls Flat on 'Ritual'",
       "summary": "Swedish duo Icona Pop return with 'Ritual,' an album framed around using nightlife and club beats as emotional therapy. However, despite strong vocal layering on tracks like opener 'Hurt,' the project largely defaults to predictable EDM drops and familiar pop formulas that stall their artistic progression.",
       "category": "Music",
@@ -181,6 +154,15 @@
       "url": "https://pitchfork.com/reviews/albums/icona-pop-ritual/",
       "source": "Pitchfork",
       "published": "2026-08-19T04:01:00+00:00"
+    },
+    {
+      "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
+      "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.thirdapron.com/p/peyton-watson-to-the-cavaliers-max",
+      "source": "Third Apron",
+      "published": "2026-08-20T04:36:02+00:00"
     },
     {
       "headline": "NFL Rookies Eye College Returns Following Colorado NCAA Ruling",
@@ -372,6 +354,15 @@
       "published": "2026-08-18T04:02:00+00:00"
     },
     {
+      "headline": "Hovvdy Embraces Aging and Simplicity on Sixth LP 'Big World'",
+      "summary": "Indie-pop duo Hovvdy returns with their sixth studio album, a concise and relaxed collection of songs reflecting on maturity and life changes. Recorded in Nashville after founders Charlie Martin and Wales Taylor relocated to different states, the album relies on spontaneous lyrics and warm production by Bennett Littlejohn.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/hovvdy-big-world/",
+      "source": "Pitchfork",
+      "published": "2026-08-20T04:03:00+00:00"
+    },
+    {
       "headline": "Brazilian Band Papangu Returns with Analog Prog-Rock Epic 'Celestial'",
       "summary": "Hailing from João Pessoa, Brazilian prog-rock outfit Papangu blends classic psychedelic sounds with MPB-infused melodies on their new album, Celestial. Recorded entirely on magnetic tape with zero computers, the record explores superstitious themes like the evil eye through vintage analog synthesizers. Pitchfork notes that while the retro production occasionally echoes past Brazilian artists too closely, it showcases the band's expanding sonic palette.",
       "category": "Music",
@@ -390,22 +381,13 @@
       "published": "2026-08-19T23:02:14+00:00"
     },
     {
-      "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
-      "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
-      "category": "NBA",
+      "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
+      "summary": "Benchmarking of smolvm 1.8.3 confirms it effectively sandboxes untrusted Python and JavaScript with hardware-isolated VMs rather than shared-kernel containers. The setup successfully enforced offline execution, strict CPU and RAM limits, and storage quotas, delivering cold start times under 1.5 seconds and warm executions around 50 milliseconds. When an AI agent hit environment constraints preventing local nested virtualization, it dynamically routed and executed the test suite using GitHub Actions runners.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.thirdapron.com/p/peyton-watson-to-the-cavaliers-max",
-      "source": "Third Apron",
-      "published": "2026-08-20T04:36:02+00:00"
-    },
-    {
-      "headline": "Hovvdy Embraces Aging and Simplicity on Sixth LP 'Big World'",
-      "summary": "Indie-pop duo Hovvdy returns with their sixth studio album, a concise and relaxed collection of songs reflecting on maturity and life changes. Recorded in Nashville after founders Charlie Martin and Wales Taylor relocated to different states, the album relies on spontaneous lyrics and warm production by Bennett Littlejohn.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/hovvdy-big-world/",
-      "source": "Pitchfork",
-      "published": "2026-08-20T04:03:00+00:00"
+      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+      "source": "Simon Willison",
+      "published": "2026-08-19T23:16:00+00:00"
     },
     {
       "headline": "Vita Vea and Buccaneers Agree to $30 Million Extension",
@@ -417,15 +399,6 @@
       "published": "2026-08-20T00:10:54+00:00"
     },
     {
-      "headline": "Israel Confirms Troops Fired on Car That Killed Hind Rajab",
-      "summary": "The Israeli military has acknowledged for the first time that its soldiers opened fire on a vehicle carrying five-year-old Hind Rajab in Gaza in 2024, resulting in her death and the deaths of six relatives. Following international condemnation over the incident and the subsequent shelling of a rescue ambulance, the IDF announced a criminal investigation by the Military Police.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-19T12:18:49.085Z"
-    },
-    {
       "headline": "Jazz Supergroup Dinner Party Returns With Casual Grooves on 'Whatchu Bringing?'",
       "summary": "The jazz-hip-hop ensemble featuring Robert Glasper, Terrace Martin, Kamasi Washington, and 9th Wonder is back with their third album, maintaining a relaxed and communal atmosphere. Co-writer and vocalist Phoelix anchors the nine-track project with understated charm, leaning on long-standing friendships rather than flashy virtuosity.",
       "category": "Music",
@@ -435,22 +408,49 @@
       "published": "2026-08-20T04:02:00+00:00"
     },
     {
+      "headline": "Israel Confirms Troops Fired on Car That Killed Hind Rajab",
+      "summary": "The Israeli military has acknowledged for the first time that its soldiers opened fire on a vehicle carrying five-year-old Hind Rajab in Gaza in 2024, resulting in her death and the deaths of six relatives. Following international condemnation over the incident and the subsequent shelling of a rescue ambulance, the IDF announced a criminal investigation by the Military Police.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T04:17:53+00:00"
+    },
+    {
       "headline": "U.S. National Debt Surpasses Record $40 Trillion Milestone",
       "summary": "The federal debt has officially climbed past $40 trillion just five months after crossing the $39 trillion threshold, according to Treasury Department data. With annual government spending outpacing tax revenues by more than $2 trillion, nervous investors are demanding higher interest rates and driving up economy-wide borrowing costs.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/19/nx-s1-5937552/the-u-s-debt-tops-a-record-shattering-40-trillion-yes-with-a-t",
       "source": "NPR News",
-      "published": "2026-08-19T16:09:39-04:00"
+      "published": "2026-08-19T20:09:39+00:00"
     },
     {
-      "headline": "Interactive Map Tracks Over 2,000 Pressed Penny Machines",
-      "summary": "A dedicated online directory offers a searchable visitor map tracking thousands of pressed penny machines globally. Users can filter locations by various radius distances and print custom checklists for their collecting trips.",
-      "category": "Other",
-      "relevance": 3,
-      "url": "https://pennypresses.net/home/map.php",
-      "source": "Hacker News",
-      "published": "2026-08-19T20:13:47+00:00"
+      "headline": "Australia Condemns Israel's Decision Not to Prosecute Over Fatal Aid Convoy Strike",
+      "summary": "Australian Foreign Minister Penny Wong voiced outrage and summoned Israel's ambassador after the IDF closed its investigation without bringing criminal charges for the April 2024 airstrike that killed seven World Central Kitchen workers, including Australian Zomi Frankcom. The Israeli military claimed the convoy deviated from its route and carried an armed guard mistaken for a Hamas operative, concluding the fatal error did not constitute criminal misconduct. Wong criticized the response as insufficient accountability, demanding answers as to why three separate strikes hit the convoy minutes apart and noting Israel has still withheld drone audio.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-19T22:04:21.097Z"
+    },
+    {
+      "headline": "Armed Cargo Hijackers Target High-Value AI Server Hardware",
+      "summary": "Organized theft rings have escalated to violent highway hijackings targeting shipments of advanced AI hardware and server chips. The soaring value and extreme market demand for cutting-edge semiconductor components have turned transport trucks into prime targets for coordinated criminal operations.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.wired.com/story/the-worst-ive-ever-seen-cargo-thieves-are-turning-violent-in-pursuit-of-ai-hardware/",
+      "source": "Daring Fireball",
+      "published": "2026-08-12T10:00:00.000Z"
+    },
+    {
+      "headline": "Dallas Wings Rookie Azzi Fudd Sidelined for Season After Knee Surgery",
+      "summary": "Dallas Wings rookie Azzi Fudd will miss the rest of the WNBA season to undergo surgery on her right knee. The injury sidelines a key contributor and delivers a major setback to the Wings' postseason ambitions.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/wnba/news/dallas-wings-azzi-fudd-knee-surgery-out-for-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-19T23:56:13+00:00"
     }
   ]
 }
