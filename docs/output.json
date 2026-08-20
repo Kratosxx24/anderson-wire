@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:53:57.587840+00:00",
+  "generated_at": "2026-08-20T01:47:08.718060+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -210,6 +210,15 @@
       "published": "2026-08-19T04:01:00+00:00"
     },
     {
+      "headline": "CBS Sports Previews 2026 Fantasy Football Busts",
+      "summary": "CBS Sports provides an early look at 2026 fantasy football draft busts utilizing a predictive model that previously flagged Terry McLaurin's difficult season. The analysis aims to help managers avoid overvalued players heading into the next fantasy cycle.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-via-model-that-called-terry-mclaurins-tough-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T00:55:29+00:00"
+    },
+    {
       "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
       "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
       "category": "NFL",
@@ -235,15 +244,6 @@
       "url": "https://volleyballmag.com/bergen-reilly-headlines-ncaa-com-s-five-must-watch-setters/?utm_source=rss&utm_medium=rss&utm_campaign=bergen-reilly-headlines-ncaa-com-s-five-must-watch-setters",
       "source": "Volleyball Mag",
       "published": "2026-08-19T13:25:33+00:00"
-    },
-    {
-      "headline": "Big Ten and SEC Launch Inaugural Volleyball Challenge Week, Culminating at Wrigley Field",
-      "summary": "",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/big-ten-and-sec-launch-inaugural-volleyball-challenge-week/?utm_source=rss&utm_medium=rss&utm_campaign=big-ten-and-sec-launch-inaugural-volleyball-challenge-week",
-      "source": "Volleyball Mag",
-      "published": "2026-08-18T12:15:10+00:00"
     },
     {
       "headline": "Computer Algorithms Drop Early 2026 Fantasy Football Breakouts",
@@ -273,15 +273,6 @@
       "published": "2026-08-19T19:47:33+00:00"
     },
     {
-      "headline": "CBS Sports Runs 10,000 Simulations for 2026 BMW Championship",
-      "summary": "CBS Sports has released its computer-generated predictions and odds for the upcoming 2026 BMW Championship following ten thousand tournament simulations. The betting preview leverages a predictive model boasting a strong track record of hitting major championship outcomes. Bettors and fans are using these data-driven insights to gauge the field and spot value picks ahead of the event.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/2026-bmw-championship-odds-picks-predictions-field-format-course/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T19:38:34+00:00"
-    },
-    {
       "headline": "Apple Slams DOJ Antitrust Pushback",
       "summary": "Apple is strongly defending its recent legal win that allows the company to subpoena documents from 14 federal agencies, including the CIA, FBI, and Department of Defense. The DOJ wants a special master to overturn the decision, arguing the requests impose an undue burden and apply the wrong legal standard.",
       "category": "Tech/AI",
@@ -289,15 +280,6 @@
       "url": "https://9to5mac.com/2026/08/17/apple-dojs-latest-challenge-in-antitrust-case-fails-at-every-level/",
       "source": "Daring Fireball",
       "published": "2026-08-18T22:23:45+00:00"
-    },
-    {
-      "headline": "Apple Revamps Traffic Light Window Controls in Latest macOS Beta",
-      "summary": "Apple's macOS 27 Golden Gate beta 6 introduces redesigned traffic light window controls that add detail reminiscent of the classic Mac OS X Aqua interface. The update also standardizes window shapes across the operating system and refreshes the Preview app icon. Currently available for developers and public beta testers, the full release is slated for September.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://9to5mac.com/2026/08/17/macos-27-golden-gate-beta-6-features-redesigned-traffic-light-window-controls/",
-      "source": "Daring Fireball",
-      "published": "2026-08-18T12:32:38+00:00"
     },
     {
       "headline": "Mojo Programming Language Goes Open Source Under Apache 2 License",
@@ -334,15 +316,6 @@
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "source": "Hacker News",
       "published": "2026-08-19T17:32:38+00:00"
-    },
-    {
-      "headline": "Y-Backed OneCLI Launches Open-Source Sandboxed Agent Harness for Teams",
-      "summary": "The Y Combinator S26 startup OneCLI has released an open-source platform designed to securely run AI agents for corporate teams. The Rust-based tool provides sandboxed environments, centralized secret management, and policy enforcement for autonomous workplace assistants. Companies can self-host the repository or use cloud-hosted options to deploy personal agents across their workforce safely.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/onecli/onecli",
-      "source": "Hacker News",
-      "published": "2026-08-19T16:29:02+00:00"
     },
     {
       "headline": "LLMs Drive Rise of Custom Software for Individuals",
@@ -426,22 +399,49 @@
       "published": "2026-08-19T20:34:39+00:00"
     },
     {
-      "headline": "Celtics Owner Admits Trading Jaylen Brown Was Painful As a Fan",
-      "summary": "Boston owner Bill Chisholm confessed that parting ways with Jaylen Brown required setting aside his personal fandom. Despite his initial emotional resistance, Chisholm ultimately deferred to the front office's strategic vision. He maintains complete trust in Brad Stevens and his leadership team to keep the franchise competitive.",
-      "category": "NBA",
+      "headline": "Research Explores Universality of Neural Network Training via Gradient Descent",
+      "summary": "A 2020 paper by G. Welper investigates whether neural networks can always be redesigned to successfully train using gradient descent. The research demonstrates that if any algorithm can solve a classification task for a given network, an extended version of that network exists that can replicate those weights through standard gradient descent.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vslxjy/celtics_owner_bill_chisholm_on_the_jaylen_brown/",
-      "source": "r/NBA",
-      "published": "2026-08-19T13:07:17+00:00"
+      "url": "https://arxiv.org/abs/2007.13664",
+      "source": "Hacker News",
+      "published": "2026-08-20T00:05:12+00:00"
     },
     {
-      "headline": "The Elite Few Reaching Half of LeBron James's Career Stats",
-      "summary": "A newly updated statistical compilation highlights the rare players who have reached at least 50 percent of LeBron James's massive career totals across all five primary categories. Following the 2025-26 season, James stands at 43,440 points, 12,016 assists, 12,095 rebounds, 2,417 steals, and 1,185 blocks. The benchmark sets an extraordinarily high bar for modern basketball longevity and production.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vsncix/update_the_05_lebron_james_club_a_compilation_of/",
-      "source": "r/NBA",
-      "published": "2026-08-19T14:02:59+00:00"
+      "headline": "Go 1.27",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://go.dev/blog/go1.27",
+      "source": "Hacker News",
+      "published": "2026-08-19T18:33:49+00:00"
+    },
+    {
+      "headline": "NFL Rookies Eye College Returns Following Colorado NCAA Ruling",
+      "summary": "Recent NCAA eligibility rulings originating in Colorado have prompted some current NFL rookies to explore the unprecedented possibility of returning to college football. The unfolding situation highlights potential shifts in the boundary between collegiate athletics and the professional ranks.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/college-football/news/nfl-rookies-returning-college-football-ncaa-eligibility/",
+      "source": "CBS Sports",
+      "published": "2026-08-19T21:31:09+00:00"
+    },
+    {
+      "headline": "US and South Korea Cut Joint Military Drills Short at Washington's Request",
+      "summary": "South Korea's defense ministry announced that the annual Ulchi Freedom Shield exercises will end six days early on August 21 following a request from Washington. The abrupt scaling back caught South Korean and US officials by surprise and arrives as President Trump signals a potential upcoming meeting with North Korean leader Kim Jong Un.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-19T03:39:41.639Z"
+    },
+    {
+      "headline": "A.J. Brown Dominates Eagles in Joint Practice Amid Silence with Jalen Hurts",
+      "summary": "Wide receiver A.J. Brown put on a dominant performance against the Philadelphia Eagles during a joint practice while confirming he has not spoken recently with quarterback Jalen Hurts. Despite the apparent communication silence off the field, Brown's stellar play on the field made a loud statement.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/aj-brown-jalen-hurts-eagles-patriots-joint-practice/",
+      "source": "CBS Sports",
+      "published": "2026-08-19T20:54:37+00:00"
     },
     {
       "headline": "Study Shows Remote Employees Enjoy Highest Well-Being",
