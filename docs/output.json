@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:49:31.321329+00:00",
+  "generated_at": "2026-08-20T22:11:40.610700+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -37,15 +37,6 @@
       "url": "https://www.matchquarters.com/p/red-zone-geometry-broncos-brackets",
       "source": "MatchQuarters",
       "published": "2026-08-20T10:02:35+00:00"
-    },
-    {
-      "headline": "AFC North Teams Unveil Major Offseason Scheme Overhauls",
-      "summary": "Coaches across the AFC North are drastically reshaping their playbooks ahead of the season. Baltimore is transitioning Lamar Jackson under center with wide-zone mechanics, while Cincinnati, Cleveland, and Pittsburgh install new defensive fronts and offensive systems.",
-      "category": "NFL",
-      "relevance": 9,
-      "url": "https://www.matchquarters.com/p/afc-north-scheme-shifts",
-      "source": "MatchQuarters",
-      "published": "2026-08-19T10:01:08+00:00"
     },
     {
       "headline": "Shedding Fear and Perfectionism in Daily Scripture Reading",
@@ -165,13 +156,13 @@
       "published": "2026-08-18T04:00:00+00:00"
     },
     {
-      "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
-      "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
+      "headline": "Quantifying Ugly Box Scores With the Basketball Terrorism Index",
+      "summary": "A frustrated fan has engineered a metric to capture stat lines that look great on paper but destroy the fabric of offensive basketball. The index penalizes inefficient volume, heavy three-point misses, and high turnovers to unmask ostensibly high-scoring performances that were actually painful to watch.",
       "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.thirdapron.com/p/peyton-watson-to-the-cavaliers-max",
-      "source": "Third Apron",
-      "published": "2026-08-20T04:36:02+00:00"
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vtl6kx/i_invented_a_basketball_terrorism_score_to_find/",
+      "source": "r/NBA",
+      "published": "2026-08-20T14:32:35+00:00"
     },
     {
       "headline": "Leonard Moore Tops Early 2027 NFL Draft CB Rankings",
@@ -192,6 +183,15 @@
       "published": "2026-08-20T19:36:02+00:00"
     },
     {
+      "headline": "NFL Hot Seat Tracker, Top Over-30 Vets, and 2026 Undefeated Predictions",
+      "summary": "A comprehensive NFL preview breaks down every coach and executive currently feeling the heat on the hot seat. The feature also ranks the league's top 30 players aged 30 and older and offers a bold prediction for 2026's final undefeated team. It serves as a definitive look at the pressure points and veteran powerhouses defining the upcoming football season.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/everyone-on-nfl-hot-seat-plus-the-top-30-players-30-and-over-and-predicting-2026s-final-undefeated-team/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T16:54:40+00:00"
+    },
+    {
       "headline": "Bergen Reilly Leads NCAA.com's Top Setters",
       "summary": "Nebraska's Bergen Reilly tops NCAA.com's list of the five must-watch setters for the 2026 college volleyball season. The reigning Big Ten Player of the Year is joined by standout returners and transfers like Izzy Starck, Charlie Fuerbringer, Alexis Stucky, and Taylor Anderson. Analysts praised Reilly's dual-threat capability, high volleyball IQ, and elite court positioning.",
       "category": "Sports",
@@ -199,15 +199,6 @@
       "url": "https://volleyballmag.com/bergen-reilly-headlines-ncaa-com-s-five-must-watch-setters/?utm_source=rss&utm_medium=rss&utm_campaign=bergen-reilly-headlines-ncaa-com-s-five-must-watch-setters",
       "source": "Volleyball Mag",
       "published": "2026-08-19T13:25:33+00:00"
-    },
-    {
-      "headline": "Apple Yields on App Store Fees and Antitrust Pressure",
-      "summary": "Apple has finally agreed to settle mounting regulatory pressures from the European Union and the United States regarding its App Store fees and German ATT rules. While the concessions arrive late, they signal a major shift as the tech giant confronts the inevitable reality of lower platform fees. This capitulation marks a crucial turning point for developers long constrained by Apple's strict ecosystem monetization policies.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
-      "source": "Stratechery",
-      "published": "2026-08-19T10:00:00+00:00"
     },
     {
       "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
@@ -219,6 +210,33 @@
       "published": "2026-08-19T23:16:00+00:00"
     },
     {
+      "headline": "Vomit utility translates Claude's raw token output using a local LLM",
+      "summary": "An open-source Go utility called Vomit intercepts and translates Claude's token streams into readable English by piping them through local models like Llama or Ollama. The tool runs locally without telemetry and offers both live session tailing and non-invasive listing capabilities. However, developers should note that it operates blindly without direct file access, relies on vibe-coded logic, and can occasionally miss messages.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/zachahn/vomit",
+      "source": "Hacker News",
+      "published": "2026-08-20T15:26:02+00:00"
+    },
+    {
+      "headline": "Developer builds custom smartwatch faces using open-weight AI models",
+      "summary": "A software engineer revived a budget-friendly $27 PineTime smartwatch to test AI-driven development using open-weight models like Kimi and DeepSeek. By leveraging the InfiniSim simulator for rapid feedback, the AI agent successfully generated a Casio-style watch face based on an image reference. Although the initial layout suffered from overlapping text and sizing errors, it highlights the potential for cheap hardware hacking via coding agents.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "source": "Hacker News",
+      "published": "2026-08-20T14:08:09+00:00"
+    },
+    {
+      "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
+      "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.thirdapron.com/p/peyton-watson-to-the-cavaliers-max",
+      "source": "Third Apron",
+      "published": "2026-08-20T04:36:02+00:00"
+    },
+    {
       "headline": "2026 Fantasy Football TE Tiers: Dalton Schultz Rises Amid Roster Shifts",
       "summary": "Heath Cummings has released his updated 2026 fantasy football tight end tiers, highlighting notable movement across the position. Colston Loveland has pushed into elite territory, while Dalton Schultz gets a boost with Jayden Higgins out of the lineup. Fantasy managers should adjust their draft boards accordingly.",
       "category": "Sports",
@@ -228,15 +246,6 @@
       "published": "2026-08-20T17:44:40+00:00"
     },
     {
-      "headline": "NFL Hot Seat Tracker, Top Over-30 Vets, and 2026 Undefeated Predictions",
-      "summary": "A comprehensive NFL preview breaks down every coach and executive currently feeling the heat on the hot seat. The feature also ranks the league's top 30 players aged 30 and older and offers a bold prediction for 2026's final undefeated team. It serves as a definitive look at the pressure points and veteran powerhouses defining the upcoming football season.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/everyone-on-nfl-hot-seat-plus-the-top-30-players-30-and-over-and-predicting-2026s-final-undefeated-team/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T16:54:40+00:00"
-    },
-    {
       "headline": "2026 Fantasy Sleepers and Busts",
       "summary": "A predictive modeling system that previously anticipated Daniel Jones' breakout year has dropped its 2026 fantasy football outlook. The data outlines key sleepers, potential breakout candidates, and projected busts to help managers navigate upcoming drafts.",
       "category": "Sports",
@@ -244,15 +253,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-per-model-that-predicted-daniel-jones-huge-year/",
       "source": "CBS Sports",
       "published": "2026-08-20T16:53:50+00:00"
-    },
-    {
-      "headline": "NFL Survivor Pool Week 1: Model Advises Avoiding Cowboys",
-      "summary": "CBS Sports' predictive model has released its survivor pool strategy for Week 1 of the 2026 NFL season. The algorithm specifically warns players to steer clear of picking the Dallas Cowboys in knockout pools. The advice aims to help bettors navigate early-season upsets safely.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-picks-advice-strategy-week-1-2026-avoid-cowboys/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T16:04:16+00:00"
     },
     {
       "headline": "Evaluating Faith and Identity in Christian Higher Education",
@@ -336,22 +336,49 @@
       "published": "2026-08-20T09:24:45+00:00"
     },
     {
-      "headline": "Vomit utility translates Claude's raw token output using a local LLM",
-      "summary": "An open-source Go utility called Vomit intercepts and translates Claude's token streams into readable English by piping them through local models like Llama or Ollama. The tool runs locally without telemetry and offers both live session tailing and non-invasive listing capabilities. However, developers should note that it operates blindly without direct file access, relies on vibe-coded logic, and can occasionally miss messages.",
-      "category": "Tech/AI",
+      "headline": "2026 Fantasy Football Sleepers From the Model That Caught De'Von Achane's Breakout",
+      "summary": "CBS Sports has released its early 2026 fantasy football sleeper rankings, utilizing the same predictive computer model that accurately forecasted De'Von Achane's breakout campaign. The breakdown offers fantasy managers an early edge by identifying undervalued talent primed for major production.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://github.com/zachahn/vomit",
-      "source": "Hacker News",
-      "published": "2026-08-20T15:26:02+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-amazing-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T21:51:56+00:00"
     },
     {
-      "headline": "Developer builds custom smartwatch faces using open-weight AI models",
-      "summary": "A software engineer revived a budget-friendly $27 PineTime smartwatch to test AI-driven development using open-weight models like Kimi and DeepSeek. By leveraging the InfiniSim simulator for rapid feedback, the AI agent successfully generated a Casio-style watch face based on an image reference. Although the initial layout suffered from overlapping text and sizing errors, it highlights the potential for cheap hardware hacking via coding agents.",
-      "category": "Tech/AI",
+      "headline": "Squeezed by Tariffs and Conflict, Farmers Weigh Their Political Allegiances",
+      "summary": "Sixth-generation cash-crop farmer Ian Stamy is banking on another high-yield soybean harvest in central Pennsylvania despite lingering weather worries and rising production expenses. As escalating international conflict and tariffs pinch agricultural bottom lines, political analysts are watching whether rural voters will turn away from Republicans in tight midterm contests.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "source": "Hacker News",
-      "published": "2026-08-19T19:30:00-06:00"
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5914684/farmers-trump-pennsylvania-midterms",
+      "source": "NPR News",
+      "published": "2026-08-20T15:22:20-04:00"
+    },
+    {
+      "headline": "George Karl Slams Nuggets Front Office Over Handling of Franchise Greats",
+      "summary": "Former Denver Nuggets head coach George Karl has sharply criticized the franchise following their trade of Peyton Watson. Karl argued that the organization is fundamentally unequipped to properly support legends like Nikola Jokic in his pursuit of all-time status.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vts9sh/george_karl_some_franchises_arent_capable_of/",
+      "source": "r/NBA",
+      "published": "2026-08-20T18:50:15+00:00"
+    },
+    {
+      "headline": "Why the Bond Market Sell-Off Is Sounding Alarms Over U.S. Debt",
+      "summary": "While the stock market flirts with record highs, a severe sell-off in the bond market is signaling deep investor anxiety about the economy. Experts warn that the U.S. government's staggering $40 trillion debt load and stubborn inflation risks are driving the turbulence.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
+      "source": "NPR News",
+      "published": "2026-08-20T05:00:00-04:00"
+    },
+    {
+      "headline": "Plummeting Stock Price Puts Suns Owner Mat Ishbia at Risk of Margin Call",
+      "summary": "Phoenix Suns owner Mat Ishbia leveraged $4.6 billion of his company's stock to finance the team purchase, but shares have plummeted 70% since the deal closed. If the stock fails to rebound, a margin call could trigger forced liquidations or require massive cash injections.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vtob9d/pompliano_could_a_margin_call_force_a_phoenix/",
+      "source": "r/NBA",
+      "published": "2026-08-20T16:28:09+00:00"
     },
     {
       "headline": "Dinner Party Returns With Relaxed New LP 'Whatchu Bringing?'",
@@ -408,40 +435,13 @@
       "published": "2026-08-20T04:17:53+00:00"
     },
     {
-      "headline": "Australia Fumes Over Israel's Refusal to Probe Aid Worker's Death",
-      "summary": "Australian Foreign Minister Penny Wong slammed Israel's decision to forgo a criminal investigation into the airstrike that killed aid worker Zomi Frankcom and six colleagues in Gaza. Canberra summoned the Israeli ambassador, demanding answers regarding why multiple strikes hit the convoy and why crucial drone audio remains withheld. The IDF defended its actions by claiming commanders lacked criminal intent, citing a misidentified armed guard and route deviations, but Frankcom's family continues to push for an independent probe.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T07:33:11+00:00"
-    },
-    {
-      "headline": "Record Cyclosporiasis Outbreak Overwhelms Cut-Strapped Public Health Systems",
-      "summary": "A historic surge in cyclosporiasis infections is testing local health departments already strained by recent federal budget cuts. Sanitation experts warn that reduced funding leaves agencies severely understaffed and unable to conduct critical food-safety investigations.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-      "source": "NPR News",
-      "published": "2026-08-20T19:54:19+00:00"
-    },
-    {
-      "headline": "Advocates Urge Maryland to Probe Data Brokers Over Law Violations",
-      "summary": "Civil rights groups filed a consumer complaint demanding that the Maryland attorney general investigate commercial data brokers. The coalition alleges these companies are illegally selling geolocation data and personal information to federal immigration and law enforcement agencies.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5938822/maryland-privacy-data-brokers",
-      "source": "NPR News",
-      "published": "2026-08-20T09:00:00+00:00"
-    },
-    {
-      "headline": "Hovvdy Embraces a Relaxed Approach on New Album Big World",
-      "summary": "The indie-pop duo Hovvdy returns with their sixth studio album, Big World, trading sprawling double-album runtimes for concise songwriting and off-the-cuff lyricism. Recorded after relocating to Nashville with young families, the record leans into acoustic textures and thematic ambiguity regarding aging and self-improvement.",
+      "headline": "Make Music Through Code With Open-Source Platform Tidal Cycles",
+      "summary": "Tidal Cycles is a free, Haskell-based live coding environment that allows musicians to generate complex algorithmic patterns, polyrhythms, and sound sequences. Built on SuperCollider for audio synthesis, the open-source software has cultivated a vibrant community of artists using code for live composition.",
       "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/hovvdy-big-world/",
-      "source": "Pitchfork",
-      "published": "2026-08-20T04:03:00+00:00"
+      "relevance": 7,
+      "url": "https://tidalcycles.org/",
+      "source": "Hacker News",
+      "published": "2026-08-20T19:21:45+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
@@ -450,7 +450,7 @@
       "relevance": 4,
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
       "source": "Hacker News",
-      "published": "2022-08-09T18:50:52+00:00"
+      "published": "2026-08-20T18:38:47+00:00"
     }
   ]
 }
