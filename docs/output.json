@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:19:37.220293+00:00",
+  "generated_at": "2026-08-20T07:13:06.034753+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -156,6 +156,42 @@
       "published": "2026-08-19T04:01:00+00:00"
     },
     {
+      "headline": "MKBHD Delivers First Impressions of Google's Latest Pixel Lineup",
+      "summary": "Tech reviewer Marques Brownlee shares early hands-on impressions of Google's newest Pixel flagship and foldable hardware. The breakdown evaluates design refinements, usability changes, and feature updates across the standard, Pro, and Fold models. His initial assessment indicates an iterative release that focuses on polishing existing concepts rather than reinventing them.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "source": "MKBHD",
+      "published": "2026-08-12T14:00:35+00:00"
+    },
+    {
+      "headline": "The Studio Travels to Spain to Film a Rare Solar Eclipse",
+      "summary": "The MKBHD production team embarked on an international expedition to Spain to capture high-resolution footage of a total solar eclipse. The behind-the-scenes coverage highlights the specialized camera gear, tight timelines, and technical challenges of filming astronomical events in the field. It provides viewers with a detailed look at the preparation required to document fleeting celestial phenomena.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=ZrAkCJS9H1s",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-08-17T17:03:00+00:00"
+    },
+    {
+      "headline": "Samsung's Foldable Novelty Wears Off in MKBHD's Long-Term Review",
+      "summary": "Marques Brownlee weighs in on Samsung's latest Galaxy Z Fold, exploring whether the foldable design remains compelling after extensive real-world testing. The review scrutinizes ongoing hardware compromises, crease visibility, and software multitasking against the device's premium price point. Brownlee concludes that while the engineering remains impressive, the day-to-day value proposition faces diminishing returns.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=Z6z_feacXW8",
+      "source": "MKBHD",
+      "published": "2026-08-01T00:05:00+00:00"
+    },
+    {
+      "headline": "The Studio Explores the Engineering Behind Apple's Signature Audio",
+      "summary": "The Studio team investigates the origins, sound design, and branding choices behind Apple's recognizable iPhone audio cues. The piece delves into how UI sounds, alert chimes, and haptic feedback are crafted to shape daily user interactions. It reveals the deliberate acoustic engineering required to make simple device alerts feel natural and iconic.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/tCGBoTY8sq4",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-07-25T01:34:37+00:00"
+    },
+    {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
       "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
       "category": "NBA",
@@ -291,6 +327,15 @@
       "published": "2026-08-19T21:19:50+00:00"
     },
     {
+      "headline": "Google's Pixel 11 Pro Fold Misses the Mark on Form Factor",
+      "summary": "Google's Pixel 11 Pro Fold offers solid hardware upgrades like an IP68 rating and a brighter display, but its square design feels dated as competitors shift toward much thinner, passport-style foldables. While the device benefits from helpful software features like Camera Looks and multitasking Bubbles, it largely retains last year's bulky physical proportions. As Samsung and Apple race ahead with sleeker hardware, Google's latest foldable risks getting left behind.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+      "source": "Hacker News",
+      "published": "2026-08-19T19:43:48+00:00"
+    },
+    {
       "headline": "Unsloth Rolls Out Dynamic 3.0 GGUFs with Qwen3.8-27B",
       "summary": "Unsloth has released Dynamic v3.0 GGUF quants for Qwen3.8-27B, delivering over 10 percent better top-1 accuracy at identical file sizes compared to competing providers. The update relies on post-training quantization using a refined imatrix dataset tailored for agentic coding and multilingual tasks, while dropping the MTP module on smaller quants to save disk space. These new models are fully compatible with llama.cpp and Unsloth Desktop.",
       "category": "Tech/AI",
@@ -316,6 +361,15 @@
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
       "source": "Hacker News",
       "published": "2026-08-19T17:32:38+00:00"
+    },
+    {
+      "headline": "OneCLI Launches Open-Source Sandboxed Agent Harness for Teams",
+      "summary": "OneCLI has released an open-source platform designed to securely manage and run autonomous AI agents across corporate teams. Built in Rust, the tool acts as a credential vault and permission gateway, letting companies deploy sandboxed personal agents for every employee without messy multi-user overhead. Teams can either run the harness via cloud hosting or self-host the repository directly through GitHub.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/onecli/onecli",
+      "source": "Hacker News",
+      "published": "2026-08-19T16:29:02+00:00"
     },
     {
       "headline": "LLMs Drive Rise of Custom Software for Individuals",
@@ -381,67 +435,13 @@
       "published": "2026-08-19T23:02:14+00:00"
     },
     {
-      "headline": "Asana Blasts Through Engineering Backlog Using OpenAI Codex",
-      "summary": "Asana dramatically accelerated its engineering timeline, clearing five years of planned work in just two weeks with the help of OpenAI's Codex. The breakthrough highlights the massive productivity gains AI coding tools are delivering for enterprise development teams. While brief details are sparse, the speed of the backlog clearance points to a major leap in automated software engineering.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://openai.com/index/asana/",
-      "source": "Hacker News",
-      "published": "2026-08-20T05:54:20+00:00"
-    },
-    {
-      "headline": "Evergrande Founder Hui Ka Yan Sentenced to Life in Prison",
-      "summary": "The founder of collapsed Chinese property giant Evergrande, Hui Ka Yan, has been sentenced to life in prison and stripped of his personal assets following a guilty plea to corporate bribery and embezzlement. Shenzhen Intermediate People's Court also slapped his former companies with a 15.82 billion yuan ($2.35 billion) fine for falsifying records and concealing debt. The sentencing closes a dramatic chapter on the real estate crash that severely rattled China's broader economy and financial markets.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T04:42:13.549Z"
-    },
-    {
-      "headline": "Cavs, Nuggets, and Clippers Finalize Three-Team Blockbuster Trade",
-      "summary": "Cleveland, Denver, and the Los Angeles Clippers have orchestrated a three-team deal sending Payton Watson to the Cavaliers and Max Strus to the Clippers. To land Watson, the Cavs are also sending an unprotected 2031 first-round pick and a 2032 second-rounder to the Nuggets. Watson is simultaneously locking in a new four-year, $88 million contract extension with the Cavaliers.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vt3fea/charania_breaking_cleveland_denver_and_the/",
-      "source": "r/NBA",
-      "published": "2026-08-19T23:56:53+00:00"
-    },
-    {
-      "headline": "Google's Pixel 11 Pro Fold Misses the Mark on Form Factor",
-      "summary": "Google's Pixel 11 Pro Fold offers solid hardware upgrades like an IP68 rating and a brighter display, but its square design feels dated as competitors shift toward much thinner, passport-style foldables. While the device benefits from helpful software features like Camera Looks and multitasking Bubbles, it largely retains last year's bulky physical proportions. As Samsung and Apple race ahead with sleeker hardware, Google's latest foldable risks getting left behind.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
-      "source": "Hacker News",
-      "published": "2026-08-19T16:00:00+00:00"
-    },
-    {
-      "headline": "OneCLI Launches Open-Source Sandboxed Agent Harness for Teams",
-      "summary": "OneCLI has released an open-source platform designed to securely manage and run autonomous AI agents across corporate teams. Built in Rust, the tool acts as a credential vault and permission gateway, letting companies deploy sandboxed personal agents for every employee without messy multi-user overhead. Teams can either run the harness via cloud hosting or self-host the repository directly through GitHub.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/onecli/onecli",
-      "source": "Hacker News",
-      "published": "2026-08-19T16:29:02+00:00"
-    },
-    {
-      "headline": "Payton Watson Lands Four-Year, $88 Million Deal with Cleveland",
-      "summary": "As part of a multi-team trade agreement, Payton Watson is finalizing a lucrative four-year, $88 million contract to join the Cleveland Cavaliers. The newly minted deal includes both a player option and a trade kicker for the incoming forward. The financial terms cap off a major roster shakeup involving the Nuggets, Clippers, and Cavs.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vt3qx5/peyton_watson_will_sign_a_new_fouryear_88_million/",
-      "source": "r/NBA",
-      "published": "2026-08-20T00:10:01+00:00"
-    },
-    {
       "headline": "Reigning FPL Champion Shares Five Winning Tips for the New Season",
       "summary": "Erik Ibsen, a 23-year-old medical student who won last year's Fantasy Premier League out of 11 million players on his first try, is sharing his winning playbook. He stresses that maintaining patience through bad gameweeks and avoiding knee-jerk transfers is critical over a 38-week season. Ibsen also advises targeting cheap budget enablers to free up funds for premium superstars rather than spreading cash evenly.",
       "category": "Sports",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-08-19T07:11:05.941Z"
+      "published": "2026-08-19T07:11:05+00:00"
     },
     {
       "headline": "Manabu Kosaka Crafts Intricate Sculptures Entirely from Paper",
