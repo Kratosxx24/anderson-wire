@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T14:49:37.942839+00:00",
+  "generated_at": "2026-08-20T15:21:02.346685+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -91,15 +91,6 @@
       "url": "https://volleyballmag.com/volleyball-court-dimensions-and-lines-the-complete-breakdown/?utm_source=rss&utm_medium=rss&utm_campaign=volleyball-court-dimensions-and-lines-the-complete-breakdown",
       "source": "Volleyball Mag",
       "published": "2026-08-20T11:25:41+00:00"
-    },
-    {
-      "headline": "CBS Sports Previews 2026 Fantasy Football Busts",
-      "summary": "CBS Sports provides an early look at 2026 fantasy football draft busts utilizing a predictive model that previously flagged Terry McLaurin's difficult season. The analysis aims to help managers avoid overvalued players heading into the next fantasy cycle.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-via-model-that-called-terry-mclaurins-tough-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T00:55:29+00:00"
     },
     {
       "headline": "King Gizzard & the Lizard Wizard Go Full EDM on 'Alien Metal'",
@@ -201,6 +192,15 @@
       "published": "2026-08-20T09:00:00+00:00"
     },
     {
+      "headline": "Developer Trains 125M Transformer for Real-Time Piano Autocompletion on iPhone",
+      "summary": "A developer successfully built an on-device AI model that generates real-time piano continuations on an iPhone 15 at about 108 notes per second. The project, named RollTab, relies on careful MIDI representation, clean training data, and DPO post-training to function like a coding assistant for musicians.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "source": "Hacker News",
+      "published": "2026-08-20"
+    },
+    {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
       "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
       "category": "NBA",
@@ -237,6 +237,15 @@
       "published": "2026-08-19T13:25:33+00:00"
     },
     {
+      "headline": "Computer-Driven 2026 Fantasy Football Breakout Predictions",
+      "summary": "CBS Sports highlights a computer model's breakout player projections for the 2026 fantasy football season. The system previously flagged Tetairoa McMillan ahead of his massive campaign. Analysts use these algorithmic insights to spot rising stars before they hit mainstream draft boards.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-computer-that-called-tetairoa-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T14:38:57+00:00"
+    },
+    {
       "headline": "Apple Yields on App Store Fees and Antitrust Pressure",
       "summary": "Apple has finally agreed to settle mounting regulatory pressures from the European Union and the United States regarding its App Store fees and German ATT rules. While the concessions arrive late, they signal a major shift as the tech giant confronts the inevitable reality of lower platform fees. This capitulation marks a crucial turning point for developers long constrained by Apple's strict ecosystem monetization policies.",
       "category": "Tech/AI",
@@ -253,15 +262,6 @@
       "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
       "source": "Simon Willison",
       "published": "2026-08-19T23:16:00+00:00"
-    },
-    {
-      "headline": "Google Researchers Unveil Deep Learning Tool to Estimate Insulin Resistance via Smartphone Photos",
-      "summary": "Google Research has demonstrated the feasibility of PhotoScan, a deep learning approach that estimates body composition and predicts insulin resistance using standard smartphone imagery. The tool aims to provide clinical-grade assessments of cardiometabolic risk comparable to expensive DXA scans, offering a more accessible way to screen for early metabolic disease.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "source": "Hacker News",
-      "published": "2026-08-20T11:03:29+00:00"
     },
     {
       "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
@@ -300,13 +300,22 @@
       "published": "2026-08-20T00:01:42+00:00"
     },
     {
-      "headline": "NFL Rookies Eye College Returns Following Colorado NCAA Ruling",
-      "summary": "Recent NCAA eligibility rulings originating in Colorado have prompted some current NFL rookies to explore the unprecedented possibility of returning to college football. The unfolding situation highlights potential shifts in the boundary between collegiate athletics and the professional ranks.",
-      "category": "NFL",
+      "headline": "DiffusionGemma Unveils Ultra-Fast Open-Weight Text Generation",
+      "summary": "Researchers introduced DiffusionGemma, an experimental model that uses discrete diffusion to generate text in parallel blocks of 256 tokens rather than relying on standard sequential decoding. Built by fine-tuning Gemma 4, the model achieves up to 1,500 output tokens per second on a single NVIDIA H100 GPU. It bypasses traditional autoregressive bottlenecks while maintaining multimodal and long-context capabilities.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cbssports.com/college-football/news/nfl-rookies-returning-college-football-ncaa-eligibility/",
-      "source": "CBS Sports",
-      "published": "2026-08-19T21:31:09+00:00"
+      "url": "https://arxiv.org/abs/2608.00146",
+      "source": "Hacker News",
+      "published": "2026-08-20T13:24:32+00:00"
+    },
+    {
+      "headline": "Google Researchers Unveil Deep Learning Tool to Estimate Insulin Resistance via Smartphone Photos",
+      "summary": "Google Research has demonstrated the feasibility of PhotoScan, a deep learning approach that estimates body composition and predicts insulin resistance using standard smartphone imagery. The tool aims to provide clinical-grade assessments of cardiometabolic risk comparable to expensive DXA scans, offering a more accessible way to screen for early metabolic disease.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "source": "Hacker News",
+      "published": "2026-08-20T11:03:29+00:00"
     },
     {
       "headline": "Evaluating Faith and Identity in Christian Higher Education",
@@ -372,49 +381,49 @@
       "published": "2026-08-20T11:30:18+00:00"
     },
     {
-      "headline": "Computer-Driven 2026 Fantasy Football Breakout Predictions",
-      "summary": "CBS Sports highlights a computer model's breakout player projections for the 2026 fantasy football season. The system previously flagged Tetairoa McMillan ahead of his massive campaign. Analysts use these algorithmic insights to spot rising stars before they hit mainstream draft boards.",
+      "headline": "CBS Sports Previews 2026 Fantasy Football Busts Using Predictive Models",
+      "summary": "CBS Sports examines potential fantasy football busts for the 2026 season using the analytical model that previously flagged Terry McLaurin's struggles. The data-driven breakdown helps managers identify overvalued players before draft day.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-computer-that-called-tetairoa-mcmillans-huge-season/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-called-terry-mclaurins-tough-season/",
       "source": "CBS Sports",
-      "published": "2026-08-20T14:38:57+00:00"
+      "published": "2026-08-20T15:03:02+00:00"
     },
     {
-      "headline": "DiffusionGemma Unveils Ultra-Fast Open-Weight Text Generation",
-      "summary": "Researchers introduced DiffusionGemma, an experimental model that uses discrete diffusion to generate text in parallel blocks of 256 tokens rather than relying on standard sequential decoding. Built by fine-tuning Gemma 4, the model achieves up to 1,500 output tokens per second on a single NVIDIA H100 GPU. It bypasses traditional autoregressive bottlenecks while maintaining multimodal and long-context capabilities.",
+      "headline": "CBS Sports Releases DFS Picks and Lineups for Week 2 NFL Preseason Action",
+      "summary": "CBS Sports provides daily fantasy football advice and optimal Thursday night lineups for DraftKings and FanDuel contests. The slate covers crucial Week 2 preseason matchups as players battle for roster spots.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-2-nfl-preseason-daily-fantasy-football-picks-thursday-lineups/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T14:50:03+00:00"
+    },
+    {
+      "headline": "CBS Sports Highlights 2026 Fantasy Sleepers Backed by Predictive Computer Model",
+      "summary": "Using the same computer modeling that accurately forecasted De'Von Achane's breakout campaign, CBS Sports surfaces under-the-radar sleepers for the 2026 fantasy football season. The data highlights overlooked players poised for significant production.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-phenomenal-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T14:02:42+00:00"
+    },
+    {
+      "headline": "How a First-Time Player Won the Fantasy Premier League: Five Core Strategies",
+      "summary": "Erik Ibsen, a 23-year-old medical student who topped 11 million players in his debut season, shares his winning FPL tips. He emphasizes patience through poor gameweeks, avoiding influencer advice, and stacking the squad with cheap enablers to afford premium talent.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3ekq87e214o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-19T07:11:05.941Z"
+    },
+    {
+      "headline": "AI Enhances Rather Than Eradicates the Value of Junior Engineers",
+      "summary": "While AI can handle routine coding tasks, it actually elevates junior developers by allowing them to lead minor feature development and directly engage with product requirements. Instead of acting as mere middlemen, junior staff can now drive complete solutions under senior guidance.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://arxiv.org/abs/2608.00146",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
       "source": "Hacker News",
-      "published": "2026-08-20T13:24:32+00:00"
-    },
-    {
-      "headline": "ICE Detention Grievance System Plagued by Severe Failures",
-      "summary": "An NPR investigation reveals that the grievance tracking system inside ICE detention facilities has effectively collapsed, leaving detainees with virtually no oversight or recourse. The broken reporting mechanism has forced desperate immigrants to resort to dangerous hunger strikes to protest mistreatment, medical neglect, and severe conditions.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5850361/grievance-ice-detention-immigrants",
-      "source": "NPR News",
-      "published": "2026-08-20T09:00:00+00:00"
-    },
-    {
-      "headline": "Premier League Cracks Down on Penalty Box Set-Piece Shoving",
-      "summary": "Premier League referees are under strict orders to penalize aggressive holding, blocking, and grappling during corner kicks and set-pieces this season. Officials will focus heavily on non-footballing actions where players ignore the ball entirely to obstruct opponents. The change follows widespread criticism over unpunished fouls and missed VAR interventions last year.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-08-20T12:53:03.066Z"
-    },
-    {
-      "headline": "Lebanon Extradites Ex-Assad General to Syria on War Crimes Charges",
-      "summary": "Lebanon handed over former Syrian general Maj Gen Adel Issa to authorities in Damascus, marking the first extradition of an Assad-regime official since the government collapsed. Issa faces severe charges including murder and torture leading to death stemming from his command in Deir Ezzor. The handover utilizes a 1951 bilateral agreement as Syria's new leadership aggressively pursues exiled military figures.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T12:38:35.836Z"
+      "published": "2026-08-18T00:00:00.000Z"
     },
     {
       "headline": "Coding a $27 Smartwatch with AI Agents",
@@ -423,25 +432,16 @@
       "relevance": 7,
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "source": "Hacker News",
-      "published": "2026-08-19T19:30:00-06:00"
+      "published": "2026-08-20T14:08:09+00:00"
     },
     {
-      "headline": "Evergrande Founder Hui Ka Yan Sentenced to Life in Prison",
-      "summary": "Evergrande founder Hui Ka Yan has been sentenced to life in prison, and his collapsed property empire was hit with a $2.3 billion fine by a Chinese court. The ruling follows the developer's 2020 default under Beijing's debt crackdown, which triggered a massive $300 billion liability crisis and a prolonged property slump. Hui was convicted of orchestrating large-scale financial fraud to artificially inflate the company's assets.",
-      "category": "World",
+      "headline": "Premier League Cracks Down on Penalty Box Set-Piece Shoving",
+      "summary": "Premier League referees are under strict orders to penalize aggressive holding, blocking, and grappling during corner kicks and set-pieces this season. Officials will focus heavily on non-footballing actions where players ignore the ball entirely to obstruct opponents. The change follows widespread criticism over unpunished fouls and missed VAR interventions last year.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5939335/chinese-sentence-founder-evergrande",
-      "source": "NPR News",
-      "published": "2026-08-20T03:31:55-04:00"
-    },
-    {
-      "headline": "North Korea Fires Suspected Missile Following Joint Drill Cutbacks",
-      "summary": "Japan detected a suspected ballistic missile launched by North Korea toward the sea on Thursday. The launch occurred just a day after Pyongyang dismissed a U.S. and South Korean decision to scale back joint military exercises. The scaled-back drills followed instructions from President Trump to reduce military exercises in the region.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/20/g-s1-139381/north-korea-suspected-missile",
-      "source": "NPR News",
-      "published": "2026-08-20T05:24:45-04:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c0jl03lv775o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-20T12:53:03+00:00"
     },
     {
       "headline": "Jeremy Morrell Argues LLMs Unlock Extensible Web Software",
