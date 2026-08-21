@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:22:58.462677+00:00",
+  "generated_at": "2026-08-21T09:05:36.842308+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -171,7 +171,7 @@
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T23:15:15+00:00"
+      "published": "2026-08-21T08:38:18+00:00"
     },
     {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
@@ -192,13 +192,13 @@
       "published": "2026-08-20T22:19:22+00:00"
     },
     {
-      "headline": "Leonard Moore Tops Early 2027 NFL Draft CB Rankings",
-      "summary": "CBS Sports has released its opening scouting series for the 2027 NFL Draft, positioning cornerback Leonard Moore at the head of the top 10 prospects. Analysts are already evaluating whether his skillset makes him the premier cornerback prospect to emerge since Jalen Ramsey.",
+      "headline": "Raiders Face Texans in Week 2 NFL Preseason Matchup",
+      "summary": "The Las Vegas Raiders and Houston Texans are set to square off in a Week 2 Thursday preseason game. Betting experts and oddsmakers have released their latest spreads and predictions for the matchup.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-cornerback-rankings-leonard-moore/",
+      "url": "https://www.cbssports.com/betting/news/raiders-texans-prediction-odds-time-nfl-week-2-preseason-thursday/",
       "source": "CBS Sports",
-      "published": "2026-08-20T20:15:53+00:00"
+      "published": "2026-08-20T22:11:35+00:00"
     },
     {
       "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
@@ -219,13 +219,13 @@
       "published": "2026-08-19T23:16:00+00:00"
     },
     {
-      "headline": "Seed Launches Minimal, Self-Modifying AI Agent Framework",
-      "summary": "A new minimalist GitHub project called Seed gives developers a stripped-down starting point for language model agents with zero traditional frameworks. Running on a single bash-execution loop, the agent relies entirely on its own self-written documentation and local sessions to grow its capabilities over time.",
+      "headline": "Engineers Rebuild Linux MicroVM Stack for Apple Silicon",
+      "summary": "To bridge the gap between production Firecracker environments and macOS development laptops, engineering teams built a unified API called crackling. The tool drives Apple's native hypervisor on Macs while running identical images, eliminating the need for a shared remote development machine.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/vivekhaldar/seed",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
       "source": "Hacker News",
-      "published": "2026-08-21T05:20:50+00:00"
+      "published": "2026-08-21T06:59:40+00:00"
     },
     {
       "headline": "CBS Sports Releases 2026 Fantasy Football Draft Kit and Strategy Guide",
@@ -246,6 +246,15 @@
       "published": "2026-08-20T21:51:56+00:00"
     },
     {
+      "headline": "Leonard Moore Tops Early 2027 NFL Draft CB Rankings",
+      "summary": "CBS Sports has released its opening scouting series for the 2027 NFL Draft, positioning cornerback Leonard Moore at the head of the top 10 prospects. Analysts are already evaluating whether his skillset makes him the premier cornerback prospect to emerge since Jalen Ramsey.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-cornerback-rankings-leonard-moore/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T20:15:53+00:00"
+    },
+    {
       "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
       "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
       "category": "NFL",
@@ -255,6 +264,15 @@
       "published": "2026-08-20T19:36:02+00:00"
     },
     {
+      "headline": "Seed Launches Minimal, Self-Modifying AI Agent Framework",
+      "summary": "A new minimalist GitHub project called Seed gives developers a stripped-down starting point for language model agents with zero traditional frameworks. Running on a single bash-execution loop, the agent relies entirely on its own self-written documentation and local sessions to grow its capabilities over time.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/vivekhaldar/seed",
+      "source": "Hacker News",
+      "published": "2026-08-21T05:20:50+00:00"
+    },
+    {
       "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
       "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
       "category": "Tech/AI",
@@ -262,6 +280,15 @@
       "url": "https://github.com/openai/codex/issues/37674",
       "source": "Hacker News",
       "published": "2026-08-21T03:17:43+00:00"
+    },
+    {
+      "headline": "OpenRouter Lists Stealth Reasoning Model 'Ox Alpha'",
+      "summary": "OpenRouter introduced Ox Alpha, a stealth reasoning model tailored for long-horizon software engineering and multimodal workflows combining text and visual context. The model features a massive one-million-token context window and is operated by an anonymous third-party provider.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "source": "Hacker News",
+      "published": "2026-08-20T23:56:35+00:00"
     },
     {
       "headline": "Developer Builds Huzzah to Replace Natural Language AI Prompting with Pseudocode",
@@ -318,6 +345,24 @@
       "published": "2026-08-20T18:55:14+00:00"
     },
     {
+      "headline": "Trump's Upcoming 'Economic D-Day' Targets Iran's Global Trade",
+      "summary": "The Trump administration plans to unveil a severe new economic pressure campaign targeting any nation conducting business with Iran. Treasury Secretary Scott Bessent and Vice-President JD Vance emphasized that the enforcement will penalize entities handling money, oil, or transfers, despite Iran's long history of enduring heavy sanctions.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T23:16:45+00:00"
+    },
+    {
+      "headline": "Hong Kong Court Convicts Activists Over Tiananmen Vigils",
+      "summary": "Prominent activists Lee Cheuk-yan and Chow Hang-tung have been found guilty of inciting subversion under Hong Kong's national security law for organizing annual commemorations of the 1989 Tiananmen Square crackdown. The defendants face up to 10 years in prison following the prosecution of the now-defunct Hong Kong Alliance leaders.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T05:47:32+00:00"
+    },
+    {
       "headline": "Panama Canal Restricts Daily Ship Transits Due to El Niño",
       "summary": "The Panama Canal Authority is cutting daily vessel transits from 36 to 32 starting in September to conserve dwindling water resources caused by a powerful El Niño cycle. The restrictions compound existing global shipping disruptions from geopolitical conflicts, threatening vital international trade routes.",
       "category": "World",
@@ -372,60 +417,6 @@
       "published": "2026-08-20T16:50:41+00:00"
     },
     {
-      "headline": "US National Debt Clears $40 Trillion Milestone Amid Census Concerns",
-      "summary": "The U.S. government's cumulative debt has officially surpassed $40 trillion, with Washington adding more than $2 trillion to the deficit this year alone. Meanwhile, experts are raising red flags over a new census report concerning noncitizen voting that is being heavily promoted by Donald Trump due to its ties to an aligned think tank.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/20/g-s1-139388/up-first-newsletter-us-debt-venezuela-oil-deals-census-bureau-trump-voting-claims",
-      "source": "NPR News",
-      "published": "2026-08-20T11:30:18+00:00"
-    },
-    {
-      "headline": "Trump's Upcoming 'Economic D-Day' Targets Iran's Global Trade",
-      "summary": "The Trump administration plans to unveil a severe new economic pressure campaign targeting any nation conducting business with Iran. Treasury Secretary Scott Bessent and Vice-President JD Vance emphasized that the enforcement will penalize entities handling money, oil, or transfers, despite Iran's long history of enduring heavy sanctions.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T23:16:45.992Z"
-    },
-    {
-      "headline": "Engineers Rebuild Linux MicroVM Stack for Apple Silicon",
-      "summary": "To bridge the gap between production Firecracker environments and macOS development laptops, engineering teams built a unified API called crackling. The tool drives Apple's native hypervisor on Macs while running identical images, eliminating the need for a shared remote development machine.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "source": "Hacker News",
-      "published": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "headline": "Hong Kong Court Convicts Activists Over Tiananmen Vigils",
-      "summary": "Prominent activists Lee Cheuk-yan and Chow Hang-tung have been found guilty of inciting subversion under Hong Kong's national security law for organizing annual commemorations of the 1989 Tiananmen Square crackdown. The defendants face up to 10 years in prison following the prosecution of the now-defunct Hong Kong Alliance leaders.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T02:22:17.530Z"
-    },
-    {
-      "headline": "OpenRouter Lists Stealth Reasoning Model 'Ox Alpha'",
-      "summary": "OpenRouter introduced Ox Alpha, a stealth reasoning model tailored for long-horizon software engineering and multimodal workflows combining text and visual context. The model features a massive one-million-token context window and is operated by an anonymous third-party provider.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "source": "Hacker News",
-      "published": "2026-08-20T23:56:35+00:00"
-    },
-    {
-      "headline": "Raiders Face Texans in Week 2 NFL Preseason Matchup",
-      "summary": "The Las Vegas Raiders and Houston Texans are set to square off in a Week 2 Thursday preseason game. Betting experts and oddsmakers have released their latest spreads and predictions for the matchup.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/raiders-texans-prediction-odds-time-nfl-week-2-preseason-thursday/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T22:11:35+00:00"
-    },
-    {
       "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
       "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
       "category": "Music",
@@ -442,6 +433,15 @@
       "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
       "source": "Pitchfork",
       "published": "2026-08-21T04:01:00+00:00"
+    },
+    {
+      "headline": "Squirrel Flower Hits the Open Road Again on Fourth LP",
+      "summary": "Ella Williams returns with her fourth album, Say a Prayer to the Gods of Getting Going, blending tender indie rock with themes of transience and escape. Produced by Alex Farrar, the record carries over the gritty heartland aesthetics of her 2023 release Tomorrow's Fire while spotlighting her commanding alto vocals. Across tracks shaped by relentless touring, Williams examines the eternal tension between planting roots and chasing the horizon.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:02:00+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
