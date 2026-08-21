@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:18:36.439370+00:00",
+  "generated_at": "2026-08-21T16:56:59.187940+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -147,13 +147,13 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
-      "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
+      "headline": "Why Did the Cavaliers Overpay Aging James Harden?",
+      "summary": "Cleveland baffled analysts by handing a 37-year-old James Harden a massive three-year, $97 million contract despite zero competitive market bidding against them. With no other contending franchises possessing the cap space to offer more than the mid-level exception, observers are questioning if a backroom handshake agreement was already in place before free agency officially opened.",
       "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.thirdapron.com/p/peyton-watson-to-the-cavaliers-max",
-      "source": "Third Apron",
-      "published": "2026-08-20T04:36:02+00:00"
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/nba/comments/1vu4r46/serious_who_was_the_cavs_trying_to_outbid_with/",
+      "source": "r/NBA",
+      "published": "2026-08-21T03:20:24+00:00"
     },
     {
       "headline": "Denver's Defensive Shell Game",
@@ -171,7 +171,7 @@
       "relevance": 8,
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
-      "published": "2026-08-21T13:48:08+00:00"
+      "published": "2026-08-21T16:27:00+00:00"
     },
     {
       "headline": "CBS Sports Drops Early 2026 Fantasy Football Prep",
@@ -201,13 +201,13 @@
       "published": "2026-08-20T23:57:32+00:00"
     },
     {
-      "headline": "Developer Tool 'Claudette' Translates AI Tech-Speak into Plain English",
-      "summary": "Frustrated by Claude's penchant for verbose, clickbait-style prose, developers created a local coding skill that passes the AI's responses through the Gemini CLI. Dubbed 'Claudette,' the tool strips out dramatic filler and numbered revelations to deliver straightforward, human-readable answers without altering the underlying technical substance.",
+      "headline": "Qwen3-TTS Implementation Hits Sub-50 ms Latency",
+      "summary": "Nari Labs benchmarked its custom Qwen3-TTS 1.7B setup on an NVIDIA H100 SXM, achieving 10 requests per second with a p95 time-to-first-audio of under 50 milliseconds. The system outpaces default configurations from engines like vLLM-Omni and SGLang-Omni, translating to roughly $2 per million characters at full capacity. The team has open-sourced both their implementation and benchmarking methodology.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
       "source": "Hacker News",
-      "published": "2026-08-21T14:31:52+00:00"
+      "published": "2026-08-21T15:51:10+00:00"
     },
     {
       "headline": "Squirrel Flower Returns with Tender Heartland Rock on New LP",
@@ -237,13 +237,22 @@
       "published": "2026-08-21T13:19:11+00:00"
     },
     {
-      "headline": "CBS Sports Releases Week 2 Preseason DFS Picks",
-      "summary": "CBS Sports has published its daily fantasy football lineup advice and picks for Friday's Week 2 NFL preseason matchups. The guide covers optimal player selections for both DraftKings and FanDuel contests. Bettors can use these recommendations to build winning slates for Friday's action.",
-      "category": "Sports",
+      "headline": "Study Shows AI Homework Boost Leads to Exam Score Drop",
+      "summary": "Research tracking 27,000 students in China revealed that pupils using AI tools saw their homework scores climb by 18% over six months. However, the same students scored 20% lower than non-users when tested under closed-book exam conditions without AI assistance. The findings suggest that heavy reliance on artificial intelligence for daily assignments hinders long-term knowledge retention.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-2-preseason-daily-fantasy-football-picks-friday-lineups/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T11:54:56+00:00"
+      "url": "https://canews24.online/?p=71",
+      "source": "Hacker News",
+      "published": "2026-08-21T15:25:42+00:00"
+    },
+    {
+      "headline": "AgentSight Brings eBPF Observability to AI Agents Without Code Changes",
+      "summary": "Alibaba's open-source AgentSight uses Linux eBPF probes to monitor AI agents at the kernel level without requiring modifications to agent source code. It tracks LLM API calls, token consumption, and process execution while offering real-time dashboard visualizations and automatic process discovery. The tool requires Linux Kernel 5.8 or higher with root or CAP_BPF privileges to capture system-wide metrics.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+      "source": "Hacker News",
+      "published": "2026-08-21T15:21:10+00:00"
     },
     {
       "headline": "Evaluating Faith and Identity in Christian Higher Education",
@@ -318,49 +327,31 @@
       "published": "2026-08-21T09:00:00+00:00"
     },
     {
-      "headline": "Qwen3-TTS Implementation Hits Sub-50 ms Latency",
-      "summary": "Nari Labs benchmarked its custom Qwen3-TTS 1.7B setup on an NVIDIA H100 SXM, achieving 10 requests per second with a p95 time-to-first-audio of under 50 milliseconds. The system outpaces default configurations from engines like vLLM-Omni and SGLang-Omni, translating to roughly $2 per million characters at full capacity. The team has open-sourced both their implementation and benchmarking methodology.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "source": "Hacker News",
-      "published": "2026-08-19T00:00:00+09:00"
-    },
-    {
-      "headline": "Seven Months of Zero Incidents Under an AI Agent Constitution",
-      "summary": "A developer managed a personal fleet of AI agents for seven months using a strict written constitution rather than traditional system prompts or guardrails. The framework successfully blocked risky midnight trades, opaque deployment blobs, and unauthorized audio changes without manual intervention. By treating any non-human-readable code as untrusted and maintaining an append-only audit trail, the setup achieved zero operational incidents.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/Chong169/a-constitution-for-one",
-      "source": "Hacker News",
-      "published": "2026-08-21T15:48:32+00:00"
-    },
-    {
-      "headline": "Study Shows AI Homework Boost Leads to Exam Score Drop",
-      "summary": "Research tracking 27,000 students in China revealed that pupils using AI tools saw their homework scores climb by 18% over six months. However, the same students scored 20% lower than non-users when tested under closed-book exam conditions without AI assistance. The findings suggest that heavy reliance on artificial intelligence for daily assignments hinders long-term knowledge retention.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://canews24.online/?p=71",
-      "source": "Hacker News",
-      "published": "2026-08-21T15:25:42+00:00"
-    },
-    {
-      "headline": "AgentSight Brings eBPF Observability to AI Agents Without Code Changes",
-      "summary": "Alibaba's open-source AgentSight uses Linux eBPF probes to monitor AI agents at the kernel level without requiring modifications to agent source code. It tracks LLM API calls, token consumption, and process execution while offering real-time dashboard visualizations and automatic process discovery. The tool requires Linux Kernel 5.8 or higher with root or CAP_BPF privileges to capture system-wide metrics.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-      "source": "Hacker News",
-      "published": "2026-08-21T15:21:10+00:00"
-    },
-    {
-      "headline": "CBS Sports Ranks NBA's Top 12 Duos with Familiar Faces Leading the Pack",
-      "summary": "CBS Sports released its ranking of the NBA's twelve best tandems, featuring familiar superstar pairs at the summit alongside three newly formed duos. The breakdown evaluates how these elite partnerships position their respective franchises heading into the upcoming season.",
+      "headline": "Marc Stad Takes Control of Timberwolves and Lynx",
+      "summary": "Business leader Marc Stad has secured majority ownership of the NBA's Minnesota Timberwolves and the WNBA's Minnesota Lynx. Stad bought out the bulk of co-owner Marc Lore's stake based on a hefty $4.5 billion valuation for the franchises.",
       "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nba/news/ranking-nba-12-best-duos/",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vuipyi/charania_american_business_leader_marc_stad_has/",
+      "source": "r/NBA",
+      "published": "2026-08-21T14:58:49+00:00"
+    },
+    {
+      "headline": "Stad Leadership Structure Finalized for Minnesota Teams",
+      "summary": "Following his acquisition, Marc Stad and his wife Elisa are taking the helm of the Minnesota franchises. Elisa Stad will step in as the designated governor for the Timberwolves, while Rodriguez maintains his governance role over the WNBA's Lynx.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vuiydx/krawcyznski_stad_and_his_wife_elisa_will_now/",
+      "source": "r/NBA",
+      "published": "2026-08-21T15:07:12+00:00"
+    },
+    {
+      "headline": "Targeting Early Round Running Backs is the 2026 Fantasy Blueprint",
+      "summary": "Securing running backs in the first and two rounds is being touted as the essential strategy for dominating fantasy football leagues in 2026. Fantasy managers are advised to prioritize elite backfield talent early to build a winning roster. Capitalizing on high-volume rushers right out of the gate provides a distinct competitive advantage.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/drafting-the-rounds-1-2-running-backs-is-the-secret-recipe-to-winning-2026-fantasy-football-leagues/",
       "source": "CBS Sports",
-      "published": "2026-08-21T14:27:25+00:00"
+      "published": "2026-08-21T15:53:51+00:00"
     },
     {
       "headline": "NFL Preseason Injury Tracker Monitors Key Players Across the League",
@@ -370,6 +361,15 @@
       "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/",
       "source": "CBS Sports",
       "published": "2026-08-21T13:43:57+00:00"
+    },
+    {
+      "headline": "CBS Sports Ranks NBA's Top 12 Duos with Familiar Faces Leading the Pack",
+      "summary": "CBS Sports released its ranking of the NBA's twelve best tandems, featuring familiar superstar pairs at the summit alongside three newly formed duos. The breakdown evaluates how these elite partnerships position their respective franchises heading into the upcoming season.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nba/news/ranking-nba-12-best-duos/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T14:27:25+00:00"
     },
     {
       "headline": "Bluesky Active User Base Slips as Growth Slows Post-Election Surge",
