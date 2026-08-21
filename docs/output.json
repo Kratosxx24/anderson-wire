@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T05:21:41.714717+00:00",
+  "generated_at": "2026-08-21T05:54:11.755496+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -91,6 +91,15 @@
       "url": "https://www.thegospelcoalition.org/article/roach-infestation-taught-rest/",
       "source": "The Gospel Coalition",
       "published": "2026-08-20T04:00:00+00:00"
+    },
+    {
+      "headline": "MKBHD Breaks Down the Google Pixel 11, Pro, and Fold Lineup",
+      "summary": "Marques Brownlee shares his hands-on impressions of Google's upcoming Pixel 11, Pro, and Fold devices. He evaluates how the new hardware iterations stack up against competitors in a crowded mobile market. The breakdown focuses on practical usability rather than revolutionary upgrades.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
+      "source": "MKBHD",
+      "published": "2026-08-12T14:00:35+00:00"
     },
     {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
@@ -282,6 +291,24 @@
       "published": "2026-08-20T09:24:45+00:00"
     },
     {
+      "headline": "Every Model Cheats",
+      "summary": "",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "source": "Hacker News",
+      "published": "2026-07-29T00:00:00.000Z"
+    },
+    {
+      "headline": "DiffusionGemma Unlocks Rapid Parallel Text Generation",
+      "summary": "Researchers introduced DiffusionGemma, an open-weight model that uses discrete diffusion to generate text in parallel blocks of 256 tokens. By fine-tuning a Gemma 4 mixture-of-experts model using under 10% of standard training tokens, it achieves roughly 1,500 tokens per second on an NVIDIA H100 GPU. This approach bypasses the sequential bottlenecks of conventional autoregressive models while preserving multimodal and thinking-mode support.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://arxiv.org/abs/2608.00146",
+      "source": "Hacker News",
+      "published": "2026-08-20T13:24:32+00:00"
+    },
+    {
       "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
       "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
       "category": "Music",
@@ -342,7 +369,34 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T05:01:24.197Z"
+      "published": "2026-08-20T05:01:24+00:00"
+    },
+    {
+      "headline": "Fred again.. and Latin Mafia Drop Collaborative Mixtape 9 months & 50 hours",
+      "summary": "British producer Fred again.. and Mexican alt-pop trio Latin Mafia joined forces for a 14-track project born from a 50-hour livestreamed recording session. The mixtape merges Latin house, cumbia rhythms, and soulful R&B, highlighting a shared creative spontaneity. It captures an experimental bridge between alternative Latin music and electronic ambiance.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:01:00+00:00"
+    },
+    {
+      "headline": "College Football Staffers Sound Off on Returning NFL Players",
+      "summary": "College football programs are reacting intensely to the potential fallout of former NFL players returning to collegiate rosters. Staffers are describing the shift as opening the floodgates for unprecedented roster dynamics. The policy changes threaten to further blur the lines between professional and collegiate athletics.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/college-football/news/college-football-staffers-react-nfl-players-returning/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T20:35:21+00:00"
+    },
+    {
+      "headline": "Why Anti-AI Scrambled Fonts Fail Both Privacy and Accessibility",
+      "summary": "Attempting to block AI scrapers using scrambled or obfuscated 'anti-AI' fonts actively harms accessibility by breaking screen readers for disabled users. Furthermore, these text obfuscations are easily bypassed by multimodal AI models and create a pointless cat-and-mouse game. True protection would require centralized identity verification, posing major privacy risks.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "source": "Hacker News",
+      "published": "2026-08-20T15:06:53+00:00"
     },
     {
       "headline": "Prediction Markets Open Betting on Pittsburgh Steelers Season",
@@ -388,60 +442,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-21T04:27:13+00:00"
-    },
-    {
-      "headline": "Boat Capsize in North-Western Nigeria Leaves Dozens Dead",
-      "summary": "At least 46 people died after an overcrowded boat carrying mostly children capsized in Nigeria's Sokoto state near Gorau. Emergency services and local security forces launched a search operation for 15 missing passengers, underscoring ongoing safety hazards tied to remote river transport.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T20:27:36+00:00"
-    },
-    {
-      "headline": "Nigeria's Once-Dominant PDP Faces Political Extinction",
-      "summary": "The Peoples Democratic Party, which ruled Nigeria for 16 years following the return to democracy in 1999, now teeters on the brink of irrelevance. Crippled by bitter leadership feuds, court battles, and a devastating wave of state governor defections to the ruling APC, the party is struggling ahead of January's general election. Analysts attribute this steep decline to the party's inability to adapt to life in opposition after losing the 2015 presidency.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T23:21:22.228Z"
-    },
-    {
-      "headline": "Giants and Dolphins Face Potential NFL Discipline After Joint Practice Brawl",
-      "summary": "Multiple players were ejected following a violent on-field brawl during a joint practice between the New York Giants and Miami Dolphins. The altercation has raised concerns league-wide and could result in official disciplinary action from the NFL.",
-      "category": "NFL",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/nfl/news/giants-dolphins-joint-practice-fight/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T01:18:19+00:00"
-    },
-    {
-      "headline": "AI Firms Are Buying and Destroying Rare Physical Books to Train Models",
-      "summary": "Artificial intelligence companies are acquiring millions of secondhand books through intermediaries to scan and subsequently destroy them for exclusive training data. In response, open library advocates at Anna's Archive are urging volunteers worldwide to rapidly digitize rare literature before physical copies vanish permanently.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "source": "Hacker News",
-      "published": "2026-08-21T02:37:47+00:00"
-    },
-    {
-      "headline": "Squirrel Flower Delivers Tender, Road-Worn Indie Rock on New Album",
-      "summary": "Ella Williams returns with her fourth full-length album under the moniker Squirrel Flower, titled Say a Prayer to the Gods of Getting Going. Produced by Alex Farrar, the record leans into heartland rock arrangements and sharp emotional realism while exploring the tension between transience and settling down.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:02:00+00:00"
-    },
-    {
-      "headline": "Supergroup Dinner Party Embraces Restraint on Third Album 'Whatchu Bringing?'",
-      "summary": "Jazz-rap collective Dinner Party—comprising Robert Glasper, Terrace Martin, Kamasi Washington, and 9th Wonder—has released its third studio LP, leaning into easygoing camaraderie over virtuoso grandstanding. Chicago singer Phoelix serves as an essential anchor, co-writing all nine tracks and blending smoothly into the project's relaxed, communal production.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
-      "source": "Pitchfork",
-      "published": "2026-08-20T04:02:00+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
