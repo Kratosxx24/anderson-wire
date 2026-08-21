@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-08-21T19:34:55.163121+00:00",
+  "generated_at": "2026-08-21T19:52:28.824143+00:00",
   "story_count": 50,
   "stories": [
-    {
-      "headline": "Chasing the Solar Eclipse in Spain",
-      "summary": "The team traveled to Spain to witness and document a total solar eclipse firsthand. The journey involved setting up specialized gear to capture the celestial event in high detail. Despite logistical hurdles, the expedition yielded striking footage of the rare phenomenon.",
-      "category": "YouTube",
-      "relevance": 10,
-      "url": "https://www.youtube.com/watch?v=ZrAkCJS9H1s",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-08-17T17:03:00+00:00"
-    },
     {
       "headline": "MKBHD Tests Email Boundaries Again",
       "summary": "Popular tech YouTuber Marques Brownlee has released a new video documenting the chaotic results of saying yes to every single email he received for an entire month. The experiment pushes his schedule and resources to the limit as bizarre and demanding requests roll in. Viewers get an unfiltered look at the logistical nightmare behind fulfilling a month's worth of unvetted commitments.",
@@ -21,6 +12,15 @@
       "published": "2026-08-21T18:53:07+00:00"
     },
     {
+      "headline": "Chasing the Solar Eclipse in Spain",
+      "summary": "The team traveled to Spain to witness and document a total solar eclipse firsthand. The journey involved setting up specialized gear to capture the celestial event in high detail. Despite logistical hurdles, the expedition yielded striking footage of the rare phenomenon.",
+      "category": "YouTube",
+      "relevance": 10,
+      "url": "https://www.youtube.com/watch?v=ZrAkCJS9H1s",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-08-17T17:03:00+00:00"
+    },
+    {
       "headline": "NBA Roundup: 2026 Projections, Duren Contract Talks, and Peyton Watson Trade Breakdown",
       "summary": "Basketball Intelligence's latest briefing highlights major offseason storylines, including stalled contract negotiations for Pistons center Jalen Duren and Washington's acquisition of Tre Mann. The curation also features league-wide 2026-27 projections, 2027 draft scouting reports, and analysis of a five-team Peyton Watson blockbuster trade.",
       "category": "NBA",
@@ -28,6 +28,15 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82026",
       "source": "Basketball Intelligence",
       "published": "2026-08-20T17:30:43+00:00"
+    },
+    {
+      "headline": "Paul George Faces Massive Expectations in Boston",
+      "summary": "Following the trade that sent Jaylen Brown to Philadelphia, Paul George is carrying the weight of replacing his scoring, playmaking, and defensive presence. Analysts note that his performance will dictate whether the Celtics can remain competitive in a brutal Eastern Conference. Boston hopes a healthy season from George will push them toward their high-end ceiling rather than their worst-case scenario.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://nesn.com/boston-celtics/news/paul-george-celtics-ceiling-floor-miles-apart/81c74c28148337666a95487d",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-20T19:04:39Z"
     },
     {
       "headline": "How Vance Joseph's Red-Zone Scheme Locks Down the Goal Line",
@@ -138,13 +147,31 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Paul George Faces Massive Expectations in Boston",
-      "summary": "Following the trade that sent Jaylen Brown to Philadelphia, Paul George is carrying the weight of replacing his scoring, playmaking, and defensive presence. Analysts note that his performance will dictate whether the Celtics can remain competitive in a brutal Eastern Conference. Boston hopes a healthy season from George will push them toward their high-end ceiling rather than their worst-case scenario.",
-      "category": "NBA",
+      "headline": "CBS Sports Drops Early 2026 Fantasy Football Rankings",
+      "summary": "CBS Sports has released its comprehensive 2026 fantasy football draft preparation tools. The newly published suite includes analytical models, positional tiers, and cheat sheets for quarterbacks, running backs, wide receivers, and tight ends.",
+      "category": "Sports",
       "relevance": 9,
-      "url": "https://nesn.com/boston-celtics/news/paul-george-celtics-ceiling-floor-miles-apart/81c74c28148337666a95487d",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-20T19:04:39+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-unveils-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-20T18:25:32Z"
+    },
+    {
+      "headline": "Anthropic Expands Access to Claude Mythos 5 for Cyber Defense",
+      "summary": "Anthropic is integrating its advanced Claude Mythos 5 model into Claude Security and partner tools to bolster defensive capabilities. Alongside this expansion, the company is launching a $35 million fund to secure open-source software and scaling up its Cyber Verification Program.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source": "Hacker News",
+      "published": "Aug 21, 2026"
+    },
+    {
+      "headline": "Anthropic Moves to Ease Enterprise Backlash Over Data Retention",
+      "summary": "Anthropic is developing new controls that will allow enterprise clients to store required 30-day retention data on their own cloud infrastructure. The upcoming update aims to soothe privacy concerns raised by corporate users while maintaining security protocols for frontier AI models.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://cryptobriefing.com/anthropic-data-retention-policy-frontier-ai/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-20T18:07:32+00:00"
     },
     {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
@@ -183,22 +210,22 @@
       "published": "2026-08-21T18:30:03+00:00"
     },
     {
-      "headline": "2026 Fantasy Football Rankings Leverage Predictive Simulation Models",
-      "summary": "CBS Sports has released its early 2026 fantasy football sleepers, utilizing a simulation model that successfully predicted De'Von Achane's breakout campaign. The insights aim to give managers an early edge by identifying under-the-radar breakout candidates for the upcoming season.",
-      "category": "Sports",
+      "headline": "Brandon Smith Fights for a Spot on Steelers Roster",
+      "summary": "Pittsburgh Steelers wide receiver Brandon Smith transformed his status from a long-shot cut candidate to a legitimate roster contender with a standout training camp. Despite earning praise from Aaron Rodgers and securing first-team reps, a recent hamstring injury threatens his momentum heading into the season. The team may initially release him and utilize the practice squad to keep him in the organization.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-simulation-that-nailed-devon-achanes-amazing-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T17:20:32+00:00"
+      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/08/20/steelers-roster-brandon-smith-outlook-2026-nfl-season/91365859007/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-20T18:46:40Z"
     },
     {
-      "headline": "Targeting Early Round Running Backs is the 2026 Fantasy Blueprint",
-      "summary": "Securing running backs in the first and two rounds is being touted as the essential strategy for dominating fantasy football leagues in 2026. Fantasy managers are advised to prioritize elite backfield talent early to build a winning roster. Capitalizing on high-volume rushers right out of the gate provides a distinct competitive advantage.",
+      "headline": "Jacob Gibbs' league-winning draft picks who could define your 2026 Fantasy Football season",
+      "summary": "",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/drafting-the-rounds-1-2-running-backs-is-the-secret-recipe-to-winning-2026-fantasy-football-leagues/",
+      "url": "https://www.cbssports.com/fantasy/football/news/jacob-gibbs-breakouts-fantasy-football-league-winners/",
       "source": "CBS Sports",
-      "published": "2026-08-21T15:53:51+00:00"
+      "published": "2026-08-21T18:25:11+00:00"
     },
     {
       "headline": "Stratechery Breaks Down EU App Store Compromises and Geopolitical Shifts",
@@ -208,24 +235,6 @@
       "url": "https://stratechery.com/2026/app-snore/",
       "source": "Stratechery",
       "published": "2026-08-21T17:00:00+00:00"
-    },
-    {
-      "headline": "Apple and EU Reach DMA App Payment Agreement with Minor Concessions",
-      "summary": "Apple and the European Commission settled their Digital Markets Act dispute regarding app distribution terms, moving all EU developers to a unified set of guidelines starting October 1. Under the new terms, the standard App Store commission for default in-app purchases drops slightly from 30% to 26%, while alternative payment processing and external links face lower fees alongside a mandatory 5% Core Technology Commission.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little",
-      "source": "Daring Fireball",
-      "published": "2026-08-20T15:12:16+00:00"
-    },
-    {
-      "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
-      "summary": "Data from monitoring firm Promptwatch reveals that ChatGPT Search fanout queries using the site: operator jumped from under 0.5% to roughly 17% following the GPT-5.6 rollout in early August. The change indicates OpenAI has redesigned its underlying retrieval tool to query specific domains directly while reportedly curbing citations from sources like Reddit. The shift reflects broader efforts to make conversational responses more focused and factually reliable without relying on broad web sweeps.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-      "source": "Simon Willison",
-      "published": "2026-08-20T23:57:32+00:00"
     },
     {
       "headline": "Squirrel Flower Returns with Tender Heartland Rock on New LP",
@@ -246,6 +255,24 @@
       "published": "2026-08-21T04:00:00+00:00"
     },
     {
+      "headline": "2026 Fantasy Football Rankings Leverage Predictive Simulation Models",
+      "summary": "CBS Sports has released its early 2026 fantasy football sleepers, utilizing a simulation model that successfully predicted De'Von Achane's breakout campaign. The insights aim to give managers an early edge by identifying under-the-radar breakout candidates for the upcoming season.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-simulation-that-nailed-devon-achanes-amazing-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T17:20:32+00:00"
+    },
+    {
+      "headline": "Targeting Early Round Running Backs is the 2026 Fantasy Blueprint",
+      "summary": "Securing running backs in the first and two rounds is being touted as the essential strategy for dominating fantasy football leagues in 2026. Fantasy managers are advised to prioritize elite backfield talent early to build a winning roster. Capitalizing on high-volume rushers right out of the gate provides a distinct competitive advantage.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/drafting-the-rounds-1-2-running-backs-is-the-secret-recipe-to-winning-2026-fantasy-football-leagues/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T15:53:51+00:00"
+    },
+    {
       "headline": "CBS Sports Drops Early 2026 Fantasy Football Prep",
       "summary": "SportsLine experts have released their preliminary 2026 fantasy football draft materials, featuring updated breakout rankings and tier lists. The resource includes comprehensive top-150 player picks and strategic advice for handling incoming rookies. Managers can use these early insights to start mapping out their upcoming franchise strategies.",
       "category": "Sports",
@@ -253,6 +280,24 @@
       "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-picks-rookie-strategy-advice/",
       "source": "CBS Sports",
       "published": "2026-08-21T15:03:01+00:00"
+    },
+    {
+      "headline": "Apple and EU Reach DMA App Payment Agreement with Minor Concessions",
+      "summary": "Apple and the European Commission settled their Digital Markets Act dispute regarding app distribution terms, moving all EU developers to a unified set of guidelines starting October 1. Under the new terms, the standard App Store commission for default in-app purchases drops slightly from 30% to 26%, while alternative payment processing and external links face lower fees alongside a mandatory 5% Core Technology Commission.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little",
+      "source": "Daring Fireball",
+      "published": "2026-08-20T15:12:16+00:00"
+    },
+    {
+      "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
+      "summary": "Data from monitoring firm Promptwatch reveals that ChatGPT Search fanout queries using the site: operator jumped from under 0.5% to roughly 17% following the GPT-5.6 rollout in early August. The change indicates OpenAI has redesigned its underlying retrieval tool to query specific domains directly while reportedly curbing citations from sources like Reddit. The shift reflects broader efforts to make conversational responses more focused and factually reliable without relying on broad web sweeps.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "source": "Simon Willison",
+      "published": "2026-08-20T23:57:32+00:00"
     },
     {
       "headline": "AgentSight Brings eBPF Observability to AI Agents Without Code Changes",
@@ -291,6 +336,15 @@
       "published": "2026-08-21T05:00:57+00:00"
     },
     {
+      "headline": "Double-Tap Drone Strike Kills 15 at Ukrainian Mall",
+      "summary": "A Russian double-tap drone strike hit a crowded shopping center in the central Ukrainian city of Kryvyi Rih, leaving 15 people dead and 130 injured. The second wave of the attack deliberately targeted emergency response workers who had arrived to help victims in the rubble. Regional officials report that dozens remain in serious condition as rescue operations continue.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T19:49:56+00:00"
+    },
+    {
       "headline": "Hong Kong Court Convicts Activists Over Tiananmen Vigils",
       "summary": "Prominent activists Lee Cheuk-yan and Chow Hang-tung have been found guilty of inciting subversion under Hong Kong's national security law for organizing annual commemorations of the 1989 Tiananmen Square crackdown. The defendants face up to 10 years in prison following the prosecution of the now-defunct Hong Kong Alliance leaders.",
       "category": "World",
@@ -298,6 +352,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-21T05:47:32+00:00"
+    },
+    {
+      "headline": "Allies Condemn Israel Over Aid Worker Deaths",
+      "summary": "The UK, Canada, and Australia issued a scathing joint statement denouncing Israel's refusal to launch a criminal investigation into the 2024 airstrikes that killed seven World Central Kitchen aid workers. The allied nations called the decision shameful and emphasized that families deserve accountability and justice. The backlash follows previous admissions by the Israel Defense Forces of serious operational failures during the convoy strike.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T15:58:57+00:00"
     },
     {
       "headline": "Trump's Upcoming 'Economic D-Day' Targets Iran's Global Trade",
@@ -327,78 +390,6 @@
       "published": "2026-08-21T09:00:00+00:00"
     },
     {
-      "headline": "James Harden's Extension Joins Elite Financial Tier",
-      "summary": "James Harden's latest contract agreement solidifies his standing among the league's highest-earning players. The deal highlights the staggering financial landscape of modern NBA compensation alongside other mega-contracts. Such milestone figures continue to reshape team payroll structures across the league.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.sportingnews.com/us/nba/news/nba-500-million-club-james-hardens-contract-cavaliers/3c59b057c462181f7e72ce4b",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-20T18:52:58Z"
-    },
-    {
-      "headline": "Rotoworld Names Top 2026 Fantasy Football Bust Candidates",
-      "summary": "Rotoworld has released its early list of high-risk running backs to fade in upcoming fantasy football drafts. Players like Omarion Hampton and Cam Skattebo highlight the publication's top bust candidates for the 2026 season. Fantasy managers are advised to exercise caution before investing high draft capital in these projected underperformers.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.nbcsports.com/fantasy/football/news/fantasy-football-busts-2026-omarion-hampton-cam-skattebo-among-rotoworlds-top-fades",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-20T18:05:44Z"
-    },
-    {
-      "headline": "Anthropic Targets Late August for Initial Public Offering",
-      "summary": "AI safety firm Anthropic is reportedly gearing up to file for an initial public offering as early as the end of August. The move follows a confidential S-1 filing in June and builds on a massive private valuation of $965 billion achieved during an April funding round. Market observers view the upcoming public debut as a major test of investor appetite for leading artificial intelligence developers.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/anthropic-preparing-ipo-filing-as-soon-as-the-end-of-august-sources-say/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-20T18:02:51Z"
-    },
-    {
-      "headline": "Anthropic Eyes Record-Breaking IPO Valued at Over $2 Trillion",
-      "summary": "Artificial intelligence lab Anthropic anticipates that its upcoming initial public offering could challenge or exceed SpaceX's record $75 billion public debut. Boosted by prior valuations near $1 trillion, market projections suggest the company could command a valuation of $2 trillion or more. Observers are closely watching SEC filings and major investor movements to gauge the offering's timing and viability.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/anthropic-eyes-ipo-to-rival-or-surpass-spacexs-75b-record/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-20T18:01:24Z"
-    },
-    {
-      "headline": "Brandon Smith Fights for a Spot on Steelers Roster",
-      "summary": "Pittsburgh Steelers wide receiver Brandon Smith transformed his status from a long-shot cut candidate to a legitimate roster contender with a standout training camp. Despite earning praise from Aaron Rodgers and securing first-team reps, a recent hamstring injury threatens his momentum heading into the season. The team may initially release him and utilize the practice squad to keep him in the organization.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://steelerswire.usatoday.com/story/sports/nfl/steelers/2026/08/20/steelers-roster-brandon-smith-outlook-2026-nfl-season/91365859007/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-20T18:46:40Z"
-    },
-    {
-      "headline": "Double-Tap Drone Strike Kills 15 at Ukrainian Mall",
-      "summary": "A Russian double-tap drone strike hit a crowded shopping center in the central Ukrainian city of Kryvyi Rih, leaving 15 people dead and 130 injured. The second wave of the attack deliberately targeted emergency response workers who had arrived to help victims in the rubble. Regional officials report that dozens remain in serious condition as rescue operations continue.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T18:23:11.293Z"
-    },
-    {
-      "headline": "Anthropic Preparing Enterprise Data Retention Updates",
-      "summary": "AI lab Anthropic is reportedly planning adjustments to its enterprise data retention policies to give corporate clients tighter control over their information. The shift coincides with aggressive infrastructure expansion and massive valuation growth in the competitive AI sector. Further official details are expected as the company scales its commercial offerings.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.channelnewsasia.com/business/anthropic-plans-change-enterprise-data-retention-policy-source-says-6331971",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-21T03:32:19+08:00"
-    },
-    {
-      "headline": "Allies Condemn Israel Over Aid Worker Deaths",
-      "summary": "The UK, Canada, and Australia issued a scathing joint statement denouncing Israel's refusal to launch a criminal investigation into the 2024 airstrikes that killed seven World Central Kitchen aid workers. The allied nations called the decision shameful and emphasized that families deserve accountability and justice. The backlash follows previous admissions by the Israel Defense Forces of serious operational failures during the convoy strike.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T15:58:57.181Z"
-    },
-    {
       "headline": "Cavaliers Trade for Peyton Watson in Eastern Push",
       "summary": "The Cleveland Cavaliers acquired restricted free-agent wing Peyton Watson in a multi-team sign-and-trade that sent Max Strus to the Clippers and draft picks to the Nuggets. Watson will ink a four-year, $88 million deal as Cleveland reshapes its roster following a playoff exit. Star guard James Harden reportedly delayed his own contract talks to help facilitate the team's offseason upgrades.",
       "category": "NBA",
@@ -408,24 +399,6 @@
       "published": "2026-08-20T19:27:56Z"
     },
     {
-      "headline": "Anthropic Targets Massive Data Center Capacity",
-      "summary": "AI developer Anthropic has reportedly secured between 70 and 80 letters of intent for data center capacity as it aggressively scales its computing infrastructure. The robust market interest follows massive funding rounds that have driven the lab's private valuation near the trillion-dollar mark. Observers view the move as a strong indicator of Anthropic's long-term growth and competitiveness against industry rivals.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/anthropic-reportedly-has-7080-letters-of-intent-in-the-market-for-data-center/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-20T19:24:41+00:00"
-    },
-    {
-      "headline": "Jacob Gibbs' league-winning draft picks who could define your 2026 Fantasy Football season",
-      "summary": "",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/jacob-gibbs-breakouts-fantasy-football-league-winners/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T18:25:11+00:00"
-    },
-    {
       "headline": "James Harden Re-Signs With Cavaliers on Three-Year Deal",
       "summary": "Veteran guard James Harden has officially committed to the Cleveland Cavaliers by signing a three-year, $97 million contract that includes a player option and trade kicker. Harden averaged 20.5 points and 7.7 assists after joining the team via a mid-season trade, helping push them to the Eastern Conference finals. The new deal secures his role alongside Donovan Mitchell as Cleveland retools for another deep playoff run.",
       "category": "NBA",
@@ -433,6 +406,33 @@
       "url": "https://www.usatoday.com/story/sports/nba/cavaliers/2026/08/20/james-harden-cleveland-cavaliers-agree-new-contract/91388911007/",
       "source": "NewsAPI:NBA trade",
       "published": "2026-08-20T19:07:08Z"
+    },
+    {
+      "headline": "James Harden's Extension Joins Elite Financial Tier",
+      "summary": "James Harden's latest contract agreement solidifies his standing among the league's highest-earning players. The deal highlights the staggering financial landscape of modern NBA compensation alongside other mega-contracts. Such milestone figures continue to reshape team payroll structures across the league.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.sportingnews.com/us/nba/news/nba-500-million-club-james-hardens-contract-cavaliers/3c59b057c462181f7e72ce4b",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-20T18:52:58Z"
+    },
+    {
+      "headline": "Anthropic Preparing Enterprise Data Retention Updates",
+      "summary": "AI lab Anthropic is reportedly planning adjustments to its enterprise data retention policies to give corporate clients tighter control over their information. The shift coincides with aggressive infrastructure expansion and massive valuation growth in the competitive AI sector. Further official details are expected as the company scales its commercial offerings.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.channelnewsasia.com/business/anthropic-plans-change-enterprise-data-retention-policy-source-says-6331971",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-20T19:32:19Z"
+    },
+    {
+      "headline": "Anthropic Targets Massive Data Center Capacity",
+      "summary": "AI developer Anthropic has reportedly secured between 70 and 80 letters of intent for data center capacity as it aggressively scales its computing infrastructure. The robust market interest follows massive funding rounds that have driven the lab's private valuation near the trillion-dollar mark. Observers view the move as a strong indicator of Anthropic's long-term growth and competitiveness against industry rivals.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://cryptobriefing.com/anthropic-reportedly-has-7080-letters-of-intent-in-the-market-for-data-center/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-20T19:24:41Z"
     },
     {
       "headline": "TrueFoundry Drops TrueForge to Simplify LLM Agent Runtimes",
