@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:33:45.678016+00:00",
+  "generated_at": "2026-08-21T23:54:57.216008+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -55,6 +55,15 @@
       "url": "https://www.thegospelcoalition.org/article/learn-grieve-well/",
       "source": "The Gospel Coalition",
       "published": "2026-08-21T04:00:00+00:00"
+    },
+    {
+      "headline": "Computer Model Highlights 2026 Fantasy Football Breakouts",
+      "summary": "CBS Sports leverages a predictive computer model, which previously flagged Tetairoa McMillan's massive season, to generate early 2026 fantasy football breakout rankings. The analysis offers a data-driven preview for fantasy players looking to gain an edge in upcoming drafts. The projections focus on identifying rising NFL talent poised for significant production.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-computer-model-that-called-tetairoa-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T22:27:32+00:00"
     },
     {
       "headline": "Fantasy Football 2026 Draft Prep Launches",
@@ -127,15 +136,6 @@
       "url": "https://www.thegospelcoalition.org/article/roach-infestation-taught-rest/",
       "source": "The Gospel Coalition",
       "published": "2026-08-20T04:00:00+00:00"
-    },
-    {
-      "headline": "Computer Model Highlights 2026 Fantasy Football Breakouts",
-      "summary": "CBS Sports leverages a predictive computer model, which previously flagged Tetairoa McMillan's massive season, to generate early 2026 fantasy football breakout rankings. The analysis offers a data-driven preview for fantasy players looking to gain an edge in upcoming drafts. The projections focus on identifying rising NFL talent poised for significant production.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-computer-model-that-called-tetairoa-mcmillans-huge-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T22:27:32+00:00"
     },
     {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
@@ -255,15 +255,6 @@
       "published": "2026-08-21T17:20:32+00:00"
     },
     {
-      "headline": "Marc Stad Acquires Majority Stake in Timberwolves and Lynx for $4.5B",
-      "summary": "Control of the Minnesota Timberwolves and Minnesota Lynx has officially changed hands in a deal valuing the franchises at $4.5 billion. Marc Stad purchased the majority stake, marking another massive ownership shakeup in the NBA.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nba/news/timberwolves-lynx-ownership-shakeup-nba-wnba-marc-stad/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T16:31:28+00:00"
-    },
-    {
       "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
       "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
       "category": "Tech/AI",
@@ -307,15 +298,6 @@
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
       "source": "Hacker News",
       "published": "2026-08-21T15:51:10+00:00"
-    },
-    {
-      "headline": "AgentSight Brings eBPF Observability to AI Agents Without Code Changes",
-      "summary": "Alibaba's open-source AgentSight uses Linux eBPF probes to monitor AI agents at the kernel level without requiring modifications to agent source code. It tracks LLM API calls, token consumption, and process execution while offering real-time dashboard visualizations and automatic process discovery. The tool requires Linux Kernel 5.8 or higher with root or CAP_BPF privileges to capture system-wide metrics.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
-      "source": "Hacker News",
-      "published": "2026-08-21T15:21:10+00:00"
     },
     {
       "headline": "Curing Claude's Clickbait Habit with Gemini",
@@ -417,6 +399,15 @@
       "published": "2026-08-21T09:00:00+00:00"
     },
     {
+      "headline": "OzBrain Launches Shared Memory Layer for AI Agents",
+      "summary": "OzBrain introduces a centralized knowledge base that allows various AI models like Claude, ChatGPT, and Cursor to read and write shared information. The tool structures team data and preferences to prevent users from having to repeatedly explain context to different agents.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://ozbrain.com",
+      "source": "Hacker News",
+      "published": "2026-08-21T23:09:06+00:00"
+    },
+    {
       "headline": "Running Photoshop on a 60-Cent Microchip",
       "summary": "A developer successfully emulated a 1990s Apple Macintosh on a Raspberry Pi RP2350 chip, which costs about £0.60. The budget setup runs vintage software like Adobe Photoshop and WordPerfect, delivering performance comparable to a high-end personal computer from three decades ago. This low-power experiment highlights the staggering drop in computing costs over time and raises questions about building ultra-minimalist, distraction-free modern devices.",
       "category": "Tech/AI",
@@ -432,7 +423,16 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T19:31:47.537Z"
+      "published": "2026-08-21T19:31:47+00:00"
+    },
+    {
+      "headline": "DR Congo Starts Ebola Vaccine Trial Amid Exponential Spread",
+      "summary": "The Democratic Republic of the Congo is launching a clinical trial using the Ervebo vaccine to combat the circulating Bundibugyo strain of Ebola. With the WHO warning that infections are growing faster than the response across an area larger than France, the outbreak has already claimed nearly 2,500 lives.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T13:44:43.874Z"
     },
     {
       "headline": "NPR Morning Briefing: Trump Iran Threats, SCOTUS Ballroom Case, and Market Selloff",
