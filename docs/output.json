@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T04:51:29.956902+00:00",
+  "generated_at": "2026-08-21T05:21:41.714717+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -10,15 +10,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82026",
       "source": "Basketball Intelligence",
       "published": "2026-08-20T17:30:43+00:00"
-    },
-    {
-      "headline": "NBA Summer Buzz Covers Draft Fits and Roster Moves",
-      "summary": "Recent NBA reporting highlights various team storylines heading into the season, including Kelvin Sampson backing rookie Chris Cenac Jr.'s fit with the Celtics. Analysts are also examining roster shifts for the Knicks, Bucks, and other franchises as front offices finalize their lineups.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-81826-d8d",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-19T16:51:14+00:00"
     },
     {
       "headline": "How Vance Joseph's Red-Zone Scheme Locks Down the Goal Line",
@@ -147,13 +138,13 @@
       "published": "2026-08-19T23:16:00+00:00"
     },
     {
-      "headline": "Developer Builds Huzzah to Replace Natural Language AI Prompting with Pseudocode",
-      "summary": "Frustrated by the inefficiency and token waste of writing lengthy conversational prompts for coding agents, a developer introduced Huzzah, an experimental AI-assisted code editor. Unlike traditional chat interfaces that discard prompt history and rely on imperative prose, Huzzah uses declarative, persistent pseudocode to preserve human intent. The project aims to give engineers tighter structural control over AI code generation without reverting to fully manual programming.",
+      "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
+      "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "url": "https://github.com/openai/codex/issues/37674",
       "source": "Hacker News",
-      "published": "2026-08-20T19:05:36+00:00"
+      "published": "2026-08-21T03:17:43+00:00"
     },
     {
       "headline": "CBS Sports Releases 2026 Fantasy Football Draft Kit and Strategy Guide",
@@ -181,6 +172,15 @@
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
       "published": "2026-08-20T19:36:02+00:00"
+    },
+    {
+      "headline": "Developer Builds Huzzah to Replace Natural Language AI Prompting with Pseudocode",
+      "summary": "Frustrated by the inefficiency and token waste of writing lengthy conversational prompts for coding agents, a developer introduced Huzzah, an experimental AI-assisted code editor. Unlike traditional chat interfaces that discard prompt history and rely on imperative prose, Huzzah uses declarative, persistent pseudocode to preserve human intent. The project aims to give engineers tighter structural control over AI code generation without reverting to fully manual programming.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "Hacker News",
+      "published": "2026-08-20T19:05:36+00:00"
     },
     {
       "headline": "Vomit utility translates Claude's raw token output using a local LLM",
@@ -282,13 +282,13 @@
       "published": "2026-08-20T09:24:45+00:00"
     },
     {
-      "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
-      "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/openai/codex/issues/37674",
-      "source": "Hacker News",
-      "published": "2026-08-09T07:10:55.000Z"
+      "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
+      "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:03:00+00:00"
     },
     {
       "headline": "Hovvdy Embraces Brevity and Perspective on Sixth Album 'Big World'",
@@ -318,22 +318,13 @@
       "published": "2026-08-20T15:37:00+00:00"
     },
     {
-      "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
-      "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:03:00+00:00"
-    },
-    {
       "headline": "FBI Arrests New York Woman Over Alleged Statehouse Bomb Plot",
       "summary": "Federal authorities arrested 35-year-old Jessica Bowie of Albany for allegedly plotting to bomb the New York state capitol and kill lawmakers on behalf of the Islamic State. Prosecutors stated that Bowie conducted multiple reconnaissance missions and was caught carrying a fake explosive, a defective gun, and a written oath to IS supplied by undercover agents.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T21:03:30.373Z"
+      "published": "2026-08-20T21:03:30+00:00"
     },
     {
       "headline": "US Imposes Fresh Sanctions on Cuban Officials and State Firms",
@@ -342,16 +333,16 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T02:06:28.359Z"
+      "published": "2026-08-21T02:06:28+00:00"
     },
     {
-      "headline": "Trump Administration Pushes 'Economic D-Day' Sanctions Against Iran",
-      "summary": "The White House is preparing a sweeping economic pressure campaign to penalize any nation conducting business with Iran, labeling it an economic D-Day. With Treasury Secretary Scott Bessent set to reveal enforcement details, the administration aims to break the prolonged diplomatic and military standstill by targeting Iranian oil sales and financial transfers.",
+      "headline": "BBC Interviews Ukrainian-Born POWs Fighting for Russia",
+      "summary": "Journalists in western Ukraine gained rare access to a prisoner of war camp holding men captured fighting for Russian forces. Among the detainees are Ukrainian citizens from occupied eastern regions like Donbas who joined Moscow's military after the 2022 invasion. While captured Ukrainians face treason trials, these interviews offer a stark look at the complex loyalties and heavy casualties eroding Moscow's ranks.",
       "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T23:16:45.992Z"
+      "published": "2026-08-20T05:01:24.197Z"
     },
     {
       "headline": "Prediction Markets Open Betting on Pittsburgh Steelers Season",
@@ -372,13 +363,22 @@
       "published": "2026-08-19T22:46:07+00:00"
     },
     {
+      "headline": "Trump Administration Pushes 'Economic D-Day' Sanctions Against Iran",
+      "summary": "The White House is preparing a sweeping economic pressure campaign to penalize any nation conducting business with Iran, labeling it an economic D-Day. With Treasury Secretary Scott Bessent set to reveal enforcement details, the administration aims to break the prolonged diplomatic and military standstill by targeting Iranian oil sales and financial transfers.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T23:16:45+00:00"
+    },
+    {
       "headline": "Japan Executes Man Convicted in 2009 Pachinko Parlour Arson",
       "summary": "Japan hanged 58-year-old Sunao Takami for setting fire to an Osaka pachinko gaming parlour in 2009, resulting in the deaths of four customers and one employee. This marks the country's first execution in over a year under the Takaichi administration, following a rejected mental illness defense.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T02:49:27.316Z"
+      "published": "2026-08-21T02:49:27+00:00"
     },
     {
       "headline": "Imran Khan Returned to Prison After Medical Examination in Islamabad",
@@ -387,7 +387,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T20:40:17.038Z"
+      "published": "2026-08-21T04:27:13+00:00"
     },
     {
       "headline": "Boat Capsize in North-Western Nigeria Leaves Dozens Dead",
@@ -396,16 +396,16 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T20:27:36.052Z"
+      "published": "2026-08-20T20:27:36+00:00"
     },
     {
-      "headline": "Supergroup Dinner Party Embraces Restraint on Third Album 'Whatchu Bringing?'",
-      "summary": "Jazz-rap collective Dinner Party—comprising Robert Glasper, Terrace Martin, Kamasi Washington, and 9th Wonder—has released its third studio LP, leaning into easygoing camaraderie over virtuoso grandstanding. Chicago singer Phoelix serves as an essential anchor, co-writing all nine tracks and blending smoothly into the project's relaxed, communal production.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
-      "source": "Pitchfork",
-      "published": "2026-08-20T04:02:00+00:00"
+      "headline": "Nigeria's Once-Dominant PDP Faces Political Extinction",
+      "summary": "The Peoples Democratic Party, which ruled Nigeria for 16 years following the return to democracy in 1999, now teeters on the brink of irrelevance. Crippled by bitter leadership feuds, court battles, and a devastating wave of state governor defections to the ruling APC, the party is struggling ahead of January's general election. Analysts attribute this steep decline to the party's inability to adapt to life in opposition after losing the 2015 presidency.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T23:21:22.228Z"
     },
     {
       "headline": "Giants and Dolphins Face Potential NFL Discipline After Joint Practice Brawl",
@@ -415,15 +415,6 @@
       "url": "https://www.cbssports.com/nfl/news/giants-dolphins-joint-practice-fight/",
       "source": "CBS Sports",
       "published": "2026-08-21T01:18:19+00:00"
-    },
-    {
-      "headline": "Record Cyclosporiasis Outbreak Strains Underfunded Local Health Agencies",
-      "summary": "A record-breaking surge in cyclosporiasis infections is testing the limits of local food safety programs that are already stretched thin. Public health experts warn that prior federal funding cuts have severely hobbled the workforce needed to properly interview patients and contain the parasite.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-      "source": "NPR News",
-      "published": "2026-08-20T15:54:19-04:00"
     },
     {
       "headline": "AI Firms Are Buying and Destroying Rare Physical Books to Train Models",
@@ -442,6 +433,15 @@
       "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
       "source": "Pitchfork",
       "published": "2026-08-21T04:02:00+00:00"
+    },
+    {
+      "headline": "Supergroup Dinner Party Embraces Restraint on Third Album 'Whatchu Bringing?'",
+      "summary": "Jazz-rap collective Dinner Party—comprising Robert Glasper, Terrace Martin, Kamasi Washington, and 9th Wonder—has released its third studio LP, leaning into easygoing camaraderie over virtuoso grandstanding. Chicago singer Phoelix serves as an essential anchor, co-writing all nine tracks and blending smoothly into the project's relaxed, communal production.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
+      "source": "Pitchfork",
+      "published": "2026-08-20T04:02:00+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
