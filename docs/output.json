@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:49:50.582101+00:00",
+  "generated_at": "2026-08-21T10:16:22.082207+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -264,15 +264,6 @@
       "published": "2026-08-21T05:20:50+00:00"
     },
     {
-      "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
-      "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/openai/codex/issues/37674",
-      "source": "Hacker News",
-      "published": "2026-08-21T03:17:43+00:00"
-    },
-    {
       "headline": "OpenRouter Lists Stealth Reasoning Model 'Ox Alpha'",
       "summary": "OpenRouter introduced Ox Alpha, a stealth reasoning model tailored for long-horizon software engineering and multimodal workflows combining text and visual context. The model features a massive one-million-token context window and is operated by an anonymous third-party provider.",
       "category": "Tech/AI",
@@ -363,6 +354,24 @@
       "published": "2026-08-20T22:01:26+00:00"
     },
     {
+      "headline": "Denver's Defensive Shell Game",
+      "summary": "Denver Broncos defensive coordinator Vance Joseph is using clever pre-snap man-to-man alignments to disguise post-snap Tampa 2 rotations. By utilizing motion triggers and corner-over structures, the defense confuses opposing offenses on critical downs. This scheme allows the unit to successfully mask deep zone coverages behind aggressive initial presentations.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.matchquarters.com/p/denver-broncos-man-indicator-tampa-2-disguise",
+      "source": "MatchQuarters",
+      "published": "2026-08-21T10:02:16+00:00"
+    },
+    {
+      "headline": "Browns Tight End Tests New Waters",
+      "summary": "Former Ole Miss standout and professional tight end Dae'Quan Wright has entered the college football transfer portal. This unusual move makes him the first current NFL player to seek a return to the collegiate ranks. Observers expect more professional athletes might attempt similar moves following this precedent.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/college-football/news/daequan-wright-transfer-portal-browns-ole-miss/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T20:12:18+00:00"
+    },
+    {
       "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
       "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
       "category": "Music",
@@ -381,15 +390,6 @@
       "published": "2026-08-21T04:02:00+00:00"
     },
     {
-      "headline": "Fred again.. and Latin Mafia Drop Collaborative Mixtape 9 months & 50 hours",
-      "summary": "British producer Fred again.. and Mexican alt-pop trio Latin Mafia joined forces for a 14-track project born from a 50-hour livestreamed recording session. The mixtape merges Latin house, cumbia rhythms, and soulful R&B, highlighting a shared creative spontaneity. It captures an experimental bridge between alternative Latin music and electronic ambiance.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:01:00+00:00"
-    },
-    {
       "headline": "Simon Willison Builds Shot-Scraper Clone on Bun 1.4's New Webview",
       "summary": "A zero-dependency TypeScript service proves that Bun 1.4's experimental Bun.WebView can handle browser automation and screenshot tasks without Puppeteer or Playwright. Tested using cgroups, the prototype routes JavaScript evaluation and image captures through a lightweight API that requires roughly 192MB to 256MB of container RAM. The project drops alongside Bun 1.4's major engine rewrite from Zig to Rust, which boosts Node.js test compatibility and cuts idle CPU usage.",
       "category": "Tech/AI",
@@ -399,13 +399,22 @@
       "published": "2026-08-20T15:37:00+00:00"
     },
     {
+      "headline": "Fred again.. and Latin Mafia Drop Collaborative Mixtape 9 months & 50 hours",
+      "summary": "British producer Fred again.. and Mexican alt-pop trio Latin Mafia joined forces for a 14-track project born from a 50-hour livestreamed recording session. The mixtape merges Latin house, cumbia rhythms, and soulful R&B, highlighting a shared creative spontaneity. It captures an experimental bridge between alternative Latin music and electronic ambiance.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:01:00+00:00"
+    },
+    {
       "headline": "Imran Khan Returned to Prison Following Medical Evaluation",
       "summary": "Former Pakistani Prime Minister Imran Khan was sent back to prison early Friday after doctors at an Islamabad hospital deemed the 73-year-old medically fit. The Supreme Court had ordered the hospital transfer following defense claims that Khan was suffering from deteriorating health and severe vision loss while incarcerated. Police heavily cordoned off Shifa International Hospital and warned Khan's party against politicizing his medical stay.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-20T20:40:17.038Z"
+      "published": "2026-08-21T04:27:13+00:00"
     },
     {
       "headline": "North Korea Fires Ballistic Missiles Amid Trump's Push to Reengage Kim",
@@ -414,34 +423,25 @@
       "relevance": 7,
       "url": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
       "source": "NPR News",
-      "published": "2026-08-21T05:00:00-04:00"
+      "published": "2026-08-21T09:00:00+00:00"
     },
     {
-      "headline": "Brawl Erupts During Giants-Dolphins Joint Practice",
-      "summary": "Multiple players were ejected from a joint practice between the New York Giants and Miami Dolphins following a violent on-field brawl. The incident threatens to draw disciplinary action and fines from the NFL as teams ramp up physical tensions during training camp.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/giants-dolphins-joint-practice-fight/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T01:18:19+00:00"
-    },
-    {
-      "headline": "USS Abraham Lincoln Heads Home After Grueling Nine-Month Deployment",
-      "summary": "The aircraft carrier USS Abraham Lincoln is returning home after spending nine months at sea supporting operations in the Middle East. Mental health experts are highlighting the immense psychological strain of prolonged confinement and isolation experienced by the roughly 5,000 sailors and Marines on board. The grueling tour has sparked concerns among lawmakers regarding deteriorating onboard conditions and sailor welfare.",
+      "headline": "Fatal Alaskan Plane Crash Kills Eight",
+      "summary": "A civilian-contracted aircraft crashed near a remote US Air Force radar site in southwestern Alaska, resulting in zero survivors among the eight people on board. The flight had departed from Anchorage and was heading to Cape Newenham when the accident occurred shortly after midday. Military officials are withholding the identities of the two pilots and six passengers pending family notifications while an investigation gets underway.",
       "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5936445/uss-lincoln-returns-mental-health-stressors-life-sea",
-      "source": "NPR News",
-      "published": "2026-08-21T05:00:00-04:00"
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T09:53:47.964Z"
     },
     {
-      "headline": "Chargers vs. 49ers NFL Preseason Week 2: Odds and Expert Picks",
-      "summary": "The Los Angeles Chargers and San Francisco 49ers face off on Thursday night for a Week 2 NFL preseason matchup. Bettors and analysts are weighing latest odds and roster adjustments to find value in the exhibition game.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/chargers-49ers-prediction-odds-time-nfl-week-2-preseason-picks-thursday-best-bets/",
+      "headline": "College Football Staffers Brace for Pro Returns",
+      "summary": "The surprising movement of players attempting to jump from the professional ranks back to the collegiate level is sending shockwaves through college football programs. Athletic department staffers are reacting with alarm to the regulatory fallout. This unprecedented trend threatens to further scramble roster management across the sport.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/college-football/news/college-football-staffers-react-nfl-players-returning/",
       "source": "CBS Sports",
-      "published": "2026-08-21T00:17:38+00:00"
+      "published": "2026-08-20T20:35:21+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
