@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:09:36.496918+00:00",
+  "generated_at": "2026-08-21T21:43:43.911351+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,6 +75,15 @@
       "published": "2026-08-21T19:32:54+00:00"
     },
     {
+      "headline": "Developer Compares Codex and Claude for Ruby Coding",
+      "summary": "A week-long comparison between Codex and Claude reveals distinct behavioral differences in coding workflows. Codex generated simpler code architectures with fewer comments and executed changes quickly, whereas Claude felt more conversational and handled complex edge cases better despite over-abstracting at times.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "source": "Hacker News",
+      "published": "2026-08-21T19:51:48+00:00"
+    },
+    {
       "headline": "Anthropic Expands Access to Claude Mythos 5 for Cyber Defense",
       "summary": "Anthropic is integrating its advanced Claude Mythos 5 model into Claude Security and partner tools to bolster defensive capabilities. Alongside this expansion, the company is launching a $35 million fund to secure open-source software and scaling up its Cyber Verification Program.",
       "category": "Tech/AI",
@@ -147,15 +156,6 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Developer Compares Codex and Claude for Ruby Coding",
-      "summary": "A week-long comparison between Codex and Claude reveals distinct behavioral differences in coding workflows. Codex generated simpler code architectures with fewer comments and executed changes quickly, whereas Claude felt more conversational and handled complex edge cases better despite over-abstracting at times.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-      "source": "Hacker News",
-      "published": "2026-08-21T07:20:00+00:00"
-    },
-    {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
       "summary": "Basketball Intelligence's August 21 edition highlights major offseason developments, including the ongoing fallout from a massive five-team trade and analysis of team rosters. Reports cover roster changes for Boston, Denver, and Cleveland, alongside emerging prospect profiles for the 2027 NBA Draft. The newsletter also provides updates on league trends, power rankings, and veteran player trajectories.",
       "category": "NBA",
@@ -171,16 +171,16 @@
       "relevance": 8,
       "url": "https://www.cbssports.com/nba/news/nuggets-daring-nikola-jokic-to-leave-listless-summer/",
       "source": "CBS Sports",
-      "published": "2026-08-21T18:18:30+00:00"
+      "published": "2026-08-21T21:10:14+00:00"
     },
     {
-      "headline": "Marc Stad Acquires Majority Stake in Timberwolves and Lynx for $4.5B",
-      "summary": "Control of the Minnesota Timberwolves and Minnesota Lynx has officially changed hands in a deal valuing the franchises at $4.5 billion. Marc Stad purchased the majority stake, marking another massive ownership shakeup in the NBA.",
+      "headline": "Klay Thompson Reportedly Heading to Miami After Mavericks Buyout",
+      "summary": "Guard Klay Thompson is expected to join the Miami Heat following a buyout agreement with the Dallas Mavericks. The move will shake up the NBA landscape by sending the veteran shooter to South Beach.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nba/news/timberwolves-lynx-ownership-shakeup-nba-wnba-marc-stad/",
+      "url": "https://www.cbssports.com/nba/news/klay-thompson-heat-mavericks-buyout/",
       "source": "CBS Sports",
-      "published": "2026-08-21T16:31:28+00:00"
+      "published": "2026-08-21T19:45:15+00:00"
     },
     {
       "headline": "Denver's Defensive Shell Game",
@@ -255,6 +255,15 @@
       "published": "2026-08-21T17:20:32+00:00"
     },
     {
+      "headline": "Marc Stad Acquires Majority Stake in Timberwolves and Lynx for $4.5B",
+      "summary": "Control of the Minnesota Timberwolves and Minnesota Lynx has officially changed hands in a deal valuing the franchises at $4.5 billion. Marc Stad purchased the majority stake, marking another massive ownership shakeup in the NBA.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nba/news/timberwolves-lynx-ownership-shakeup-nba-wnba-marc-stad/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T16:31:28+00:00"
+    },
+    {
       "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
       "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
       "category": "Tech/AI",
@@ -273,6 +282,24 @@
       "published": "2026-08-20T15:12:16+00:00"
     },
     {
+      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
+      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-21T17:16:13+00:00"
+    },
+    {
+      "headline": "LLM OpenRouter Plugin Updated for Version 0.32 Compatibility",
+      "summary": "The llm-openrouter 0.7 plugin has dropped, bringing full compatibility with LLM 0.32 and better support for reasoning models. The update integrates OpenRouter's Responses API alongside three new server-side tools for shell execution, web fetching, and web searching.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "source": "Simon Willison",
+      "published": "2026-08-21T16:58:19+00:00"
+    },
+    {
       "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
       "summary": "Data from monitoring firm Promptwatch reveals that ChatGPT Search fanout queries using the site: operator jumped from under 0.5% to roughly 17% following the GPT-5.6 rollout in early August. The change indicates OpenAI has redesigned its underlying retrieval tool to query specific domains directly while reportedly curbing citations from sources like Reddit. The shift reflects broader efforts to make conversational responses more focused and factually reliable without relying on broad web sweeps.",
       "category": "Tech/AI",
@@ -280,6 +307,15 @@
       "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
       "source": "Simon Willison",
       "published": "2026-08-20T23:57:32+00:00"
+    },
+    {
+      "headline": "Bun 1.4 Ships With Major Rust Rewrite and Native WebView API",
+      "summary": "Bun 1.4 arrives following a complete underlying rewrite from Zig to Rust, bringing massive performance gains including a 5x reduction in idle CPU usage. A standout addition is Bun.WebView, which enables zero-dependency browser automation and screenshot APIs without needing Puppeteer or Playwright.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+      "source": "Simon Willison",
+      "published": "2026-08-20T15:37:00+00:00"
     },
     {
       "headline": "Nari Labs Optimizes Text-to-Speech Speed and Cost",
@@ -399,51 +435,6 @@
       "published": "2026-08-21T09:00:00+00:00"
     },
     {
-      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
-      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/21/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-21T17:16:13+00:00"
-    },
-    {
-      "headline": "LLM OpenRouter Plugin Updated for Version 0.32 Compatibility",
-      "summary": "The llm-openrouter 0.7 plugin has dropped, bringing full compatibility with LLM 0.32 and better support for reasoning models. The update integrates OpenRouter's Responses API alongside three new server-side tools for shell execution, web fetching, and web searching.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "source": "Simon Willison",
-      "published": "2026-08-21T16:58:19+00:00"
-    },
-    {
-      "headline": "Bun 1.4 Ships With Major Rust Rewrite and Native WebView API",
-      "summary": "Bun 1.4 arrives following a complete underlying rewrite from Zig to Rust, bringing massive performance gains including a 5x reduction in idle CPU usage. A standout addition is Bun.WebView, which enables zero-dependency browser automation and screenshot APIs without needing Puppeteer or Playwright.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-      "source": "Simon Willison",
-      "published": "2026-08-20T15:37:00+00:00"
-    },
-    {
-      "headline": "Klay Thompson Reportedly Heading to Miami After Mavericks Buyout",
-      "summary": "Guard Klay Thompson is expected to join the Miami Heat following a buyout agreement with the Dallas Mavericks. The move will shake up the NBA landscape by sending the veteran shooter to South Beach.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nba/news/klay-thompson-heat-mavericks-buyout/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T19:45:15+00:00"
-    },
-    {
-      "headline": "Bluesky Sees Active User Base Shrink Despite Protocol Growth",
-      "summary": "Similarweb data reveals that Bluesky's monthly active mobile users dropped 27.2% year-over-year to 10.4 million in June 2026. While the app has lost over half of its post-election peak from late 2024, leadership is shifting focus toward expanding the underlying AT Protocol ecosystem.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
-      "source": "Daring Fireball",
-      "published": "2026-08-21T13:36:58+00:00"
-    },
-    {
       "headline": "NPR Morning Briefing: Trump Iran Threats, SCOTUS Ballroom Case, and Market Selloff",
       "summary": "NPR's morning news update covers a new economic pressure campaign threatened against Iran by Donald Trump, alongside a Supreme Court case regarding his controversial ballroom project. Meanwhile, financial markets are seeing a selloff in both stocks and bonds despite government efforts to stabilize investor confidence.",
       "category": "Other",
@@ -451,6 +442,15 @@
       "url": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
       "source": "NPR News",
       "published": "2026-08-21T08:46:00+00:00"
+    },
+    {
+      "headline": "BetMGM Offers $1,500 Bonus for Weekend Sports Action",
+      "summary": "Betters can use the promotional code CBSSPORTS on BetMGM to claim up to $1,500 in bonus bets. The offer coincides with a busy weekend lineup featuring NFL preseason matchups like Broncos-Packers alongside a full slate of MLB games.",
+      "category": "NFL",
+      "relevance": 2,
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nfl-preseason-broncos-packers-mlb-friday/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T20:42:18+00:00"
     }
   ]
 }
