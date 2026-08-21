@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:53:08.096258+00:00",
+  "generated_at": "2026-08-21T16:18:36.439370+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,15 +75,6 @@
       "published": "2026-08-21T12:52:33+00:00"
     },
     {
-      "headline": "How a 100x Drop in AI Costs Unlocks Massive Data Scale",
-      "summary": "Rapidly falling AI inference costs are shifting the industry focus from maximizing top-tier model capability to scaling high-volume automation. Cheaper intelligence allows projects like analyzing tens of thousands of scientific papers to become financially viable for small teams.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-      "source": "Hacker News",
-      "published": "2026-08-21T13:24:28+00:00"
-    },
-    {
       "headline": "US National Debt Surpasses $40 Trillion",
       "summary": "The United States national debt has officially crossed the $40 trillion threshold, driven by decades of bipartisan spending and ballooning interest payments. With long-term interest rates sitting at multi-decade highs, servicing the deficit is becoming significantly more expensive. Economists warn that heavy government borrowing is now directly competing with massive corporate investments in artificial intelligence for limited investor capital.",
       "category": "World",
@@ -156,15 +147,6 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Nvidia AVO Coding Agent Aces ARC-AGI-3 Reasoning Benchmark",
-      "summary": "Nvidia's general-purpose coding agent, AVO, achieved a 100% score on the ARC-AGI-3 interactive reasoning benchmark by successfully completing all 183 levels across 25 public environments. Operating without explicit rules, instructions, or goals, the system relies on continuous inspection, planning, memory, and execution feedback to maintain long-running task progress.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://twitter.com/NVIDIAAI/status/2090786258981466231",
-      "source": "Hacker News",
-      "published": "2026-08-21T13:01:03.000Z"
-    },
-    {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
       "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
       "category": "NBA",
@@ -201,6 +183,15 @@
       "published": "2026-08-21T15:03:01+00:00"
     },
     {
+      "headline": "Apple and EU Reach DMA App Payment Agreement with Minor Concessions",
+      "summary": "Apple and the European Commission settled their Digital Markets Act dispute regarding app distribution terms, moving all EU developers to a unified set of guidelines starting October 1. Under the new terms, the standard App Store commission for default in-app purchases drops slightly from 30% to 26%, while alternative payment processing and external links face lower fees alongside a mandatory 5% Core Technology Commission.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little",
+      "source": "Daring Fireball",
+      "published": "2026-08-20T15:12:16+00:00"
+    },
+    {
       "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
       "summary": "Data from monitoring firm Promptwatch reveals that ChatGPT Search fanout queries using the site: operator jumped from under 0.5% to roughly 17% following the GPT-5.6 rollout in early August. The change indicates OpenAI has redesigned its underlying retrieval tool to query specific domains directly while reportedly curbing citations from sources like Reddit. The shift reflects broader efforts to make conversational responses more focused and factually reliable without relying on broad web sweeps.",
       "category": "Tech/AI",
@@ -208,6 +199,24 @@
       "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
       "source": "Simon Willison",
       "published": "2026-08-20T23:57:32+00:00"
+    },
+    {
+      "headline": "Developer Tool 'Claudette' Translates AI Tech-Speak into Plain English",
+      "summary": "Frustrated by Claude's penchant for verbose, clickbait-style prose, developers created a local coding skill that passes the AI's responses through the Gemini CLI. Dubbed 'Claudette,' the tool strips out dramatic filler and numbered revelations to deliver straightforward, human-readable answers without altering the underlying technical substance.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "source": "Hacker News",
+      "published": "2026-08-21T14:31:52+00:00"
+    },
+    {
+      "headline": "Squirrel Flower Returns with Tender Heartland Rock on New LP",
+      "summary": "Ella Williams, performing as Squirrel Flower, explores the tensions of transit and permanence on her fourth album, Say a Prayer to the Gods of Getting Going. Produced by Alex Farrar, the record pairs her authoritative alto and emotional lyricism with his signature loud-quiet dynamics, distorted guitars, and textured room tone.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:02:00+00:00"
     },
     {
       "headline": "Faith Leazae Leverages Viral Gimmicks on Self-Titled EP",
@@ -309,76 +318,40 @@
       "published": "2026-08-21T09:00:00+00:00"
     },
     {
-      "headline": "Squirrel Flower Returns with Tender Heartland Rock on New LP",
-      "summary": "Ella Williams, performing as Squirrel Flower, explores the tensions of transit and permanence on her fourth album, Say a Prayer to the Gods of Getting Going. Produced by Alex Farrar, the record pairs her authoritative alto and emotional lyricism with his signature loud-quiet dynamics, distorted guitars, and textured room tone.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:02:00+00:00"
-    },
-    {
-      "headline": "Apple and EU Reach DMA App Payment Agreement with Minor Concessions",
-      "summary": "Apple and the European Commission settled their Digital Markets Act dispute regarding app distribution terms, moving all EU developers to a unified set of guidelines starting October 1. Under the new terms, the standard App Store commission for default in-app purchases drops slightly from 30% to 26%, while alternative payment processing and external links face lower fees alongside a mandatory 5% Core Technology Commission.",
+      "headline": "Qwen3-TTS Implementation Hits Sub-50 ms Latency",
+      "summary": "Nari Labs benchmarked its custom Qwen3-TTS 1.7B setup on an NVIDIA H100 SXM, achieving 10 requests per second with a p95 time-to-first-audio of under 50 milliseconds. The system outpaces default configurations from engines like vLLM-Omni and SGLang-Omni, translating to roughly $2 per million characters at full capacity. The team has open-sourced both their implementation and benchmarking methodology.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little",
-      "source": "Daring Fireball",
-      "published": "2026-08-20T15:12:16+00:00"
-    },
-    {
-      "headline": "Developer Tool 'Claudette' Translates AI Tech-Speak into Plain English",
-      "summary": "Frustrated by Claude's penchant for verbose, clickbait-style prose, developers created a local coding skill that passes the AI's responses through the Gemini CLI. Dubbed 'Claudette,' the tool strips out dramatic filler and numbered revelations to deliver straightforward, human-readable answers without altering the underlying technical substance.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
       "source": "Hacker News",
-      "published": "2026-08-21T14:31:52+00:00"
+      "published": "2026-08-19T00:00:00+09:00"
     },
     {
-      "headline": "DuckDB v2.0 Upgrades to PEG-Based SQL Parser",
-      "summary": "DuckDB v2.0 replaces its legacy PostgreSQL-derived SQL parser with a new PEG-based alternative. The update makes the database grammar easier to evolve and enables runtime extensions without disrupting users.",
+      "headline": "Seven Months of Zero Incidents Under an AI Agent Constitution",
+      "summary": "A developer managed a personal fleet of AI agents for seven months using a strict written constitution rather than traditional system prompts or guardrails. The framework successfully blocked risky midnight trades, opaque deployment blobs, and unauthorized audio changes without manual intervention. By treating any non-human-readable code as untrusted and maintaining an append-only audit trail, the setup achieved zero operational incidents.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://duckdb.org/2026/08/20/duckdb-20-peg-parser",
+      "relevance": 8,
+      "url": "https://github.com/Chong169/a-constitution-for-one",
       "source": "Hacker News",
-      "published": "2026-08-21T12:52:25+00:00"
+      "published": "2026-08-21T15:48:32+00:00"
     },
     {
-      "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
-      "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:03:00+00:00"
+      "headline": "Study Shows AI Homework Boost Leads to Exam Score Drop",
+      "summary": "Research tracking 27,000 students in China revealed that pupils using AI tools saw their homework scores climb by 18% over six months. However, the same students scored 20% lower than non-users when tested under closed-book exam conditions without AI assistance. The findings suggest that heavy reliance on artificial intelligence for daily assignments hinders long-term knowledge retention.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://canews24.online/?p=71",
+      "source": "Hacker News",
+      "published": "2026-08-21T15:25:42+00:00"
     },
     {
-      "headline": "Global Summer Transfer Window Highlights Biggest Deals",
-      "summary": "Premier League spending has surpassed £2.bn this summer amid massive global transfers. Notable moves include Morgan Rogers joining Chelsea for a British record £117m and Bayern Munich securing Ismael Saibari for £43m.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-08-21T13:51:24+00:00"
-    },
-    {
-      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T13:07:00+00:00"
-    },
-    {
-      "headline": "Iran Dismisses US Economic Threats as Proof of Military Failure",
-      "summary": "Senior Iranian officials have shrugged off Washington's renewed focus on economic warfare and sanctions. Parliamentary speaker Mohammad Baqer Qalibaf asserted that relying on economic pressure demonstrates the U.S. and Israel's inability to prevail in a conventional military conflict.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-      "source": "NPR News",
-      "published": "2026-08-21T11:42:10+00:00"
+      "headline": "AgentSight Brings eBPF Observability to AI Agents Without Code Changes",
+      "summary": "Alibaba's open-source AgentSight uses Linux eBPF probes to monitor AI agents at the kernel level without requiring modifications to agent source code. It tracks LLM API calls, token consumption, and process execution while offering real-time dashboard visualizations and automatic process discovery. The tool requires Linux Kernel 5.8 or higher with root or CAP_BPF privileges to capture system-wide metrics.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
+      "source": "Hacker News",
+      "published": "2026-08-21T15:21:10+00:00"
     },
     {
       "headline": "CBS Sports Ranks NBA's Top 12 Duos with Familiar Faces Leading the Pack",
@@ -405,7 +378,25 @@
       "relevance": 7,
       "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
       "source": "Daring Fireball",
-      "published": "2026-08-11T17:46:14+00:00"
+      "published": "2026-08-21T13:36:58+00:00"
+    },
+    {
+      "headline": "The Death of Reliable Search and Critical Thought",
+      "summary": "Modern search engines are increasingly choked by SEO filler and confident AI-generated hallucinations that bury genuine technical answers. By feeding users automated summaries instead of direct sources, platforms discourage verification and erode critical thinking skills.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://blog.8ball.space/what-we-lost-when-search/",
+      "source": "Hacker News",
+      "published": "2026-08-21T14:16:17+00:00"
+    },
+    {
+      "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
+      "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:03:00+00:00"
     },
     {
       "headline": "Fred again.. and Latin Mafia Drop Livestreamed Collaborative Mixtape",
@@ -417,13 +408,31 @@
       "published": "2026-08-21T04:01:00+00:00"
     },
     {
+      "headline": "Global Summer Transfer Window Highlights Biggest Deals",
+      "summary": "Premier League spending has surpassed £2.bn this summer amid massive global transfers. Notable moves include Morgan Rogers joining Chelsea for a British record £117m and Bayern Munich securing Ismael Saibari for £43m.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjmd19887o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-08-21T13:51:24+00:00"
+    },
+    {
+      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "summary": "",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T13:07:00+00:00"
+    },
+    {
       "headline": "DR Congo Ebola Outbreak Triggers Emergency Vaccine Trial Amid Rapid Spread",
       "summary": "The Democratic Republic of the Congo is launching a clinical trial of the Ervebo vaccine to combat the Bundibugyo strain of Ebola driving the country's deadliest outbreak on record. With the World Health Organization warning that infections are growing exponentially across an area larger than France, health officials plan to distribute 20,000 trial doses and 50,000 doses to frontline workers.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T13:44:43.874Z"
+      "published": "2026-08-21T13:44:43+00:00"
     },
     {
       "headline": "6.7 Magnitude Earthquake Strikes Southern Peru, Damaging Infrastructure",
@@ -432,16 +441,7 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T11:14:38.644Z"
-    },
-    {
-      "headline": "The Death of Reliable Search and Critical Thought",
-      "summary": "Modern search engines are increasingly choked by SEO filler and confident AI-generated hallucinations that bury genuine technical answers. By feeding users automated summaries instead of direct sources, platforms discourage verification and erode critical thinking skills.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://blog.8ball.space/what-we-lost-when-search/",
-      "source": "Hacker News",
-      "published": "2026-08-21T14:16:17+00:00"
+      "published": "2026-08-21T11:14:38+00:00"
     },
     {
       "headline": "BetMGM Offers $1,500 Bonus Code for Friday Sports",
