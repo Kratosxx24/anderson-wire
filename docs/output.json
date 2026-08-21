@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T04:07:11.941922+00:00",
-  "story_count": 40,
+  "generated_at": "2026-08-21T04:51:29.956902+00:00",
+  "story_count": 50,
   "stories": [
     {
       "headline": "NBA Roundup: 2026 Projections, Duren Contract Talks, and Peyton Watson Trade Breakdown",
@@ -192,15 +192,6 @@
       "published": "2026-08-20T15:26:02+00:00"
     },
     {
-      "headline": "Every Model Cheats",
-      "summary": "",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "source": "Hacker News",
-      "published": "2026-08-20T13:56:59+00:00"
-    },
-    {
       "headline": "Evaluating Faith and Identity in Christian Higher Education",
       "summary": "The Gospel Coalition looks at how prospective students and families can assess whether a university genuinely maintains its religious mission. The piece outlines the criteria, theological commitments, and campus culture that separate authentic faith-based schools from nominal ones.",
       "category": "Faith",
@@ -291,22 +282,13 @@
       "published": "2026-08-20T09:24:45+00:00"
     },
     {
-      "headline": "Why the Bond Market Sell-Off Is Sounding Alarms Over U.S. Debt",
-      "summary": "While the stock market flirts with record highs, a severe sell-off in the bond market is signaling deep investor anxiety about the economy. Experts warn that the U.S. government's staggering $40 trillion debt load and stubborn inflation risks are driving the turbulence.",
-      "category": "World",
+      "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
+      "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5937600/economy-bonds-inflation-debt-consumers",
-      "source": "NPR News",
-      "published": "2026-08-20T09:00:00+00:00"
-    },
-    {
-      "headline": "James Harden Inks Three-Year, $97 Million Deal With Cavaliers",
-      "summary": "Free agent guard James Harden has agreed to a three-year, $97 million contract to remain with the Cleveland Cavaliers. The fresh agreement features a player option alongside a trade kicker, according to representatives from Equity Sports.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vtp776/charania_breaking_james_harden_has_agreed_to_a/",
-      "source": "r/NBA",
-      "published": "2026-08-20T17:00:21+00:00"
+      "url": "https://github.com/openai/codex/issues/37674",
+      "source": "Hacker News",
+      "published": "2026-08-09T07:10:55.000Z"
     },
     {
       "headline": "Hovvdy Embraces Brevity and Perspective on Sixth Album 'Big World'",
@@ -336,13 +318,85 @@
       "published": "2026-08-20T15:37:00+00:00"
     },
     {
-      "headline": "UC Berkeley Law Institutes Blanket Ban on Generative AI for Graded Work",
-      "summary": "Starting in summer 2026, UC Berkeley Law will prohibit students from using artificial intelligence to brainstorm, outline, draft, revise, or translate any coursework submitted for credit. The strict policy is designed to ensure students independently master critical reasoning and writing fundamentals, though instructors teaching specialized tech courses can grant exceptions.",
-      "category": "Tech/AI",
+      "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
+      "summary": "Following his experimental debut under Posh Isolation, Danish producer Gustav Berntsen is releasing his second album, Herzsprung, via London label AD 93. Tracked directly to tape in Sweden with a full band, the record blends complex acid folk, jazz fusion, and art rock into a polished professional release.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-      "source": "Hacker News",
-      "published": "2026-08-21T01:37:27+00:00"
+      "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:03:00+00:00"
+    },
+    {
+      "headline": "FBI Arrests New York Woman Over Alleged Statehouse Bomb Plot",
+      "summary": "Federal authorities arrested 35-year-old Jessica Bowie of Albany for allegedly plotting to bomb the New York state capitol and kill lawmakers on behalf of the Islamic State. Prosecutors stated that Bowie conducted multiple reconnaissance missions and was caught carrying a fake explosive, a defective gun, and a written oath to IS supplied by undercover agents.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c5y615l2w46o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T21:03:30.373Z"
+    },
+    {
+      "headline": "US Imposes Fresh Sanctions on Cuban Officials and State Firms",
+      "summary": "The Trump administration issued a new round of economic sanctions targeting nine Cuban state-owned construction, mining, and metal firms alongside the Ministry of Construction. Secretary of State Marco Rubio accused the targeted entities and officials of organizing subversive anti-American networking events tied to the legacy of Fidel Castro.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T02:06:28.359Z"
+    },
+    {
+      "headline": "Trump Administration Pushes 'Economic D-Day' Sanctions Against Iran",
+      "summary": "The White House is preparing a sweeping economic pressure campaign to penalize any nation conducting business with Iran, labeling it an economic D-Day. With Treasury Secretary Scott Bessent set to reveal enforcement details, the administration aims to break the prolonged diplomatic and military standstill by targeting Iranian oil sales and financial transfers.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T23:16:45.992Z"
+    },
+    {
+      "headline": "Prediction Markets Open Betting on Pittsburgh Steelers Season",
+      "summary": "Prediction market platform Polymarket has opened wagering on the Pittsburgh Steelers, featuring a promotional signup bonus for CBS Sports users. The odds evaluate team performance benchmarks ahead of the upcoming football season.",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/prediction/news/heres-what-prediction-markets-say-about-the-steelers-use-polymarket-promo-code-cbssports-for-20-bonus/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T01:06:25+00:00"
+    },
+    {
+      "headline": "Coding Agents Shift Software Productivity Metrics to Cognitive Capacity",
+      "summary": "While AI coding agents allow developers to generate thousands of lines of debugged code daily, the primary bottleneck has shifted from raw output speed to human cognitive capacity. Maintaining software integrity across vastly accelerated workflows requires careful load balancing and structured team engineering.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+      "source": "Simon Willison",
+      "published": "2026-08-19T22:46:07+00:00"
+    },
+    {
+      "headline": "Japan Executes Man Convicted in 2009 Pachinko Parlour Arson",
+      "summary": "Japan hanged 58-year-old Sunao Takami for setting fire to an Osaka pachinko gaming parlour in 2009, resulting in the deaths of four customers and one employee. This marks the country's first execution in over a year under the Takaichi administration, following a rejected mental illness defense.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cly8k232mn7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T02:49:27.316Z"
+    },
+    {
+      "headline": "Imran Khan Returned to Prison After Medical Examination in Islamabad",
+      "summary": "Pakistan's former Prime Minister Imran Khan was transferred back to prison following a court-ordered medical evaluation at a hospital in Islamabad. A panel of doctors declared the 73-year-old politician medically fit after addressing concerns raised by his legal team regarding his ongoing health and eyesight issues.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T20:40:17.038Z"
+    },
+    {
+      "headline": "Boat Capsize in North-Western Nigeria Leaves Dozens Dead",
+      "summary": "At least 46 people died after an overcrowded boat carrying mostly children capsized in Nigeria's Sokoto state near Gorau. Emergency services and local security forces launched a search operation for 15 missing passengers, underscoring ongoing safety hazards tied to remote river transport.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T20:27:36.052Z"
     },
     {
       "headline": "Supergroup Dinner Party Embraces Restraint on Third Album 'Whatchu Bringing?'",
@@ -352,6 +406,42 @@
       "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
       "source": "Pitchfork",
       "published": "2026-08-20T04:02:00+00:00"
+    },
+    {
+      "headline": "Giants and Dolphins Face Potential NFL Discipline After Joint Practice Brawl",
+      "summary": "Multiple players were ejected following a violent on-field brawl during a joint practice between the New York Giants and Miami Dolphins. The altercation has raised concerns league-wide and could result in official disciplinary action from the NFL.",
+      "category": "NFL",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/nfl/news/giants-dolphins-joint-practice-fight/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T01:18:19+00:00"
+    },
+    {
+      "headline": "Record Cyclosporiasis Outbreak Strains Underfunded Local Health Agencies",
+      "summary": "A record-breaking surge in cyclosporiasis infections is testing the limits of local food safety programs that are already stretched thin. Public health experts warn that prior federal funding cuts have severely hobbled the workforce needed to properly interview patients and contain the parasite.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
+      "source": "NPR News",
+      "published": "2026-08-20T15:54:19-04:00"
+    },
+    {
+      "headline": "AI Firms Are Buying and Destroying Rare Physical Books to Train Models",
+      "summary": "Artificial intelligence companies are acquiring millions of secondhand books through intermediaries to scan and subsequently destroy them for exclusive training data. In response, open library advocates at Anna's Archive are urging volunteers worldwide to rapidly digitize rare literature before physical copies vanish permanently.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "source": "Hacker News",
+      "published": "2026-08-21T02:37:47+00:00"
+    },
+    {
+      "headline": "Squirrel Flower Delivers Tender, Road-Worn Indie Rock on New Album",
+      "summary": "Ella Williams returns with her fourth full-length album under the moniker Squirrel Flower, titled Say a Prayer to the Gods of Getting Going. Produced by Alex Farrar, the record leans into heartland rock arrangements and sharp emotional realism while exploring the tension between transience and settling down.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
+      "source": "Pitchfork",
+      "published": "2026-08-21T04:02:00+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
