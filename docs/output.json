@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:45:34.433044+00:00",
+  "generated_at": "2026-08-21T21:09:36.496918+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -147,6 +147,15 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
+      "headline": "Developer Compares Codex and Claude for Ruby Coding",
+      "summary": "A week-long comparison between Codex and Claude reveals distinct behavioral differences in coding workflows. Codex generated simpler code architectures with fewer comments and executed changes quickly, whereas Claude felt more conversational and handled complex edge cases better despite over-abstracting at times.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "source": "Hacker News",
+      "published": "2026-08-21T07:20:00+00:00"
+    },
+    {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
       "summary": "Basketball Intelligence's August 21 edition highlights major offseason developments, including the ongoing fallout from a massive five-team trade and analysis of team rosters. Reports cover roster changes for Boston, Denver, and Cleveland, alongside emerging prospect profiles for the 2027 NBA Draft. The newsletter also provides updates on league trends, power rankings, and veteran player trajectories.",
       "category": "NBA",
@@ -210,15 +219,6 @@
       "published": "2026-08-21T17:00:00+00:00"
     },
     {
-      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
-      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
-      "source": "Daring Fireball",
-      "published": "2026-08-21T19:34:55+00:00"
-    },
-    {
       "headline": "GB Returns With Sophisticated Sophomore Album Herzsprung",
       "summary": "Danish musician Gustav Berntsen, known as GB, has released his second album, Herzsprung, via AD 93. Recorded to tape in Sweden with a full band, the record shifts away from his earlier noise-rock roots toward a polished blend of acid folk, jazz fusion, and art rock.",
       "category": "Music",
@@ -255,13 +255,13 @@
       "published": "2026-08-21T17:20:32+00:00"
     },
     {
-      "headline": "Targeting Early Round Running Backs is the 2026 Fantasy Blueprint",
-      "summary": "Securing running backs in the first and two rounds is being touted as the essential strategy for dominating fantasy football leagues in 2026. Fantasy managers are advised to prioritize elite backfield talent early to build a winning roster. Capitalizing on high-volume rushers right out of the gate provides a distinct competitive advantage.",
-      "category": "Sports",
+      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
+      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/drafting-the-rounds-1-2-running-backs-is-the-secret-recipe-to-winning-2026-fantasy-football-leagues/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T15:53:51+00:00"
+      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
+      "source": "Daring Fireball",
+      "published": "2026-08-21T19:34:55+00:00"
     },
     {
       "headline": "Apple and EU Reach DMA App Payment Agreement with Minor Concessions",
@@ -298,6 +298,15 @@
       "url": "https://github.com/alibaba/anolisa/blob/main/docs/user-guide/en/agent-observability/agentsight.md",
       "source": "Hacker News",
       "published": "2026-08-21T15:21:10+00:00"
+    },
+    {
+      "headline": "Curing Claude's Clickbait Habit with Gemini",
+      "summary": "A developer built a Claude Code skill that pipes the AI's overly dramatic, BuzzFeed-style responses through the Gemini CLI to translate them into plain English. Because prompting alone cannot stop Claude from talking like a TED talk, the tool forces a literal rewrite to strip out annoying tech-bro tropes and narrative kickers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "source": "Hacker News",
+      "published": "2026-08-21T14:31:52+00:00"
     },
     {
       "headline": "Evaluating Faith and Identity in Christian Higher Education",
@@ -390,13 +399,40 @@
       "published": "2026-08-21T09:00:00+00:00"
     },
     {
-      "headline": "Curing Claude's Clickbait Habit with Gemini",
-      "summary": "A developer built a Claude Code skill that pipes the AI's overly dramatic, BuzzFeed-style responses through the Gemini CLI to translate them into plain English. Because prompting alone cannot stop Claude from talking like a TED talk, the tool forces a literal rewrite to strip out annoying tech-bro tropes and narrative kickers.",
+      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
+      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "source": "Hacker News",
-      "published": "2026-08-21T14:31:52+00:00"
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-21T17:16:13+00:00"
+    },
+    {
+      "headline": "LLM OpenRouter Plugin Updated for Version 0.32 Compatibility",
+      "summary": "The llm-openrouter 0.7 plugin has dropped, bringing full compatibility with LLM 0.32 and better support for reasoning models. The update integrates OpenRouter's Responses API alongside three new server-side tools for shell execution, web fetching, and web searching.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+      "source": "Simon Willison",
+      "published": "2026-08-21T16:58:19+00:00"
+    },
+    {
+      "headline": "Bun 1.4 Ships With Major Rust Rewrite and Native WebView API",
+      "summary": "Bun 1.4 arrives following a complete underlying rewrite from Zig to Rust, bringing massive performance gains including a 5x reduction in idle CPU usage. A standout addition is Bun.WebView, which enables zero-dependency browser automation and screenshot APIs without needing Puppeteer or Playwright.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
+      "source": "Simon Willison",
+      "published": "2026-08-20T15:37:00+00:00"
+    },
+    {
+      "headline": "Klay Thompson Reportedly Heading to Miami After Mavericks Buyout",
+      "summary": "Guard Klay Thompson is expected to join the Miami Heat following a buyout agreement with the Dallas Mavericks. The move will shake up the NBA landscape by sending the veteran shooter to South Beach.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nba/news/klay-thompson-heat-mavericks-buyout/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T19:45:15+00:00"
     },
     {
       "headline": "Bluesky Sees Active User Base Shrink Despite Protocol Growth",
@@ -406,42 +442,6 @@
       "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
       "source": "Daring Fireball",
       "published": "2026-08-21T13:36:58+00:00"
-    },
-    {
-      "headline": "Developer Builds Self-Hosted Agentic Software Factory on Local Hardware",
-      "summary": "A developer constructed a sandboxed, automated development environment on a used Intel i7 home server to securely run LLM-driven coding agents. Powered by Coolify, Tailscale, and OpenAI, the setup successfully handles the entire software lifecycle from a single prompt—writing code, passing CI, and deploying with a database and HTTPS without cloud hosting fees.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "source": "Hacker News",
-      "published": "2026-08-21T16:27:52+00:00"
-    },
-    {
-      "headline": "DR Congo Faces Rapid Ebola Spread as Vaccine Trials Begin",
-      "summary": "The Democratic Republic of the Congo is launching a clinical trial of the Ervebo vaccine targeting the Bundibugyo strain of Ebola. The World Health Organization warns that infections are growing exponentially across an area larger than France, making this the deadliest outbreak in the nation's history.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T13:44:43+00:00"
-    },
-    {
-      "headline": "Germany Investigates Hidden Weapons Cache Tied to Russian Espionage",
-      "summary": "German authorities are investigating whether a gun cache discovered in the woods near Berlin last year was intended for Russian-backed assassinations. Interior Minister Alexander Dobrindt confirmed that prosecutors are currently looking into a suspect in Romania amid heightened threat levels and fears of targeted attacks.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cp9edjpvplpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T16:26:53+00:00"
-    },
-    {
-      "headline": "Israel Accelerates West Bank Settlements Despite Global Outrage",
-      "summary": "Israel has opened tenders for roughly 1,200 new settlement homes in the strategic E1 area near Jerusalem, directly advancing Prime Minister Benjamin Netanyahu's goal to block a Palestinian state. The move has drawn sharp condemnation from the UN and Western allies who warn it threatens regional viability, though settlement construction has surged steadily since Netanyahu's coalition took power in 2022.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-21T19:31:47.537Z"
     },
     {
       "headline": "NPR Morning Briefing: Trump Iran Threats, SCOTUS Ballroom Case, and Market Selloff",
