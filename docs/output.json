@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T01:53:38.866254+00:00",
+  "generated_at": "2026-08-21T03:13:03.237416+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -120,33 +120,6 @@
       "published": "2026-07-27T15:38:21+00:00"
     },
     {
-      "headline": "The Studio Travels to Spain to Film a Rare Solar Eclipse",
-      "summary": "The MKBHD production team embarked on an international expedition to Spain to capture high-resolution footage of a total solar eclipse. The behind-the-scenes coverage highlights the specialized camera gear, tight timelines, and technical challenges of filming astronomical events in the field. It provides viewers with a detailed look at the preparation required to document fleeting celestial phenomena.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=ZrAkCJS9H1s",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-08-17T17:03:00+00:00"
-    },
-    {
-      "headline": "The Studio Explores the Engineering Behind Apple's Signature Audio",
-      "summary": "The Studio team investigates the origins, sound design, and branding choices behind Apple's recognizable iPhone audio cues. The piece delves into how UI sounds, alert chimes, and haptic feedback are crafted to shape daily user interactions. It reveals the deliberate acoustic engineering required to make simple device alerts feel natural and iconic.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/shorts/tCGBoTY8sq4",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-07-25T01:34:37+00:00"
-    },
-    {
-      "headline": "The Blueprint for a Million-Subscriber YouTube Channel",
-      "summary": "Marques Brownlee's studio channel breaks down the core strategies required to scale a YouTube audience into the millions. The walkthrough highlights the importance of consistency, quality, and adapting to shifting viewer habits on the platform. It offers an insider's look at the production and mindset milestones needed to hit creator milestones.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=Puny-2wkMZA",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-07-03T19:29:25+00:00"
-    },
-    {
       "headline": "Finding Spiritual Lessons in a Household Pest Crisis",
       "summary": "An unexpected roach infestation prompted a spiritual reflection on personal habits and the necessity of rest. The commentary uses the domestic ordeal to explore broader themes of faith, perseverance, and pastoral wisdom. It highlights how mundane household struggles can unexpectedly drive spiritual growth.",
       "category": "Faith",
@@ -174,6 +147,15 @@
       "published": "2026-08-20T04:36:02+00:00"
     },
     {
+      "headline": "Daily Fantasy Picks and Lineups Announced for NFL Preseason Week 2",
+      "summary": "CBS Sports has released daily fantasy football recommendations for Thursday's Week 2 preseason matchups. The guide provides targeted player picks and lineup advice tailored for DraftKings and FanDuel DFS contests.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-2-preseason-daily-fantasy-football-picks-thursday-lineups/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T22:19:22+00:00"
+    },
+    {
       "headline": "Leonard Moore Tops Early 2027 NFL Draft CB Rankings",
       "summary": "CBS Sports has released its opening scouting series for the 2027 NFL Draft, positioning cornerback Leonard Moore at the head of the top 10 prospects. Analysts are already evaluating whether his skillset makes him the premier cornerback prospect to emerge since Jalen Ramsey.",
       "category": "NFL",
@@ -183,13 +165,13 @@
       "published": "2026-08-20T20:15:53+00:00"
     },
     {
-      "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
-      "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
-      "category": "NFL",
+      "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
+      "summary": "Data from monitoring firm Promptwatch reveals that ChatGPT Search fanout queries using the site: operator jumped from under 0.5% to roughly 17% following the GPT-5.6 rollout in early August. The change indicates OpenAI has redesigned its underlying retrieval tool to query specific domains directly while reportedly curbing citations from sources like Reddit. The shift reflects broader efforts to make conversational responses more focused and factually reliable without relying on broad web sweeps.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cbssports.com/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T19:36:02+00:00"
+      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+      "source": "Simon Willison",
+      "published": "2026-08-20T23:57:32+00:00"
     },
     {
       "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
@@ -199,6 +181,42 @@
       "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
       "source": "Simon Willison",
       "published": "2026-08-19T23:16:00+00:00"
+    },
+    {
+      "headline": "Developer Builds Huzzah to Replace Natural Language AI Prompting with Pseudocode",
+      "summary": "Frustrated by the inefficiency and token waste of writing lengthy conversational prompts for coding agents, a developer introduced Huzzah, an experimental AI-assisted code editor. Unlike traditional chat interfaces that discard prompt history and rely on imperative prose, Huzzah uses declarative, persistent pseudocode to preserve human intent. The project aims to give engineers tighter structural control over AI code generation without reverting to fully manual programming.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "source": "Hacker News",
+      "published": "2026-08-20T19:05:36+00:00"
+    },
+    {
+      "headline": "CBS Sports Releases 2026 Fantasy Football Draft Kit and Strategy Guide",
+      "summary": "CBS Sports and SportsLine have rolled out their 2026 fantasy football draft preparation resources. The guide offers expert rankings, player tiers, top 150 draft targets, and breakout rookie strategies for the upcoming NFL season.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-picks-rookie-strategy/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T00:15:37+00:00"
+    },
+    {
+      "headline": "2026 Fantasy Football Sleepers From the Model That Caught De'Von Achane's Breakout",
+      "summary": "CBS Sports has released its early 2026 fantasy football sleeper rankings, utilizing the same predictive computer model that accurately forecasted De'Von Achane's breakout campaign. The breakdown offers fantasy managers an early edge by identifying undervalued talent primed for major production.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-amazing-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T21:51:56+00:00"
+    },
+    {
+      "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
+      "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T19:36:02+00:00"
     },
     {
       "headline": "Vomit utility translates Claude's raw token output using a local LLM",
@@ -217,15 +235,6 @@
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
       "source": "Hacker News",
       "published": "2026-08-20T14:08:09+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Sleepers From the Model That Caught De'Von Achane's Breakout",
-      "summary": "CBS Sports has released its early 2026 fantasy football sleeper rankings, utilizing the same predictive computer model that accurately forecasted De'Von Achane's breakout campaign. The breakdown offers fantasy managers an early edge by identifying undervalued talent primed for major production.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-computer-that-nailed-devon-achanes-amazing-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T21:51:56+00:00"
     },
     {
       "headline": "Every Model Cheats",
@@ -345,49 +354,31 @@
       "published": "2026-08-20T09:00:00+00:00"
     },
     {
-      "headline": "ChatGPT Search Drastically Shifts Toward Targeted Domain Queries",
-      "summary": "Data from monitoring firm Promptwatch reveals that ChatGPT Search fanout queries using the site: operator jumped from under 0.5% to roughly 17% following the GPT-5.6 rollout in early August. The change indicates OpenAI has redesigned its underlying retrieval tool to query specific domains directly while reportedly curbing citations from sources like Reddit. The shift reflects broader efforts to make conversational responses more focused and factually reliable without relying on broad web sweeps.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
-      "source": "Simon Willison",
-      "published": "2026-08-20T23:57:32+00:00"
-    },
-    {
-      "headline": "CBS Sports Releases 2026 Fantasy Football Draft Kit and Strategy Guide",
-      "summary": "CBS Sports and SportsLine have rolled out their 2026 fantasy football draft preparation resources. The guide offers expert rankings, player tiers, top 150 draft targets, and breakout rookie strategies for the upcoming NFL season.",
+      "headline": "Lions Tight End Sam LaPorta Sidelined by Hip Injury",
+      "summary": "Detroit Lions head coach Dan Campbell announced that tight end Sam LaPorta is currently dealing with a hip injury. Campbell indicated that LaPorta could be ready in time for the regular-season opener, though his status remains uncertain.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-picks-rookie-strategy/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T00:15:37+00:00"
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vtog9o/lions_te_sam_laporta_suffered_a_hip_injury_per_hc/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-20T16:33:18+00:00"
     },
     {
-      "headline": "Daily Fantasy Picks and Lineups Announced for NFL Preseason Week 2",
-      "summary": "CBS Sports has released daily fantasy football recommendations for Thursday's Week 2 preseason matchups. The guide provides targeted player picks and lineup advice tailored for DraftKings and FanDuel DFS contests.",
-      "category": "NFL",
+      "headline": "Trump Cuts Joint Military Exercises Short, Blindsiding South Korea",
+      "summary": "President Donald Trump abruptly halted the annual Ulchi Freedom Shield military exercises midway through the schedule, calling the joint drills with South Korea costly and hostile toward Pyongyang. The surprise decision caught Seoul off guard and deepened regional anxiety that Washington might scale back its 27,000 stationed troops or abandon core denuclearization goals.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-2-preseason-daily-fantasy-football-picks-thursday-lineups/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T22:19:22+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T22:01:26.757Z"
     },
     {
-      "headline": "Developer Builds Huzzah to Replace Natural Language AI Prompting with Pseudocode",
-      "summary": "Frustrated by the inefficiency and token waste of writing lengthy conversational prompts for coding agents, a developer introduced Huzzah, an experimental AI-assisted code editor. Unlike traditional chat interfaces that discard prompt history and rely on imperative prose, Huzzah uses declarative, persistent pseudocode to preserve human intent. The project aims to give engineers tighter structural control over AI code generation without reverting to fully manual programming.",
-      "category": "Tech/AI",
+      "headline": "Homogenized AI Advice Is Flattening Fantasy Football Strategy",
+      "summary": "A veteran fantasy football manager lamented the erosion of distinct draft strategies in the modern era, contrasting today's landscape with the days of manual newspaper stat-tracking. With algorithmic feeds and AI tools pushing the exact same player targets to everyone, leagues face an increasingly uniform competitive field.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "source": "Hacker News",
-      "published": "2026-08-20T19:05:36+00:00"
-    },
-    {
-      "headline": "Make Music Through Code With Open-Source Platform Tidal Cycles",
-      "summary": "Tidal Cycles is a free, Haskell-based live coding environment that allows musicians to generate complex algorithmic patterns, polyrhythms, and sound sequences. Built on SuperCollider for audio synthesis, the open-source software has cultivated a vibrant community of artists using code for live composition.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://tidalcycles.org/",
-      "source": "Hacker News",
-      "published": "2026-08-20T19:21:45+00:00"
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vtpco5/the_state_of_fantasy_football_today/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-20T17:05:39+00:00"
     },
     {
       "headline": "Hovvdy Embraces Brevity and Perspective on Sixth Album 'Big World'",
@@ -426,22 +417,31 @@
       "published": "2026-08-21T00:15:12+00:00"
     },
     {
-      "headline": "Fair Use Dispute Targets Amazon Over Digital Content Practices",
-      "summary": "A widely shared post on Hacker News explores criticism of Amazon claiming fair use protections in its digital operations. Commenters discuss where the legal boundary between acceptable digital fair use and copyright overreach lies for large tech platforms.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-      "source": "Hacker News",
-      "published": "2026-08-21T00:34:32+00:00"
+      "headline": "James Harden Inks Three-Year, $97 Million Deal With Cavaliers",
+      "summary": "Free agent guard James Harden has agreed to a three-year, $97 million contract to remain with the Cleveland Cavaliers. The fresh agreement features a player option alongside a trade kicker, according to representatives from Equity Sports.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vtp776/charania_breaking_james_harden_has_agreed_to_a/",
+      "source": "r/NBA",
+      "published": "2026-08-20T17:00:21+00:00"
     },
     {
-      "headline": "Federal Budget Cuts Cripple Public Health Response to Record Cyclospora Outbreak",
-      "summary": "State and local food-safety agencies are struggling to track and contain a historic nationwide cyclosporiasis surge following significant federal health funding cuts. Local departments report severe understaffing, leaving inspectors unable to conduct necessary contact tracing and patient interviews to isolate the parasite's source. Health officials warn that the reduced budgets have stripped away critical early detection systems just as foodborne infection rates reach record highs.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/08/20/nx-s1-5930462/trump-health-foodborne-illness-outbreak-cyclospora",
-      "source": "NPR News",
-      "published": "2026-08-20T15:54:19-04:00"
+      "headline": "UC Berkeley Law Institutes Blanket Ban on Generative AI for Graded Work",
+      "summary": "Starting in summer 2026, UC Berkeley Law will prohibit students from using artificial intelligence to brainstorm, outline, draft, revise, or translate any coursework submitted for credit. The strict policy is designed to ensure students independently master critical reasoning and writing fundamentals, though instructors teaching specialized tech courses can grant exceptions.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+      "source": "Hacker News",
+      "published": "2026-05-22T19:28:31+00:00"
+    },
+    {
+      "headline": "Supergroup Dinner Party Embraces Restraint on Third Album 'Whatchu Bringing?'",
+      "summary": "Jazz-rap collective Dinner Party—comprising Robert Glasper, Terrace Martin, Kamasi Washington, and 9th Wonder—has released its third studio LP, leaning into easygoing camaraderie over virtuoso grandstanding. Chicago singer Phoelix serves as an essential anchor, co-writing all nine tracks and blending smoothly into the project's relaxed, communal production.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://pitchfork.com/reviews/albums/dinner-party-whatchu-bringing/",
+      "source": "Pitchfork",
+      "published": "2026-08-20T04:02:00+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
