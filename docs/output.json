@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:53:28.904966+00:00",
+  "generated_at": "2026-08-21T08:22:58.462677+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -183,24 +183,6 @@
       "published": "2026-08-20T04:36:02+00:00"
     },
     {
-      "headline": "Multi-Team NBA Trade Sends Peyton Watson to Cleveland",
-      "summary": "A complex five-team trade has landed Peyton Watson in Cleveland on a four-year, $88 million contract alongside Cam Whitmore. The massive deal also moves Dennis Schroder to the Hornets, Max Strus to the Clippers, and multiple draft picks to the Nuggets. This roster shakeup has triggered fresh anxiety in Denver regarding future salary cap constraints and Nikola Jokic's long-term outlook.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/washington-wizards/nba-trade-rumors-nikola-jokic-trade-talk/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-20T06:58:05Z"
-    },
-    {
-      "headline": "Lakers Eyeing Clint Capela Trade",
-      "summary": "The Los Angeles Lakers are reportedly exploring a trade to acquire veteran center Clint Capela from the Houston Rockets. Los Angeles would likely package recently acquired guard Jaden Hardy to match Capela's seven million dollar salary and bolster their frontcourt depth.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://heavy.com/sports/nba/los-angeles-lakers/lakers-linked-trading-jaden-hardy-center/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-20T06:04:06Z"
-    },
-    {
       "headline": "Daily Fantasy Picks and Lineups Announced for NFL Preseason Week 2",
       "summary": "CBS Sports has released daily fantasy football recommendations for Thursday's Week 2 preseason matchups. The guide provides targeted player picks and lineup advice tailored for DraftKings and FanDuel DFS contests.",
       "category": "NFL",
@@ -237,13 +219,13 @@
       "published": "2026-08-19T23:16:00+00:00"
     },
     {
-      "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
-      "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
+      "headline": "Seed Launches Minimal, Self-Modifying AI Agent Framework",
+      "summary": "A new minimalist GitHub project called Seed gives developers a stripped-down starting point for language model agents with zero traditional frameworks. Running on a single bash-execution loop, the agent relies entirely on its own self-written documentation and local sessions to grow its capabilities over time.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/openai/codex/issues/37674",
+      "url": "https://github.com/vivekhaldar/seed",
       "source": "Hacker News",
-      "published": "2026-08-21T03:17:43+00:00"
+      "published": "2026-08-21T05:20:50+00:00"
     },
     {
       "headline": "CBS Sports Releases 2026 Fantasy Football Draft Kit and Strategy Guide",
@@ -271,6 +253,15 @@
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
       "published": "2026-08-20T19:36:02+00:00"
+    },
+    {
+      "headline": "AWS Bedrock Codex Bug Triggers Massive Cache-Write Bills",
+      "summary": "Native Codex CLI requests using the GPT-5.6 Sol model on Amazon Bedrock lack explicit prompt caching controls, causing heavy cache-write volumes. Production data from August 2026 shows cache writes drove approximately 85 percent of the model's estimated cost, racking up over $1,180 across 3,656 requests.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/openai/codex/issues/37674",
+      "source": "Hacker News",
+      "published": "2026-08-21T03:17:43+00:00"
     },
     {
       "headline": "Developer Builds Huzzah to Replace Natural Language AI Prompting with Pseudocode",
@@ -309,6 +300,15 @@
       "published": "2026-08-19T04:00:00+00:00"
     },
     {
+      "headline": "Israel Revives Defunct West Bank Settlement",
+      "summary": "Ignoring international condemnation, thirty Israeli pioneer families moved into the abandoned Kadim settlement near Jenin under military escort. The resettlement marks a reversal of the 2005 unilateral Disengagement Plan, backed by senior far-right government ministers pushing aggressive territorial expansion.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T05:00:57+00:00"
+    },
+    {
       "headline": "Western Allies Condemn Israel's E1 Settlement Expansion in West Bank",
       "summary": "The UK, France, Germany, Italy, and Canada have issued a joint statement demanding Israel immediately withdraw tenders to construct over 1,200 settlement homes in the strategic E1 zone. Critics and UN officials warn the project would split the West Bank and isolate East Jerusalem, effectively destroying the viability of a two-state solution. Israeli officials rejected the pushback despite pending legal challenges from local Bedouin communities and peace organizations.",
       "category": "World",
@@ -316,6 +316,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-20T18:55:14+00:00"
+    },
+    {
+      "headline": "Panama Canal Restricts Daily Ship Transits Due to El Niño",
+      "summary": "The Panama Canal Authority is cutting daily vessel transits from 36 to 32 starting in September to conserve dwindling water resources caused by a powerful El Niño cycle. The restrictions compound existing global shipping disruptions from geopolitical conflicts, threatening vital international trade routes.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-21T06:46:08+00:00"
     },
     {
       "headline": "Trump Cuts Joint Military Exercises Short, Blindsiding South Korea",
@@ -372,49 +381,49 @@
       "published": "2026-08-20T11:30:18+00:00"
     },
     {
-      "headline": "Utah Jazz Eyeing Long-Term Center",
-      "summary": "Following the departure of Walker Kessler, the Utah Jazz are prioritizing finding a permanent replacement at the center position. Armed with extra draft capital from past deals, the front office plans to patiently scour the trade market for the right long-term fit.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.slcdunk.com/jazz-rumors/69606/nba-offseason-rumors-utahs-trade-priority-revealed",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-20T05:19:00Z"
-    },
-    {
-      "headline": "Israel Revives Defunct West Bank Settlement",
-      "summary": "Ignoring international condemnation, thirty Israeli pioneer families moved into the abandoned Kadim settlement near Jenin under military escort. The resettlement marks a reversal of the 2005 unilateral Disengagement Plan, backed by senior far-right government ministers pushing aggressive territorial expansion.",
+      "headline": "Trump's Upcoming 'Economic D-Day' Targets Iran's Global Trade",
+      "summary": "The Trump administration plans to unveil a severe new economic pressure campaign targeting any nation conducting business with Iran. Treasury Secretary Scott Bessent and Vice-President JD Vance emphasized that the enforcement will penalize entities handling money, oil, or transfers, despite Iran's long history of enduring heavy sanctions.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T05:00:57.157Z"
+      "published": "2026-08-20T23:16:45.992Z"
     },
     {
-      "headline": "Seed Launches Minimal, Self-Modifying AI Agent Framework",
-      "summary": "A new minimalist GitHub project called Seed gives developers a stripped-down starting point for language model agents with zero traditional frameworks. Running on a single bash-execution loop, the agent relies entirely on its own self-written documentation and local sessions to grow its capabilities over time.",
+      "headline": "Engineers Rebuild Linux MicroVM Stack for Apple Silicon",
+      "summary": "To bridge the gap between production Firecracker environments and macOS development laptops, engineering teams built a unified API called crackling. The tool drives Apple's native hypervisor on Macs while running identical images, eliminating the need for a shared remote development machine.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/vivekhaldar/seed",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
       "source": "Hacker News",
-      "published": "2026-08-21T05:20:50+00:00"
+      "published": "2026-08-18T00:00:00.000Z"
     },
     {
-      "headline": "Panama Canal Restricts Daily Ship Transits Due to El Niño",
-      "summary": "The Panama Canal Authority is cutting daily vessel transits from 36 to 32 starting in September to conserve dwindling water resources caused by a powerful El Niño cycle. The restrictions compound existing global shipping disruptions from geopolitical conflicts, threatening vital international trade routes.",
+      "headline": "Hong Kong Court Convicts Activists Over Tiananmen Vigils",
+      "summary": "Prominent activists Lee Cheuk-yan and Chow Hang-tung have been found guilty of inciting subversion under Hong Kong's national security law for organizing annual commemorations of the 1989 Tiananmen Square crackdown. The defendants face up to 10 years in prison following the prosecution of the now-defunct Hong Kong Alliance leaders.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-21T06:46:08.144Z"
+      "published": "2026-08-21T02:22:17.530Z"
     },
     {
-      "headline": "Bears Pursued Vita Vea Trade Before Extension",
-      "summary": "The Chicago Bears attempted to acquire Buccaneers defensive tackle Vita Vea via trade before he signed a two-year, $54 million extension in Tampa Bay. The pursuit highlights Chicago's aggressive push to secure elite interior defensive line talent rather than focusing strictly on edge rushers.",
+      "headline": "OpenRouter Lists Stealth Reasoning Model 'Ox Alpha'",
+      "summary": "OpenRouter introduced Ox Alpha, a stealth reasoning model tailored for long-horizon software engineering and multimodal workflows combining text and visual context. The model features a massive one-million-token context window and is operated by an anonymous third-party provider.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "source": "Hacker News",
+      "published": "2026-08-20T23:56:35+00:00"
+    },
+    {
+      "headline": "Raiders Face Texans in Week 2 NFL Preseason Matchup",
+      "summary": "The Las Vegas Raiders and Houston Texans are set to square off in a Week 2 Thursday preseason game. Betting experts and oddsmakers have released their latest spreads and predictions for the matchup.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://heavy.com/sports/nfl/chicago-bears/vita-vea-buccaneers-trade-interest-defensive-line/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-20T02:20:48+00:00"
+      "url": "https://www.cbssports.com/betting/news/raiders-texans-prediction-odds-time-nfl-week-2-preseason-thursday/",
+      "source": "CBS Sports",
+      "published": "2026-08-20T22:11:35+00:00"
     },
     {
       "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
@@ -433,15 +442,6 @@
       "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
       "source": "Pitchfork",
       "published": "2026-08-21T04:01:00+00:00"
-    },
-    {
-      "headline": "Charter Plane Crash Kills Eight in Western Alaska",
-      "summary": "A charter aircraft carrying eight people crashed at the remote Cape Newenham radar site in western Alaska, leaving no survivors. The U.S. military confirmed the tragedy at the isolated defense installation located roughly 450 miles west of Anchorage.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/08/21/nx-s1-5940552/charter-plane-crash-kills-8-alaska-military",
-      "source": "NPR News",
-      "published": "2026-08-21T02:41:33-04:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
