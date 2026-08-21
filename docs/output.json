@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:16:04.902812+00:00",
+  "generated_at": "2026-08-21T11:48:03.133565+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -165,6 +165,24 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
+      "headline": "Ferguson and Adams Impress in Rams Joint Practice",
+      "summary": "Terrance Ferguson and Davante Adams each caught two touchdowns during the Rams' joint practice against the Saints. Los Angeles is actively expanding Ferguson's role in the passing game as he grows more comfortable with the offensive scheme.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vtz0f9/rams_weapons_in_joint_practice_vs_saints_per_nate/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-20T23:02:13+00:00"
+    },
+    {
+      "headline": "Sam LaPorta Week 1 Availability in Doubt Following Hip Injury",
+      "summary": "Lions tight end Sam LaPorta is dealing with a hip injury that puts his status for the season opener up in the air. Head coach Dan Campbell confirmed the injury and stated he cannot say for certain whether LaPorta will be cleared in time for kickoff.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vtog9o/lions_te_sam_laporta_suffered_a_hip_injury_per_hc/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-20T16:33:18+00:00"
+    },
+    {
       "headline": "Peyton Watson Lands in Cleveland as Part of Five-Team Blockbuster",
       "summary": "A complex five-team trade has sent Peyton Watson to the Cavaliers and Max Strus to the Clippers. The transaction also absorbs and expands a prior deal involving Dennis Schroder and Tre Mann. Salary cap analysts Yossi Gozlan and Sam Quinn break down the massive multi-team roster shakeup.",
       "category": "NBA",
@@ -201,13 +219,13 @@
       "published": "2026-08-20T23:57:32+00:00"
     },
     {
-      "headline": "Testing smolvm: Fast, Isolated MicroVMs for Running Untrusted Code",
-      "summary": "Benchmarking of smolvm 1.8.3 confirms it effectively sandboxes untrusted Python and JavaScript with hardware-isolated VMs rather than shared-kernel containers. The setup successfully enforced offline execution, strict CPU and RAM limits, and storage quotas, delivering cold start times under 1.5 seconds and warm executions around 50 milliseconds. When an AI agent hit environment constraints preventing local nested virtualization, it dynamically routed and executed the test suite using GitHub Actions runners.",
+      "headline": "DeepSeek Launches V4 Flash Vision Experimental API",
+      "summary": "DeepSeek has introduced the deepseek-v4-flash-vision-exp model, enabling developers to process images alongside text using OpenAI-compatible endpoints. The system supports JPEG, PNG, GIF, and WebP formats through base64 encoding, external URLs, or file uploads. Requests are constrained by a 48 MiB body limit and enforce specific size limits for downloaded links.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
-      "source": "Simon Willison",
-      "published": "2026-08-19T23:16:00+00:00"
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "source": "Hacker News",
+      "published": "2026-08-21T10:33:56+00:00"
     },
     {
       "headline": "Engineers Rebuild Linux MicroVM Stack for Apple Silicon",
@@ -345,15 +363,6 @@
       "published": "2026-08-21T05:00:57+00:00"
     },
     {
-      "headline": "Trump's Upcoming 'Economic D-Day' Targets Iran's Global Trade",
-      "summary": "The Trump administration plans to unveil a severe new economic pressure campaign targeting any nation conducting business with Iran. Treasury Secretary Scott Bessent and Vice-President JD Vance emphasized that the enforcement will penalize entities handling money, oil, or transfers, despite Iran's long history of enduring heavy sanctions.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-20T23:16:45+00:00"
-    },
-    {
       "headline": "Hong Kong Court Convicts Activists Over Tiananmen Vigils",
       "summary": "Prominent activists Lee Cheuk-yan and Chow Hang-tung have been found guilty of inciting subversion under Hong Kong's national security law for organizing annual commemorations of the 1989 Tiananmen Square crackdown. The defendants face up to 10 years in prison following the prosecution of the now-defunct Hong Kong Alliance leaders.",
       "category": "World",
@@ -372,6 +381,15 @@
       "published": "2026-08-21T06:46:08+00:00"
     },
     {
+      "headline": "Trump's Upcoming 'Economic D-Day' Targets Iran's Global Trade",
+      "summary": "The Trump administration plans to unveil a severe new economic pressure campaign targeting any nation conducting business with Iran. Treasury Secretary Scott Bessent and Vice-President JD Vance emphasized that the enforcement will penalize entities handling money, oil, or transfers, despite Iran's long history of enduring heavy sanctions.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-20T23:16:45+00:00"
+    },
+    {
       "headline": "Trump Cuts Joint Military Exercises Short, Blindsiding South Korea",
       "summary": "President Donald Trump abruptly halted the annual Ulchi Freedom Shield military exercises midway through the schedule, calling the joint drills with South Korea costly and hostile toward Pyongyang. The surprise decision caught Seoul off guard and deepened regional anxiety that Washington might scale back its 27,000 stationed troops or abandon core denuclearization goals.",
       "category": "World",
@@ -381,22 +399,40 @@
       "published": "2026-08-20T22:01:26+00:00"
     },
     {
-      "headline": "DeepSeek Launches V4 Flash Vision Experimental API",
-      "summary": "DeepSeek has introduced the deepseek-v4-flash-vision-exp model, enabling developers to process images alongside text using OpenAI-compatible endpoints. The system supports JPEG, PNG, GIF, and WebP formats through base64 encoding, external URLs, or file uploads. Requests are constrained by a 48 MiB body limit and enforce specific size limits for downloaded links.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://api-docs.deepseek.com/guides/vision/",
-      "source": "Hacker News",
-      "published": "2026-08-21T10:33:56+00:00"
-    },
-    {
       "headline": "North Korea Fires Missiles Amid Trump Outreach",
       "summary": "North Korea responded to President Trump's push for renewed diplomacy by launching about a dozen short-range ballistic missiles toward the sea. The provocation followed Trump's decision to shorten joint U.S.-South Korea military exercises by six days as a conciliatory gesture. Analysts warn that these developments risk sidelining Seoul and eroding political trust in regional alliances.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/08/21/g-s1-139466/as-trump-courts-kim-pyongyang-ups-price-while-seoul-fears-being-sidelined",
       "source": "NPR News",
-      "published": "2026-08-21T05:00:00-04:00"
+      "published": "2026-08-21T09:00:00+00:00"
+    },
+    {
+      "headline": "James Harden Re-Signs with Cavaliers on Three-Year, $97M Deal",
+      "summary": "James Harden has committed his future to the Cleveland Cavaliers with a new three-year contract worth $97 million. The agreement, brokered by Equity Sports, includes both a player option and a trade kicker.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vtp776/charania_breaking_james_harden_has_agreed_to_a/",
+      "source": "r/NBA",
+      "published": "2026-08-20T17:00:21+00:00"
+    },
+    {
+      "headline": "Fan Creates Metric to Identify NBA's Most Inefficient Monster Games",
+      "summary": "A basketball analyst created the 'Basketball Terrorism Score' to quantify historically ugly individual performances that look deceptively good in the box score. The formula highlights games where players piled up points despite terrible shooting splits, high volume, and heavy turnover counts.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/nba/comments/1vtl6kx/i_invented_a_basketball_terrorism_score_to_find/",
+      "source": "r/NBA",
+      "published": "2026-08-20T14:32:35+00:00"
+    },
+    {
+      "headline": "Fantasy Football Forum Opens Daily Advice Hub with Cash Contests",
+      "summary": "The fantasy football community published its daily discussion hub to organize team management questions and league advice. The platform also promoted a partnered series of free FanDuel contests offering $2,800 in total cash prizes through Week 20.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/fantasyfootball/comments/1vud686/official_index_for_all_your_teamleague_questions/",
+      "source": "r/FantasyFootball",
+      "published": "2026-08-21T11:02:02+00:00"
     },
     {
       "headline": "Danish Musician Gustav Berntsen Returns as GB with 'Herzsprung'",
@@ -406,42 +442,6 @@
       "url": "https://pitchfork.com/reviews/albums/gb-herzsprung/",
       "source": "Pitchfork",
       "published": "2026-08-21T04:03:00+00:00"
-    },
-    {
-      "headline": "College Football Staffers Brace for Pro Returns",
-      "summary": "The surprising movement of players attempting to jump from the professional ranks back to the collegiate level is sending shockwaves through college football programs. Athletic department staffers are reacting with alarm to the regulatory fallout. This unprecedented trend threatens to further scramble roster management across the sport.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/college-football/news/college-football-staffers-react-nfl-players-returning/",
-      "source": "CBS Sports",
-      "published": "2026-08-20T20:35:21+00:00"
-    },
-    {
-      "headline": "Simon Willison Builds Shot-Scraper Clone on Bun 1.4's New Webview",
-      "summary": "A zero-dependency TypeScript service proves that Bun 1.4's experimental Bun.WebView can handle browser automation and screenshot tasks without Puppeteer or Playwright. Tested using cgroups, the prototype routes JavaScript evaluation and image captures through a lightweight API that requires roughly 192MB to 256MB of container RAM. The project drops alongside Bun 1.4's major engine rewrite from Zig to Rust, which boosts Node.js test compatibility and cuts idle CPU usage.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/20/bun-webview-json-api/",
-      "source": "Simon Willison",
-      "published": "2026-08-20T15:37:00+00:00"
-    },
-    {
-      "headline": "Squirrel Flower Hits the Open Road Again on Fourth LP",
-      "summary": "Ella Williams returns with her fourth album, Say a Prayer to the Gods of Getting Going, blending tender indie rock with themes of transience and escape. Produced by Alex Farrar, the record carries over the gritty heartland aesthetics of her 2023 release Tomorrow's Fire while spotlighting her commanding alto vocals. Across tracks shaped by relentless touring, Williams examines the eternal tension between planting roots and chasing the horizon.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/squirrel-flower-say-a-prayer-to-the-gods-of-getting-going/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:02:00+00:00"
-    },
-    {
-      "headline": "Fred again.. and Latin Mafia Drop Collaborative Mixtape 9 months & 50 hours",
-      "summary": "British producer Fred again.. and Mexican alt-pop trio Latin Mafia joined forces for a 14-track project born from a 50-hour livestreamed recording session. The mixtape merges Latin house, cumbia rhythms, and soulful R&B, highlighting a shared creative spontaneity. It captures an experimental bridge between alternative Latin music and electronic ambiance.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/fred-again-latin-mafia-9-months-and-50-hours/",
-      "source": "Pitchfork",
-      "published": "2026-08-21T04:01:00+00:00"
     },
     {
       "headline": "Why aren't smart people happier? (2022)",
