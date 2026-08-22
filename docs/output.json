@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:32:16.489900+00:00",
+  "generated_at": "2026-08-22T19:51:55.414284+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -73,6 +73,15 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-releases-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
       "source": "CBS Sports",
       "published": "2026-08-22T16:22:02+00:00"
+    },
+    {
+      "headline": "Anthropic Secretly Nerfs Claude Code Effort Levels",
+      "summary": "Users have discovered that Anthropic is running an A/B test on Claude Code versions 2.1.236 and later that significantly reduces the model's 'high' effort setting. The change, which effectively treats 'high' as the previous 'low' threshold, was implemented server-side without any documentation, causing confusion for developers troubleshooting their own code.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "source": "Hacker News",
+      "published": "2026-08-22T16:58:49+00:00"
     },
     {
       "headline": "U.S.-Canada Trade Talks Collapse as Midnight Tariff Deadline Hits",
@@ -156,13 +165,22 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Anthropic Secretly Nerfs Claude Code Effort Levels",
-      "summary": "Users have discovered that Anthropic is running an A/B test on Claude Code versions 2.1.236 and later that significantly reduces the model's 'high' effort setting. The change, which effectively treats 'high' as the previous 'low' threshold, was implemented server-side without any documentation, causing confusion for developers troubleshooting their own code.",
-      "category": "Tech/AI",
+      "headline": "Miami Heat Land Veteran Shooter Klay Thompson",
+      "summary": "Following a contract buyout with Dallas, veteran sharpshooter Klay Thompson is heading to the Miami Heat for the 2026-27 season. He joins a star-studded roster featuring recent acquisition Giannis Antetokounmpo and Bam Adebayo. Thompson is projected to serve primarily as a high-impact sixth man providing perimeter scoring off the bench.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "Hacker News",
-      "published": "2026-08-22T13:08:48.000Z"
+      "url": "https://www.thebiglead.com/projecting-2026-miami-heat-starting-lineup-klay-thompson-signing/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-21T19:41:07+00:00"
+    },
+    {
+      "headline": "CBS Sports Drops 2026 Fantasy Football Draft Prep",
+      "summary": "CBS Sports has released its comprehensive 2026 fantasy football rankings and draft preparation tools. The new rollout features proprietary model picks, cheat sheets, positional tiers, and average draft position data for quarterbacks, running backs, wide receivers, and tight ends.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-shares-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-21T19:32:54Z"
     },
     {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
@@ -201,15 +219,6 @@
       "published": "2026-08-22T17:05:25+00:00"
     },
     {
-      "headline": "Experts Drop Preseason Week 2 Best Bets Highlighting Browns",
-      "summary": "Sports analysts have released their top picks and betting odds for the second week of the NFL preseason. The featured strategy points bettors toward backing the Cleveland Browns in Saturday's matchups.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/2026-nfl-preseason-week-2-nfl-odds-lines-picks-today-expert-backs-cleveland-browns-in-saturdays-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-08-22T16:06:41+00:00"
-    },
-    {
       "headline": "CBS Sports Releases 2026 Fantasy Football Breakout Rankings",
       "summary": "CBS Sports has published its 2026 fantasy football breakout predictions using the same computer model that successfully predicted Tetairoa McMillan's breakout season. The projections aim to give fantasy managers an early edge in dynasty and redraft leagues. Detailed analytics highlight upcoming talent positioned for major production.",
       "category": "Sports",
@@ -244,6 +253,15 @@
       "url": "https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/",
       "source": "Pitchfork",
       "published": "2026-08-22T04:00:00+00:00"
+    },
+    {
+      "headline": "Experts Drop Preseason Week 2 Best Bets Highlighting Browns",
+      "summary": "Sports analysts have released their top picks and betting odds for the second week of the NFL preseason. The featured strategy points bettors toward backing the Cleveland Browns in Saturday's matchups.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/2026-nfl-preseason-week-2-nfl-odds-lines-picks-today-expert-backs-cleveland-browns-in-saturdays-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-08-22T16:06:41+00:00"
     },
     {
       "headline": "Saturday Preseason NFL DFS Lineup Advice for DraftKings and FanDuel",
@@ -387,7 +405,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-22T18:20:36+00:00"
+      "published": "2026-08-22T19:41:18+00:00"
     },
     {
       "headline": "Double-Tap Drone Strike Kills 15 at Ukrainian Mall",
@@ -424,24 +442,6 @@
       "url": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
       "source": "NPR News",
       "published": "2026-08-21T11:25:10+00:00"
-    },
-    {
-      "headline": "Mavericks Buy Out Klay Thompson, Heat Bound",
-      "summary": "The Dallas Mavericks have reached a buyout agreement with Klay Thompson, ending his tenure with the team after a decline in performance and a move to a backup role. The 36-year-old veteran is expected to sign a two-year deal with the Miami Heat, where he will join Giannis Antetokounmpo in a final push for a championship.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://sports.yahoo.com/nba/breaking-news/article/mavericks-agree-to-buy-out-klay-thompsons-contract-with-sharpshooter-reportedly-joining-heat-191653129.html",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-21T21:42:06Z"
-    },
-    {
-      "headline": "Tracking the Billionaire Premium on NBA Team Sales",
-      "summary": "Recent high-profile sales, including the $12.5 billion acquisition of the Lakers, have sparked an analysis of how much owners pay above projected market valuations. While data is limited to sales since 1998, the study highlights the massive premiums billionaires are willing to pay to secure majority stakes in NBA franchises.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.hoopshype.com/story/sports/nba/2026/08/21/nba-owners-who-overpaid-most-while-buying-their-new-teams/91329328007/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-21T19:11:45Z"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
