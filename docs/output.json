@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:10:36.744606+00:00",
+  "generated_at": "2026-08-22T18:53:51.894842+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -19,15 +19,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82226",
       "source": "Basketball Intelligence",
       "published": "2026-08-22T17:18:50+00:00"
-    },
-    {
-      "headline": "DeMar DeRozan Set to Join Denver Nuggets",
-      "summary": "Veteran guard and six-time All-Star DeMar DeRozan is reportedly planning to sign with the Denver Nuggets. This move brings a high-scoring presence to Denver, raising questions about how his playmaking will mesh alongside Nikola Jokić and Jamal Murray.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/nba/news/demar-derozan-signing-with-nuggets-nikola-jokic/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T21:26:13+00:00"
     },
     {
       "headline": "Beginner's Guide to Reading Charles H. Spurgeon",
@@ -82,15 +73,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-releases-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
       "source": "CBS Sports",
       "published": "2026-08-22T16:22:02+00:00"
-    },
-    {
-      "headline": "Anthropic Secretly Test-Reduces Effort Levels in Claude Code",
-      "summary": "Users discovered that Anthropic rolled out a silent server-side A/B test affecting Claude Code versions 2.1.236 and later. The experiment remapped high-effort settings to execute at a paltry 10 out of 100 capacity without updating the official changelog. Developers reported hours of wasted debugging time because the model's performance quietly plummeted.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "Hacker News",
-      "published": "2026-08-22T16:58:49+00:00"
     },
     {
       "headline": "U.S.-Canada Trade Talks Collapse as Midnight Tariff Deadline Hits",
@@ -174,6 +156,24 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
+      "headline": "Developer Builds 60MB Quantized LLM Running at 400 Tokens Per Second",
+      "summary": "An independent developer has trained a 250-million parameter model from scratch on 30 billion tokens using FineWeb. By quantizing the model to under two bits, the entire package deploys in just 60 MB and requires only 80 MB of RAM. It achieves roughly 400 tokens per second on a standard laptop CPU without needing a GPU.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-22T04:39:18+00:00"
+    },
+    {
+      "headline": "Testing Shows Output Compression Saves LLM Costs While Input Trimming Fails",
+      "summary": "Recent tests across nine models demonstrate that forcing LLMs to be concise reduces API costs without sacrificing accuracy. However, compressing the input prompt does not yield the same cost-saving benefits. Developers can leverage these output constraints to manage expenses on black-box models.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-21T16:38:15+00:00"
+    },
+    {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
       "summary": "Basketball Intelligence's August 21 edition highlights major offseason developments, including the ongoing fallout from a massive five-team trade and analysis of team rosters. Reports cover roster changes for Boston, Denver, and Cleveland, alongside emerging prospect profiles for the 2027 NBA Draft. The newsletter also provides updates on league trends, power rankings, and veteran player trajectories.",
       "category": "NBA",
@@ -235,15 +235,6 @@
       "url": "https://stratechery.com/2026/app-snore/",
       "source": "Stratechery",
       "published": "2026-08-21T17:00:00+00:00"
-    },
-    {
-      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
-      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
-      "source": "Daring Fireball",
-      "published": "2026-08-21T19:34:55+00:00"
     },
     {
       "headline": "Unearthed 1977 Cramps Sessions Capture the Band at Their Feral Best",
@@ -327,6 +318,24 @@
       "published": "2026-08-22T13:03:53+00:00"
     },
     {
+      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
+      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
+      "source": "Daring Fireball",
+      "published": "2026-08-21T19:34:55+00:00"
+    },
+    {
+      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
+      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-22T17:01:16+00:00"
+    },
+    {
       "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
       "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
       "category": "Tech/AI",
@@ -363,24 +372,6 @@
       "published": "2026-08-21T19:51:54+00:00"
     },
     {
-      "headline": "Scientists Publish Massive New 2D Universe Map",
-      "summary": "The DESI Legacy Imaging Surveys team has unveiled the largest 2D color map of the universe to date, compiling over 263,000 telescope exposures. Spanning roughly 75% of the sky, the 5.6-trillion-pixel map features nearly 4 billion celestial objects to aid research into dark matter and dark energy.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "source": "Hacker News",
-      "published": "2026-08-21T18:36:34+00:00"
-    },
-    {
-      "headline": "Processing Billions of Triangles with Meshoptimizer",
-      "summary": "Arseny Kapoulkine details recent updates to meshoptimizer designed to handle NVIDIA's RTX Mega Geometry and hierarchical clustered LOD pipelines. By improving support for glTF scenes derived from massive Unreal Engine demos, the tool can process billions of triangles efficiently. The technical post explores the graph-based structures required to stream and render high-detail meshes at scale.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-      "source": "Hacker News",
-      "published": "2026-08-21T17:54:06+00:00"
-    },
-    {
       "headline": "Making the Case for Healthy Tribalism",
       "summary": "An essay from The Gospel Coalition examines the concept of tribalism through a theological lens, arguing that healthy community alignment is necessary. It explores how shared convictions can unify groups without breeding toxic division.",
       "category": "Faith",
@@ -396,7 +387,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-22T16:45:02+00:00"
+      "published": "2026-08-22T18:20:36+00:00"
     },
     {
       "headline": "Double-Tap Drone Strike Kills 15 at Ukrainian Mall",
@@ -435,13 +426,22 @@
       "published": "2026-08-21T11:25:10+00:00"
     },
     {
-      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
-      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
-      "category": "Tech/AI",
+      "headline": "CBS Sports Releases 2026 Fantasy Football Breakout Rankings",
+      "summary": "CBS Sports has published its 2026 fantasy football breakout predictions using the same computer model that successfully predicted Tetairoa McMillan's breakout season. The projections aim to give fantasy managers an early edge in dynasty and redraft leagues. Detailed analytics highlight upcoming talent positioned for major production.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-22T17:01:16+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-the-computer-model-that-called-tetairoa-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-22T18:34:16+00:00"
+    },
+    {
+      "headline": "How a Broken Verbal Ownership Promise Cost Wilt Chamberlain a Fortune",
+      "summary": "In 1965, Wilt Chamberlain re-signed with the 76ers under a secret verbal agreement promising him up to 25 percent team ownership after retirement. Because active players owning equity violated league rules, the deal was never put in writing. When the original owner died, his successor refused to honor the arrangement, prompting Chamberlain to demand a trade.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vv9nzd/before_kawhi_there_was_wilt_in_1965_chamberlain/",
+      "source": "r/NBA",
+      "published": "2026-08-22T11:14:05+00:00"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
