@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:56:16.106597+00:00",
+  "generated_at": "2026-08-22T21:31:39.353901+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -327,15 +327,6 @@
       "published": "2026-08-22T13:35:38+00:00"
     },
     {
-      "headline": "CBS Sports Drops Early 2026 Fantasy Football Rankings",
-      "summary": "CBS Sports has released its initial 2026 fantasy football outlook featuring picks for sleepers, breakouts, and busts. The rankings are driven by a projection model previously known for predicting Daniel Jones' breakout season. Players and league managers can now access the full breakdown to start prepping for future drafts.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-called-daniel-jones-huge-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-22T13:03:53+00:00"
-    },
-    {
       "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
       "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
       "category": "Tech/AI",
@@ -442,6 +433,15 @@
       "url": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
       "source": "NPR News",
       "published": "2026-08-21T11:42:10+00:00"
+    },
+    {
+      "headline": "Why Local LLMs Often Underperform Expectations",
+      "summary": "A discussion on the Level1Techs forum examines the technical pitfalls that make locally hosted language models seem less capable than they actually are. The thread focuses on common hardware and configuration bottlenecks that degrade output quality when running AI on personal systems.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News",
+      "published": "2026-08-16T01:51:53+00:00"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
