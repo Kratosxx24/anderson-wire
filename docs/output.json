@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:53:51.894842+00:00",
+  "generated_at": "2026-08-22T19:32:16.489900+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -156,22 +156,13 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Developer Builds 60MB Quantized LLM Running at 400 Tokens Per Second",
-      "summary": "An independent developer has trained a 250-million parameter model from scratch on 30 billion tokens using FineWeb. By quantizing the model to under two bits, the entire package deploys in just 60 MB and requires only 80 MB of RAM. It achieves roughly 400 tokens per second on a standard laptop CPU without needing a GPU.",
+      "headline": "Anthropic Secretly Nerfs Claude Code Effort Levels",
+      "summary": "Users have discovered that Anthropic is running an A/B test on Claude Code versions 2.1.236 and later that significantly reduces the model's 'high' effort setting. The change, which effectively treats 'high' as the previous 'low' threshold, was implemented server-side without any documentation, causing confusion for developers troubleshooting their own code.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-22T04:39:18+00:00"
-    },
-    {
-      "headline": "Testing Shows Output Compression Saves LLM Costs While Input Trimming Fails",
-      "summary": "Recent tests across nine models demonstrate that forcing LLMs to be concise reduces API costs without sacrificing accuracy. However, compressing the input prompt does not yield the same cost-saving benefits. Developers can leverage these output constraints to manage expenses on black-box models.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-21T16:38:15+00:00"
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "source": "Hacker News",
+      "published": "2026-08-22T13:08:48.000Z"
     },
     {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
@@ -219,13 +210,13 @@
       "published": "2026-08-22T16:06:41+00:00"
     },
     {
-      "headline": "CBS Sports Ranks Most Experienced College Football Rosters for 2026",
-      "summary": "CBS Sports has published a comprehensive ranking of all 138 FBS college football rosters based on overall team experience. The breakdown evaluates which programs boast seasoned lineups heading into the 2026 season. These metrics help identify squads primed for veteran leadership on the gridiron.",
+      "headline": "CBS Sports Releases 2026 Fantasy Football Breakout Rankings",
+      "summary": "CBS Sports has published its 2026 fantasy football breakout predictions using the same computer model that successfully predicted Tetairoa McMillan's breakout season. The projections aim to give fantasy managers an early edge in dynasty and redraft leagues. Detailed analytics highlight upcoming talent positioned for major production.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/college-football/news/college-football-most-experienced-teams-2026-rankings/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-the-computer-model-that-called-tetairoa-mcmillans-huge-season/",
       "source": "CBS Sports",
-      "published": "2026-08-22T15:54:37+00:00"
+      "published": "2026-08-22T18:34:16+00:00"
     },
     {
       "headline": "Stratechery Breaks Down EU App Store Compromises and Geopolitical Shifts",
@@ -235,6 +226,15 @@
       "url": "https://stratechery.com/2026/app-snore/",
       "source": "Stratechery",
       "published": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
+      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
+      "source": "Daring Fireball",
+      "published": "2026-08-21T19:34:55+00:00"
     },
     {
       "headline": "Unearthed 1977 Cramps Sessions Capture the Band at Their Feral Best",
@@ -262,6 +262,15 @@
       "url": "https://www.cbssports.com/betting/news/bills-browns-prediction-odds-line-time-2026-nfl-week-2-preseason-picks/",
       "source": "CBS Sports",
       "published": "2026-08-22T16:00:10+00:00"
+    },
+    {
+      "headline": "CBS Sports Ranks Most Experienced College Football Rosters for 2026",
+      "summary": "CBS Sports has published a comprehensive ranking of all 138 FBS college football rosters based on overall team experience. The breakdown evaluates which programs boast seasoned lineups heading into the 2026 season. These metrics help identify squads primed for veteran leadership on the gridiron.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/college-football/news/college-football-most-experienced-teams-2026-rankings/",
+      "source": "CBS Sports",
+      "published": "2026-08-22T15:54:37+00:00"
     },
     {
       "headline": "CBS Sports Releases 2026 Returning Production Data for Every FBS Team",
@@ -316,15 +325,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-called-daniel-jones-huge-year/",
       "source": "CBS Sports",
       "published": "2026-08-22T13:03:53+00:00"
-    },
-    {
-      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
-      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
-      "source": "Daring Fireball",
-      "published": "2026-08-21T19:34:55+00:00"
     },
     {
       "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
@@ -426,22 +426,22 @@
       "published": "2026-08-21T11:25:10+00:00"
     },
     {
-      "headline": "CBS Sports Releases 2026 Fantasy Football Breakout Rankings",
-      "summary": "CBS Sports has published its 2026 fantasy football breakout predictions using the same computer model that successfully predicted Tetairoa McMillan's breakout season. The projections aim to give fantasy managers an early edge in dynasty and redraft leagues. Detailed analytics highlight upcoming talent positioned for major production.",
-      "category": "Sports",
+      "headline": "Mavericks Buy Out Klay Thompson, Heat Bound",
+      "summary": "The Dallas Mavericks have reached a buyout agreement with Klay Thompson, ending his tenure with the team after a decline in performance and a move to a backup role. The 36-year-old veteran is expected to sign a two-year deal with the Miami Heat, where he will join Giannis Antetokounmpo in a final push for a championship.",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-the-computer-model-that-called-tetairoa-mcmillans-huge-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-22T18:34:16+00:00"
+      "url": "https://sports.yahoo.com/nba/breaking-news/article/mavericks-agree-to-buy-out-klay-thompsons-contract-with-sharpshooter-reportedly-joining-heat-191653129.html",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-21T21:42:06Z"
     },
     {
-      "headline": "How a Broken Verbal Ownership Promise Cost Wilt Chamberlain a Fortune",
-      "summary": "In 1965, Wilt Chamberlain re-signed with the 76ers under a secret verbal agreement promising him up to 25 percent team ownership after retirement. Because active players owning equity violated league rules, the deal was never put in writing. When the original owner died, his successor refused to honor the arrangement, prompting Chamberlain to demand a trade.",
+      "headline": "Tracking the Billionaire Premium on NBA Team Sales",
+      "summary": "Recent high-profile sales, including the $12.5 billion acquisition of the Lakers, have sparked an analysis of how much owners pay above projected market valuations. While data is limited to sales since 1998, the study highlights the massive premiums billionaires are willing to pay to secure majority stakes in NBA franchises.",
       "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vv9nzd/before_kawhi_there_was_wilt_in_1965_chamberlain/",
-      "source": "r/NBA",
-      "published": "2026-08-22T11:14:05+00:00"
+      "relevance": 8,
+      "url": "https://www.hoopshype.com/story/sports/nba/2026/08/21/nba-owners-who-overpaid-most-while-buying-their-new-teams/91329328007/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-21T19:11:45Z"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
