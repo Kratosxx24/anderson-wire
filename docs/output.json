@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:53:18.384285+00:00",
+  "generated_at": "2026-08-22T18:10:36.744606+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -84,6 +84,15 @@
       "published": "2026-08-22T16:22:02+00:00"
     },
     {
+      "headline": "Anthropic Secretly Test-Reduces Effort Levels in Claude Code",
+      "summary": "Users discovered that Anthropic rolled out a silent server-side A/B test affecting Claude Code versions 2.1.236 and later. The experiment remapped high-effort settings to execute at a paltry 10 out of 100 capacity without updating the official changelog. Developers reported hours of wasted debugging time because the model's performance quietly plummeted.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://twitter.com/argofowl/status/2091150597374537729",
+      "source": "Hacker News",
+      "published": "2026-08-22T16:58:49+00:00"
+    },
+    {
       "headline": "U.S.-Canada Trade Talks Collapse as Midnight Tariff Deadline Hits",
       "summary": "Trade negotiations between the U.S. and Canada broke down just before a midnight deadline, triggering 50% tariffs on $20 billion worth of Canadian goods. Prime Minister Mark Carney announced that Canada will immediately retaliate by matching the tariffs dollar for dollar.",
       "category": "World",
@@ -163,15 +172,6 @@
       "url": "https://www.thegospelcoalition.org/article/roach-infestation-taught-rest/",
       "source": "The Gospel Coalition",
       "published": "2026-08-20T04:00:00+00:00"
-    },
-    {
-      "headline": "Anthropic Secretly Test-Reduces Effort Levels in Claude Code",
-      "summary": "Users discovered that Anthropic rolled out a silent server-side A/B test affecting Claude Code versions 2.1.236 and later. The experiment remapped high-effort settings to execute at a paltry 10 out of 100 capacity without updating the official changelog. Developers reported hours of wasted debugging time because the model's performance quietly plummeted.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "Hacker News",
-      "published": "2026-08-22T13:08:48.000Z"
     },
     {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
@@ -435,13 +435,13 @@
       "published": "2026-08-21T11:25:10+00:00"
     },
     {
-      "headline": "AI Backlash Will Feature as a Risk Factor in Anthropic IPO",
-      "summary": "Sources close to the company indicate that Anthropic plans to list potential pushback against artificial intelligence as a formal risk factor in upcoming public offering paperwork. The inclusion highlights growing commercial and regulatory concerns surrounding automated systems. Specific details remain under wraps as the filing preparations continue.",
+      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
+      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-      "source": "Hacker News",
-      "published": "2026-08-22T16:23:09+00:00"
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-22T17:01:16+00:00"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
