@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T23:03:18.861169+00:00",
+  "generated_at": "2026-08-22T23:30:50.260929+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -73,15 +73,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-releases-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
       "source": "CBS Sports",
       "published": "2026-08-22T16:22:02+00:00"
-    },
-    {
-      "headline": "Anthropic Secretly Nerfs Claude Code Effort Levels",
-      "summary": "Users have discovered that Anthropic is running an A/B test on Claude Code versions 2.1.236 and later that significantly reduces the model's 'high' effort setting. The change, which effectively treats 'high' as the previous 'low' threshold, was implemented server-side without any documentation, causing confusion for developers troubleshooting their own code.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "source": "Hacker News",
-      "published": "2026-08-22T16:58:49+00:00"
     },
     {
       "headline": "U.S.-Canada Trade Talks Collapse as Midnight Tariff Deadline Hits",
@@ -165,13 +156,13 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Curry Relies Least on Free Throws Among NBA's 25K Scorers",
-      "summary": "Stephen Curry has built his elite scoring record with a remarkably low reliance on charity stripes compared to his peers. Out of 27 players with over 25,000 career points, Curry sits dead last with just 16 percent of his points coming from free throws. In contrast, Moses Malone topped the list at over 31 percent, highlighting vastly different paths to reaching the scoring milestone.",
-      "category": "NBA",
+      "headline": "Early 2026 Fantasy Football Bust Predictions",
+      "summary": "CBS Sports has released its early 2026 fantasy football rankings, identifying potential draft busts based on the analytical model that previously flagged Terry McLaurin's declining production. The methodology aims to help fantasy managers avoid high-priced draft traps by spotting warning signs in player performance. Analysts use these predictive metrics to separate sustainable talent from impending regression.",
+      "category": "Sports",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vv3b58/of_the_27_players_in_nba_history_to_have_scored/",
-      "source": "r/NBA",
-      "published": "2026-08-22T05:12:55+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-per-model-that-called-terry-mclaurins-tough-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-22T20:11:24+00:00"
     },
     {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
@@ -219,15 +210,6 @@
       "published": "2026-08-22T16:03:28+00:00"
     },
     {
-      "headline": "Early 2026 Fantasy Football Draft Guides Drop",
-      "summary": "CBS Sports and SportsLine have released their initial 2026 fantasy football draft preparation materials. Analysts have mapped out top 150 overall player rankings, positional tiers, and evaluations for incoming rookies and high-risk draft targets. The guide aims to give early drafters an edge with expert breakout predictions and tiered positional values.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-picks-rookies-risky-selections/",
-      "source": "CBS Sports",
-      "published": "2026-08-22T22:08:27+00:00"
-    },
-    {
       "headline": "Stratechery Breaks Down EU App Store Compromises and Geopolitical Shifts",
       "summary": "Ben Thompson's latest newsletter covers Apple's regulatory settlements in the European Union and Germany's ATT policy adjustments. The edition also touches on shifting U.S.-Korea relations following a sudden U.S. military exercise reduction and ongoing L.A. sports ownership drama.",
       "category": "Tech/AI",
@@ -246,6 +228,15 @@
       "published": "2026-08-21T19:34:55+00:00"
     },
     {
+      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
+      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-22T17:01:16+00:00"
+    },
+    {
       "headline": "Unearthed 1977 Cramps Sessions Capture the Band at Their Feral Best",
       "summary": "A newly released archival collection, Gravest Gravy, chronicles The Cramps' foundational October 1977 recording sessions with producer Alex Chilton at Memphis's Ardent Studios. The outtakes and early cuts reveal the psychobilly pioneers in raw, primordial form, complete with volatile studio banter and chaotic vocal warmups from frontman Lux Interior. It offers an unvarnished snapshot of the band capturing their signature sound before their debut LP.",
       "category": "Music",
@@ -253,6 +244,15 @@
       "url": "https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/",
       "source": "Pitchfork",
       "published": "2026-08-22T04:00:00+00:00"
+    },
+    {
+      "headline": "Early 2026 Fantasy Football Draft Guides Drop",
+      "summary": "CBS Sports and SportsLine have released their initial 2026 fantasy football draft preparation materials. Analysts have mapped out top 150 overall player rankings, positional tiers, and evaluations for incoming rookies and high-risk draft targets. The guide aims to give early drafters an edge with expert breakout predictions and tiered positional values.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-picks-rookies-risky-selections/",
+      "source": "CBS Sports",
+      "published": "2026-08-22T22:08:27+00:00"
     },
     {
       "headline": "CBS Sports Releases 2026 Fantasy Football Breakout Rankings",
@@ -318,15 +318,6 @@
       "published": "2026-08-22T14:50:51+00:00"
     },
     {
-      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
-      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-22T17:01:16+00:00"
-    },
-    {
       "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
       "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
       "category": "Tech/AI",
@@ -370,15 +361,6 @@
       "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
       "source": "Hacker News",
       "published": "2026-08-22T13:31:34+00:00"
-    },
-    {
-      "headline": "Rust Glancer Cuts LSP Memory Usage Below 100MB",
-      "summary": "A developer has introduced Rust Glancer, an alternative Rust Language Server Protocol implementation built to consume significantly less RAM. Operating under 100MB, it enables instant indexing after restarts and runs smoothly on older hardware like an 8GB M1 MacBook.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "source": "Hacker News",
-      "published": "2026-08-21T19:51:54+00:00"
     },
     {
       "headline": "Making the Case for Healthy Tribalism",
@@ -444,6 +426,15 @@
       "published": "2026-08-21T11:42:10+00:00"
     },
     {
+      "headline": "Tracking the NanoGPT Speedrun Frontier",
+      "summary": "The NanoGPT Speedrun project benchmarks how quickly various AI models can close the human record performance gap. Recent metrics chart performance progression across systems like Kimi, Opus, and GPT variations over multi-day agent timelines. The tracking visualizes efficiency gains and competitive pacing in rapid model training and execution.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "source": "Hacker News",
+      "published": "2026-08-22T22:14:27+00:00"
+    },
+    {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
       "summary": "MLB catcher Jake Rogers experienced a dizzying three weeks after being shuffled between the Detroit Tigers, Baltimore Orioles, Boston Red Sox, and Chicago White Sox. The unprecedented four-team movement sets a major league record for rapid roster transitions. Despite the whirlwind, Rogers remains a resilient presence behind the plate in his new Chicago uniform.",
       "category": "Other",
@@ -451,6 +442,15 @@
       "url": "https://www.npr.org/2026/08/22/nx-s1-5932426/opinion-mr-rogers-keeps-finding-a-new-neighborhood",
       "source": "NPR News",
       "published": "2026-08-22T12:00:00+00:00"
+    },
+    {
+      "headline": "A Kantian Deconstruction of Justin Bieber's 'Sorry'",
+      "summary": "A philosophical analysis of Justin Bieber's 2015 hit argues that the famous lyric asking if it is too late to apologize fundamentally misunderstands Kantian ethics. The critique points out that treating an apology as a strategic tool to regain a desired outcome violates the core principle of acting purely from moral duty. Ultimately, the song frames restitution as a transaction rather than an unconditional ethical obligation.",
+      "category": "Music",
+      "relevance": 4,
+      "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
+      "source": "Hacker News",
+      "published": "2026-08-22T00:00:00.000Z"
     }
   ]
 }
