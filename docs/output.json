@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:31:39.353901+00:00",
+  "generated_at": "2026-08-22T21:53:25.634028+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -318,15 +318,6 @@
       "published": "2026-08-22T14:50:51+00:00"
     },
     {
-      "headline": "NFL Preseason Week 1: Rookie QB Rankings, Winners, Losers, and Team Valuations",
-      "summary": "CBS Sports breaks down the first week of NFL preseason action with a comprehensive ranking of every rookie quarterback on the field. The report also identifies early winners and losers across the league while providing an updated look at current NFL franchise valuations.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/",
-      "source": "CBS Sports",
-      "published": "2026-08-22T13:35:38+00:00"
-    },
-    {
       "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
       "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
       "category": "Tech/AI",
@@ -352,6 +343,15 @@
       "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
       "source": "Simon Willison",
       "published": "2026-08-21T16:58:19+00:00"
+    },
+    {
+      "headline": "Why Local LLMs Often Underperform Expectations",
+      "summary": "A discussion on the Level1Techs forum examines the technical pitfalls that make locally hosted language models seem less capable than they actually are. The thread focuses on common hardware and configuration bottlenecks that degrade output quality when running AI on personal systems.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "Hacker News",
+      "published": "2026-08-22T18:14:16+00:00"
     },
     {
       "headline": "Model Context Protocol Drops Updated Development Roadmap",
@@ -435,13 +435,13 @@
       "published": "2026-08-21T11:42:10+00:00"
     },
     {
-      "headline": "Why Local LLMs Often Underperform Expectations",
-      "summary": "A discussion on the Level1Techs forum examines the technical pitfalls that make locally hosted language models seem less capable than they actually are. The thread focuses on common hardware and configuration bottlenecks that degrade output quality when running AI on personal systems.",
+      "headline": "Translate Standard English Into Claudish",
+      "summary": "This developer tool provides a dedicated translation utility to convert normal English text into the specialized Claudish dialect. Built by PAW, the lightweight interface serves as a novel conversion gimmick for curious users. It offers a quick way to test how standard vocabulary maps onto the targeted style.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "url": "https://programasweights.com/claudish",
       "source": "Hacker News",
-      "published": "2026-08-16T01:51:53+00:00"
+      "published": "2026-08-22T19:19:15+00:00"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
