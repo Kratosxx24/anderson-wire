@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-08-22T08:52:57.060587+00:00",
+  "generated_at": "2026-08-22T09:15:25.701009+00:00",
   "story_count": 50,
   "stories": [
-    {
-      "headline": "How Prompt Conciseness Affects LLM Costs",
-      "summary": "Recent tests across nine models reveal that instructing an LLM to generate concise outputs actually saves money while preserving accuracy. However, trying to compress the input prompt yields no cost-saving benefits. This insight comes as developers increasingly look for ways to curb token usage in black-box models.",
-      "category": "Tech/AI",
-      "relevance": 10,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-21T16:38:15+00:00"
-    },
     {
       "headline": "DeMar DeRozan Set to Join Denver Nuggets",
       "summary": "Veteran guard and six-time All-Star DeMar DeRozan is reportedly planning to sign with the Denver Nuggets. This move brings a high-scoring presence to Denver, raising questions about how his playmaking will mesh alongside Nikola Jokić and Jamal Murray.",
@@ -156,24 +147,6 @@
       "published": "2026-08-20T04:00:00+00:00"
     },
     {
-      "headline": "Steph Curry Leads Elite Scorers in Field-Goal Reliance",
-      "summary": "Among the 27 NBA players who have crossed the 25,000-point threshold, Steph Curry relies the least on free throws, with just 16 percent of his points coming from the line. In contrast, Moses Malone tops the list with nearly 31 percent of his career points scored via free throws. This highlights Curry's distinct perimeter-heavy scoring profile compared to traditional dominant paint scorers.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vv3b58/of_the_27_players_in_nba_history_to_have_scored/",
-      "source": "r/NBA",
-      "published": "2026-08-22T05:12:55+00:00"
-    },
-    {
-      "headline": "Developer Builds 60MB Quantized LLM",
-      "summary": "A developer has built a 250-million parameter language model from scratch, trained on 30 billion tokens. Through extreme sub-two-bit quantization, the entire model shrinks to a mere 60 megabytes and requires only 80 megabytes of RAM. Running purely on a standard laptop CPU without a GPU, it hits speeds around 400 tokens per second.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-22T04:39:18+00:00"
-    },
-    {
       "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
       "summary": "Basketball Intelligence's August 21 edition highlights major offseason developments, including the ongoing fallout from a massive five-team trade and analysis of team rosters. Reports cover roster changes for Boston, Denver, and Cleveland, alongside emerging prospect profiles for the 2027 NBA Draft. The newsletter also provides updates on league trends, power rankings, and veteran player trajectories.",
       "category": "NBA",
@@ -190,6 +163,15 @@
       "url": "https://www.cbssports.com/nba/news/nuggets-daring-nikola-jokic-to-leave-listless-summer/",
       "source": "CBS Sports",
       "published": "2026-08-21T21:10:14+00:00"
+    },
+    {
+      "headline": "Klay Thompson Reportedly Heading to Miami After Mavericks Buyout",
+      "summary": "Guard Klay Thompson is expected to join the Miami Heat following a buyout agreement with the Dallas Mavericks. The move will shake up the NBA landscape by sending the veteran shooter to South Beach.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nba/news/klay-thompson-heat-mavericks-buyout/",
+      "source": "CBS Sports",
+      "published": "2026-08-21T21:50:34+00:00"
     },
     {
       "headline": "Denver's Defensive Shell Game",
@@ -217,6 +199,24 @@
       "url": "https://stratechery.com/2026/app-snore/",
       "source": "Stratechery",
       "published": "2026-08-21T17:00:00+00:00"
+    },
+    {
+      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
+      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
+      "source": "Daring Fireball",
+      "published": "2026-08-21T19:34:55+00:00"
+    },
+    {
+      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
+      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-21T17:16:13+00:00"
     },
     {
       "headline": "Unearthed 1977 Cramps Sessions Capture the Band at Their Feral Best",
@@ -255,15 +255,6 @@
       "published": "2026-08-22T01:03:29+00:00"
     },
     {
-      "headline": "Klay Thompson Reportedly Heading to Miami After Mavericks Buyout",
-      "summary": "Guard Klay Thompson is expected to join the Miami Heat following a buyout agreement with the Dallas Mavericks. The move will shake up the NBA landscape by sending the veteran shooter to South Beach.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nba/news/klay-thompson-heat-mavericks-buyout/",
-      "source": "CBS Sports",
-      "published": "2026-08-21T21:50:34+00:00"
-    },
-    {
       "headline": "Jacob Gibbs' league-winning draft picks who could define your 2026 Fantasy Football season",
       "summary": "",
       "category": "Sports",
@@ -289,24 +280,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-simulation-that-nailed-devon-achanes-amazing-year/",
       "source": "CBS Sports",
       "published": "2026-08-21T17:20:32+00:00"
-    },
-    {
-      "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
-      "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://corporate.walmart.com/news/2026/08/21/more-ways-to-pay-tap-to-pay-is-coming-to-walmart-and-sams-club",
-      "source": "Daring Fireball",
-      "published": "2026-08-21T19:34:55+00:00"
-    },
-    {
-      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
-      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/21/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-21T17:16:13+00:00"
     },
     {
       "headline": "LLM OpenRouter Plugin Updated for Version 0.32 Compatibility",
@@ -405,7 +378,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-22T06:40:30+00:00"
+      "published": "2026-08-22T09:13:26+00:00"
     },
     {
       "headline": "Allies Condemn Israel Over Aid Worker Deaths",
@@ -424,6 +397,33 @@
       "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-21T05:47:32+00:00"
+    },
+    {
+      "headline": "Canada Retaliates Dollar-for-Dollar as US Trade Talks Implode",
+      "summary": "Canadian Prime Minister Mark Carney halted trade negotiations with Washington just before a Friday midnight deadline, vowing to match new American tariffs dollar-for-dollar. The collapse immediately triggered 50% US levies on nearly $20 billion in Canadian imports after Carney condemned last-minute American demands as unfair and economically unsound. Canadian envoys have been ordered home to Ottawa as cross-border trade tensions sharply escalate.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
+      "source": "Hacker News",
+      "published": "2026-08-22T04:13:09.902Z"
+    },
+    {
+      "headline": "US-Canada Tariff Truce Collapses Over Late Concessions",
+      "summary": "Cross-border trade negotiations disintegrated at the deadline, triggering sweeping US import duties and prompting Prime Minister Mark Carney to order matching reciprocal tariffs on American goods. The breakdown torpedoed a proposed compromise that would have lowered US tariffs on Canadian steel, aluminum, and auto imports in exchange for restoring US alcohol sales in Canadian stores. While US Trade Representative Jamieson Greer blamed Ottawa for retreating on prior commitments, Carney insisted last-minute American demands undermined the reliability of any workable agreement.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-22T04:13:09.902Z"
+    },
+    {
+      "headline": "US Enacts 50% Tariffs on Canadian Goods Following Midnight Talk Breakdown",
+      "summary": "Bilateral trade talks between Washington and Ottawa fell apart minutes before a midnight deadline, activating 50% US tariffs on $20 billion worth of Canadian goods. Canadian Prime Minister Mark Carney suspended negotiations and recalled his delegation, pledging dollar-for-dollar retaliatory measures to shield domestic industries. Carney blamed the eleventh-hour collapse on eleventh-hour US revisions that failed to secure fair terms for Canadian workers.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+      "source": "NPR News",
+      "published": "2026-08-22T00:36:27-04:00"
     },
     {
       "headline": "Nick Chubb Calls It a Career After Eight NFL Seasons",
