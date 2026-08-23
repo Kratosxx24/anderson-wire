@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:52:35.377927+00:00",
+  "generated_at": "2026-08-23T19:13:43.898612+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -324,7 +324,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-23T05:46:43+00:00"
+      "published": "2026-08-23T19:11:30+00:00"
     },
     {
       "headline": "DR Congo and M23 Rebels Agree to Peace Roadmap",
@@ -399,31 +399,31 @@
       "published": "2026-08-22T20:53:19+00:00"
     },
     {
-      "headline": "Slovakia Halts Deployment of Traffic Cameras With Russian Backdoor",
-      "summary": "Slovakia's national security service halted the installation of 279 traffic cameras after discovering a hidden backdoor controllable via hardcoded Russian phone numbers. The NBU report revealed that the NERO R-ONE devices—rebranded Russian CORDON PRO.M cameras purchased through a €30 million EU-funded project—also lacked SecureBoot and exposed unencrypted live feeds.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "source": "Hacker News",
-      "published": "2026-08-23T14:38:25+00:00"
-    },
-    {
-      "headline": "Iranian Hackers Shut Down UK Power Plant in Unprecedented Cyber Attack",
-      "summary": "State-linked Iranian hackers successfully disabled a British power plant for four days last month in an unprecedented critical infrastructure breach. While the facility was relatively small and national energy supplies remained unaffected, the incident prompted urgent government warnings and briefings for utility executives.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
-      "source": "Hacker News",
-      "published": "2026-08-23T10:03:01+00:00"
-    },
-    {
-      "headline": "MartyPC Brings Retro IBM-Compatible Emulation to the Web",
-      "summary": "MartyPC is a cross-platform emulator written in Rust that lets users run vintage PC hardware directly in their browser. The web-based version supports various classic video cards, memory expansion, and sound cards like AdLib. While initialization requires proper resource loading, the project offers a modern way to experience early computing architectures.",
+      "headline": "Developer Builds Educational SynthID-Style LLM Watermarker",
+      "summary": "Inspired by Anthropic's adoption of output watermarking, a developer built a minimal, educational version of SynthID-Text. The project explores the mechanics behind embedding invisible markers into language model responses.",
       "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-23T08:09:02+00:00"
+    },
+    {
+      "headline": "ShardFlow Framework Hits 28 TPS Across Cross-Region GPUs",
+      "summary": "A new distributed inference framework called ShardFlow achieves 28 tokens per second on a Qwen2.5-7B model split across GCP nodes in Iowa and Oregon. The setup overcomes public WAN latency by combining neural speculative decoding, CUDA Graphs, and multi-machine tensor splitting.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-23T12:30:55+00:00"
+    },
+    {
+      "headline": "Fans Plot Nikola Jokic to Charlotte in Trade Machine Simulations",
+      "summary": "Following a chaotic offseason that saw the Charlotte Hornets ship out LaMelo Ball, Miles Bridges, and Josh Green, fan simulations on HoopsMatic point heavily toward Denver star Nikola Jokic as the next target. Over 20 percent of hypothetical trades for the three-time MVP send him to Charlotte in exchange for young assets like Brandon Miller. Jokic enters the final year of his contract before facing a massive player option next summer.",
+      "category": "NBA",
       "relevance": 7,
-      "url": "https://martypc.net/",
-      "source": "Hacker News",
-      "published": "2026-08-23T03:13:16+00:00"
+      "url": "https://therookiewire.usatoday.com/story/sports/nba/rookie/2026/08/22/trade-machine-data-shows-hornets-most-popular-destination-for-jokic/91422991007/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-22T18:15:02Z"
     },
     {
       "headline": "Austin Nonprofits Step Up to Insure Local Musicians",
@@ -435,13 +435,13 @@
       "published": "2026-08-23T16:15:30+00:00"
     },
     {
-      "headline": "Humanoid Robots Outpace World Records at Beijing's Multi-Sport Showcase",
-      "summary": "The five-day World Humanoid Games in Beijing is putting advanced robotics to the test across disciplines including boxing, high jump, and table tennis. Early highlights featured an autonomous sprinter clocking speeds faster than Usain Bolt's 100-meter mark alongside soccer droids mimicking pro celebrations. The second edition of the event demonstrates rapid progress in mechanized agility and synchronized movement.",
-      "category": "Tech/AI",
+      "headline": "Top NBA Free Agents Face Uncertain Futures",
+      "summary": "A look at the market for remaining top free agents highlights current status updates for Jalen Duren, Jonathan Kuminga, and Bennedict Mathurin. The report outlines where these high-profile players stand as offseason movement continues to unfold.",
+      "category": "NBA",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T12:47:06+00:00"
+      "url": "https://www.nbcsports.com/nba/news/three-top-remaining-nba-free-agents-where-things-stand-with-jalen-duren-jonathan-kuminga-bennedict-mathurin",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-22T18:29:55.314"
     },
     {
       "headline": "An Enduring Tribute to the Visual Mastery of Blade Runner",
