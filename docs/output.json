@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:13:43.898612+00:00",
+  "generated_at": "2026-08-23T19:41:37.960041+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -399,22 +399,13 @@
       "published": "2026-08-22T20:53:19+00:00"
     },
     {
-      "headline": "Developer Builds Educational SynthID-Style LLM Watermarker",
-      "summary": "Inspired by Anthropic's adoption of output watermarking, a developer built a minimal, educational version of SynthID-Text. The project explores the mechanics behind embedding invisible markers into language model responses.",
-      "category": "Tech/AI",
+      "headline": "Wembanyama Dominates Thunder in WCF Opener",
+      "summary": "Victor Wembanyama delivered a massive performance in the Western Conference Finals opener against the Oklahoma City Thunder. He racked up 41 points and grabbed 24 rebounds to carry his team.",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-23T08:09:02+00:00"
-    },
-    {
-      "headline": "ShardFlow Framework Hits 28 TPS Across Cross-Region GPUs",
-      "summary": "A new distributed inference framework called ShardFlow achieves 28 tokens per second on a Qwen2.5-7B model split across GCP nodes in Iowa and Oregon. The setup overcomes public WAN latency by combining neural speculative decoding, CUDA Graphs, and multi-machine tensor splitting.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-23T12:30:55+00:00"
+      "url": "https://old.reddit.com/r/nba/comments/1vwalaq/highlight_victor_wembanyama_puts_up_41_points_and/",
+      "source": "r/NBA",
+      "published": "2026-08-23T15:45:11+00:00"
     },
     {
       "headline": "Fans Plot Nikola Jokic to Charlotte in Trade Machine Simulations",
@@ -426,6 +417,24 @@
       "published": "2026-08-22T18:15:02Z"
     },
     {
+      "headline": "Anthropic Appoints Google Veteran to Lead Hardware Push",
+      "summary": "AI lab Anthropic has hired former Google chip executive Amir Salek to spearhead its new custom semiconductor initiative. Salek previously spent years leading Google's tensor processing unit business before joining Anthropic's compute team. The strategic hire highlights the industry-wide race for in-house silicon development to combat hardware shortages.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://economictimes.indiatimes.com/news/international/business/anthropic-hires-google-chip-veteran-amir-salek-as-part-of-push-into-hardware/articleshow/133430553.cms",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-23T01:00:00+05:30"
+    },
+    {
+      "headline": "Debating the Most Regretted NBA Coaching Firings",
+      "summary": "Fans are discussing which recent NBA head coach terminations turned out to be massive mistakes for their franchises. Particular scrutiny falls on the Denver Nuggets for firing Mike Malone right before the playoffs and the Milwaukee Bucks' quick churn of coaches.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vw86fy/what_head_coach_firing_in_the_last_five_years/",
+      "source": "r/NBA",
+      "published": "2026-08-23T14:08:51+00:00"
+    },
+    {
       "headline": "Austin Nonprofits Step Up to Insure Local Musicians",
       "summary": "A collaborative effort between local nonprofits and public health agencies in Austin is heavily subsidizing marketplace health insurance for full-time musicians. While the Live Music Capital of the World thrives on its vibrant arts culture, rising healthcare costs make these independent subsidy programs a critical lifeline for artists working without corporate benefits.",
       "category": "Music",
@@ -433,15 +442,6 @@
       "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
       "source": "NPR News",
       "published": "2026-08-23T16:15:30+00:00"
-    },
-    {
-      "headline": "Top NBA Free Agents Face Uncertain Futures",
-      "summary": "A look at the market for remaining top free agents highlights current status updates for Jalen Duren, Jonathan Kuminga, and Bennedict Mathurin. The report outlines where these high-profile players stand as offseason movement continues to unfold.",
-      "category": "NBA",
-      "relevance": 6,
-      "url": "https://www.nbcsports.com/nba/news/three-top-remaining-nba-free-agents-where-things-stand-with-jalen-duren-jonathan-kuminga-bennedict-mathurin",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-22T18:29:55.314"
     },
     {
       "headline": "An Enduring Tribute to the Visual Mastery of Blade Runner",
