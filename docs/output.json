@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:18:01.311610+00:00",
+  "generated_at": "2026-08-23T07:07:43.414426+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -129,13 +129,31 @@
       "published": "2026-08-21T04:00:00+00:00"
     },
     {
-      "headline": "Daily NBA Roundup: Trade Fallout and Offseason Moves",
-      "summary": "Basketball Intelligence's August 21 edition highlights major offseason developments, including the ongoing fallout from a massive five-team trade and analysis of team rosters. Reports cover roster changes for Boston, Denver, and Cleveland, alongside emerging prospect profiles for the 2027 NBA Draft. The newsletter also provides updates on league trends, power rankings, and veteran player trajectories.",
+      "headline": "Lakers Land Brook Lopez in Proposed Trade with Clippers",
+      "summary": "The Los Angeles Lakers are targeting veteran center Brook Lopez in a proposed trade that would send Jaden Hardy and Dalton Knecht to the Clippers. Lopez would bring 7-foot-1 floor-spacing capabilities to Los Angeles on a $9.2 million team option. The move gives the Lakers additional frontcourt depth alongside younger center Walker Kessler.",
       "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82126",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-21T18:39:37+00:00"
+      "relevance": 9,
+      "url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-lakers-sharpshooter-luka-doncic/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-21T22:57:40+00:00"
+    },
+    {
+      "headline": "Anthropic Surpasses OpenAI in Quarterly Revenue with Record Q2",
+      "summary": "Anthropic generated $11.5 billion in revenue during the second quarter of 2026, overtaking OpenAI's $6.7 billion for the first time. The explosive growth was driven primarily by enterprise API adoption and its Claude Code tool. The company also posted its first positive operating income as it prepares for an anticipated October IPO.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://forkast.news/anthropics-q2-revenue-overtook-openai-for-the-first-time-and-reached-its-first-positive-operating-income/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-22T01:57:16+00:00"
+    },
+    {
+      "headline": "Navigating the Stigma of Unhealed Chronic Illness",
+      "summary": "The Gospel Coalition explores the complex emotional and spiritual hurdles believers face when dealing with prolonged, unhealed illnesses. The essay addresses how physical suffering can intersect with misplaced feelings of personal shame within a faith context. It emphasizes theological perspectives on endurance and God's presence amid ongoing pain.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/shame-unhealed-illness/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-23T04:00:00+00:00"
     },
     {
       "headline": "Texans and C.J. Stroud Stalled on Extension Amid Steep Demands",
@@ -199,15 +217,6 @@
       "url": "https://simonwillison.net/2026/Aug/22/llm/",
       "source": "Simon Willison",
       "published": "2026-08-22T17:01:16+00:00"
-    },
-    {
-      "headline": "Tracking the NanoGPT Speedrun Frontier",
-      "summary": "The NanoGPT Speedrun project benchmarks how quickly various AI models can close the human record performance gap. Recent metrics chart performance progression across systems like Kimi, Opus, and GPT variations over multi-day agent timelines. The tracking visualizes efficiency gains and competitive pacing in rapid model training and execution.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "source": "Hacker News",
-      "published": "2026-08-22T22:14:27+00:00"
     },
     {
       "headline": "Pitchfork Revisits Paradis’s Melancholic Electro-Pop Debut",
@@ -309,6 +318,15 @@
       "published": "2026-08-22T15:33:29+00:00"
     },
     {
+      "headline": "Tracking the NanoGPT Speedrun Frontier",
+      "summary": "The NanoGPT Speedrun project benchmarks how quickly various AI models can close the human record performance gap. Recent metrics chart performance progression across systems like Kimi, Opus, and GPT variations over multi-day agent timelines. The tracking visualizes efficiency gains and competitive pacing in rapid model training and execution.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "source": "Hacker News",
+      "published": "2026-08-22T22:14:27+00:00"
+    },
+    {
       "headline": "Why Local LLMs Often Underperform Expectations",
       "summary": "A discussion on the Level1Techs forum examines the technical pitfalls that make locally hosted language models seem less capable than they actually are. The thread focuses on common hardware and configuration bottlenecks that degrade output quality when running AI on personal systems.",
       "category": "Tech/AI",
@@ -316,15 +334,6 @@
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
       "source": "Hacker News",
       "published": "2026-08-22T18:14:16+00:00"
-    },
-    {
-      "headline": "Canada Pledges Dollar-for-Dollar Retaliation as US Trade Talks Collapse",
-      "summary": "Canadian Prime Minister Mark Carney suspended trade negotiations just before a Friday deadline, citing unfair last-minute American demands that undermined deal reliability. New US tariffs on Canadian goods took effect Saturday following the impasse, prompting Ottawa to announce immediate reciprocal levies. The collapse ends weeks of negotiations initiated after President Donald Trump threatened a 50% tariff on nearly $20 billion worth of Canadian imports.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "source": "Hacker News",
-      "published": "2026-08-22T06:16:57+00:00"
     },
     {
       "headline": "Making the Case for Healthy Tribalism",
@@ -390,58 +399,49 @@
       "published": "2026-08-22T20:53:19+00:00"
     },
     {
-      "headline": "OzBrain Connects AI Agents to a Single Shared Knowledge Base",
-      "summary": "OzBrain provides a centralized repository that allows AI assistants like Claude, ChatGPT, and Cursor to read and write from the same structured information. By keeping track of project statuses, guidelines, and context, it eliminates the need for users to repeatedly explain their workflows to different agents. The platform also supports collaborative teams so that both humans and their AIs operate from identical, up-to-date knowledge.",
+      "headline": "Klay Thompson Agrees to Two-Year Deal with Miami Heat",
+      "summary": "Following a buyout from the Dallas Mavericks, veteran guard Klay Thompson plans to sign a two-year, nearly $13 million contract with the Miami Heat. The agreement includes a player option for the second season, allowing Thompson flexibility after a brief stint in Dallas. He will join a Heat roster looking to contend at the highest level.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.hitc.com/details-of-klay-thompsons-expected-contract-with-miami-heat-revealed-after-dallas-mavericks-buyout/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-22T06:54:23+01:00"
+    },
+    {
+      "headline": "Analyzing the Los Angeles Rams' Offensive Roster Entering 2026",
+      "summary": "Head coach Sean McVay leads a star-studded Los Angeles Rams offense into the 2026 season with high championship expectations. Armed with MVP quarterback Matthew Stafford and marquee offseason additions, the team features elite talent across every position group. McVay's offensive innovation and management will be key to converting this roster depth into a Super Bowl run.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.thesportingtribune.com/2026/08/21/way-too-early-rams-53-man-roster-offense",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-22T05:30:47.050Z"
+    },
+    {
+      "headline": "DeMar DeRozan Signs One-Year Veteran Minimum Deal with Nuggets",
+      "summary": "Six-time All-Star DeMar DeRozan has agreed to a one-year, $3.9 million contract with the Denver Nuggets. The 37-year-old veteran brings proven mid-range scoring and isolation capabilities to a roster looking to rebound from an early playoff exit. DeRozan joins forces with Nikola Jokic and Jamal Murray in pursuit of his first NBA title.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://easysportz.com/2026/08/demar-derozan-agrees-to-join-denver-nuggets/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-22T02:53:18+00:00"
+    },
+    {
+      "headline": "OpenAI Slashes GPT-5.6 Sol Developer Pricing by Over 20%",
+      "summary": "OpenAI has cut API and developer pricing for its frontier GPT-5.6 Sol model by more than 20% over a three-month period. The price adjustment brings short-context input costs down to $4 per million tokens and output costs to $20 per million tokens. This move comes amid intensifying market competition from rival AI firms like Anthropic.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://ozbrain.com",
-      "source": "Hacker News",
-      "published": "2026-08-21T23:09:06+00:00"
+      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-cuts-developer-pricing-for-frontier-gpt-5-6-sol-model-by-more-than-20/articleshow/133416508.cms",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-22T8:37:52+05:30"
     },
     {
-      "headline": "Carney Pulls Canadian Negotiators as U.S. Talks Collapse",
-      "summary": "Canadian Prime Minister Mark Carney withdrew his trade delegation from Washington after rejecting the White House's terms as a bad deal. The abrupt exit immediately triggered a new wave of American tariffs on Canadian goods. Carney addressed the nation the following morning to defend the walkout and prepare the public for the resulting economic standoff.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn",
-      "source": "Daring Fireball",
-      "published": "2026-08-22T16:47:10+00:00"
-    },
-    {
-      "headline": "WorkOS Launches auth.md to Let AI Agents Register for Apps",
-      "summary": "WorkOS has introduced auth.md, an open protocol that allows AI agents to automatically register users for applications without traditional sign-up forms. The system uses a domain-hosted Markdown file and standard OAuth to issue scoped, revocable access tokens. Crucially, the protocol is open-source and functions independently of WorkOS infrastructure.",
+      "headline": "Anthropic Hires Google Veteran Amir Salek to Lead Custom Chip Initiative",
+      "summary": "Anthropic has hired former Google TPU executive Amir Salek to spearhead its new in-house semiconductor development team. Salek will report to James Bradbury as the AI lab seeks to build custom silicon infrastructure to support surging data center demands. The move mirrors similar hardware efforts by competitors like OpenAI to bypass supply chain bottlenecks.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-      "source": "Daring Fireball",
-      "published": "2026-08-22T14:18:29+00:00"
-    },
-    {
-      "headline": "Dutch Watchdog Hits Uber with $966 Million Fine Over Driver Suspensions",
-      "summary": "The Dutch Data Protection Authority has issued an €825 million penalty against Uber. The fine stems from the company's automated deactivation of driver accounts without providing adequate explanations.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/",
-      "source": "Daring Fireball",
-      "published": "2026-08-22T14:12:07+00:00"
-    },
-    {
-      "headline": "Simon Willison: Managing AI Coding Agents Requires More Than Just Code Review",
-      "summary": "Developer Simon Willison argues that effectively using AI coding agents relies less on eyeballing every line of generated code and more on giving precise instructions and verifying outcomes. Because manual line-by-line code review is inefficient, developers must adapt new validation strategies for agentic engineering. This shift is essential as autonomous tools take on increasingly complex software tasks.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
-      "source": "Simon Willison",
-      "published": "2026-08-22T15:56:54+00:00"
-    },
-    {
-      "headline": "Carney Prepares Canada for Economic Fallout After Defying Trump",
-      "summary": "Prime Minister Mark Carney halted negotiations and ordered retaliatory tariffs against the U.S. following eleventh-hour demands from the White House that he characterized as an aggressive power play. The standoff poses severe economic risks on both sides of the border, threatening the 70% of Canadian exports bound for the U.S. alongside deeply integrated industries in states like Michigan and Ohio. Carney framed the retaliation as necessary self-defense, betting that Canadians will endure short-term pain rather than accept unfavorable terms.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-22T20:02:46+00:00"
+      "relevance": 8,
+      "url": "https://www.business-standard.com/technology/tech-news/anthropic-taps-google-chip-veteran-amir-salek-as-part-of-push-into-hardware-126082200097_1.html",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-22T08:26:53+05:30"
     },
     {
       "headline": "An Enduring Tribute to the Visual Mastery of Blade Runner",
@@ -450,7 +450,7 @@
       "relevance": 5,
       "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
       "source": "Hacker News",
-      "published": "2015-10-02T11:53:35+00:00"
+      "published": "2026-08-23T00:56:03+00:00"
     }
   ]
 }
