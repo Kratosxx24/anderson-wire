@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:32:54.955957+00:00",
+  "generated_at": "2026-08-23T15:53:31.045443+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -120,33 +120,6 @@
       "published": "2026-08-21T04:00:00+00:00"
     },
     {
-      "headline": "ShardFlow Hits 28 TPS Across Public WAN Using Neural Speculative Decoding",
-      "summary": "A developer built ShardFlow, a distributed LLM inference framework designed to split HuggingFace transformers across multiple GPU nodes. Running a benchmark on two T4 machines across GCP regions in Iowa and Oregon, the setup achieved 28 tokens per second using speculative decoding and CUDA graphs to handle WAN latency.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-23T12:30:55+00:00"
-    },
-    {
-      "headline": "Developer Builds 60MB Quantized LLM That Runs at 400 Tokens Per Second on CPU",
-      "summary": "An independent developer trained a 250M parameter model from scratch on 30 billion tokens of FineWeb. Quantized to under 2 bits, the resulting 60MB model requires only 80MB of RAM and hits roughly 400 tokens per second on a standard laptop CPU without a GPU.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-22T04:39:18+00:00"
-    },
-    {
-      "headline": "Flawed Roster Construction Casts Doubt on Sixers' Contender Status",
-      "summary": "Philadelphia's projected starting lineup ranks among the league's worst in perimeter shooting efficiency based on last season's metrics. Combined with glaring defensive liabilities, poor spacing, and a brittle center rotation without a reliable backup, skeptics argue the team lacks true championship DNA.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vvxkhp/the_philadelphia_76ers_starting_lineup_shot_a/",
-      "source": "r/NBA",
-      "published": "2026-08-23T04:40:45+00:00"
-    },
-    {
       "headline": "Texans and C.J. Stroud Stalled on Extension Amid Steep Demands",
       "summary": "Contract extension talks between the Houston Texans and quarterback C.J. Stroud have no momentum as the player reportedly eyes a staggering $70 million per year. While the team prefers a valuation closer to $50-55 million, Stroud faces a crucial 2026 season to prove his worth before his rookie deal expires.",
       "category": "NFL",
@@ -183,6 +156,15 @@
       "published": "2026-08-22T17:05:25+00:00"
     },
     {
+      "headline": "CBS Sports Releases Early 2026 Fantasy Football Rankings and Draft Model",
+      "summary": "CBS Sports has published its early 2026 fantasy football draft preparation guides and predictive models. The release features tiered player rankings, cheat sheets, and optimal positional picks for quarterbacks, running backs, wide receivers, and tight ends.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-locks-in-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "source": "CBS Sports",
+      "published": "2026-08-23T14:57:35+00:00"
+    },
+    {
       "headline": "Tracking College Basketball's Transfer Portal Window",
       "summary": "A comprehensive breakdown evaluates roster changes across the college basketball landscape during the latest free agency window. The tracker grades individual player movements and analyzes how these high-profile roster shifts reshape team outlooks. Analysts review the immediate impact of these transfers ahead of the upcoming season.",
       "category": "Sports",
@@ -201,15 +183,6 @@
       "published": "2026-08-23T14:00:02+00:00"
     },
     {
-      "headline": "CBS Sports Unveils 2026 Fantasy Football Model Projections and Sleepers",
-      "summary": "CBS Sports has released its comprehensive 2026 fantasy football cheat sheet featuring top breakout candidates, sleepers, and projected busts. The rankings are driven by an analytical model designed to spot undervalued players ahead of draft season. Fantasy managers can leverage the predictive data to identify league-winning talent and avoid costly early-round pitfalls.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-huge-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-23T13:12:42+00:00"
-    },
-    {
       "headline": "WorkOS Introduces auth.md to Let AI Agents Register for Apps",
       "summary": "WorkOS has launched auth.md, an open protocol that allows applications to host a standardized Markdown file explaining how AI agents can register users automatically. By utilizing agent-verified or user-claimed flows, agents receive scoped OAuth access tokens without needing traditional human sign-up forms. The protocol is open-source and operates independently of WorkOS infrastructure.",
       "category": "Tech/AI",
@@ -217,6 +190,24 @@
       "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
       "source": "Daring Fireball",
       "published": "2026-08-22T14:18:29+00:00"
+    },
+    {
+      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
+      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-22T17:01:16+00:00"
+    },
+    {
+      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
+      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "source": "Hacker News",
+      "published": "2026-08-23T10:02:51+00:00"
     },
     {
       "headline": "Pitchfork Revisits Paradis’s Melancholic Electro-Pop Debut",
@@ -235,6 +226,15 @@
       "url": "https://pitchfork.com/reviews/albums/the-cramps-gravest-gravy/",
       "source": "Pitchfork",
       "published": "2026-08-22T04:00:00+00:00"
+    },
+    {
+      "headline": "CBS Sports Unveils 2026 Fantasy Football Model Projections and Sleepers",
+      "summary": "CBS Sports has released its comprehensive 2026 fantasy football cheat sheet featuring top breakout candidates, sleepers, and projected busts. The rankings are driven by an analytical model designed to spot undervalued players ahead of draft season. Fantasy managers can leverage the predictive data to identify league-winning talent and avoid costly early-round pitfalls.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-huge-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-23T13:12:42+00:00"
     },
     {
       "headline": "Early 2026 Fantasy Football Draft Guides Drop",
@@ -262,24 +262,6 @@
       "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn",
       "source": "Daring Fireball",
       "published": "2026-08-22T16:47:10+00:00"
-    },
-    {
-      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
-      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-22T17:01:16+00:00"
-    },
-    {
-      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
-      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "source": "Hacker News",
-      "published": "2026-08-23T10:02:51+00:00"
     },
     {
       "headline": "Achieving 5-Microsecond JIT Compilation Using AI",
@@ -408,40 +390,58 @@
       "published": "2026-08-22T20:53:19+00:00"
     },
     {
-      "headline": "Klay Thompson Surrenders $9.8 Million in Buyout to Join Miami Heat",
-      "summary": "Klay Thompson gave back approximately $9.8 million in his buyout agreement with the Dallas Mavericks. Once he clears waivers, the veteran sharpshooter intends to sign with the Miami Heat.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vvweyz/scotto_klay_thompson_gave_back_roughly_98_million/",
-      "source": "r/NBA",
-      "published": "2026-08-23T03:39:58+00:00"
+      "headline": "Reimagining Relational Query Languages",
+      "summary": "An analysis of historical SQL limitations argues that a modern relational query language should adopt cleaner syntax inspired by functional programming languages like F# and Elixir. The proposal emphasizes fixing clumsy 1970s design choices and improving error reporting to make database interaction more intuitive for contemporary developers.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
+      "source": "Hacker News",
+      "published": "2026-08-19T04:44:20+00:00"
     },
     {
-      "headline": "CBS Sports Releases Early 2026 Fantasy Football Rankings and Draft Model",
-      "summary": "CBS Sports has published its early 2026 fantasy football draft preparation guides and predictive models. The release features tiered player rankings, cheat sheets, and optimal positional picks for quarterbacks, running backs, wide receivers, and tight ends.",
+      "headline": "Slovakia Discovers Russian Backdoors in Speed Cameras",
+      "summary": "Slovakia's national security service uncovered backdoor mechanisms and severe security flaws in nearly 300 high-speed traffic cameras purchased from a Russian firm as part of an EU-funded project. The compromised devices accepted SMS commands from hardcoded Russian phone numbers to grant remote shell and network access, prompting the Interior Ministry to halt deployment pending an independent audit.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "source": "Hacker News",
+      "published": "2026-08-23T14:38:25+00:00"
+    },
+    {
+      "headline": "Manchester City Secures Teenage Prodigy Ayyoub Bouaddi for £86M",
+      "summary": "Manchester City has agreed to a €100 million deal in principle to sign 18-year-old midfielder Ayyoub Bouaddi from Lille. The Moroccan international drew high praise from veteran Olivier Giroud and impressed scouts with his standout performances on the international and domestic stages.",
       "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-rankings-draft-prep-model-locks-in-best-qb-rb-wr-te-picks-cheat-sheets-adp-tiers/",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwylg0kp5lwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-06-19T13:22:43.079Z"
+    },
+    {
+      "headline": "First Android Malware Targets Automotive Head Units",
+      "summary": "Security researchers discovered a multi-stage Android malware infecting the built-in updaters of automotive head unit firmware. Attributed to the MoYu Group, the malicious software installs silently to perpetrate ad fraud and establish a proxy botnet on connected vehicles.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://securelist.com/android-head-unit-malware/121106/",
+      "source": "Hacker News",
+      "published": "2026-08-21T08:00:29+00:00"
+    },
+    {
+      "headline": "Iranian Hackers Force Four-Day Shutdown at UK Power Plant",
+      "summary": "State-sponsored Iranian hackers successfully disabled a British power plant for four days in an unprecedented cyber attack against critical national infrastructure. While the small facility's outage did not disrupt the broader UK energy supply, the incident prompted government warnings and briefings to major utility executives.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.telegraph.co.uk/news/2026/08/22/iranian-hackers-shut-down-uk-power-plant/",
+      "source": "Hacker News",
+      "published": "2026-08-22T20:50Z"
+    },
+    {
+      "headline": "Harrison Butker Nails 69-Yard Field Goal That Won't Count",
+      "summary": "Kansas City Chiefs kicker Harrison Butker successfully converted a massive 69-yard field goal during a practice or exhibition setting. However, because the kick did not occur during a regulated regular-season or postseason game, the historic distance will not enter the official NFL record books.",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/nfl/news/chiefs-harrison-butker-drills-historical-69-yard-field-goal-but-it-wont-count-in-the-nfl-record-book/",
       "source": "CBS Sports",
-      "published": "2026-08-23T14:57:35+00:00"
-    },
-    {
-      "headline": "Developer Releases Minimal Educational Implementation of LLM Watermarking",
-      "summary": "Motivated by Anthropic's announcement regarding model response watermarking, a developer built a minimal, educational version inspired by SynthID-Text. The project aims to demystify how hidden markers are embedded into generated language model outputs.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-23T08:09:02+00:00"
-    },
-    {
-      "headline": "DelveRL Offers Open-Source Roguelike Built Specifically for AI Agent Training",
-      "summary": "Frustrated by the difficulty of integrating standard video games with reinforcement learning harnesses, a developer created DelveRL. The project is a human-playable roguelike built from scratch featuring a structured API designed for training game-playing AI agents.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-22T17:32:17+00:00"
+      "published": "2026-08-23T02:53:12+00:00"
     },
     {
       "headline": "An Enduring Tribute to the Visual Mastery of Blade Runner",
