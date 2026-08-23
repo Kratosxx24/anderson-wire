@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T04:49:55.370785+00:00",
+  "generated_at": "2026-08-23T05:16:35.019668+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -183,15 +183,6 @@
       "published": "2026-08-23T01:43:17+00:00"
     },
     {
-      "headline": "Stratechery Breaks Down EU App Store Compromises and Geopolitical Shifts",
-      "summary": "Ben Thompson's latest newsletter covers Apple's regulatory settlements in the European Union and Germany's ATT policy adjustments. The edition also touches on shifting U.S.-Korea relations following a sudden U.S. military exercise reduction and ongoing L.A. sports ownership drama.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/app-snore/",
-      "source": "Stratechery",
-      "published": "2026-08-21T17:00:00+00:00"
-    },
-    {
       "headline": "Walmart and Sam's Club Finally Add Tap-to-Pay Support",
       "summary": "Walmart has announced that customers will soon be able to use Apple Pay and other tap-to-pay methods at checkout. The long-awaited update introduces crucial payment flexibility to both Walmart and Sam's Club locations starting this August.",
       "category": "Tech/AI",
@@ -208,6 +199,15 @@
       "url": "https://simonwillison.net/2026/Aug/22/llm/",
       "source": "Simon Willison",
       "published": "2026-08-22T17:01:16+00:00"
+    },
+    {
+      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
+      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/21/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-21T17:16:13+00:00"
     },
     {
       "headline": "Pitchfork Revisits Paradis’s Melancholic Electro-Pop Debut",
@@ -300,24 +300,6 @@
       "published": "2026-08-22T15:33:29+00:00"
     },
     {
-      "headline": "LLM Command-Line Tool Patched to Fix OpenAI Dependency Break",
-      "summary": "Simon Willison has released llm 0.32.1 to address a breakage in fresh installations caused by the OpenAI Python library dropping httpx. The hotfix pins the openai dependency to version 3 to restore functionality before an upcoming major update.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/21/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-21T17:16:13+00:00"
-    },
-    {
-      "headline": "LLM OpenRouter Plugin Updated for Version 0.32 Compatibility",
-      "summary": "The llm-openrouter 0.7 plugin has dropped, bringing full compatibility with LLM 0.32 and better support for reasoning models. The update integrates OpenRouter's Responses API alongside three new server-side tools for shell execution, web fetching, and web searching.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "source": "Simon Willison",
-      "published": "2026-08-21T16:58:19+00:00"
-    },
-    {
       "headline": "Tracking the NanoGPT Speedrun Frontier",
       "summary": "The NanoGPT Speedrun project benchmarks how quickly various AI models can close the human record performance gap. Recent metrics chart performance progression across systems like Kimi, Opus, and GPT variations over multi-day agent timelines. The tracking visualizes efficiency gains and competitive pacing in rapid model training and execution.",
       "category": "Tech/AI",
@@ -399,6 +381,15 @@
       "published": "2026-08-21T19:31:47+00:00"
     },
     {
+      "headline": "Official Volleyball Net Heights by Age, Gender, and Competition Level",
+      "summary": "Regulation volleyball net heights vary significantly depending on age, gender, and format to support proper biomechanical development. Standard senior play requires 7 feet 11 5/8 inches for men and 7 feet 4 1/8 inches for women, while youth brackets adjust downward, such as a 6-foot-6 setting for girls aged 10 and under. Proper adherence ensures legal tolerances and matches training standards set by FIVB, USAV, and AVP.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/volleyball-net-height-by-age-gender-and-level-of-play/?utm_source=rss&utm_medium=rss&utm_campaign=volleyball-net-height-by-age-gender-and-level-of-play",
+      "source": "Volleyball Mag",
+      "published": "2026-08-22T01:39:51+00:00"
+    },
+    {
       "headline": "Carney Pulls Canadian Negotiators as U.S. Talks Collapse",
       "summary": "Canadian Prime Minister Mark Carney withdrew his trade delegation from Washington after rejecting the White House's terms as a bad deal. The abrupt exit immediately triggered a new wave of American tariffs on Canadian goods. Carney addressed the nation the following morning to defend the walkout and prepare the public for the resulting economic standoff.",
       "category": "World",
@@ -406,24 +397,6 @@
       "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn",
       "source": "Daring Fireball",
       "published": "2026-08-22T16:47:10+00:00"
-    },
-    {
-      "headline": "Carney Prepares Canada for Economic Fallout After Defying Trump",
-      "summary": "Prime Minister Mark Carney halted negotiations and ordered retaliatory tariffs against the U.S. following eleventh-hour demands from the White House that he characterized as an aggressive power play. The standoff poses severe economic risks on both sides of the border, threatening the 70% of Canadian exports bound for the U.S. alongside deeply integrated industries in states like Michigan and Ohio. Carney framed the retaliation as necessary self-defense, betting that Canadians will endure short-term pain rather than accept unfavorable terms.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-22T20:02:46+00:00"
-    },
-    {
-      "headline": "Darko Rajakovic: Scottie Barnes Is My Michael Jordan",
-      "summary": "Toronto Raptors coach Darko Rajakovic praised his star forward, comparing him to Michael Jordan in terms of team reliance. He emphasized that individual coaching success depends entirely on elite players, calling Barnes a hardworking worker with a big heart.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vvvci8/darko_rajakovic_i_think_there_is_no_success/",
-      "source": "r/NBA",
-      "published": "2026-08-23T02:45:30+00:00"
     },
     {
       "headline": "WorkOS Launches auth.md to Let AI Agents Register for Apps",
@@ -442,6 +415,33 @@
       "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
       "source": "Simon Willison",
       "published": "2026-08-22T15:56:54+00:00"
+    },
+    {
+      "headline": "Carney Prepares Canada for Economic Fallout After Defying Trump",
+      "summary": "Prime Minister Mark Carney halted negotiations and ordered retaliatory tariffs against the U.S. following eleventh-hour demands from the White House that he characterized as an aggressive power play. The standoff poses severe economic risks on both sides of the border, threatening the 70% of Canadian exports bound for the U.S. alongside deeply integrated industries in states like Michigan and Ohio. Carney framed the retaliation as necessary self-defense, betting that Canadians will endure short-term pain rather than accept unfavorable terms.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-22T20:02:46+00:00"
+    },
+    {
+      "headline": "Dutch Watchdog Hits Uber with $966 Million Fine Over Driver Suspensions",
+      "summary": "The Dutch Data Protection Authority has issued an €825 million penalty against Uber. The fine stems from the company's automated deactivation of driver accounts without providing adequate explanations.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.reuters.com/world/dutch-regulator-fines-uber-966-million-automating-driver-suspensions-document-2026-08-21/",
+      "source": "Daring Fireball",
+      "published": "2026-08-22T14:12:07+00:00"
+    },
+    {
+      "headline": "Linus Torvalds Credits AI for Heavy Lifting During Brutal Debugging Session",
+      "summary": "Linux creator Linus Torvalds praised an AI assistant for handling the grunt work during a difficult debugging session that ultimately led to a drm/xe driver commit. Although the AI repeatedly declared the problem impossible and tried to quit, it kept adding and analyzing debug code when pushed by Torvalds' persistence. Torvalds jokingly noted that the AI's defeatist attitude likely stems from being trained on humans less stubborn than himself.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+      "source": "Simon Willison",
+      "published": "2026-08-22T21:04:26+00:00"
     },
     {
       "headline": "Journeyman Catcher Jake Rogers Sets Record With Four Team Changes",
