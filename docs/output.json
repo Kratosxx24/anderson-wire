@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:08:46.061413+00:00",
+  "generated_at": "2026-08-24T10:58:31.325275+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -129,6 +129,15 @@
       "published": "2026-07-25T01:34:37+00:00"
     },
     {
+      "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
+      "summary": "Los Angeles Rams defensive coordinator Chris Shula is merging Vic Fangio's coverage schemes with Wade Phillips' aggressive front principles. The defense relies on a heavy front-line pass rush, leading the league in stunt rate at nearly thirty percent while keeping secondary blitzes low. This hybrid approach allows the Rams to manufacture one-on-one matchups and effectively neutralize modern offensive packages.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.matchquarters.com/p/chris-shula-5-1-penny-front-box-adjustment",
+      "source": "MatchQuarters",
+      "published": "2026-08-24T10:01:52+00:00"
+    },
+    {
       "headline": "Saints Acquire Zamir White Following Backfield Injuries",
       "summary": "The New Orleans Saints traded for running back Zamir White to stabilize their depleted running back room. The move comes in response to a wave of injuries that severely taxed the team's depth at the position.",
       "category": "NFL",
@@ -136,15 +145,6 @@
       "url": "https://www.cbssports.com/nfl/news/saints-49ers-trade-grades-zamir-white/",
       "source": "CBS Sports",
       "published": "2026-08-24T03:21:21+00:00"
-    },
-    {
-      "headline": "Raiders' Ashton Jeanty Helped Off Field After Practice Injury",
-      "summary": "Ashton Jeanty was forced to exit a Las Vegas Raiders practice after suffering an injury on an awkward landing. Team personnel assisted him off the field, raising immediate concerns about his status. The Raiders have not yet detailed the severity of the issue or a timeline for his return.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/raiders-ashton-jeanty-injured-helped-off-practice-field/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T03:18:57+00:00"
     },
     {
       "headline": "Advanced Model Simulates the 2026 NASCAR Dollar Tree 301",
@@ -156,6 +156,15 @@
       "published": "2026-08-23T17:35:25+00:00"
     },
     {
+      "headline": "Intent and Incentives Define the AI and Hacking Landscapes",
+      "summary": "The distinction between white-hat and black-hat hackers boils down to intent and financial incentives rather than technical capability. This same principle applies to artificial intelligence, where powerful cybersecurity tools can be used for defense or attack based on who wields them. Restricting advanced AI development under the assumption that only select Western entities can be trusted ignores the global reality of competing capable models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/autonomy-and-innovation/",
+      "source": "Stratechery",
+      "published": "2026-08-24T10:00:00+00:00"
+    },
+    {
       "headline": "Anthropic's Flagship AI Lags Behind Cheaper Alternatives",
       "summary": "Financial disclosures reveal that Anthropic's top-tier AI models are struggling to capture significant user adoption as consumers favor cheaper options. Meanwhile, Anthropic's annualized revenue reached $65 billion in July, and competitor OpenAI topped $40 billion following the launch of GPT 5.6. Credit card billing data indicates that older and more economical Claude versions still dominate user spending.",
       "category": "Tech/AI",
@@ -163,15 +172,6 @@
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "source": "Simon Willison",
       "published": "2026-08-23T20:24:52+00:00"
-    },
-    {
-      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
-      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "source": "Hacker News",
-      "published": "2026-08-23T10:02:51+00:00"
     },
     {
       "headline": "Weezer Ditch Gimmicks for Straightforward Rock on New Album",
@@ -199,6 +199,15 @@
       "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
       "source": "Hacker News",
       "published": "2026-08-23T14:38:25+00:00"
+    },
+    {
+      "headline": "Raiders' Ashton Jeanty Helped Off Field After Practice Injury",
+      "summary": "Ashton Jeanty was forced to exit a Las Vegas Raiders practice after suffering an injury on an awkward landing. Team personnel assisted him off the field, raising immediate concerns about his status. The Raiders have not yet detailed the severity of the issue or a timeline for his return.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/raiders-ashton-jeanty-injured-helped-off-practice-field/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T03:18:57+00:00"
     },
     {
       "headline": "Rookie Quarterback Preseason Week 2 Grades",
@@ -282,6 +291,15 @@
       "published": "2026-08-23T16:09:58+00:00"
     },
     {
+      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
+      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "source": "Hacker News",
+      "published": "2026-08-23T10:02:51+00:00"
+    },
+    {
       "headline": "Achieving 5-Microsecond JIT Compilation Using AI",
       "summary": "Building a custom JIT compiler no longer requires deep assembly expertise thanks to AI assistance, which enables compilation times around 5 microseconds. In the pgrust database project, this ultra-fast compilation speed makes it practical to JIT compile every single SQL query rather than just a select few. This approach bypasses the heavy overhead of LLVM or C/C++ code generation to deliver massive runtime performance gains.",
       "category": "Tech/AI",
@@ -289,15 +307,6 @@
       "url": "https://malisper.me/jit-compiling-code-in-5-us/",
       "source": "Hacker News",
       "published": "2026-08-23T06:04:51+00:00"
-    },
-    {
-      "headline": "Tracking the NanoGPT Speedrun Frontier",
-      "summary": "The NanoGPT Speedrun project benchmarks how quickly various AI models can close the human record performance gap. Recent metrics chart performance progression across systems like Kimi, Opus, and GPT variations over multi-day agent timelines. The tracking visualizes efficiency gains and competitive pacing in rapid model training and execution.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "source": "Hacker News",
-      "published": "2026-08-22T22:14:27+00:00"
     },
     {
       "headline": "Can AI Promote Truth and the Common Good?",
@@ -381,24 +390,6 @@
       "published": "2026-08-23T12:50:09+00:00"
     },
     {
-      "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
-      "summary": "Los Angeles Rams defensive coordinator Chris Shula is merging Vic Fangio's coverage schemes with Wade Phillips' aggressive front principles. The defense relies on a heavy front-line pass rush, leading the league in stunt rate at nearly thirty percent while keeping secondary blitzes low. This hybrid approach allows the Rams to manufacture one-on-one matchups and effectively neutralize modern offensive packages.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.matchquarters.com/p/chris-shula-5-1-penny-front-box-adjustment",
-      "source": "MatchQuarters",
-      "published": "2026-08-24T10:01:52+00:00"
-    },
-    {
-      "headline": "Intent and Incentives Define the AI and Hacking Landscapes",
-      "summary": "The distinction between white-hat and black-hat hackers boils down to intent and financial incentives rather than technical capability. This same principle applies to artificial intelligence, where powerful cybersecurity tools can be used for defense or attack based on who wields them. Restricting advanced AI development under the assumption that only select Western entities can be trusted ignores the global reality of competing capable models.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/autonomy-and-innovation/",
-      "source": "Stratechery",
-      "published": "2026-08-24T10:00:00+00:00"
-    },
-    {
       "headline": "Vrabel Questions Patriots Roster Depth",
       "summary": "New England Patriots head coach Mike Vrabel offered a remarkably candid assessment of his roster's limitations during recent comments. His blunt admission underlines the ongoing personnel challenges facing the franchise as they attempt to build a competitive squad.",
       "category": "NFL",
@@ -442,6 +433,15 @@
       "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-24T05:00:22+00:00"
+    },
+    {
+      "headline": "Ukrainian Drone Strikes Hit Major Russian Retailer Ozon",
+      "summary": "Ukrainian drone strikes ignited fires at multiple Ozon logistics facilities across southern Russia, including sites in Dagestan and Krasnodar. The attacks, which resulted in injuries and the reported deaths of three children, caused shares in the retailer and its parent company to plummet by double digits. This escalation follows a pattern of Ukrainian strikes on Russian economic infrastructure, prompting threats of retaliation from the Kremlin.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T10:40:22.368Z"
     },
     {
       "headline": "Study Examines Transmission Risks of Amyloid-Beta Pathology in Blood Transfusions",
