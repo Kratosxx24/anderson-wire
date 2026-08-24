@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T16:20:53.002927+00:00",
+  "generated_at": "2026-08-24T17:01:32.682923+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -10,6 +10,15 @@
       "url": "https://www.thirdapron.com/p/front-office-rankings-2026-offseason",
       "source": "Third Apron",
       "published": "2026-08-24T04:17:16+00:00"
+    },
+    {
+      "headline": "Curated NBA Round-Up Highlights Offseason Projections and Power Rankings",
+      "summary": "The latest edition of the Basketball Intelligence newsletter gathers key preseason analysis from across the web. Featured pieces include Zach Buckley's team weapon predictions and 30 offseason overreactions, alongside Law Murray's power rankings and ESPN's upcoming standings forecast.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82426",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-24T15:49:08+00:00"
     },
     {
       "headline": "Navigating the Stigma of Unhealed Chronic Illness",
@@ -93,15 +102,6 @@
       "published": "2026-07-25T01:34:37+00:00"
     },
     {
-      "headline": "Curated NBA Round-Up Highlights Offseason Projections and Power Rankings",
-      "summary": "The latest edition of the Basketball Intelligence newsletter gathers key preseason analysis from across the web. Featured pieces include Zach Buckley's team weapon predictions and 30 offseason overreactions, alongside Law Murray's power rankings and ESPN's upcoming standings forecast.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82426",
-      "source": "Basketball Intelligence",
-      "published": "2026-08-24T15:49:08+00:00"
-    },
-    {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
       "summary": "Los Angeles Rams defensive coordinator Chris Shula is merging Vic Fangio's coverage schemes with Wade Phillips' aggressive front principles. The defense relies on a heavy front-line pass rush, leading the league in stunt rate at nearly thirty percent while keeping secondary blitzes low. This hybrid approach allows the Rams to manufacture one-on-one matchups and effectively neutralize modern offensive packages.",
       "category": "NFL",
@@ -165,6 +165,15 @@
       "published": "2026-08-24T10:00:00+00:00"
     },
     {
+      "headline": "Linux Trick Turns a SQLite Database Into an Executable Binary",
+      "summary": "A clever Linux pattern developed by Farid Zakaria allows a SQLite database file to function directly as an executable binary. By setting the file's application ID to SELF and structuring the ELF components inside SQLite tables, the kernel can execute the file via custom binfmt_misc registration.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "source": "Simon Willison",
+      "published": "2026-08-24T11:38:15+00:00"
+    },
+    {
       "headline": "Anthropic's Flagship AI Lags Behind Cheaper Alternatives",
       "summary": "Financial disclosures reveal that Anthropic's top-tier AI models are struggling to capture significant user adoption as consumers favor cheaper options. Meanwhile, Anthropic's annualized revenue reached $65 billion in July, and competitor OpenAI topped $40 billion following the launch of GPT 5.6. Credit card billing data indicates that older and more economical Claude versions still dominate user spending.",
       "category": "Tech/AI",
@@ -172,15 +181,6 @@
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "source": "Simon Willison",
       "published": "2026-08-23T20:24:52+00:00"
-    },
-    {
-      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
-      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "source": "Hacker News",
-      "published": "2026-08-23T10:02:51+00:00"
     },
     {
       "headline": "Weezer Ditch Gimmicks for Straightforward Rock on New Album",
@@ -217,6 +217,15 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-via-model-that-projected-daniel-jones-huge-year/",
       "source": "CBS Sports",
       "published": "2026-08-24T13:28:40+00:00"
+    },
+    {
+      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
+      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "source": "Hacker News",
+      "published": "2026-08-23T10:02:51+00:00"
     },
     {
       "headline": "Achieving 5-Microsecond JIT Compilation Using AI",
@@ -273,6 +282,15 @@
       "published": "2026-08-24T13:35:07+00:00"
     },
     {
+      "headline": "UK PM Burnham Pledges Continued Support and Missile Blueprints on Kyiv Visit",
+      "summary": "During his first official visit to Ukraine, UK Prime Minister Andy Burnham dismissed Russian threats and vowed to maintain military and economic pressure on Moscow. Burnham announced plans to share blueprints for British-made missile components so Ukraine can manufacture the weapons domestically, drawing immediate condemnation from the Kremlin.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T15:54:16+00:00"
+    },
+    {
       "headline": "Canada Vows Dollar-For-Dollar Tariffs After Trade Talks Collapse",
       "summary": "Prime Minister Mark Carney slammed fresh US trade levies as a divisive miscalculation after negotiations broke down over unreasonable demands. Consequently, Canada plans to match the American penalties dollar-for-dollar starting September 8, targeting key sectors like steel and electronics. Washington had pushed for a 50% tariff on Canadian goods following mutual accusations of last-minute changes.",
       "category": "World",
@@ -318,31 +336,22 @@
       "published": "2026-08-23T21:21:23+00:00"
     },
     {
-      "headline": "ESPN Projects Spurs at Number One in Latest Win-Loss Forecast",
-      "summary": "ESPN's annual win-loss predictions slate the San Antonio Spurs at the top spot, while suggesting the Western Conference's top five outpace the East. The projection also anticipates an unusually competitive Eastern Conference with ten teams winning at least 44 games.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vx3ysw/todays_espn_annual_season_wl_predictions_for_all/",
-      "source": "r/NBA",
-      "published": "2026-08-24T14:11:52+00:00"
-    },
-    {
-      "headline": "Linux Trick Turns a SQLite Database Into an Executable Binary",
-      "summary": "A clever Linux pattern developed by Farid Zakaria allows a SQLite database file to function directly as an executable binary. By setting the file's application ID to SELF and structuring the ELF components inside SQLite tables, the kernel can execute the file via custom binfmt_misc registration.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-      "source": "Simon Willison",
-      "published": "2026-08-24T11:38:15+00:00"
-    },
-    {
-      "headline": "UK PM Burnham Pledges Continued Support and Missile Blueprints on Kyiv Visit",
-      "summary": "During his first official visit to Ukraine, UK Prime Minister Andy Burnham dismissed Russian threats and vowed to maintain military and economic pressure on Moscow. Burnham announced plans to share blueprints for British-made missile components so Ukraine can manufacture the weapons domestically, drawing immediate condemnation from the Kremlin.",
+      "headline": "US Targets Iran With New Economic Measures as Canada Plans Retaliatory Tariffs",
+      "summary": "Treasury Secretary Scott Bessent is rolling out fresh economic pressure intended to push Iran back to the negotiating table, prompting threats of a severe regional response from Iranian security chief Mohsen Rezaei. Meanwhile, Canada is moving forward with retaliatory tariffs against the United States amidst escalating trade tensions. The developments mark a volatile convergence of foreign policy and economic confrontation.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T23:07:10.024Z"
+      "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+      "source": "NPR News",
+      "published": "2026-08-24T07:27:44-04:00"
+    },
+    {
+      "headline": "Computer Model Yields Surprising Picks for the 2026 Tour Championship",
+      "summary": "A sophisticated predictive model that has successfully called 17 golf majors has released its simulated odds and picks for the 2026 Tour Championship. The computer-generated projections point to unexpected contenders emerging from the field. Golf bettors are utilizing these data-driven simulations to navigate the tournament's unique format.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/2026-tour-championship-odds-picks-predictions-field-format/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T16:22:59+00:00"
     },
     {
       "headline": "Browns Tab Deshaun Watson Starting Quarterback Over Shedeur Sanders",
@@ -351,7 +360,7 @@
       "relevance": 7,
       "url": "https://www.cbssports.com/nfl/news/browns-deshaun-watson-starting-qb-shedeur-sanders/",
       "source": "CBS Sports",
-      "published": "2026-08-24T14:12:51+00:00"
+      "published": "2026-08-24T16:59:48+00:00"
     },
     {
       "headline": "Setting Your Week 23 Lineup",
@@ -360,7 +369,7 @@
       "relevance": 7,
       "url": "https://www.cbssports.com/",
       "source": "CBS Sports",
-      "published": "2026-08-24T14:11:10+00:00"
+      "published": "2026-08-24T16:45:33+00:00"
     },
     {
       "headline": "Proven Sports Model Drops Week 0 Picks for North Carolina vs. TCU in Dublin",
@@ -424,15 +433,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-24T12:17:34+00:00"
-    },
-    {
-      "headline": "Tata Sons Faces Massive Leadership Search Amid Strategic Turmoil",
-      "summary": "The $300 billion Tata conglomerate is scrambling for a new chairman following the sudden resignation of N Chandrasekaran after a bitter dispute with Tata Trusts. The next leader must navigate massive capital investments in unprofitable new ventures like semiconductors, electric vehicles, and aviation while managing delicate government relations. Finding an executive with the diverse skill set to wrangle both the commercial board and the controlling charity arm will prove exceptionally difficult.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T22:35:00+00:00"
     },
     {
       "headline": "Study Examines Transmission Risks of Amyloid-Beta Pathology in Blood Transfusions",
