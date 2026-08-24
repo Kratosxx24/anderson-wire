@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:18:39.329541+00:00",
+  "generated_at": "2026-08-24T13:19:30.592914+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -147,15 +147,6 @@
       "published": "2026-08-24T03:21:21+00:00"
     },
     {
-      "headline": "Advanced Model Simulates the 2026 NASCAR Dollar Tree 301",
-      "summary": "Betting analysts have released advanced projections and odds for the upcoming NASCAR Cup Series Dollar Tree 301 at New Hampshire. The algorithmic model provides favored picks and targeted best bets for the weekend race.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/2026-dollar-tree-301-predictions-odds-time-field-nascar-new-hampshire-picks-auto-racing-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-08-23T17:35:25+00:00"
-    },
-    {
       "headline": "Intent and Incentives Define the AI and Hacking Landscapes",
       "summary": "The distinction between white-hat and black-hat hackers boils down to intent and financial incentives rather than technical capability. This same principle applies to artificial intelligence, where powerful cybersecurity tools can be used for defense or attack based on who wields them. Restricting advanced AI development under the assumption that only select Western entities can be trusted ignores the global reality of competing capable models.",
       "category": "Tech/AI",
@@ -174,6 +165,15 @@
       "published": "2026-08-23T20:24:52+00:00"
     },
     {
+      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
+      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
+      "source": "Hacker News",
+      "published": "2026-08-23T10:02:51+00:00"
+    },
+    {
       "headline": "Weezer Ditch Gimmicks for Straightforward Rock on New Album",
       "summary": "After three decades of concept records and divisive side projects, Weezer has returned to traditional rock songwriting on their seventh self-titled album. Produced by Klas Åhlund and Kenneth Blume, the record features simultaneous live band recording and contributions from drummer Patrick Wilson. The lead single, 'Shine Again,' showcases a return to a more grounded, collaborative sound.",
       "category": "Music",
@@ -183,13 +183,13 @@
       "published": "2026-08-24T04:03:00+00:00"
     },
     {
-      "headline": "Pitchfork Revisits Paradis’s Melancholic Electro-Pop Debut",
-      "summary": "A retrospective review examines Paradis’s sole 2016 album, Recto Verso, celebrating how duo Simon Mény and Pierre Rousseau revitalized traditional French chanson with Mediterranean dance grooves. The record set itself apart from contemporary club acts by balancing sun-drenched disco energy with morning-after heartache. Pitchfork underscores how the project turned transient coastal euphoria into a distinct, lasting pop statement.",
+      "headline": "Pooh Shiesty's New Album Tests Limits of Gangsta Rap and Legal Reality",
+      "summary": "Memphis rapper Pooh Shiesty has released his studio debut, All Eyes on Shiest, while facing potential life imprisonment for allegedly strong-arming his label boss. The 16-track project doubles down on unrepentant street codes and violence, leaving listeners to wonder which lyrics might end up as evidence in court. The release relies on raw regional appeal rather than pop crossovers, serving up grim missives that blur the line between artistic persona and criminal jeopardy.",
       "category": "Music",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/paradis-recto-verso/",
+      "url": "https://pitchfork.com/reviews/albums/pooh-shiesty-all-eyes-on-shiest/",
       "source": "Pitchfork",
-      "published": "2026-08-23T04:00:00+00:00"
+      "published": "2026-08-24T04:00:00+00:00"
     },
     {
       "headline": "Slovakia Uncovers Russian Backdoor in Traffic Cameras",
@@ -264,33 +264,6 @@
       "published": "2026-08-23T21:14:57+00:00"
     },
     {
-      "headline": "CBS Sports Model Flags Early 2026 Fantasy Busts",
-      "summary": "A forecasting model that previously predicted Terry McLaurin's statistical slump is back with new bust predictions for the 2026 fantasy football season. The analysis aims to help managers avoid overvalued players based on historical performance trends.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-via-the-model-that-called-terry-mclaurins-tough-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-23T16:50:30+00:00"
-    },
-    {
-      "headline": "Michael Penix Jr. Shines in Atlanta",
-      "summary": "Quarterback Michael Penix Jr. is turning heads behind the scenes with the Atlanta Falcons after receiving full medical clearance. His strong performance sets the stage for a competitive training camp battle as the team evaluates its quarterback options.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/falcons-qb-battle-michael-penix-jr-tua-tagovailoa/",
-      "source": "CBS Sports",
-      "published": "2026-08-23T16:09:58+00:00"
-    },
-    {
-      "headline": "Qwen 3.8 27B Cracks Complex Reverse-Engineering Task in 30 Minutes",
-      "summary": "Running locally on an Nvidia Grace Blackwell workstation via SGLang, Qwen 3.8 27B successfully reverse-engineered a commercial app's license check in just 30 minutes. The open-weights model independently corrected its own errors throughout the complex procedure, highlighting major advancements in local cybersecurity reasoning.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "source": "Hacker News",
-      "published": "2026-08-23T10:02:51+00:00"
-    },
-    {
       "headline": "Achieving 5-Microsecond JIT Compilation Using AI",
       "summary": "Building a custom JIT compiler no longer requires deep assembly expertise thanks to AI assistance, which enables compilation times around 5 microseconds. In the pgrust database project, this ultra-fast compilation speed makes it practical to JIT compile every single SQL query rather than just a select few. This approach bypasses the heavy overhead of LLVM or C/C++ code generation to deliver massive runtime performance gains.",
       "category": "Tech/AI",
@@ -336,6 +309,15 @@
       "published": "2026-08-22T04:00:00+00:00"
     },
     {
+      "headline": "Pitchfork Revisits Paradis’s Melancholic Electro-Pop Debut",
+      "summary": "A retrospective review examines Paradis’s sole 2016 album, Recto Verso, celebrating how duo Simon Mény and Pierre Rousseau revitalized traditional French chanson with Mediterranean dance grooves. The record set itself apart from contemporary club acts by balancing sun-drenched disco energy with morning-after heartache. Pitchfork underscores how the project turned transient coastal euphoria into a distinct, lasting pop statement.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/paradis-recto-verso/",
+      "source": "Pitchfork",
+      "published": "2026-08-23T04:00:00+00:00"
+    },
+    {
       "headline": "US Threatens Total Financial Isolation on Iran",
       "summary": "US Treasury Secretary Scott Bessent announced an unprecedented economic offensive to sever all global financial ties with Iran as the ongoing conflict enters what he calls an endgame. In retaliation, Tehran threatened to shut down regional oil exports and block shipping through the Strait of Hormuz. The administration plans to reveal further details during an upcoming press conference.",
       "category": "World",
@@ -354,31 +336,31 @@
       "published": "2026-08-23T19:11:30+00:00"
     },
     {
-      "headline": "Xavier Becerra Faces Looming Coverage Crisis in California Governor Race",
-      "summary": "Democratic gubernatorial candidate and former HHS Secretary Xavier Becerra built his campaign largely on his legacy of expanding healthcare access through the Affordable Care Act. However, if elected, he will inherit a looming crisis as federal and state budget cuts threaten to nearly double California's uninsured population by 2030.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
-      "source": "NPR News",
-      "published": "2026-08-23T12:50:09+00:00"
-    },
-    {
-      "headline": "Pooh Shiesty's New Album Tests Limits of Gangsta Rap and Legal Reality",
-      "summary": "Memphis rapper Pooh Shiesty has released his studio debut, All Eyes on Shiest, while facing potential life imprisonment for allegedly strong-arming his label boss. The 16-track project doubles down on unrepentant street codes and violence, leaving listeners to wonder which lyrics might end up as evidence in court. The release relies on raw regional appeal rather than pop crossovers, serving up grim missives that blur the line between artistic persona and criminal jeopardy.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/pooh-shiesty-all-eyes-on-shiest/",
-      "source": "Pitchfork",
-      "published": "2026-08-24T04:00:00+00:00"
-    },
-    {
       "headline": "US-Canada Tariff Escalation Sparks Panic Among Cross-Border Businesses",
       "summary": "After trade talks collapsed, the US and Canada slapped reciprocal 50% tariffs on billions in cross-border goods, devastating local business owners. Calgary jewelry maker Cindy Baldassi estimates the levies will wipe out half her business, while Canadian manufacturers brace for a damaging trade war. The fresh duties add to existing taxes on steel, aluminum, and automobiles, leaving regional firms scrambling to survive.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-24T09:47:22.457Z"
+      "published": "2026-08-24T09:47:22+00:00"
+    },
+    {
+      "headline": "CBS Sports Drops Early 2026 Fantasy Football Model Outlook",
+      "summary": "A predictive model that previously nailed Daniel Jones' breakout campaign is back with early 2026 fantasy rankings. The preview highlights key sleepers, breakouts, and potential draft busts to watch as the upcoming season approaches.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-from-model-that-called-daniel-jones-huge-year/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-23T13:12:42Z"
+    },
+    {
+      "headline": "FreeToken Engine Brings Frontier MoE Models to Consumer Hardware",
+      "summary": "FlashML has introduced FreeToken, an edge-native serving engine that lets users run massive 290B+ parameter Mixture-of-Experts models locally on personal gaming setups. The platform utilizes semantic-aware caching and elastic memory management to bridge high-end AI capabilities with everyday hardware.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/FlashML-org/FreeToken",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-23T09:18:53Z"
     },
     {
       "headline": "Vrabel Questions Patriots Roster Depth",
@@ -432,7 +414,34 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-23T22:35:00.894Z"
+      "published": "2026-08-23T22:35:00+00:00"
+    },
+    {
+      "headline": "Klay Thompson Clears Waivers and Lands With Heat",
+      "summary": "After clearing waivers, veteran guard Klay Thompson has agreed to a two-year, $11.5 million deal with the Miami Heat. The agreement features a player option for the second season and a 15 percent trade kicker.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vwmvdf/klay_thompson_clears_waivers_agrees_to_2year_115/",
+      "source": "r/NBA",
+      "published": "2026-08-23T23:49:43+00:00"
+    },
+    {
+      "headline": "Klay Thompson Sacrifices Millions in Mavericks Buyout",
+      "summary": "Klay Thompson left roughly $9.8 million on the table during buyout negotiations to part ways with the Dallas Mavericks. The financial sacrifice allowed him to secure his release and sign with the Miami Heat following two chaotic seasons in Dallas.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.hitc.com/klay-thompson-gave-up-almost-10-million-personally-to-leave-the-mavericks-and-join-the-heat/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-23T10:00:00+01:00"
+    },
+    {
+      "headline": "Kevin Durant's Future in Houston Tied to 2027 Player Option",
+      "summary": "Kevin Durant is locked into a two-year, $90 million extension with the Houston Rockets that includes a player option for the 2027-28 season. Durant notably left around $30 million on the table to provide the franchise with greater roster flexibility.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.ibtimes.com.au/kevin-durant-contract-extension-houston-rockets-1874413",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-23T16:43:24+10:00"
     },
     {
       "headline": "Study Examines Transmission Risks of Amyloid-Beta Pathology in Blood Transfusions",
@@ -442,15 +451,6 @@
       "url": "https://doi.org/10.1016/S0140-6736(26)00767-1",
       "source": "Hacker News",
       "published": "2026-08-23T06:07:06+00:00"
-    },
-    {
-      "headline": "Linux Trick Turns SQLite Databases Into Executable Binaries",
-      "summary": "Developer Farid Zakaria has demonstrated a clever Linux technique that allows a SQLite database file to function directly as an executable binary. By setting the 4-byte application ID to spell 'SELF' and structuring the ELF components inside database tables, a custom interpreter can execute the file. Linux systems can even use the binfmt_misc mechanism to automatically recognize and run these dual-purpose files.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-      "source": "Simon Willison",
-      "published": "2026-08-24T11:38:15+00:00"
     }
   ]
 }
