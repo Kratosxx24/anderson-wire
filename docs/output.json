@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:40:21.011321+00:00",
+  "generated_at": "2026-08-24T20:13:37.119401+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -19,15 +19,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82426",
       "source": "Basketball Intelligence",
       "published": "2026-08-24T15:49:08+00:00"
-    },
-    {
-      "headline": "Heat Keep Jovic to Target Star Playmaker",
-      "summary": "The Miami Heat are positioning themselves to land a star point guard around Giannis Antetokounmpo by holding onto former first-round pick Nikola Jovic. Team insider Ira Winderman indicates Jovic is a prime trade asset as the franchise looks to make further roster moves ahead of the season.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://heavy.com/sports/nba/miami-heat/miami-heat-trade-star-pg-giannis/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-23T16:54:29Z"
     },
     {
       "headline": "Navigating the Stigma of Unhealed Chronic Illness",
@@ -84,15 +75,6 @@
       "published": "2026-08-24T18:56:29+00:00"
     },
     {
-      "headline": "ChatGPT Edges Out Claude in New AI Review",
-      "summary": "PCMag's latest comparison of leading AI chatbots crowns ChatGPT the winner due to superior underlying technology, customization options, and built-in memory. While Claude offers a clean interface and solid baseline performance, its paid plans and feature sets lag behind OpenAI's offerings.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://uk.pcmag.com/ai/159127/chatgpt-vs-claude-after-testing-both-ai-chatbots-i-have-a-clear-favorite",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-23T15:55:57Z"
-    },
-    {
       "headline": "Galaxy Z Fold 8 Review: The Reality Check",
       "summary": "MKBHD takes a critical look at Samsung's latest foldable device, breaking down how the honeymoon phase wears off with daily use. The review highlights hardware nuances, practical limitations, and whether the steep price tag still holds up against growing competition.",
       "category": "YouTube",
@@ -129,22 +111,13 @@
       "published": "2026-07-25T01:34:37+00:00"
     },
     {
-      "headline": "Fixing Delayed Attribution in Constrained Reinforcement Learning",
-      "summary": "Standard constrained reinforcement learning stumbles in real-world environments because penalties often attach to the wrong actions when consequences are delayed and stochastic. New research introduces a delay-corrected Bellman operator alongside causal attribution methods to properly prove contraction under these messy conditions. This approach ensures algorithms penalize the actual root cause of a rule violation rather than an arbitrary preceding step.",
+      "headline": "Simon Willison Drops llm-anthropic 0.27 to Support Anthropic v1.0.0",
+      "summary": "The updated Anthropic plugin for LLM brings full compatibility with the new anthropic v1.0.0 Python library. The release transitions the SDK underlying httpx over to httpx2, mirroring a similar shift made by OpenAI weeks prior.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-24T12:11:34+00:00"
-    },
-    {
-      "headline": "Haliburton Relives 2020 Draft Snub by Suns",
-      "summary": "Indiana Pacers guard Tyrese Haliburton reflected on a podcast about the Phoenix Suns passing him over in the 2020 draft to select Jalen Smith instead. The missed opportunity remains a notable sliding doors moment for the franchise's recent history.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.azcentral.com/story/sports/nba/suns/2026/08/23/phoenix-suns-tyrese-haliburton-nba-draft/91426250007/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-08-23T18:33:15Z"
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "source": "Simon Willison",
+      "published": "2026-08-24T16:27:04+00:00"
     },
     {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
@@ -165,15 +138,6 @@
       "published": "2026-08-24T17:10:44+00:00"
     },
     {
-      "headline": "Arch Manning and Dante Moore Headline 2027 QB Class",
-      "summary": "The 2027 NFL Draft features a heavily hyped group of quarterback prospects led by Arch Manning and Dante Moore. However, historical precedent suggests that immense early-career hype does not always translate to guaranteed success at the professional level.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/draft/news/2027-nfl-draft-qb-class-first-round-quarterbacks/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T14:48:40+00:00"
-    },
-    {
       "headline": "2026 Fantasy Football Draft Guides Released",
       "summary": "SportsLine experts have dropped their latest 2026 fantasy football packages, featuring comprehensive player rankings, positional tiers, and a top 150 list. The guide also highlights key rookie projections and high-risk draft picks to watch. Players can use these insights to optimize their draft strategy for the upcoming season.",
       "category": "Sports",
@@ -190,6 +154,15 @@
       "url": "https://stratechery.com/2026/autonomy-and-innovation/",
       "source": "Stratechery",
       "published": "2026-08-24T10:00:00+00:00"
+    },
+    {
+      "headline": "Linux Trick Turns a SQLite Database Into an Executable Binary",
+      "summary": "A clever Linux pattern developed by Farid Zakaria allows a SQLite database file to function directly as an executable binary. By setting the file's application ID to SELF and structuring the ELF components inside SQLite tables, the kernel can execute the file via custom binfmt_misc registration.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
+      "source": "Simon Willison",
+      "published": "2026-08-24T11:38:15+00:00"
     },
     {
       "headline": "Weezer Ditch Gimmicks for Straightforward Rock on New Album",
@@ -235,24 +208,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-simulation-that-called-devon-achanes-strong-year/",
       "source": "CBS Sports",
       "published": "2026-08-24T15:35:07+00:00"
-    },
-    {
-      "headline": "Targeting Late-Round Quarterbacks Yields Value in Superflex Mock Draft",
-      "summary": "A recent fantasy football superflex mock draft demonstrates that passing on early-round quarterbacks can pay off significantly. By waiting to draft signal-callers, managers can anchor their rosters with late-value options like Kyler Murray while stacking elite talent elsewhere.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-superflex-podcast-mock-draft-waiting-on-qb-pays-off/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T14:57:29+00:00"
-    },
-    {
-      "headline": "Linux Trick Turns a SQLite Database Into an Executable Binary",
-      "summary": "A clever Linux pattern developed by Farid Zakaria allows a SQLite database file to function directly as an executable binary. By setting the file's application ID to SELF and structuring the ELF components inside SQLite tables, the kernel can execute the file via custom binfmt_misc registration.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/",
-      "source": "Simon Willison",
-      "published": "2026-08-24T11:38:15+00:00"
     },
     {
       "headline": "Anthropic's Flagship AI Lags Behind Cheaper Alternatives",
@@ -426,31 +381,76 @@
       "published": "2026-08-23T21:21:23+00:00"
     },
     {
-      "headline": "Anthropic Makes Auto Mode Default for Claude Code",
-      "summary": "Anthropic has updated Claude Code to enable auto mode by default across Pro, Max, and Team tiers following high user approval rates. The AI agent now executes most tool calls independently while relying on internal classifiers to block risky or destructive actions.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.xda-developers.com/auto-mode-is-now-claude-codes-default-and-it-changes-how-fast-you-can-actually-build/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-08-23T18:00:16Z"
-    },
-    {
-      "headline": "Browns Pick Up Derek Barnett After Losing Alex Wright to Achilles Injury",
-      "summary": "The Cleveland Browns have signed veteran edge-rusher Derek Barnett following a season-ending Achilles tear suffered by defensive starter Alex Wright. Barnett, a former first-round pick and Super Bowl champion with 34 career sacks, joins Cleveland after spending recent seasons in a rotational role with the Houston Texans. The addition gives the Browns crucial pass-rush depth and a potential replacement to line up opposite Jared Verse.",
+      "headline": "Ashton Jeanty Avoids Major Injury as NFL Running Backs Face Uncertainty",
+      "summary": "Running back Ashton Jeanty has dodged a major health scare ahead of the upcoming season. However, uncertainty surrounding the backfield health of several other key rushers remains a lingering concern as Week 1 approaches.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://sportsnaut.com/nfl/cleveland-browns-sign-derek-barnett",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-08-23T19:00:50+00:00"
+      "url": "https://www.cbssports.com/nfl/news/latest-nfl-injury-updates/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T19:13:17+00:00"
     },
     {
-      "headline": "Navigating Industry Anxiety and AI in Tech",
-      "summary": "Tech commentator Armin Ronacher argues that while workplace anger is counterproductive, widespread anxiety surrounding the rise of AI is entirely natural. Rather than misplaced fury, tech workers and leadership alike are grappling with legitimate uncertainty regarding future skills, job stability, and market shifts.",
-      "category": "Other",
+      "headline": "Black Marble Trades Pure Synth for Guitars on Fifth Album",
+      "summary": "Chris Stewart's project Black Marble returns with a brand new album, Life in Small Spaces. Moving beyond strict retro synth worship, the record introduces prominent guitars and sharper, psychologically complex songwriting.",
+      "category": "Music",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/black-marble-life-in-small-spaces/",
+      "source": "Pitchfork",
+      "published": "2026-08-24T04:01:00+00:00"
+    },
+    {
+      "headline": "Apple Still Hasn't Fixed TestFlight's Broken Recency Sort Order",
+      "summary": "A month after Apple introduced a search bar to TestFlight version 4.3, the app stubbornly retains an alphabetical list sorting instead of tracking app recency. This default change forces users with dozens of pre-release apps to painstakingly scroll just to check for recent updates.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/apple_testflight_list_sort_order",
+      "source": "Daring Fireball",
+      "published": "2026-08-24T15:22:16+00:00"
+    },
+    {
+      "headline": "Jacob Gibbs Adjusts Sleepers and Late-Round Targets in Fantasy Drafts",
+      "summary": "Fantasy football analyst Jacob Gibbs is shaking up his draft boards by sliding select sleepers up his rankings. These strategic adjustments aim to give managers an edge by targeting high-upside players late in drafts.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-sleepers-jacob-gibbs/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T19:13:04+00:00"
+    },
+    {
+      "headline": "ESPN Annual Season Predictions Put Spurs at Number One",
+      "summary": "ESPN's latest win-loss projections for the upcoming NBA season paint a wild picture, pegging the San Antonio Spurs at the top spot. The forecast also predicts an unusually competitive Eastern Conference where ten teams manage at least 44 wins.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://old.reddit.com/r/nba/comments/1vx3ysw/todays_espn_annual_season_wl_predictions_for_all/",
+      "source": "r/NBA",
+      "published": "2026-08-24T14:11:52+00:00"
+    },
+    {
+      "headline": "Mitch Richmond Recalls Phil Jackson's Brutal Book Recommendation",
+      "summary": "Former Laker Mitch Richmond shared a hilarious anecdote regarding Phil Jackson's tradition of assigning motivational reading to players. When Richmond asked what book he was given to help accept his bench role, Jackson's reply was bluntly titled 'Sit Your Ass Over There and Never Play.'",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://old.reddit.com/r/nba/comments/1vx31hs/elhassan_i_said_mitch_phil_jackson_liked_to_give/",
+      "source": "r/NBA",
+      "published": "2026-08-24T13:36:00+00:00"
+    },
+    {
+      "headline": "Marshall Manning Launches High School Football Career in Televised Debut",
+      "summary": "The Manning football legacy continues as Marshall Manning, son of Peyton, officially kicks off his high school career. His freshman debut garnered significant media attention, airing on television as he steps into the family spotlight.",
+      "category": "NFL",
       "relevance": 3,
-      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "source": "Hacker News",
-      "published": "2026-08-24T18:37:24+00:00"
+      "url": "https://www.cbssports.com/college-football/news/marshall-manning-recruiting-peyton-manning-son-high-school-football-debut/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T19:49:40+00:00"
+    },
+    {
+      "headline": "Drew Breunig on How Fable Ended the Era of Waiting for Cheap AI",
+      "summary": "Reflecting on the arrival of Fable, Drew Breunig notes that developers can no longer rely on cheaper, newer models automatically fixing coding harness issues. Because Fable's high costs forced developers to be strategic, engineers are rethinking which models handle specific workloads instead of waiting for a cheap silver bullet.",
+      "category": "Other",
+      "relevance": 2,
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "source": "Simon Willison",
+      "published": "2026-08-23T19:55:30+00:00"
     }
   ]
 }
