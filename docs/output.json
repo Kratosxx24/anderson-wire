@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:10:30.658545+00:00",
+  "generated_at": "2026-08-24T03:28:11.467598+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -174,15 +174,6 @@
       "published": "2026-08-23T17:35:25+00:00"
     },
     {
-      "headline": "WorkOS Introduces auth.md to Let AI Agents Register for Apps",
-      "summary": "WorkOS has launched auth.md, an open protocol that allows applications to host a standardized Markdown file explaining how AI agents can register users automatically. By utilizing agent-verified or user-claimed flows, agents receive scoped OAuth access tokens without needing traditional human sign-up forms. The protocol is open-source and operates independently of WorkOS infrastructure.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://workos.com/auth-md?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-      "source": "Daring Fireball",
-      "published": "2026-08-22T14:18:29+00:00"
-    },
-    {
       "headline": "Anthropic's Flagship AI Lags Behind Cheaper Alternatives",
       "summary": "Financial disclosures reveal that Anthropic's top-tier AI models are struggling to capture significant user adoption as consumers favor cheaper options. Meanwhile, Anthropic's annualized revenue reached $65 billion in July, and competitor OpenAI topped $40 billion following the launch of GPT 5.6. Credit card billing data indicates that older and more economical Claude versions still dominate user spending.",
       "category": "Tech/AI",
@@ -190,6 +181,15 @@
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "source": "Simon Willison",
       "published": "2026-08-23T20:24:52+00:00"
+    },
+    {
+      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
+      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "source": "Simon Willison",
+      "published": "2026-08-22T17:01:16+00:00"
     },
     {
       "headline": "Pitchfork Revisits Paradis’s Melancholic Electro-Pop Debut",
@@ -208,6 +208,42 @@
       "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html?unlocked_article_code=1.7VA.r3Ue.GTc_tOhX0qSn",
       "source": "Daring Fireball",
       "published": "2026-08-22T16:47:10+00:00"
+    },
+    {
+      "headline": "Raiders' Ashton Jeanty Helped Off Field After Practice Injury",
+      "summary": "Ashton Jeanty was forced to exit a Las Vegas Raiders practice after suffering an injury on an awkward landing. Team personnel assisted him off the field, raising immediate concerns about his status. The Raiders have not yet detailed the severity of the issue or a timeline for his return.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/raiders-ashton-jeanty-injured-helped-off-practice-field/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T03:18:57+00:00"
+    },
+    {
+      "headline": "Tracking NFL Preseason Injuries",
+      "summary": "This tracker provides ongoing updates regarding training camp and preseason health issues across the league. Key players monitored include Sam LaPorta, Breece Hall, Jeremiyah Love, and Alvin Kamara. Fans can check back for the latest roster impacts and recovery timelines.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T00:53:20+00:00"
+    },
+    {
+      "headline": "Rookie Quarterback Preseason Week 2 Grades",
+      "summary": "Analysts evaluate the performances of first-year signal-callers following the second week of NFL preseason action. Fernando Mendoza struggled with a lackluster outing, while Jalon Daniels earned high marks for his play. These evaluations highlight early development trends for incoming rookie talent.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/grading-every-rookie-qb-from-nfl-preseason-week-2/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T00:50:16+00:00"
+    },
+    {
+      "headline": "2026 Fantasy Football Projections and Rankings",
+      "summary": "A specialized projection model highlights the top sleepers, breakout candidates, and potential busts for the upcoming 2026 fantasy season. The forecasting system previously gained attention for accurately predicting a massive campaign for Daniel Jones. Fantasy managers can use these data-driven insights to gain an edge in upcoming drafts.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-model-that-called-daniel-jones-huge-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T00:41:28+00:00"
     },
     {
       "headline": "Preseason Week 2 Shakes Up Fantasy Stock",
@@ -237,15 +273,6 @@
       "published": "2026-08-23T21:57:42+00:00"
     },
     {
-      "headline": "Raiders' Ashton Jeanty Helped Off Field After Practice Injury",
-      "summary": "Ashton Jeanty was forced to exit a Las Vegas Raiders practice after suffering an injury on an awkward landing. Team personnel assisted him off the field, raising immediate concerns about his status. The Raiders have not yet detailed the severity of the issue or a timeline for his return.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/raiders-ashton-jeanty-injured-helped-off-practice-field/",
-      "source": "CBS Sports",
-      "published": "2026-08-23T22:24:57+00:00"
-    },
-    {
       "headline": "CBS Sports Model Flags Early 2026 Fantasy Busts",
       "summary": "A forecasting model that previously predicted Terry McLaurin's statistical slump is back with new bust predictions for the 2026 fantasy football season. The analysis aims to help managers avoid overvalued players based on historical performance trends.",
       "category": "Sports",
@@ -262,15 +289,6 @@
       "url": "https://www.cbssports.com/nfl/news/falcons-qb-battle-michael-penix-jr-tua-tagovailoa/",
       "source": "CBS Sports",
       "published": "2026-08-23T16:09:58+00:00"
-    },
-    {
-      "headline": "Simon Willison Ships LLM 0.33 with OpenAI 3.x Upgrade and Template Stacking",
-      "summary": "The latest version of the command-line AI utility migrates to the OpenAI Python library 3.x and updates its HTTP client dependencies. Version 0.33 also introduces repeatable prompt templates to combine model settings dynamically and adds new key-handling parameters for embedding models. Additionally, the release brings support for reasoning summary options targeting responses API models.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "source": "Simon Willison",
-      "published": "2026-08-22T17:01:16+00:00"
     },
     {
       "headline": "Slovakia Uncovers Russian Backdoor in Traffic Cameras",
@@ -399,31 +417,13 @@
       "published": "2026-08-22T20:53:19+00:00"
     },
     {
-      "headline": "Tracking NFL Preseason Injuries",
-      "summary": "This tracker provides ongoing updates regarding training camp and preseason health issues across the league. Key players monitored include Sam LaPorta, Breece Hall, Jeremiyah Love, and Alvin Kamara. Fans can check back for the latest roster impacts and recovery timelines.",
+      "headline": "Monken: Watson Fan Confrontation Won't Influence QB Call",
+      "summary": "Cleveland Browns coordinator Todd Monken has clarified that Deshaun Watson's recent testy exchange with hometown fans will not factor into the team's upcoming starting quarterback decisions. Watson faced heavy boos and fired back at supporters, sparking significant local media debate. However, coaching staff evaluations remain strictly focused on performance rather than the player's friction with the stands.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/",
+      "url": "https://www.cbssports.com/nfl/news/deshaun-watson-fires-back-at-browns-fans-after-being-booed-its-a-disrespectful-thing/",
       "source": "CBS Sports",
-      "published": "2026-08-24T00:53:20+00:00"
-    },
-    {
-      "headline": "Rookie Quarterback Preseason Week 2 Grades",
-      "summary": "Analysts evaluate the performances of first-year signal-callers following the second week of NFL preseason action. Fernando Mendoza struggled with a lackluster outing, while Jalon Daniels earned high marks for his play. These evaluations highlight early development trends for incoming rookie talent.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/grading-every-rookie-qb-from-nfl-preseason-week-2/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T00:50:16+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Projections and Rankings",
-      "summary": "A specialized projection model highlights the top sleepers, breakout candidates, and potential busts for the upcoming 2026 fantasy season. The forecasting system previously gained attention for accurately predicting a massive campaign for Daniel Jones. Fantasy managers can use these data-driven insights to gain an edge in upcoming drafts.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-busts-by-model-that-called-daniel-jones-huge-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T00:41:28+00:00"
+      "published": "2026-08-23T21:14:57+00:00"
     },
     {
       "headline": "Braves vs. Brewers MLB Little League Classic Preview",
