@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:38:53.113763+00:00",
+  "generated_at": "2026-08-24T22:09:37.382266+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -120,6 +120,15 @@
       "published": "2026-07-25T01:34:37+00:00"
     },
     {
+      "headline": "Vulnerable Inference Engines Let LLMs Hijack Host GPU Servers",
+      "summary": "Flaws in inference software like vLLM create pathways for language models to execute arbitrary code on host machines simply by outputting specific token sequences. A notable vulnerability, CVE-2025-9141, exposed host environments when an XML tool parser passed raw model arguments directly into Python's eval function despite automated security warnings. Gaining control over these GPU-heavy host nodes grants attackers access to proprietary model weights and internal datacenter networks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source": "Hacker News",
+      "published": "2026-08-24T19:03:06+00:00"
+    },
+    {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
       "summary": "Los Angeles Rams defensive coordinator Chris Shula is merging Vic Fangio's coverage schemes with Wade Phillips' aggressive front principles. The defense relies on a heavy front-line pass rush, leading the league in stunt rate at nearly thirty percent while keeping secondary blitzes low. This hybrid approach allows the Rams to manufacture one-on-one matchups and effectively neutralize modern offensive packages.",
       "category": "NFL",
@@ -147,15 +156,6 @@
       "published": "2026-08-24T19:13:17+00:00"
     },
     {
-      "headline": "Browns Start Deshaun Watson Over Shedeur Sanders",
-      "summary": "The Cleveland Browns have stirred controversy by naming Deshaun Watson as their starting quarterback over Shedeur Sanders. Analysts are dissecting the rationale behind this unexpected roster choice. Additionally, experts have published their latest 2026 NFL All-Breakout team selections.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/browns-deshaun-watson-shedeur-sanders-qb-2026-nfl-all-breakout-team/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T17:10:44+00:00"
-    },
-    {
       "headline": "Jacob Gibbs Adjusts Sleepers and Late-Round Targets in Fantasy Drafts",
       "summary": "Fantasy football analyst Jacob Gibbs is shaking up his draft boards by sliding select sleepers up his rankings. These strategic adjustments aim to give managers an edge by targeting high-upside players late in drafts.",
       "category": "Sports",
@@ -172,15 +172,6 @@
       "url": "https://stratechery.com/2026/autonomy-and-innovation/",
       "source": "Stratechery",
       "published": "2026-08-24T10:00:00+00:00"
-    },
-    {
-      "headline": "Apple Still Hasn't Fixed TestFlight's Broken Recency Sort Order",
-      "summary": "A month after Apple introduced a search bar to TestFlight version 4.3, the app stubbornly retains an alphabetical list sorting instead of tracking app recency. This default change forces users with dozens of pre-release apps to painstakingly scroll just to check for recent updates.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://daringfireball.net/2026/08/apple_testflight_list_sort_order",
-      "source": "Daring Fireball",
-      "published": "2026-08-24T15:22:16+00:00"
     },
     {
       "headline": "Weezer Ditch Gimmicks for Straightforward Rock on New Album",
@@ -217,6 +208,15 @@
       "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-experts-reveal-rankings-tiers-top-150-rookies-risky-picks/",
       "source": "CBS Sports",
       "published": "2026-08-24T17:20:37+00:00"
+    },
+    {
+      "headline": "Apple Still Hasn't Fixed TestFlight's Broken Recency Sort Order",
+      "summary": "A month after Apple introduced a search bar to TestFlight version 4.3, the app stubbornly retains an alphabetical list sorting instead of tracking app recency. This default change forces users with dozens of pre-release apps to painstakingly scroll just to check for recent updates.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/08/apple_testflight_list_sort_order",
+      "source": "Daring Fireball",
+      "published": "2026-08-24T15:22:16+00:00"
     },
     {
       "headline": "Linux Trick Turns a SQLite Database Into an Executable Binary",
@@ -399,6 +399,15 @@
       "published": "2026-08-24T03:47:04+00:00"
     },
     {
+      "headline": "CBS Sports Analytics Model Highlights 2026 Fantasy Football Breakouts",
+      "summary": "CBS Sports has released its updated 2026 fantasy football breakout rankings powered by its proprietary computer projection model. The algorithmic forecast aims to duplicate its previous accuracy, which successfully pinpointed the breakout campaign of receiver Tetairoa McMillan.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-computer-model-that-nailed-tetairoa-mcmillans-huge-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T21:06:11+00:00"
+    },
+    {
       "headline": "Nvidia Expands CUDA Ecosystem to Target RISC-V Architecture",
       "summary": "Nvidia is moving to bring its dominant CUDA compute framework to RISC-V processors, bridging a major gap for GPU-accelerated machine learning. According to analysis from Hot Chips 2026, the integration requires rigorous server-grade hardware baselines, including RVA23 compliance and PCIe coherency. Overcoming initial hurdles like ACPI support clears the path for RISC-V CPUs to efficiently feed high-performance GPUs.",
       "category": "Tech/AI",
@@ -408,40 +417,31 @@
       "published": "2026-08-24T16:52:01+00:00"
     },
     {
-      "headline": "Demystifying Syslog Servers: Centralized Network Log Management",
-      "summary": "A syslog server acts as a centralized hub that collects, processes, and stores log messages from various network devices and operating systems. Operating via standard transport protocols like UDP, TCP, or TLS, these servers parse incoming data for rapid searching, alerting, and incident investigation. Key architectural components typically include a log receiver, parser, storage engine, and search engine.",
+      "headline": "Overreliance on AI Coding Assistants Threatens to Erode Developer Expertise",
+      "summary": "Heavy reliance on AI coding tools risks creating an industry-wide skills deficit by bypassing the hands-on friction needed to develop real software engineering competence. While seasoned developers leverage AI effectively due to years of pre-AI problem solving, junior engineers are pressured into using tools that prevent them from building foundational intuition. This dynamic creates a paradox where managing AI agents requires deep expertise that AI usage actively discourages learners from acquiring.",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+      "relevance": 7,
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
       "source": "Hacker News",
-      "published": "2026-07-06T01:25:04+00:00"
+      "published": "2026-07-22T00:00:00.000Z"
     },
     {
-      "headline": "Dana Brown Out as Astros GM, Owner Jim Crane Takes Over Baseball Ops",
-      "summary": "The Houston Astros have parted ways with general manager Dana Brown. Team owner Jim Crane will step in as the temporary head of baseball operations.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.cbssports.com/mlb/news/astros-dana-brown-jim-crane/",
+      "headline": "Browns Name Deshaun Watson Starter Ahead of Likely 2027 Release",
+      "summary": "The Cleveland Browns have named Deshaun Watson their starting quarterback for the 2026 NFL season despite massive financial incentives to move on soon after. Cleveland faces looming salary-cap penalties and contract realities that make cutting the veteran passer following the season the most probable outcome.",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/nfl/news/browns-deshaun-watson-contract-release-2027/",
       "source": "CBS Sports",
-      "published": "2026-08-24T20:30:34+00:00"
+      "published": "2026-08-24T20:11:42+00:00"
     },
     {
-      "headline": "Four Arrested in South Africa Over Murder of Former Boxing Champion Zolani Tete",
-      "summary": "Four suspects have been arrested in South Africa following the fatal shooting of 38-year-old former two-division world boxing champion Zolani Tete outside his home in Mdantsane. Tete, who held a Guinness World Record for the fastest knockout in a title fight, was ambushed while sitting in his car and had been training for a comeback. A female passenger was also wounded in the attack, and the suspects are scheduled to make separate court appearances facing murder, attempted murder, and weapons charges.",
-      "category": "World",
-      "relevance": 3,
-      "url": "https://www.bbc.co.uk/news/articles/cg7k9rmnzp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-24T08:32:46.094Z"
-    },
-    {
-      "headline": "Aston Villa Leaves Ollie Watkins Off Match-Day Squad Amid Transfer Speculation",
-      "summary": "Aston Villa striker Ollie Watkins was omitted from the match-day squad against Brighton, sparking heavy speculation over his future at the club. Pundits on Match of the Day suggest his absence signals a desire to leave, with links pointing toward a potential move to Al Hilal.",
+      "headline": "Manchester City Agree £34.2M Deal for Palmeiras Winger Allan Elias",
+      "summary": "Manchester City have agreed to sign 22-year-old Brazilian winger Allan Elias from Palmeiras for a £32 million base fee plus £2.2 million in potential add-ons. The attacker arrives as a direct replacement for Savinho, who is headed to Tottenham as part of an active transfer window that could also see Omar Marmoush and Nico Gonzalez leave the Etihad. Elias is scheduled to undergo a medical examination in the coming days to finalize the transfer.",
       "category": "Sports",
-      "relevance": 3,
-      "url": "https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&at_campaign=rss",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpveylz0n8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-08-23T22:39:24+00:00"
+      "published": "2026-08-24T19:27:47.083Z"
     },
     {
       "headline": "Drew Breunig on How Fable Ended the Era of Waiting for Cheap AI",
