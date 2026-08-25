@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T11:38:19.388336+00:00",
+  "generated_at": "2026-08-25T12:05:51.293623+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -66,15 +66,6 @@
       "published": "2026-08-24T16:27:04+00:00"
     },
     {
-      "headline": "Vulnerable Inference Engines Let LLMs Hijack Host GPU Servers",
-      "summary": "Flaws in inference software like vLLM create pathways for language models to execute arbitrary code on host machines simply by outputting specific token sequences. A notable vulnerability, CVE-2025-9141, exposed host environments when an XML tool parser passed raw model arguments directly into Python's eval function despite automated security warnings. Gaining control over these GPU-heavy host nodes grants attackers access to proprietary model weights and internal datacenter networks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "Hacker News",
-      "published": "2026-08-24T19:03:06+00:00"
-    },
-    {
       "headline": "US Drops Syria From State Sponsor of Terrorism List",
       "summary": "The United States has removed Syria from its list of state sponsors of terrorism after 47 years, clearing a major hurdle for private sector investment. Secretary of State Marco Rubio cited the Syrian government's efforts to distance itself from international terrorism under transitional president Ahmed al-Sharaa. The policy shift aims to integrate Syria back into the global economy and pull it away from Russian and Chinese influence.",
       "category": "World",
@@ -118,6 +109,15 @@
       "url": "https://www.youtube.com/shorts/tCGBoTY8sq4",
       "source": "The Studio (MKBHD)",
       "published": "2026-07-25T01:34:37+00:00"
+    },
+    {
+      "headline": "Fixing Attribution Errors in Delayed Reinforcement Learning",
+      "summary": "Standard constrained reinforcement learning models struggle when consequences are stochastic and delayed, often misattributing penalties to the wrong actions. This research introduces a delay-corrected Bellman operator and causal attribution framework to ensure accurate credit assignment in complex, real-world environments.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-24T12:11:34+00:00"
     },
     {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
@@ -387,7 +387,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-25T09:08:13+00:00"
+      "published": "2026-08-25T11:54:03+00:00"
     },
     {
       "headline": "Israel Vows Harsh Response Over Gaza Kites",
@@ -408,22 +408,31 @@
       "published": "2026-08-24T10:40:22+00:00"
     },
     {
-      "headline": "World's First Quantum Battery Prototype Defies Physics by Charging Faster When Larger",
-      "summary": "Australian researchers have unveiled a working quantum battery prototype that flips conventional charging logic on its head. By leveraging quantum mechanics, these devices charge faster as their size increases rather than taking longer. The breakthrough could eventually revolutionize power storage for applications ranging from quantum computing to consumer electronics.",
-      "category": "Tech/AI",
+      "headline": "Miami Heat Roster Decisions Loom After Klay Thompson Signing",
+      "summary": "Following the acquisition of Klay Thompson, the Miami Heat currently hold 13 standard contracts and must decide whether to fill one or two remaining roster spots. Nick Richards remains a top target for the frontcourt, while former Heat players Gabe Vincent and Keshad Johnson are also under consideration.",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "source": "Hacker News",
-      "published": "2026-08-25T10:00:00.000Z"
+      "url": "https://old.reddit.com/r/nba/comments/1vxo8l4/stein_the_heat_must_decide_whether_they_want_to/",
+      "source": "r/NBA",
+      "published": "2026-08-25T03:15:04+00:00"
     },
     {
-      "headline": "Nate Sib Stumbles on Derivative Debut Album Reborn",
-      "summary": "Twenty-two-year-old singer Nate Sib attempts to position himself as a tortured pop idol on his debut full-length, Reborn. Inspired by Justin Bieber's Purpose, the album blends club-ready pop and angelic vocal runs, but ultimately falls short due to formulaic lyrics and uninspired mall-pop production.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/nate-sib-reborn/",
-      "source": "Pitchfork",
-      "published": "2026-08-25T04:01:00+00:00"
+      "headline": "Reviewer Frustration Over AAAI 2027 Submissions Lacking Code",
+      "summary": "A reviewer for AAAI 2027 is considering rejecting four papers that make empirical claims but fail to provide the required code or data. The reviewer argues that promising to release materials only after acceptance violates the conference's submission guidelines.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://old.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
+      "source": "r/MachineLearning",
+      "published": "2026-08-25T06:34:35+00:00"
+    },
+    {
+      "headline": "China Vows Retaliation as US Expands Iran Sanctions",
+      "summary": "US Treasury Secretary Scott Bessent has announced a major financial offensive against Iran, threatening to isolate any nation that continues to partner with the regime. China, the largest buyer of Iranian oil, condemned the move as illegal and warned it will take necessary measures to protect its economic interests.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-25T10:56:03.964Z"
     },
     {
       "headline": "Kawhi Leonard's Instagram Video Highlights Cleared Cap Circumvention Case",
@@ -435,22 +444,13 @@
       "published": "2026-08-25T06:46:31+00:00"
     },
     {
-      "headline": "Jonathan Kuminga Hits Free Agency After Hawks Decline Team Option",
-      "summary": "The Atlanta Hawks declined Jonathan Kuminga's $24.3 million team option on June 29, 2026, leaving the forward as an unsigned unrestricted free agent. The move has sparked criticism of his representation given the difficult market dynamics compared to restricted free agents. Analysts are now eyeing potential landing spots as teams look for roster reinforcements.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vxkalz/atlanta_hawks_declined_jonathan_kumingas_243/",
-      "source": "r/NBA",
-      "published": "2026-08-25T00:17:37+00:00"
-    },
-    {
-      "headline": "Y Combinator Argues Universities Should Focus on Deep Technical Skills for Founders",
-      "summary": "Y Combinator partners argue that universities do not need dedicated entrepreneurship curricula to prepare successful startup founders. Instead, schools should focus on teaching rigorous technical subjects like computer science, engineering, and molecular biology where students learn how to build great products.",
+      "headline": "PrizePicks Betting Platform Overview",
+      "summary": "This article provides a promotional overview of the PrizePicks fantasy sports platform. It highlights a current sign-up offer where users can receive $50 in bonus credit after placing an initial $5 wager.",
       "category": "Other",
-      "relevance": 5,
-      "url": "https://paulgraham.com/prepare.html",
-      "source": "Hacker News",
-      "published": "2026-08-25T01:40:39+00:00"
+      "relevance": 1,
+      "url": "https://www.cbssports.com/betting/news/prizepicks/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T21:32:55+00:00"
     }
   ]
 }
