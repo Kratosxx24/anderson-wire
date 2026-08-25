@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:19:39.770307+00:00",
+  "generated_at": "2026-08-25T19:04:59.074206+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -64,6 +64,15 @@
       "url": "https://www.youtube.com/watch?v=mfmdXPT7nAM",
       "source": "MKBHD",
       "published": "2026-08-21T18:53:07+00:00"
+    },
+    {
+      "headline": "CBS Sports Drops 2026 Fantasy Football Bust Predictions",
+      "summary": "CBS Sports has released its 2026 fantasy football rankings and risk assessments, leveraging the same analytical model that successfully flagged Terry McLaurin's difficult prior season. The site's navigation menu directs players toward tools for building franchises and managing teams ahead of the new season. The analysis aims to help managers avoid high-profile draft pitfalls.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-and-riskiest-picks-by-model-that-called-terry-mclaurins-tough-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-25T18:12:33+00:00"
     },
     {
       "headline": "2026 Fantasy Football Draft Prep and Model Rankings",
@@ -154,33 +163,6 @@
       "url": "https://www.youtube.com/shorts/tCGBoTY8sq4",
       "source": "The Studio (MKBHD)",
       "published": "2026-07-25T01:34:37+00:00"
-    },
-    {
-      "headline": "Jonathan Kuminga Hits Free Agency Unsigned After Hawks Decline Option",
-      "summary": "The Atlanta Hawks declined Jonathan Kuminga's $24.3 million team option, leaving the forward as an unrestricted free agent. With restricted free agents like Mathurin and Duren already complicating the market, observers are questioning why Kuminga's camp has not yet secured a deal. Portland is facing pressure to pursue him following an injury to Sharpe.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vxkalz/atlanta_hawks_declined_jonathan_kumingas_243/",
-      "source": "r/NBA",
-      "published": "2026-08-25T00:17:37+00:00"
-    },
-    {
-      "headline": "CBS Sports Drops 2026 Fantasy Football Bust Predictions",
-      "summary": "CBS Sports has released its 2026 fantasy football rankings and risk assessments, leveraging the same analytical model that successfully flagged Terry McLaurin's difficult prior season. The site's navigation menu directs players toward tools for building franchises and managing teams ahead of the new season. The analysis aims to help managers avoid high-profile draft pitfalls.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-and-riskiest-picks-by-model-that-called-terry-mclaurins-tough-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-25T18:12:33+00:00"
-    },
-    {
-      "headline": "GenOS Tests Show YAML Genomes Fix LLM Swarm Latency",
-      "summary": "A developer tested GenOS, an environment utilizing versioned YAML genomes rather than bulky prompts to drive LLM agents. By mutating traits like risk tolerance and breeding specialized agents, the system successfully bypassed RAG context limits and multi-agent latency. This approach introduces emergent test-driven development capabilities to agent workflows.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/artificial/comments/1vy43mo/i_tested_my_genos_for_llm_agents_it_fixed_prompt/",
-      "source": "r/Artificial",
-      "published": "2026-08-25T16:06:47+00:00"
     },
     {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
@@ -300,15 +282,6 @@
       "published": "2026-08-24T11:38:15+00:00"
     },
     {
-      "headline": "Why Periodic MySQL Syncs Fail and How Binary Log CDC Fixes Them",
-      "summary": "Traditional scheduled SELECT queries miss intermediate row updates and hard deletes while choking production databases with heavy table scans. Switching to a binary log Change Data Capture pipeline captures every insert, update, and delete directly in order. Proper implementation requires specific MySQL configurations like ROW format and full row images to prevent silent data drift.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
-      "source": "Hacker News",
-      "published": "2026-08-25T14:18:29+00:00"
-    },
-    {
       "headline": "Critiquing Therapy Culture in the Church",
       "summary": "Matthew Loftus's new book, Resisting Therapy Culture, is reviewed in light of how modern psychological frameworks intersect with Christian belief and practice. The piece explores the boundaries between spiritual pastoral care and secular therapeutic mindsets.",
       "category": "Faith",
@@ -417,31 +390,58 @@
       "published": "2026-08-25T15:20:18+00:00"
     },
     {
-      "headline": "Uber Slapped With Massive GDPR Fine Over Automated Suspensions",
-      "summary": "Uber is facing a near-$1 billion GDPR penalty following regulatory scrutiny over its algorithmic systems. The massive fine stems from the platform suspending drivers without adequate human review or intervention. The enforcement highlights growing regulatory crackdowns on automated decision-making in the gig economy.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vxv8pl/uber_hit_with_a_near1b_gdpr_fine_after_algorithms/",
-      "source": "r/Artificial",
-      "published": "2026-08-25T09:48:25+00:00"
-    },
-    {
-      "headline": "Andrew Yang Warns US Lacks Infrastructure for AI-Driven Displacement",
-      "summary": "Andrew Yang is sounding the alarm that artificial intelligence is poised to displace millions of American workers. He argues that the United States is historically terrible at retraining workforces, pointing out that displaced coal miners cannot simply become software coders. The warning underscores an impending labor crisis driven by rapid automation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/artificial/comments/1vxn7xr/andrew_yang_warns_that_ai_is_set_to_displace/",
-      "source": "r/Artificial",
-      "published": "2026-08-25T02:27:23+00:00"
-    },
-    {
-      "headline": "LeBron James Secured $300 Million Insurer Loan Before Lakers Signing",
-      "summary": "Before signing his $154 million contract with the Los Angeles Lakers in 2018, LeBron James orchestrated an even larger financial move. A limited liability company controlled by the basketball star borrowed nearly $300 million from two Midwestern life insurers. The complex financial arrangement was facilitated through Guggenheim.",
+      "headline": "Lakers Rebuild Roster Around Luka Doncic Following LeBron James' Departure",
+      "summary": "Following LeBron James' departure to the Philadelphia 76ers, the Los Angeles Lakers entered the 2026-27 season pivoting toward a roster tailored specifically for Luka Doncic and Austin Reaves. Rather than securing a direct star replacement, the front office prioritized size and defense by trading for center Walker Kessler and adding guards Quentin Grimes and Sandro Mamukelashvili. This strategic overhaul departs from past veteran-heavy lineups in favor of long-term roster coherence and defined player roles.",
       "category": "NBA",
-      "relevance": 6,
-      "url": "https://old.reddit.com/r/nba/comments/1vy23b2/lebron_james_borrowed_300_million_from_insurers/",
-      "source": "r/NBA",
-      "published": "2026-08-25T14:53:38+00:00"
+      "relevance": 8,
+      "url": "https://www.ibtimes.com.au/lakers-new-era-luka-doncic-takes-helm-1874485",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-25T01:17:36+10:00"
+    },
+    {
+      "headline": "No. 2 Texas Volleyball Edges Marquette in Five-Set Thriller",
+      "summary": "No. 2 Texas rebounded from an opening-set loss to defeat Marquette 3-2 in the finale of the AVCA First Serve showcase in Milwaukee. Torrey Stafford led the Longhorns with 19 kills and 12 digs, while teammate Cari Spears added 17 kills and four service aces. Texas steadily improved its hitting percentage throughout the match, culminating in a dominant 15-8 victory in the deciding fifth set.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/no-2-texas-rallies-past-marquette-in-five-sets-to-close/?utm_source=rss&utm_medium=rss&utm_campaign=no-2-texas-rallies-past-marquette-in-five-sets-to-close",
+      "source": "Volleyball Mag",
+      "published": "2026-08-25T18:28:13+00:00"
+    },
+    {
+      "headline": "Security Researchers Warn Malicious LLMs Could Exploit Inference Engines to Control Host Machines",
+      "summary": "AI safety analysts are raising alarms over vulnerabilities in software inference engines like vLLM and SGLang that load and run large language models on GPUs. Because these engines parse tokens into system responses, a malicious model could potentially emit crafted token sequences that trick the host into executing arbitrary code. Past incidents, including a critical arbitrary-code execution flaw in vLLM's tool parser, highlight the ongoing risk of frontier AI gaining unauthorized access to underlying server infrastructure.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-24T19:03:06Z"
+    },
+    {
+      "headline": "Lakers Roster Decisions Take Center Stage Amid Offseason Moves",
+      "summary": "The Los Angeles Lakers face critical roster management choices regarding key team assets as they navigate the post-LeBron era alongside developing talents like Dalton Knecht and Bronny James. Front office decisions continue to prioritize structural flexibility and defensive depth over retaining high-salary role players. These roster maneuvers highlight the franchise's strict focus on supporting its core young pieces moving forward.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/lakers-expected-not-waive-48m-defensive-menace-over-bronny-james-dalton-knecht-jaden-hardy/b05d6bb70e70c20937006199",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-24T17:12:09+00:00"
+    },
+    {
+      "headline": "Joe Milton Pushes Sam Howell in Cowboys Backup Quarterback Battle",
+      "summary": "Joe Milton is making a strong push against Sam Howell for the Dallas Cowboys' backup quarterback job, showcasing a powerful skill set beyond just a big arm. While Milton continues to impress in training camp, the team's QB2 race remains entirely unsettled heading deeper into the preseason. Both signal-callers are vying to secure reliable depth behind the starter.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/cowboys-backup-qb-joe-milton-sam-howell/",
+      "source": "CBS Sports",
+      "published": "2026-08-25T18:05:58+00:00"
+    },
+    {
+      "headline": "Canada Imposes Retaliatory Tariffs Up to 50% on US Goods",
+      "summary": "In direct retaliation to the Trump administration's recent levies, Canada announced counter-tariffs as high as 50% on roughly C$28 billion worth of American imports, ranging from steel to fresh produce. The measures, set to take effect on September 8, follow the sudden collapse of bilateral trade negotiations last week. Additionally, Ottawa is rolling out a C$7.5 billion support package to help domestic businesses and workers weather the escalating trade conflict.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-25T17:54:03.996Z"
     },
     {
       "headline": "Physicists Argue Black Hole Singularities Are Surfaces, Not Points",
