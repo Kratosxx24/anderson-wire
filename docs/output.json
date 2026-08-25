@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T00:03:39.163014+00:00",
+  "generated_at": "2026-08-25T01:48:27.809103+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -100,6 +100,15 @@
       "url": "https://www.youtube.com/watch?v=o4SSoURPODY",
       "source": "MKBHD",
       "published": "2026-08-12T14:00:35+00:00"
+    },
+    {
+      "headline": "Ellis Explain This",
+      "summary": "",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/AAOQUkA27Q0",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-08-21T13:52:19+00:00"
     },
     {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
@@ -210,6 +219,15 @@
       "published": "2026-08-24T19:13:04+00:00"
     },
     {
+      "headline": "Apple Splits Sign In With Apple and Hide My Email Domains",
+      "summary": "Apple is reversing plans to merge its Hide My Email service into the Sign in With Apple domain, keeping iCloud+ addresses on icloud.com following community feedback. Meanwhile, new Sign in With Apple addresses will transition from privaterelay.appleid.com to private.icloud.com later this year, though existing addresses remain fully functional. Developers must update their systems and allowlists to accept the new private.icloud.com domain alongside legacy addresses.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "source": "Daring Fireball",
+      "published": "2026-08-24T23:33:50+00:00"
+    },
+    {
       "headline": "Gruber: The DMA's Real Purpose Is Pure Bureaucracy",
       "summary": "While the European Commission claims its Digital Markets Act successfully fosters app competition and choice following recent changes from Apple, tech commentator John Gruber argues otherwise. He contends that the law's true objective was never about noble market ideals, but rather establishing unnecessary regulatory friction and collecting massive corporate fines.",
       "category": "Tech/AI",
@@ -244,6 +262,15 @@
       "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
       "source": "Simon Willison",
       "published": "2026-08-23T20:24:52+00:00"
+    },
+    {
+      "headline": "Nvidia Outlines Strict Requirements to Bring CUDA to RISC-V",
+      "summary": "Nvidia is expanding its dominant CUDA software framework to support RISC-V architectures, targeting high-performance server hardware. The chipmaker is demanding strict adherence to server specifications, including RVA23 CPUs, ACPI support, and PCIe cache coherency to avoid inefficient code. By enforcing these rigorous hardware baselines, Nvidia aims to seamlessly pair RISC-V CPUs with powerful GPU compute and machine learning workloads.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "source": "Hacker News",
+      "published": "2026-08-24T16:52:01+00:00"
     },
     {
       "headline": "Can AI Promote Truth and the Common Good?",
@@ -327,15 +354,6 @@
       "published": "2026-08-24T17:29:59+00:00"
     },
     {
-      "headline": "Ukrainian Drones Strike Russian Retailer Ozon",
-      "summary": "Overnight Ukrainian drone strikes targeted multiple logistics facilities belonging to Ozon, Russia's second-largest online retailer, sparking massive fires and injuring several workers. The attacks caused Ozon and parent company shares to plummet on the Moscow Exchange amidst escalating economic infrastructure strikes.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-24T10:40:22+00:00"
-    },
-    {
       "headline": "Israel Vows Harsh Response Over Gaza Kites",
       "summary": "Israeli Defense Minister Israel Katz warned of a forceful, zero-tolerance military response following the launch of unexploded kites and drones from Gaza. While Hamas claimed the items were children's toys, Israeli border communities and officials expressed severe security concerns.",
       "category": "World",
@@ -343,6 +361,15 @@
       "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-24T13:56:22+00:00"
+    },
+    {
+      "headline": "Ukrainian Drones Strike Russian Retailer Ozon",
+      "summary": "Overnight Ukrainian drone strikes targeted multiple logistics facilities belonging to Ozon, Russia's second-largest online retailer, sparking massive fires and injuring several workers. The attacks caused Ozon and parent company shares to plummet on the Moscow Exchange amidst escalating economic infrastructure strikes.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-24T10:40:22+00:00"
     },
     {
       "headline": "Zambian Courts Sealed Ahead of Election Challenge Deadline",
@@ -361,15 +388,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-08-24T11:26:19+00:00"
-    },
-    {
-      "headline": "Canada Vows Dollar-For-Dollar Tariffs After Trade Talks Collapse",
-      "summary": "Prime Minister Mark Carney slammed fresh US trade levies as a divisive miscalculation after negotiations broke down over unreasonable demands. Consequently, Canada plans to match the American penalties dollar-for-dollar starting September 8, targeting key sectors like steel and electronics. Washington had pushed for a 50% tariff on Canadian goods following mutual accusations of last-minute changes.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T19:11:30+00:00"
     },
     {
       "headline": "Inside the Taliban's Afghanistan: Control, Smart Phones, and Courts",
@@ -408,40 +426,22 @@
       "published": "2026-08-24T12:26:00+00:00"
     },
     {
-      "headline": "US Targets Iran With New Economic Measures as Canada Plans Retaliatory Tariffs",
-      "summary": "Treasury Secretary Scott Bessent is rolling out fresh economic pressure intended to push Iran back to the negotiating table, prompting threats of a severe regional response from Iranian security chief Mohsen Rezaei. Meanwhile, Canada is moving forward with retaliatory tariffs against the United States amidst escalating trade tensions. The developments mark a volatile convergence of foreign policy and economic confrontation.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-      "source": "NPR News",
-      "published": "2026-08-24T11:27:44+00:00"
+      "headline": "Kobe Leads NBA Buzzer-Beater Record",
+      "summary": "Kobe Bryant holds the NBA record for the most game-winning buzzer-beaters while his team was trailing, sinking six such shots throughout his career. Vince Carter follows closely with five, while legends like Larry Bird, Michael Jordan, and LeBron James each logged four.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://old.reddit.com/r/nba/comments/1vxarco/throughout_his_career_kobe_bryant_made_six/",
+      "source": "r/NBA",
+      "published": "2026-08-24T18:17:02+00:00"
     },
     {
-      "headline": "Apple Splits Sign In With Apple and Hide My Email Domains",
-      "summary": "Apple is reversing plans to merge its Hide My Email service into the Sign in With Apple domain, keeping iCloud+ addresses on icloud.com following community feedback. Meanwhile, new Sign in With Apple addresses will transition from privaterelay.appleid.com to private.icloud.com later this year, though existing addresses remain fully functional. Developers must update their systems and allowlists to accept the new private.icloud.com domain alongside legacy addresses.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "source": "Daring Fireball",
-      "published": "2026-08-24T23:33:50+00:00"
-    },
-    {
-      "headline": "Nvidia Outlines Strict Requirements to Bring CUDA to RISC-V",
-      "summary": "Nvidia is expanding its dominant CUDA software framework to support RISC-V architectures, targeting high-performance server hardware. The chipmaker is demanding strict adherence to server specifications, including RVA23 CPUs, ACPI support, and PCIe cache coherency to avoid inefficient code. By enforcing these rigorous hardware baselines, Nvidia aims to seamlessly pair RISC-V CPUs with powerful GPU compute and machine learning workloads.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "source": "Hacker News",
-      "published": "2026-08-24T16:49:25+00:00"
-    },
-    {
-      "headline": "Tata Sons Searches for New Chief Amid Rifts and Massive Capital Bets",
-      "summary": "The sudden resignation of Tata Sons chairman N Chandrasekaran has triggered a high-stakes search for a successor to lead the $300 billion conglomerate. The next boss must navigate fierce governance disputes over public listing plans while managing massive cash burn across aggressive new ventures in semiconductors, aviation, and EVs. Finding an executive capable of balancing these multi-billion-dollar expansions with foundational cash cows like TCS presents a formidable challenge.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c20drryz7nvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-23T22:35:00.894Z"
+      "headline": "How the Hornets Pioneered 90s NBA Style",
+      "summary": "When the Charlotte Hornets joined the league as an expansion franchise in 1988, they made history by hiring fashion designer Alexander Julian to craft their uniforms. Julian introduced his signature teal shade, which quickly ignited a defining color trend across sports throughout the 1990s.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://old.reddit.com/r/nba/comments/1vxie6d/when_introduced_as_an_expansion_team_in_1988_the/",
+      "source": "r/NBA",
+      "published": "2026-08-24T22:58:29+00:00"
     },
     {
       "headline": "Navigating Anxiety Over AI in the Tech Industry",
