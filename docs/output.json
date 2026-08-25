@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:05:51.293623+00:00",
+  "generated_at": "2026-08-25T13:07:14.261718+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -111,13 +111,31 @@
       "published": "2026-07-25T01:34:37+00:00"
     },
     {
-      "headline": "Fixing Attribution Errors in Delayed Reinforcement Learning",
-      "summary": "Standard constrained reinforcement learning models struggle when consequences are stochastic and delayed, often misattributing penalties to the wrong actions. This research introduces a delay-corrected Bellman operator and causal attribution framework to ensure accurate credit assignment in complex, real-world environments.",
-      "category": "Tech/AI",
+      "headline": "Wemby vs. Jokić: The 2026 Fantasy Basketball Draft Dilemma",
+      "summary": "Fantasy managers are weighing whether to take Victor Wembanyama or Nikola Jokić with the first overall pick in 2026 mock drafts. The debate centers on balancing elite statistical output across nine categories to secure the top spot.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vx11hz/delaycorrected_bellman_operator_causal/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-24T12:11:34+00:00"
+      "url": "https://www.nbcsports.com/fantasy/basketball/news/12-team-9-cat-mock-draft-wemby-or-nikola-jokic-for-first-overall-pick",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-24T13:00:00"
+    },
+    {
+      "headline": "2026 NFL Draft: Grading the Preseason Top 25",
+      "summary": "This review evaluates how the initial top 25 prospects for the 2026 NFL Draft performed throughout the preseason. The analysis serves as a final check-in before the upcoming 2027 rankings are revealed.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/nfl/draft/news/2026-nfl-draft-rankings-revisited-ahead-of-the-2027-ranking-reveal-heres-how-my-preseason-top-25-fared/",
+      "source": "CBS Sports",
+      "published": "2026-08-25T12:06:51+00:00"
+    },
+    {
+      "headline": "Predicting 2026 Fantasy Football Sleepers and Busts",
+      "summary": "A predictive model that successfully identified Daniel Jones' breakout season is now forecasting the landscape for 2026. The rankings highlight potential sleepers and busts to help fantasy owners navigate the upcoming year.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-and-busts-by-model-that-called-daniel-jones-huge-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-25T12:05:22+00:00"
     },
     {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
@@ -147,33 +165,6 @@
       "published": "2026-08-24T20:11:42+00:00"
     },
     {
-      "headline": "Texans Land Wide Receiver Kayshon Boutte in Trade with Patriots",
-      "summary": "CBS Sports grades a notable NFL trade sending receiver Kayshon Boutte to the Houston Texans. Analysts view the move as a major win for Houston, addressing a critical roster weakness at a bargain. Meanwhile, the Patriots part ways with the young playmaker as they retool their offensive weapons.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/kayshon-boutte-trade-patriots-texans-for-jaylen-reed/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T20:42:48+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Rankings Examine Computer-Predicted Busts",
-      "summary": "CBS Sports analyzes upcoming 2026 fantasy football player rankings by highlighting computerized predictions for major season busts. The review looks back at past algorithmic calls, such as identifying Terry McLaurin's challenging season, to evaluate future draft risks. Analysts use these projections to help managers avoid overrated players in upcoming fantasy drafts.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-computer-that-called-terry-mclaurins-tough-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T23:50:35+00:00"
-    },
-    {
-      "headline": "CBS Sports Analytics Model Highlights 2026 Fantasy Football Breakouts",
-      "summary": "CBS Sports has released its updated 2026 fantasy football breakout rankings powered by its proprietary computer projection model. The algorithmic forecast aims to duplicate its previous accuracy, which successfully pinpointed the breakout campaign of receiver Tetairoa McMillan.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-by-computer-model-that-nailed-tetairoa-mcmillans-huge-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T21:06:11+00:00"
-    },
-    {
       "headline": "Chelsea Soars in Early Premier League Power Rankings",
       "summary": "Chelsea has secured a strong position in the latest Premier League power rankings following an impressive start under new manager Xabi Alonso. Meanwhile, traditional giants like Manchester United and Tottenham Hotspur find themselves struggling at the opposite end of the spectrum.",
       "category": "Sports",
@@ -183,6 +174,15 @@
       "published": "2026-08-24T21:05:13+00:00"
     },
     {
+      "headline": "CBS Sports Releases Predictions for Rays-Tigers Matchup",
+      "summary": "Sports analysts have published their betting odds and model predictions for the upcoming MLB game between the Tampa Bay Rays and the Detroit Tigers. The preview outlines current lines and expected outcomes for Monday's matchup. Fans and bettors can use these insights to evaluate wagering opportunities.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/rays-tigers-prediction-odds-line-start-time-2026-mlb-picks-for-monday-august-24-2026/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T20:00:49+00:00"
+    },
+    {
       "headline": "Netflix Considers Retail Pivot to Selling Rival Streaming Services",
       "summary": "Analyst Ben Thompson explores Netflix's potential shift toward acting as an aggregator by offering rival streaming platforms. While this move makes business sense, it marks a tactical retreat from the company's original goal of standing entirely on its own original content.",
       "category": "Tech/AI",
@@ -190,6 +190,15 @@
       "url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
       "source": "Stratechery",
       "published": "2026-08-25T10:00:00+00:00"
+    },
+    {
+      "headline": "Intent and Incentives Define the AI and Hacking Landscapes",
+      "summary": "The distinction between white-hat and black-hat hackers boils down to intent and financial incentives rather than technical capability. This same principle applies to artificial intelligence, where powerful cybersecurity tools can be used for defense or attack based on who wields them. Restricting advanced AI development under the assumption that only select Western entities can be trusted ignores the global reality of competing capable models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/autonomy-and-innovation/",
+      "source": "Stratechery",
+      "published": "2026-08-24T10:00:00+00:00"
     },
     {
       "headline": "Lambchop strips down for Punching the Clown",
@@ -210,13 +219,13 @@
       "published": "2026-08-25T04:02:00+00:00"
     },
     {
-      "headline": "CBS Sports Releases Predictions for Rays-Tigers Matchup",
-      "summary": "Sports analysts have published their betting odds and model predictions for the upcoming MLB game between the Tampa Bay Rays and the Detroit Tigers. The preview outlines current lines and expected outcomes for Monday's matchup. Fans and bettors can use these insights to evaluate wagering opportunities.",
-      "category": "Sports",
+      "headline": "Texans Land Wide Receiver Kayshon Boutte in Trade with Patriots",
+      "summary": "CBS Sports grades a notable NFL trade sending receiver Kayshon Boutte to the Houston Texans. Analysts view the move as a major win for Houston, addressing a critical roster weakness at a bargain. Meanwhile, the Patriots part ways with the young playmaker as they retool their offensive weapons.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/rays-tigers-prediction-odds-line-start-time-2026-mlb-picks-for-monday-august-24-2026/",
+      "url": "https://www.cbssports.com/nfl/news/kayshon-boutte-trade-patriots-texans-for-jaylen-reed/",
       "source": "CBS Sports",
-      "published": "2026-08-24T20:00:49+00:00"
+      "published": "2026-08-24T20:42:48+00:00"
     },
     {
       "headline": "Ashton Jeanty Avoids Major Injury as NFL Running Backs Face Uncertainty",
@@ -235,15 +244,6 @@
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-sleepers-jacob-gibbs/",
       "source": "CBS Sports",
       "published": "2026-08-24T19:13:04+00:00"
-    },
-    {
-      "headline": "Intent and Incentives Define the AI and Hacking Landscapes",
-      "summary": "The distinction between white-hat and black-hat hackers boils down to intent and financial incentives rather than technical capability. This same principle applies to artificial intelligence, where powerful cybersecurity tools can be used for defense or attack based on who wields them. Restricting advanced AI development under the assumption that only select Western entities can be trusted ignores the global reality of competing capable models.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/autonomy-and-innovation/",
-      "source": "Stratechery",
-      "published": "2026-08-24T10:00:00+00:00"
     },
     {
       "headline": "Apple Splits Sign In With Apple and Hide My Email Domains",
@@ -381,6 +381,15 @@
       "published": "2026-08-24T16:07:06+00:00"
     },
     {
+      "headline": "China Vows Retaliation as US Expands Iran Sanctions",
+      "summary": "US Treasury Secretary Scott Bessent has announced a major financial offensive against Iran, threatening to isolate any nation that continues to partner with the regime. China, the largest buyer of Iranian oil, condemned the move as illegal and warned it will take necessary measures to protect its economic interests.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-25T11:53:36+00:00"
+    },
+    {
       "headline": "Lockerbie Bombing Trial Delayed Again Due to Late Evidence Discovery",
       "summary": "The Washington DC trial of Abu Agila Mohammad Kheir Al-Marimi has been postponed for a third time after US prosecutors and defense lawyers uncovered new evidence days before jury selection. Al-Marimi denies building the bomb that brought down Pan Am Flight 103 in 1988, killing 270 people. The delay pushes a potential verdict into next spring, frustrating victims' families in the nearly four-decade-old legal saga.",
       "category": "World",
@@ -408,49 +417,40 @@
       "published": "2026-08-24T10:40:22+00:00"
     },
     {
-      "headline": "Miami Heat Roster Decisions Loom After Klay Thompson Signing",
-      "summary": "Following the acquisition of Klay Thompson, the Miami Heat currently hold 13 standard contracts and must decide whether to fill one or two remaining roster spots. Nick Richards remains a top target for the frontcourt, while former Heat players Gabe Vincent and Keshad Johnson are also under consideration.",
+      "headline": "Klay Thompson Could Be the Missing Piece for Miami",
+      "summary": "Adding Klay Thompson’s perimeter shooting is viewed as a critical upgrade for the Miami Heat. His floor-spacing ability would complement the existing core of Giannis Antetokounmpo and Bam Adebayo.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vxo8l4/stein_the_heat_must_decide_whether_they_want_to/",
-      "source": "r/NBA",
-      "published": "2026-08-25T03:15:04+00:00"
+      "url": "https://www.palmbeachpost.com/story/sports/nba/2026/08/24/klay-thompson-miami-heat-pat-riley/91438004007/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-24T12:34:28Z"
     },
     {
-      "headline": "Reviewer Frustration Over AAAI 2027 Submissions Lacking Code",
-      "summary": "A reviewer for AAAI 2027 is considering rejecting four papers that make empirical claims but fail to provide the required code or data. The reviewer argues that promising to release materials only after acceptance violates the conference's submission guidelines.",
+      "headline": "Anthropic Faces Revenue Hurdles Ahead of $2 Trillion IPO",
+      "summary": "Despite a massive surge in annualized revenue to $65 billion, Anthropic faces a difficult path to its $200 billion 2028 revenue goal. Corporate clients are increasingly favoring cheaper, 'good enough' AI models over the company's flagship Fable 5, threatening the valuation of its planned $2 trillion IPO.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vxryws/reviewing_4_papers_for_aaai_2027_and_none_have/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-25T06:34:35+00:00"
+      "url": "https://247wallst.com/investing/2026/08/24/anthropic-is-chasing-a-2-trillion-ipo-its-most-powerful-ai-model-is-raising-a-big-red-flag/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-24T12:47:09+00:00"
     },
     {
-      "headline": "China Vows Retaliation as US Expands Iran Sanctions",
-      "summary": "US Treasury Secretary Scott Bessent has announced a major financial offensive against Iran, threatening to isolate any nation that continues to partner with the regime. China, the largest buyer of Iranian oil, condemned the move as illegal and warned it will take necessary measures to protect its economic interests.",
-      "category": "World",
+      "headline": "Quantum Battery Prototype Defies Charging Physics",
+      "summary": "Researchers have unveiled the first working quantum battery prototype, which uniquely charges faster as its size increases. This counterintuitive breakthrough could eventually disrupt power storage for everything from quantum computers to mobile devices.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-25T10:56:03.964Z"
+      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+      "source": "Hacker News",
+      "published": "2026-08-25T10:00:00.000Z"
     },
     {
-      "headline": "Kawhi Leonard's Instagram Video Highlights Cleared Cap Circumvention Case",
-      "summary": "An official video posted to Kawhi Leonard's Instagram account featured footage of a phone browsing social media aggregator posts. The visible content displayed an ESPN headline noting no evidence was found in a cap circumvention case, alongside the NBA's statement calling that report inaccurate. The subtle nod brought fresh attention to the league controversy.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://old.reddit.com/r/nba/comments/1vxs6b2/kawhi_leonards_official_instagram_posted_a_video/",
-      "source": "r/NBA",
-      "published": "2026-08-25T06:46:31+00:00"
-    },
-    {
-      "headline": "PrizePicks Betting Platform Overview",
-      "summary": "This article provides a promotional overview of the PrizePicks fantasy sports platform. It highlights a current sign-up offer where users can receive $50 in bonus credit after placing an initial $5 wager.",
+      "headline": "The Soundtrack of the 2026 NFL Season",
+      "summary": "Ahead of the Patriots-Seahawks season opener on September 9, this guide assigns a definitive theme song to every NFL team. The selections reflect the current state of franchises, from the Cardinals' roster struggles to the Falcons' ongoing quarterback uncertainty.",
       "category": "Other",
-      "relevance": 1,
-      "url": "https://www.cbssports.com/betting/news/prizepicks/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T21:32:55+00:00"
+      "relevance": 3,
+      "url": "https://thecomeback.com/nfl/32-nfl-teams-theme-songs-2026-season.html",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-24T12:05:46+00:00"
     }
   ]
 }
