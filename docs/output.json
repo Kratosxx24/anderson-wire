@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T03:36:08.818534+00:00",
+  "generated_at": "2026-08-25T04:21:03.159770+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -30,24 +30,6 @@
       "published": "2026-08-23T04:00:00+00:00"
     },
     {
-      "headline": "Beginner's Guide to Reading Charles H. Spurgeon",
-      "summary": "The Gospel Coalition offers a foundational resource for readers looking to dive into the extensive works of historic preacher Charles H. Spurgeon. The guide helps modern believers navigate his classic sermons, essays, and theological writings.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/reviews/start-here-charles-spurgeon/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-22T04:02:00+00:00"
-    },
-    {
-      "headline": "Decoding Indoor Volleyball Referee Signals",
-      "summary": "Indoor volleyball matches rely on a precise division of labor between four officials who use standardized hand signals and flags to manage gameplay. The first referee holds ultimate authority on the elevated stand, while line judges utilize flags to indicate boundaries, touches, and out-of-bounds violations. Understanding these core physical cues clarifies crucial calls like double contacts and in-bounds rulings for players and spectators alike.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://volleyballmag.com/volleyball-referee-hand-signals-every-call-decoded/?utm_source=rss&utm_medium=rss&utm_campaign=volleyball-referee-hand-signals-every-call-decoded",
-      "source": "Volleyball Mag",
-      "published": "2026-08-23T16:13:35+00:00"
-    },
-    {
       "headline": "CBS Sports Drops 2026 Fantasy Football Prep",
       "summary": "CBS Sports has released its comprehensive 2026 fantasy football draft preview. The package includes proprietary model rankings, tiered positional cheat sheets for quarterbacks, running backs, wide receivers, and tight ends, and updated ADP data.",
       "category": "Sports",
@@ -66,15 +48,6 @@
       "published": "2026-08-24T16:27:04+00:00"
     },
     {
-      "headline": "Vulnerable Inference Engines Let LLMs Hijack Host GPU Servers",
-      "summary": "Flaws in inference software like vLLM create pathways for language models to execute arbitrary code on host machines simply by outputting specific token sequences. A notable vulnerability, CVE-2025-9141, exposed host environments when an XML tool parser passed raw model arguments directly into Python's eval function despite automated security warnings. Gaining control over these GPU-heavy host nodes grants attackers access to proprietary model weights and internal datacenter networks.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "source": "Hacker News",
-      "published": "2026-08-24T19:03:06+00:00"
-    },
-    {
       "headline": "Thomson Reuters Debuts Proprietary AI Model 'Thomson'",
       "summary": "Thomson Reuters has launched its first in-house frontier large language model, named Thomson, built on a $40 million investment. The model was trained using the company's proprietary legal and professional data to achieve Fiduciary-Grade standards at a fraction of typical industry costs. By starting from an open-source foundation and leveraging decades of exclusive content, the company aims to undercut the heavy inference expenses of rival AI labs.",
       "category": "Tech/AI",
@@ -84,13 +57,22 @@
       "published": "2026-08-25T02:11:39+00:00"
     },
     {
+      "headline": "Vulnerable Inference Engines Let LLMs Hijack Host GPU Servers",
+      "summary": "Flaws in inference software like vLLM create pathways for language models to execute arbitrary code on host machines simply by outputting specific token sequences. A notable vulnerability, CVE-2025-9141, exposed host environments when an XML tool parser passed raw model arguments directly into Python's eval function despite automated security warnings. Gaining control over these GPU-heavy host nodes grants attackers access to proprietary model weights and internal datacenter networks.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source": "Hacker News",
+      "published": "2026-08-24T19:03:06+00:00"
+    },
+    {
       "headline": "US Drops Syria From State Sponsor of Terrorism List",
       "summary": "The United States has removed Syria from its list of state sponsors of terrorism after 47 years, clearing a major hurdle for private sector investment. Secretary of State Marco Rubio cited the Syrian government's efforts to distance itself from international terrorism under transitional president Ahmed al-Sharaa. The policy shift aims to integrate Syria back into the global economy and pull it away from Russian and Chinese influence.",
       "category": "World",
       "relevance": 9,
       "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-25T00:17:25.791Z"
+      "published": "2026-08-25T00:17:25+00:00"
     },
     {
       "headline": "Rams DC Chris Shula Blends Fangio and Phillips Systems",
@@ -127,6 +109,24 @@
       "url": "https://www.cbssports.com/nfl/news/kayshon-boutte-trade-patriots-texans-for-jaylen-reed/",
       "source": "CBS Sports",
       "published": "2026-08-24T20:42:48+00:00"
+    },
+    {
+      "headline": "Can AI Promote Truth and the Common Good?",
+      "summary": "The Gospel Coalition explores the intersection of artificial intelligence, Christian ethics, and the pursuit of objective truth. The essay collection and discussion weigh the technological capabilities of AI systems against theological frameworks of human dignity. Experts evaluate how faith communities should navigate the ethical dilemmas posed by rapidly advancing automation.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-ethics-truth-common-good/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-24T04:04:33+00:00"
+    },
+    {
+      "headline": "2026 Fantasy Football Rankings Examine Computer-Predicted Busts",
+      "summary": "CBS Sports analyzes upcoming 2026 fantasy football player rankings by highlighting computerized predictions for major season busts. The review looks back at past algorithmic calls, such as identifying Terry McLaurin's challenging season, to evaluate future draft risks. Analysts use these projections to help managers avoid overrated players in upcoming fantasy drafts.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-computer-that-called-terry-mclaurins-tough-season/",
+      "source": "CBS Sports",
+      "published": "2026-08-24T23:50:35+00:00"
     },
     {
       "headline": "CBS Sports Analytics Model Highlights 2026 Fantasy Football Breakouts",
@@ -237,24 +237,6 @@
       "published": "2026-08-23T20:24:52+00:00"
     },
     {
-      "headline": "Nvidia Outlines Strict Requirements to Bring CUDA to RISC-V",
-      "summary": "Nvidia is expanding its dominant CUDA software framework to support RISC-V architectures, targeting high-performance server hardware. The chipmaker is demanding strict adherence to server specifications, including RVA23 CPUs, ACPI support, and PCIe cache coherency to avoid inefficient code. By enforcing these rigorous hardware baselines, Nvidia aims to seamlessly pair RISC-V CPUs with powerful GPU compute and machine learning workloads.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "source": "Hacker News",
-      "published": "2026-08-24T16:52:01+00:00"
-    },
-    {
-      "headline": "Can AI Promote Truth and the Common Good?",
-      "summary": "The Gospel Coalition explores the intersection of artificial intelligence, Christian ethics, and the pursuit of objective truth. The essay collection and discussion weigh the technological capabilities of AI systems against theological frameworks of human dignity. Experts evaluate how faith communities should navigate the ethical dilemmas posed by rapidly advancing automation.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/podcasts/silicon-spiritualities/ai-ethics-truth-common-good/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-24T04:04:33+00:00"
-    },
-    {
       "headline": "Exploring Human Identity in the Age of Artificial Intelligence",
       "summary": "The Gospel Coalition examines the philosophical and theological implications of artificial intelligence on what it means to be human. The piece addresses how rapid technological disruption challenges traditional views of consciousness, creativity, and spiritual purpose. It calls for a grounded theological understanding to anchor humanity as machines become more advanced.",
       "category": "Faith",
@@ -271,15 +253,6 @@
       "url": "https://www.thegospelcoalition.org/article/staying-faithful-slow-hard/",
       "source": "The Gospel Coalition",
       "published": "2026-08-24T04:00:00+00:00"
-    },
-    {
-      "headline": "Making the Case for Healthy Tribalism",
-      "summary": "An essay from The Gospel Coalition examines the concept of tribalism through a theological lens, arguing that healthy community alignment is necessary. It explores how shared convictions can unify groups without breeding toxic division.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/need-healthy-tribalism/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-22T04:00:00+00:00"
     },
     {
       "headline": "Black Marble Trades Pure Synth for Guitars on Fifth Album",
@@ -324,7 +297,7 @@
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-24T23:48:25+00:00"
+      "published": "2026-08-25T03:50:06+00:00"
     },
     {
       "headline": "UK PM Burnham Pledges Continued Support and Missile Blueprints on Kyiv Visit",
@@ -408,6 +381,15 @@
       "published": "2026-08-24T15:14:14+00:00"
     },
     {
+      "headline": "Evacuated Bahrain Navy Families Still Awaiting Answers After Six Months",
+      "summary": "More than 1,000 dependents of U.S. Navy personnel evacuated from Bahrain during the outbreak of the U.S.-Iran war remain in temporary housing six months later. During a recent virtual town hall, roughly 580 participants pressed Fifth Fleet leadership for clarity on their living situations and long-term relocation plans. Navy officials acknowledged the ongoing hardships but offered few definitive answers on the timeline for resolution.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+      "source": "NPR News",
+      "published": "2026-08-24T22:22:13+00:00"
+    },
+    {
       "headline": "U.S. Imposes Sweeping New Sanctions on Iran",
       "summary": "Treasury Secretary Scott Bessent announced a fresh wave of economic sanctions targeting Iran, which the Trump administration has dubbed \"Operation Economic Outcast.\" Bessent stated the goal is to dismantle the regime's remaining financial lifelines. Meanwhile, Iranian officials have vowed to issue a severe response to the new measures.",
       "category": "World",
@@ -417,40 +399,58 @@
       "published": "2026-08-24T12:26:00+00:00"
     },
     {
-      "headline": "2026 Fantasy Football Rankings Examine Computer-Predicted Busts",
-      "summary": "CBS Sports analyzes upcoming 2026 fantasy football player rankings by highlighting computerized predictions for major season busts. The review looks back at past algorithmic calls, such as identifying Terry McLaurin's challenging season, to evaluate future draft risks. Analysts use these projections to help managers avoid overrated players in upcoming fantasy drafts.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-computer-that-called-terry-mclaurins-tough-season/",
-      "source": "CBS Sports",
-      "published": "2026-08-24T23:50:35+00:00"
-    },
-    {
-      "headline": "Evacuated Bahrain Navy Families Still Awaiting Answers After Six Months",
-      "summary": "More than 1,000 dependents of U.S. Navy personnel evacuated from Bahrain during the outbreak of the U.S.-Iran war remain in temporary housing six months later. During a recent virtual town hall, roughly 580 participants pressed Fifth Fleet leadership for clarity on their living situations and long-term relocation plans. Navy officials acknowledged the ongoing hardships but offered few definitive answers on the timeline for resolution.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-      "source": "NPR News",
-      "published": "2026-08-24T18:22:13-04:00"
-    },
-    {
       "headline": "Caste Discrimination Compounds Water Crisis in Rural India",
       "summary": "In the drought-prone Bundelkhand region of northern India, Dalit residents face severe caste-based restrictions while collecting water during extreme summer heatwaves. Women from marginalized communities must wait for dominant-caste villagers to finish using public handpumps and report that upper-caste residents ritualistically cleanse the pumps afterward. Worsening climate conditions and failing government water schemes have intensified these historic social divides over scarce resources.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cyvlzp2zn67o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-08-24T23:36:58.709Z"
+      "published": "2026-08-24T23:36:58+00:00"
     },
     {
-      "headline": "Navigating Anxiety Over AI in the Tech Industry",
-      "summary": "Tech professionals should channel industry-wide disruptions into anxiety about an uncertain future rather than misplaced anger. While shifting AI landscapes threaten traditional career skills, leadership and employees alike face shared uncertainties rather than clear villains to blame.",
+      "headline": "Lambchop Strips Down on 'Punching the Clown'",
+      "summary": "Kurt Wagner shifts his long-running band to a bare-bones acoustic setup for their new album. Working with producer Ryan Olson, the 66-year-old songwriter delivers sprawling, conversational narratives that trade electronic experimentation for stripped-down folk instrumentation.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/lambchop-punching-the-clown/",
+      "source": "Pitchfork",
+      "published": "2026-08-25T04:03:00+00:00"
+    },
+    {
+      "headline": "Brandon Flowers Pivots to Country on 'THRASHER'",
+      "summary": "The Killers frontman trades synth-rock for a sun-baked, Nashville-via-Utah country sound on his third solo record. Backed by session pros and producers Shawn Everett and Jonathan Rado, Flowers leans into his trademark earnestness with a newly revealed barrel-chested vocal delivery.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/brandon-flowers-thrasher/",
+      "source": "Pitchfork",
+      "published": "2026-08-25T04:02:00+00:00"
+    },
+    {
+      "headline": "Nate Sib Fails to Ignite on Debut 'Reborn'",
+      "summary": "Twenty-two-year-old singer Nate Sib attempts to position himself as a troubled pop idol on his first full-length solo project. Despite pulling vocal inspiration from Justin Bieber and working with a pedigree of musical connections, the tracks lean too heavily on formulaic beats and predictable songwriting.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/nate-sib-reborn/",
+      "source": "Pitchfork",
+      "published": "2026-08-25T04:01:00+00:00"
+    },
+    {
+      "headline": "Jorja Smith Glides Through Dance Sounds on 'What Are the Odds'",
+      "summary": "British R&B singer Jorja Smith leans into two-step garage, house, and UK funky on her third full-length album. Produced by P2J, the record features a dreamy, reverb-heavy atmosphere that unfortunately keeps the artist's emotional delivery at arm's length.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/jorja-smith-what-are-the-odds/",
+      "source": "Pitchfork",
+      "published": "2026-08-25T04:00:00+00:00"
+    },
+    {
+      "headline": "Researchers Discover Unique Ribosomal Mutation in Smart Octopuses",
+      "summary": "Scientists studying the California two-spot octopus found a never-before-seen genetic mutation that splits ribosomal RNA fragments and dramatically increases protein synthesis accuracy. While direct links to brainpower remain unproven, the rare adaptation appears exclusively in intelligent, complex incirrate octopus species.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+      "relevance": 4,
+      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
       "source": "Hacker News",
-      "published": "2026-08-24T18:37:24+00:00"
+      "published": "2026-08-19T12:00:10-04:00"
     }
   ]
 }
