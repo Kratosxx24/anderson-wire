@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T12:22:07.531448+00:00",
+  "generated_at": "2026-08-26T13:31:34.406298+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -102,15 +102,6 @@
       "published": "2026-08-25T13:10:18+00:00"
     },
     {
-      "headline": "Solving AI Agent Memory Costs with Context Management",
-      "summary": "AI agents frequently fail and incur skyrocketing token costs due to unmanaged conversation histories and bloated tool outputs. Researcher Gaurav Dadhich introduces Agentic Context Management (ACM) to treat memory as an architectural lifecycle rather than mere storage, utilizing a reference implementation called Maximem Synap to maintain high benchmark accuracy while controlling costs.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://arxiv.org/abs/2607.21503",
-      "source": "Hacker News",
-      "published": "2026-08-26T02:35:25+00:00"
-    },
-    {
       "headline": "The 'Yes' Experiment Returns",
       "summary": "In a follow-up to a previous challenge, the team commits to saying 'yes' to every email received over the course of a month. The video tracks the chaotic and unexpected outcomes of this social experiment.",
       "category": "YouTube",
@@ -156,13 +147,13 @@
       "published": "2026-08-25T04:04:23+00:00"
     },
     {
-      "headline": "The Brutal Guard Competition That Squeezed Out John Wall",
-      "summary": "At his peak, Wizards star John Wall dominated with elite speed and routine 20-point, 10-assist seasons. However, sharing an era with generational guards like Stephen Curry, Russell Westbrook, and James Harden restricted him to just a single All-NBA appearance.",
+      "headline": "Pistons Eye Creative Contract Options Following Jalen Duren All-NBA Nod",
+      "summary": "Jalen Duren is eligible to sign a new deal starting at 30% of the salary cap. Detroit could leverage that elevated threshold to craft a unique contract structure that resolves their free-agency impasse.",
       "category": "NBA",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vynmj6/john_wall_was_a_5time_all_star_averaging_10/",
-      "source": "r/NBA",
-      "published": "2026-08-26T05:10:48+00:00"
+      "url": "https://www.forbes.com/sites/bryantoporek/2026/08/25/jalen-durens-all-nba-nod-could-help-pistons-solve-his-free-agency-impasse/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-25T10:30:00Z"
     },
     {
       "headline": "CBS Sports Releases 2026 Fantasy Football Bust and Risk Projections",
@@ -237,15 +228,6 @@
       "published": "2026-08-26T00:21:17+00:00"
     },
     {
-      "headline": "Computer Model Drops Surprising 2026 Tour Championship Picks",
-      "summary": "A forecasting model boasting a strong track record has released its data-driven predictions and odds for the 2026 Tour Championship. The computer simulation evaluated the field using 10,000 iterations to map out outcomes for the tournament. Bettors are turning to these algorithmic insights as the premier golf event approaches.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/2026-tour-championship-odds-picks-predictions-field-course-format-favorites/",
-      "source": "CBS Sports",
-      "published": "2026-08-25T23:29:51+00:00"
-    },
-    {
       "headline": "Commanders Add Veteran Tackle D.J. Humphries",
       "summary": "Washington is bringing in former Pro Bowl left tackle D.J. Humphries to bolster the offensive line. The move comes in response to an injury sidelining Laremy Tunsil. Humphries provides immediate veteran depth and stability to the team's upfront protection.",
       "category": "NFL",
@@ -264,15 +246,6 @@
       "published": "2026-08-25T21:08:21+00:00"
     },
     {
-      "headline": "CBS Sports Drops 2026 Fantasy Football Projections",
-      "summary": "CBS Sports has released its 2026 fantasy football rankings, highlighting key sleepers, breakouts, and busts for the upcoming season. The predictions are powered by the same advanced model that famously anticipated Daniel Jones' massive breakout year. Fantasy managers can use these data-driven insights to draft high-value targets and avoid overvalued players.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-and-busts-from-model-that-called-daniel-jones-huge-year/",
-      "source": "CBS Sports",
-      "published": "2026-08-25T20:20:41+00:00"
-    },
-    {
       "headline": "CBS Sports Ranks SEC Starting Quarterbacks for 2026 Season",
       "summary": "CBS Sports evaluates every starting quarterback in the SEC ahead of the 2026 college football season. The updated rankings arrive as five conference programs officially break in new signal-callers.",
       "category": "Sports",
@@ -289,15 +262,6 @@
       "url": "https://www.cbssports.com/nfl/news/jamarr-chase-injury-scare-bengals-all-pro-goes-down-awkwardly-in-practice-eventually-walks-off-on-his-own/",
       "source": "CBS Sports",
       "published": "2026-08-25T20:13:16+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Draft Prep Underway",
-      "summary": "CBS Sports and SportsLine experts have released comprehensive fantasy football rankings and draft strategies for the 2026 season. The guides cover top tiers, the top 150 players, rookies, and high-risk breakout candidates.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-top-experts-reveal-rankings-tiers-top-150-rookies-risky-picks/",
-      "source": "CBS Sports",
-      "published": "2026-08-25T19:05:18+00:00"
     },
     {
       "headline": "Netflix Considers Retail Pivot to Selling Rival Streaming Services",
@@ -426,31 +390,67 @@
       "published": "2026-08-25T19:48:14+00:00"
     },
     {
-      "headline": "Snubbed Legends: Tim Duncan and the DPOY Paradox",
-      "summary": "Despite earning 15 All-Defensive team selections, Tim Duncan remarkably never won the Defensive Player of the Year award. His omission highlights how even inner-circle Hall of Famers can miss out on major individual accolades during their careers.",
+      "headline": "Basketball Intelligence Newsletter Delayed Due to Medical Issue",
+      "summary": "The August 26 edition of the Basketball Intelligence newsletter has been delayed after contributor Ray sought care at an urgent clinic. Editors stated they hope to publish the delayed issue later in the day.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vyif7j/tim_duncan_never_got_dpoy_what_other_players/",
-      "source": "r/NBA",
-      "published": "2026-08-26T01:06:12+00:00"
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-0ef",
+      "source": "Basketball Intelligence",
+      "published": "2026-08-26T12:56:32+00:00"
     },
     {
-      "headline": "Warriors Sign Veteran Sharpshooter Georges Niang",
-      "summary": "Free agent forward Georges Niang has signed a one-year, $3.9 million contract with the Golden State Warriors. The reliable 40% career three-point shooter is entering his 11th season after sitting out the previous year with an injury.",
+      "headline": "Lakers Pursuit of Kuminga Threatens Hawks Trade Leverage",
+      "summary": "A potential trade involving Jonathan Kuminga and the Los Angeles Lakers is poised to disrupt the market. The move directly alters the Atlanta Hawks' bargaining position across ongoing trade discussions.",
       "category": "NBA",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vyehqp/charania_free_agent_forward_georges_niang_has/",
-      "source": "r/NBA",
-      "published": "2026-08-25T22:19:44+00:00"
+      "url": "https://gamedayatlanta.com/lakers-kuminga-deal-shifts-hawks-trade-power/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-08-25T11:05:00+00:00"
     },
     {
-      "headline": "Physicists Argue Black Hole Singularities Are Surfaces, Not Points",
-      "summary": "A new physics paper challenges the popular notion that the center of a black hole is a single point, demonstrating instead that the singularity is a surface. Using general relativity, researchers show that infalling observers lose causal contact well before reaching the center due to spatial geometry. This finding suggests quantum states may reside on a two-dimensional singular surface inside the event horizon.",
+      "headline": "Josh Sweat Returns to Cardinals Practice After Second-Half Slump and Injury",
+      "summary": "Cardinals edge rusher Josh Sweat practiced Monday for the first time in training camp after coming off the PUP list with a left knee brace. Arizona managed the 29-year-old cautiously following an eight-game season-ending slump where his snaps and defensive production dropped significantly after a strong eight-sack start.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://cardswire.usatoday.com/story/sports/nfl/cardinals/2026/08/25/a-closer-look-at-arizona-cardinals-lb-josh-sweats-2025-season/91453491007/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-25T12:14:02Z"
+    },
+    {
+      "headline": "Anthropic Screenings Test Job Candidates on Ethics Over Stock Profits",
+      "summary": "Anthropic has incorporated rigorous culture interviews to evaluate whether prospective hires prioritize AI safety over commercial profits. Candidates report fielding questions about hypothetical scenarios where safety decisions crash the company's valuation, prompting some applicants to spend thousands on coaching.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.livemint.com/companies/news/mission-vs-profit-at-anthropic-ai-companys-interview-questions-try-to-judge-candidates-ethical-stance-says-report-11787653154578.html",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-08-25T15:59:59+05:30"
+    },
+    {
+      "headline": "CBS Sports Releases 2026 Fantasy Football Projections and Sleepers",
+      "summary": "CBS Sports has updated its 2026 fantasy football draft rankings utilizing its proprietary projection model. The model identifies top breakout candidates, high-risk busts, and late-round sleepers for the upcoming NFL season.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-and-busts-per-model-that-called-daniel-jones-huge-year/",
+      "source": "CBS Sports",
+      "published": "2026-08-26T12:48:16+00:00"
+    },
+    {
+      "headline": "Model-Driven 2026 Fantasy Football Rankings Highlight Potential Busts",
+      "summary": "The CBS Sports predictive model has released its complete 2026 fantasy football cheat sheet. The evaluation tool highlights sleeper candidates and potential busts based on historical accuracy with breakout quarterbacks.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-breakouts-and-busts-by-model-that-called-daniel-jones-huge-year/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-08-25T12:05:22Z"
+    },
+    {
+      "headline": "Summer Box Office Rebounds on Ticket Prices Despite Smaller Overall Audience",
+      "summary": "U.S. theaters are pacing toward their highest-grossing summer in a decade, powered by tentpoles like Spider-Man: Brand New Day and Christopher Nolan's The Odyssey. However, the financial surge masks industry headwinds, as revenue is driven heavily by premium format surcharges while overall ticket volume, screen counts, and release slates remain below pre-pandemic levels.",
       "category": "Other",
-      "relevance": 4,
-      "url": "https://arxiv.org/abs/2608.21590",
-      "source": "Hacker News",
-      "published": "2026-08-25T17:02:49+00:00"
+      "relevance": 3,
+      "url": "https://www.npr.org/2026/08/26/nx-s1-5923629/movie-summer-box-office",
+      "source": "NPR News",
+      "published": "2026-08-26T05:00:00-04:00"
     }
   ]
 }
