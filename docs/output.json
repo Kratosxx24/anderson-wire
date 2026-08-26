@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-08-26T09:54:58.895631+00:00",
+  "generated_at": "2026-08-26T10:47:46.748079+00:00",
   "story_count": 50,
   "stories": [
+    {
+      "headline": "Apple Refreshes Mac Mini and Studio Amid Rising AI Hardware Pressure",
+      "summary": "Apple has rolled out new hardware updates for its Mini and Studio desktop lines. Alongside separate announcements from OpenAI, these moves signal mounting competitive pressure on chipmaker Nvidia.",
+      "category": "Tech/AI",
+      "relevance": 10,
+      "url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "source": "Stratechery",
+      "published": "2026-08-26T10:00:00+00:00"
+    },
     {
       "headline": "Basketball Intelligence Digest: 2026-27 Preseason Outlooks and Draft Boards",
       "summary": "The latest Basketball Intelligence newsletter compiles crucial preseason content, featuring ESPN's 2026-27 conference and Finals predictions alongside early 2027 draft rankings from Bleacher Report and Sports Illustrated. It also highlights positional previews, including top point guard free agents and scouting notes from Arizona's Lithuania tour.",
@@ -10,24 +19,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-82526",
       "source": "Basketball Intelligence",
       "published": "2026-08-25T17:33:26+00:00"
-    },
-    {
-      "headline": "Klay Thompson Prioritizes Winning Over Payday in Miami Move",
-      "summary": "Klay Thompson confirmed that his decision to join the Miami Heat was driven by a desire to compete at the highest level. The veteran guard accepted less money to chase another deep postseason run with his new team.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vyadko/klay_thompson_explains_that_the_reasons_he_gave/",
-      "source": "r/NBA",
-      "published": "2026-08-25T19:48:23+00:00"
-    },
-    {
-      "headline": "John Wall's Elite Peak Overshadowed by Guard-Heavy Era",
-      "summary": "Despite routinely posting 20-point, 10-assist seasons and leading the Wizards to deep playoff runs, elite point guard John Wall earned just one All-NBA selection. His prime coincided with a historically stacked era featuring superstars like Stephen Curry, James Harden, and Russell Westbrook. This massive logjam kept several other dominant floor generals out of higher postseason accolades.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://old.reddit.com/r/nba/comments/1vynmj6/john_wall_was_a_5time_all_star_averaging_10/",
-      "source": "r/NBA",
-      "published": "2026-08-26T05:10:48+00:00"
     },
     {
       "headline": "Jaguars RB Bhayshul Tuten Emerges as Fantasy Sleep Pick",
@@ -93,13 +84,13 @@
       "published": "2026-08-25T13:10:18+00:00"
     },
     {
-      "headline": "US Drops Syria From State Sponsor of Terrorism List",
-      "summary": "The United States has removed Syria from its list of state sponsors of terrorism after 47 years, clearing a major hurdle for private sector investment. Secretary of State Marco Rubio cited the Syrian government's efforts to distance itself from international terrorism under transitional president Ahmed al-Sharaa. The policy shift aims to integrate Syria back into the global economy and pull it away from Russian and Chinese influence.",
-      "category": "World",
+      "headline": "Solving AI Agent Memory Costs with Context Management",
+      "summary": "AI agents frequently fail and incur skyrocketing token costs due to unmanaged conversation histories and bloated tool outputs. Researcher Gaurav Dadhich introduces Agentic Context Management (ACM) to treat memory as an architectural lifecycle rather than mere storage, utilizing a reference implementation called Maximem Synap to maintain high benchmark accuracy while controlling costs.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-25T00:17:25+00:00"
+      "url": "https://arxiv.org/abs/2607.21503",
+      "source": "Hacker News",
+      "published": "2026-08-26T02:35:25+00:00"
     },
     {
       "headline": "The 'Yes' Experiment Returns",
@@ -138,31 +129,31 @@
       "published": "2026-07-25T01:34:37+00:00"
     },
     {
-      "headline": "Powering Papers with Code Search via Postgres and Qwen3",
-      "summary": "Papers with Code built a high-performing search engine by merging keyword and semantic techniques. The architecture relies on PostgreSQL with pgvector, Qwen3-Embedding-0.6B models, and Hugging Face Jobs running on NVIDIA L4 hardware to deliver superior retrieval accuracy.",
-      "category": "Tech/AI",
+      "headline": "Breaking Down 2026 AFC South Schemes and Rosters",
+      "summary": "Analysts Cody Alexander and Felix Johnson examine tactical shifts across the AFC South. The breakdown covers DeMeco Ryans' hybrid defenses in Houston, Liam Coen unlocking Trevor Lawrence in Jacksonville, and Brian Daboll's new system in Tennessee.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://old.reddit.com/r/MachineLearning/comments/1vxyrsr/how_we_built_a_sota_search_engine_using/",
-      "source": "r/MachineLearning",
-      "published": "2026-08-25T12:42:36+00:00"
+      "url": "https://www.matchquarters.com/p/afc-south-preview-scheme-shifts-2026",
+      "source": "MatchQuarters",
+      "published": "2026-08-26T10:03:13+00:00"
     },
     {
-      "headline": "Solving AI Agent Memory Costs with Context Management",
-      "summary": "AI agents frequently fail and incur skyrocketing token costs due to unmanaged conversation histories and bloated tool outputs. Researcher Gaurav Dadhich introduces Agentic Context Management (ACM) to treat memory as an architectural lifecycle rather than mere storage, utilizing a reference implementation called Maximem Synap to maintain high benchmark accuracy while controlling costs.",
-      "category": "Tech/AI",
+      "headline": "The Crisis of Declining Literacy in Modern Discipleship",
+      "summary": "The Gospel Coalition highlights a growing concern over the decline of reading habits within faith communities. The essay argues that diminished engagement with text directly undermines the depth of spiritual discipleship.",
+      "category": "Faith",
       "relevance": 9,
-      "url": "https://arxiv.org/abs/2607.21503",
-      "source": "Hacker News",
-      "published": "2026-08-26T02:35:25+00:00"
+      "url": "https://www.thegospelcoalition.org/article/reading-declines-discipleship-suffers/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-26T04:02:00+00:00"
     },
     {
-      "headline": "Warriors Sign Georges Niang to One-Year Deal",
-      "summary": "The Golden State Warriors have signed veteran forward Georges Niang to a one-year, $3.9 million contract. Niang, a career 40% shooter from deep, returns to the court for his 11th season after sitting out the entire 2025-26 campaign due to injury.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vyehqp/charania_free_agent_forward_georges_niang_has/",
-      "source": "r/NBA",
-      "published": "2026-08-25T22:19:44+00:00"
+      "headline": "Finding Purpose in Personal Suffering",
+      "summary": "A theological essay from The Gospel Coalition addresses the difficulty of hardship for believers. It offers a perspective intended to reassure Christians that enduring trials holds ultimate meaning.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/suffering-isnt-pointless/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-26T04:00:00+00:00"
     },
     {
       "headline": "CBS Sports Releases 2026 Fantasy Football Bust and Risk Projections",
@@ -181,24 +172,6 @@
       "url": "https://www.cbssports.com/college-football/news/big-ten-eligibility-nfl-players/",
       "source": "CBS Sports",
       "published": "2026-08-26T00:26:47+00:00"
-    },
-    {
-      "headline": "Jamey Eisenberg Unveils 2026 Fantasy Football Draft Blueprint",
-      "summary": "Analyst Jamey Eisenberg has dropped a comprehensive round-by-round draft strategy tailored for every draft slot in 2026. The blueprint provides positional targets and roster construction advice to maximize value regardless of draft position. It serves as a tactical guide for fantasy managers prepping for upcoming leagues.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-2026-fantasy-draft-plan/",
-      "source": "CBS Sports",
-      "published": "2026-08-26T00:21:17+00:00"
-    },
-    {
-      "headline": "Critiquing Therapy Culture in the Church",
-      "summary": "Matthew Loftus's new book, Resisting Therapy Culture, is reviewed in light of how modern psychological frameworks intersect with Christian belief and practice. The piece explores the boundaries between spiritual pastoral care and secular therapeutic mindsets.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/reviews/resisting-therapy-culture/",
-      "source": "The Gospel Coalition",
-      "published": "2026-08-25T04:02:00+00:00"
     },
     {
       "headline": "No. 2 Texas Volleyball Edges Marquette in Five-Set Thriller",
@@ -237,13 +210,22 @@
       "published": "2026-08-26T04:02:00+00:00"
     },
     {
-      "headline": "LeBron James Secured $300 Million Loan via Guggenheim",
-      "summary": "LeBron James utilized a controlled limited liability company to borrow nearly $300 million from Midwestern life insurers in 2018. This massive financial transaction occurred shortly before he signed his high-profile contract with the Los Angeles Lakers.",
-      "category": "NBA",
+      "headline": "CIA Chief John Ratcliffe Makes Unannounced Trip to Moscow",
+      "summary": "CIA Director John Ratcliffe flew to Moscow on a US military transport plane for surprise high-level meetings with Russian counterparts. Flight trackers and social media footage confirmed the rare diplomatic visit, though neither Washington nor Moscow immediately disclosed the agenda. Analysts suggest the unannounced talks could center on escalation management or securing the release of detained Americans.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://old.reddit.com/r/nba/comments/1vy23b2/lebron_james_borrowed_300_million_from_insurers/",
-      "source": "r/NBA",
-      "published": "2026-08-25T14:53:38+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-25T19:48:14+00:00"
+    },
+    {
+      "headline": "Jamey Eisenberg Unveils 2026 Fantasy Football Draft Blueprint",
+      "summary": "Analyst Jamey Eisenberg has dropped a comprehensive round-by-round draft strategy tailored for every draft slot in 2026. The blueprint provides positional targets and roster construction advice to maximize value regardless of draft position. It serves as a tactical guide for fantasy managers prepping for upcoming leagues.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-2026-fantasy-draft-plan/",
+      "source": "CBS Sports",
+      "published": "2026-08-26T00:21:17+00:00"
     },
     {
       "headline": "Commanders Add Veteran Tackle D.J. Humphries",
@@ -325,6 +307,15 @@
       "url": "https://daringfireball.net/2026/08/what_is_the_point_of_the_dma",
       "source": "Daring Fireball",
       "published": "2026-08-24T22:47:20+00:00"
+    },
+    {
+      "headline": "Critiquing Therapy Culture in the Church",
+      "summary": "Matthew Loftus's new book, Resisting Therapy Culture, is reviewed in light of how modern psychological frameworks intersect with Christian belief and practice. The piece explores the boundaries between spiritual pastoral care and secular therapeutic mindsets.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/reviews/resisting-therapy-culture/",
+      "source": "The Gospel Coalition",
+      "published": "2026-08-25T04:02:00+00:00"
     },
     {
       "headline": "Decoding the Two Witnesses of Revelation 11",
@@ -417,6 +408,15 @@
       "published": "2026-08-24T22:54:36+00:00"
     },
     {
+      "headline": "Devastating New Study Finds High Rate of CTE in Deceased NFL Players",
+      "summary": "A comprehensive British Medical Journal study reveals that up to 97.7 percent of former NFL players who died between 2016 and 2021 suffered from chronic traumatic encephalopathy. Researchers stress that the vast majority of cumulative head trauma occurs before reaching the professional level, during high school and college play. Lead authors are urging the league to drastically improve safety and prevention protocols across all divisions.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-08-25T11:54:40+00:00"
+    },
+    {
       "headline": "China Vows Retaliation as US Expands Iran Sanctions",
       "summary": "US Treasury Secretary Scott Bessent has announced a major financial offensive against Iran, threatening to isolate any nation that continues to partner with the regime. China, the largest buyer of Iranian oil, condemned the move as illegal and warned it will take necessary measures to protect its economic interests.",
       "category": "World",
@@ -426,22 +426,22 @@
       "published": "2026-08-25T11:53:36+00:00"
     },
     {
-      "headline": "CIA Chief John Ratcliffe Makes Unannounced Trip to Moscow",
-      "summary": "CIA Director John Ratcliffe flew to Moscow on a US military transport plane for surprise high-level meetings with Russian counterparts. Flight trackers and social media footage confirmed the rare diplomatic visit, though neither Washington nor Moscow immediately disclosed the agenda. Analysts suggest the unannounced talks could center on escalation management or securing the release of detained Americans.",
-      "category": "World",
+      "headline": "Z.ai Confirms Ox Alpha as New GLM Model with Open Weights",
+      "summary": "Chinese AI firm Z.ai has confirmed that its stealth model Ox Alpha belongs to the GLM series and will have its weights released. The model serves as a direct competitor to systems developed by DeepSeek.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-25T19:48:14+00:00"
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "source": "Hacker News",
+      "published": "2026-08-26T10:04:55+00:00"
     },
     {
-      "headline": "Devastating New Study Finds High Rate of CTE in Deceased NFL Players",
-      "summary": "A comprehensive British Medical Journal study reveals that up to 97.7 percent of former NFL players who died between 2016 and 2021 suffered from chronic traumatic encephalopathy. Researchers stress that the vast majority of cumulative head trauma occurs before reaching the professional level, during high school and college play. Lead authors are urging the league to drastically improve safety and prevention protocols across all divisions.",
-      "category": "NFL",
+      "headline": "Living Weapon Delivers a Brutal Masterclass on Death in the Family",
+      "summary": "Comprising veterans from Vein.fm and Fleshwater, the metalcore outfit Living Weapon steps out with a punishing debut full-length. The record combines aggressive hardcore sensibilities with progressive execution, standing as a high-water mark for the underground genre.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/sport/american-football/articles/cew9l95kyp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-08-25T11:54:40+00:00"
+      "url": "https://pitchfork.com/reviews/albums/living-weapon-death-in-the-family/",
+      "source": "Pitchfork",
+      "published": "2026-08-26T04:01:00+00:00"
     },
     {
       "headline": "Physicists Argue Black Hole Singularities Are Surfaces, Not Points",
