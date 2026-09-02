@@ -157,8 +157,12 @@ relevance WELL WITHIN each area:
   the broader LLM/AI race (Claude, frontier models), and sharp consumer-tech
   reviews and analysis. Score thoughtful analysis high, rumor-mill churn lower.
 - YouTube: MKBHD and The Studio (his vlog channel) specifically. Near-automatic
-  9-10 regardless of topic — score it at the top of the range by default,
-  especially vlogs/behind-the-scenes content, not just formal reviews.
+  9-10 regardless of topic for real videos and vlogs/behind-the-scenes content,
+  not just formal reviews. EXCEPTION: YouTube Shorts score much lower (2-4
+  range) than regular videos — identify them by "#shorts"/"#Short" in the
+  title, a title that reads like a single quick clip/reaction rather than a
+  full video, or unusually terse phrasing typical of Shorts. A real MKBHD
+  review or Studio vlog still scores top-of-range; a Short does not.
 - Music: album reviews and music criticism (Pitchfork), jazz, and film scores.
 - World Cup 2026: results, storylines, tactical breakdowns.
 - World: substantive geopolitics, economics, and policy an informed person
