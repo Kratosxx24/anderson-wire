@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:12:54.407212+00:00",
+  "generated_at": "2026-09-02T18:47:28.615367+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -66,6 +66,24 @@
       "published": "2026-09-01T11:21:24+00:00"
     },
     {
+      "headline": "WebLLM Brings High-Performance Language Models Directly to the Browser",
+      "summary": "WebLLM is an in-browser inference engine that leverages WebGPU for hardware acceleration without requiring server support. It is fully compatible with the OpenAI API, allowing developers to run open-source models locally while supporting features like streaming and JSON-mode.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/mlc-ai/web-llm",
+      "source": "Hacker News",
+      "published": "2026-09-02T14:02:35+00:00"
+    },
+    {
+      "headline": "Critiquing ArtificialAnalysis's Intelligence vs. Cost Model Metrics",
+      "summary": "OpenTeams engineer Guido Imperiale argues that ArtificialAnalysis's intelligence versus cost plot is misleading due to its logarithmic cost scale, reliance on official API pricing rather than cheaper third-party alternatives, and use of expensive datacenter pricing for local models. He suggests these factors obscure the actual price differences and affordability of running various LLMs.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://openteams.com/intelligence-vs-cost/",
+      "source": "Hacker News",
+      "published": "2026-09-02T13:03:50+00:00"
+    },
+    {
       "headline": "I Said Yes to Every Email for a Month! (Again)",
       "summary": "",
       "category": "YouTube",
@@ -93,40 +111,13 @@
       "published": "2026-08-26T20:43:49+00:00"
     },
     {
-      "headline": "Ellis Explain This",
-      "summary": "",
+      "headline": "MKBHD Examines Tech That Got Worse Over Time",
+      "summary": "Recent content from Marques Brownlee's studio focuses on consumer electronics and software features that have actively regressed rather than improved. The analysis dives into specific instances where modern updates introduced more friction or limitations than utility.",
       "category": "YouTube",
       "relevance": 9,
-      "url": "https://www.youtube.com/shorts/AAOQUkA27Q0",
+      "url": "https://www.youtube.com/shorts/Sh1SWKZ8oQo",
       "source": "The Studio (MKBHD)",
-      "published": "2026-08-21T13:52:19+00:00"
-    },
-    {
-      "headline": "ACC and SEC Volleyball Programs Set for 2026 Shriners Children's Showdown",
-      "summary": "Thirty-two teams from the ACC and SEC will face off across 16 matches in September for the cross-conference challenge. The event features campus matchups leading into a marquee neutral-site doubleheader at Walt Disney World, highlighted by No. 1 Pitt taking on Tennessee on ESPN2.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://volleyballmag.com/pitt-vs-tennessee-headlines-2026-shriners-children-s-showdown-at-the-net/?utm_source=rss&utm_medium=rss&utm_campaign=pitt-vs-tennessee-headlines-2026-shriners-children-s-showdown-at-the-net",
-      "source": "Volleyball Mag",
-      "published": "2026-09-02T14:39:55+00:00"
-    },
-    {
-      "headline": "WebLLM Brings High-Performance Language Models Directly to the Browser",
-      "summary": "WebLLM is an in-browser inference engine that leverages WebGPU for hardware acceleration without requiring server support. It is fully compatible with the OpenAI API, allowing developers to run open-source models locally while supporting features like streaming and JSON-mode.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://github.com/mlc-ai/web-llm",
-      "source": "Hacker News",
-      "published": "2026-09-02T14:02:35+00:00"
-    },
-    {
-      "headline": "Critiquing ArtificialAnalysis's Intelligence vs. Cost Model Metrics",
-      "summary": "OpenTeams engineer Guido Imperiale argues that ArtificialAnalysis's intelligence versus cost plot is misleading due to its logarithmic cost scale, reliance on official API pricing rather than cheaper third-party alternatives, and use of expensive datacenter pricing for local models. He suggests these factors obscure the actual price differences and affordability of running various LLMs.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://openteams.com/intelligence-vs-cost/",
-      "source": "Hacker News",
-      "published": "2026-09-01T18:29:09"
+      "published": "2026-09-02T15:57:57+00:00"
     },
     {
       "headline": "NBA Cap Analysts Run 2027 Mock Expansion Draft",
@@ -147,6 +138,15 @@
       "published": "2026-09-02T04:02:00+00:00"
     },
     {
+      "headline": "Big Ten and SEC Launch Historic Volleyball Challenge Week at Wrigley Field",
+      "summary": "All 34 volleyball programs from the Big Ten and SEC are facing off in a massive multi-day challenge sponsored by Allstate. The event concludes with a historic Sunday doubleheader at Wrigley Field, marking the first time volleyball will be played inside the iconic ballpark.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/big-ten-and-sec-launch-first-ever-challenge-week-ending-with-volleyball/?utm_source=rss&utm_medium=rss&utm_campaign=big-ten-and-sec-launch-first-ever-challenge-week-ending-with-volleyball",
+      "source": "Volleyball Mag",
+      "published": "2026-09-01T16:42:59+00:00"
+    },
+    {
       "headline": "Fable 5.1 Drops Unpopular Data Retention Policy While Boosting Caching",
       "summary": "Fable 5.1 is officially out, bringing the major win of completely removing the widely hated data retention policy rather than just altering it. Additionally, the update introduces increased caching mechanisms that serve as a clear win-win for users and developers alike. Subscribers can access the full analysis alongside an extensive network of tech and media podcasts.",
       "category": "Tech/AI",
@@ -156,22 +156,13 @@
       "published": "2026-09-02T10:00:00+00:00"
     },
     {
-      "headline": "Zelensky Warns Airlines to Avoid Russian Airspace as Drone Strikes Ramp Up",
-      "summary": "Ukrainian President Volodymyr Zelensky urged commercial airlines and insurers to halt flights over Russia, warning that Ukrainian long-range drone strikes are making Russian airspace increasingly dangerous. The warning primarily impacts non-Western carriers, such as Chinese airlines, that continue routing through major hubs like Moscow and St. Petersburg. Risk analysts expect daily deep-incursion strikes against Russian infrastructure to persist, while Vladimir Putin condemned the remarks as state terrorism.",
+      "headline": "EU and NATO Vow Retaliation After Russian-Backed Drone Attack in Germany",
+      "summary": "Top officials from NATO and the European Commission have condemned a failed drone attack on Leipzig airport as a dangerous Russian escalation on EU soil. In response, Germany is closing a Russian consulate in Bonn and shuttering a cultural institution in Berlin accused of spreading Kremlin propaganda.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-02T13:16:26+00:00"
-    },
-    {
-      "headline": "Big Ten and SEC Launch Historic Volleyball Challenge Week at Wrigley Field",
-      "summary": "All 34 volleyball programs from the Big Ten and SEC are facing off in a massive multi-day challenge sponsored by Allstate. The event concludes with a historic Sunday doubleheader at Wrigley Field, marking the first time volleyball will be played inside the iconic ballpark.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/big-ten-and-sec-launch-first-ever-challenge-week-ending-with-volleyball/?utm_source=rss&utm_medium=rss&utm_campaign=big-ten-and-sec-launch-first-ever-challenge-week-ending-with-volleyball",
-      "source": "Volleyball Mag",
-      "published": "2026-09-01T16:42:59+00:00"
+      "published": "2026-09-02T16:49:00+00:00"
     },
     {
       "headline": "Nvidia's Market Position and AI Infrastructure",
@@ -192,6 +183,15 @@
       "published": "2026-09-01T17:36:08+00:00"
     },
     {
+      "headline": "Claude's Updated System Prompt Striricly Blocks Song Lyrics Reproduction",
+      "summary": "Anthropic's latest system prompts for consumer models like Fable 5.1 add explicit instructions prohibiting Claude from reproducing copyrighted song lyrics, poems, or book passages. The update arrives shortly after major music publishers filed lawsuits against AI companies over copyright infringement.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "source": "Simon Willison",
+      "published": "2026-09-02T14:16:42+00:00"
+    },
+    {
       "headline": "Anthropic Launches Claude Fable 5.1 with Advanced Reasoning",
       "summary": "Anthropic has released Claude Fable 5.1, boasting major gains in scientific reasoning benchmarks alongside flexible reasoning effort levels. Testing across various effort settings reveals distinct execution paths, with lower tiers occasionally bypassing explicit reasoning traces while higher settings handle complex vector graphic generation. The update aims to set a new benchmark for coding and long-running problem-solving tasks.",
       "category": "Tech/AI",
@@ -199,6 +199,15 @@
       "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
       "source": "Simon Willison",
       "published": "2026-09-01T23:57:28+00:00"
+    },
+    {
+      "headline": "AISLE Discovers Six Curl CVEs After Major AI Models Found Zero",
+      "summary": "AI cybersecurity startup AISLE uncovered six low-severity vulnerabilities in the heavily audited curl codebase just days after frontier models from OpenAI and Anthropic reported zero findings. Curl maintainers validated the reports and issued CVEs for the newly released version 8.22.0.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
+      "source": "Hacker News",
+      "published": "2026-09-02T13:43:14+00:00"
     },
     {
       "headline": "Decoding the Identity of the 144,000 in Revelation",
@@ -217,6 +226,15 @@
       "url": "https://www.thegospelcoalition.org/article/bring-sexual-sin-light/",
       "source": "The Gospel Coalition",
       "published": "2026-09-01T04:04:00+00:00"
+    },
+    {
+      "headline": "Embracing Humanity Through Gardening",
+      "summary": "This essay from The Gospel Coalition explores themes of faith, humanity, and spiritual life. It is part of a broader collection of theological commentary and cultural essays.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/embrace-humanity-dig-dirt/",
+      "source": "The Gospel Coalition",
+      "published": "2026-09-01T04:03:00+00:00"
     },
     {
       "headline": "The Gospel Coalition Announces 2026 Essay Winners",
@@ -264,87 +282,6 @@
       "published": "2026-09-02T10:46:56+00:00"
     },
     {
-      "headline": "Israeli Military Holds Six-Mile Buffer Inside Lebanon Despite Ceasefire",
-      "summary": "An on-the-ground BBC investigation reveals that Israeli ground forces currently control approximately 5% of Lebanese territory, occupying a buffer zone that extends up to six miles north of the border. Israeli forces have established checkpoints and leveled entire villages across the Shia heartland, cutting off border communities despite a ceasefire established in June. The ongoing demolitions and fortified outposts reflect a deepening military footprint in southern Lebanon following the conflict sparked in March.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-02T05:03:09+00:00"
-    },
-    {
-      "headline": "Millions Displaced as Neighbors Expel Afghans",
-      "summary": "Pakistan and Iran have intensified a crackdown on undocumented migrants, forcing millions of Afghans to return to a country many have never even visited. The UN reports that six million people have returned in under three years, creating a massive humanitarian crisis as families struggle to survive in a landscape lacking basic resources.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-01T05:00:34+00:00"
-    },
-    {
-      "headline": "Claude's Updated System Prompt Striricly Blocks Song Lyrics Reproduction",
-      "summary": "Anthropic's latest system prompts for consumer models like Fable 5.1 add explicit instructions prohibiting Claude from reproducing copyrighted song lyrics, poems, or book passages. The update arrives shortly after major music publishers filed lawsuits against AI companies over copyright infringement.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-      "source": "Simon Willison",
-      "published": "2026-09-02T14:16:42+00:00"
-    },
-    {
-      "headline": "Embracing Humanity Through Gardening",
-      "summary": "This essay from The Gospel Coalition explores themes of faith, humanity, and spiritual life. It is part of a broader collection of theological commentary and cultural essays.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/embrace-humanity-dig-dirt/",
-      "source": "The Gospel Coalition",
-      "published": "2026-09-01T04:03:00+00:00"
-    },
-    {
-      "headline": "EU and NATO Vow Retaliation After Russian-Backed Drone Attack in Germany",
-      "summary": "Top officials from NATO and the European Commission have condemned a failed drone attack on Leipzig airport as a dangerous Russian escalation on EU soil. In response, Germany is closing a Russian consulate in Bonn and shuttering a cultural institution in Berlin accused of spreading Kremlin propaganda.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-02T13:04:47.826Z"
-    },
-    {
-      "headline": "Putin's Veiled Threats Keep Britain Guessing",
-      "summary": "Russian leadership continues a psychological campaign against the West by deliberately leaving Britain uncertain of Moscow's true intentions and strategic next steps.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-02T11:47:11.766Z"
-    },
-    {
-      "headline": "Hamas Health Ministry Reports Over 900 Deaths in Gaza This Year",
-      "summary": "Despite an ongoing ceasefire, the death toll in the Gaza Strip since October 10 has surpassed 1,300 victims. According to local health officials, this total includes over 300 children.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-02T11:51:46+00:00"
-    },
-    {
-      "headline": "New Lawsuits Accuse OpenAI Executives of Prioritizing Image Over Safety",
-      "summary": "Thirty new complaints filed in a San Francisco federal court allege that OpenAI and CEO Sam Altman ignored warnings to notify law enforcement about a user's violent conversations prior to a Canadian mass shooting. The lawsuits claim leadership actively suppressed safety interventions to protect the company's public image.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
-      "source": "NPR News",
-      "published": "2026-09-02T08:22:42-04:00"
-    },
-    {
-      "headline": "AISLE Discovers Six Curl CVEs After Major AI Models Found Zero",
-      "summary": "AI cybersecurity startup AISLE uncovered six low-severity vulnerabilities in the heavily audited curl codebase just days after frontier models from OpenAI and Anthropic reported zero findings. Curl maintainers validated the reports and issued CVEs for the newly released version 8.22.0.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "source": "Hacker News",
-      "published": "2026-09-02T13:43:14+00:00"
-    },
-    {
       "headline": "Assessing Arsenal's Rival Threats",
       "summary": "As the summer transfer window closes, chief football writer Phil McNulty evaluates whether Arsenal's competitors have made sufficient roster upgrades to mount a serious title challenge. The analysis looks closely at how rival squads reshaped their lineups ahead of the new campaign.",
       "category": "Sports",
@@ -352,15 +289,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c804y5e1333o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
       "published": "2026-09-02T06:12:02+00:00"
-    },
-    {
-      "headline": "US Secures Massive Venezuelan Oil Deal",
-      "summary": "The US and interim Venezuelan President Delcy Rodríguez finalized a historic agreement granting a US-led firm 100-year concessions over 17 oilfields holding 65 billion barrels of crude. While leaders hail the pact for driving billions in tax and investment revenue, critics blast the arrangement for handing over vital national resources.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-01T21:27:29.953Z"
     },
     {
       "headline": "Tracking Transfer Deadline Day Signings",
@@ -372,22 +300,103 @@
       "published": "2026-09-02T12:17:43+00:00"
     },
     {
-      "headline": "Why Humanoid Robots Aren't Replacing Workers Yet",
-      "summary": "Despite viral stunts like speedy 100-meter dashes and backflipping dance routines, robotics experts emphasize that humanoid machines are still far from replacing human labor. While acrobatic maneuvers look impressive, everyday physical tasks like picking up a soda can remain exceptionally difficult for current AI.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.understandingai.org/p/why-humanoid-robots-wont-catch-up",
-      "source": "Hacker News",
-      "published": "2026-09-01T12:52:39+00:00"
-    },
-    {
       "headline": "Premier League Shatters Spending Record Again",
       "summary": "English top-flight clubs pushed summer transfer spending to an unprecedented £3.49bn, breaking the previous record set just last year. High-profile deadline day moves, including Enzo Fernandez's joint-British record £125m switch to Manchester City, fueled the historic financial milestone.",
       "category": "Sports",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/sport/football/articles/czxzk0znvzeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-09-01T20:17:17.108Z"
+      "published": "2026-09-02T00:17:42+00:00"
+    },
+    {
+      "headline": "Putin's Veiled Threats Keep Britain Guessing",
+      "summary": "Russian leadership continues a psychological campaign against the West by deliberately leaving Britain uncertain of Moscow's true intentions and strategic next steps.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-02T11:47:11+00:00"
+    },
+    {
+      "headline": "Zelensky Warns Airlines to Avoid Russian Airspace as Drone Strikes Ramp Up",
+      "summary": "Ukrainian President Volodymyr Zelensky urged commercial airlines and insurers to halt flights over Russia, warning that Ukrainian long-range drone strikes are making Russian airspace increasingly dangerous. The warning primarily impacts non-Western carriers, such as Chinese airlines, that continue routing through major hubs like Moscow and St. Petersburg. Risk analysts expect daily deep-incursion strikes against Russian infrastructure to persist, while Vladimir Putin condemned the remarks as state terrorism.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-02T16:12:43+00:00"
+    },
+    {
+      "headline": "Hamas Health Ministry Reports Over 900 Deaths in Gaza This Year",
+      "summary": "Despite an ongoing ceasefire, the death toll in the Gaza Strip since October 10 has surpassed 1,300 victims. According to local health officials, this total includes over 300 children.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-02T11:51:46+00:00"
+    },
+    {
+      "headline": "Israeli Military Holds Six-Mile Buffer Inside Lebanon Despite Ceasefire",
+      "summary": "An on-the-ground BBC investigation reveals that Israeli ground forces currently control approximately 5% of Lebanese territory, occupying a buffer zone that extends up to six miles north of the border. Israeli forces have established checkpoints and leveled entire villages across the Shia heartland, cutting off border communities despite a ceasefire established in June. The ongoing demolitions and fortified outposts reflect a deepening military footprint in southern Lebanon following the conflict sparked in March.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-02T05:03:09+00:00"
+    },
+    {
+      "headline": "US Secures Massive Venezuelan Oil Deal",
+      "summary": "The US and interim Venezuelan President Delcy Rodríguez finalized a historic agreement granting a US-led firm 100-year concessions over 17 oilfields holding 65 billion barrels of crude. While leaders hail the pact for driving billions in tax and investment revenue, critics blast the arrangement for handing over vital national resources.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c93vkgk5e1yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-01T21:27:29+00:00"
+    },
+    {
+      "headline": "New Lawsuits Accuse OpenAI Executives of Prioritizing Image Over Safety",
+      "summary": "Thirty new complaints filed in a San Francisco federal court allege that OpenAI and CEO Sam Altman ignored warnings to notify law enforcement about a user's violent conversations prior to a Canadian mass shooting. The lawsuits claim leadership actively suppressed safety interventions to protect the company's public image.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5953021/openai-tumbler-ridge-mass-shooting",
+      "source": "NPR News",
+      "published": "2026-09-02T12:22:42+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence NBA Digest Focuses on 2026-27 Previews",
+      "summary": "The latest edition features team-specific breakdowns ahead of the 2026-27 season, analyzing roster questions for franchises like the Celtics, Pistons, and Warriors. It also catalogs league-wide outlooks, tier rankings, and international talent developments.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-9226",
+      "source": "Basketball Intelligence",
+      "published": "2026-09-02T17:56:04+00:00"
+    },
+    {
+      "headline": "Computer Model Weighs In on Patriots vs. Seahawks 2026 NFL Opener",
+      "summary": "CBS Sports highlights analytical projections and betting odds for the upcoming 2026 NFL Kickoff Game between New England and Seattle. The breakdown utilizes advanced simulation models to offer spread picks and predictions for the season opener.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/patriots-seahawks-predictions-odds-line-spread-date-2026-nfl-kickoff-game-picks-bets/",
+      "source": "CBS Sports",
+      "published": "2026-09-02T17:23:16+00:00"
+    },
+    {
+      "headline": "Advanced Computer Simulations Release Week 1 NFL Best Bets",
+      "summary": "A 10,000-iteration computer model has generated early predictions, point spreads, and best bets for the opening week of the 2026 NFL season. The data-driven picks specifically single out value positions for teams like the Eagles and Jaguars.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-lines-spreads-predictions-picks/",
+      "source": "CBS Sports",
+      "published": "2026-09-02T17:09:38+00:00"
+    },
+    {
+      "headline": "Simon Willison Releases llm-gemini 0.34 with New Flash Model Support",
+      "summary": "The latest plugin update adds support for Google's gemini-3.8-flash model, featuring configurable low, medium, and high thinking levels. The release also includes a fix for async responses that previously failed to properly record resolved model versions.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+      "source": "Simon Willison",
+      "published": "2026-09-02T16:39:38+00:00"
     },
     {
       "headline": "Asher White Centers Intricate Melodies on 'Love Aggregates'",
@@ -399,13 +408,13 @@
       "published": "2026-09-02T04:03:00+00:00"
     },
     {
-      "headline": "Turnstile Expands Soundscape with Remix Album",
-      "summary": "Turnstile has released 'Never Enough: Versions,' a sprawling remix project that pulls together a massive, festival-sized lineup of guest artists. The tracklist spans wildly different genres, jumping from A.G. Cook and Panda Bear to a brutal appearance by death metal stalwarts Dying Fetus.",
+      "headline": "Mike Shabb Revives 90s Golden Era on Sewaside IV",
+      "summary": "Montreal rapper Mike Shabb continues his exploration of 1990s hip-hop aesthetics across 21 tracks on his latest album, Sewaside IV. Blending dusty drums, jazz undertones, and gritty street narratives, Shabb successfully honors classic production styles without feeling like a mere tribute act.",
       "category": "Music",
       "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/turnstile-never-enough-versions/",
+      "url": "https://pitchfork.com/reviews/albums/mike-shabb-sewaside-iv/",
       "source": "Pitchfork",
-      "published": "2026-09-01T04:03:00+00:00"
+      "published": "2026-09-02T04:02:00+00:00"
     },
     {
       "headline": "Tim Cook Reflects on Apple Culture and Hands Reins to John Ternus in Farewell Memo",
@@ -426,31 +435,22 @@
       "published": "2026-09-01T07:59:07+00:00"
     },
     {
-      "headline": "Simon Willison discovers LibreOffice bundled inside OpenAI’s Codex runtime",
-      "summary": "While cleaning his cache, Willison found a 1.7 GB Codex runtime folder containing full Python, Node.js, Poppler, Git, and a complete LibreOffice suite. The binaries are packaged as plugins that enable the ChatGPT desktop app to process documents locally.",
-      "category": "Tech/AI",
+      "headline": "Klint Kubiak Names Kirk Cousins Raiders Starter Over Rookie Fernando Mendoza",
+      "summary": "Raiders head coach Klint Kubiak has ended the offseason quarterback debate by selecting veteran Kirk Cousins as the starter. Cousins wins the job over top overall draft pick Fernando Mendoza heading into the new season.",
+      "category": "NFL",
       "relevance": 7,
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "source": "Simon Willison",
-      "published": "2026-09-01T19:03:01+00:00"
+      "url": "https://www.cbssports.com/nfl/news/klint-kubiak-names-kirk-cousins-starter-over-no-1-pick-fernando-mendoza/",
+      "source": "CBS Sports",
+      "published": "2026-09-02T18:38:21+00:00"
     },
     {
-      "headline": "Mike Shabb Revives 90s Golden Era on Sewaside IV",
-      "summary": "Montreal rapper Mike Shabb continues his exploration of 1990s hip-hop aesthetics across 21 tracks on his latest album, Sewaside IV. Blending dusty drums, jazz undertones, and gritty street narratives, Shabb successfully honors classic production styles without feeling like a mere tribute act.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/mike-shabb-sewaside-iv/",
-      "source": "Pitchfork",
-      "published": "2026-09-02T04:02:00+00:00"
-    },
-    {
-      "headline": "The Royal Pavilion's Indian Architecture in England",
-      "summary": "Built in the late 18th century for British royals fascinated by South Asian design, Brighton's Royal Pavilion features striking Mughal arches and onion domes. The stunning structure serves as a tangible reminder that colonial exchange ran both ways, bringing Indian architectural styles back to the British mainland.",
+      "headline": "New Jersey Petitions Supreme Court in High-Stakes Kalshi Legal Battle",
+      "summary": "New Jersey has asked the Supreme Court to settle a multi-billion dollar dispute over whether state gambling authorities or federal commodities regulators should oversee prediction platforms like Kalshi. With sports wagers making up the vast majority of Kalshi's volume, a Supreme Court review could reshape the entire prediction market industry.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.npr.org/2026/09/02/nx-s1-5952243/royal-pavilion-brighton-england-architecture-india",
+      "relevance": 4,
+      "url": "https://www.npr.org/2026/09/02/nx-s1-5954230/supreme-court-prediction-markets-kalshi-new-jersey",
       "source": "NPR News",
-      "published": "2026-09-02T10:30:36-04:00"
+      "published": "2026-09-02T14:17:19-04:00"
     }
   ]
 }
