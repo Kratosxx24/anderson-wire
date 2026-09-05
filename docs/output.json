@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:38:47.462763+00:00",
+  "generated_at": "2026-09-05T23:24:29.740447+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,15 +57,6 @@
       "published": "2026-09-04T01:18:34+00:00"
     },
     {
-      "headline": "Inside OpenAI with President Greg Brockman",
-      "summary": "OpenAI co-founder and President Greg Brockman sits down with Ben Thompson to discuss his career trajectory from Stripe to the helm of an AI giant. The conversation explores the launch of the new Astra model, early company drama, and the ongoing debate surrounding AI safety and alignment.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
-      "source": "Stratechery",
-      "published": "2026-09-04T10:00:00+00:00"
-    },
-    {
       "headline": "Exploring an Extreme Camera Robot",
       "summary": "A close look at an ultra-advanced camera robot reveals the extreme engineering and capabilities pushing automated cinematography to new limits. The hardware demonstrates complex movement patterns far beyond traditional filmmaking tools.",
       "category": "YouTube",
@@ -111,13 +102,22 @@
       "published": "2026-09-04T19:10:45+00:00"
     },
     {
-      "headline": "Christian Parker Overhauls the Dallas Cowboys Defense",
-      "summary": "Following years of defensive struggles and a massive roster shakeup that included trading Micah Parsons for Quinnen Williams, the Dallas Cowboys are rebuilding their scheme. New coordinator Christian Parker is installing a split-safety 3-4 defense and rotational coverages to fix a historically porous unit.",
-      "category": "NFL",
+      "headline": "2026 Fantasy Football Draft Prep Released",
+      "summary": "CBS Sports has launched its comprehensive 2026 fantasy football preparation guide. The package features expert player rankings, tier breakdowns, sleeper picks, and a definitive top 150 list for upcoming drafts.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://www.matchquarters.com/p/christian-parker-cowboys-3-4-defense-film-study",
-      "source": "MatchQuarters",
-      "published": "2026-09-04T10:02:53+00:00"
+      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-elite-nfl-experts-unveil-rankings-guide-tiers-best-150-picks/",
+      "source": "CBS Sports",
+      "published": "2026-09-05T21:15:41+00:00"
+    },
+    {
+      "headline": "Simulation-Based 2026 Fantasy Football Busts",
+      "summary": "A specialized simulation model that previously flagged Terry McLaurin's difficult campaign has identified the riskiest player picks for the 2026 fantasy season. The analysis highlights high-profile draft busts and players poised to underperform expectations.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-and-riskiest-picks-by-simulation-that-called-mclaurins-tough-year/",
+      "source": "CBS Sports",
+      "published": "2026-09-05T20:10:33+00:00"
     },
     {
       "headline": "Oregon Faces Tough Boise State Test in Early Season Matchup",
@@ -147,6 +147,15 @@
       "published": "2026-09-04T20:04:47+00:00"
     },
     {
+      "headline": "Pairing Coding Agents with Blender on macOS",
+      "summary": "Developer Simon Willison highlights how effectively modern frontier AI models handle Blender tasks on a Mac when paired via its Python API. By pointing a coding agent to the local application, users can effortlessly generate editable 3D blend files, rendered images, and animated sequences.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "source": "Simon Willison",
+      "published": "2026-09-05T15:51:09+00:00"
+    },
+    {
       "headline": "Alabama Shakes Returns with Retro-Soul LP 'I Must Be Dreaming'",
       "summary": "Alabama Shakes has returned with 'I Must Be Dreaming,' their first new album in over a decade. While the release retains the band's signature retro hooks and Brittany Howard's powerhouse vocals, critics note it often leans on safe, familiar formulas. The comeback arrives following Howard's successful run of Grammy-winning solo projects.",
       "category": "Music",
@@ -163,15 +172,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-09-05T00:53:11+00:00"
-    },
-    {
-      "headline": "Pairing Coding Agents with Blender on macOS",
-      "summary": "Developer Simon Willison highlights how effectively modern frontier AI models handle Blender tasks on a Mac when paired via its Python API. By pointing a coding agent to the local application, users can effortlessly generate editable 3D blend files, rendered images, and animated sequences.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "source": "Simon Willison",
-      "published": "2026-09-05T15:51:09+00:00"
     },
     {
       "headline": "Simon Willison Tests GPT-6 Astra with Pelican SVG Grid",
@@ -199,15 +199,6 @@
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "source": "Hacker News",
       "published": "2026-09-04T21:52:01+00:00"
-    },
-    {
-      "headline": "Can AI Design Circuit Boards? Meet EEBench",
-      "summary": "While AI models like OpenAI's GPT-6 Astra show promising demonstrations in CAD software, evaluating their electronics design remains tricky. Benchmarking tool EEBench bypasses clumsy graphical interfaces by using declarative code in atopile, allowing agents to directly simulate and test real-world hardware constraints.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "source": "Hacker News",
-      "published": "2026-09-04T19:48:29+00:00"
     },
     {
       "headline": "John Piper Reflects on 25 Years of the ESV Bible",
@@ -273,76 +264,22 @@
       "published": "2026-09-04T16:02:32+00:00"
     },
     {
-      "headline": "2026 Fantasy Football Draft Prep Released",
-      "summary": "CBS Sports has launched its comprehensive 2026 fantasy football preparation guide. The package features expert player rankings, tier breakdowns, sleeper picks, and a definitive top 150 list for upcoming drafts.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-elite-nfl-experts-unveil-rankings-guide-tiers-best-150-picks/",
-      "source": "CBS Sports",
-      "published": "2026-09-05T21:15:41+00:00"
-    },
-    {
-      "headline": "Simulation-Based 2026 Fantasy Football Busts",
-      "summary": "A specialized simulation model that previously flagged Terry McLaurin's difficult campaign has identified the riskiest player picks for the 2026 fantasy season. The analysis highlights high-profile draft busts and players poised to underperform expectations.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-and-riskiest-picks-by-simulation-that-called-mclaurins-tough-year/",
-      "source": "CBS Sports",
-      "published": "2026-09-05T20:10:33+00:00"
-    },
-    {
       "headline": "U.S. Envoys Push for Russia-Ukraine Peace in Moscow",
       "summary": "American negotiators Steve Witkoff and Jared Kushner arrived in Moscow to restart stalled diplomatic efforts aimed at ending the war in Ukraine. Ukrainian President Volodymyr Zelenskyy proposed a temporary halt to airstrikes during the visit, though Moscow has not yet issued a public response.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
       "source": "NPR News",
-      "published": "2026-09-05T07:08:57-04:00"
+      "published": "2026-09-05T11:08:57+00:00"
     },
     {
-      "headline": "AI Incident Tools Create Skill Gaps for Engineers",
-      "summary": "As AI agents increasingly handle routine IT alerts and fixes, human engineers miss out on the low-stakes troubleshooting needed to build system intuition. Former SRE Sylvain Kalache warns this mirrors aviation's automation paradox, where average resolution times drop while catastrophic failures take much longer to solve because operators are out of practice.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-      "source": "Hacker News",
-      "published": "2026-09-05T07:52:50+00:00"
-    },
-    {
-      "headline": "US Envoys Arrive in Moscow with New Peace Proposal for Ukraine",
-      "summary": "Top U.S. envoys Steve Witkoff and Jared Kushner have traveled to Moscow to deliver a fresh peace proposal aimed at ending the war in Ukraine. Both Russia and Ukraine agreed to a temporary three-day halt on capital city airstrikes while the American delegation conducts high-level diplomatic meetings. The envoys are scheduled to travel onward to Kyiv on Sunday for direct discussions with Ukrainian President Volodymyr Zelenskyy.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-05T20:15:49+00:00"
-    },
-    {
-      "headline": "US Strikes Three Iranian Oil Tankers After Warships Targeted",
-      "summary": "The US military permanently disabled two oil tankers and destroyed a third following unprovoked ballistic missile attacks by the Islamic Revolutionary Guard Corps against American warships in the region. Central Command stated that the targeted vessels belonged to a shadow network funding Iranian proxies and warned that the US would retaliate economically against Iran's oil fleet. The strikes mark a sharp military escalation following the expiration of a 60-day ceasefire.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-05T20:41:59+00:00"
-    },
-    {
-      "headline": "U.S. Space Industry Lacks Workforce to Replace Wartime Satellite Losses",
-      "summary": "A RAND report warns that the United States lacks enough engineers and technicians to rebuild military satellites within a crucial 12-to-24-month window if a conflict breaks out with China or Russia. The study highlights that higher-paying tech sectors heavily poach top engineering talent, leaving the defense space industrial base severely understaffed.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-      "source": "Hacker News",
-      "published": "2026-09-04T13:50:33.829Z"
-    },
-    {
-      "headline": "Study Models Large Language Models as a Cognitive Virus",
-      "summary": "Researchers published a paper examining the rapid adoption of large language models through the lens of viral epidemiology. The mathematical model demonstrates how social transmission and collective dependence can create tipping points that threaten human cognitive autonomy.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://arxiv.org/abs/2609.03344",
-      "source": "Hacker News",
-      "published": "2026-09-05T20:02:35+00:00"
+      "headline": "CBS Sports Drops Week 1 NFL Predictions and Betting Odds",
+      "summary": "CBS Sports has released its expert score predictions and best bets for every matchup of the 2026 NFL Week 1 slate. Bettors can review the detailed odds and projected game outcomes to guide their opening-week wagers.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/2026-week-1-nfl-score-predictions-odds-best-bets-picks-today/",
+      "source": "CBS Sports",
+      "published": "2026-09-05T23:04:23+00:00"
     },
     {
       "headline": "Seahawks vs. Patriots 2026 NFL Kickoff DFS Advice",
@@ -363,13 +300,40 @@
       "published": "2026-09-05T20:30:52+00:00"
     },
     {
+      "headline": "Study Models Large Language Models as a Cognitive Virus",
+      "summary": "Researchers published a paper examining the rapid adoption of large language models through the lens of viral epidemiology. The mathematical model demonstrates how social transmission and collective dependence can create tipping points that threaten human cognitive autonomy.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://arxiv.org/abs/2609.03344",
+      "source": "Hacker News",
+      "published": "2026-09-05T20:02:35+00:00"
+    },
+    {
+      "headline": "US Envoys Arrive in Moscow with New Peace Proposal for Ukraine",
+      "summary": "Top U.S. envoys Steve Witkoff and Jared Kushner have traveled to Moscow to deliver a fresh peace proposal aimed at ending the war in Ukraine. Both Russia and Ukraine agreed to a temporary three-day halt on capital city airstrikes while the American delegation conducts high-level diplomatic meetings. The envoys are scheduled to travel onward to Kyiv on Sunday for direct discussions with Ukrainian President Volodymyr Zelenskyy.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-05T21:39:02+00:00"
+    },
+    {
+      "headline": "US Strikes Three Iranian Oil Tankers After Warships Targeted",
+      "summary": "The US military permanently disabled two oil tankers and destroyed a third following unprovoked ballistic missile attacks by the Islamic Revolutionary Guard Corps against American warships in the region. Central Command stated that the targeted vessels belonged to a shadow network funding Iranian proxies and warned that the US would retaliate economically against Iran's oil fleet. The strikes mark a sharp military escalation following the expiration of a 60-day ceasefire.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-05T22:44:07+00:00"
+    },
+    {
       "headline": "UK Affirms Unwavering Support for Falkland Islands After Argentine Claims",
       "summary": "Downing Street reaffirmed that the UK's commitment to the Falkland Islands remains absolute following a televised speech by Argentine President Javier Milei reiterating territorial claims and threatening sanctions on oil firms. A British spokesperson emphasized that local residents overwhelmingly wish to remain a British overseas territory and military forces are ready to protect them.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-04T10:53:11.720Z"
+      "published": "2026-09-04T11:54:51+00:00"
     },
     {
       "headline": "European Central Banks Repatriate Gold Reserves",
@@ -378,16 +342,34 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cvgyn8q8gqxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-05T01:42:09.481Z"
+      "published": "2026-09-05T01:42:09+00:00"
     },
     {
-      "headline": "German Private Rocket Reaches Orbit From European Soil",
-      "summary": "A private German aerospace venture has achieved a historic milestone by successfully launching a rocket into orbit directly from European territory. This marks a major breakthrough for the continent's commercial spaceflight capabilities.",
+      "headline": "Expert Guide and Strategy Released for Week 1 NFL Survivor Pools",
+      "summary": "A new strategy guide highlights optimal knockout picks and potential trap teams to avoid for Week 1 NFL survivor pools. The advice helps pool participants navigate early-season upsets and preserve top-tier contenders.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-survivor-pool-picks-advice-strategy-guide-optimal-knockout-pick/",
+      "source": "CBS Sports",
+      "published": "2026-09-05T21:35:26+00:00"
+    },
+    {
+      "headline": "OKF Agent Memory Brings Git-Native Persistent Storage to AI Coding Agents",
+      "summary": "OKF Agent Memory introduces a vendor-neutral, Git-native memory layer using plain Markdown files and YAML frontmatter to store AI context. Built in pure Go, it slashes token bloat by 80% while delivering sub-300µs in-memory BM25 search without external databases.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "relevance": 7,
+      "url": "https://github.com/okf-memory/okf-agent-memory",
       "source": "Hacker News",
-      "published": "2026-09-05T14:00:00Z"
+      "published": "2026-09-05T22:15:52+00:00"
+    },
+    {
+      "headline": "The Economist Examines How AI is Disrupting the British State",
+      "summary": "A brief look at a recent Economist piece explores the growing pressures and systemic disruptions that artificial intelligence introduces to the British government. The commentary highlights ongoing challenges as public institutions attempt to adapt to rapid technological shifts.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.economist.com/leaders/2026/08/06/how-ai-is-breaking-the-british-state",
+      "source": "Hacker News",
+      "published": "2026-09-05T21:05:35+00:00"
     },
     {
       "headline": "Adobe Appoints Anil Chakravarthy as New CEO",
@@ -399,15 +381,6 @@
       "published": "2026-09-05T00:05:47+00:00"
     },
     {
-      "headline": "Isar Aerospace Completes Orbital Launch",
-      "summary": "Isar Aerospace has successfully executed its orbital launch sequence, showcasing the vehicle's capabilities in flight. Video footage of the liftoff highlights the company's progress in European commercial launch technology.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
-      "source": "Hacker News",
-      "published": "2026-09-05T20:25:30+00:00"
-    },
-    {
       "headline": "FBI Investigates Dark Web Leak of 153 Million Driver's Licenses",
       "summary": "The FBI's New Orleans field office has launched an inquiry into a dark web service offering verified digital scans of over 153 million driver's licenses from the U.S. and Canada. The massive data leak appears to originate from a widely used Louisiana-based identity verification company and reportedly includes documents belonging to high-ranking government officials.",
       "category": "Tech/AI",
@@ -417,13 +390,40 @@
       "published": "2026-09-04T16:15:43+00:00"
     },
     {
+      "headline": "German Private Rocket Reaches Orbit From European Soil",
+      "summary": "A private German aerospace venture has achieved a historic milestone by successfully launching a rocket into orbit directly from European territory. This marks a major breakthrough for the continent's commercial spaceflight capabilities.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "source": "Hacker News",
+      "published": "2026-09-05T20:31:38+00:00"
+    },
+    {
+      "headline": "Isar Aerospace Completes Orbital Launch",
+      "summary": "Isar Aerospace has successfully executed its orbital launch sequence, showcasing the vehicle's capabilities in flight. Video footage of the liftoff highlights the company's progress in European commercial launch technology.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.youtube.com/watch?v=Ss1DUqLjecc",
+      "source": "Hacker News",
+      "published": "2026-09-05T20:25:30+00:00"
+    },
+    {
       "headline": "Both Parties Spend Millions Targeting AI Data Centers in Midterms",
       "summary": "Republicans and Democrats have poured more than $45 million into campaign ads criticizing AI data centers over tax breaks and soaring electricity bills. While both parties are using identical arguments to court frustrated voters, Democrats have deployed nearly twice as many ads as Republicans.",
       "category": "Tech/AI",
       "relevance": 6,
       "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
       "source": "NPR News",
-      "published": "2026-09-05T05:00:00-04:00"
+      "published": "2026-09-05T09:00:00+00:00"
+    },
+    {
+      "headline": "Exposing Common Falsehoods Programmers Believe About LANs",
+      "summary": "A technical post addresses dangerous assumptions and misconceptions that software developers often hold regarding Local Area Networks. It aims to correct faulty networking logic that can lead to brittle applications and unexpected production failures.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://dreamstation.systems/personal/lanfalsehoods.html",
+      "source": "Hacker News",
+      "published": "2026-09-05T22:08:16+00:00"
     },
     {
       "headline": "John Coltrane's Philadelphia Home Set for Cultural Heritage Transformation",
@@ -432,7 +432,7 @@
       "relevance": 5,
       "url": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
       "source": "NPR News",
-      "published": "2026-09-05T17:01:10-04:00"
+      "published": "2026-09-05T21:01:10+00:00"
     },
     {
       "headline": "NFL Hits Browns Lineman With First Major Fine of 2026",
@@ -450,7 +450,7 @@
       "relevance": 4,
       "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
       "source": "Hacker News",
-      "published": "2014-02-04T16:16:37+00:00"
+      "published": "2026-09-05T20:25:59+00:00"
     }
   ]
 }
