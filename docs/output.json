@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T05:08:22.953590+00:00",
+  "generated_at": "2026-09-08T09:49:33.351469+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -84,6 +84,33 @@
       "published": "2026-09-06T23:57:40+00:00"
     },
     {
+      "headline": "MKBHD Reviews Google Pixel 11 Pro",
+      "summary": "Marques Brownlee breaks down the design, features, and performance of the new Google Pixel 11 Pro. The review analyzes how Google's latest hardware updates stack up against the steep competition in the mobile market.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
+      "source": "MKBHD",
+      "published": "2026-09-05T21:18:49+00:00"
+    },
+    {
+      "headline": "Prisco's NFL Week 1 Power Rankings",
+      "summary": "CBS Sports analyst Pete Prisco drops his initial power rankings for the NFL season. The Jaguars and Cowboys secure top-five placements, while the hype surrounding the Rams' supposed super-team faces skepticism.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-1-power-rankings-jaguars-cowboys-deserve-attention-rams-super-team-too-good-to-be-true/",
+      "source": "CBS Sports",
+      "published": "2026-09-08T09:30:44+00:00"
+    },
+    {
+      "headline": "NFL Survivor Pool Advice: Fade the Cowboys",
+      "summary": "Strategic advice for NFL knockout and survivor pools highlights Week 1 traps to avoid. Analysts strongly recommend bypassing the Dallas Cowboys when making elimination picks to start the season safely.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-knockout-pool-predictions-strategy-guide-advice-week-1-2026-fade-the-dallas-cowboys/",
+      "source": "CBS Sports",
+      "published": "2026-09-08T00:17:59+00:00"
+    },
+    {
       "headline": "Rockets Sign Amen Thompson to Extension as Rookie Scale Standard Shifts",
       "summary": "Victor Wembanyama and Amen Thompson have secured major rookie-scale extensions, with Thompson locking in a five-year, $208 million deal with Houston. By securing Thompson below the maximum 25 percent cap threshold and bypassing luxury tax traps for Wembanyama, teams are displaying newfound financial prudence in early-extension negotiations.",
       "category": "NBA",
@@ -100,15 +127,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-9726",
       "source": "Basketball Intelligence",
       "published": "2026-09-07T16:42:49+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Round-Up Tackles Clippers' Bleak Outlook and Lakers' Rotation Battles",
-      "summary": "The latest edition of the Basketball Intelligence newsletter compiles essential league analysis, ranging from defensive metric pitfalls to Eastern Conference contenders facing the Knicks and 76ers. Team-focused coverage zeroes in on the Los Angeles Clippers' increasingly narrow path to contention alongside Nikola Jokić's post-injury durability. Meanwhile, early roster analysis highlights Sandro Mamukelashvili challenging head coach JJ Redick's rotation plans in Los Angeles.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-9626",
-      "source": "Basketball Intelligence",
-      "published": "2026-09-06T17:52:49+00:00"
     },
     {
       "headline": "Historic College Volleyball Doubleheader Held at Wrigley Field",
@@ -129,31 +147,22 @@
       "published": "2026-09-07T13:41:27+00:00"
     },
     {
-      "headline": "WorkOS Targets Security Flaws in AI Agent API Access",
-      "summary": "WorkOS highlights critical security vulnerabilities when AI agents interact with third-party APIs using traditional OAuth access tokens exposed to untrusted user input. The platform advocates for intent-based access controls and delegated permissions to prevent agents from misusing inherited credentials.",
+      "headline": "Simon Willison Ships LLM 0.35 CLI Tool",
+      "summary": "Developer Simon Willison has released version 0.35 of his command-line interface tool for interacting with large language models. The update introduces support for OpenAI's new gpt-6-astra model. The release comes as Willison continues his monthly briefing series covering major developments in the LLM ecosystem.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://workos.com/blog/delegated-access-for-ai-agents?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
-      "source": "Daring Fireball",
-      "published": "2026-09-06T19:06:27+00:00"
+      "url": "https://simonwillison.net/2026/Sep/7/llm/",
+      "source": "Simon Willison",
+      "published": "2026-09-07T23:54:54+00:00"
     },
     {
-      "headline": "Developer Publishes Reconstructed Source Code for Stuxnet",
-      "summary": "A developer has released a GitHub repository featuring a research-oriented reconstruction of the infamous Stuxnet cyber-weapon. The project decompiles the original binaries to preserve attack vectors targeting Windows XP and Windows 7 Siemens industrial control systems.",
+      "headline": "Benchmarking AI Models and Harnesses on a Three.js Task",
+      "summary": "A new evaluation tests various AI model and harness combinations on building a single-page Three.js sci-fi hangar with hovering drones and volumetric fog. Results show significant variances across runtimes, token consumption, caching percentages, and tool error rates. Models like GLM, Qwen, and Astra were pitted against different execution harnesses to determine optimal coding performance.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/Sadpainy/Stuxnet",
+      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
       "source": "Hacker News",
-      "published": "2026-09-07T22:12:38+00:00"
-    },
-    {
-      "headline": "Kyiv Suffers Record-Breaking Air Raid Alerts",
-      "summary": "Kyiv is enduring an unprecedented volume of daily air raid alerts, averaging 10 to 13 sirens a day following a shift to round-the-clock Russian strikes. The attacks, driven in part by much faster jet-powered drones, are heavily disrupting schools, businesses, and public transit. In response, the government is drafting a two-tier warning system to help citizens maintain daily routines.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-07T07:03:44+00:00"
+      "published": "2026-09-08T03:42:25+00:00"
     },
     {
       "headline": "Expert Guides Released for 2026 Fantasy Football Draft Prep",
@@ -163,6 +172,15 @@
       "url": "https://www.cbssports.com/fantasy/football/news/2026-fantasy-football-draft-prep-veteran-experts-unveil-rankings-draft-strategy-tiers-best-150-picks/",
       "source": "CBS Sports",
       "published": "2026-09-07T23:10:31+00:00"
+    },
+    {
+      "headline": "2026 Fantasy Football Rankings Target Risky Busts",
+      "summary": "CBS Sports highlights 2026 fantasy football bust candidates using an analytical model that previously flagged Terry McLaurin's difficult season. The predictive approach identifies overrated players and riskiest draft picks for the upcoming NFL campaign. Analysts utilize these algorithmic warnings to help fantasy managers avoid high-profile disappointments.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-riskiest-picks-by-model-that-was-all-over-terry-mclaurins-tough-year/",
+      "source": "CBS Sports",
+      "published": "2026-09-07T22:31:55+00:00"
     },
     {
       "headline": "Expert Shares Week 1 Betting Picks for SMU vs. Florida State",
@@ -219,40 +237,40 @@
       "published": "2026-09-07T04:00:00+00:00"
     },
     {
-      "headline": "High-Stakes Kyiv Talks Expose Deep Divide on Peace",
-      "summary": "Top US envoys met with Ukrainian President Volodymyr Zelensky in Kyiv following discussions in Moscow, attempting to bridge a massive gap between the warring nations. While officials expressed cautious optimism about reviving trilateral talks, fundamental disputes remain over territorial concessions, NATO membership, and security guarantees.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-06T20:52:12+00:00"
-    },
-    {
-      "headline": "Simon Willison Ships LLM 0.35 CLI Tool",
-      "summary": "Developer Simon Willison has released version 0.35 of his command-line interface tool for interacting with large language models. The update introduces support for OpenAI's new gpt-6-astra model. The release comes as Willison continues his monthly briefing series covering major developments in the LLM ecosystem.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "source": "Simon Willison",
-      "published": "2026-09-07T23:54:54+00:00"
-    },
-    {
-      "headline": "Benchmarking AI Models and Harnesses on a Three.js Task",
-      "summary": "A new evaluation tests various AI model and harness combinations on building a single-page Three.js sci-fi hangar with hovering drones and volumetric fog. Results show significant variances across runtimes, token consumption, caching percentages, and tool error rates. Models like GLM, Qwen, and Astra were pitted against different execution harnesses to determine optimal coding performance.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-      "source": "Hacker News",
-      "published": "2026-09-08T03:42:25+00:00"
-    },
-    {
-      "headline": "2026 Fantasy Football Rankings Target Risky Busts",
-      "summary": "CBS Sports highlights 2026 fantasy football bust candidates using an analytical model that previously flagged Terry McLaurin's difficult season. The predictive approach identifies overrated players and riskiest draft picks for the upcoming NFL campaign. Analysts utilize these algorithmic warnings to help fantasy managers avoid high-profile disappointments.",
+      "headline": "Mastering the Four-Step Volleyball Approach",
+      "summary": "A breakdown of the essential four-step volleyball approach details how precise footwork and timing convert forward momentum into vertical power. For right-handed players, the sequence moves from a slow, controlled trigger step to a hard-planting final leap.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-riskiest-picks-by-model-that-was-all-over-terry-mclaurins-tough-year/",
-      "source": "CBS Sports",
-      "published": "2026-09-07T22:31:55+00:00"
+      "url": "https://volleyballmag.com/how-to-spike-a-volleyball-using-the-four-step-approach/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-spike-a-volleyball-using-the-four-step-approach",
+      "source": "Volleyball Mag",
+      "published": "2026-09-07T22:41:57+00:00"
+    },
+    {
+      "headline": "Mistral Secures €3B in Series D Funding",
+      "summary": "AI startup Mistral has raised €3 billion at a valuation exceeding €21 billion, marking the largest equity financing round for a European tech company. Led by Samsung Electronics, the capital will fund expanded research, infrastructure, and international enterprise scaling.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "source": "Hacker News",
+      "published": "2026-09-08T05:06:23+00:00"
+    },
+    {
+      "headline": "Inside the MicroVMs Powering Mobile AI Agents",
+      "summary": "Analysis of cloud environments for mobile agents like Claude Code reveals they run on dedicated Firecracker microVMs. These isolated guest kernels use host-driven lifecycles and secure vsock communication to safely execute tasks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "source": "Hacker News",
+      "published": "2026-09-08T04:36:26+00:00"
+    },
+    {
+      "headline": "Russia and North Korea Open First Shared Road Bridge",
+      "summary": "Russia and North Korea have inaugurated their first direct road bridge across the Tumen river, connecting Khasan and Rason to facilitate cargo and passenger movement. While state media frames the link as a symbol of economic friendship and tourism, regional observers warn it establishes a covert military logistics corridor. The crossing is designed to handle up to 300 vehicles and 2,323 people daily.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-08T03:53:27+00:00"
     },
     {
       "headline": "Giants Cut Veteran Receiver Darius Slayton",
@@ -282,24 +300,6 @@
       "published": "2026-09-07T18:16:01+00:00"
     },
     {
-      "headline": "Meta AI Launches Native 16MB Desktop App for Mac",
-      "summary": "Meta has released a lightweight, native macOS app built with AppKit and SwiftUI for Apple Silicon devices running macOS 15 or later. The version 1.0 beta features global keyboard shortcuts, native dictation, screen context capturing, and a dedicated sidebar for media and tasks.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/",
-      "source": "Daring Fireball",
-      "published": "2026-09-06T20:44:27+00:00"
-    },
-    {
-      "headline": "CarPlay Absence Backfires in Accidental Auto Test",
-      "summary": "General Motors dropped Apple CarPlay and Android Auto from its 2025 EVs in favor of built-in Google software, sparking immediate consumer backlash. An accidental real-world comparison emerged when Honda released its Prologue EV—a vehicle sharing GM underpinnings—which successfully kept Apple CarPlay and Android Auto integration.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-      "source": "Daring Fireball",
-      "published": "2026-09-06T19:04:12+00:00"
-    },
-    {
       "headline": "OpenAI Chief Scientist Argues Smarter Models Are Needed for AI Defense",
       "summary": "OpenAI Chief Scientist Jakub Pachocki argues that racing to build smarter AI models is essential for creating defensive systems against rogue agents and securing critical infrastructure. However, he cautions that the need for robust defense should not be used as an excuse for reckless development.",
       "category": "Tech/AI",
@@ -309,13 +309,40 @@
       "published": "2026-09-07T22:26:25+00:00"
     },
     {
-      "headline": "Palestinian Families Fear School Safety Amid West Bank Violence",
-      "summary": "Parents and educators in the West Bank village of al-Mughayyir face intense anxiety as a surge in settler violence threatens local schools. Multiple students and residents have been killed or injured in ongoing clashes, prompting reinforced school security and daily fears for children.",
+      "headline": "Arm Unveils Mali G2-Ultra NX Mobile GPU",
+      "summary": "Arm has detailed its new Mali G2-Ultra NX GPU, built to deliver desktop-class mobile gaming performance with AI-native graphics capabilities. The architecture targets high-end handheld experiences through advanced rendering and hardware-level AI integration. This hardware launch aims to narrow the graphical gap between mobile devices and traditional desktop platforms.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "source": "Hacker News",
+      "published": "2026-09-08T04:06:20+00:00"
+    },
+    {
+      "headline": "Testing How Coding Agents Utilize Verification and Test Techniques",
+      "summary": "Recent evaluations test whether instructing coding agents to use specific testing libraries and techniques improves software correctness. The benchmark examines 26 prompt conditions—ranging from test-driven development and fuzzing to formal methods like Lean 4—using a Rust Zstd implementation task. The study aims to uncover which testing methodologies actually prevent software quality from degrading when driven by AI.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://danluu.com/agentic-testing/",
+      "source": "Hacker News",
+      "published": "2026-09-08T02:58:16+00:00"
+    },
+    {
+      "headline": "Terrastruct Open-Sources TALA Orthogonal Layout Engine",
+      "summary": "Terrastruct has open-sourced its custom autolayout algorithm, TALA, under the MPL-2.0 license alongside the D2 diagramming tool. Designed specifically for software architecture, TALA generates whiteboard-style orthogonal diagrams by balancing aesthetic objectives like symmetry and clustering. The engine is now bundled into D2 v0.9.0 and supports hybrid node coordinate locking for agentic workflows.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "source": "Hacker News",
+      "published": "2026-09-07T23:37:42+00:00"
+    },
+    {
+      "headline": "Israeli Air Strikes in Southern Lebanon Kill 12",
+      "summary": "Israeli air strikes in the southern Lebanese village of Kfar Roummane have killed at least 12 people, including paramedics and children, according to health officials. The military stated the strikes targeted Hezbollah infrastructure and weapons transport in retaliation for a drone attack on troops. Lebanese leadership warns that the escalating violence threatens the US-brokered ceasefire reached in June.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-07T21:12:37+00:00"
+      "published": "2026-09-07T13:39:23+00:00"
     },
     {
       "headline": "Arm CEO: AI Will Cure Cancer, But Chip Shortages Delay Progress",
@@ -324,7 +351,7 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-07T23:05:12+00:00"
+      "published": "2026-09-08T09:17:48+00:00"
     },
     {
       "headline": "Newly Unearthed Videos Link 9/11 Lawsuit Figure to Extremists",
@@ -354,58 +381,31 @@
       "published": "2026-09-07T13:31:16+00:00"
     },
     {
-      "headline": "Arm Unveils Mali G2-Ultra NX Mobile GPU",
-      "summary": "Arm has detailed its new Mali G2-Ultra NX GPU, built to deliver desktop-class mobile gaming performance with AI-native graphics capabilities. The architecture targets high-end handheld experiences through advanced rendering and hardware-level AI integration. This hardware launch aims to narrow the graphical gap between mobile devices and traditional desktop platforms.",
+      "headline": "The Race to Patch Software Vulnerabilities Before AI Hacks Strike",
+      "summary": "The release of cheap, un-safeguarded open-weight LLMs capable of advanced cyberattacks means the tech industry faces a narrow window to fix widespread security flaws. Experts warn that defenders must leverage automated AI tools to audit and secure infrastructure before malicious actors exploit the new capabilities.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
       "source": "Hacker News",
-      "published": "2026-09-08T01:59:18+00:00"
+      "published": "2026-09-08T04:48:10+00:00"
     },
     {
-      "headline": "Testing How Coding Agents Utilize Verification and Test Techniques",
-      "summary": "Recent evaluations test whether instructing coding agents to use specific testing libraries and techniques improves software correctness. The benchmark examines 26 prompt conditions—ranging from test-driven development and fuzzing to formal methods like Lean 4—using a Rust Zstd implementation task. The study aims to uncover which testing methodologies actually prevent software quality from degrading when driven by AI.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://danluu.com/agentic-testing/",
-      "source": "Hacker News",
-      "published": "2026-09-08T02:58:16+00:00"
-    },
-    {
-      "headline": "Terrastruct Open-Sources TALA Orthogonal Layout Engine",
-      "summary": "Terrastruct has open-sourced its custom autolayout algorithm, TALA, under the MPL-2.0 license alongside the D2 diagramming tool. Designed specifically for software architecture, TALA generates whiteboard-style orthogonal diagrams by balancing aesthetic objectives like symmetry and clustering. The engine is now bundled into D2 v0.9.0 and supports hybrid node coordinate locking for agentic workflows.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "source": "Hacker News",
-      "published": "2026-09-07T00:00:00.000Z"
-    },
-    {
-      "headline": "Russia and North Korea Open First Shared Road Bridge",
-      "summary": "Russia and North Korea have inaugurated their first direct road bridge across the Tumen river, connecting Khasan and Rason to facilitate cargo and passenger movement. While state media frames the link as a symbol of economic friendship and tourism, regional observers warn it establishes a covert military logistics corridor. The crossing is designed to handle up to 300 vehicles and 2,323 people daily.",
+      "headline": "Russia and North Korea Open First Shared Border Road",
+      "summary": "Moscow and Pyongyang have inaugurated a new two-lane bridge spanning the Tumen River to connect their territories. The crossing handles up to 300 vehicles daily, marking another milestone in tightening bilateral relations.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-08T03:53:27.485Z"
+      "url": "https://www.npr.org/2026/09/08/g-s1-142285/russia-north-korea-border",
+      "source": "NPR News",
+      "published": "2026-09-08T01:40:44-04:00"
     },
     {
-      "headline": "Israeli Air Strikes in Southern Lebanon Kill 12",
-      "summary": "Israeli air strikes in the southern Lebanese village of Kfar Roummane have killed at least 12 people, including paramedics and children, according to health officials. The military stated the strikes targeted Hezbollah infrastructure and weapons transport in retaliation for a drone attack on troops. Lebanese leadership warns that the escalating violence threatens the US-brokered ceasefire reached in June.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-07T07:13:37.907Z"
-    },
-    {
-      "headline": "Developer Builds Browser-Based Video Compressor Using WebAssembly and Claude",
-      "summary": "Blogger Simon Willison utilized Claude Code and a WebAssembly build of FFMPEG to create a custom, browser-based video compression tool. He developed the utility to easily optimize and publish a demo animation of his Equal Earth map directly to his site.",
+      "headline": "Security Researcher Factors 1990s Certificate Authority RSA Keys",
+      "summary": "Matthew McPherrin successfully factored a 512-bit RSA root certificate used by the defunct Canadian authority E-Certify in 1999. Sourced from vintage Netscape archives using AI-assisted extraction, the feat highlights the extreme cryptographic weakness of early web infrastructure.",
       "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
-      "source": "Simon Willison",
-      "published": "2026-09-07T18:29:07+00:00"
+      "relevance": 7,
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "source": "Hacker News",
+      "published": "2026-09-07T00:00:00+00:00"
     },
     {
       "headline": "Lily Seabird Blends Rootsy Rock and Existential Dread on Lightspheres on Their Way",
@@ -435,13 +435,13 @@
       "published": "2026-09-08T02:43:09+00:00"
     },
     {
-      "headline": "Liverpool Searches for New Sporting Director Amid Departures",
-      "summary": "Liverpool is hunting for its fifth sporting director since 2022 following Richard Hughes' departure to Al-Hilal. FSG president Mike Gordon is overseeing the search, weighing internal candidates like David Woodfine and Julian Ward alongside external figures. The new hire will immediately face major roster decisions, including expiring contracts for key veterans like Alisson and Virgil van Dijk.",
-      "category": "Sports",
+      "headline": "Developer Builds Browser-Based Video Compressor Using WebAssembly and Claude",
+      "summary": "Blogger Simon Willison utilized Claude Code and a WebAssembly build of FFMPEG to create a custom, browser-based video compression tool. He developed the utility to easily optimize and publish a demo animation of his Equal Earth map directly to his site.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5yw73ppwd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-07T15:52:04.789Z"
+      "url": "https://simonwillison.net/2026/Sep/7/video-compressor/",
+      "source": "Simon Willison",
+      "published": "2026-09-07T18:29:07+00:00"
     },
     {
       "headline": "Glyphs 4 Launches with Advanced Mac Typography Tools",
