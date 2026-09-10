@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T23:20:52.358756+00:00",
+  "generated_at": "2026-09-10T01:11:56.887569+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -10,6 +10,24 @@
       "url": "https://www.youtube.com/watch?v=ANmTVYkEtLw",
       "source": "MKBHD",
       "published": "2026-09-05T21:18:49+00:00"
+    },
+    {
+      "headline": "MKBHD Previews iPhone Duo Animation",
+      "summary": "Tech YouTuber Marques Brownlee showcases a new animation feature designed for Apple devices. The brief hands-on demonstrates how the interface transition functions in practice.",
+      "category": "YouTube",
+      "relevance": 10,
+      "url": "https://www.youtube.com/shorts/uJdjKOBikTE",
+      "source": "MKBHD",
+      "published": "2026-09-09T22:14:37+00:00"
+    },
+    {
+      "headline": "Clippers Face Roster Crunch and Rebuilding After Losing Five First-Round Picks",
+      "summary": "NBA analyst Yossi Gozlan broke down the Los Angeles Clippers' 2026 offseason manoeuvring as front-office leadership navigated rigid apron penalties and strict salary cap ceilings. The discussion focused on how the franchise executed transactions despite severe roster restrictions alongside the fallout from a league ruling stripping the team of five first-round draft picks. The episode detailed early organizational steps required to rebuild long-term assets while fielding a competitive lineup.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.thirdapron.com/p/los-angeles-clippers-2026-offseason-418",
+      "source": "Third Apron",
+      "published": "2026-09-09T22:25:27+00:00"
     },
     {
       "headline": "Pelicans and Jazz Swap Young Assets in Four-Player Deal",
@@ -39,15 +57,6 @@
       "published": "2026-09-07T04:04:43+00:00"
     },
     {
-      "headline": "I Made a Bet with Tesla",
-      "summary": "",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=fo-uubnajWM",
-      "source": "MKBHD",
-      "published": "2026-09-04T01:18:34+00:00"
-    },
-    {
       "headline": "Japan and Iran dominate pool play at AVC Men's Championship",
       "summary": "Hosts Japan swept Australia to finish atop Pool A, while Iran defeated India to remain undefeated in Pool B during the 2026 AVC Men's Championship in Fukuoka. Both powerhouse squads advanced to the quarterfinals without dropping a single set in pool play. The tournament serves as a crucial qualifying event for both the 2028 Los Angeles Olympics and the 2027 FIVB World Cup.",
       "category": "Sports",
@@ -66,6 +75,15 @@
       "published": "2026-09-09T10:00:00+00:00"
     },
     {
+      "headline": "Procedural Graphs Give AI Agents Self-Correcting Playbooks for Complex Tasks",
+      "summary": "Researchers have introduced Procedural Graphs, a structural framework that maps procedural knowledge into step-by-step triplets to prevent AI agents from getting lost during complex, multi-step tasks. By referencing local subgraphs at each decision point, models receive flexible situational guidance rather than rigid instructions, reducing repeated mistakes and tool misuse. The graphs automatically self-evolve as an internal refiner compares failed trajectories against successful ones to fine-tune execution paths without manual engineering.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://arxiv.org/abs/2609.09153",
+      "source": "Hacker News",
+      "published": "2026-09-09T17:13:52+00:00"
+    },
+    {
       "headline": "OpenAI Launches GPT-6 Astra Featuring Advanced Recurrent Depth",
       "summary": "OpenAI's newly released GPT-6 Astra dominates recent benchmarks, hitting a remarkable 99.9% on the ARC-AGI-3 logic test and showing massive gains in 3D rendering and coding. Technical analysts are closely examining its architecture, specifically its use of looped transformers and rumored hidden reasoning traces. The model marks a significant leap over its predecessor, GPT-5.6 Sol, across real-world agentic tasks.",
       "category": "Tech/AI",
@@ -73,6 +91,15 @@
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
       "source": "Hacker News",
       "published": "2026-09-09T14:37:47+00:00"
+    },
+    {
+      "headline": "I Made a Bet with Tesla",
+      "summary": "",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=fo-uubnajWM",
+      "source": "MKBHD",
+      "published": "2026-09-04T01:18:34+00:00"
     },
     {
       "headline": "HOW MUCH Will The iPhone Fold Cost????",
@@ -84,22 +111,13 @@
       "published": "2026-09-08T18:33:49+00:00"
     },
     {
-      "headline": "Clippers Face Roster Crunch and Rebuilding After Losing Five First-Round Picks",
-      "summary": "NBA analyst Yossi Gozlan broke down the Los Angeles Clippers' 2026 offseason manoeuvring as front-office leadership navigated rigid apron penalties and strict salary cap ceilings. The discussion focused on how the franchise executed transactions despite severe roster restrictions alongside the fallout from a league ruling stripping the team of five first-round draft picks. The episode detailed early organizational steps required to rebuild long-term assets while fielding a competitive lineup.",
-      "category": "NBA",
+      "headline": "Rams and 49ers NFL Australia Matchup Projections",
+      "summary": "CBS Sports runs 10,000 simulations to forecast the outcome of the upcoming NFL game in Australia between the Rams and 49ers. The data-driven breakdown evaluates betting odds and team matchups for the international fixture.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://www.thirdapron.com/p/los-angeles-clippers-2026-offseason-418",
-      "source": "Third Apron",
-      "published": "2026-09-09T22:25:27+00:00"
-    },
-    {
-      "headline": "Procedural Graphs Give AI Agents Self-Correcting Playbooks for Complex Tasks",
-      "summary": "Researchers have introduced Procedural Graphs, a structural framework that maps procedural knowledge into step-by-step triplets to prevent AI agents from getting lost during complex, multi-step tasks. By referencing local subgraphs at each decision point, models receive flexible situational guidance rather than rigid instructions, reducing repeated mistakes and tool misuse. The graphs automatically self-evolve as an internal refiner compares failed trajectories against successful ones to fine-tune execution paths without manual engineering.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://arxiv.org/abs/2609.09153",
-      "source": "Hacker News",
-      "published": "2026-09-09T17:13:52+00:00"
+      "url": "https://www.cbssports.com/betting/news/rams-49ers-prediction-odds-time-date-2026-nfl-australia-game-picks/",
+      "source": "CBS Sports",
+      "published": "2026-09-10T00:33:15+00:00"
     },
     {
       "headline": "Basketball Intelligence Digest: 2026-27 Previews and Offseason Moves",
@@ -120,22 +138,22 @@
       "published": "2026-09-08T17:25:30+00:00"
     },
     {
-      "headline": "Decoding the Ravens' Elite Defensive Scheme",
-      "summary": "A comprehensive film-room archive breaks down the complex schematic playbook utilized by Mike Macdonald, Jesse Minter, and Wink Martindale. The defensive system relies on split-field coverages, light-box run fits, and surgical pressures to neutralize modern offenses. Coordinators across the league continue to adapt these Baltimore-born principles to stifle opposing quarterbacks.",
+      "headline": "Christian Gonzalez Sets Cornerback Pay Record with $132-Million Contract",
+      "summary": "CBS Sports reviewed the NFL's highest-paid players across every position heading into the 2026 campaign, highlighted by Christian Gonzalez resetting the cornerback market with a massive $132 million deal. The analysis tracks the ongoing surge in player compensation across the league as elite defensive talent secures unprecedented guaranteed money. The complete positional breakdown identifies the top earners commanding the largest individual checks in football.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.matchquarters.com/p/ravens-defensive-system-playbook",
-      "source": "MatchQuarters",
-      "published": "2026-09-08T11:50:34+00:00"
+      "url": "https://www.cbssports.com/nfl/news/highest-paid-players-at-every-nfl-position-2026/",
+      "source": "CBS Sports",
+      "published": "2026-09-09T22:48:40+00:00"
     },
     {
-      "headline": "CBS Sports Releases Week 1 Football Start and Sit Advice",
-      "summary": "As the new football season kicks off, CBS Sports has published its comprehensive start and sit recommendations for Wednesday and Thursday matchups. Fantasy players can review positioning strategies to optimize their lineups for the opening week. The guide helps managers navigate early roster decisions before the bulk of the weekend games begin.",
+      "headline": "Daily Fantasy Football Targets and Lineup Strategy for Seahawks-Patriots Kickoff",
+      "summary": "CBS Sports released daily fantasy strategy, pricing breakdowns, and lineup picks for the 2026 NFL Kickoff matchup between the Seattle Seahawks and New England Patriots. The advice highlights high-upside value targets, chalk plays, and optimal roster construction for single-game contests across DraftKings and FanDuel. Analysts provide tactical guidance on setting captain slots and identifying boom-or-bust sleepers to maximize payouts on opening night.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-seahawks-patriots-kickoff-game-daily-fantasy-picks-lineup-advice-for-draftkings-fanduel/",
       "source": "CBS Sports",
-      "published": "2026-09-09T20:04:25+00:00"
+      "published": "2026-09-09T22:22:46+00:00"
     },
     {
       "headline": "AI Can Assist Your Work. But Should It?",
@@ -147,6 +165,24 @@
       "published": "2026-09-09T04:03:00+00:00"
     },
     {
+      "headline": "Mastering the Set: How Proper Hand Shape and Triangle Mechanics Define Consistent Volleyball",
+      "summary": "Clean volleyball setting relies on moving from a triangular pre-contact hand shape above the forehead into a squared follow-through angled 45 degrees toward the target. Contacting the ball exclusively with all ten fingertips two to three inches off the hairline prevents illegal double-touches and stabilizes trajectory. Eliminating common technical flaws—such as dropping hands to the hips or leading with the palms—remains the baseline requirement for running an efficient offense.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/volleyball-setting-fundamentals-hands-footwork-and-target/?utm_source=rss&utm_medium=rss&utm_campaign=volleyball-setting-fundamentals-hands-footwork-and-target",
+      "source": "Volleyball Mag",
+      "published": "2026-09-09T21:40:52+00:00"
+    },
+    {
+      "headline": "India Sweeps New Zealand to Stay in AVC Quarterfinal Hunt as Japan Dominates",
+      "summary": "India kept its 2026 AVC Asian Championship quarterfinal hopes alive with a commanding 25-22, 25-18, 25-21 sweep of New Zealand in Fukuoka, led by Jerome Vinith Charles' match-high 19 points. India's progression now depends on the outcome and point margins of Wednesday's Pool A showdown between Oman and Bahrain. In other action, host nation Japan swept Australia to close Pool A undefeated behind efficient scoring displays from Yuji Nishida and Ran Takahashi.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://volleyballmag.com/india-beats-new-zealand-to-keep-2026-avc-men-s-championship-quarterfinal-bid/?utm_source=rss&utm_medium=rss&utm_campaign=india-beats-new-zealand-to-keep-2026-avc-men-s-championship-quarterfinal-bid",
+      "source": "Volleyball Mag",
+      "published": "2026-09-09T13:30:38+00:00"
+    },
+    {
       "headline": "Adéla Debuts with Pop Album 'PRIMA'",
       "summary": "Pop artist Adéla, known for her stint on the Netflix reality series Pop Star Academy, has released her debut full-length album titled PRIMA. The record features her Billboard-charting single 'Ain't in LA' and blends nostalgic 2010s vocal styling with personal reflections on her rise.",
       "category": "Music",
@@ -156,13 +192,22 @@
       "published": "2026-09-09T04:03:00+00:00"
     },
     {
-      "headline": "Cross-border strikes kill two at Moldova border amid escalating Russia-Ukraine attacks",
-      "summary": "A Russian drone strike on the Starokozache border crossing killed two people and forced its closure, according to Ukrainian officials. Meanwhile, a separate Ukrainian drone attack on the Russian city of Novorossiysk left four dead and dozens injured. The violence follows recent diplomatic discussions between global leaders aimed at finding an end to the ongoing conflict.",
+      "headline": "IAEA Cites Iran to UN Security Council Over Blocked Inspections and Enriched Uranium",
+      "summary": "The International Atomic Energy Agency has referred Iran to the UN Security Council for non-compliance with the non-proliferation treaty, marking the watchdog's first such referral in 20 years. Passed by a 23-nation majority in Vienna, the resolution targets Tehran's refusal to grant inspector access to key enrichment sites like Natanz and Fordo, alongside missing accounting on its 60% enriched uranium stockpile. Iran condemned the action, arguing ongoing US and Israeli military strikes on its facilities legitimately disrupted normal verification operations.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-09T20:28:04+00:00"
+      "published": "2026-09-09T20:22:51+00:00"
+    },
+    {
+      "headline": "Week 1 NFL Survivor Pool Strategy: Safe Knockout Picks and Matchups to Avoid",
+      "summary": "CBS Sports outlined essential survivor and knockout pool strategies ahead of Week 1 of the 2026 NFL season, helping entrants advance while preserving future value. The analysis identifies top safe picks for the opening slate while cautioning players against heavily favored squads facing potential trap matchups. The guide emphasizes long-term equity, game theory variance, and smart risk allocation to outlast crowded early-season pool fields.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-knockout-pool-predictions-for-week-1-2026/",
+      "source": "CBS Sports",
+      "published": "2026-09-09T22:10:30+00:00"
     },
     {
       "headline": "John Gruber Reflects on iPhone Air and iPhone 17 Pro After One Year",
@@ -192,15 +237,6 @@
       "published": "2026-09-08T22:46:33+00:00"
     },
     {
-      "headline": "OtoDock Launches Self-Hosted AI Agent Platform for Companies",
-      "summary": "OtoDock is a new self-hosted company operating system that lets teams deploy collaborative AI agents powered by Claude Code and Codex subscriptions. The multi-tenant platform organizes agents by department, connects to existing company tools, and even supports voice interactions.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/OtoDock/oto-dock",
-      "source": "Hacker News",
-      "published": "2026-09-09T17:57:55+00:00"
-    },
-    {
       "headline": "Apple Watch Series 12 Debuts with Advanced Health Sensing System",
       "summary": "Apple has unveiled the Apple Watch Series 12, powered by the S11 chip and a brand-new Health Sensing System for highly accurate heart rate and HRV monitoring. The wearable introduces a readiness score, a Longevity tab in the Health app, and privacy-focused Audio Intelligence features.",
       "category": "Tech/AI",
@@ -208,6 +244,15 @@
       "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
       "source": "Hacker News",
       "published": "2026-09-09T17:56:17+00:00"
+    },
+    {
+      "headline": "Benchmark Tests Open Models' Alignment with GPT-5.5 Pro Reasoning Prefills",
+      "summary": "A new AI evaluation framework tested open-weight models by injecting the initial one percent of GPT-5.5 Pro's reasoning chain directly into their reasoning channels across 45 diverse benchmark problems. Researchers tracked whether this minimal steer increased the presence of the teacher model's final response within the first 100 tokens of the target model's answer. Early results showed varied compliance across architectures, with DeepSeek V4 Flash experiencing a slight net decline in recall compared to unprefilled baselines.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "source": "Hacker News",
+      "published": "2026-09-09T17:24:28+00:00"
     },
     {
       "headline": "This Tech Got WORSE!",
@@ -282,6 +327,15 @@
       "published": "2026-09-07T04:00:00+00:00"
     },
     {
+      "headline": "Cross-border strikes kill two at Moldova border amid escalating Russia-Ukraine attacks",
+      "summary": "A Russian drone strike on the Starokozache border crossing killed two people and forced its closure, according to Ukrainian officials. Meanwhile, a separate Ukrainian drone attack on the Russian city of Novorossiysk left four dead and dozens injured. The violence follows recent diplomatic discussions between global leaders aimed at finding an end to the ongoing conflict.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-09T20:28:04+00:00"
+    },
+    {
       "headline": "Report Finds AI-Generated Child Abuse Ads Still Running on Meta in India",
       "summary": "A new Tech Transparency Project report reveals that Meta ran 332 advertisements featuring artificial intelligence-generated child sexual abuse material over ten months, with dozens appearing in India despite government removal orders. Meta stated that criminals constantly evolve tactics to bypass detection mechanisms.",
       "category": "World",
@@ -309,6 +363,15 @@
       "published": "2026-09-08T16:45:32+00:00"
     },
     {
+      "headline": "Apple Enters Foldables Era with iPhone Duo in John Ternus's Keynote Debut",
+      "summary": "Apple has officially entered the foldable smartphone market with the debut of the iPhone Duo, a passport-style folding handset marking the device's biggest physical redesign in two decades. The announcement headlined new CEO John Ternus's first major keynote after succeeding Tim Cook at the start of September. The release serves as an ambitious opening statement for Ternus, signaling an aggressive push into hardware experimentation and premium form factors.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
+      "source": "NPR News",
+      "published": "2026-09-09T18:39:57+00:00"
+    },
+    {
       "headline": "Anthropic launches interactive model to simulate AI economic impact",
       "summary": "Claude creator Anthropic has introduced a new interactive tool designed to help users model how artificial intelligence might reshape the U.S. economy. The simulation allows people to test various adoption speeds and productivity scenarios, ranging from mild economic boosts to widespread labor displacement. Depending on the variables chosen, outcomes span from increased GDP growth to significant unemployment rates.",
       "category": "Tech/AI",
@@ -318,112 +381,13 @@
       "published": "2026-09-09T13:34:48+00:00"
     },
     {
-      "headline": "Christian Gonzalez Sets Cornerback Pay Record with $132-Million Contract",
-      "summary": "CBS Sports reviewed the NFL's highest-paid players across every position heading into the 2026 campaign, highlighted by Christian Gonzalez resetting the cornerback market with a massive $132 million deal. The analysis tracks the ongoing surge in player compensation across the league as elite defensive talent secures unprecedented guaranteed money. The complete positional breakdown identifies the top earners commanding the largest individual checks in football.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/highest-paid-players-at-every-nfl-position-2026/",
-      "source": "CBS Sports",
-      "published": "2026-09-09T22:48:40+00:00"
-    },
-    {
-      "headline": "Mastering the Set: How Proper Hand Shape and Triangle Mechanics Define Consistent Volleyball",
-      "summary": "Clean volleyball setting relies on moving from a triangular pre-contact hand shape above the forehead into a squared follow-through angled 45 degrees toward the target. Contacting the ball exclusively with all ten fingertips two to three inches off the hairline prevents illegal double-touches and stabilizes trajectory. Eliminating common technical flaws—such as dropping hands to the hips or leading with the palms—remains the baseline requirement for running an efficient offense.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/volleyball-setting-fundamentals-hands-footwork-and-target/?utm_source=rss&utm_medium=rss&utm_campaign=volleyball-setting-fundamentals-hands-footwork-and-target",
-      "source": "Volleyball Mag",
-      "published": "2026-09-09T21:40:52+00:00"
-    },
-    {
-      "headline": "India Sweeps New Zealand to Stay in AVC Quarterfinal Hunt as Japan Dominates",
-      "summary": "India kept its 2026 AVC Asian Championship quarterfinal hopes alive with a commanding 25-22, 25-18, 25-21 sweep of New Zealand in Fukuoka, led by Jerome Vinith Charles' match-high 19 points. India's progression now depends on the outcome and point margins of Wednesday's Pool A showdown between Oman and Bahrain. In other action, host nation Japan swept Australia to close Pool A undefeated behind efficient scoring displays from Yuji Nishida and Ran Takahashi.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://volleyballmag.com/india-beats-new-zealand-to-keep-2026-avc-men-s-championship-quarterfinal-bid/?utm_source=rss&utm_medium=rss&utm_campaign=india-beats-new-zealand-to-keep-2026-avc-men-s-championship-quarterfinal-bid",
-      "source": "Volleyball Mag",
-      "published": "2026-09-09T13:30:38+00:00"
-    },
-    {
-      "headline": "Apple Enters Foldables Era with iPhone Duo in John Ternus's Keynote Debut",
-      "summary": "Apple has officially entered the foldable smartphone market with the debut of the iPhone Duo, a passport-style folding handset marking the device's biggest physical redesign in two decades. The announcement headlined new CEO John Ternus's first major keynote after succeeding Tim Cook at the start of September. The release serves as an ambitious opening statement for Ternus, signaling an aggressive push into hardware experimentation and premium form factors.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/09/09/nx-s1-5961487/apple-duo-foldable-iphone-john-ternus",
-      "source": "NPR News",
-      "published": "2026-09-09T14:39:57-04:00"
-    },
-    {
-      "headline": "IAEA Cites Iran to UN Security Council Over Blocked Inspections and Enriched Uranium",
-      "summary": "The International Atomic Energy Agency has referred Iran to the UN Security Council for non-compliance with the non-proliferation treaty, marking the watchdog's first such referral in 20 years. Passed by a 23-nation majority in Vienna, the resolution targets Tehran's refusal to grant inspector access to key enrichment sites like Natanz and Fordo, alongside missing accounting on its 60% enriched uranium stockpile. Iran condemned the action, arguing ongoing US and Israeli military strikes on its facilities legitimately disrupted normal verification operations.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-09T20:22:51.724Z"
-    },
-    {
-      "headline": "Benchmark Tests Open Models' Alignment with GPT-5.5 Pro Reasoning Prefills",
-      "summary": "A new AI evaluation framework tested open-weight models by injecting the initial one percent of GPT-5.5 Pro's reasoning chain directly into their reasoning channels across 45 diverse benchmark problems. Researchers tracked whether this minimal steer increased the presence of the teacher model's final response within the first 100 tokens of the target model's answer. Early results showed varied compliance across architectures, with DeepSeek V4 Flash experiencing a slight net decline in recall compared to unprefilled baselines.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "source": "Hacker News",
-      "published": "2026-09-09T17:24:28+00:00"
-    },
-    {
-      "headline": "Daily Fantasy Football Targets and Lineup Strategy for Seahawks-Patriots Kickoff",
-      "summary": "CBS Sports released daily fantasy strategy, pricing breakdowns, and lineup picks for the 2026 NFL Kickoff matchup between the Seattle Seahawks and New England Patriots. The advice highlights high-upside value targets, chalk plays, and optimal roster construction for single-game contests across DraftKings and FanDuel. Analysts provide tactical guidance on setting captain slots and identifying boom-or-bust sleepers to maximize payouts on opening night.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-seahawks-patriots-kickoff-game-daily-fantasy-picks-lineup-advice-for-draftkings-fanduel/",
-      "source": "CBS Sports",
-      "published": "2026-09-09T22:22:46+00:00"
-    },
-    {
-      "headline": "Week 1 NFL Survivor Pool Strategy: Safe Knockout Picks and Matchups to Avoid",
-      "summary": "CBS Sports outlined essential survivor and knockout pool strategies ahead of Week 1 of the 2026 NFL season, helping entrants advance while preserving future value. The analysis identifies top safe picks for the opening slate while cautioning players against heavily favored squads facing potential trap matchups. The guide emphasizes long-term equity, game theory variance, and smart risk allocation to outlast crowded early-season pool fields.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-knockout-pool-predictions-for-week-1-2026/",
-      "source": "CBS Sports",
-      "published": "2026-09-09T22:10:30+00:00"
-    },
-    {
-      "headline": "Predicting the 2026 NFL Kickoff Game",
-      "summary": "CBS Sports highlights predictions and odds for the upcoming matchup between the Patriots and Seahawks. A predictive model boasting a 53-37 run is guiding the betting picks for the season opener. Bettors can review the latest point spreads and game times ahead of kickoff.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/patriots-seahawks-prediction-odds-line-spread-time-2026-nfl-kickoff-game-picks-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-09-09T22:02:59+00:00"
-    },
-    {
-      "headline": "Mykki Blanco Drops Glamorous New Album 'Cafe Paradiso'",
-      "summary": "Artist Mykki Blanco returns with 'Cafe Paradiso,' an indulgent record blending 1980s grooves, garage rock, and club beats. The project leans into a sensual, swaggering aesthetic while maintaining the artist's trademark bold lyricism.",
+      "headline": "Busta Rhymes and J Dilla Reunite on Dillagence II",
+      "summary": "Busta Rhymes returns with a posthumous collaboration project featuring 19 unreleased beats from producer J Dilla. The sequel to their 2007 mixtape pairs asynchronous new vocals with vintage, off-kilter production.",
       "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/mykki-blanco-cafe-paradiso/",
+      "relevance": 8,
+      "url": "https://pitchfork.com/reviews/albums/busta-rhymes-j-dilla-dillagence-ii/",
       "source": "Pitchfork",
-      "published": "2026-09-09T04:01:00+00:00"
-    },
-    {
-      "headline": "Computer Model Backs Eagles and Jaguars for Week 1 NFL Bets",
-      "summary": "CBS Sports' proprietary computer model has completed 10,000 simulations for the opening week of the NFL season. The algorithm has generated its top game spreads, lines, and best bets. The projections specifically highlight value backing the Philadelphia Eagles and Jacksonville Jaguars to start the year.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-game-spreads-lines-predictions-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-09-09T20:02:06+00:00"
-    },
-    {
-      "headline": "CBS Sports Unveils Comprehensive Week 1 NFL Betting and Fantasy Guide",
-      "summary": "CBS Sports has released its all-inclusive Week 1 betting guide featuring expert picks, player props, and DFS strategies. The package includes computer simulations, parlays, and season-long fantasy football rankings. Bettors and fantasy managers can use these insights to finalize their lineups and wagers ahead of the opening kickoff.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/week-1-nfl-betting-guide-props-spreads-model-expert-parlay-dfs-fantasy-picks/",
-      "source": "CBS Sports",
-      "published": "2026-09-09T19:46:24+00:00"
+      "published": "2026-09-09T04:02:00+00:00"
     },
     {
       "headline": "Terence Tao warns AI-powered mining threatens open science traditions",
@@ -435,6 +399,15 @@
       "published": "2026-09-09T00:20:17+00:00"
     },
     {
+      "headline": "Mykki Blanco Drops Glamorous New Album 'Cafe Paradiso'",
+      "summary": "Artist Mykki Blanco returns with 'Cafe Paradiso,' an indulgent record blending 1980s grooves, garage rock, and club beats. The project leans into a sensual, swaggering aesthetic while maintaining the artist's trademark bold lyricism.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/mykki-blanco-cafe-paradiso/",
+      "source": "Pitchfork",
+      "published": "2026-09-09T04:01:00+00:00"
+    },
+    {
       "headline": "Bitchin Bajas Return to Cosmic Drift on 'Isle Peaks' EP",
       "summary": "Emerging from the same sessions as their previous release, the experimental trio's new three-track EP trades shorter songs for sprawling, hypnotic soundscapes. The 16-minute opener 'Ajami' moves fluidly from kalimba pulses to Ethio-jazz sax melodies and a heavy motorik 4/4 beat.",
       "category": "Music",
@@ -442,6 +415,33 @@
       "url": "https://pitchfork.com/reviews/albums/bitchin-bajas-isle-peaks-ep/",
       "source": "Pitchfork",
       "published": "2026-09-09T04:00:00+00:00"
+    },
+    {
+      "headline": "Desert Ant Labs Launches On-Device AI Models",
+      "summary": "A new European AI lab has released 18 lightweight models designed to run locally on hardware ranging from smartphones to laptops. These specialized tools handle audio, vision, and text tasks in milliseconds without relying on cloud APIs or incurring token costs.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "source": "Hacker News",
+      "published": "2026-09-08T00:00:00.000Z"
+    },
+    {
+      "headline": "Rock Band Muse Loses Social Media Handles to Meta AI",
+      "summary": "English rock band Muse lost their long-held @muse usernames on Instagram and X to Meta's new AI agent of the same name. Fans expressed frustration over the takeover, given the band's long history of writing songs critical of technology and corporate overreach.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "source": "Hacker News",
+      "published": "2026-09-09T22:52:49+00:00"
+    },
+    {
+      "headline": "Spanish Intelligence Knew of Ceuta Migrant Surge in Advance",
+      "summary": "Newly declassified government documents reveal that Spain's intelligence service warned authorities about a planned mass crossing into Ceuta a day before it happened. Prime Minister Pedro Sánchez previously claimed the July crisis was impossible to predict, contradicting the newly surfaced CNI reports.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-09T21:23:45.142Z"
     },
     {
       "headline": "OpenAI Tackles Navier-Stokes Amid Controversy",
