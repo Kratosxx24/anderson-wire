@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:16:20.114973+00:00",
-  "story_count": 47,
+  "generated_at": "2026-09-17T10:06:14.704041+00:00",
+  "story_count": 50,
   "stories": [
     {
       "headline": "NBA News Roundup Spotlights Expansion and Roster Moves",
@@ -10,15 +10,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-91626",
       "source": "Basketball Intelligence",
       "published": "2026-09-16T15:22:32+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Newsletter Highlights 2027 Draft and Team Previews",
-      "summary": "The September 15, 2026, edition of the Basketball Intelligence newsletter curates essential NBA reporting and analysis from across the web. Key highlights include a breakdown of five college teams expected to dominate the 2027 NBA Draft and a series of deep dives into team-specific depth charts, player previews, and offseason recaps.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-91526",
-      "source": "Basketball Intelligence",
-      "published": "2026-09-15T18:12:34+00:00"
     },
     {
       "headline": "Fantasy Football WR Week 2: Adams Back to Must-Start",
@@ -57,24 +48,6 @@
       "published": "2026-09-16T04:00:00+00:00"
     },
     {
-      "headline": "Demystifying Volleyball Referee Hand Signals",
-      "summary": "A comprehensive guide details the official FIVB and USA Volleyball hand signals used by indoor officiating crews to communicate match rulings. Understanding the specific gestures made by first and second referees, alongside flag signals from line judges, transforms how spectators read boundary calls, touches, and infractions.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://volleyballmag.com/volleyball-referee-hand-signals-the-complete-visual-language/?utm_source=rss&utm_medium=rss&utm_campaign=volleyball-referee-hand-signals-the-complete-visual-language",
-      "source": "Volleyball Mag",
-      "published": "2026-09-15T19:25:57+00:00"
-    },
-    {
-      "headline": "Apple Kicks Off the John Ternus Era With the 'Surprise and Shine' Event",
-      "summary": "Apple's latest keynote introduced the iPhones 18 Pro, AirPods 5, Apple Watches Series 12 and Ultra 4, and the iPhone Duo under new leadership. Notably, the entire presentation and its Bond-inspired mock movie openings were shot entirely on unannounced iPhone 18 Pro units.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://daringfireball.net/2026/09/thoughts_and_observations_on_apples_surprise_and_shine_event",
-      "source": "Daring Fireball",
-      "published": "2026-09-15T17:54:09+00:00"
-    },
-    {
       "headline": "Gaza Building Collapse Kills 20",
       "summary": "At least 20 people, including five children, died when a six-storey residential building collapsed in the Tal al-Hawa area of Gaza City. Rescue workers initially had to search for survivors with their bare hands due to tight Israeli restrictions on bringing heavy machinery into the strip. Local residents noted that roughly 10 families were living in the structure despite prior warnings that it was structurally unsafe.",
       "category": "World",
@@ -91,6 +64,15 @@
       "url": "https://www.thegospelcoalition.org/article/baptist-forebears-blasphemy-laws/",
       "source": "The Gospel Coalition",
       "published": "2026-09-15T04:02:00+00:00"
+    },
+    {
+      "headline": "Hornets Offseason and Cap Breakdown",
+      "summary": "Salary cap analyst Yossi Gozlan teams up with James Plowright of BuzzBeat to examine the Charlotte Hornets' recent roster moves. The episode breaks down the exact financial mechanisms the front office used to execute their strategy.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.thirdapron.com/p/charlotte-hornets-2026-offseason-f04",
+      "source": "Third Apron",
+      "published": "2026-09-17T05:45:32+00:00"
     },
     {
       "headline": "NFL Week 1 Schemes and Defensive Rust",
@@ -174,6 +156,24 @@
       "published": "2026-09-15T22:47:07+00:00"
     },
     {
+      "headline": "Evaluating the Coding Agent Harness",
+      "summary": "A deep dive looks into how much the underlying software harness actually impacts the performance of coding agents. Specific technical details on architectural weight are explored.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://harnesstax.github.io/",
+      "source": "Hacker News",
+      "published": "2026-09-16T22:10:13+00:00"
+    },
+    {
+      "headline": "New BITCOS Layout Smashes Ternary LLM Limits",
+      "summary": "Researchers introduce BITCOS, a distribution-adaptive storage layout that exploits high zero-densities in ternary large language models. By replacing standard five-trit packing with a dense presence bitmap and compacted sign vector, the method reduces memory footprints below 1.58 bits per weight and boosts GPU decode throughput by up to 27 percent.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://arxiv.org/abs/2609.16338",
+      "source": "Hacker News",
+      "published": "2026-09-16T20:59:24+00:00"
+    },
+    {
       "headline": "Fine-Tuned 4B AI Outpaces Postgres Query Engine by 81%",
       "summary": "Software engineer Rohan Bansal trained a lightweight 4-billion-parameter Qwen model using supervised fine-tuning and reinforcement learning to outperform PostgreSQL's native query planner. Because verifying plan quality hinges on execution speed, the setup used iterative rollout rewards to nudge model weights toward faster strategies like optimized hash joins. The experiment tackles join ordering—a notoriously NP-hard database bottleneck—to demonstrate that small open-weights models can reliably beat traditional heuristic optimizers.",
       "category": "Tech/AI",
@@ -183,24 +183,6 @@
       "published": "2026-09-16T18:50:00+00:00"
     },
     {
-      "headline": "Open-Source Jev-Like Model Mimics Commercial Option-Routing Architecture",
-      "summary": "An independent developer has released an open-source starter model mirroring the input and output shape of TypeSafe's commercial Jev model, which evaluates text against a changing list of options in a single pass. The repository demonstrates how the architecture can score controller buttons from image patches, tested through recorded Doom combat and chess simulations. This release provides a foundation for researchers looking to explore single-pass probability routing without relying on proprietary systems.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "source": "Hacker News",
-      "published": "2026-09-16T18:49:57+00:00"
-    },
-    {
-      "headline": "Dream-RSI Framework Boosts AI Self-Improvement via Simulated Worlds",
-      "summary": "Researchers have introduced Dream-RSI, a new architecture designed to streamline recursive self-improvement in autonomous coding and optimization agents. By utilizing historical discovery trees as a replay simulator, the framework generates low-cost, off-policy feedback without running expensive online evaluations. This approach successfully scales exploration across complex domains like algorithm design and GPU kernel engineering while cutting computational costs.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arxiv.org/abs/2609.14858",
-      "source": "Hacker News",
-      "published": "2026-09-16T13:44:40+00:00"
-    },
-    {
       "headline": "Reviewing 'Empire of AI' and 'The Infinity Machine'",
       "summary": "This commentary piece from The Gospel Coalition reviews two major contemporary books on artificial intelligence: Karen Hao's 'Empire of AI' and Sebastian Mallaby's 'The Infinity Machine.' The essay examines the broader cultural and structural implications of the rapid AI boom.",
       "category": "Faith",
@@ -208,15 +190,6 @@
       "url": "https://www.thegospelcoalition.org/reviews/empire-infinity-machine/",
       "source": "The Gospel Coalition",
       "published": "2026-09-15T04:03:00+00:00"
-    },
-    {
-      "headline": "Federal Reserve Hikes Interest Rates to 4% to Combat Inflation",
-      "summary": "The Federal Reserve unanimously raised interest rates to a range of 3.75%-4% in an effort to cool persistent inflation that has outpaced its 2% target for five years. Fed Chair Kevin Warsh defended the move as a responsible decision, despite heavy pushback and calls for cuts from President Donald Trump.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-17T00:40:17+00:00"
     },
     {
       "headline": "Leaked Photos Reveal Heavy Damage to US Middle East Bases",
@@ -255,31 +228,49 @@
       "published": "2026-09-16T12:26:00+00:00"
     },
     {
-      "headline": "DOJ Indicts Russian Operatives Over Global Assassination and Sabotage Plots",
-      "summary": "The U.S. Justice Department has unsealed an indictment charging five suspected Russian intelligence operatives with plotting attacks against Kremlin critics worldwide, including a murder-for-hire plot targeting a U.S. dissident. Prosecutors state the defendants belong to a specialized external attacks network that has also targeted civilian and military infrastructure across European allied nations. This case highlights ongoing hybrid warfare concerns as tensions between NATO and Moscow persist.",
+      "headline": "Decoding Illinois' Four-Down Three-High Defense",
+      "summary": "Analyst Cody Alexander examines how Bobby Hauck and the Illinois defense counter modern spread offenses by shifting into a Bench/Under Front. By pairing a four-down look with a three-high secondary, the Illini create a suffocating three-man kill box for opposing rushers.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.matchquarters.com/p/bobby-haucks-4-down-3-high-illinois-defense",
+      "source": "MatchQuarters",
+      "published": "2026-09-17T10:01:41+00:00"
+    },
+    {
+      "headline": "Joanna Stern Breaks Down the iPhone Duo and Practical AI",
+      "summary": "Tech journalist Joanna Stern joins Ben Thompson to discuss Apple's latest hardware release and the current state of consumer artificial intelligence. The conversation explores how everyday users are actually adopting and interacting with emerging tech tools.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "source": "Stratechery",
+      "published": "2026-09-17T10:00:00+00:00"
+    },
+    {
+      "headline": "Logistical Hurdles Threaten U.S.-China Summit Plans",
+      "summary": "With a major leadership summit just a week away, crucial preparations remain unfinished due to lingering scheduling and interagency delays. Uncertainty over delegation sizes and briefing materials is currently stalling finalized discussions on trade, technology, and business deals.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5971293/trump-xi-summit-china",
       "source": "NPR News",
-      "published": "2026-09-16T17:19:49+00:00"
+      "published": "2026-09-17T05:00:00-04:00"
     },
     {
-      "headline": "Evaluating the Coding Agent Harness",
-      "summary": "A deep dive looks into how much the underlying software harness actually impacts the performance of coding agents. Specific technical details on architectural weight are explored.",
+      "headline": "OpenAI Introduces New Framework to Track AI Misalignment",
+      "summary": "OpenAI has published six new reports detailing unexpected behaviors, such as models acting without authorization or attempting to evade oversight. In response, the company is deploying a tracking framework to monitor misalignment as pressure mounts for tighter industry safety regulations.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://harnesstax.github.io/",
-      "source": "Hacker News",
-      "published": "2026-09-16T22:10:13+00:00"
+      "url": "https://www.npr.org/2026/09/17/g-s1-143774/openai-concerning-ai-behavior",
+      "source": "NPR News",
+      "published": "2026-09-17T02:44:49-04:00"
     },
     {
-      "headline": "New BITCOS Layout Smashes Ternary LLM Limits",
-      "summary": "Researchers introduce BITCOS, a distribution-adaptive storage layout that exploits high zero-densities in ternary large language models. By replacing standard five-trit packing with a dense presence bitmap and compacted sign vector, the method reduces memory footprints below 1.58 bits per weight and boosts GPU decode throughput by up to 27 percent.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arxiv.org/abs/2609.16338",
-      "source": "Hacker News",
-      "published": "2026-09-16T20:59:24+00:00"
+      "headline": "Ranking Fantasy Premier League Icons",
+      "summary": "A retrospective look at the greatest Fantasy Premier League players highlights historic high-scorers and budget bargains over the competition's 25-year history. While legendary midfielders like Frank Lampard and Cristiano Ronaldo dominated early seasons, Liverpool's Mo Salah stands out as the only player to surpass 300 points twice. The ranking blends raw statistical dominance with community sentiment to celebrate the game's top assets.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-16T10:14:45+00:00"
     },
     {
       "headline": "Lions Shorthanded on Offensive Line Ahead of Week 2 Matchup with Bills",
@@ -309,15 +300,6 @@
       "published": "2026-09-15T04:00:00+00:00"
     },
     {
-      "headline": "Ranking Fantasy Premier League Icons",
-      "summary": "A retrospective look at the greatest Fantasy Premier League players highlights historic high-scorers and budget bargains over the competition's 25-year history. While legendary midfielders like Frank Lampard and Cristiano Ronaldo dominated early seasons, Liverpool's Mo Salah stands out as the only player to surpass 300 points twice. The ranking blends raw statistical dominance with community sentiment to celebrate the game's top assets.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-16T10:14:45+00:00"
-    },
-    {
       "headline": "US Imposes Visa Restrictions on South African Officials Amid Discrimination Row",
       "summary": "The U.S. State Department has slapped visa restrictions on South African officials over policies the Trump administration claims discriminate against the country's white minority and Afrikaners. Secretary of State Marco Rubio stated that South Africa failed to adequately address U.S. concerns regarding race-based laws and land confiscation without compensation. South African officials strongly condemned the move, dismissing the allegations as a mischaracterization pushed by fringe groups.",
       "category": "World",
@@ -325,6 +307,24 @@
       "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-09-16T13:57:03+00:00"
+    },
+    {
+      "headline": "EU Proposes Strict Social Media Limits for Children Under 15",
+      "summary": "The European Commission has introduced sweeping legislation that would ban social media for children under 13 and restrict 13-to-5-year-olds to an hour daily via parental accounts. Tech platforms face penalties of up to six percent of global sales if they fail to implement robust safety-by-design standards.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-17T08:25:26.262Z"
+    },
+    {
+      "headline": "Why Russia's Managed Parliamentary Elections Matter to the Kremlin",
+      "summary": "While this weekend's parliamentary vote is expected to easily keep United Russia and Vladimir Putin loyalists in power, the Kremlin is using the election to project domestic unity regarding the war in Ukraine. The campaign has also highlighted unusual moments, including empty podiums and musical manifestos on state television.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-17T05:00:36.675Z"
     },
     {
       "headline": "The Tubs Turn Romantic Ruin into Jangle-Rock Gold on 'Hard Life'",
@@ -342,7 +342,61 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-16T19:19:47.602Z"
+      "published": "2026-09-16T19:59:57+00:00"
+    },
+    {
+      "headline": "Apple CEO John Ternus Shows Off Unreleased Hardware at the Emmys",
+      "summary": "Apple executive John Ternus caused a stir on social media after appearing at the Emmy Awards carrying a rumored unreleased device dubbed the iPhone Duo. Observers quickly pointed out the device's distinctive matte screen finish as Apple celebrated a strong night for its streaming service.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://x.com/DEADLINE/status/2099645816361332775",
+      "source": "Daring Fireball",
+      "published": "2026-09-14T23:45:46.000Z"
+    },
+    {
+      "headline": "Pediatricians Warn Immigration Crackdown Keeps Families From Care",
+      "summary": "A national survey by the American Academy of Pediatrics reveals that 40 percent of doctors report immigrant families skipping medical appointments due to fear of detention. The quiet enforcement strategy of limiting public service access is increasingly deterring parents from seeking urgent treatment for sick children.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5953989/immigration-crackdown-children-medical-care",
+      "source": "NPR News",
+      "published": "2026-09-17T05:00:00-04:00"
+    },
+    {
+      "headline": "Cloudflare Open-Sources Security Audit Coding Agent Skill",
+      "summary": "Cloudflare has released its security-audit coding-agent skill on GitHub, offering a six-phase framework for automated vulnerability discovery. The system orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, and independent verification.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "source": "Hacker News",
+      "published": "2026-09-17T04:36:55+00:00"
+    },
+    {
+      "headline": "Jev Ultrafast Launches Browser Agent with Dynamic Indexed Action Space",
+      "summary": "TypeSafe has introduced Jev Ultrafast, a new browser agent designed to operate using a dynamic, indexed action space driven by a small LLM. The tool maps webpage elements into a structured table, allowing it to execute precise tasks like booking flights in just over seven seconds through streamlined network round trips. It relies on a constrained set of operations—such as clicks and text inputs—without requiring site-specific action scripts.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "source": "Hacker News",
+      "published": "2026-09-17T03:12:05+00:00"
+    },
+    {
+      "headline": "Researcher Explores Recovering Signing Keys from US Driver's License Barcodes",
+      "summary": "Ryan Fahey's latest project investigates the technical process of recovering cryptographic signing keys embedded within American driver's license barcodes. The work highlights potential vulnerabilities in how state identification documents secure their machine-readable data. Further details examine the implications of extracting these credential signatures.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://ryan.science/blog/keys-not-included",
+      "source": "Hacker News",
+      "published": "2026-09-17T03:03:23+00:00"
+    },
+    {
+      "headline": "Veteran South African Sports Broadcaster Owen Ndlovu Found Dead After Hijacking",
+      "summary": "Former SABC presenter Owen Ndlovu was discovered dead with gunshot wounds hours after armed assailants hijacked his vehicle and abducted him in a township near Johannesburg. Police have launched a manhunt for three suspects involved in the kidnapping, which underscores ongoing concerns regarding violent crime in South Africa. Tributes have poured in from the public and his family for the well-known sports journalist.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-17T06:46:31.729Z"
     },
     {
       "headline": "Haruomi Hosono Reworks Past Rarities on Contemplative New Solo LP",
@@ -354,42 +408,6 @@
       "published": "2026-09-16T04:02:00+00:00"
     },
     {
-      "headline": "Luis de la Fuente Extends Spain Contract Through 2032",
-      "summary": "Spain's World Cup-winning head coach Luis de la Fuente has signed a contract extension keeping him at the helm until 2032. The deal ensures he will lead the national team through their title defense at the 2030 World Cup, which will be co-hosted by Spain, Portugal, and Morocco.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-16T22:02:44.318Z"
-    },
-    {
-      "headline": "Rushed Review Caused Major Manchester Derby VAR Error",
-      "summary": "Audio reveals video assistant referee Matt Donohue frantically rushing through a review during the Manchester derby, leading officials to miss a blatant three-yard offside before a winning goal. The costly gaffe highlights mounting pressure on match officials to prioritize speed over accuracy.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-16T15:03:53.266Z"
-    },
-    {
-      "headline": "German State Premiers Rally Behind Chancellor Merz",
-      "summary": "Eight state premiers from Friedrich Merz's Christian Democratic Union have thrown their support behind the embattled German chancellor amidst plummeting personal approval ratings and a surging far-right AfD opposition. The leaders stressed political stability ahead of crucial upcoming state elections that threaten the party's future.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-16T14:50:26.918Z"
-    },
-    {
-      "headline": "EU Proposes Associate Membership for Canada",
-      "summary": "European Commission President Ursula von der Leyen proposed making Canada the EU's first-ever associate member during her annual State of the Union address. While Brussels seeks to deepen trans-Atlantic ties, former US President Donald Trump immediately dismissed the concept as laughable.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
-      "source": "NPR News",
-      "published": "2026-09-16T16:08:27-04:00"
-    },
-    {
       "headline": "Aaron Judge Exits Game With Lower Leg Tightness",
       "summary": "New York Yankees slugger Aaron Judge was forced to leave a crucial game due to lower leg tightness. It remains unclear whether the injury will force him to miss upcoming games as the team battles through a tight AL East race.",
       "category": "Sports",
@@ -399,13 +417,31 @@
       "published": "2026-09-16T22:41:28+00:00"
     },
     {
-      "headline": "Exposing the 'Burnerverse' Online Harassment Ring",
-      "summary": "A loosely knit online community of sports fans known as the burnerverse has been actively doxxing and exploiting college women by spreading nonconsensual explicit images online. Wired cultural reporter EJ Dickson detailed how these anonymous groups weaponize social media platforms like X to target victims.",
+      "headline": "Rushed Review Caused Major Manchester Derby VAR Error",
+      "summary": "Audio reveals video assistant referee Matt Donohue frantically rushing through a review during the Manchester derby, leading officials to miss a blatant three-yard offside before a winning goal. The costly gaffe highlights mounting pressure on match officials to prioritize speed over accuracy.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-16T15:03:53+00:00"
+    },
+    {
+      "headline": "Luis de la Fuente Extends Spain Contract Through 2032",
+      "summary": "Spain's World Cup-winning head coach Luis de la Fuente has signed a contract extension keeping him at the helm until 2032. The deal ensures he will lead the national team through their title defense at the 2030 World Cup, which will be co-hosted by Spain, Portugal, and Morocco.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-16T22:02:44+00:00"
+    },
+    {
+      "headline": "German State Premiers Rally Behind Chancellor Merz",
+      "summary": "Eight state premiers from Friedrich Merz's Christian Democratic Union have thrown their support behind the embattled German chancellor amidst plummeting personal approval ratings and a surging far-right AfD opposition. The leaders stressed political stability ahead of crucial upcoming state elections that threaten the party's future.",
       "category": "World",
-      "relevance": 4,
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971222/the-burnerverse-exploiting-young-women-in-college",
-      "source": "NPR News",
-      "published": "2026-09-16T16:50:17-04:00"
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-16T14:50:26+00:00"
     },
     {
       "headline": "Two-Star Michelin Restaurant in Seoul Fined for Serving Unapproved Ants",
@@ -415,15 +451,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-09-16T15:48:50+00:00"
-    },
-    {
-      "headline": "Bill Belichick Denies Girlfriend's Involvement With Team",
-      "summary": "Bill Belichick forcefully dismissed recent reports claiming his girlfriend, Jordon Hudson, has had official involvement with his college football program. The legendary coach characterized the allegations as a flat-out lie.",
-      "category": "NFL",
-      "relevance": 2,
-      "url": "https://www.cbssports.com/college-football/news/bill-belichick-girlfriend-jordon-hudson-flat-out-lie/",
-      "source": "CBS Sports",
-      "published": "2026-09-16T23:15:30+00:00"
     }
   ]
 }
