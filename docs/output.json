@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T22:05:55.204585+00:00",
+  "generated_at": "2026-09-17T00:24:26.260067+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -138,6 +138,24 @@
       "published": "2026-09-14T04:03:00+00:00"
     },
     {
+      "headline": "Fantasy Football WR Week 2: Adams Back to Must-Start",
+      "summary": "Davante Adams returns to clear must-start status heading into Week 2. Meanwhile, analysts express growing hesitation over relying on Drake London.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-start-em-sit-em-lineup-decisions-jamey-eisenberg-week-2/",
+      "source": "CBS Sports",
+      "published": "2026-09-17T00:19:37+00:00"
+    },
+    {
+      "headline": "Bills vs. Lions Week 2 Thursday Night Football Model Picks",
+      "summary": "A proven predictive model reveals its top bets and analysis for the Week 2 Thursday Night Football matchup between the Buffalo Bills and Detroit Lions.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/betting/news/bills-lions-predictions-odds-time-week-2-nfl-thursday-night-football-picks-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-09-16T21:50:16+00:00"
+    },
+    {
       "headline": "NFL Week 1 Schemes and Defensive Rust",
       "summary": "Cody Alexander and Felix Johnson break down Brian Flores's heavy gap-out pressure schemes and how they dismantled Week 1 pass protections. The film study also highlights how a lack of live preseason contact led across the league to missed tackles and fractured run fits. Analysts examine the specific structural adjustments and coverage rotations that dictated early-season defensive success.",
       "category": "NFL",
@@ -192,6 +210,24 @@
       "published": "2026-09-15T22:47:07+00:00"
     },
     {
+      "headline": "Open-Source Jev-Like Model Mimics Commercial Option-Routing Architecture",
+      "summary": "An independent developer has released an open-source starter model mirroring the input and output shape of TypeSafe's commercial Jev model, which evaluates text against a changing list of options in a single pass. The repository demonstrates how the architecture can score controller buttons from image patches, tested through recorded Doom combat and chess simulations. This release provides a foundation for researchers looking to explore single-pass probability routing without relying on proprietary systems.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "source": "Hacker News",
+      "published": "2026-09-16T18:49:57+00:00"
+    },
+    {
+      "headline": "New JiT-DDT Architecture Trains Text-to-Image Models 3.6x Faster",
+      "summary": "Linum researchers have introduced the JiT-DDT architecture, merging VAE compression and diffusion modules into a single unified pixel-space model to slash quadratic attention costs. By pruning the massive context windows that previously bogged down Linum v2, the new model achieves a 3.6x reduction in GPU-hours while generating images with four times the pixel density. The code and model weights are now publicly available under an Apache 2.0 license as a research artifact.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "source": "Hacker News",
+      "published": "2026-09-16T16:58:13+00:00"
+    },
+    {
       "headline": "Dream-RSI Framework Boosts AI Self-Improvement via Simulated Worlds",
       "summary": "Researchers have introduced Dream-RSI, a new architecture designed to streamline recursive self-improvement in autonomous coding and optimization agents. By utilizing historical discovery trees as a replay simulator, the framework generates low-cost, off-policy feedback without running expensive online evaluations. This approach successfully scales exploration across complex domains like algorithm design and GPU kernel engineering while cutting computational costs.",
       "category": "Tech/AI",
@@ -199,15 +235,6 @@
       "url": "https://arxiv.org/abs/2609.14858",
       "source": "Hacker News",
       "published": "2026-09-16T13:44:40+00:00"
-    },
-    {
-      "headline": "Mozilla Partners With Mistral to Integrate Privacy-First AI Into Firefox",
-      "summary": "Mozilla is integrating Mistral AI models into its Firefox Smart Window feature to bring localized, multilingual browsing assistants to users. The partnership emphasizes strict privacy controls, featuring zero data retention and open-weight models tailored to regional dialects.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "source": "Hacker News",
-      "published": "2026-09-16T08:08:57+00:00"
     },
     {
       "headline": "Reviewing 'Empire of AI' and 'The Infinity Machine'",
@@ -255,31 +282,94 @@
       "published": "2026-09-15T14:21:14+00:00"
     },
     {
-      "headline": "Open-Source Jev-Like Model Mimics Commercial Option-Routing Architecture",
-      "summary": "An independent developer has released an open-source starter model mirroring the input and output shape of TypeSafe's commercial Jev model, which evaluates text against a changing list of options in a single pass. The repository demonstrates how the architecture can score controller buttons from image patches, tested through recorded Doom combat and chess simulations. This release provides a foundation for researchers looking to explore single-pass probability routing without relying on proprietary systems.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "source": "Hacker News",
-      "published": "2026-09-16T18:49:57+00:00"
-    },
-    {
       "headline": "DOJ Indicts Russian Operatives Over Global Assassination and Sabotage Plots",
       "summary": "The U.S. Justice Department has unsealed an indictment charging five suspected Russian intelligence operatives with plotting attacks against Kremlin critics worldwide, including a murder-for-hire plot targeting a U.S. dissident. Prosecutors state the defendants belong to a specialized external attacks network that has also targeted civilian and military infrastructure across European allied nations. This case highlights ongoing hybrid warfare concerns as tensions between NATO and Moscow persist.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/09/16/g-s1-143590/us-justice-department-russian-operatives-attacks",
       "source": "NPR News",
-      "published": "2026-09-16T13:19:49-04:00"
+      "published": "2026-09-16T17:19:49+00:00"
     },
     {
-      "headline": "New JiT-DDT Architecture Trains Text-to-Image Models 3.6x Faster",
-      "summary": "Linum researchers have introduced the JiT-DDT architecture, merging VAE compression and diffusion modules into a single unified pixel-space model to slash quadratic attention costs. By pruning the massive context windows that previously bogged down Linum v2, the new model achieves a 3.6x reduction in GPU-hours while generating images with four times the pixel density. The code and model weights are now publicly available under an Apache 2.0 license as a research artifact.",
+      "headline": "Xcode 27.2 Beta Drops Without 27.1, Stalling Duo Apps",
+      "summary": "Apple released the Xcode 27.2 beta while skipping version 27.1 entirely, leaving developers unable to officially build or test Duo-adapted applications. The unusual version sequence creates a temporary roadblock for software engineering on upcoming hardware.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_2-release-notes",
+      "source": "Daring Fireball",
+      "published": "2026-09-16T22:40:41+00:00"
+    },
+    {
+      "headline": "Anthropic Merges Claude Cowork and Chat Into One Unified Tool",
+      "summary": "Anthropic is combining its Claude Cowork and standard chat interfaces into a single Claude experience. The unified assistant is rolling out to Pro and Max users across web, desktop, and mobile platforms over the coming weeks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+      "source": "Simon Willison",
+      "published": "2026-09-16T18:09:49+00:00"
+    },
+    {
+      "headline": "Federal Reserve Hikes Interest Rates to 4% to Combat Inflation",
+      "summary": "The Federal Reserve unanimously raised interest rates to a range of 3.75%-4% in an effort to cool persistent inflation that has outpaced its 2% target for five years. Fed Chair Kevin Warsh defended the move as a responsible decision, despite heavy pushback and calls for cuts from President Donald Trump.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-16T21:02:11.316Z"
+    },
+    {
+      "headline": "Model Backs Florida State as 19.5-Point Underdog Against Alabama",
+      "summary": "A predictive model releases its top college football score predictions for Week 3 of the 2026 season. The standout projection highlights Florida State covering a massive 19.5-point spread against powerhouse Alabama.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-odds-picks-for-week-3-2026/",
+      "source": "CBS Sports",
+      "published": "2026-09-17T00:15:44+00:00"
+    },
+    {
+      "headline": "Leaked Photos Reveal Heavy Damage to US Middle East Bases",
+      "summary": "Newly leaked military photos show extensive destruction across US installations in Saudi Arabia and Kuwait following Iranian strikes. The images depict severe damage to vital infrastructure, including a mangled Boeing E-3 Sentry radar aircraft at Prince Sultan Air Force Base.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-16T15:23:03.765Z"
+    },
+    {
+      "headline": "Apple Releases iOS 27.2 Beta First to Hide iPhone Duo Leaks",
+      "summary": "Apple dropped the iOS 27.2 developer beta while omitting version 27.1, which is reserved as the factory-installed software for the upcoming iPhone Duo. This staging tactic prevents hidden code references from spoiling unannounced hardware details ahead of the October release.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.macrumors.com/2026/09/16/heres-why-apple-released-ios-27-2-beta/",
+      "source": "Daring Fireball",
+      "published": "2026-09-16T17:53:09+00:00"
+    },
+    {
+      "headline": "Expert Re-Grading Shows AI Models Are Near-Mastering Physics",
+      "summary": "A comprehensive audit by physics faculty and graduate researchers reveals that frontier AI models actually perform far better on advanced physics benchmarks than previously reported. Most initial grading failures stemmed from flawed benchmark questions, incorrect reference solutions, and ambiguous prompts rather than model reasoning errors.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://arxiv.org/abs/2609.13009",
       "source": "Hacker News",
-      "published": "2026-09-16T16:58:13+00:00"
+      "published": "2026-09-16T19:19:08+00:00"
+    },
+    {
+      "headline": "Sam Altman Says Public Is Right to Fear AI, Asks for Trust",
+      "summary": "OpenAI CEO Sam Altman acknowledged public fears surrounding rapid AI advancements during a San Francisco conference, admitting the technology carries severe risks. While critics and lawmakers debate regulatory frameworks, Altman urged the world to trust AI companies to govern themselves safely.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-15T22:13:10.312Z"
+    },
+    {
+      "headline": "Fine-Tuned 4B AI Outpaces Postgres Query Engine by 81%",
+      "summary": "Software engineer Rohan Bansal trained a lightweight 4-billion-parameter Qwen model using supervised fine-tuning and reinforcement learning to outperform PostgreSQL's native query planner. Because verifying plan quality hinges on execution speed, the setup used iterative rollout rewards to nudge model weights toward faster strategies like optimized hash joins. The experiment tackles join ordering—a notoriously NP-hard database bottleneck—to demonstrate that small open-weights models can reliably beat traditional heuristic optimizers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://rohanbansal.com/qorl",
+      "source": "Hacker News",
+      "published": "2026-09-16T00:00:00.000Z"
     },
     {
       "headline": "Apple Unveils AirPods 5 With Enhanced AI and IP57 Rating",
@@ -289,6 +379,15 @@
       "url": "https://www.apple.com/airpods-5/specs/",
       "source": "Daring Fireball",
       "published": "2026-09-16T14:35:49+00:00"
+    },
+    {
+      "headline": "Google Open-Sources Vectorized Quicksort Delivering 10x Speedups",
+      "summary": "Google released open-source code for a vectorized Quicksort algorithm capable of sorting numerical arrays roughly ten times faster than standard C++ implementations. The performance leap is achieved by leveraging SIMD instructions and architecture-specific compress-store operations tailored for modern columnar databases. The algorithm maintains portability across major CPU architectures including x86, Arm, and RISC-V.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "source": "Hacker News",
+      "published": "2026-09-16T18:31:35+00:00"
     },
     {
       "headline": "Reflections on Parenting Pitfalls from The Gospel Coalition",
@@ -309,139 +408,40 @@
       "published": "2026-09-16T10:14:45+00:00"
     },
     {
-      "headline": "US Deployment of Secret Space Weapon Sparks Global Security Concerns",
-      "summary": "The United States announced the deployment of an unspecified orbital space weapon designed to protect military assets from hostile actions. Defense analysts speculate the hardware may involve non-destructive electronic warfare tools like radio-jamming platforms rather than debris-producing kinetic interceptors.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-15T14:23:14+00:00"
-    },
-    {
-      "headline": "Google Open-Sources Vectorized Quicksort Delivering 10x Speedups",
-      "summary": "Google released open-source code for a vectorized Quicksort algorithm capable of sorting numerical arrays roughly ten times faster than standard C++ implementations. The performance leap is achieved by leveraging SIMD instructions and architecture-specific compress-store operations tailored for modern columnar databases. The algorithm maintains portability across major CPU architectures including x86, Arm, and RISC-V.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-      "source": "Hacker News",
-      "published": "2026-09-16T18:31:35+00:00"
-    },
-    {
       "headline": "US Imposes Visa Restrictions on South African Officials Amid Discrimination Row",
       "summary": "The U.S. State Department has slapped visa restrictions on South African officials over policies the Trump administration claims discriminate against the country's white minority and Afrikaners. Secretary of State Marco Rubio stated that South Africa failed to adequately address U.S. concerns regarding race-based laws and land confiscation without compensation. South African officials strongly condemned the move, dismissing the allegations as a mischaracterization pushed by fringe groups.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-16T06:12:04.196Z"
+      "published": "2026-09-16T13:57:03+00:00"
     },
     {
-      "headline": "Essential Programming and Terminal Tricks",
-      "summary": "Engineering productivity often relies on small, practical commands that solve everyday development bottlenecks. Useful techniques range from enhancing shell history searches with fuzzy finders to leveraging Postgres explain analyze for query optimization. Additional tricks include keeping HTTP connections alive with custom agents and using git pickaxe to track specific string modifications.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "source": "Hacker News",
-      "published": "2026-09-16T15:56:47+00:00"
-    },
-    {
-      "headline": "DeepMind Launches Institute for AGI Research",
-      "summary": "The AI pioneer has introduced the DeepMind Institute to drive advanced research into artificial general intelligence. The platform outlines foundational privacy and cookie policies for its new initiative.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://institute.deepmind.com/",
-      "source": "Hacker News",
-      "published": "2026-09-16T14:32:11+00:00"
-    },
-    {
-      "headline": "Colombia and Brazil Lead Global Environmental Activist Deaths",
-      "summary": "Global Witness reports that 124 land and environmental activists were murdered globally in 2025, with Latin America accounting for 85% of the total. Colombia recorded 39 killings and Brazil saw 26, driven largely by land disputes and organized crime targeting indigenous communities and small-scale farmers.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c6kgxjl35822o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-16T11:02:54+00:00"
-    },
-    {
-      "headline": "LSU Faces Ole Miss in Week 3 Clash Highlighted by Lane Kiffin's Return",
-      "summary": "CBS Sports previews the high-stakes Week 3 college football matchup between LSU and Ole Miss. The game centers heavily on coach Lane Kiffin's return to Oxford as both teams battle for early-season positioning. Analysts break down the latest betting odds and key predictions for the showdown.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/lsu-ole-miss-prediction-odds-time-week-3-college-football-picks-for-lane-kiffin-return/",
-      "source": "CBS Sports",
-      "published": "2026-09-16T19:48:16+00:00"
-    },
-    {
-      "headline": "Jared Kushner Faces Scrutiny Over Blending Mideast Diplomacy with Private Investments",
-      "summary": "The New Yorker's Dexter Filkins details how Jared Kushner has simultaneously acted as a U.S. special envoy negotiating Middle Eastern peace while raising billions in private business ventures from the same nations. The dual roles have sparked concerns regarding conflicts of interest between public diplomacy and private financial gains. NPR explores these overlapping commercial and diplomatic endeavors in a recent interview.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5971125/how-jared-kushner-is-mixing-u-s-diplomacy-with-his-billion-dollar-business",
-      "source": "NPR News",
-      "published": "2026-09-16T12:14:19-04:00"
-    },
-    {
-      "headline": "Demystifying Console Texture Memory Layouts in Game Engine Porting",
-      "summary": "A graphics programmer details the severe complexities of converting texture data between different gaming platforms, focusing on memory layouts for a 1024x1024 RGBA texture using BC7 compression. The post breaks down how block compression, texel ordering, mips, and texture tiles must be precisely managed across hardware architectures. Failing to account for these platform-specific memory hierarchies results in chaotic rendering errors.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://agentlien.github.io/texture/",
-      "source": "Hacker News",
-      "published": "2026-09-16T14:28:28+00:00"
-    },
-    {
-      "headline": "Tech Critics Warn Against Granting Welfare and Rights to Non-Conscious AI",
-      "summary": "A commentary piece warns that treating AI models as conscious entities or designing them with simulated moral status threatens societal frameworks and complicates AI alignment. The author argues that treating sequence-completion engines as moral patients—noting recent constitutional frameworks like Anthropic's approach to Claude—creates insurmountable containment risks. Maintaining that AIs lack genuine feelings or preferences is deemed vital for safe technological development.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "source": "Hacker News",
-      "published": "2026-09-16T14:27:47+00:00"
-    },
-    {
-      "headline": "Scientists Implants Human Brain Cells Into Mice",
-      "summary": "Researchers have successfully integrated millions of lab-grown human brain cells into mice missing parts of their cerebral cortexes to better model neurological conditions. This breakthrough has prompted ethicists to question the moral implications and proper treatment of these modified animals.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/09/16/nx-s1-5968873/lab-mouse-human-brain-cells-organoid-disease-ethics",
-      "source": "NPR News",
-      "published": "2026-09-16T15:00:16+00:00"
-    },
-    {
-      "headline": "Lionel Messi Leads Inter Miami Against Cruz Azul in Campeones Cup Final",
-      "summary": "Lionel Messi is set to captain Inter Miami as they face Cruz Azul in the Campeones Cup final, eyeing yet another trophy for his storied career. CBS Sports provides game coverage and updates as Miami chases the championship title. The match highlights Miami's continued high-profile aspirations on the soccer stage.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/soccer/news/lionel-mess-inter-miami-cruz-azul-campeones-cup/",
-      "source": "CBS Sports",
-      "published": "2026-09-16T19:55:27+00:00"
-    },
-    {
-      "headline": "Chelsea Phenom Kendry Paez Demoted to Academy Squad",
-      "summary": "Chelsea's £17.27 million signing Kendry Paez has been relegated to the club's Under-21 side after new manager Xabi Alonso announced the 19-year-old is not in his plans. With Chelsea maxed out on international loan slots under FIFA rules, the Ecuadorian international remains stranded in the development setup following stalled momentum and off-field discipline concerns. Paez had previously made history as South America's youngest World Cup qualifying goalscorer before seeing his high-profile career derail in London.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-16T14:05:00.236Z"
-    },
-    {
-      "headline": "Baker Mayfield Downplays Revenge Angle Ahead of Browns Matchup",
-      "summary": "Tampa Bay Buccaneers quarterback Baker Mayfield insists he harbors no lingering bitterness toward the Cleveland Browns ahead of their Week 2 meeting. The former top overall pick faces the organization that discarded him in 2022, but he is treating the clash like any other regular-season contest.",
+      "headline": "Lions Shorthanded on Offensive Line Ahead of Week 2 Matchup with Bills",
+      "summary": "Detroit will play without two starting offensive linemen for their upcoming game against Buffalo, including Blake Miller. The absences deliver an early-season test to the Lions' front-line protection against a formidable Bills defense. Full details on corresponding roster adjustments and injury specifics were not disclosed in the preliminary report.",
       "category": "NFL",
-      "relevance": 3,
-      "url": "https://www.cbssports.com/nfl/news/buccaneers-baker-mayfield-surprisingly-not-carrying-vengeful-spirit-into-week-2-showdown-with-browns/",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-lions-down-two-offensive-lineman-bills/",
       "source": "CBS Sports",
-      "published": "2026-09-16T19:49:52+00:00"
+      "published": "2026-09-17T00:17:29+00:00"
     },
     {
-      "headline": "Sports Betting Model Pitches Wild Longshot Parlay for NFL Week 2",
-      "summary": "A projection model has mapped out an extreme longshot parlay for Week 2 of the NFL season, promising astronomical odds of roughly +16,000,000. The lottery-ticket wager bundles multiple underdog outcomes in hopes of delivering an improbable, record payout for high-risk bettors.",
-      "category": "NFL",
-      "relevance": 3,
-      "url": "https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-bets-week-2-2026/",
-      "source": "CBS Sports",
-      "published": "2026-09-16T19:42:21+00:00"
+      "headline": "The Tubs Turn Romantic Ruin into Jangle-Rock Gold on 'Hard Life'",
+      "summary": "Welsh singer Owen Williams and UK indie outfit The Tubs make their Merge Records debut with 'Hard Life', an album defined by self-deprecating humor and fatalistic folk-rock. Williams anchors the release with unreliable narrators who sing about depression and professional failure over dueling guitars and fiddles. The record doubles down on scrappy DIY indie-pop values, treating persistent bad luck as both an artistic muse and an inevitable condition.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/the-tubs-hard-life/",
+      "source": "Pitchfork",
+      "published": "2026-09-16T04:03:00+00:00"
+    },
+    {
+      "headline": "Haruomi Hosono Reworks Past Rarities on Contemplative New Solo LP",
+      "summary": "At 79, Japanese music pioneer Haruomi Hosono revisits and polishes decades of neglected side projects on 'Yours Sincerely', his 23rd solo album released via Ghostly International. The surviving Yellow Magic Orchestra co-founder transforms commercial jingles, TV scores, and classical adaptations into tender, waltz-tempo arrangements. Highlights include a fleshed-out retail ad jingle and a reimagined 2006 television score layered with traditional iwabue flute.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://pitchfork.com/reviews/albums/haruomi-hosono-yours-sincerely/",
+      "source": "Pitchfork",
+      "published": "2026-09-16T04:02:00+00:00"
     },
     {
       "headline": "Two-Star Michelin Restaurant in Seoul Fined for Serving Unapproved Ants",
@@ -450,7 +450,7 @@
       "relevance": 2,
       "url": "https://www.bbc.co.uk/news/articles/c639m42y43v4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-16T15:48:50.174Z"
+      "published": "2026-09-16T15:48:50+00:00"
     }
   ]
 }
