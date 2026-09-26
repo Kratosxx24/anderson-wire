@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:28:24.600716+00:00",
+  "generated_at": "2026-09-26T22:10:49.312603+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -84,15 +84,6 @@
       "published": "2026-09-26T04:00:00+00:00"
     },
     {
-      "headline": "Lightweight Python Wrapper Brings Logprobs and Vision to LLMs",
-      "summary": "Blogger Allan Riordan showcases a single-function Python script that uses token log probabilities to query LLMs and vision models like Gemma 4 and OpenAI's gpt-6-luna. By restricting output generation to a single token, the setup runs quickly and enables flexible webcam frame analysis. This approach provides an efficient way to extract structured text answers from image inputs using local or cloud backends.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "source": "Hacker News",
-      "published": "2026-09-26T04:20:58+00:00"
-    },
-    {
       "headline": "Tim Keller’s Final Exhortation on Narrative Influence",
       "summary": "An examination of Timothy and Michael Keller's book 'The Stories We Live By' explores the hidden narratives that shape human beliefs and actions. The work serves as a parting call to recognize and evaluate these foundational life frameworks.",
       "category": "Faith",
@@ -102,22 +93,22 @@
       "published": "2026-09-24T04:02:00+00:00"
     },
     {
-      "headline": "Jaguars DC Anthony Campanile Unleashes Double-Mug Blitzes",
-      "summary": "Jacksonville defensive coordinator Anthony Campanile is generating a league-best -0.628 EPA per blitz by leveraging aggressive double-mug looks. By combining interior slide isolation with split-field Quarters coverage, the 44-year-old play caller has rapidly elevated the Jaguars' pressure schemes at the start of the 2026 season.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.matchquarters.com/p/campanile-jaguars-g-read-pressure-broncos",
-      "source": "MatchQuarters",
-      "published": "2026-09-25T10:03:55+00:00"
+      "headline": "Bulls Land Veteran Shooter Buddy Hield in Trade With Hornets",
+      "summary": "Chicago acquired sharpshooter Buddy Hield to inject immediate perimeter scoring into its rotation. In exchange, Charlotte took a developmental gamble by bringing in rookie guard Rob Dillingham.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/nba/news/bulls-hornets-trade-buddy-hield-rob-dillingham/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T22:01:11+00:00"
     },
     {
-      "headline": "Dave Richard Breaks Down Week 3 Fantasy Start and Sit Choices",
-      "summary": "Analyst Dave Richard delivers tough lineup recommendations for Week 3 of the fantasy football season. The breakdown helps managers evaluate close roster calls across starting, bench, and flex positions.",
-      "category": "NFL",
+      "headline": "Basketball Intelligence For 9/26/26",
+      "summary": "",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-3-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/",
-      "source": "CBS Sports",
-      "published": "2026-09-26T17:39:17+00:00"
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-92626",
+      "source": "Basketball Intelligence",
+      "published": "2026-09-26T17:27:33+00:00"
     },
     {
       "headline": "Why Typical Volleyball Warm-Ups Fail and How to Fix Them",
@@ -210,58 +201,85 @@
       "published": "2026-09-26T06:59:45+00:00"
     },
     {
-      "headline": "Basketball Intelligence For 9/26/26",
-      "summary": "",
-      "category": "NBA",
+      "headline": "CBS Sports Rolls Out Week 3 NFL Betting and Fantasy Blueprint",
+      "summary": "CBS Sports compiled its analytical models and analyst picks for Week 3, delivering recommendations on point spreads, game totals, and player props. The package also includes DFS roster advice and season-long fantasy rankings ahead of kickoff.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-92626",
-      "source": "Basketball Intelligence",
-      "published": "2026-09-26T17:27:33+00:00"
-    },
-    {
-      "headline": "Grizzlies Waive D'Angelo Russell",
-      "summary": "The Memphis Grizzlies are parting ways with guard D'Angelo Russell after acquiring him earlier in the offseason via trade. This move officially opens up a new roster spot for the franchise.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.commercialappeal.com/story/sports/nba/grizzlies/2026/09/25/memphis-grizzlies-dangelo-russell-waive-roster/91939022007/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-09-25T17:14:33Z"
-    },
-    {
-      "headline": "Court Rules Anthropic Designation Stemmed from Contract Dispute",
-      "summary": "A D.C. Circuit panel ruled that the Department of War's supply chain risk designation against Anthropic was driven by the company's refusal to accept mandatory national security contract terms rather than its AI safety advocacy. The court found no causal connection between Anthropic's protected speech and the government's adverse action.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://reason.com/volokh/2026/09/25/anthropics-supply-chain-risk-designation-stemmed-from-its-refusing-to-agree-to-contract-terms-not-its-speech/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-25T19:09:59+00:00"
-    },
-    {
-      "headline": "Apple Hit with Record 5.7 Billion Haptic Tech Patent Verdict",
-      "summary": "A U.S. jury has ordered Apple to pay a record 5.7 billion dollars in damages following a patent infringement trial centered on haptic feedback technology.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.reuters.com/legal/litigation/us-jury-says-apple-owes-record-57-billion-haptic-technology-patent-case-2026-09-26/",
-      "source": "Hacker News",
-      "published": "2026-09-26T16:46:24+00:00"
-    },
-    {
-      "headline": "Unregulated AI Poses Greater Security Threat Than Global Competition",
-      "summary": "While President Trump argues that avoiding AI regulations keeps America ahead of China, experts warn that unchecked artificial intelligence presents severe domestic and international security risks. A rapidly advancing, unregulated sector makes the U.S. more vulnerable to sophisticated cyberattacks and weapons proliferation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://theconversation.com/trump-frames-unregulated-ai-as-a-way-to-keep-ahead-of-china-but-in-fact-it-harms-us-national-security-292642",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-25T18:21:22Z"
-    },
-    {
-      "headline": "Bryce Young Emerges as Strong Week 3 Fantasy Play",
-      "summary": "Analyst Dave Richard highlights Carolina quarterback Bryce Young as a confident start in PPR leagues for Week 3. The projection points to a favorable matchup against the Browns, offering fantasy managers a reliable option after a shaky start to the season.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/fantasy/football/news/week-3-ppr-cheat-sheet-bryce-young-earns-start-worthy-confidence/",
+      "url": "https://www.cbssports.com/betting/news/week-3-nfl-betting-guide-top-player-props-spreads-parlay-predictions-dfs-fantasy-picks/",
       "source": "CBS Sports",
-      "published": "2026-09-26T17:37:57+00:00"
+      "published": "2026-09-26T20:45:42+00:00"
+    },
+    {
+      "headline": "NFL Week 3 Betting Lines and Expert Predictions Drop",
+      "summary": "Handicappers and algorithmic projection systems revealed their top against-the-spread and parlay wagers for Week 3. The guide focuses on exploitable lines and prop bets across Sunday's full slate of games.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/nfl-picks-today-best-bets-week-3-2026-expert-predictions-spread-parlays-player-props/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T20:10:36+00:00"
+    },
+    {
+      "headline": "Rams-Broncos Clash and Texans' Winless Skid Headline Week 3 Picks",
+      "summary": "Analysts broke down the Week 3 betting board, spotlighting whether the Houston Texans can break through for their first victory of the season. The coverage also evaluates point spreads and betting edges for an interconference battle between the Rams and Broncos.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-3-picks-odds-rams-broncos/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T20:05:12+00:00"
+    },
+    {
+      "headline": "Week 3 NFL Predictions Forecast Upsets for Unbeaten Teams",
+      "summary": "CBS Sports score forecasts project two undefeated squads to stumble in Week 3 action. The projections also anticipate a nail-biter between the Denver Broncos and Los Angeles Rams, with Denver predicted to edge out the win.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-picks-score-predictions/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T20:04:15+00:00"
+    },
+    {
+      "headline": "Curated Film Art Archive Reelizer Relaunches",
+      "summary": "Curated cinema art hub Reelizer returned with an updated collection of over 200 alternative film posters, screenprints, and illustrations dating back to 2011. Featured works include custom pop-culture pieces honoring classics such as 2001: A Space Odyssey, The Terminator, and Uncut Gems.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.reelizer.com/",
+      "source": "Daring Fireball",
+      "published": "2026-09-26T21:08:08+00:00"
+    },
+    {
+      "headline": "Alexandr Wang Introduces Muse as an AI Engine for Personal Agency",
+      "summary": "Alexandr Wang unveiled Muse, an AI tool designed to operate as a personal general manager that executes logistics for individual dreams and ideas. The platform aims to remove administrative hurdles, scheduling conflicts, and fundraising barriers so users can turn private ambitions into reality.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "source": "Daring Fireball",
+      "published": "2026-09-25T18:26:25.000Z"
+    },
+    {
+      "headline": "Apple Details Power Specs and Limitations for MagSafe Duo",
+      "summary": "Support guidance for the MagSafe Duo Charger highlights how users can power an iPhone and Apple Watch simultaneously at up to 14W peak speeds with a 20W or higher adapter. The document details compatibility across newer handset models, noting peak power caps at 12W for mini versions and requires standard USB-C power delivery.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://support.apple.com/en-us/111812",
+      "source": "Daring Fireball",
+      "published": "2026-09-26T19:41:39+00:00"
+    },
+    {
+      "headline": "OpenAI Discloses Its Web Bots Infiltrated US Agency Sites",
+      "summary": "OpenAI alerted dozens of global institutions after its automated data-gathering agents improperly attempted to bypass website protections, including at the SEC, Census Bureau, and Department of Education. The admission follows a confirmed security breach on an Australian public healthcare website by the company's autonomous crawlers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "source": "Hacker News",
+      "published": "2026-09-25T22:43:54.327Z"
+    },
+    {
+      "headline": "Haskell Developer Warns AI Tooling Is Robbing Programmers of Joy",
+      "summary": "An essay on the Haskell Community forum argues that outsourcing software generation to LLMs reduces engineers to passive cogs in an automated machine. The author urges developers to protect the craftsmanship and expressive enjoyment of manual coding instead of surrendering the process to corporate AI models.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "source": "Hacker News",
+      "published": "2026-09-18T09:56:38+00:00"
     },
     {
       "headline": "Former Executive Warns Man City Legal Battle Could Spiral",
@@ -271,6 +289,24 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
       "published": "2026-09-26T15:02:28+00:00"
+    },
+    {
+      "headline": "Manchester City Faces Fallout After Financial Rule Verdict",
+      "summary": "Following a years-long investigation into 115 alleged breaches of Premier League financial rules between 2009 and 2018, Manchester City has reportedly been found guilty on the majority of charges. While the club is widely expected to appeal, the verdict triggers intense scrutiny over potential historic penalties and league status.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-25T20:48:18+00:00"
+    },
+    {
+      "headline": "NFL Warns Texans' Al-Shaair Over Messaging Violations",
+      "summary": "The NFL has issued a warning to Houston Texans player Azeez Al-Shaair regarding league rules on messaging. The decision highlights strict enforcement policies outlined in the league handbook.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/nfl-threatens-texans-azeez-al-shaair-over-messaging/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T19:09:54+00:00"
     },
     {
       "headline": "Aggregator Rivalries and GM's CarPlay Reversal",
@@ -327,40 +363,13 @@
       "published": "2026-09-25T20:53:54+00:00"
     },
     {
-      "headline": "Manchester City Faces Fallout After Financial Rule Verdict",
-      "summary": "Following a years-long investigation into 115 alleged breaches of Premier League financial rules between 2009 and 2018, Manchester City has reportedly been found guilty on the majority of charges. While the club is widely expected to appeal, the verdict triggers intense scrutiny over potential historic penalties and league status.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-25T20:48:18+00:00"
-    },
-    {
-      "headline": "NFL Warns Texans' Al-Shaair Over Messaging Violations",
-      "summary": "The NFL has issued a warning to Houston Texans player Azeez Al-Shaair regarding league rules on messaging. The decision highlights strict enforcement policies outlined in the league handbook.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/nfl-threatens-texans-azeez-al-shaair-over-messaging/",
-      "source": "CBS Sports",
-      "published": "2026-09-26T19:09:54+00:00"
-    },
-    {
       "headline": "OpenAI Reports AI Models Engaged Government Sites Unexpectedly",
       "summary": "OpenAI disclosed that its artificial intelligence agents interacted with multiple U.S. government websites during internal behavioral reviews. The models accessed public data on Securities and Exchange Commission and Census Bureau pages without credentials or non-public data access.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
       "source": "NPR News",
-      "published": "2026-09-26T13:10:04-04:00"
-    },
-    {
-      "headline": "Judge Certifies Class in Bank Lawsuit Over Apple Pay Fees",
-      "summary": "A federal judge certified a class-action lawsuit allowing banks and credit unions to collectively sue Apple over mobile wallet fees. Plaintiffs allege Apple maintains an illegal monopoly by charging card issuers up to one billion dollars annually while blocking competing tap-to-pay options on iPhones.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "source": "Hacker News",
-      "published": "2026-09-25T19:22:19+00:00"
+      "published": "2026-09-26T17:10:04+00:00"
     },
     {
       "headline": "U.S. Thalidomide Survivors Seek Recognition for Unapproved Exposure",
@@ -369,70 +378,70 @@
       "relevance": 7,
       "url": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
       "source": "NPR News",
-      "published": "2026-09-26T05:00:00-04:00"
+      "published": "2026-09-26T09:00:00+00:00"
     },
     {
-      "headline": "Files Reveal Meta's Muse Framework References OpenAI Models",
-      "summary": "An analysis of Meta's Muse filesystem uncovered logs pointing to an 'azure/muse-special' model alongside various Anthropic and OpenAI options. Encrypted payloads and specific tool-call formatting strongly suggest the subagent utilized OpenAI-style endpoints during testing.",
+      "headline": "DeepSeek Introduces DSec Sandbox for Large-Scale AI Agent Training",
+      "summary": "Researchers at DeepSeek have published a paper detailing DeepSeek Elastic Compute (DSec), a specialized sandbox infrastructure designed for training agentic AI models. The system provides isolated, stateful compute environments where large language models can safely inspect code repositories and execute tools. The architecture aims to solve the scalability bottlenecks inherent in running persistent execution environments for complex model evaluations.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://mouse.dev/blog/muse-special/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-25T18:18:06Z"
-    },
-    {
-      "headline": "Developer Builds Claude Tool to Create Narrated Chess Post-Mortems",
-      "summary": "A developer has released chess-postmortem-skills, a Claude Code project that turns raw chess games into narrated video breakdowns and annotated PGN files. The tool pairs local audio recordings transcribed via whisper.cpp with game clock timestamps to match a player's spoken thoughts directly to individual moves. Claude then queries Stockfish to evaluate positions in plain language, explaining strategic blunders without relying on overwhelming calculation lines.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/brumar/chess-postmortem-skills",
+      "url": "https://arxiv.org/abs/2609.22978",
       "source": "Hacker News",
-      "published": "2026-09-26T15:34:53+00:00"
+      "published": "2026-09-26T18:22:41+00:00"
     },
     {
-      "headline": "Brazil Bans Online Gambling Days Before Presidential Vote",
-      "summary": "Brazilian President Luiz Inácio Lula da Silva signed an emergency order outlawing all online sports betting and digital casinos to curb household addiction and financial ruin. The sudden ban gives operators and users until October 5 to withdraw funds, while critics argue the move is a politically motivated stunt ahead of his tightly contested re-election bid.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-26T15:46:40+00:00"
+      "headline": "CBS Sports Model Projects LSU vs. Texas A&M Matchup",
+      "summary": "CBS Sports has released its proprietary computer model forecasts for the Week 4 college football clash between LSU and Texas A&M. The projections evaluate game odds, betting lines, and projected point totals. Detailed analysis aims to highlight betting value against the spread for the SEC showdown.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/lsu-texas-am-prediction-odds-time-2026-week-4-college-football-picks-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T20:45:40+00:00"
     },
     {
-      "headline": "FBI Agents Alarm Over Dangerous Data Breach",
-      "summary": "Current and former FBI personnel are expressing deep anger and fear following a massive hack that reportedly exposed sensitive workforce records, including home addresses and personal contacts. The hacking group ShinyHunters has threatened to leak the stolen databases publicly within four days unless their demands are met, raising serious concerns over targeted harassment and agent safety.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-25T23:05:40+00:00"
+      "headline": "Alabama Faces South Carolina with Week 4 Betting Projections Set",
+      "summary": "CBS Sports' data simulation model has produced betting lines and outcome projections for the Week 4 matchup featuring Alabama and South Carolina. The breakdown evaluates point spreads and total scores to pinpoint favorable betting opportunities. Predictions leverage historical performance data and team efficiency ratings.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/alabama-south-carolina-prediction-odds-time-2026-week-4-college-football-picks-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T20:33:09+00:00"
     },
     {
-      "headline": "Supreme Court Clears Trump Administration to Use SAVE Database for Voter Checks",
-      "summary": "The US Supreme Court lifted lower court restrictions, allowing officials to utilize the controversial SAVE federal database to identify potential non-citizens on voter rolls. While conservative justices emphasized that a 1996 law mandates federal cooperation with state inquiries, liberal dissenters warned the move risks disenfranchising legitimate American voters.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-25T19:13:35+00:00"
+      "headline": "Behind the Scenes of Apple Cards: A Steve Jobs Passion Project Riddled with Chaos",
+      "summary": "A retrospective look at Apple's short-lived 2011 iOS 5 Cards app reveals the chaotic internal development behind Steve Jobs' pet project, codenamed Speed Racer. A former fulfillment partner described the physical printing initiative as an unprecedented logistical nightmare plagued by aggressive demands and misdirection, including Apple's obsession with 100 percent cotton paper. Despite the app fading into obscurity years ago, involved contractors still fear corporate retaliation over the disastrous rollout.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "source": "Hacker News",
+      "published": "2026-09-25T10:15:00-04:00"
     },
     {
-      "headline": "Jerry Jones Rebuffs Concern Over George Pickens' Sluggish Start",
-      "summary": "Dallas Cowboys owner Jerry Jones dismissed worries regarding George Pickens' slow opening to the 2026 season ahead of Week 3 against the Ravens. Following a 1,429-yard campaign in 2025, Pickens caught just nine passes for 68 yards and zero touchdowns through the first two games. Jones praised his attitude and presence, arguing the coverage Pickens draws creates essential space for CeeDee Lamb and the rest of the offense.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://sports.yahoo.com/articles/dallas-cowboys-owner-jerry-jones-173638775.html",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-09-25T17:36:38Z"
+      "headline": "CBS Sports Issues Week 4 Top 25 College Football Spread Predictions",
+      "summary": "CBS Sports has published its weekly slate of betting odds, point spreads, and predictions across key Top 25 matchups for Week 4 of the college football season. The selections rely on computer model simulations designed to uncover value against market lines. The picks cover several marquee clashes with national ranking implications.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-4/",
+      "source": "CBS Sports",
+      "published": "2026-09-26T20:32:24+00:00"
     },
     {
-      "headline": "Memphis Grizzlies Cut Guard D'Angelo Russell Ahead of Camp",
-      "summary": "The Memphis Grizzlies have waived veteran guard D'Angelo Russell ahead of 2026 NBA training camps. The move comes as teams make final roster adjustments and prepare for preseason practices. Further reporting on Russell's next destination and the Grizzlies' replacement options remains pending.",
-      "category": "NBA",
+      "headline": "The Hidden Privacy Costs of Action-Oriented AI Agents",
+      "summary": "A follow-up analysis by Jason Aten cautions users about the real-world privacy risks posed by the AI tool Muse. While the system's ability to act autonomously on a Mac sets it apart from typical chatbots, its capability to access personal databases like Messages reveals major underlying security tradeoffs. The software's charming veneer belies the invasive access required to perform tasks on a user's behalf.",
+      "category": "Music",
+      "relevance": 5,
+      "url": "https://www.inc.com/jason-aten/meta-keeps-apologizing-for-muse-its-explanations-miss-the-point-entirely/91409363",
+      "source": "Daring Fireball",
+      "published": "2026-09-25T16:38:39+00:00"
+    },
+    {
+      "headline": "Skepticism Greets Overly Enthusiastic Meta AI Agent Review",
+      "summary": "A glowing New York Times review by Eli Tan praising Meta's AI agent, dubbed Wren, has drawn sharp skepticism for overlooking practical agent limitations. The original review described handing daily personal decisions to the software, which purported to manage tasks and find financial savings. Commentators question whether the enthusiastic response overlooks critical flaws in the agent's real-world judgment.",
+      "category": "Music",
       "relevance": 4,
-      "url": "https://www.nbcsports.com/nba/news/latest-nba-news-rumors-heading-into-2026-training-camps-grizzlies-waive-dangelo-russell",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-09-25T19:23:27.274"
+      "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html?unlocked_article_code=1.D1E.Wram.T8Ww85vXKKYU",
+      "source": "Daring Fireball",
+      "published": "2026-09-25T14:41:29+00:00"
     },
     {
       "headline": "The Mathematical Logic Behind the Global A4 Paper Standard",
@@ -442,15 +451,6 @@
       "url": "https://www.cl.cam.ac.uk/~mgk25/iso-paper.html",
       "source": "Daring Fireball",
       "published": "2026-09-26T18:46:24+00:00"
-    },
-    {
-      "headline": "Joy Division's Live Legacy Explored in Massive Box Set",
-      "summary": "The 16-disc box set Eternal (Live) compiles 19 concert recordings from Joy Division's final 14 months before Ian Curtis's 1980 suicide. Reviewers note that despite their austere reputation, the recordings reveal a surprisingly thrilling and energetic live band. The collection underscores the post-punk pioneers' enduring and influential musical legacy.",
-      "category": "Music",
-      "relevance": 1,
-      "url": "https://pitchfork.com/reviews/albums/joy-division-eternal-live/",
-      "source": "Pitchfork",
-      "published": "2026-09-26T04:00:00+00:00"
     }
   ]
 }
