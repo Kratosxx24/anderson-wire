@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:36:07.999114+00:00",
+  "generated_at": "2026-09-29T22:34:32.115503+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -28,15 +28,6 @@
       "url": "https://www.youtube.com/watch?v=DkUuOr21v4s",
       "source": "MKBHD",
       "published": "2026-09-24T22:26:18+00:00"
-    },
-    {
-      "headline": "Ben Thompson Says AI Messaging Is Replacing Traditional Apps",
-      "summary": "In \"Apps, Agents, and Aggregation,\" Ben Thompson argues that AI‑driven messaging and chatbots have become the new killer app for smartphones, eclipsing the old app model. He revisits his 2014 prediction about messaging, notes the impact of Facebook’s WhatsApp acquisition, and declares pre‑built UI dead as AI agents take over user interaction.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
-      "source": "Stratechery",
-      "published": "2026-09-28T10:25:37+00:00"
     },
     {
       "headline": "MKBHD Examines the Growing Flaws in the Apple Watch",
@@ -75,22 +66,13 @@
       "published": "2026-09-14T18:32:10+00:00"
     },
     {
-      "headline": "Evaluating the Vulnerabilities of Top Super Bowl Contenders",
-      "summary": "As the NFL season progresses, analysts are turning a critical eye toward the biggest flaws plaguing top Super Bowl contenders. Specifically, questions are being raised about the Los Angeles Rams' roster depth and whether the San Francisco 49ers' defense is in serious trouble.",
-      "category": "NFL",
+      "headline": "Anthropic Red Team Warns GLM-5.3 and Claude Mythos Achieve Control Flow Hijacks",
+      "summary": "An internal Binary Exploitation benchmark evaluation reveals that newer AI models are successfully executing complex cyber attacks. GLM-5.3 achieved full control flow hijacks in 4 percent of trials, while Claude Mythos Preview hit 6 percent. This marks a notable escalation in capability, as older predecessors like GLM-5.2 and Claude Opus 4.6 failed entirely on these tasks.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.cbssports.com/nfl/news/biggest-weakness-for-super-bowl-contenders-rams-49ers/",
-      "source": "CBS Sports",
-      "published": "2026-09-29T17:29:17+00:00"
-    },
-    {
-      "headline": "Saints’ Brandon Staley Turns Kaden Elliss Into a Hybrid Pass‑Rusher",
-      "summary": "Brandon Staley has repurposed linebacker Kaden Elliss as a primary off‑ball blitzer, aligning him in the B‑gap on 34 rushes last season—more than any other NFL LB. Elliss logged 174 pass‑rush snaps, led linebackers in \"Beaten Defender\" reps, and posted 3.5 sacks, boosting New Orleans’ overall pressure rate.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.matchquarters.com/p/brandon-staley-kaden-elliss-saints-pressure-schemes",
-      "source": "MatchQuarters",
-      "published": "2026-09-28T10:01:19+00:00"
+      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+      "source": "Simon Willison",
+      "published": "2026-09-29T22:20:28+00:00"
     },
     {
       "headline": "Curated Reading List Offers Christian Perspective on AI",
@@ -120,6 +102,15 @@
       "published": "2026-09-29T01:10:48+00:00"
     },
     {
+      "headline": "Simon Willison Hosts Live Blog for OpenAI DevDay 2026",
+      "summary": "Developer Simon Willison is providing live coverage from OpenAI DevDay 2026 in San Francisco. He detailed his experience using Claude Code for web to build photo-uploading tools for his blog after running into hurdles with Codex Cloud.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+      "source": "Simon Willison",
+      "published": "2026-09-29T15:55:13+00:00"
+    },
+    {
       "headline": "Anthropic Launches Faster, Cheaper Claude Sonnet 5.5 and Adds It to Free Tier",
       "summary": "Anthropic has unveiled Claude Sonnet 5.5, delivering a 30% speed boost and up to 30% lower operating costs while outperforming its predecessor across key benchmarks. The company has made the model available to free users on claude.ai, positioning it as a direct challenge to OpenAI's free-tier Luna 5.6. Testing shows it closely matches the flagship Opus 5.5 in coding and 3D tasks, though it shares an identical token-exhaustion flaw on maximum thinking settings.",
       "category": "Tech/AI",
@@ -127,6 +118,24 @@
       "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/",
       "source": "Simon Willison",
       "published": "2026-09-28T22:07:38+00:00"
+    },
+    {
+      "headline": "OpenAI Introduces Dots: Always-On Agents",
+      "summary": "OpenAI has announced the launch of Dots, a new offering focused on always-on AI agents. The release has quickly generated significant discussion and hundreds of comments on Hacker News.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openai.com/index/introducing-dots/",
+      "source": "Hacker News",
+      "published": "2026-09-29T17:07:57+00:00"
+    },
+    {
+      "headline": "OpenAI Launches GPT-6.1 Sol with Near-Astra Intelligence",
+      "summary": "OpenAI has debuted GPT-6.1 Sol, promising near-Astra level intelligence at a fraction of the cost. The new model has sparked immediate debate across developer communities regarding its pricing and capabilities.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "source": "Hacker News",
+      "published": "2026-09-29T17:06:45+00:00"
     },
     {
       "headline": "Jeeves Model Introduces Enhanced Reasoning for Jev-Like Decision Systems",
@@ -156,112 +165,22 @@
       "published": "2026-09-28T04:04:18+00:00"
     },
     {
-      "headline": "Simon Willison Hosts Live Blog for OpenAI DevDay 2026",
-      "summary": "Developer Simon Willison is providing live coverage from OpenAI DevDay 2026 in San Francisco. He detailed his experience using Claude Code for web to build photo-uploading tools for his blog after running into hurdles with Codex Cloud.",
-      "category": "Tech/AI",
+      "headline": "NBA Intelligence Roundup Previews Preseason Questions and Team Outlooks",
+      "summary": "The latest Basketball Intelligence newsletter breaks down crucial storylines heading into the 2027 NBA season. Team-specific reports examine roster pressure points, including Daniel Gafford's development in Dallas and Marcus Smart's defensive fit in Houston. Additional coverage dives into franchise rankings, draft prospects like Braylon Mullins, and early roles for rookies.",
+      "category": "NBA",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-      "source": "Simon Willison",
-      "published": "2026-09-29T15:55:13+00:00"
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-92926-dd7",
+      "source": "Basketball Intelligence",
+      "published": "2026-09-29T18:58:43+00:00"
     },
     {
-      "headline": "OpenAI Introduces Dots: Always-On Agents",
-      "summary": "OpenAI has announced the launch of Dots, a new offering focused on always-on AI agents. The release has quickly generated significant discussion and hundreds of comments on Hacker News.",
-      "category": "Tech/AI",
+      "headline": "CBS Sports Evaluates Early NFL Coaching Hot Seats for 2026 Season",
+      "summary": "As the NFL season progresses, analysts are already looking at which head coaches could be first on the chopping block. Early speculation points to figures like Todd Bowles and Jim Harbaugh facing mounting pressure. Team performance in the coming weeks will likely dictate front-office patience.",
+      "category": "NFL",
       "relevance": 8,
-      "url": "https://openai.com/index/introducing-dots/",
-      "source": "Hacker News",
-      "published": "2026-09-29T17:07:57+00:00"
-    },
-    {
-      "headline": "Community Reacts to OpenAI DevDay 2026 Announcements",
-      "summary": "Following the major keynotes and product rollouts, tech enthusiasts are actively discussing the highlights and implications of OpenAI DevDay 2026. The community recap covers the biggest updates and takeaways from the San Francisco event.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://openai.com/index/devday-2026-recap/",
-      "source": "Hacker News",
-      "published": "2026-09-29T17:07:45+00:00"
-    },
-    {
-      "headline": "Navigating Cricket Prediction Markets on Kalshi for 2026",
-      "summary": "CBS Sports provides a comprehensive guide for users looking to trade on cricket prediction markets through Kalshi in 2026. The platform offers specialized sports prediction options for fans wanting to wager on upcoming matches and outcomes.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+      "url": "https://www.cbssports.com/nfl/news/predicting-nfls-first-coaching-change-of-2026-todd-bowles-jim-harbaugh/",
       "source": "CBS Sports",
-      "published": "2026-09-29T17:38:38+00:00"
-    },
-    {
-      "headline": "OpenAI Launches GPT-6.1 Sol with Near-Astra Intelligence",
-      "summary": "OpenAI has debuted GPT-6.1 Sol, promising near-Astra level intelligence at a fraction of the cost. The new model has sparked immediate debate across developer communities regarding its pricing and capabilities.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "source": "Hacker News",
-      "published": "2026-09-29T17:06:45+00:00"
-    },
-    {
-      "headline": "Uncertainty Looms for Premier League Following Manchester City Verdict",
-      "summary": "An independent panel has found Manchester City guilty of the majority of financial rule breaches following a massive, multi-year investigation. While the Premier League has remained publicly silent, an appeal from City is expected to drag out the legal battle even further. Potential severe punishments, including a points deduction, threaten to upend the current league standings.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-29T17:37:54+00:00"
-    },
-    {
-      "headline": "Spain Proposes Eviction Ban and Housing Crackdown Following Nationwide Protests",
-      "summary": "Spain's coalition government approved sweeping new housing measures—including a potential eviction ban until 2030 and a ban on corporate property purchases—following massive protests over an elderly woman's eviction. The leftist minority government must now secure parliamentary approval for the decree within 30 days amidst divided political opposition.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-29T16:23:58+00:00"
-    },
-    {
-      "headline": "Stratechery Analyzes Meta's Agent Strategy and Enterprise Ambitions",
-      "summary": "Ben Thompson examines Meta's market position regarding consumer and enterprise AI agents. The analysis argues that while Meta has a strong opportunity to dominate consumer agent spaces, shifting focus to enterprise software is a strategic misstep.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
-      "source": "Stratechery",
-      "published": "2026-09-29T10:00:00+00:00"
-    },
-    {
-      "headline": "App Store Flooded with 'Muse' Clones",
-      "summary": "The Mac and iOS App Stores are seeing a surge of copycat apps attempting to capitalize on the popularity of Meta's 'Muse' app. These rip-offs are gaining traction in download rankings despite being blatant imitations of the original software.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://lapcatsoftware.com/articles/2026/9/8.html",
-      "source": "Daring Fireball",
-      "published": "2026-09-28T19:50:19+00:00"
-    },
-    {
-      "headline": "‘On My Shelf’ Interview with Chris Watkin Explores Faith and Reading",
-      "summary": "The Gospel Coalition features a conversation with pastor Chris Watkin about his favorite books, spiritual influences, and how literature shapes his ministry. The piece offers personal insights into his theological journey and recommended reading list.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-chris-watkin/",
-      "source": "The Gospel Coalition",
-      "published": "2026-09-28T04:02:00+00:00"
-    },
-    {
-      "headline": "Debate Over Politeness: Should We Say ‘Please’ to AI Chatbots?",
-      "summary": "The Gospel Coalition essay questions whether conventional manners like saying ‘please’ and ‘thank you’ apply to conversational AI, exploring the ethical and relational implications of treating bots with human‑like courtesy.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.thegospelcoalition.org/article/please-thank-you-ai-chatbots/",
-      "source": "The Gospel Coalition",
-      "published": "2026-09-28T04:00:00+00:00"
-    },
-    {
-      "headline": "Australia Walks a Tightrope Between U.S. Security and Chinese Trade",
-      "summary": "Australia is ramping up military readiness through major joint exercises like 'Southern Jackaroo' alongside American and Japanese forces as regional tensions mount. While Beijing represents its most crucial trading partner, Canberra continues to lean heavily on Washington for national defense against rising Pacific threats.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-09-28T18:37:15+00:00"
+      "published": "2026-09-29T19:54:16+00:00"
     },
     {
       "headline": "NBA Media Day Kicks Off Training Camps for the 2026-27 Season",
@@ -282,6 +201,15 @@
       "published": "2026-09-28T18:04:16+00:00"
     },
     {
+      "headline": "Uncertainty Looms for Premier League Following Manchester City Verdict",
+      "summary": "An independent panel has found Manchester City guilty of the majority of financial rule breaches following a massive, multi-year investigation. While the Premier League has remained publicly silent, an appeal from City is expected to drag out the legal battle even further. Potential severe punishments, including a points deduction, threaten to upend the current league standings.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-29T17:37:54+00:00"
+    },
+    {
       "headline": "Taylor Swift Fails to Reverse Creative Decline with The Encore",
       "summary": "Taylor Swift's four-song expansion to her previous album, titled The Encore, unfortunately doubles down on the cloying lyricism and lack of artistic economy that has marked her recent output. Tracks like 'Patient Zero' and the Travis Kelce-inspired 'Cleveland!' substitute raw emotional depth for defensive solipsism and smug self-reference.",
       "category": "Music",
@@ -300,6 +228,51 @@
       "published": "2026-09-29T04:02:00+00:00"
     },
     {
+      "headline": "Spain Proposes Eviction Ban and Housing Crackdown Following Nationwide Protests",
+      "summary": "Spain's coalition government approved sweeping new housing measures—including a potential eviction ban until 2030 and a ban on corporate property purchases—following massive protests over an elderly woman's eviction. The leftist minority government must now secure parliamentary approval for the decree within 30 days amidst divided political opposition.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-29T16:23:58+00:00"
+    },
+    {
+      "headline": "Stratechery Analyzes Meta's Agent Strategy and Enterprise Ambitions",
+      "summary": "Ben Thompson examines Meta's market position regarding consumer and enterprise AI agents. The analysis argues that while Meta has a strong opportunity to dominate consumer agent spaces, shifting focus to enterprise software is a strategic misstep.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "source": "Stratechery",
+      "published": "2026-09-29T10:00:00+00:00"
+    },
+    {
+      "headline": "Why Apple's Stolen Device Protection Safeguards Passwords",
+      "summary": "Security analyses examine how Apple's Stolen Device Protection mitigates the risk of unauthorized access to stored passwords if an iPhone and its passcode are compromised. While users often worry about centralizing digital secrets, the feature adds critical biometric and time-delay barriers against theft.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/",
+      "source": "Daring Fireball",
+      "published": "2026-09-29T00:43:51+00:00"
+    },
+    {
+      "headline": "Colossus Publishes Deep Profile on Mark Zuckerberg",
+      "summary": "A profile by Jeremy Stern for Colossus explores the upbringing and personality of Meta CEO Mark Zuckerberg. Interviews with his parents reveal early signs of his logical precision and competitive drive.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://colossus.com/article/mark-zuckerberg-profile/",
+      "source": "Daring Fireball",
+      "published": "2026-09-28T22:41:40+00:00"
+    },
+    {
+      "headline": "App Store Flooded with 'Muse' Clones",
+      "summary": "The Mac and iOS App Stores are seeing a surge of copycat apps attempting to capitalize on the popularity of Meta's 'Muse' app. These rip-offs are gaining traction in download rankings despite being blatant imitations of the original software.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://lapcatsoftware.com/articles/2026/9/8.html",
+      "source": "Daring Fireball",
+      "published": "2026-09-28T19:50:19+00:00"
+    },
+    {
       "headline": "OpenAI Details ChatGPT Pro Tier",
       "summary": "OpenAI has published support documentation outlining the features and structure of its ChatGPT Pro subscription tier. The release has drawn significant attention from users tracking pricing and capability updates for the AI platform.",
       "category": "Tech/AI",
@@ -307,6 +280,24 @@
       "url": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
       "source": "Hacker News",
       "published": "2026-09-29T17:26:27+00:00"
+    },
+    {
+      "headline": "‘On My Shelf’ Interview with Chris Watkin Explores Faith and Reading",
+      "summary": "The Gospel Coalition features a conversation with pastor Chris Watkin about his favorite books, spiritual influences, and how literature shapes his ministry. The piece offers personal insights into his theological journey and recommended reading list.",
+      "category": "Faith",
+      "relevance": 7,
+      "url": "https://www.thegospelcoalition.org/article/on-my-shelf-chris-watkin/",
+      "source": "The Gospel Coalition",
+      "published": "2026-09-28T04:02:00+00:00"
+    },
+    {
+      "headline": "Debate Over Politeness: Should We Say ‘Please’ to AI Chatbots?",
+      "summary": "The Gospel Coalition essay questions whether conventional manners like saying ‘please’ and ‘thank you’ apply to conversational AI, exploring the ethical and relational implications of treating bots with human‑like courtesy.",
+      "category": "Faith",
+      "relevance": 7,
+      "url": "https://www.thegospelcoalition.org/article/please-thank-you-ai-chatbots/",
+      "source": "The Gospel Coalition",
+      "published": "2026-09-28T04:00:00+00:00"
     },
     {
       "headline": "Ty Segall Revisits Garage Rock on Chrome",
@@ -318,15 +309,6 @@
       "published": "2026-09-29T04:01:00+00:00"
     },
     {
-      "headline": "Origin Genomics Seeks to Prove Gene-Editing Safety",
-      "summary": "New York startup Origin Genomics is working to demonstrate that repairing disease-causing genes in human embryos can be performed safely. CEO Cathy Tie showcased the company's cryogenic storage facilities and testing processes during a recent lab tour.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
-      "source": "NPR News",
-      "published": "2026-09-29T13:00:08-04:00"
-    },
-    {
       "headline": "Jules Reidy Explores Microtonal Composition on Clerestory",
       "summary": "Guitarist Jules Reidy steps into a compositional role on their new album Clerestory, which features performances by the JACK Quartet. The experimental record reimagines complex chamber music through intricate tuning systems and sampling techniques.",
       "category": "Music",
@@ -336,40 +318,13 @@
       "published": "2026-09-29T04:00:00+00:00"
     },
     {
-      "headline": "Why Apple's Stolen Device Protection Safeguards Passwords",
-      "summary": "Security analyses examine how Apple's Stolen Device Protection mitigates the risk of unauthorized access to stored passwords if an iPhone and its passcode are compromised. While users often worry about centralizing digital secrets, the feature adds critical biometric and time-delay barriers against theft.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://sixcolors.com/post/2026/09/stolen-device-protection-passwords-glenn/",
-      "source": "Daring Fireball",
-      "published": "2026-09-28T10:00:43-07:00"
-    },
-    {
-      "headline": "Colossus Publishes Deep Profile on Mark Zuckerberg",
-      "summary": "A profile by Jeremy Stern for Colossus explores the upbringing and personality of Meta CEO Mark Zuckerberg. Interviews with his parents reveal early signs of his logical precision and competitive drive.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://colossus.com/article/mark-zuckerberg-profile/",
-      "source": "Daring Fireball",
-      "published": "2026-09-13T20:50:29+00:00"
-    },
-    {
       "headline": "Estonia Blames Russia for Defense Firm Arson",
       "summary": "Estonian authorities state that Russian special services ordered an August arson attack on Milrem Robotics, a local firm supplying unmanned military vehicles to Ukraine. Prime Minister Kristen Michal confirmed the sabotage, while EU leaders condemned the escalation as part of a broader campaign of intimidation.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c6m27l4er4jxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-29T13:15:51.979Z"
-    },
-    {
-      "headline": "Turkey Steps Up as U.S. Reduces Middle East Presence",
-      "summary": "Amid a shifting U.S. footprint in the Middle East, Turkey is expanding its regional influence and security partnerships. This strategic pivot highlights new defense arrangements and diplomatic maneuvers across the region.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-      "source": "NPR News",
-      "published": "2026-09-29T05:00:00-04:00"
+      "published": "2026-09-29T19:36:41+00:00"
     },
     {
       "headline": "Argentina Threatens UK Over Falkland Islands Oil Project",
@@ -378,16 +333,52 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-29T03:50:40.225Z"
+      "published": "2026-09-29T03:50:40+00:00"
     },
     {
-      "headline": "Premier League Finds Manchester City Guilty of Financial Breaches",
-      "summary": "An independent commission confirmed that Manchester City breached Premier League financial rules over 100 times between 2009 and 2018 using sham commercial contracts. The scheme disguised more than £830 million in funding and allowed the club to artificially inflate revenues while avoiding record losses.",
+      "headline": "Australia Walks a Tightrope Between U.S. Security and Chinese Trade",
+      "summary": "Australia is ramping up military readiness through major joint exercises like 'Southern Jackaroo' alongside American and Japanese forces as regional tensions mount. While Beijing represents its most crucial trading partner, Canberra continues to lean heavily on Washington for national defense against rising Pacific threats.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-28T18:37:15+00:00"
+    },
+    {
+      "headline": "Origin Genomics Seeks to Prove Gene-Editing Safety",
+      "summary": "New York startup Origin Genomics is working to demonstrate that repairing disease-causing genes in human embryos can be performed safely. CEO Cathy Tie showcased the company's cryogenic storage facilities and testing processes during a recent lab tour.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5950439/embryo-gene-editing-babies-biotech",
+      "source": "NPR News",
+      "published": "2026-09-29T17:00:08+00:00"
+    },
+    {
+      "headline": "Turkey Steps Up as U.S. Reduces Middle East Presence",
+      "summary": "Amid a shifting U.S. footprint in the Middle East, Turkey is expanding its regional influence and security partnerships. This strategic pivot highlights new defense arrangements and diplomatic maneuvers across the region.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
+      "source": "NPR News",
+      "published": "2026-09-29T09:00:00+00:00"
+    },
+    {
+      "headline": "Fantasy Football Week 4 Wide Receiver Preview Leaves Top Names Outside Top 30",
+      "summary": "The Week 4 fantasy outlook highlights major concerns for several prominent wide receivers. Players such as Emeka Egbuka face significant hurdles, including shaking off lingering quarterback complications. Consequently, multiple high-profile pass-catchers have slipped out of the top 30 rankings.",
       "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-29T16:07:15.581Z"
+      "relevance": 7,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-4-wr-preview/",
+      "source": "CBS Sports",
+      "published": "2026-09-29T20:41:55+00:00"
+    },
+    {
+      "headline": "Israeli Settlers Attack West Bank Village and Torch Homes of Returning Palestinian Family",
+      "summary": "More than 100 Israeli settlers raided the West Bank village of Jalud, setting fire to properties belonging to the al-Tubasi family. The attack occurred as the family attempted to return home under military escort following a High Court ruling in their favor. Human rights advocates criticized authorities for failing to curb escalating extremist violence in the area.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-29T12:39:18.302Z"
     },
     {
       "headline": "JuJu Watkins Projected as No. 1 Pick for Houston Comets in 2027 WNBA Mock Draft",
@@ -408,13 +399,13 @@
       "published": "2026-09-29T14:29:28+00:00"
     },
     {
-      "headline": "New Book Explores How Algorithmic Dynamic Pricing Normalizes Corporate Gouging",
-      "summary": "Lindsay Owens' new book, \"Gouged,\" examines how corporations and third-party AI consultants leveraged inflation to ramp up prices and maximize profits. The author argues that rising costs were driven by deliberate corporate strategy rather than the invisible hand of the market.",
-      "category": "Tech/AI",
+      "headline": "Premier League Finds Manchester City Guilty of Financial Breaches",
+      "summary": "An independent commission confirmed that Manchester City breached Premier League financial rules over 100 times between 2009 and 2018 using sham commercial contracts. The scheme disguised more than £830 million in funding and allowed the club to artificially inflate revenues while avoiding record losses.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://prospect.org/2026/09/29/oct-2026-battling-an-army-of-price-setters-owens-review/",
-      "source": "Hacker News",
-      "published": "2026-09-29T09:00:00+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-29T18:12:33+00:00"
     },
     {
       "headline": "Evan Gershkovich Recalls the Moment He Realized Russia Framed Him for Espionage",
@@ -423,7 +414,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-29T12:43:04.120Z"
+      "published": "2026-09-29T12:43:04+00:00"
     },
     {
       "headline": "NFL Alters Week 5 Schedule by Pulling Bears-Packers Out of Prime Afternoon Slot",
@@ -435,13 +426,22 @@
       "published": "2026-09-29T17:45:35+00:00"
     },
     {
+      "headline": "Jerry Jones Admits Cowboys Committed Costly Coaching Mistakes in Brazil Loss",
+      "summary": "Dallas Cowboys owner Jerry Jones addressed critical late-game errors following the team's Week 3 loss in Brazil. Jones openly acknowledged that the coaching staff made mistakes during the pivotal closing moments. The admission highlights growing scrutiny over sideline management after the disappointing defeat.",
+      "category": "NFL",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/nfl/news/jerry-jones-cowboys-coaching-gaffes-loss-to-ravens/",
+      "source": "CBS Sports",
+      "published": "2026-09-29T19:56:29+00:00"
+    },
+    {
       "headline": "Giants Cut Ties With Odell Beckham Jr. Following Quiet Return to New York",
       "summary": "The New York Giants have officially released franchise legend Odell Beckham Jr. The move comes after a quiet homecoming performance where the veteran wide receiver recorded zero catches.",
       "category": "NFL",
       "relevance": 4,
       "url": "https://www.cbssports.com/nfl/news/new-york-giants-release-odell-beckham-jr/",
       "source": "CBS Sports",
-      "published": "2026-09-29T18:13:45+00:00"
+      "published": "2026-09-29T20:21:37+00:00"
     },
     {
       "headline": "Data Reveals a 70 Percent Drop in American Home Entertaining Since 1975",
