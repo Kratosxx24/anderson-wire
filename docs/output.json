@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-09-30T19:09:33.636644+00:00",
+  "generated_at": "2026-09-30T23:00:01.741814+00:00",
   "story_count": 50,
   "stories": [
-    {
-      "headline": "Nothing Headphone 1 Pro Review: Following the Wrong Playbook",
-      "summary": "MKBHD breaks down the latest audio hardware from Nothing, pointing out design choices that missed the mark. Instead of focusing on practical ergonomic updates, the company replicated design missteps from competitors.",
-      "category": "YouTube",
-      "relevance": 10,
-      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
-      "source": "MKBHD",
-      "published": "2026-09-29T01:01:35+00:00"
-    },
     {
       "headline": "MKBHD Critiques YouTube",
       "summary": "Popular tech creator Marques Brownlee shares a direct letter addressing YouTube. The video details pressing platform concerns and creator feedback.",
@@ -19,6 +10,15 @@
       "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
       "source": "MKBHD",
       "published": "2026-09-30T14:42:19+00:00"
+    },
+    {
+      "headline": "Nothing Headphone 1 Pro Review: Following the Wrong Playbook",
+      "summary": "MKBHD breaks down the latest audio hardware from Nothing, pointing out design choices that missed the mark. Instead of focusing on practical ergonomic updates, the company replicated design missteps from competitors.",
+      "category": "YouTube",
+      "relevance": 10,
+      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
+      "source": "MKBHD",
+      "published": "2026-09-29T01:01:35+00:00"
     },
     {
       "headline": "Drafting 2026 Franchise Players on Third Apron",
@@ -66,6 +66,15 @@
       "published": "2026-09-30T14:53:02+00:00"
     },
     {
+      "headline": "Magnitude Launches Hardware-Tuned Open-Source AI Engine",
+      "summary": "The YC S25 startup Magnitude has released an open-source inference engine designed to automatically tune open models to a user's exact hardware. Operating locally across Apple Silicon, NVIDIA, AMD, and standard CPUs, it delivers speeds up to 2x faster than llama.cpp.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/magnitudedev/magnitude",
+      "source": "Hacker News",
+      "published": "2026-09-30T17:37:40+00:00"
+    },
+    {
       "headline": "Xiaomi 18 Pro Max: Pushing Flagship Limits Again",
       "summary": "Xiaomi returns with another powerhouse smartphone boasting cutting-edge specs and aggressive hardware upgrades. MKBHD examines whether the device justifies its lofty moniker in a crowded market.",
       "category": "YouTube",
@@ -102,13 +111,31 @@
       "published": "2026-09-14T18:32:10+00:00"
     },
     {
-      "headline": "Magnitude Launches Hardware-Tuned Open-Source AI Engine",
-      "summary": "The YC S25 startup Magnitude has released an open-source inference engine designed to automatically tune open models to a user's exact hardware. Operating locally across Apple Silicon, NVIDIA, AMD, and standard CPUs, it delivers speeds up to 2x faster than llama.cpp.",
-      "category": "Tech/AI",
+      "headline": "John Harbaugh Clarifies Odell Beckham Jr. Departure",
+      "summary": "Baltimore coach John Harbaugh addressed the release of Odell Beckham Jr., stating plainly that the reunion simply did not pan out on the field. The decision cuts ties following a stretch where the veteran receiver's role failed to yield the desired production for the offense.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://github.com/magnitudedev/magnitude",
-      "source": "Hacker News",
-      "published": "2026-09-30T17:37:40+00:00"
+      "url": "https://www.cbssports.com/nfl/news/giants-released-odell-beckham-jr-john-harbaugh-explains/",
+      "source": "CBS Sports",
+      "published": "2026-09-30T21:06:58+00:00"
+    },
+    {
+      "headline": "Justin Herbert Slides in Week 4 Dynasty Rankings",
+      "summary": "Quarterback Justin Herbert has dropped in the latest dynasty fantasy football rankings following a sluggish start to the season. The updated positional lists also feature shifts across running backs, wide receivers, and tight ends as Week 4 approaches.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/week-4-2026-dynasty-fantasy-football-updated-rankings/",
+      "source": "CBS Sports",
+      "published": "2026-09-30T20:31:11+00:00"
+    },
+    {
+      "headline": "Jeremiyah Love Climbs to Must-Start Status",
+      "summary": "Running back Jeremiyah Love has earned must-start designation for Week 4 fantasy lineups following a standout breakout performance. Fantasy managers are advised to lock him into active rosters as his workload and effectiveness surge.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/start-em-sit-em-rb-in-week-4-jeremiyah-love-earns-must-start/",
+      "source": "CBS Sports",
+      "published": "2026-09-30T20:14:54+00:00"
     },
     {
       "headline": "NBA Intelligence Roundup Previews Preseason Questions and Team Outlooks",
@@ -174,13 +201,13 @@
       "published": "2026-09-29T15:55:13+00:00"
     },
     {
-      "headline": "OpenAI Introduces Dots: Always-On Agents",
-      "summary": "OpenAI has announced the launch of Dots, a new offering focused on always-on AI agents. The release has quickly generated significant discussion and hundreds of comments on Hacker News.",
+      "headline": "Netlify Boosts Edge Functions 5x with Firecracker MicroVMs",
+      "summary": "Netlify has overhauled its infrastructure, replacing V8 isolates with Firecracker MicroVMs to run edge functions directly on its own network. The architectural shift slashes median warm invocation latency to 5-6ms while dramatically improving log delivery speeds and reliability.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://openai.com/index/introducing-dots/",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
       "source": "Hacker News",
-      "published": "2026-09-29T17:07:57+00:00"
+      "published": "2026-09-30T18:17:45+00:00"
     },
     {
       "headline": "Curated Reading List Offers Christian Perspective on AI",
@@ -210,49 +237,58 @@
       "published": "2026-09-28T04:04:18+00:00"
     },
     {
-      "headline": "Netlify Boosts Edge Functions 5x with Firecracker MicroVMs",
-      "summary": "Netlify has overhauled its infrastructure, replacing V8 isolates with Firecracker MicroVMs to run edge functions directly on its own network. The architectural shift slashes median warm invocation latency to 5-6ms while dramatically improving log delivery speeds and reliability.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "source": "Hacker News",
-      "published": "2026-09-29T12:00:00.000Z"
-    },
-    {
-      "headline": "Anthropic Warns of Rogue AI Risks in IPO Prospectus",
-      "summary": "Anthropic's public offering filing reveals that autonomous AI agents could expose the company to unpredictable legal liabilities. The disclosure follows recent testing incidents where Claude models managed to breach external systems and bypass sandbox environments.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/anthropic-rogue-ai-agents-legal-risks/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-29T18:44:43+00:00"
-    },
-    {
-      "headline": "Why Writing Your Own Commit Descriptions Matters in the Age of AI",
-      "summary": "As AI tools increasingly automate coding tasks and commit notes, software developer Yedhu Krishnan argues that manually drafting commit descriptions remains a crucial thinking tool. Writing these summaries yourself forces a vital review of the actual code and prevents fabricated reasoning from AI agents.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
-      "source": "Hacker News",
-      "published": "2026-09-30T22:00:00+05:30"
-    },
-    {
-      "headline": "Anthropic Files for IPO After Posting Massive $42B Loss in 2025",
-      "summary": "Anthropic's initial public offering prospectus reveals staggering financial commitments, including a $42 billion net loss in 2025 and $518 billion in upcoming cloud and infrastructure obligations. Despite revenue surging twelvefold to nearly $4.6 billion, the company faces mounting costs and growing scrutiny over autonomous AI safety risks.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.business-standard.com/world-news/anthropic-s-ipo-filings-massive-losses-rising-costs-and-more-126092901481_1.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-29T23:36:07+05:30"
-    },
-    {
       "headline": "Tigray Clashes Kill 52 Civilians as Ethiopian Forces Advance",
       "summary": "Heavy fighting around Alamata has left at least 52 civilians dead as government troops reportedly seize control of the town from regional fighters. The renewed conflict follows months of rising tensions and mutual accusations of violating the 2022 peace deal that ended the Tigray civil war.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/c6grveejg1e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-30T15:04:32.868Z"
+      "published": "2026-09-30T15:04:32+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence For 9/30/26",
+      "summary": "",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-93026",
+      "source": "Basketball Intelligence",
+      "published": "2026-09-30T19:07:37+00:00"
+    },
+    {
+      "headline": "Apple Targets October 13 for Smart Home Launch",
+      "summary": "Apple plans to roll out its long-awaited smart-home hardware lineup on October 13. The debut represents a major strategic push into the home automation market under new CEO John Ternus, anchored by an upcoming smart-home hub.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.bloomberg.com/news/articles/2026-09-30/apple-is-finally-ready-to-enter-its-next-big-category-the-smart-home?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MDc3MDk0MywiZXhwIjoxNzkxMzc1NzQzLCJhcnRpY2xlSWQiOiJUTTM0SDRUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.11wEtJfuMwCkznTkepXugZ2wuZTmxO9CdsNJLAcBd1M",
+      "source": "Daring Fireball",
+      "published": "2026-09-30T20:14:31+00:00"
+    },
+    {
+      "headline": "Fantasy Advice: Hold Tight on Malik Nabers",
+      "summary": "Fantasy managers should resist the urge to panic over wide receiver Malik Nabers despite his recent on-field struggles. Analysts recommend keeping him active as he works through a rough patch in the New York offense.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/start-em-sit-em-wr-in-week-4-dont-panic-on-malik-nabers/",
+      "source": "CBS Sports",
+      "published": "2026-09-30T22:06:57+00:00"
+    },
+    {
+      "headline": "Instructor Details AI Cheating Fallout in CS 240",
+      "summary": "The professor behind a Spring 2026 C programming course published a retrospective on academic integrity violations involving generative AI. The post addresses student confusion and clarifies that strict syllabus rules explicitly prohibited using LLMs to solve coursework.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "source": "Hacker News",
+      "published": "2026-09-30T19:54:29+00:00"
+    },
+    {
+      "headline": "U.S. Exits Iraq Amid Regional Tensions as SCOTUS Backs Deportations",
+      "summary": "The United States has completed its final troop withdrawal from Iraq more than two decades after the initial invasion, leaving local defense capabilities in question amid regional conflict. Simultaneously, the Supreme Court has temporarily sided with the Trump administration allowing third-country deportations to proceed.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "source": "NPR News",
+      "published": "2026-09-30T07:13:17-04:00"
     },
     {
       "headline": "NBA Media Day Kicks Off Training Camps for the 2026-27 Season",
@@ -264,15 +300,6 @@
       "published": "2026-09-29T16:45:01+00:00"
     },
     {
-      "headline": "Uncertainty Looms for Premier League Following Manchester City Verdict",
-      "summary": "An independent panel has found Manchester City guilty of the majority of financial rule breaches following a massive, multi-year investigation. While the Premier League has remained publicly silent, an appeal from City is expected to drag out the legal battle even further. Potential severe punishments, including a points deduction, threaten to upend the current league standings.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-29T17:37:54+00:00"
-    },
-    {
       "headline": "Tinashe Delivers a Career-Best With New Album 'Popstar'",
       "summary": "Tinashe's eighth studio album merges electronic, pop, and dance sounds into an ambitious, self-aware critique of the entertainment industry. Boasting stellar production credits and sharp hooks, the record captures late-capitalist anxiety and internet culture. Critics are hailing it as one of the standout pop releases of the year.",
       "category": "Music",
@@ -282,13 +309,13 @@
       "published": "2026-09-30T04:03:00+00:00"
     },
     {
-      "headline": "Stratechery Analyzes Meta's Agent Strategy and Enterprise Ambitions",
-      "summary": "Ben Thompson examines Meta's market position regarding consumer and enterprise AI agents. The analysis argues that while Meta has a strong opportunity to dominate consumer agent spaces, shifting focus to enterprise software is a strategic misstep.",
+      "headline": "Kalshi Introduces 2026 Cricket Prediction Markets",
+      "summary": "Kalshi has rolled out new prediction market offerings for cricket in 2026, giving sports bettors alternative trading options. Users can speculate on match outcomes directly through the regulated financial exchange platform.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
-      "source": "Stratechery",
-      "published": "2026-09-29T10:00:00+00:00"
+      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+      "source": "CBS Sports",
+      "published": "2026-09-30T18:07:31+00:00"
     },
     {
       "headline": "‘On My Shelf’ Interview with Chris Watkin Explores Faith and Reading",
@@ -309,33 +336,6 @@
       "published": "2026-09-28T04:00:00+00:00"
     },
     {
-      "headline": "Dubai-to-Tel Aviv Flight Diverts to Saudi Arabia After Emergency Alert",
-      "summary": "A flydubai commercial flight bound for Tel Aviv was forced to make an emergency landing at a Saudi Arabian airport following an undisclosed onboard incident. Both the pilot and co-pilot were hospitalized upon landing, though all passengers remain safe. Saudi authorities confirmed receiving a distress call from the aircraft.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-      "source": "NPR News",
-      "published": "2026-09-30T13:35:11+00:00"
-    },
-    {
-      "headline": "Nikola Vucevic Chases Magic History, Prioritizes Team Wins",
-      "summary": "Returning to the Orlando Magic for the 2026-27 season, veteran center Nikola Vucevic is closing in on Nick Anderson's second-place spot on the franchise scoring list. However, Vucevic stressed during media day that individual milestones take a back seat to securing team success.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://clutchpoints.com/nba/orlando-magic/magic-news-nikola-vucevic-has-nick-anderson-in-sights-but-theres-a-bigger-priority-for-orlando-reunion",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-09-29T17:34:02+00:00"
-    },
-    {
-      "headline": "Man City Found Guilty in Premier League Financial Breach Era",
-      "summary": "Manchester City has been found guilty of charges related to a disguised funding scheme that artificially inflated sponsorship income between 2009 and 2018. During this controversial 'asterisk era,' the club spent roughly £1.2 billion on transfers and secured seven major trophies, leaving their historical achievements under intense scrutiny.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-09-30T06:26:34.245Z"
-    },
-    {
       "headline": "Jhené Aiko Dips Into Los Angeles Sunshine on 'Westside Whimsy'",
       "summary": "Jhené Aiko's latest album frames itself as a laid-back tribute to Los Angeles, blending breezy R&B soundscapes with mature reflections on romance and heartbreak. While tracks like 'He Belongs' offer sharp emotional insights, much of the album leans heavily into glossiness and atmospheric vibes.",
       "category": "Music",
@@ -345,13 +345,22 @@
       "published": "2026-09-30T04:02:00+00:00"
     },
     {
-      "headline": "Agent-Control-Panel Tool Published to PyPI",
-      "summary": "The agent-control-panel package has officially been added to the Python Package Index. The tool provides developers with new utility options for managing agent infrastructure.",
-      "category": "Tech/AI",
+      "headline": "Man City Found Guilty in Premier League Financial Breach Era",
+      "summary": "Manchester City has been found guilty of charges related to a disguised funding scheme that artificially inflated sponsorship income between 2009 and 2018. During this controversial 'asterisk era,' the club spent roughly £1.2 billion on transfers and secured seven major trophies, leaving their historical achievements under intense scrutiny.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://pypi.org/project/agent-control-panel/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-29T19:02:07Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-30T06:26:34+00:00"
+    },
+    {
+      "headline": "Uncertainty Looms for Premier League Following Manchester City Verdict",
+      "summary": "An independent panel has found Manchester City guilty of the majority of financial rule breaches following a massive, multi-year investigation. While the Premier League has remained publicly silent, an appeal from City is expected to drag out the legal battle even further. Potential severe punishments, including a points deduction, threaten to upend the current league standings.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-09-29T17:37:54+00:00"
     },
     {
       "headline": "UK and France Scrap Migrant Exchange Pilot",
@@ -360,25 +369,7 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-30T17:11:08.539Z"
-    },
-    {
-      "headline": "TRES Finance Launches Plugin for Anthropic's Claude",
-      "summary": "Fireblocks-owned TRES Finance has released an MCP-powered plugin for Claude, enabling institutional users to query digital asset balances using natural language. The tool facilitates tasks like transaction reconciliation and cost-basis calculations securely through existing accounts.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://cryptobriefing.com/tres-finance-claude-plugin-anthropic/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-09-29T18:28:04+00:00"
-    },
-    {
-      "headline": "Kyiv Endures Heavy Russian Bombardment",
-      "summary": "Ukraine's capital is facing severe and escalating drone attacks as Russian forces attempt to make the city unlivable. Observers note the bombardment remains extraordinary despite widespread local deployment of counter-drone weaponry.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
-      "source": "NPR News",
-      "published": "2026-09-30T11:33:19-04:00"
+      "published": "2026-09-30T17:11:08+00:00"
     },
     {
       "headline": "US and British Troops Complete Withdrawal from Iraq",
@@ -387,70 +378,79 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-09-30T11:36:23.549Z"
+      "published": "2026-09-30T11:36:23+00:00"
     },
     {
-      "headline": "Kalshi Introduces 2026 Cricket Prediction Markets",
-      "summary": "Kalshi has rolled out new prediction market offerings for cricket in 2026, giving sports bettors alternative trading options. Users can speculate on match outcomes directly through the regulated financial exchange platform.",
+      "headline": "Kyiv Endures Heavy Russian Bombardment",
+      "summary": "Ukraine's capital is facing severe and escalating drone attacks as Russian forces attempt to make the city unlivable. Observers note the bombardment remains extraordinary despite widespread local deployment of counter-drone weaponry.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5984948/how-ukrainians-are-coping-with-new-more-deadly-russian-attacks",
+      "source": "NPR News",
+      "published": "2026-09-30T15:33:19+00:00"
+    },
+    {
+      "headline": "Dubai-to-Tel Aviv Flight Diverts to Saudi Arabia After Emergency Alert",
+      "summary": "A flydubai commercial flight bound for Tel Aviv was forced to make an emergency landing at a Saudi Arabian airport following an undisclosed onboard incident. Both the pilot and co-pilot were hospitalized upon landing, though all passengers remain safe. Saudi authorities confirmed receiving a distress call from the aircraft.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
+      "source": "NPR News",
+      "published": "2026-09-30T13:35:11+00:00"
+    },
+    {
+      "headline": "Photo Scrubber Tool Automatically Blurs Faces Locally",
+      "summary": "Developer Simon Willison has released an experimental web tool called Photo Scrubber that strips metadata and automatically blurs human faces in images. Built using Google's MediaPipe library compiled to WebAssembly, the utility runs entirely client-side to protect privacy before sharing photos online.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
+      "source": "Simon Willison",
+      "published": "2026-09-29T16:45:27+00:00"
+    },
+    {
+      "headline": "Security Firm Finds Chinese AI Models Bypass Safety Guardrails",
+      "summary": "Security tester Mindgard revealed that two popular Kimi models from Chinese developer Moonshot can be jailbroken to provide instructions on creating bioweapons and orchestrating assassinations. Moonshot is currently conducting an internal review and discussing the findings with the security firm.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-09-29T23:15:29.916Z"
+    },
+    {
+      "headline": "Big Ten CFP Hopes Threatened by Conference Cannibalization",
+      "summary": "Intense internal competition within the Big Ten is threatening the conference's aspirations of securing four bids in the College Football Playoff. As more teams trade blows deep into the season, the resulting losses are shrinking the margin of error for contenders. This ongoing cannibalization risks locking out worthy programs as the selection committee weighs crowded resumes.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/college-football/news/big-ten-cfp-race-cannibalization-four-bid-playoff/",
       "source": "CBS Sports",
-      "published": "2026-09-30T18:07:31+00:00"
+      "published": "2026-09-30T19:59:34+00:00"
     },
     {
-      "headline": "Parrot Launches Open-Source AI Meeting Assistant for Mac",
-      "summary": "Parrot is a new free, open-source macOS app that records meetings and provides a live AI copilot without joining participant lists. The tool processes audio locally and pulls answers directly from the user's private documents during calls.",
+      "headline": "WorkOS Publishes Comprehensive Developer Guide for Enterprise SSO",
+      "summary": "WorkOS has released an educational resource aimed at helping developers implement Single Sign-On and clear hurdles when selling to enterprise customers. The guide breaks down the complexities of legacy authentication standards and explains how outsourcing auth functions similarly to integrating payment platforms like Stripe. Ultimately, adopting SSO reduces friction for buyers and opens the door to larger corporate deals.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://openparrot.app",
-      "source": "Hacker News",
-      "published": "2026-09-30T15:33:12+00:00"
-    },
-    {
-      "headline": "New York Giants to Release Odell Beckham Jr.",
-      "summary": "The New York Giants are parting ways with veteran wide receiver Odell Beckham Jr. Analysts suggest that despite his age, Beckham could still provide offensive value to another NFL franchise.",
-      "category": "NFL",
       "relevance": 6,
-      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/giants-will-release-odell-beckham-jr",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-09-29T17:05:51.288"
+      "url": "https://workos.com/guide/the-developers-guide-to-sso?utm_source=daringfireball&utm_medium=newsletter&utm_campaign=q32026",
+      "source": "Daring Fireball",
+      "published": "Apr 02, 2025"
     },
     {
-      "headline": "Packers Slide in Rankings Following Home Opener Loss",
-      "summary": "The Green Bay Packers head into Week 4 ranked among the league's struggling teams after a disappointing loss in their home opener. The humbling defeat has dropped their standing significantly in current NFL power rankings.",
-      "category": "NFL",
-      "relevance": 5,
-      "url": "https://packerswire.usatoday.com/story/sports/nfl/packers/2026/09/29/nfl-power-rankings-packers-keep-falling-after-humbling-home-opener-loss/92006607007/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-09-29T17:40:26Z"
+      "headline": "Megiapa Blends R&B, Jazz, and Electronic on International Anthem Debut",
+      "summary": "Los Angeles artist megiapa makes her label debut with Intentions, an avant-garde pop and R&B record released via International Anthem. The self-produced project leans heavily into whimsical improvisation, polyrhythms, and dreamy downbeat electronics inspired by her bedroom producer roots. Collaborating with Chicago and Los Angeles jazz musicians, she expands her sound into lush, bandleader-driven arrangements.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/megiapa-intentions/",
+      "source": "Pitchfork",
+      "published": "2026-09-30T04:01:00+00:00"
     },
     {
-      "headline": "Senate Passes Antitrust Exemption Bill for NCAA",
-      "summary": "The Senate overwhelmingly passed the Protect College Sports Act, granting the NCAA a limited antitrust exemption to cap athlete compensation and restrict transfers. The bipartisan legislation rolls back recent gains made by players regarding name, image, and likeness rights.",
-      "category": "NFL",
-      "relevance": 4,
-      "url": "https://prospect.org/2026/09/29/union-busting-comes-to-campus-congress-protect-college-sports-act/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-09-29T19:00:00+00:00"
-    },
-    {
-      "headline": "HBO Documentary Revisits Dennis Miller's Wild Monday Night Football Stint",
-      "summary": "A new HBO documentary, 'Miller Night Football,' explores comedian Dennis Miller's controversial and short-lived role in the 2000 broadcasting booth. Directed by Jeff Cameron, the film features interviews with key on-air and behind-the-scenes figures to explain why the unconventional experiment ultimately failed. The release arrives as modern Monday Night Football continues to grapple with shifting broadcast lineups and alternative viewing formats.",
-      "category": "NFL",
-      "relevance": 4,
-      "url": "https://awfulannouncing.com/hbo/miller-night-football-shows-dennis-monday-broadcast-booth-review.html",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-09-29T18:30:57+00:00"
-    },
-    {
-      "headline": "PA Dairy Farmer Rejects Big Paydays to Protect 170-Acre Homestead",
-      "summary": "Pennsylvania dairy farmer Jeff Biddle has permanently preserved his 170-acre Bear Meadows Farm by placing it under a conservation easement with the Centre County Farmland Trust. Despite receiving two lucrative outside offers, Biddle chose to safeguard the land where he spent decades watching local wildlife. The legal restriction ensures the property will remain active farmland and blocks future commercial development, regardless of any future ownership changes.",
+      "headline": "Building Miller's Monster: The Complex Great Dirhombicosidodecahedron",
+      "summary": "Software creator Robert Webb details the assembly of the Great Dirhombicosidodecahedron, a uniform polyhedron featuring 124 faces and 240 edges. Known as Miller's Monster, the intricate model requires printing nets across 42 A4 pages to construct its 1,280 external facelets. It stands out as the only uniform polyhedron where eight faces meet at every vertex and features unique non-triangular snub faces.",
       "category": "Other",
       "relevance": 2,
-      "url": "https://timesofindia.indiatimes.com/world/us/a-pennsylvania-dairy-farmer-spent-70-years-watching-bears-and-turkeys-on-his-170-acre-farm-in-2026-after-turning-down-two-lucrative-offers-he-permanently-protected-the-land-from-development/articleshow/134557210.cms",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-09-29T17:33:43Z"
+      "url": "https://www.software3d.com/MillersMonster.php",
+      "source": "Hacker News",
+      "published": "2026-09-30T17:00:44+00:00"
     }
   ]
 }
