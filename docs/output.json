@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:49:20.408093+00:00",
+  "generated_at": "2026-10-02T21:04:20.293423+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,15 +75,6 @@
       "published": "2026-09-14T18:32:10+00:00"
     },
     {
-      "headline": "Nebraska Sweeps Penn State to Claim 14-0 Start",
-      "summary": "Top-ranked Nebraska defeated No. 16 Penn State in straight sets on Thursday night, improving their record to 14-0. The victory marked the 250th career win for head coach Dani Busboom Kelly, achieved faster than almost any other Division I women's coach.",
-      "category": "Sports",
-      "relevance": 9,
-      "url": "https://volleyballmag.com/no-1-nebraska-sweeps-no-16-penn-state-at-rec-hall-for-14-0-start/?utm_source=rss&utm_medium=rss&utm_campaign=no-1-nebraska-sweeps-no-16-penn-state-at-rec-hall-for-14-0-start",
-      "source": "Volleyball Mag",
-      "published": "2026-10-02T13:22:57+00:00"
-    },
-    {
       "headline": "Jalen Duren Lands Massive Five-Year, $200 Million Extension with Pistons",
       "summary": "Center Jalen Duren has agreed to a lucrative five-year, $200 million contract extension to stay with the Detroit Pistons. The move locks in the young big man long-term while setting the stage for future roster flexibility once he becomes trade-eligible in January. Salary cap analysts Yossi Gozlan and Sam Quinn also broke down recent extensions for Stephen Curry and Jamal Shead on their latest podcast.",
       "category": "NBA",
@@ -129,22 +120,13 @@
       "published": "2026-10-01T15:04:25+00:00"
     },
     {
-      "headline": "Janus Runs GGUF Models Locally via Vulkan",
-      "summary": "Janus is a lightweight Go binary that executes GGUF AI models locally using Vulkan acceleration across AMD, Intel, and Nvidia hardware. It provides an OpenAI-compatible API and zero Python dependencies, operating as a single standalone executable.",
+      "headline": "OpenAI Fires Three Researchers Over Sensitive Data Handling",
+      "summary": "OpenAI has terminated three employees, including safety researchers, for mishandling sensitive company information outside of standard procedures. The firings arrive amid growing internal and external scrutiny regarding AI safety protocols and autonomous agent behaviors.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "source": "Hacker News",
-      "published": "2026-10-01T20:36:47+00:00"
-    },
-    {
-      "headline": "Earendil Releases Pi 1.0 Agent Harness",
-      "summary": "Earendil has launched Pi 1.0, a hardened and minimal agent harness designed to support native MCP, virtual models, and multi-provider LLMs. Alongside this stable release, the company introduced Pi Durable, an experimental package tailored for long-running, resilient agent applications.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "source": "Hacker News",
-      "published": "2026-10-01T19:33:05+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-02T08:20:32+00:00"
     },
     {
       "headline": "The Beatles' Rubber Soul Receives Massive Super Deluxe Reissue",
@@ -156,13 +138,13 @@
       "published": "2026-10-02T04:03:00+00:00"
     },
     {
-      "headline": "Ethiopia and Eritrea Sever Ties Amid Renewed Conflict in Tigray",
-      "summary": "Ethiopia and Eritrea have cut diplomatic relations after fierce fighting resumed in northern Ethiopia involving the Tigray People's Liberation Front and allied militias. Addis Ababa ordered ten Eritrean diplomats to leave within 48 hours over national security threats, prompting an immediate reciprocal closure from Asmara. The escalation shatters the fragile peace established after the devastating 2022 conflict.",
+      "headline": "Kyiv's Mayor Warns of Devastating Russian Strikes",
+      "summary": "Kyiv mayor Vitaliy Klitschko stated that intensified Russian drone and missile attacks are tearing the capital apart and targeting critical infrastructure. Recent strikes on the vital Pivdennyi bridge have suspended all traffic and exacerbated severe transit disruptions across the city.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-02T16:08:25+00:00"
+      "published": "2026-10-02T15:26:37+00:00"
     },
     {
       "headline": "The Gospel Coalition Launches 'Your Corner of the World'",
@@ -183,6 +165,15 @@
       "published": "2026-09-30T04:00:00+00:00"
     },
     {
+      "headline": "Ethiopia and Eritrea Sever Ties Amid Renewed Conflict in Tigray",
+      "summary": "Ethiopia and Eritrea have cut diplomatic relations after fierce fighting resumed in northern Ethiopia involving the Tigray People's Liberation Front and allied militias. Addis Ababa ordered ten Eritrean diplomats to leave within 48 hours over national security threats, prompting an immediate reciprocal closure from Asmara. The escalation shatters the fragile peace established after the devastating 2022 conflict.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-02T16:08:25+00:00"
+    },
+    {
       "headline": "Putin Issues Dire Warning to West Over Kaliningrad Security",
       "summary": "Russian President Vladimir Putin stated that Moscow is prepared to utilize any available weapon to defend the Baltic exclave of Kaliningrad against potential Western attacks. Dismissing accusations of threatening neighbors, Putin blamed the West for provoking the Ukraine war and claimed Russia's economic targets were hit in retaliation for strikes on its own infrastructure.",
       "category": "World",
@@ -201,67 +192,112 @@
       "published": "2026-10-01T14:05:55+00:00"
     },
     {
-      "headline": "The Four Horsemen of Agentic Coding",
-      "summary": "A new essay on Substack explores the foundational concepts and trends shaping agentic coding frameworks. The piece delves into the current landscape of autonomous software development tools.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-      "source": "Hacker News",
-      "published": "2026-10-02T15:19:56+00:00"
-    },
-    {
       "headline": "U.S. Adds Just 29,000 Jobs in September",
       "summary": "American employers added a meager 29,000 jobs in September while the unemployment rate ticked up to 4.2%. Widespread layoffs remain low, but previous months saw significant downward revisions, highlighting a sluggish labor market.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/10/02/nx-s1-5989140/jobs-labor-wages-federal-reserve",
       "source": "NPR News",
-      "published": "2026-10-02T09:54:18-04:00"
+      "published": "2026-10-02T13:54:18+00:00"
     },
     {
-      "headline": "Kyiv's Mayor Warns of Devastating Russian Strikes",
-      "summary": "Kyiv mayor Vitaliy Klitschko stated that intensified Russian drone and missile attacks are tearing the capital apart and targeting critical infrastructure. Recent strikes on the vital Pivdennyi bridge have suspended all traffic and exacerbated severe transit disruptions across the city.",
+      "headline": "David Montgomery Flagged as Boom-Bust RB2 in Week 4",
+      "summary": "CBS Sports' Week 4 PPR cheat sheet labels Detroit's David Montgomery as a boom-bust RB2 play. The evaluation comes as a backfield committee takes shape in Houston, creating tough start-and-sit decisions for fantasy managers.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-ppr-cheat-sheet-david-montgomery-a-boom-bust-rb2-play-as-houston-committee-emerges/",
+      "source": "CBS Sports",
+      "published": "2026-10-02T18:52:08+00:00"
+    },
+    {
+      "headline": "Stratechery Examines Meta's Missteps and OpenAI's Chaos",
+      "summary": "Ben Thompson breaks down the strategic misstep of Meta's newly announced enterprise platform, arguing it distracts from consumer AI agents. Meanwhile, OpenAI's recent Dev Day has reignited concerns over chaotic product branding and confusing pricing tiers.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/dots-and-question-marks/",
+      "source": "Stratechery",
+      "published": "2026-10-02T17:00:00+00:00"
+    },
+    {
+      "headline": "Apple Tightens macOS Full Disk Access Amid AI Agent Risks",
+      "summary": "Apple is updating macOS to restrict Full Disk Access following security risks posed by autonomous AI agents like Meta Muse. The upcoming changes will require explicit user action to grant apps system-wide permissions to private files, messages, and browsing histories.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/10/apple_full_disk_access",
+      "source": "Daring Fireball",
+      "published": "2026-10-02T20:40:15+00:00"
+    },
+    {
+      "headline": "Solving the Trail Blazers' Lineup Dilemma with Ja Morant",
+      "summary": "Analysts suggest the Portland Trail Blazers have a straightforward fix for their starting lineup logjam. Moving Ja Morant to a bench role could provide the team with the optimal roster balance and scoring punch.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/",
+      "source": "CBS Sports",
+      "published": "2026-10-02T20:46:01+00:00"
+    },
+    {
+      "headline": "U.S. Launches America First Foreign Aid Strategy",
+      "summary": "October 1 marked the rollout of the Trump administration's America First Global Health Strategy. The new aid framework conditions development and healthcare funding on reciprocal benefits like local mineral access and partner government spending commitments.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-02T15:26:37.793Z"
+      "url": "https://www.npr.org/2026/10/02/g-s1-146042/foreign-aid-united-states-healthcare-america-first",
+      "source": "NPR News",
+      "published": "2026-10-02T14:16:07-04:00"
     },
     {
-      "headline": "ProVer Targets Pivotal Decisions in Agentic Reinforcement Learning",
-      "summary": "Researchers introduced ProVer, a new framework that enhances Group Relative Policy Optimization by verifying only consequential trajectory segments rather than evaluating every step. Across multiple benchmarks, the method delivered significant performance gains for Qwen models with minimal overhead.",
+      "headline": "DwarfStar 4 Brings Local Frontier AI Inference to High-Memory Rigs",
+      "summary": "Created by Redis's founder, DwarfStar 4 is a C-based inference engine that lets users run massive models like DeepSeek V4 locally on Mac, CUDA, and ROCm hardware. It features asymmetric 2-bit quantization, disk-backed KV caches that survive restarts, and unified APIs.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://arxiv.org/abs/2609.36178",
+      "url": "https://dwarfstar.sh/",
       "source": "Hacker News",
-      "published": "2026-10-02T14:36:04+00:00"
+      "published": "2026-10-02T18:01:16+00:00"
     },
     {
-      "headline": "GPT-6 Astra Conquered World of Warcraft Starting Zone",
-      "summary": "An AI experiment using GPT-6 Astra successfully created an orc character and completed all starting zone quests in World of Warcraft within 40 minutes without dying. The project aims to test frontier models on complex simulated worlds without explicit prior training.",
+      "headline": "Coding for a Month with GLM 5.3 Flash Yields Mixed Results",
+      "summary": "A developer spent September coding exclusively with GLM 5.3 Flash, burning through 2 billion tokens with varied success. While the model proved efficient early on, infrastructure constraints and a costly prototype misstep forced mid-month switches to alternative open-source models.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
       "source": "Hacker News",
-      "published": "2026-10-02T13:19:47+00:00"
+      "published": "2026-10-02T15:29:15+00:00"
     },
     {
-      "headline": "OpenAI Fires Three Researchers Over Sensitive Data Handling",
-      "summary": "OpenAI has terminated three employees, including safety researchers, for mishandling sensitive company information outside of standard procedures. The firings arrive amid growing internal and external scrutiny regarding AI safety protocols and autonomous agent behaviors.",
+      "headline": "Evaluating the Calibration Accuracy of Jev",
+      "summary": "A recent analysis examines how accurately calibrated Jev is, sparking discussion among 10 comments on Hacker News. The original post dives into the mechanics behind the tool's performance and reliability.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-02T01:01:24.369Z"
-    },
-    {
-      "headline": "Testing the OpenAI Decisions API Confidence Ratings",
-      "summary": "An evaluation of the model behind OpenAI's new Decisions API found that its 99% confidence threshold was only accurate 68% of the time across 3,600 reasoning problems. The findings underscore ongoing challenges with calibrating trust and probability metrics in LLM routing tools.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://anth.us/blog/openai-decisions-api-preview/",
+      "url": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
       "source": "Hacker News",
-      "published": "2026-10-01"
+      "published": "2026-10-02T15:12:41+00:00"
+    },
+    {
+      "headline": "Todd Monken Revitalizes Deshaun Watson and the Browns",
+      "summary": "Offensive coordinator Todd Monken is orchestrating a major turnaround for Deshaun Watson and the first-place Cleveland Browns. The early-season success highlights a stark improvement in quarterback consistency under Monken's scheme.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/todd-monken-deshaun-watson-first-place-browns-2026/",
+      "source": "CBS Sports",
+      "published": "2026-10-02T16:15:41+00:00"
+    },
+    {
+      "headline": "NFL Week 4: Rams vs. Eagles Showdown Looms Large",
+      "summary": "The Week 4 NFL schedule features several critical matchups, with the clash between the Rams and Eagles standing out as a make-or-break game for both franchises. Both teams enter the contest looking to solidify their early-season trajectory.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-4s-most-underrated-games-rams-eagles-chiefs-raiders/",
+      "source": "CBS Sports",
+      "published": "2026-10-02T16:10:14+00:00"
+    },
+    {
+      "headline": "Jaguars Lose Home Presence for Entire Month",
+      "summary": "One NFL franchise faces an unusual scheduling anomaly this season without a single home game throughout October. Trevor Lawrence and the team will have to navigate a grueling stretch entirely on the road.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-wont-play-at-home-during-october/",
+      "source": "CBS Sports",
+      "published": "2026-10-02T16:04:34+00:00"
     },
     {
       "headline": "Miranda Lambert Delivers Polished Yet Underwhelming Country-Disco on Crisco",
@@ -280,33 +316,6 @@
       "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
       "source": "Stratechery",
       "published": "2026-10-01T10:00:00+00:00"
-    },
-    {
-      "headline": "DeepSeek Launches Open-Source 'DeepSeek Harness' with Composable Plugin Architecture",
-      "summary": "DeepSeek has released DeepSeek Harness into public preview worldwide as an open-source tool built on a modular plugin framework. Designed for desktop and web usage, the software aids developers with coding, research, everyday office tasks, and background automations. Users can easily extend agent capabilities by installing existing plugins or building custom ones through chat.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.deepseek.com/en/harness/",
-      "source": "Hacker News",
-      "published": "2026-10-02T03:11:20+00:00"
-    },
-    {
-      "headline": "Debian Issues Massive Linux Kernel Advisory",
-      "summary": "A critical Debian security advisory lists dozens of vulnerabilities discovered across multiple versions of the Linux kernel. Administrators are urged to apply the latest package updates to patch these exposures.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://lwn.net/Articles/1097401/",
-      "source": "Hacker News",
-      "published": "2026-10-01T23:10:44+00:00"
-    },
-    {
-      "headline": "Study Exposes Massive Data Harvesting by Connected Vehicles",
-      "summary": "A privacy study investigating 21 U.S. market vehicles and 30 companion mobile apps reveals that modern cars constantly harvest and transmit private consumer data to manufacturers and undisclosed third parties. Researchers used custom Wi-Fi access points and cellular isolation techniques to intercept data flows, finding that drivers completely lose control of their personal information once transmitted. The findings highlight a severe lack of transparency and regulatory oversight within the connected vehicle ecosystem.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "source": "Hacker News",
-      "published": "2026-10-01T20:23:27+00:00"
     },
     {
       "headline": "Finding Spiritual Refuge and Strength Amidst Personal Suffering",
@@ -381,58 +390,49 @@
       "published": "2026-10-01T15:05:36+00:00"
     },
     {
-      "headline": "Cross-Border Repression Targets Southeast Asian Dissidents",
-      "summary": "Authoritarian regimes in Southeast Asia are increasingly hunting down pro-democracy activists across international borders through a coordinated swap market of repression. Recent incidents include the disappearance of 26-year-old Laotian activist Khieo Lapchanh in Thailand and the detention of Australian campaigner Tran Hiep in Vietnam after a trip to Cambodia. Human rights monitors warn that dissidents have virtually nowhere safe to hide as governments flout international borders to silence opposition.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/10/02/g-s1-146064/pro-democracy-activists-asia-authoritarian-governments",
-      "source": "NPR News",
-      "published": "2026-10-02T09:00:00+00:00"
-    },
-    {
-      "headline": "Todd Monken Revitalizes Deshaun Watson and the Browns",
-      "summary": "Offensive coordinator Todd Monken is orchestrating a major turnaround for Deshaun Watson and the first-place Cleveland Browns. The early-season success highlights a stark improvement in quarterback consistency under Monken's scheme.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/todd-monken-deshaun-watson-first-place-browns-2026/",
-      "source": "CBS Sports",
-      "published": "2026-10-02T16:15:41+00:00"
-    },
-    {
-      "headline": "NFL Week 4: Rams vs. Eagles Showdown Looms Large",
-      "summary": "The Week 4 NFL schedule features several critical matchups, with the clash between the Rams and Eagles standing out as a make-or-break game for both franchises. Both teams enter the contest looking to solidify their early-season trajectory.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-4s-most-underrated-games-rams-eagles-chiefs-raiders/",
-      "source": "CBS Sports",
-      "published": "2026-10-02T16:10:14+00:00"
-    },
-    {
-      "headline": "Jaguars Lose Home Presence for Entire Month",
-      "summary": "One NFL franchise faces an unusual scheduling anomaly this season without a single home game throughout October. Trevor Lawrence and the team will have to navigate a grueling stretch entirely on the road.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/jaguars-trevor-lawrence-wont-play-at-home-during-october/",
-      "source": "CBS Sports",
-      "published": "2026-10-02T16:04:34+00:00"
-    },
-    {
-      "headline": "Pitt Meets Virginia Tech in Friday Night Clash",
-      "summary": "A specialized predictive model has dropped its projections, odds, and best bets for the upcoming Week 5 college football matchup between Pittsburgh and Virginia Tech. Bettors are weighing the numbers ahead of the Friday night kickoff.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-time-week-5-college-football-friday-picks-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-10-02T16:35:29+00:00"
-    },
-    {
       "headline": "New Documentary Exposes Israeli Military's 'NAZA' Directive",
       "summary": "A harrowing new documentary features anonymous interviews with Israeli soldiers detailing mass civilian casualties. The film examines the military's acceptable threshold for collateral damage through confidential testimonies.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/10/02/nx-s1-5987714/naza-review-israel-palestine",
       "source": "NPR News",
-      "published": "2026-10-02T10:37:27-04:00"
+      "published": "2026-10-02T14:37:27+00:00"
+    },
+    {
+      "headline": "Liberty vs. Delaware Week 5 College Football Odds and Picks",
+      "summary": "CBS Sports provides expert model predictions and betting odds for the upcoming Friday night college football matchup between Liberty and Delaware. Bettors are using these algorithmic insights to navigate the Week 5 slate.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/liberty-delaware-prediction-odds-line-2026-week-5-college-football-friday-picks-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-10-02T20:31:02+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence Roundup Previews the 2026-27 NBA Season",
+      "summary": "The October 2 edition of the Basketball Intelligence newsletter compiles top NBA reporting ahead of the season. Key features analyze why champions struggle to repeat, review top-heavy payrolls, and assess teams looking to dethrone the New York Knicks.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-10226",
+      "source": "Basketball Intelligence",
+      "published": "2026-10-02T18:25:20+00:00"
+    },
+    {
+      "headline": "Exploring Multilingual AI Agents Across Global Networks",
+      "summary": "A new piece examines the role and impact of three distinct artificial intelligence agents operating across two different countries. The discussion focuses on how these multilingual systems interact with a fractured and uneven global web.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+      "source": "Hacker News",
+      "published": "2026-10-02T20:39:05+00:00"
+    },
+    {
+      "headline": "Germany's Political Center Struggles Amid Extremist Gains",
+      "summary": "German centrist parties are grappling with a loss of relevance following significant electoral advances by both the far-right and far-left. Fragmented coalitions, weak governance, and economic pressures are fueling voter disillusionment and echoing historical political instabilities.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/10/02/g-s1-146108/germany-politics-center-afd-die-linke-cdu-merz",
+      "source": "NPR News",
+      "published": "2026-10-02T15:22:57-04:00"
     },
     {
       "headline": "Expert Unveils Week 4 NFL Game-by-Game Predictions",
@@ -444,13 +444,13 @@
       "published": "2026-10-02T16:12:34+00:00"
     },
     {
-      "headline": "Shimano Bicycle Museum Delivers Impressive Look at Cycling History",
-      "summary": "Located in Japan's Kansai region, the Shimano Bicycle Museum offers visitors a striking modern glass-and-steel facility dedicated entirely to cycling heritage rather than corporate self-promotion. The exhibits guide visitors through the chronological evolution of the bicycle, featuring everything from rudimentary hobby horses to Paralympic gear and historic pro peloton machines. Unlike traditional museums, many exhibits remain accessible without restrictive glass barriers, emphasizing the cultural and industrial impact of the bicycle.",
+      "headline": "Looking Back at the 1985 STS-51-F Abort-to-Orbit Mission",
+      "summary": "This Wikipedia archival entry details the 1985 Space Shuttle Challenger flight STS-51-F, which experienced an abort-to-orbit scenario. Commanded by C. Gordon Fullerton, the seven-person crew spent over a week in low Earth orbit conducting astronomical and scientific experiments.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "relevance": 4,
+      "url": "https://en.wikipedia.org/wiki/STS-51-F",
       "source": "Hacker News",
-      "published": "2026-10-02T05:12:58+00:00"
+      "published": "2026-10-02T16:56:47+00:00"
     }
   ]
 }
