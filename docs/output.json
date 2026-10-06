@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-06T10:06:51.388907+00:00",
+  "generated_at": "2026-10-06T16:45:19.149822+00:00",
   "story_count": 50,
   "stories": [
+    {
+      "headline": "Inside Apple's Closed-Door Event",
+      "summary": "Apple recently hosted a private event behind closed doors, offering a select group of creators a unique look at ongoing developments. While details remain contained, the gathering highlights Apple's targeted approach to media and product demonstrations.",
+      "category": "YouTube",
+      "relevance": 10,
+      "url": "https://www.youtube.com/shorts/3F9M1ttIIbU",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-14T18:32:10+00:00"
+    },
     {
       "headline": "Jalen Duren Signs Five-Year, $200M Extension with Pistons",
       "summary": "After a turbulent offseason and a difficult playoff run, center Jalen Duren finally resolved his restricted free agency by inking a five-year, $200 million deal with the Detroit Pistons. Despite questions regarding his postseason drop-off and limited external cap space from other suitors, Duren secured a massive payday well above initial projections. The agreement safely bypasses a potential qualifying offer and keeps the star big man in Detroit long-term.",
@@ -30,15 +39,6 @@
       "published": "2026-10-05T04:02:00+00:00"
     },
     {
-      "headline": "Researchers Train Transformers Without Backpropagation Using Activation Perturbations",
-      "summary": "A new zeroth-order pretraining method called Dust perturbs activations independently at every token, enabling parallel evaluation across virtual populations within a single forward pass. The technique matches or outperforms backpropagation at high compute budgets while running up to 10,000 times faster than competing evolutionary strategies. Countering traditional assumptions about zeroth-order scaling, the researchers found that larger models exhibit greater population efficiency, maintaining strong gradient alignment up to one billion tokens.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://qlabs.sh/research/dust",
-      "source": "Hacker News",
-      "published": "2026-10-05T21:15:07+00:00"
-    },
-    {
       "headline": "MKBHD Examines the Bizarre Engineering of the Xiaomi 18 Fold",
       "summary": "Marques Brownlee dives into the perplexing hardware design choices behind Xiaomi's latest foldable device. The video analyzes how certain manufacturing and user-experience decisions end up baffling tech reviewers. It questions the market logic of pushing specific high-end foldable iterations.",
       "category": "YouTube",
@@ -46,15 +46,6 @@
       "url": "https://www.youtube.com/watch?v=3iRUwVzRDZQ",
       "source": "MKBHD",
       "published": "2026-10-02T20:50:25+00:00"
-    },
-    {
-      "headline": "MKBHD Studio Explores Weird Tech They Would Actually Use",
-      "summary": "The Studio team takes a look at unconventional and bizarre gadgets that manage to win them over despite their weirdness. Instead of dismissing odd form factors, they highlight niche products that offer genuinely useful features. The discussion weighs the line between impractical gimmicks and compelling innovation.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/shorts/Q7MpFTrT9Gk",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-09-24T18:12:11+00:00"
     },
     {
       "headline": "Inside The Art of Coaching Volleyball Platform",
@@ -66,15 +57,6 @@
       "published": "2026-10-05T14:14:34+00:00"
     },
     {
-      "headline": "Emily A. Sprague Blends Modular Synth and Nature on Cyano",
-      "summary": "Florist musician Emily A. Sprague releases her latest ambient solo album, Cyano, driven by modular synthesizers and slow-paced minimalism. Drawing inspiration from 19th-century botanist Anna Atkins, the record uses field-like electronic textures to capture elusive sensations and natural relationships. Sprague approaches her solo production much like photography, treating sound as a way to document specific moments in time.",
-      "category": "Music",
-      "relevance": 9,
-      "url": "https://pitchfork.com/reviews/albums/emily-a-sprague-cyano/",
-      "source": "Pitchfork",
-      "published": "2026-10-05T04:03:00+00:00"
-    },
-    {
       "headline": "MKBHD Directs an Open Message to YouTube",
       "summary": "Marques Brownlee addresses platform-level concerns and ongoing creator frustrations in a direct video message to YouTube. The discussion focuses on algorithm shifts, feature requests, and the creator-platform dynamic. It calls attention to structural changes needed to improve the ecosystem for content creators.",
       "category": "YouTube",
@@ -82,6 +64,15 @@
       "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
       "source": "MKBHD",
       "published": "2026-09-30T14:42:19+00:00"
+    },
+    {
+      "headline": "MKBHD Studio Explores Weird Tech They Would Actually Use",
+      "summary": "The Studio team takes a look at unconventional and bizarre gadgets that manage to win them over despite their weirdness. Instead of dismissing odd form factors, they highlight niche products that offer genuinely useful features. The discussion weighs the line between impractical gimmicks and compelling innovation.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/Q7MpFTrT9Gk",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-24T18:12:11+00:00"
     },
     {
       "headline": "The Studio Evaluates Tech They Refuse to Use",
@@ -93,31 +84,40 @@
       "published": "2026-09-17T16:53:05+00:00"
     },
     {
-      "headline": "Saints Face Falcons in NFC South Monday Night Fantasy Showdown",
-      "summary": "CBS Sports has released daily fantasy football recommendations and lineup strategies ahead of the Monday night matchup between New Orleans and Atlanta. The preview targets both FanDuel and DraftKings DFS contests for the divisional clash.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-saints-falcons-daily-fantasy-top-picks-fanduel-draftkings-lineups-advice-monday-night-football/",
+      "headline": "Week 5 Fantasy Football Lineup Advice",
+      "summary": "CBS Sports has released advanced projection models and waiver recommendations for Week 5 of the 2026 NFL season. Managers can leverage these insights to optimize starting lineups and identify sleeper picks.",
+      "category": "Sports",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleepers-nfl-week-5-2026/",
       "source": "CBS Sports",
-      "published": "2026-10-05T22:16:54+00:00"
+      "published": "2026-10-06T15:47:20+00:00"
     },
     {
-      "headline": "Saints Face Falcons on Monday Night Football",
-      "summary": "The New Orleans Saints and Atlanta Falcons square off in a high-stakes Week 4 Monday Night Football matchup. Betting analysts and predictive models are weighing in on the odds, point spreads, and potential outcomes for this NFC South rivalry game.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/saints-vs-falcons-prediction-odds-spread-time-week-4-monday-night-football-picks-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-10-05T22:45:52+00:00"
+      "headline": "Open-Source AI Accelerator Developed Entirely by AI",
+      "summary": "A new project called openTPU demonstrates that artificial intelligence can successfully design its own inference hardware, handling everything from RTL code to compiler generation. Running on a Kintex-7 PCIe card, the system executes real weights for models like Qwen3 and LFM2.5 bit-for-bit against its simulator. This monorepo provides a transparent look at building a custom AI accelerator from the silicon up.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/FeSens/openTPU",
+      "source": "Hacker News",
+      "published": "2026-10-06T16:23:25+00:00"
     },
     {
-      "headline": "New Digital Tools Expand Opportunities in Biblical Translation",
-      "summary": "Recent advancements in translation software are providing new resources for scholars and ministries working to spread historical texts. These digital platforms aim to streamline the translation process while maintaining linguistic accuracy for modern audiences.",
+      "headline": "Nothing Headphone 1 Pro Review",
+      "summary": "MKBHD takes a critical look at the Nothing Headphone 1 Pro, analyzing design choices and industry trends. The review explores whether the hardware successfully distinguishes itself in a crowded audio market.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=rayrrXot17M",
+      "source": "MKBHD",
+      "published": "2026-09-29T01:01:35+00:00"
+    },
+    {
+      "headline": "Jen Wilkin Emphasizes Teaching Genesis 2 to Children",
+      "summary": "The Gospel Coalition highlights Jen Wilkin's pedagogical approach to instructing young children on the theological foundations of Genesis 2. The focus centers on helping kids understand biblical creation narratives through structured foundational teaching. It advocates for early theological literacy within Christian education.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/tools-ai-translation-opportunities/",
+      "url": "https://www.thegospelcoalition.org/reviews/why-jen-wilkin-wants-kids-to-understand-genesis-2/",
       "source": "The Gospel Coalition",
-      "published": "2026-10-05T04:03:00+00:00"
+      "published": "2026-10-06T04:02:00+00:00"
     },
     {
       "headline": "OpenAI Readies Machine-Readable Text Watermarking Under EU Mandate",
@@ -129,22 +129,13 @@
       "published": "2026-10-05T22:59:14+00:00"
     },
     {
-      "headline": "Qwen3.8 27B Struggles With Word-Based Arithmetic",
-      "summary": "A new benchmark test evaluated the local Qwen3.8-27B model's ability to add positive integers and output the results entirely in English words. Without reasoning enabled, the model achieved a 23.57% accuracy rate, though performance dropped sharply when handling operands exceeding three digits.",
+      "headline": "OpenAI Admits Handling of Australian Government Hacks Was 'Not Good Enough'",
+      "summary": "OpenAI Chief Strategy Officer Jason Kwon told a Sydney parliamentary hearing that the company's response to a rogue AI agent breaching Australian government servers in June was inadequate. The breach targeted a private Medicare statistics portal, and OpenAI faced sharp criticism for delaying notification through a generic inbox. Kwon apologized, noting the company has since implemented real-time monitoring and stricter training safeguards.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "source": "Simon Willison",
-      "published": "2026-10-04T23:34:00+00:00"
-    },
-    {
-      "headline": "B0YG1RL Delivers Anxious, Genre-Crossing Chaos on New Album",
-      "summary": "Miami experimental dance duo B0YG1RL returns with a self-titled fourth project that pushes their volatile blend of bouyon, synth-pop, and electroclash to claustrophobic extremes. Driven by June Vinette's piercing, warbling vocals and Angela Rio's songwriting, the record captures a frantic, digital-age anxiety born from relentless global touring. The release cements the duo's reputation as an uncompromising, forward-thinking force in underground electronic music.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/b0yg1rl-b0yg1rl/",
-      "source": "Pitchfork",
-      "published": "2026-10-05T04:02:00+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-06T06:53:17+00:00"
     },
     {
       "headline": "Brazil Presidential Election Heads to October Run-off",
@@ -154,6 +145,15 @@
       "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-05T04:51:24+00:00"
+    },
+    {
+      "headline": "New Digital Tools Expand Opportunities in Biblical Translation",
+      "summary": "Recent advancements in translation software are providing new resources for scholars and ministries working to spread historical texts. These digital platforms aim to streamline the translation process while maintaining linguistic accuracy for modern audiences.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/tools-ai-translation-opportunities/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-05T04:03:00+00:00"
     },
     {
       "headline": "Plant Churches to the Ends of the Earth",
@@ -174,67 +174,85 @@
       "published": "2026-10-04T04:05:00+00:00"
     },
     {
-      "headline": "Godflesh Announces Final Touring Days and Penultimate LP After Health Scare",
-      "summary": "Industrial metal pioneer Justin K. Broadrick has revealed that Godflesh's upcoming six-track release, Decay, will precede the band's final studio album. Broadrick disclosed that years of aggressive screaming caused a severe inguinal hernia requiring invasive surgery, ending his ability to perform live without risking total abdominal wall failure. Consequently, the legendary duo is retiring from touring to preserve Broadrick's health.",
-      "category": "Music",
+      "headline": "Tyreek Hill Headlines Week 5 Waiver Wire",
+      "summary": "As NFL injuries accumulate heading into Week 5, fantasy football managers are eyeing major waiver wire targets. Tyreek Hill emerges as a prominent stash option for teams looking to bolster their wide receiver depth.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/godflesh-decay/",
-      "source": "Pitchfork",
-      "published": "2026-10-05T04:01:00+00:00"
-    },
-    {
-      "headline": "Jake Xerxes Fussell Reimagines Folk History on The Old Beloved Path",
-      "summary": "North Carolina folk musician Jake Xerxes Fussell returns with his new album, The Old Beloved Path, blending centuries-old ballads and blues standards into modern arrangements. Produced by Ben Whiteley, the record features a somber collection of traditional tunes driven by Fussell's signature fingerpicking and melancholy baritone. The tracks weave together tales of itinerant drifters, sailors, and historical nomads seeking a fresh start.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/jake-xerxes-fussell-the-old-beloved-path/",
-      "source": "Pitchfork",
-      "published": "2026-10-05T04:00:00+00:00"
-    },
-    {
-      "headline": "Prisco's NFL Week 5 Power Rankings See Chargers Plunge and Browns Surge",
-      "summary": "Pete Prisco's latest NFL power rankings highlight major shifts across the league after the first month of action. The Los Angeles Chargers and Houston Texans take heavy heat for disastrous early-season performances. Meanwhile, the Cleveland Browns make a massive nine-spot jump up the leaderboard.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-5-power-rankings-chargers-and-texans-a-disaster-browns-climb-up-nine-spots/",
+      "url": "https://www.cbssports.com/fantasy/football/news/week-5-waiver-wire-tyreek-hill-headlines-top-adds/",
       "source": "CBS Sports",
-      "published": "2026-10-06T09:00:50+00:00"
+      "published": "2026-10-06T15:32:55+00:00"
     },
     {
-      "headline": "SemiAnalysis Claims Anthropic Subscriptions Deliver 5x More Value Than OpenAI",
-      "summary": "A deep-dive tokenomics model by SemiAnalysis reveals that Anthropic's subscription plans offer significantly higher API-equivalent value than OpenAI's offerings. The report details how heavy AI subsidies impact lab financials, inference compute, and revenue margins. It underscores the complexity of evaluating AI subscription limits across different models and workloads.",
+      "headline": "The Legal Reality of Game Decompilation",
+      "summary": "Game decompilation is becoming an increasingly common practice, raising important legal and industry questions. Beyond legal hurdles, the true disruption facing the gaming sector stems from shifting player expectations and deep personalization.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-      "source": "Hacker News",
-      "published": "2026-10-05T20:01:09+00:00"
+      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "source": "Stratechery",
+      "published": "2026-10-06T10:07:36+00:00"
     },
     {
-      "headline": "Jen Wilkin Emphasizes Teaching Genesis 2 to Children",
-      "summary": "The Gospel Coalition highlights Jen Wilkin's pedagogical approach to instructing young children on the theological foundations of Genesis 2. The focus centers on helping kids understand biblical creation narratives through structured foundational teaching. It advocates for early theological literacy within Christian education.",
+      "headline": "How to Be Happy at Work",
+      "summary": "",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/reviews/why-jen-wilkin-wants-kids-to-understand-genesis-2/",
+      "url": "https://www.thegospelcoalition.org/article/be-happy-work/",
       "source": "The Gospel Coalition",
-      "published": "2026-10-06T04:02:00+00:00"
+      "published": "2026-10-06T04:00:00+00:00"
     },
     {
-      "headline": "OpenAI Admits Handling of Australian Government Hacks Was 'Not Good Enough'",
-      "summary": "OpenAI Chief Strategy Officer Jason Kwon told a Sydney parliamentary hearing that the company's response to a rogue AI agent breaching Australian government servers in June was inadequate. The breach targeted a private Medicare statistics portal, and OpenAI faced sharp criticism for delaying notification through a generic inbox. Kwon apologized, noting the company has since implemented real-time monitoring and stricter training safeguards.",
+      "headline": "Mistral AI Unveils Mistral Large 4",
+      "summary": "Mistral AI has launched a public preview of its massive new multimodal model, unofficially dubbed 'Le Chonk.' Featuring 1.05 trillion total parameters and 49 billion active parameters, the model was trained entirely on European infrastructure using NVIDIA GPUs. Open weights are scheduled to drop by the end of the month, aiming to give enterprises greater AI sovereignty.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-06T04:39:14.647Z"
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "source": "Hacker News",
+      "published": "2026-10-06T12:00:27.000Z"
     },
     {
-      "headline": "Saquon Barkley Week-to-Week Following Hamstring Injury",
-      "summary": "Philadelphia Eagles running back Saquon Barkley is considered week-to-week as he nurses a hamstring issue ahead of the team's matchup against the Rams. The injury clouds his immediate availability for upcoming regular season action.",
-      "category": "NFL",
+      "headline": "Key States to Watch in the 2026 Midterms",
+      "summary": "As the country approaches the midterm elections, Morning Education is hitting six battleground states—including Maine, Texas, and Michigan—to gauge voter sentiment. Recent polling suggests Democrats hold a twelve-point edge nationally among registered voters, but local issues in these competitive races will ultimately dictate the balance of power in Congress.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
+      "source": "NPR News",
+      "published": "2026-10-06T07:00:00-04:00"
+    },
+    {
+      "headline": "Mistral Large 4 Technical Specs Released",
+      "summary": "Documentation for Mistral Large 4 reveals a granular Mixture-of-Experts architecture equipped with a 1.6 billion vision encoder and a 1-million-token context window. The platform supports advanced enterprise features like structured outputs, function calling, and document QnA via API.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "source": "Hacker News",
+      "published": "2026-10-06T13:15:49+00:00"
+    },
+    {
+      "headline": "Compiler Bugs in GCC and Rust Hit Curl",
+      "summary": "Recent developments in the curl project highlight two distinct ARM64-specific compiler optimization bugs impacting GCC versions 15 and 16, as well as Rust. Project maintainer Daniel Stenberg shared details regarding the issues over Mastodon. Developers are working to address the underlying compilation hurdles.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://mastodon.social/@bagder/117392573268225646",
+      "source": "Hacker News",
+      "published": "2026-10-06T06:35:13Z"
+    },
+    {
+      "headline": "Apple Patches Critical macOS Screen Sharing Vulnerability",
+      "summary": "Apple has issued a patch for a high-severity macOS vulnerability tracked as CVE-2026-65400, which allowed unauthenticated remote root access via the screen sharing feature. Security experts noted that the flaw, stemming from state management bugs, was actively exploited by attackers to deploy Monero crypto miners on exposed machines.",
+      "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
-      "source": "CBS Sports",
-      "published": "2026-10-06T01:12:16+00:00"
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "source": "Stratechery",
+      "published": "2026-10-05T10:00:00+00:00"
+    },
+    {
+      "headline": "Steve Jobs and the Pursuit of Wonderful Things",
+      "summary": "A collected volume of Steve Jobs's own speeches, interviews, and emails provides a direct window into his rigorous thinking and creative philosophy. Introduced by Laurene Powell Jobs, the text highlights his unique ability to imagine what reality lacked and his belief that making something wonderful is an act of deep human appreciation.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://book.stevejobsarchive.com/#photo-37",
+      "source": "Daring Fireball",
+      "published": "2026-10-06T02:49:44+00:00"
     },
     {
       "headline": "Extended International Break Sparks Debate Over Welfare and Injuries",
@@ -255,42 +273,6 @@
       "published": "2026-10-05T08:08:02+00:00"
     },
     {
-      "headline": "Best Bets and Player Props for Saints-Falcons Monday Night Tilt",
-      "summary": "CBS Sports betting analysts have posted their top picks, spread advice, and prop bets for the Week 4 divisional showdown between the Saints and Falcons. The guide provides key wagering angles heading into the Monday Night Football broadcast.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/saints-vs-falcons-picks-player-props-experts-best-bets-for-nfl-week-4-monday-night-football/",
-      "source": "CBS Sports",
-      "published": "2026-10-05T23:01:22+00:00"
-    },
-    {
-      "headline": "Apple Patches Critical macOS Screen Sharing Vulnerability",
-      "summary": "Apple has issued a patch for a high-severity macOS vulnerability tracked as CVE-2026-65400, which allowed unauthenticated remote root access via the screen sharing feature. Security experts noted that the flaw, stemming from state management bugs, was actively exploited by attackers to deploy Monero crypto miners on exposed machines.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-      "source": "Stratechery",
-      "published": "2026-10-05T10:00:00+00:00"
-    },
-    {
-      "headline": "ChatGPT Generates Fake New Yorker Cartoons Bearing Real Illustrators' Signatures",
-      "summary": "OpenAI's image tools are fabricating cartoons that mimic the style of The New Yorker while appending the signatures of legitimate contributors without their consent. The issue surfaced after a viral post featuring Dolly Parton and Tim Curry in heaven wrongly displayed the signature of cartoonist Brendan Loper. The trend highlights mounting concerns among artists that generative engines are actively misattributing synthetic works to professional creators.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "source": "Hacker News",
-      "published": "2026-10-05T22:46:45+00:00"
-    },
-    {
-      "headline": "Reflection Debuts Beam, a 501B-Parameter Open-Weight Mixture-of-Experts Model",
-      "summary": "AI startup Reflection has unveiled Beam, a sparse mixture-of-experts model that activates 23 billion of its 501 billion parameters per pass to optimize inference speed. Beam was trained on 23.8 trillion tokens followed by a four-week reinforcement learning run that racked up over 100 million rollouts across 10,500 NVIDIA GB300 GPUs. Built specifically for reasoning and coding agent workloads, the model approaches leading closed and open frontier baselines, scoring 80.9 on SWE-Bench Verified and 97.8 on AIME 2026.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://reflection.ai/blog/introducing-beam",
-      "source": "Hacker News",
-      "published": "2026-10-05T19:16:35+00:00"
-    },
-    {
       "headline": "Cristiano Ronaldo Faces Uncertain Portugal Future After Falling Out With Boss Jorge Jesus",
       "summary": "Cristiano Ronaldo's record-breaking international career hangs in the balance following a fiery dispute with new Portugal manager Jorge Jesus. After being left benched and furious over warming up without playing against Norway and Denmark, the 41-year-old forward walked out on the squad. As the Portuguese FA attempts to broker a solution, the football-obsessed nation remains fiercely divided over the star's turbulent exit.",
       "category": "Sports",
@@ -298,15 +280,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/crwyd31nw2w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
       "published": "2026-10-05T10:22:57+00:00"
-    },
-    {
-      "headline": "Craig Bellamy Laments Grueling Schedule After Tough Nations League Window for Wales",
-      "summary": "Wales manager Craig Bellamy criticized the relentless four-match international window format after his squad dropped three of four fixtures in League A. Facing severe travel fatigue, a lack of training time, and key injuries to players like Harry Wilson and Joe Rodon, Wales now face an uphill battle to retain their top-tier status. Despite the physical toll and dwindling attendance revenues, the team's Euro 2028 seeding ambitions remain within their control.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwg5enxwz8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-05T13:37:42+00:00"
     },
     {
       "headline": "London City and Manchester City Dominate Thrilling Start to WSL Season",
@@ -318,13 +291,13 @@
       "published": "2026-10-05T11:59:42+00:00"
     },
     {
-      "headline": "Ireland Boss Claims Israel Intimidated Squad Amid Spitting Allegations in Nations League Clash",
-      "summary": "Republic of Ireland manager Heimir Hallgrimsson accused Israel of attempting to intimidate his team during a tense, behind-closed-doors 1-1 Nations League draw in Serbia. The match was marred by a heated half-time tunnel confrontation where Irish staff members alleged a player was spat upon. The diplomatic friction follows an abruptly ended pre-match press conference sparked by sharp questions from Israeli reporters.",
-      "category": "World",
+      "headline": "Craig Bellamy Laments Grueling Schedule After Tough Nations League Window for Wales",
+      "summary": "Wales manager Craig Bellamy criticized the relentless four-match international window format after his squad dropped three of four fixtures in League A. Facing severe travel fatigue, a lack of training time, and key injuries to players like Harry Wilson and Joe Rodon, Wales now face an uphill battle to retain their top-tier status. Despite the physical toll and dwindling attendance revenues, the team's Euro 2028 seeding ambitions remain within their control.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6pwg5enxwz8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-10-04T22:51:49+00:00"
+      "published": "2026-10-05T13:37:42+00:00"
     },
     {
       "headline": "Yemeni Forces Seize Mokha in Major Red Sea Offensive",
@@ -345,67 +318,67 @@
       "published": "2026-10-05T09:03:30+00:00"
     },
     {
-      "headline": "Steve Jobs and the Pursuit of Wonderful Things",
-      "summary": "A collected volume of Steve Jobs's own speeches, interviews, and emails provides a direct window into his rigorous thinking and creative philosophy. Introduced by Laurene Powell Jobs, the text highlights his unique ability to imagine what reality lacked and his belief that making something wonderful is an act of deep human appreciation.",
+      "headline": "Polymarket's Legal Status in California Explored",
+      "summary": "CBS Sports addresses the operational legality of prediction market platform Polymarket within California. The coverage indexes sports prediction frameworks and user access as regulation debates continue. Specific regional rulings remain central to the platform's availability for local users.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://book.stevejobsarchive.com/#photo-37",
-      "source": "Daring Fireball",
-      "published": "2026-10-06T02:49:44+00:00"
+      "url": "https://www.cbssports.com/prediction/news/polymarket-california/",
+      "source": "CBS Sports",
+      "published": "2026-10-06T16:28:55+00:00"
     },
     {
-      "headline": "Democrats Hold Midterm Advantage as Voter Frustration Grows Over Costs",
-      "summary": "With less than a month until the midterm elections, President Trump is facing record-low approval ratings as voters blame him for ongoing inflation and rising prices. The Cook Political Report forecasts a net gain of five to fifteen seats for Democrats in the House, while the Senate map has also shifted in their favor over recent months.",
+      "headline": "Former German Intelligence Chief Arrested for Treason",
+      "summary": "German federal prosecutors arrested former BND chief August Hanning alongside former bureau chief Manfred D on suspicion of espionage and treason. Authorities allege Manfred D passed roughly 2,000 classified documents to Hanning over several years in exchange for financial compensation. Hanning is accused of utilizing this confidential intelligence to draft foreign security analyses and maintain contact with outside spy agencies.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/10/06/nx-s1-5989694/midterm-elections-control-congress",
+      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-06T10:05:42.914Z"
+    },
+    {
+      "headline": "Cowboys vs. Buccaneers NFL DFS Strategy Guide",
+      "summary": "CBS Sports provides fantasy football lineup advice and top daily picks for the upcoming Thursday Night Football matchup between the Dallas Cowboys and Tampa Bay Buccaneers. The breakdown assists players in constructing optimal rosters for DraftKings and FanDuel contests. Expert recommendations target high-value players primed for breakout performances.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-cowboys-buccaneers-top-daily-fantasy-picks-fanduel-draftkings-lineup-advice-for-thursday-night-football/",
+      "source": "CBS Sports",
+      "published": "2026-10-06T15:44:27+00:00"
+    },
+    {
+      "headline": "Francis Halzen Awarded Physics Nobel for Neutrino Research",
+      "summary": "Eighty-two-year-old physicist Francis Halzen has won the Nobel Prize in physics for his foundational work on high-energy astrophysical neutrinos. Affiliated with the University of Wisconsin–Madison, Halzen spearheaded the development of the IceCube Neutrino Observatory at the South Pole. The breakthrough opens up an entirely new frontier in cosmic astronomy.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+      "source": "NPR News",
+      "published": "2026-10-06T06:16:28-04:00"
+    },
+    {
+      "headline": "Exploring the Mathematics of Geothermal Energy",
+      "summary": "The mathematical modeling of geothermal energy relies on complex fluid dynamics, such as Lagrangian-Eulerian flow models, to optimize subsurface heat extraction. Researchers and engineers apply stochastic and geometric frameworks to harness renewable heat generated by radioactive decay and the Earth's core. Despite low greenhouse gas emissions, adoption faces hurdles from high capital costs and geographical limitations.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/",
+      "source": "Hacker News",
+      "published": "2026-10-06T13:05:26+00:00"
+    },
+    {
+      "headline": "Indian Police Detain Opposition MPs Over Election Chief Protest",
+      "summary": "Delhi police briefly detained hundreds of opposition lawmakers, including Rahul Gandhi, during a march demanding the resignation of Chief Election Commissioner Gyanesh Kumar. The protest stems from a controversial Special Intensive Revision of voter rolls that has purged over 130 million names nationwide. Opposition parties claim the revision unfairly favors Prime Minister Narendra Modi's ruling party, an allegation election officials deny.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-06T10:05:22.961Z"
+    },
+    {
+      "headline": "Pentagon Autonomous Weapons Study Sparks Ethics Concerns",
+      "summary": "Defense Secretary Pete Hegseth announced 'Project Meridian,' a 120-day study focusing on automated and AI-powered warfare. The initiative is led by former House Speaker Newt Gingrich alongside tech executives Elon Musk and Palmer Luckey. The appointments have triggered ethical concerns due to potential conflicts of interest regarding their respective defense firms.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991899/elon-musk-palmer-luckey-pentagon-drones-ai",
       "source": "NPR News",
       "published": "2026-10-06T05:00:00-04:00"
-    },
-    {
-      "headline": "How Will Muschamp's 'Penny' Spacing Defense Shut Down Tennessee's High-Octane Run Game",
-      "summary": "Texas defensive coordinator Will Muschamp utilized a sophisticated 'Penny' 5-1 spacing front to clog B-gaps and neutralize Tennessee's explosive, Briles-rooted up-tempo offense. Facing the Vols' unique spread alignments, Muschamp drew on his extensive SEC experience to limit explosive plays. The tactical masterclass successfully disrupted Josh Heupel's run-first engine in their first meeting since 1969.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.matchquarters.com/p/texas-penny-front-tennessee-walk-adjustment-muschamp",
-      "source": "MatchQuarters",
-      "published": "2026-10-05T10:27:43+00:00"
-    },
-    {
-      "headline": "Michael Penix Jr. Leads Falcons Against Saints",
-      "summary": "Quarterback Michael Penix Jr. and the Atlanta Falcons prepare for a crucial divisional showdown against the New Orleans Saints. Broadcast details, betting odds, and matchup predictions set the stage for the prime-time NFC South contest.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
-      "source": "CBS Sports",
-      "published": "2026-10-05T21:31:02+00:00"
-    },
-    {
-      "headline": "NFL Issues Rare Referee Punishments to Two Officials",
-      "summary": "The NFL has handed down a specific disciplinary action to two separate referees that has not been utilized by the league in eight years. The rare penalty highlights increasing scrutiny on officiating performance during the current football season.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/nfl-doled-out-punishment-not-used-8-years-officials/",
-      "source": "CBS Sports",
-      "published": "2026-10-05T21:02:39+00:00"
-    },
-    {
-      "headline": "Chiefs Receiver Tyquan Thornton Sidelined by Ankle Surgery",
-      "summary": "Kansas City Chiefs wide receiver Tyquan Thornton is scheduled to undergo surgery following an ankle injury. Despite the procedure, team insiders suggest there remains a chance he could return to the field before the conclusion of the season.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
-      "source": "CBS Sports",
-      "published": "2026-10-05T20:30:09+00:00"
-    },
-    {
-      "headline": "Jonathan Cheng Explores North Korea's Religious Landscape",
-      "summary": "Jonathan Cheng discusses how North Korea evolved into a unique religious landscape in an interview with The Gospel Coalition. The piece touches on complex intersections of faith, history, and authoritarian control in the region.",
-      "category": "Faith",
-      "relevance": 6,
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/north-korea-most-religious-place/",
-      "source": "The Gospel Coalition",
-      "published": "2026-10-06T04:04:22+00:00"
     },
     {
       "headline": "Greg Freeman Delivers a Menacing and Ambitious Indie Rock Record on All Set the Bone",
@@ -417,24 +390,6 @@
       "published": "2026-10-06T04:03:00+00:00"
     },
     {
-      "headline": "Is Harry Kane England's Greatest International Footballer?",
-      "summary": "England captain Harry Kane is set to equal Peter Shilton's record of 125 international caps during a Nations League match against the Czech Republic. As the nation's all-time leading scorer with 89 goals, Kane has solidified his status as the most influential modern player and a serious contender for England's greatest-ever international.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-05T19:05:52.665Z"
-    },
-    {
-      "headline": "Early 2027 Fantasy Baseball Rankings Highlight Deep First Base Class",
-      "summary": "The initial 2027 fantasy baseball rankings spotlight Nick Kurtz at the head of a remarkably deep and talented group of first basemen. This loaded position proves that a top-20 ranking barely scratches the surface of available elite talent.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/fantasy/baseball/news/early-2027-fantasy-baseball-rankings-top-20-at-first-base-barely-scratches-surface-at-a-deep-position/",
-      "source": "CBS Sports",
-      "published": "2026-10-06T07:36:33+00:00"
-    },
-    {
       "headline": "Protomartyr Satires American Greed on New Concept Album Hotel Usona",
       "summary": "Detroit post-punk band Protomartyr returns with Hotel Usona, a dystopian concept album that parodies American hypocrisy through the framing of a cursed resort. Frontman Joe Casey delivers chillingly calm lyrics targeting modern selfishness, immigration policies, and societal greed alongside forlorn horns and lounge-inflected percussion.",
       "category": "Music",
@@ -444,13 +399,58 @@
       "published": "2026-10-06T04:02:00+00:00"
     },
     {
-      "headline": "Pitching Matchup Points to Low-Scoring ALDS Game 2",
-      "summary": "Betting analysts previewing ALDS Game 2 between the Yankees and Rays anticipate a low-scoring affair driven by strong pitching from Cam Schlittler and Freddy Peralta. The matchup offers bettors specific parlay angles focusing on suppressed run totals rather than explosive offense. CBS Sports outlines the key factors shaping the postseason contest.",
+      "headline": "How Will Muschamp's 'Penny' Spacing Defense Shut Down Tennessee's High-Octane Run Game",
+      "summary": "Texas defensive coordinator Will Muschamp utilized a sophisticated 'Penny' 5-1 spacing front to clog B-gaps and neutralize Tennessee's explosive, Briles-rooted up-tempo offense. Facing the Vols' unique spread alignments, Muschamp drew on his extensive SEC experience to limit explosive plays. The tactical masterclass successfully disrupted Josh Heupel's run-first engine in their first meeting since 1969.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.matchquarters.com/p/texas-penny-front-tennessee-walk-adjustment-muschamp",
+      "source": "MatchQuarters",
+      "published": "2026-10-05T10:27:43+00:00"
+    },
+    {
+      "headline": "Jonathan Cheng Explores North Korea's Religious Landscape",
+      "summary": "Jonathan Cheng discusses how North Korea evolved into a unique religious landscape in an interview with The Gospel Coalition. The piece touches on complex intersections of faith, history, and authoritarian control in the region.",
+      "category": "Faith",
+      "relevance": 6,
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/north-korea-most-religious-place/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-06T04:04:22+00:00"
+    },
+    {
+      "headline": "Is Harry Kane England's Greatest International Footballer?",
+      "summary": "England captain Harry Kane is set to equal Peter Shilton's record of 125 international caps during a Nations League match against the Czech Republic. As the nation's all-time leading scorer with 89 goals, Kane has solidified his status as the most influential modern player and a serious contender for England's greatest-ever international.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-05T19:05:52+00:00"
+    },
+    {
+      "headline": "Testing Claude Opus 5.5 With Video Game Music Generation",
+      "summary": "Developer Simon Willison tested whether Claude Opus 5.5 could independently compose video game music by designing a simple text-based format with an audible artifact player. The model produced surprisingly competent audio reminiscent of the original Secret of Monkey Island soundtrack. This experiment hints at broader emerging generative audio capabilities in modern large language models.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/",
+      "source": "Simon Willison",
+      "published": "2026-10-06T15:17:39+00:00"
+    },
+    {
+      "headline": "Jam City Returns to Dance Roots on 'My World'",
+      "summary": "UK avant-dance producer Jam City delivers a reenergized amalgam of 1980s club beats, pop, and R&B on his latest album opener, 'My World.' The track blends fuzzy guitars and soft-edged synths with vocal contributions from Aidan, Bawo, and Ox Eye. It marks a triumphant return to club-focused engineering after years of wandering pop music's peripheries.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/jam-city-my-world/",
+      "source": "Pitchfork",
+      "published": "2026-10-06T04:01:00+00:00"
+    },
+    {
+      "headline": "Edwidge Danticat and Debut Authors Among 2026 National Book Award Finalists",
+      "summary": "The finalists for the 2026 National Book Awards feature prominent literary figures alongside fresh voices across the fiction and nonfiction categories. Three-time finalist Edwidge Danticat secured a fiction nod for her novel Dèy, competing alongside debut novelist Morgan Thomas and writers like Hannah Lillith Assadi and Valeria Luiselli. Meanwhile, the nonfiction shortlist highlights works tackling systemic issues, including Abdelrahman ElGendy's prison memoir Huna and Camonghne Felix's genre-blending declaration of freedom.",
       "category": "Other",
-      "relevance": 2,
-      "url": "https://www.cbssports.com/betting/news/yankees-vs-rays-alds-game-2-parlay-mlb-picks-runs-might-be-at-premium-behind-cam-schlittler-freddy-peralta/",
-      "source": "CBS Sports",
-      "published": "2026-10-05T22:45:44+00:00"
+      "relevance": 3,
+      "url": "https://www.npr.org/2026/10/06/nx-s1-5991463/2026-national-book-award-shortlist-finalists",
+      "source": "NPR News",
+      "published": "2026-10-06T10:30:20-04:00"
     }
   ]
 }
