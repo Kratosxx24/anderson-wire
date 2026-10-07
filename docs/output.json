@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:38:58.797569+00:00",
+  "generated_at": "2026-10-07T23:48:21.760580+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,22 +75,40 @@
       "published": "2026-09-14T18:32:10+00:00"
     },
     {
-      "headline": "Brooklyn Nets Look to Build on Young Core",
-      "summary": "After a dismal 20-62 season, the Brooklyn Nets are aiming for a play-in spot in the 2026-27 campaign. The team is banking on the development of their young roster and the potential of first-round pick Mikel Brown Jr. to improve upon last year's league-worst performance.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://theleadsm.com/brooklyn-nets-2026-2027-nba-preseason-preview/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-10-06T17:04:27+00:00"
-    },
-    {
-      "headline": "Claude AI Integrates Directly into Google Workspace",
-      "summary": "Anthropic has launched a public beta for a Claude add-on that brings its AI directly into Google Docs, Sheets, and Slides via a sidebar. Paid users can now leverage Claude to rewrite text, generate formulas, or build slides without leaving the Google ecosystem.",
+      "headline": "Apple Partners With LG to Expand Smart Home Lineup",
+      "summary": "Apple is preparing a broader push into smart home hardware through a new collaboration with LG Electronics. The initiative will reportedly feature a connected doorbell, smart locks, and a thermostat designed to integrate seamlessly into Apple's broader ecosystem. The move marks an atypical hardware partnership as Apple attempts to bolster its presence in home automation.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "http://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-10-06T19:10:00+00:00"
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MTMyMDkxNiwiZXhwIjoxNzkxOTI1NzE2LCJhcnRpY2xlSWQiOiJUTUdDN0lLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.LSK9jlXYPFHac9EpcJCErTgJNAwqmpV6qFoORcKffVo",
+      "source": "Daring Fireball",
+      "published": "2026-10-07T22:02:43+00:00"
+    },
+    {
+      "headline": "Anthropic Debuts Claude Haiku 5.5 With Mandatory Reasoning and New Pricing",
+      "summary": "Anthropic has launched Claude Haiku 5.5 at $0.10 per million input and $0.50 per million output tokens for up to 100,000 tokens, matching OpenAI's GPT-6 Luna before prices spike fivefold on larger contexts. The new model enforces reasoning controls by default and uses a less compact tokenizer that increases prompt token counts by roughly 25 percent compared to version 4.5. Alongside the release, Anthropic halved cache read pricing for Sonnet 5.5 and introduced monthly API credits of up to $500 for Max and Team subscribers.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "source": "Simon Willison",
+      "published": "2026-10-07T20:56:21+00:00"
+    },
+    {
+      "headline": "OpenAI Announces Broad Rollout of GPT-6 and Intelligent UI",
+      "summary": "A new release from OpenAI outlines plans to make GPT-6 and its intelligent user interface widely accessible. The announcement quickly gained significant traction in developer circles on Hacker News, sparking discussion over its broader capabilities and interface changes. Full technical specifications and rollout mechanics were detailed in the company's official blog post.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "source": "Hacker News",
+      "published": "2026-10-07T18:00:58+00:00"
+    },
+    {
+      "headline": "Basketball Intelligence Previews the 2026-27 NBA Season",
+      "summary": "The latest edition of the Basketball Intelligence newsletter offers a comprehensive look at the upcoming NBA season. Content includes championship contenders, Northwest Division analysis, and projections for breakout players.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-10726",
+      "source": "Basketball Intelligence",
+      "published": "2026-10-07T16:34:23+00:00"
     },
     {
       "headline": "Basketball Intelligence Previews 2026-27 NBA Season",
@@ -120,24 +138,6 @@
       "published": "2026-10-06T22:34:46+00:00"
     },
     {
-      "headline": "Apple and LG Team Up on Smart Home Strategy",
-      "summary": "Ben Thompson breaks down Apple's surprising strategy to dominate the smart home market through ecosystem integration alongside hardware partner LG. The commentary also evaluates how Amazon should adapt its product approach for autonomous AI agents.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
-      "source": "Stratechery",
-      "published": "2026-10-07T10:01:39+00:00"
-    },
-    {
-      "headline": "The Legal Reality of Game Decompilation",
-      "summary": "Game decompilation is becoming an increasingly common practice, raising important legal and industry questions. Beyond legal hurdles, the true disruption facing the gaming sector stems from shifting player expectations and deep personalization.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
-      "source": "Stratechery",
-      "published": "2026-10-06T10:07:36+00:00"
-    },
-    {
       "headline": "Russian Missile Strikes Across Ukraine Kill at Least 20",
       "summary": "A barrage of 70 Russian missiles struck residential areas across central and eastern Ukraine overnight, killing at least 20 people and injuring dozens more. President Volodymyr Zelensky condemned the assault as a vile and deliberate attack, noting that blasts hit cities including Kyiv, Dnipro, and Pryluky, where an apartment building collapse trapped residents in the rubble.",
       "category": "World",
@@ -145,6 +145,15 @@
       "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-07T18:12:58+00:00"
+    },
+    {
+      "headline": "Apple and LG Team Up on Smart Home Strategy",
+      "summary": "Ben Thompson breaks down Apple's surprising strategy to dominate the smart home market through ecosystem integration alongside hardware partner LG. The commentary also evaluates how Amazon should adapt its product approach for autonomous AI agents.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "source": "Stratechery",
+      "published": "2026-10-07T10:01:39+00:00"
     },
     {
       "headline": "New Command-Line Tool Purges macOS 27 Apple Intelligence",
@@ -183,13 +192,13 @@
       "published": "2026-10-06T18:20:58+00:00"
     },
     {
-      "headline": "LLMs Achieve Massive Token Savings Using 19th-Century Telegraphese",
-      "summary": "Researchers demonstrated that instructing large language models to write in 19th-century telegraphese yields token savings between 14% and 49% across multiple model families. Downstream models successfully read these compressed records without losing accuracy, performing on par with standard plaintext.",
+      "headline": "Meta and Microsoft Curb Internal Claude Usage",
+      "summary": "Meta and Microsoft are scaling back employee access to Anthropic’s Claude AI to prioritize proprietary coding tools and manage rising costs. While Microsoft slashed monthly AI spending limits per employee from $100,000 to $10,000, both companies continue to offer Claude to their external enterprise clients.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
       "source": "Hacker News",
-      "published": "2026-10-07T12:04:36+00:00"
+      "published": "2026-10-07T18:49:40+00:00"
     },
     {
       "headline": "Why We Need History More Than Ever",
@@ -199,6 +208,15 @@
       "url": "https://www.thegospelcoalition.org/article/need-history-more-before/",
       "source": "The Gospel Coalition",
       "published": "2026-10-07T04:00:00+00:00"
+    },
+    {
+      "headline": "The Gospel Coalition Examines North Korean Religion",
+      "summary": "The Gospel Coalition features a discussion with Jonathan Cheng regarding the complex religious landscape of North Korea. The piece explores how the nation has evolved into a unique environment for religious activity.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/north-korea-most-religious-place/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-06T04:04:22+00:00"
     },
     {
       "headline": "Jen Wilkin Emphasizes Teaching Genesis 2 to Children",
@@ -237,76 +255,40 @@
       "published": "2026-10-05T04:00:00+00:00"
     },
     {
-      "headline": "Basketball Intelligence Previews the 2026-27 NBA Season",
-      "summary": "The latest edition of the Basketball Intelligence newsletter offers a comprehensive look at the upcoming NBA season. Content includes championship contenders, Northwest Division analysis, and projections for breakout players.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-10726",
-      "source": "Basketball Intelligence",
-      "published": "2026-10-07T16:34:23+00:00"
-    },
-    {
-      "headline": "Seahawks Scramble for Running Back Depth",
-      "summary": "Following the collapse of a potential deal with Joe Mixon, the Seattle Seahawks are actively searching for alternative running back options. The team must now pivot to fill the vacancy in their backfield.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://ftw.usatoday.com/story/sports/nfl/2026/10/06/seahawks-running-back-options-joe-mixon-signing-falls-through/92123012007/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-10-06T19:22:23Z"
-    },
-    {
-      "headline": "Eagles Signal Full-Scale Rebuild",
-      "summary": "The Philadelphia Eagles appear to be entering a significant rebuilding phase following the trade of Cam Jurgens and the retirement of Lane Johnson. These major personnel moves suggest the organization is shifting its strategy toward a long-term roster overhaul.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/eagles-cam-jurgens-trade-lane-johnson-retirement-2026/",
-      "source": "CBS Sports",
-      "published": "2026-10-07T18:40:52+00:00"
-    },
-    {
-      "headline": "The Gospel Coalition Examines North Korean Religion",
-      "summary": "The Gospel Coalition features a discussion with Jonathan Cheng regarding the complex religious landscape of North Korea. The piece explores how the nation has evolved into a unique environment for religious activity.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/podcasts/gospelbound/north-korea-most-religious-place/",
-      "source": "The Gospel Coalition",
-      "published": "2026-10-06T04:04:22+00:00"
-    },
-    {
-      "headline": "Sixers Lose Ariel Hukporti to Season-Ending Injury",
-      "summary": "Philadelphia 76ers center Ariel Hukporti will miss the entire 2026-27 season after suffering a torn right Achilles tendon during a preseason game against the Knicks. His absence creates a significant void in the team's frontcourt depth behind Joel Embiid.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://allphly.com/76ers/ariel-hukporti-achilles-injury-sixers-news-analysis/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-10-06T15:10:15-04:00"
-    },
-    {
-      "headline": "Meta and Microsoft Curb Internal Claude Usage",
-      "summary": "Meta and Microsoft are scaling back employee access to Anthropic’s Claude AI to prioritize proprietary coding tools and manage rising costs. While Microsoft slashed monthly AI spending limits per employee from $100,000 to $10,000, both companies continue to offer Claude to their external enterprise clients.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "source": "Hacker News",
-      "published": "2026-10-06T22:00:00-04:00"
-    },
-    {
-      "headline": "Anthropic Expands Cyber Verification Program",
-      "summary": "Anthropic is broadening its Cyber Verification Program, allowing vetted security teams to test its most powerful models with fewer safety restrictions. This initiative follows the discovery of over 100,000 software vulnerabilities this year through the company's collaborative security efforts.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/articleshow/134749345.cms",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-10-07T12:34:55+05:30"
-    },
-    {
-      "headline": "Scotland Stunned by Slovenia",
-      "summary": "Scotland manager Sebastien Pocognoli faces early scrutiny after a dismal 2-1 defeat to Slovenia at Hampden. Defensive lapses and a disorganized tactical shift exposed deep flaws in the squad.",
+      "headline": "Fantasy Football Week 5: Jameson Williams Highlighted in WR Start-Sit Advice",
+      "summary": "CBS Sports has released its Week 5 wide receiver recommendations, spotlighting Detroit's Jameson Williams as a strong starting candidate looking to extend his recent scoring momentum. The preview offers weekly roster advice to help fantasy managers optimize lineups across standard and PPR leagues. Further details break down matchup metrics and projected targets for border-line starters across the league.",
       "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-06T22:28:47+00:00"
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/start-em-sit-em-wr-2026-week-5/",
+      "source": "CBS Sports",
+      "published": "2026-10-07T22:38:22+00:00"
+    },
+    {
+      "headline": "Yankees Face Rays in ALDS Game 3 as Betting Models Set the Odds",
+      "summary": "CBS Sports has released its analytical predictions and betting lines for Game 3 of the 2026 American League Division Series between the New York Yankees and the Tampa Bay Rays. The projections rely on computational simulations to forecast the pivotal postseason matchup. Betting enthusiasts and fans can evaluate run lines, moneyline options, and projected totals ahead of the October 7 contest.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/yankees-rays-odds-line-prediction-2026-mlb-playoff-bets-alds-game-3-picks/",
+      "source": "CBS Sports",
+      "published": "2026-10-07T22:20:24+00:00"
+    },
+    {
+      "headline": "Jaguar Previews New Design Direction With Type 01",
+      "summary": "Daring Fireball has linked coverage to Jaguar's Type 01 concept vehicle. The development represents the automaker's evolving creative design language as it shifts into a new branding era. The update captures early industry reactions and visual materials outlining Jaguar's updated lineup.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://insideevs.com/news/810839/jaguar-type-01-launch-ev/",
+      "source": "Daring Fireball",
+      "published": "2026-10-07T23:22:28+00:00"
+    },
+    {
+      "headline": "Henri Kagan and Kenso Soai Win Chemistry Nobel for Cracking Molecular Asymmetry",
+      "summary": "The 2026 Nobel Prize in Chemistry was awarded to Henri B. Kagan and Kenso Soai for discovering how chemical processes can selectively generate single mirror-image chiral molecules. While laboratory synthesis historically yielded even 50-50 mixtures of left- and right-handed molecules, living biology requires only one orientation—a dynamic that previously proved catastrophic in mixed drugs like Thalidomide. The laureates will share the 12 million Swedish kronor prize for pioneering mechanisms that guide chiral reactions reliably.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-07T10:09:57.037Z"
     },
     {
       "headline": "Simon Willison Releases llm-openai-decisions Plugin",
@@ -336,31 +318,58 @@
       "published": "2026-10-07T04:02:00+00:00"
     },
     {
-      "headline": "Event Bundles Drive Prediction Market Activity",
-      "summary": "Prediction markets are seeing a surge in volume as they introduce new event contract bundles. These structured offerings are attracting more participants by grouping related outcomes together.",
-      "category": "NFL",
+      "headline": "Scotland Stunned by Slovenia",
+      "summary": "Scotland manager Sebastien Pocognoli faces early scrutiny after a dismal 2-1 defeat to Slovenia at Hampden. Defensive lapses and a disorganized tactical shift exposed deep flaws in the squad.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://www.cnbc.com/2026/10/06/prediction-market-combo-contract-volume.html",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-10-06T18:20:31Z"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-06T22:28:47+00:00"
     },
     {
-      "headline": "Brock Purdy Holds the Top Spot in Week 5 QB Stock Market",
-      "summary": "Fox Sports analyzes early-season quarterback fluctuations, keeping Brock Purdy at the top despite a lack of MVP-defining moments. Meanwhile, lingering struggles for players like Tennessee's Cam Ward highlight the unpredictable developmental curves across the league.",
-      "category": "NFL",
+      "headline": "Klein Weaves Fractured Family Drama Into 'Dark Disney' Soundscapes on New Album",
+      "summary": "South London experimental artist Klein has released 'my own fairytale,' a project she describes as a dark inversion of classic Disney soundtracks through ambient strings and dense drone work. The record pulls back the curtain on her anonymous double life, including tracks like 'bridge the gap' and 'man in the mirror' that touch on estrangement from her parents and sister. Pitchfork notes that while her music draws heavy inspiration from Brandy's Cinderella, the LP's insular sonic world leaves lingering questions about the emotional toll of keeping her music career secret from her relatives.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://www.foxsports.com/stories/nfl/qb-stock-market-week-5-brock-purdy-doesnt-have-mvp-moment-doesnt-need-one",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-10-06T14:17:02-04:00"
+      "url": "https://pitchfork.com/reviews/albums/klein-my-own-fairytale/",
+      "source": "Pitchfork",
+      "published": "2026-10-07T04:01:00+00:00"
     },
     {
-      "headline": "Anthropic Launches Claude Haiku 5.5 at 75 Percent Lower Cost",
-      "summary": "Anthropic has released Claude Haiku 5.5, its fastest and cheapest small model designed for high-volume, cost-sensitive tasks. The company also slashed prices on Sonnet 5.5 cache reads and introduced new monthly API credits for subscribers.",
+      "headline": "Software Engineering Idiom Urges Developers to Push Ifs Up and Fors Down",
+      "summary": "An analysis of systems engineering principles examines the rule of 'pushing ifs up and fors down' popularized by TigerBeetle's Tiger Style and developer matklad. The pattern dictates that conditional branch logic should be elevated to callers early in execution, while iteration loops are relegated to deep, branch-free batch functions. This separation clarifies function contracts, minimizes redundant checks, and optimizes hot loops for vectorization.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
       "source": "Hacker News",
-      "published": "2026-10-07T18:01:32+00:00"
+      "published": "2026-10-07T18:43:18+00:00"
+    },
+    {
+      "headline": "Israel Observes Third Anniversary of October 7 Hamas Attacks Amid Gaza Devastation",
+      "summary": "Mourners gathered across Israel on Wednesday to mark three years since the October 7 Hamas attacks that killed roughly 1,200 people and resulted in 251 hostages, including 378 victims at the Nova dance festival. At memorial ceremonies, Prime Minister Benjamin Netanyahu faced renewed public pressure for an independent state inquiry into intelligence and security collapses. Three years into the resulting conflict, health officials in Gaza report over 74,200 fatalities, with severe humanitarian hardship continuing despite a tenuous ceasefire.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-07T20:10:46.770Z"
+    },
+    {
+      "headline": "Israelis Demand Accountability Three Years After October 7 Attacks",
+      "summary": "Three years after Hamas launched the deadliest attack in Israeli history, residents of the devastated Kfar Aza kibbutz are demanding official responsibility for widespread security failures. Survivors and families of victims point to ignored warnings from border soldiers and criticize the lack of an independent state inquiry. Meanwhile, Prime Minister Benjamin Netanyahu, who was in power during the tragedy, is running for reelection on a security platform.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-07T16:00:18.893Z"
+    },
+    {
+      "headline": "Tuchel Refines England's Tactics Ahead of Upcoming Matches",
+      "summary": "England manager Thomas Tuchel has introduced subtle tactical adjustments following the team's World Cup campaign. The squad is shifting away from a traditional two-defender and holding midfielder build-up, instead committing an extra player to handle opposition pressing. This evolving fluid shape utilizes dynamic movement across the midfield to create better attacking opportunities in space.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvp8gex8wzneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-07T11:06:41.669Z"
     },
     {
       "headline": "Quavo's 'QRÖMELIFE' Album Falls Flat Under Pharrell's Production",
@@ -387,7 +396,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-07T09:56:34.035Z"
+      "published": "2026-10-07T17:47:31+00:00"
     },
     {
       "headline": "Study Links Modern Gut Microbes to Ancient Human Migration",
@@ -396,52 +405,43 @@
       "relevance": 6,
       "url": "https://www.npr.org/2026/10/07/nx-s1-5987874/ancient-gut-microbiome-migration-evolution-hadza-tsimane",
       "source": "NPR News",
-      "published": "2026-10-07T11:00:47-04:00"
+      "published": "2026-10-07T15:00:47+00:00"
     },
     {
-      "headline": "Corporate AI Success Relies on People Over Technology",
-      "summary": "At Fortune's inaugural AIQ Summit, experts emphasized that realizing genuine value from enterprise artificial intelligence requires overcoming organizational hurdles rather than just deploying advanced models. Leaders noted that tackling internal learned helplessness is essential for successful AI integration at scale.",
+      "headline": "Computing Pioneer Margaret Hamilton Passes Away at 90",
+      "summary": "Margaret Hamilton, the pioneering computer scientist who led the software development team for NASA's Apollo program, has died at the age of 90. Over a two-decade career at MIT, she directed more than 400 people in writing the on-board flight software that successfully guided the first humans to the moon. Her groundbreaking work laid foundational concepts for modern software engineering.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://fortune.com/2026/10/06/finding-value-from-ai-in-big-companies-comes-down-to-people-not-technology/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-10-06T18:58:17-00:00"
-    },
-    {
-      "headline": "Dana Altman Retires Unexpectedly on Eve of Basketball Season",
-      "summary": "Oregon basketball coach Dana Altman has announced a sudden retirement right before the start of the 2026-27 season. His departure follows similar unexpected late-career exits by prominent coaches like Bruce Pearl and Tony Bennett.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/college-basketball/news/dana-altman-retirement-oregon-basketball/",
-      "source": "CBS Sports",
-      "published": "2026-10-07T19:24:17+00:00"
-    },
-    {
-      "headline": "ICANN Unveils 1,615 Applications for New Generic Top-Level Domains",
-      "summary": "ICANN has published the complete list of applications from the 2026 round of the New Generic Top-Level Domains Program, capturing 1,615 submissions globally. The pool includes hundreds of brand-specific domains alongside community and geographic name requests spanning multiple regions.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
       "source": "Hacker News",
-      "published": "2026-10-07T19:01:45+00:00"
+      "published": "2026-10-07T21:16:18+00:00"
     },
     {
-      "headline": "Southampton Boss Tonda Eckert Avoids Sacking Over Spygate Scandal",
-      "summary": "Southampton manager Tonda Eckert has escaped a damaging suspension after an FA independent regulatory commission handed him a six-week ban that was fully suspended until next season. Despite an earlier £28,000 fine and the club's past playoff expulsion for spying, club leadership expressed confidence in his future at the helm.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9knmvm2ryo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-07T14:58:10.075Z"
-    },
-    {
-      "headline": "Trump Orders First Military Firing Squad Execution Since WWII",
-      "summary": "President Trump has authorized the execution by firing squad of Nidal Hasan, the former Army psychiatrist convicted of killing 13 people during the 2009 Fort Hood shooting. Scheduled for December 3 at Fort Hood, the sentence marks the first U.S. military execution in over sixty years and the first via firing squad since World War II. The announcement follows a recent botched lethal injection in Tennessee, signaling a dramatic shift in capital punishment methods.",
+      "headline": "Eviction Focuses Spanish Housing Crisis Anger Following Pensioner's Death",
+      "summary": "Maricarmen Abascal, an 87-year-old Madrid resident whose forced eviction from her long-term apartment sparked nationwide outrage, has died at age 87. Her rent had spiked from 500 euros to over 2,600 euros after corporate acquisition, far exceeding her monthly pension. Her death has intensified political pressure and triggered mass protests across Spain demanding emergency housing reform.",
       "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/10/07/nx-s1-5993539/firing-squad-execution-nidal-hasan-fort-hood",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-07T18:54:05.093Z"
+    },
+    {
+      "headline": "WHO Seeks Answers After Russian Plague Lab Worker Dies",
+      "summary": "The World Health Organization has requested further details regarding the death of an employee at a Russian plague research facility. Russian authorities attribute the fatality to an unknown strain of pneumonia and maintain there is no active public health emergency. International health officials are pressing for transparency to confirm the nature of the illness.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/10/07/nx-s1-5993873/russia-death-plague-research-institute",
       "source": "NPR News",
-      "published": "2026-10-07T15:08:48-04:00"
+      "published": "2026-10-07T17:53:47-04:00"
+    },
+    {
+      "headline": "NFL Betting: Examining Player Props for Falcons vs. Ravens",
+      "summary": "Ahead of the upcoming matchup between the Falcons and Ravens, sportsbooks have released new player prop odds. Running back Brian Robinson enters the game listed at +12500 to replicate his impressive three-touchdown performance from the previous week. Bettors are evaluating these long-shot odds alongside broader game predictions.",
+      "category": "NFL",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/betting/news/nfl-player-props-falcons-vs-ravens-odds-brian-robinson-scored-3-touchdowns-last-week-hes-12500-to-repeat/",
+      "source": "CBS Sports",
+      "published": "2026-10-07T22:29:02+00:00"
     },
     {
       "headline": "Fixing Common Pitfalls in Software Blogging",
