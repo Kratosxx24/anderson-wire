@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-10-13T03:31:59.931727+00:00",
+  "generated_at": "2026-10-13T11:01:09.983065+00:00",
   "story_count": 50,
   "stories": [
+    {
+      "headline": "Northwestern Leans on Elite Robber Coverage in Fast 4-1 Start",
+      "summary": "Northwestern has reached a 4-1 start under head coach David Braun largely by suffocating mid-range passing downs with their signature Robber package. Defensive coordinator Tim McGarigle rarely blitzes, instead tasking safeties with reading the seams from outside leverage to force low-percentage throws to the perimeter. Against opponents like Indiana and Penn State, the scheme has produced an exceptional -.575 EPA per play and limited completions to just 21%.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.matchquarters.com/p/northwesterns-robber-package",
+      "source": "MatchQuarters",
+      "published": "2026-10-12T10:03:30+00:00"
+    },
     {
       "headline": "Navigating Conflict and Care in Pastoral Ministry",
       "summary": "Church leadership requires managing interpersonal friction and spiritual guidance for challenging congregants. The piece examines how pastors can balance patience and discipline when shepherding difficult members within their flock.",
@@ -10,15 +19,6 @@
       "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastoring-difficult-sheep/",
       "source": "The Gospel Coalition",
       "published": "2026-10-12T04:05:00+00:00"
-    },
-    {
-      "headline": "The Gospel Coalition Advocates for Contentment",
-      "summary": "An essay from The Gospel Coalition explores the spiritual need for a theology of enough in a consumer-driven society. It examines how modern culture's constant pursuit of more impacts faith and personal well-being. The piece offers theological reflections on finding satisfaction and peace.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/world-more-theology-enough/",
-      "source": "The Gospel Coalition",
-      "published": "2026-10-10T04:00:00+00:00"
     },
     {
       "headline": "MKBHD Teases Googlebook",
@@ -39,13 +39,13 @@
       "published": "2026-10-02T20:50:25+00:00"
     },
     {
-      "headline": "Unranked SEC Underdogs Shock Top Volleyball Programs",
-      "summary": "Vanderbilt, Oklahoma, and Arkansas pulled off major upsets on Sunday against No. 5 Florida, No. 9 Texas, and No. 12 Texas A&M, respectively. The losses snapped several historic streaks, including Florida's 11-match win run and Texas's 53-game home dominance against unranked opponents.",
-      "category": "Sports",
+      "headline": "Open-Source Janas Engine Runs Oversized LLMs Directly From SSD",
+      "summary": "The newly released Janas inference framework allows local machines to run large language models that exceed available system memory by streaming experts directly from fast solid-state drives. In benchmark tests on a 32 GB laptop, the pure C engine generated 24 tokens per second on a 48.4 GB Qwen3 model, compared to just 2.8 tokens per second using llama.cpp. The project posted speedups across all 13 quantized models tested, operating without requiring dedicated GPU capacity.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://volleyballmag.com/vanderbilt-oklahoma-and-arkansas-upset-florida-texas-and-texas-a-m-on-sunday/?utm_source=rss&utm_medium=rss&utm_campaign=vanderbilt-oklahoma-and-arkansas-upset-florida-texas-and-texas-a-m-on-sunday",
-      "source": "Volleyball Mag",
-      "published": "2026-10-11T21:28:01+00:00"
+      "url": "https://github.com/prabanta-dev/janas",
+      "source": "Hacker News",
+      "published": "2026-10-12T22:05:43+00:00"
     },
     {
       "headline": "MKBHD's Open Letter to YouTube",
@@ -57,22 +57,40 @@
       "published": "2026-09-30T14:42:19+00:00"
     },
     {
-      "headline": "Northwestern Leans on Elite Robber Coverage in Fast 4-1 Start",
-      "summary": "Northwestern has reached a 4-1 start under head coach David Braun largely by suffocating mid-range passing downs with their signature Robber package. Defensive coordinator Tim McGarigle rarely blitzes, instead tasking safeties with reading the seams from outside leverage to force low-percentage throws to the perimeter. Against opponents like Indiana and Penn State, the scheme has produced an exceptional -.575 EPA per play and limited completions to just 21%.",
-      "category": "NFL",
+      "headline": "Reflecting on Eternity to Ground Daily Life",
+      "summary": "Dane Ortlund's new book 'Finally Home' explores how keeping heaven in mind shapes earthly Christian living. The theological essay highlights themes of God's love, grace, and spiritual endurance. It serves as a devotional reminder for believers navigating contemporary cultural and religious challenges.",
+      "category": "Faith",
       "relevance": 9,
-      "url": "https://www.matchquarters.com/p/northwesterns-robber-package",
-      "source": "MatchQuarters",
-      "published": "2026-10-12T10:03:30+00:00"
+      "url": "https://www.thegospelcoalition.org/reviews/finally-home-heaven/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-13T04:05:00+00:00"
     },
     {
-      "headline": "Open-Source Janas Engine Runs Oversized LLMs Directly From SSD",
-      "summary": "The newly released Janas inference framework allows local machines to run large language models that exceed available system memory by streaming experts directly from fast solid-state drives. In benchmark tests on a 32 GB laptop, the pure C engine generated 24 tokens per second on a 48.4 GB Qwen3 model, compared to just 2.8 tokens per second using llama.cpp. The project posted speedups across all 13 quantized models tested, operating without requiring dedicated GPU capacity.",
-      "category": "Tech/AI",
+      "headline": "Exploring Unusual Tech Gadgets Worth Testing",
+      "summary": "MKBHD's studio takes a look at unconventional tech devices that spark curiosity. The segment explores niche gadgets that push boundaries despite their odd design choices. Reviewers weigh the potential utility of these weird hardware innovations.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://github.com/prabanta-dev/janas",
-      "source": "Hacker News",
-      "published": "2026-10-12T22:05:43+00:00"
+      "url": "https://www.youtube.com/shorts/Q7MpFTrT9Gk",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-24T18:12:11+00:00"
+    },
+    {
+      "headline": "The Tech Products Not Worth Your Money",
+      "summary": "The MKBHD team highlights various hardware releases that fail to justify their existence. The discussion breaks down impractical features and poor design choices found in modern consumer electronics. Reviewers warn consumers away from purchasing these specific gimmicky gadgets.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/pjovhZ7HkNs",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-17T16:53:05+00:00"
+    },
+    {
+      "headline": "Applying Substitutionary Atonement to Abuse Crises",
+      "summary": "Religious scholars examine how the theological concept of substitutionary atonement provides a framework for addressing abuse within faith communities. The article addresses systemic failures and offers spiritual context for victims seeking justice and healing. It connects core Christian doctrines to urgent contemporary ethical crises.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/atonement-church-abuse/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-13T04:00:00+00:00"
     },
     {
       "headline": "Basketball Intelligence For 10/12/26",
@@ -84,15 +102,6 @@
       "published": "2026-10-12T15:40:19+00:00"
     },
     {
-      "headline": "NBA Preseason Heats Up with Rookie Standouts and Injury Updates",
-      "summary": "The October 11, 2026 edition of Basketball Intelligence covers the latest preseason developments across the league. Key highlights include Jayson Tatum's sharp performance in a blowout win over the 76ers, Egor Demin looking more comfortable running the offense, and updates on rookie rotations. Analysts also preview Western Conference storylines and team depth charts ahead of tip-off.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-101126",
-      "source": "Basketball Intelligence",
-      "published": "2026-10-11T17:24:33+00:00"
-    },
-    {
       "headline": "Cowboys Add Mike Pettine to Defensive Staff",
       "summary": "The Dallas Cowboys have brought in former NFL head coach and Green Bay Packers defensive coordinator Mike Pettine. The veteran coach joins Brian Schottenheimer's staff in an effort to turn around the team's struggling defense.",
       "category": "NFL",
@@ -102,22 +111,22 @@
       "published": "2026-10-12T21:37:59+00:00"
     },
     {
-      "headline": "Evaluating Week 5 Fallout Ahead of Bills-Rams Clash",
-      "summary": "The weekly NFL review hands out report cards for Week 5's biggest winners and losers while evaluating trade value for Marvin Harrison Jr. The preview concludes with keys to the matchup and predictions for Monday night's showdown between Buffalo and Los Angeles.",
-      "category": "NFL",
+      "headline": "SEC Implements Standardized NIL Contracts Across Member Programs",
+      "summary": "The Southeastern Conference has adopted uniform name, image, and likeness contracts for student-athletes across its athletic programs. The policy marks the league's latest step toward establishing internal governance and consistent standards within collegiate sports compensation. Further procedural details remain scarce as conferences push to regulate the shifting college athletics landscape.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/",
+      "url": "https://www.cbssports.com/college-football/news/sec-standardized-nil-contracts-self-governance/",
       "source": "CBS Sports",
-      "published": "2026-10-12T19:19:40+00:00"
+      "published": "2026-10-12T23:43:38+00:00"
     },
     {
-      "headline": "Apple Nudges Reluctant iPhone Users to Install iOS 27",
-      "summary": "Apple has quietly reordered its Software Update menu in the Settings app, placing iOS 27.0.1 in the prominent position for users still lingering on iOS 26. While the upgrade is not forced, the previous operating system has been pushed to a secondary section to encourage adoption.",
+      "headline": "Experimental DAW Blokkily Combines Tracker Workflows With AI Integration",
+      "summary": "Blokkily is an experimental open-source digital audio workstation that lets producers compose synchronized musical patterns across a tracker, piano roll, or step sequencer. Built in C++ with Qt, the software supports CLAP and VST3 plugin architectures alongside custom generative instruments. It also incorporates native Model Context Protocol support, allowing external AI assistants to manipulate arrangement structures and generate music live inside the session.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
-      "source": "Daring Fireball",
-      "published": "2026-10-11T19:02:38+00:00"
+      "url": "https://github.com/andrewfader/blokkily",
+      "source": "Hacker News",
+      "published": "2026-10-12T23:21:12+00:00"
     },
     {
       "headline": "AI Is a Tool That Requires Operator Skill",
@@ -156,6 +165,15 @@
       "published": "2026-10-12T05:00:52+00:00"
     },
     {
+      "headline": "Intel Details D270 Data Center Accelerator With 480 GB Memory",
+      "summary": "Intel has published specifications for its D270 AI accelerator, aimed at high-density data center workloads. The hardware platform integrates up to 480 GB of high-speed LPDDR5X memory to address extensive training and inference memory requirements. Complete architectural details and product configurations are provided in Intel's technical release documentation.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:35:35+00:00"
+    },
+    {
       "headline": "Allen Levi Explores Friendship and the Origins of 'Theo'",
       "summary": "Singer-songwriter Allen Levi reflects on the enduring personal bonds that shaped his storytelling and creative work. The piece offers an intimate look into the real-life companionships that inspired his beloved character Theo.",
       "category": "Faith",
@@ -183,15 +201,6 @@
       "published": "2026-10-11T04:00:00+00:00"
     },
     {
-      "headline": "Curated Reading List Focuses on Christian Devotion",
-      "summary": "The Gospel Coalition publishes an editor's pick highlighting seven theology books designed to strengthen spiritual devotion. The recommended titles aim to help readers deepen their faith and theological understanding. The list serves as a guide for believers seeking edifying literary resources.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/reviews/editors-pick-systematic-theology/",
-      "source": "The Gospel Coalition",
-      "published": "2026-10-10T04:02:00+00:00"
-    },
-    {
       "headline": "Maxime Denuc Transforms Trance Anthems into Pipe Organ Elegies",
       "summary": "French composer Maxime Denuc uses MIDI-controlled pipe organs to reimagine classic 1990s trance and techno. Inspired by a church wedding featuring his own minimalist music and the ruins of Mediterranean discotheques, he recorded the album inside a Düsseldorf church. The resulting tracks stretch pulsing club arpeggios into hazy, atmospheric soundscapes.",
       "category": "Music",
@@ -201,13 +210,13 @@
       "published": "2026-10-12T04:00:00+00:00"
     },
     {
-      "headline": "Polish Police Detain Man Suspected of Plotting Prime Minister's Assassination",
-      "summary": "Polish authorities have arrested a local man in the Lower Silesia region over a suspected plot to assassinate Prime Minister Donald Tusk and the defense minister. The threat was uncovered after the State Protection Service intercepted an email detailing the planned attack. Tusk publicly thanked police for their swift and decisive intervention.",
+      "headline": "Moscow Stays Silent on Trump's Energy Truce as State Media Celebrates",
+      "summary": "The Kremlin has declined to formally confirm Donald Trump's surprise announcement of an immediate mutual ceasefire on energy infrastructure between Russia and Ukraine. While Volodymyr Zelensky expressed skepticism over the claim, Russian state outlets quickly framed the proposal as a major tactical victory that would stop damaging Ukrainian drone strikes on domestic refineries. Analysts note the pause would ease fuel supply strains across Russia while shielding Moscow's vital energy sector from further attrition.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-11T17:27:24+00:00"
+      "published": "2026-10-12T20:17:37+00:00"
     },
     {
       "headline": "Analysis: Trump's global headaches worsen weeks before crucial elections",
@@ -219,67 +228,40 @@
       "published": "2026-10-12T21:07:25+00:00"
     },
     {
-      "headline": "SEC Implements Standardized NIL Contracts Across Member Programs",
-      "summary": "The Southeastern Conference has adopted uniform name, image, and likeness contracts for student-athletes across its athletic programs. The policy marks the league's latest step toward establishing internal governance and consistent standards within collegiate sports compensation. Further procedural details remain scarce as conferences push to regulate the shifting college athletics landscape.",
-      "category": "Sports",
+      "headline": "SpaceX Expands Spectrum Holdings to Bolster Mobile Strategy",
+      "summary": "SpaceX has acquired additional spectrum as it continues building out its distributed cellular capabilities. Ben Thompson analyzes how Elon Musk's latest telecom maneuvers fit into broader market structures. The move signals a more aggressive and clearly defined long-term wireless strategy for the satellite giant.",
+      "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cbssports.com/college-football/news/sec-standardized-nil-contracts-self-governance/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T23:43:38+00:00"
+      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "source": "Stratechery",
+      "published": "2026-10-13T10:00:00+00:00"
     },
     {
-      "headline": "Moscow Stays Silent on Trump's Energy Truce as State Media Celebrates",
-      "summary": "The Kremlin has declined to formally confirm Donald Trump's surprise announcement of an immediate mutual ceasefire on energy infrastructure between Russia and Ukraine. While Volodymyr Zelensky expressed skepticism over the claim, Russian state outlets quickly framed the proposal as a major tactical victory that would stop damaging Ukrainian drone strikes on domestic refineries. Analysts note the pause would ease fuel supply strains across Russia while shielding Moscow's vital energy sector from further attrition.",
+      "headline": "Ukraine's Former General Claims Russian Offensive Might is Shattered",
+      "summary": "Former Ukrainian commander-in-chief Gen. Oleksandr Syrskyi stated in a BBC interview that Kyiv has successfully stabilized the front lines and broken Russia's capacity to advance. Syrskyi noted that Moscow's casualties vastly outnumber Ukraine's, with Russian territorial gains slowing to just 61 square kilometers in early 2026. The remarks follow his departure from the post earlier this summer amid debates over military strategy and troop losses.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-12T20:17:37.540Z"
+      "published": "2026-10-13T05:02:34.300Z"
     },
     {
-      "headline": "China Reportedly Surpassed the US in Total R&D Spending in 2024",
-      "summary": "China has overtaken the United States in overall research and development expenditures for the first time, according to data from 2024. The milestone highlights a continuing shift in global scientific and technological investment toward Chinese institutions and enterprises. Detailed sector-specific figures and historical context are examined in the referenced report.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
-      "source": "Hacker News",
-      "published": "2026-10-13T02:25:00+00:00"
-    },
-    {
-      "headline": "Anthropic Slashes Capability Harvesting by Up to 99% With New Defenses",
-      "summary": "Anthropic revealed that newly deployed countermeasures have reduced unauthorized model distillation of Claude by 90% to 99%. The company warned that foreign developers, including Chinese firms like Zhipu and Moonshot, have routinely used coordinated fake account networks to replicate proprietary model features and bypass security safeguards. In several tracked instances, distilled model weights were stripped of safety guardrails and adapted for cyber exploit generation or integrated into foreign military surveillance pipelines.",
+      "headline": "Mathematician Critiques OpenAI's Fast Fourier Transform Algorithm",
+      "summary": "Ben Recht evaluates claims from an OpenAI math repository regarding a supposedly faster method for computing Fast Fourier Transforms. The technical critique suggests the approach resembles a clever computational exploit rather than a fundamental mathematical breakthrough. The piece breaks down signal processing principles to analyze the actual mechanics of the algorithm.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
       "source": "Hacker News",
-      "published": "2026-10-12T09:30:00.000Z"
+      "published": "2026-10-12T14:01:02+00:00"
     },
     {
-      "headline": "Elderly Donor Blood Cells Reprogrammed Into Youthful Stem Cells",
-      "summary": "A new research study demonstrates that blood cells collected from an 80-year-old donor were reprogrammed into stem cells exhibiting a molecular age under 20. The findings point to potential avenues for reversing cellular aging through epigenetic resetting techniques. Complete experimental protocols and biological markers are detailed in the published paper.",
+      "headline": "New Research Shows AI Models Can Conceal Hidden Capabilities",
+      "summary": "A new paper accepted at NeurIPS 2026 demonstrates that advanced AI models can use cryptographic encryption to hide arbitrary capabilities within their weights. These embedded neural circuits remain resistant to fine-tuning, weight noising, and latent adversarial training unless unlocked with a specific secret trigger. The findings expose critical vulnerabilities in current elicitation-based safety audits and capability evaluations.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://doi.org/10.1111/acel.70751",
+      "url": "https://arxiv.org/abs/2610.13928",
       "source": "Hacker News",
-      "published": "2026-10-12T23:34:22+00:00"
-    },
-    {
-      "headline": "Experimental DAW Blokkily Combines Tracker Workflows With AI Integration",
-      "summary": "Blokkily is an experimental open-source digital audio workstation that lets producers compose synchronized musical patterns across a tracker, piano roll, or step sequencer. Built in C++ with Qt, the software supports CLAP and VST3 plugin architectures alongside custom generative instruments. It also incorporates native Model Context Protocol support, allowing external AI assistants to manipulate arrangement structures and generate music live inside the session.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/andrewfader/blokkily",
-      "source": "Hacker News",
-      "published": "2026-10-12T23:21:12+00:00"
-    },
-    {
-      "headline": "Intel Details D270 Data Center Accelerator With 480 GB Memory",
-      "summary": "Intel has published specifications for its D270 AI accelerator, aimed at high-density data center workloads. The hardware platform integrates up to 480 GB of high-speed LPDDR5X memory to address extensive training and inference memory requirements. Complete architectural details and product configurations are provided in Intel's technical release documentation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "source": "Hacker News",
-      "published": "2026-10-12T21:35:35+00:00"
+      "published": "2026-10-13T02:07:08+00:00"
     },
     {
       "headline": "Rams and Bills Clash in Week 5 MNF Showdown",
@@ -309,6 +291,15 @@
       "published": "2026-10-12T22:51:33+00:00"
     },
     {
+      "headline": "Python 3.15 Debuts Explicit Lazy Imports and Built-In Sampling Profiler",
+      "summary": "The newly released Python 3.15 introduces native lazy imports via PEP 810, allowing developers to defer module loading until symbols are actively referenced and drastically speeding up command-line tool initialization. The release also adds comprehension unpacking syntax alongside Tachyon, a low-overhead sampling profiler designed for real-time performance monitoring. With the update, long-standing Python 3.10 support officially winds down across major ecosystem projects.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "source": "Simon Willison",
+      "published": "2026-10-12T18:15:38+00:00"
+    },
+    {
       "headline": "Kaitlyn Aurelia Smith Dives Into Drum and Bass on 'RUIN'",
       "summary": "Experimental musician Kaitlyn Aurelia Smith shifts away from her signature ambient and New Age sounds with her latest album. Inspired by an online threat, the record leans heavily into jungle breakbeats and festival EDM. While the energetic pivot showcases fresh ambition, critics note the execution occasionally stumbles.",
       "category": "Music",
@@ -333,7 +324,7 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-13T01:26:02+00:00"
+      "published": "2026-10-13T04:30:09+00:00"
     },
     {
       "headline": "U.S. Arrests Colombian Fugitive Tied to Multi-Billion Venezuelan Welfare Scam",
@@ -372,15 +363,6 @@
       "published": "2026-10-12T14:56:43+00:00"
     },
     {
-      "headline": "Riyadh Airport Attacks Mark Dangerous Escalation in Regional Conflict",
-      "summary": "The recent Houthi drone and missile strikes targeting King Khalid Airport have penetrated Saudi air defenses and severely tested the kingdom's perceived stability. This escalation deepens the decade-long civil war in Yemen and risks widening the broader geopolitical confrontation involving Iran and Western powers.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-11T15:32:32+00:00"
-    },
-    {
       "headline": "Trump Announces Energy Ceasefire, But Moscow Tests Resolve",
       "summary": "US President Donald Trump declared an immediate energy ceasefire between Ukraine and Russia over the weekend. Ukrainian President Volodymyr Zelensky expressed willingness to comply if Moscow follows suit, but noted that a power plant in Kharkiv was struck almost immediately afterward. The tentative deal aims to spare civilians freezing winter blackouts, though Russia has yet to officially confirm its agreement.",
       "category": "World",
@@ -390,49 +372,40 @@
       "published": "2026-10-12T15:51:30+00:00"
     },
     {
-      "headline": "Indian Opposition Marches to Supreme Court Over Massive Voter List Purge",
-      "summary": "Thousands of opposition activists and lawmakers marched to New Delhi's Supreme Court to demand the resignation of Chief Election Commissioner Gyanesh Kumar. The protests erupted after election authorities stripped more than 130 million names from nationwide voter rolls, which critics argue is a targeted effort to benefit Prime Minister Narendra Modi's party.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
-      "source": "NPR News",
-      "published": "2026-10-12T16:01:54+00:00"
-    },
-    {
-      "headline": "DOJ Launches TV Network Antitrust Probe As Trump Demands New Ukrainian Leadership",
-      "summary": "The U.S. Department of Justice has opened an antitrust investigation into several major television networks. Meanwhile, former President Trump is publicly pressuring Ukraine to hold wartime elections to replace President Volodymyr Zelenskyy, whom he blames for driving up global fuel prices through drone strikes on Russian refineries.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/10/12/g-s1-147772/up-first-newsletter-trump-ukraine-russia-antitrust-investigation-hurricane-isaias-saudi-airport",
-      "source": "NPR News",
-      "published": "2026-10-12T11:29:56+00:00"
-    },
-    {
-      "headline": "American Economists Hall and Woodford Win Nobel Prize for Boom-Bust Cycle Research",
-      "summary": "Robert E. Hall of Stanford University and Michael Woodford of Columbia University were awarded the 2026 Nobel Prize in Economics. Their foundational research analyzes how consumer and business decision-making drives economic fluctuations, providing frameworks to minimize inflation and unemployment during boom-and-bust cycles.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/10/09/nx-s1-5996634/nobel-prize-in-economics",
-      "source": "NPR News",
-      "published": "2026-10-12T08:35:16+00:00"
-    },
-    {
-      "headline": "Python 3.15 Debuts Explicit Lazy Imports and Built-In Sampling Profiler",
-      "summary": "The newly released Python 3.15 introduces native lazy imports via PEP 810, allowing developers to defer module loading until symbols are actively referenced and drastically speeding up command-line tool initialization. The release also adds comprehension unpacking syntax alongside Tachyon, a low-overhead sampling profiler designed for real-time performance monitoring. With the update, long-standing Python 3.10 support officially winds down across major ecosystem projects.",
+      "headline": "Critical 11-Year-Old Soundness Bug Discovered in Rust Borrow Checker",
+      "summary": "A long-standing soundness flaw in the Rust programming language allows developers to bypass struct lifetime requirements via covariant field assignment. The newly identified bug affects current nightly builds as well as stable versions down to 1.85.0. When exploited, the issue can cause memory safety violations and lead to program crashes under AddressSanitizer.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "source": "Simon Willison",
-      "published": "2026-10-12T18:15:38+00:00"
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "Hacker News",
+      "published": "2026-10-13T10:27:00+00:00"
     },
     {
-      "headline": "Federal Drone Bans Put Strain on Local Police Budgets",
-      "summary": "Federal efforts to curtail the use of affordable Chinese-made technology are inadvertently harming local law enforcement agencies. Police departments facing tight budgets now struggle to afford the costly U.S.-made alternatives necessary for tactical operations. Consequently, restrictions meant to boost domestic manufacturing are instead limiting critical aerial surveillance tools for first responders.",
-      "category": "World",
+      "headline": "Jess Williamson Embraces Outlaw Country on 'A Mile South of Heaven'",
+      "summary": "Singer-songwriter Jess Williamson sheds her indie-rock veneer for an intimate, Texas-rooted folk record produced by Shooter Jennings. The album navigates themes of geographic listlessness and personal identity against a backdrop of weeping pedal steel guitars. Williamson delivers a career-defining performance that firmly anchors her in the outlaw country tradition.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
-      "source": "NPR News",
-      "published": "2026-10-12T05:00:00-04:00"
+      "url": "https://pitchfork.com/reviews/albums/jess-williamson-a-mile-south-of-heaven/",
+      "source": "Pitchfork",
+      "published": "2026-10-13T05:54:08+00:00"
+    },
+    {
+      "headline": "Prisco's Week 6 NFL Power Rankings: 49ers Claim Top Spot as Packers Surge",
+      "summary": "CBS Sports has released its Week 6 NFL power rankings, placing the San Francisco 49ers at the summit as the league's best team. Meanwhile, the Green Bay Packers made a massive leap, climbing ten spots following their latest performances.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-6-power-rankings-49ers-packers/",
+      "source": "CBS Sports",
+      "published": "2026-10-13T09:00:45+00:00"
+    },
+    {
+      "headline": "SolidCraft Brings Open-Source Parametric CAD to Rust with MCP Support",
+      "summary": "SolidCraft is a new open-source 3D parametric CAD application written entirely in Rust, featuring desktop, web, and automation support via Model Context Protocol (MCP). Users can sketch, constrain, and modify dimensions with a feature timeline that automatically rebuilds models on the fly.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/bherbruck/solidcraft",
+      "source": "Hacker News",
+      "published": "2026-10-13T00:11:04+00:00"
     },
     {
       "headline": "College Football Programs Brace for Major Drop-Off in 2026",
@@ -451,6 +424,33 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
       "published": "2026-10-12T15:01:24+00:00"
+    },
+    {
+      "headline": "Assessing the Financial Toll of Manchester City's Financial Rule Breaks",
+      "summary": "BBC Sport has analyzed the cascading financial fallout for rival English top-flight clubs following Manchester City's rule breaches. City face allegations of inflating sponsorship income by £830 million and expenses by £90 million, changes that fundamentally alter the competitive landscape for 35 other teams active between 2009 and 2018.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-13T08:12:53.332Z"
+    },
+    {
+      "headline": "NFL Week 6 Predictions: Seahawks, Cowboys Highlight Bold Score Projections",
+      "summary": "CBS Sports released its Week 6 NFL game picks and score predictions, forecasting a blowout win for the Seahawks over the Broncos. Other notable projections include another loss for the Eagles and a stunning upset victory by the Cowboys over the Packers.",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/nfl/news/breech-nfl-week-6-picks-score-predictions-odds/",
+      "source": "CBS Sports",
+      "published": "2026-10-13T10:00:55+00:00"
+    },
+    {
+      "headline": "New Tool Lets Users Turn PDFs into Audiobooks Using Existing AI Subscriptions",
+      "summary": "A new service allows users to leverage their existing AI subscriptions—like OpenAI or Claude—via an MCP server to process documents into audiobooks. While document processing is covered by the user's current AI plan, speech generation requires connecting a separate API key from providers like OpenAI or Gemini.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://pdftomp3.com/connect-ai/",
+      "source": "Hacker News",
+      "published": "2026-10-13T10:08:34+00:00"
     }
   ]
 }
