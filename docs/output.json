@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:01:09.983065+00:00",
+  "generated_at": "2026-10-13T18:11:13.423483+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -12,13 +12,22 @@
       "published": "2026-10-12T10:03:30+00:00"
     },
     {
-      "headline": "Navigating Conflict and Care in Pastoral Ministry",
-      "summary": "Church leadership requires managing interpersonal friction and spiritual guidance for challenging congregants. The piece examines how pastors can balance patience and discipline when shepherding difficult members within their flock.",
+      "headline": "Reflecting on Eternity to Ground Daily Life",
+      "summary": "Dane Ortlund's new book 'Finally Home' explores how keeping heaven in mind shapes earthly Christian living. The theological essay highlights themes of God's love, grace, and spiritual endurance. It serves as a devotional reminder for believers navigating contemporary cultural and religious challenges.",
       "category": "Faith",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastoring-difficult-sheep/",
+      "url": "https://www.thegospelcoalition.org/reviews/finally-home-heaven/",
       "source": "The Gospel Coalition",
-      "published": "2026-10-12T04:05:00+00:00"
+      "published": "2026-10-13T04:05:00+00:00"
+    },
+    {
+      "headline": "Applying Substitutionary Atonement to Abuse Crises",
+      "summary": "Religious scholars examine how the theological concept of substitutionary atonement provides a framework for addressing abuse within faith communities. The article addresses systemic failures and offers spiritual context for victims seeking justice and healing. It connects core Christian doctrines to urgent contemporary ethical crises.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.thegospelcoalition.org/article/atonement-church-abuse/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-13T04:00:00+00:00"
     },
     {
       "headline": "MKBHD Teases Googlebook",
@@ -39,15 +48,6 @@
       "published": "2026-10-02T20:50:25+00:00"
     },
     {
-      "headline": "Open-Source Janas Engine Runs Oversized LLMs Directly From SSD",
-      "summary": "The newly released Janas inference framework allows local machines to run large language models that exceed available system memory by streaming experts directly from fast solid-state drives. In benchmark tests on a 32 GB laptop, the pure C engine generated 24 tokens per second on a 48.4 GB Qwen3 model, compared to just 2.8 tokens per second using llama.cpp. The project posted speedups across all 13 quantized models tested, operating without requiring dedicated GPU capacity.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://github.com/prabanta-dev/janas",
-      "source": "Hacker News",
-      "published": "2026-10-12T22:05:43+00:00"
-    },
-    {
       "headline": "MKBHD's Open Letter to YouTube",
       "summary": "Popular tech reviewer Marques Brownlee addresses YouTube directly with a critique of current platform dynamics. The video highlights creator frustrations and platform features that need urgent attention. It serves as a direct appeal from one of the site's top creators for structural improvements.",
       "category": "YouTube",
@@ -55,15 +55,6 @@
       "url": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
       "source": "MKBHD",
       "published": "2026-09-30T14:42:19+00:00"
-    },
-    {
-      "headline": "Reflecting on Eternity to Ground Daily Life",
-      "summary": "Dane Ortlund's new book 'Finally Home' explores how keeping heaven in mind shapes earthly Christian living. The theological essay highlights themes of God's love, grace, and spiritual endurance. It serves as a devotional reminder for believers navigating contemporary cultural and religious challenges.",
-      "category": "Faith",
-      "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/reviews/finally-home-heaven/",
-      "source": "The Gospel Coalition",
-      "published": "2026-10-13T04:05:00+00:00"
     },
     {
       "headline": "Exploring Unusual Tech Gadgets Worth Testing",
@@ -84,13 +75,22 @@
       "published": "2026-09-17T16:53:05+00:00"
     },
     {
-      "headline": "Applying Substitutionary Atonement to Abuse Crises",
-      "summary": "Religious scholars examine how the theological concept of substitutionary atonement provides a framework for addressing abuse within faith communities. The article addresses systemic failures and offers spiritual context for victims seeking justice and healing. It connects core Christian doctrines to urgent contemporary ethical crises.",
+      "headline": "Navigating Conflict and Care in Pastoral Ministry",
+      "summary": "Church leadership requires managing interpersonal friction and spiritual guidance for challenging congregants. The piece examines how pastors can balance patience and discipline when shepherding difficult members within their flock.",
       "category": "Faith",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/atonement-church-abuse/",
+      "url": "https://www.thegospelcoalition.org/podcasts/everyday-pastor/pastoring-difficult-sheep/",
       "source": "The Gospel Coalition",
-      "published": "2026-10-13T04:00:00+00:00"
+      "published": "2026-10-12T04:05:00+00:00"
+    },
+    {
+      "headline": "MKBHD Gives Rare Peek Inside Apple’s Secretive Event",
+      "summary": "Marques Brownlee’s channel posted a behind‑the‑scenes look at Apple’s latest product launch, highlighting the tight security and teasing the new hardware that fans are speculating about.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/3F9M1ttIIbU",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-14T18:32:10+00:00"
     },
     {
       "headline": "Basketball Intelligence For 10/12/26",
@@ -102,76 +102,22 @@
       "published": "2026-10-12T15:40:19+00:00"
     },
     {
-      "headline": "Cowboys Add Mike Pettine to Defensive Staff",
-      "summary": "The Dallas Cowboys have brought in former NFL head coach and Green Bay Packers defensive coordinator Mike Pettine. The veteran coach joins Brian Schottenheimer's staff in an effort to turn around the team's struggling defense.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T21:37:59+00:00"
-    },
-    {
-      "headline": "SEC Implements Standardized NIL Contracts Across Member Programs",
-      "summary": "The Southeastern Conference has adopted uniform name, image, and likeness contracts for student-athletes across its athletic programs. The policy marks the league's latest step toward establishing internal governance and consistent standards within collegiate sports compensation. Further procedural details remain scarce as conferences push to regulate the shifting college athletics landscape.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/college-football/news/sec-standardized-nil-contracts-self-governance/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T23:43:38+00:00"
-    },
-    {
-      "headline": "Experimental DAW Blokkily Combines Tracker Workflows With AI Integration",
-      "summary": "Blokkily is an experimental open-source digital audio workstation that lets producers compose synchronized musical patterns across a tracker, piano roll, or step sequencer. Built in C++ with Qt, the software supports CLAP and VST3 plugin architectures alongside custom generative instruments. It also incorporates native Model Context Protocol support, allowing external AI assistants to manipulate arrangement structures and generate music live inside the session.",
+      "headline": "SpaceX Expands Spectrum Holdings to Bolster Mobile Strategy",
+      "summary": "SpaceX has acquired additional spectrum as it continues building out its distributed cellular capabilities. Ben Thompson analyzes how Elon Musk's latest telecom maneuvers fit into broader market structures. The move signals a more aggressive and clearly defined long-term wireless strategy for the satellite giant.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://github.com/andrewfader/blokkily",
-      "source": "Hacker News",
-      "published": "2026-10-12T23:21:12+00:00"
+      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "source": "Stratechery",
+      "published": "2026-10-13T10:00:00+00:00"
     },
     {
-      "headline": "AI Is a Tool That Requires Operator Skill",
-      "summary": "While some argue LLMs are mere automation rather than wieldable tools, that distinction fails to account for human direction. Operating AI effectively demands the same expertise, judgment, and feedback loops required to use traditional instruments like compilers or saws.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "source": "Hacker News",
-      "published": "2026-10-12T21:40:18+00:00"
-    },
-    {
-      "headline": "Marina Herlop Embraces the Hero's Journey on 'Dja Dja'",
-      "summary": "Catalan composer Marina Herlop structures her ambitious new electronic album around Joseph Campbell's hero's journey. Crafted across three grueling years of self-imposed creative restrictions, the record blends chamber ensembles, alien funk, and field recordings into a continuous composition. It marks her most expansive and conceptually daring work to date.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/marina-herlop-dja-dja/",
-      "source": "Pitchfork",
-      "published": "2026-10-12T04:03:00+00:00"
-    },
-    {
-      "headline": "Teenage Fanclub Slips Into Doldrums on 'Do Not Dare to Dream'",
-      "summary": "Scottish pop-rock veterans Teenage Fanclub return with a sleepy, low-stakes album that lacks their former creative spark. Without the upbeat energy of former co-founder Gerard Love, the band relies on pleasant but predictable folk-rock formulas. The record moves at a glacial pace, offering little beyond mild melodies and middle-aged melancholy.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/teenage-fanclub-do-not-dare-to-dream/",
-      "source": "Pitchfork",
-      "published": "2026-10-12T04:02:00+00:00"
-    },
-    {
-      "headline": "Deloitte Helped Falsify Documents to Hide Abramovich Wealth, Investigation Reveals",
-      "summary": "Accounting giant Deloitte helped obscure $672 million in assets belonging to sanctioned Russian oligarch Roman Abramovich through falsified documents. A joint investigation by BBC Panorama and the Bureau of Investigative Journalism found the accounts made superyachts, mansions, and jets vanish. Financial experts have labeled the scheme as blatant tax evasion, though Abramovich's lawyers and Deloitte deny wrongdoing.",
+      "headline": "Ukraine's Former General Claims Russian Offensive Might is Shattered",
+      "summary": "Former Ukrainian commander-in-chief Gen. Oleksandr Syrskyi stated in a BBC interview that Kyiv has successfully stabilized the front lines and broken Russia's capacity to advance. Syrskyi noted that Moscow's casualties vastly outnumber Ukraine's, with Russian territorial gains slowing to just 61 square kilometers in early 2026. The remarks follow his departure from the post earlier this summer amid debates over military strategy and troop losses.",
       "category": "World",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c64g1l5389kvo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-12T05:00:52+00:00"
-    },
-    {
-      "headline": "Intel Details D270 Data Center Accelerator With 480 GB Memory",
-      "summary": "Intel has published specifications for its D270 AI accelerator, aimed at high-density data center workloads. The hardware platform integrates up to 480 GB of high-speed LPDDR5X memory to address extensive training and inference memory requirements. Complete architectural details and product configurations are provided in Intel's technical release documentation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "source": "Hacker News",
-      "published": "2026-10-12T21:35:35+00:00"
+      "published": "2026-10-13T05:02:34+00:00"
     },
     {
       "headline": "Allen Levi Explores Friendship and the Origins of 'Theo'",
@@ -201,184 +147,58 @@
       "published": "2026-10-11T04:00:00+00:00"
     },
     {
-      "headline": "Maxime Denuc Transforms Trance Anthems into Pipe Organ Elegies",
-      "summary": "French composer Maxime Denuc uses MIDI-controlled pipe organs to reimagine classic 1990s trance and techno. Inspired by a church wedding featuring his own minimalist music and the ruins of Mediterranean discotheques, he recorded the album inside a Düsseldorf church. The resulting tracks stretch pulsing club arpeggios into hazy, atmospheric soundscapes.",
-      "category": "Music",
+      "headline": "Week 6 Fantasy RB Watchlist: Corum and Robinson Emerge as Value Starts",
+      "summary": "With several starters on bye, the preview flags Michigan’s Blake Corum and Washington’s Brian Robinson as low‑cost RB options who could earn starter‑level points for fantasy owners this week.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/maxime-denuc-club-imperiale/",
-      "source": "Pitchfork",
-      "published": "2026-10-12T04:00:00+00:00"
-    },
-    {
-      "headline": "Moscow Stays Silent on Trump's Energy Truce as State Media Celebrates",
-      "summary": "The Kremlin has declined to formally confirm Donald Trump's surprise announcement of an immediate mutual ceasefire on energy infrastructure between Russia and Ukraine. While Volodymyr Zelensky expressed skepticism over the claim, Russian state outlets quickly framed the proposal as a major tactical victory that would stop damaging Ukrainian drone strikes on domestic refineries. Analysts note the pause would ease fuel supply strains across Russia while shielding Moscow's vital energy sector from further attrition.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T20:17:37+00:00"
-    },
-    {
-      "headline": "Analysis: Trump's global headaches worsen weeks before crucial elections",
-      "summary": "",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T21:07:25+00:00"
-    },
-    {
-      "headline": "SpaceX Expands Spectrum Holdings to Bolster Mobile Strategy",
-      "summary": "SpaceX has acquired additional spectrum as it continues building out its distributed cellular capabilities. Ben Thompson analyzes how Elon Musk's latest telecom maneuvers fit into broader market structures. The move signals a more aggressive and clearly defined long-term wireless strategy for the satellite giant.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
-      "source": "Stratechery",
-      "published": "2026-10-13T10:00:00+00:00"
-    },
-    {
-      "headline": "Ukraine's Former General Claims Russian Offensive Might is Shattered",
-      "summary": "Former Ukrainian commander-in-chief Gen. Oleksandr Syrskyi stated in a BBC interview that Kyiv has successfully stabilized the front lines and broken Russia's capacity to advance. Syrskyi noted that Moscow's casualties vastly outnumber Ukraine's, with Russian territorial gains slowing to just 61 square kilometers in early 2026. The remarks follow his departure from the post earlier this summer amid debates over military strategy and troop losses.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-13T05:02:34.300Z"
-    },
-    {
-      "headline": "Mathematician Critiques OpenAI's Fast Fourier Transform Algorithm",
-      "summary": "Ben Recht evaluates claims from an OpenAI math repository regarding a supposedly faster method for computing Fast Fourier Transforms. The technical critique suggests the approach resembles a clever computational exploit rather than a fundamental mathematical breakthrough. The piece breaks down signal processing principles to analyze the actual mechanics of the algorithm.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "source": "Hacker News",
-      "published": "2026-10-12T14:01:02+00:00"
-    },
-    {
-      "headline": "New Research Shows AI Models Can Conceal Hidden Capabilities",
-      "summary": "A new paper accepted at NeurIPS 2026 demonstrates that advanced AI models can use cryptographic encryption to hide arbitrary capabilities within their weights. These embedded neural circuits remain resistant to fine-tuning, weight noising, and latent adversarial training unless unlocked with a specific secret trigger. The findings expose critical vulnerabilities in current elicitation-based safety audits and capability evaluations.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arxiv.org/abs/2610.13928",
-      "source": "Hacker News",
-      "published": "2026-10-13T02:07:08+00:00"
-    },
-    {
-      "headline": "Rams and Bills Clash in Week 5 MNF Showdown",
-      "summary": "Quarterbacks Matthew Stafford and Josh Allen prepare to face off in a high-stakes Week 5 Monday Night Football game. Bettors and fans are weighing odds and predictions as the Rams host the Bills in prime time.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-6-rb-preview/",
       "source": "CBS Sports",
-      "published": "2026-10-13T00:00:38+00:00"
+      "published": "2026-10-13T16:43:03+00:00"
     },
     {
-      "headline": "Bills and Rams Face Off on Monday Night Football",
-      "summary": "Fantasy football managers and bettors are gearing up for the Monday Night Football matchup between the Buffalo Bills and the Los Angeles Rams. The game features elite quarterback play and crucial lineup decisions for daily fantasy sports participants.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-bills-rams-top-daily-fantasy-football-picks-draftkings-fanduel-lineups-for-monday-night-football/",
+      "headline": "Model Forecast Favors Guardians Over Rays in ALCS Game 2",
+      "summary": "A proprietary betting model projects Cleveland to edge Tampa Bay in the second game of the 2026 ALCS, citing the Guardians’ stronger bullpen and the Rays’ recent pitching fatigue; odds and start time are included.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/guardians-rays-prediction-odds-time-2026-alcs-game-2-picks-bets/",
       "source": "CBS Sports",
-      "published": "2026-10-12T22:54:48+00:00"
+      "published": "2026-10-13T16:33:07+00:00"
     },
     {
-      "headline": "Tracking DJ Moore's Status for Monday Night Football",
-      "summary": "Fantasy football players and sports bettors are closely monitoring wide receiver DJ Moore's availability ahead of the Bills-Rams Monday Night Football game. His active status will significantly impact roster decisions and game projections.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T22:51:33+00:00"
-    },
-    {
-      "headline": "Python 3.15 Debuts Explicit Lazy Imports and Built-In Sampling Profiler",
-      "summary": "The newly released Python 3.15 introduces native lazy imports via PEP 810, allowing developers to defer module loading until symbols are actively referenced and drastically speeding up command-line tool initialization. The release also adds comprehension unpacking syntax alongside Tachyon, a low-overhead sampling profiler designed for real-time performance monitoring. With the update, long-standing Python 3.10 support officially winds down across major ecosystem projects.",
+      "headline": "Apple Unveils HomeView: 7‑Inch Smart Hub Powered by Siri AI",
+      "summary": "Apple introduced HomeView, a 7‑inch Liquid Retina display that uses Apple Intelligence and face‑recognition to deliver personalized content, voice‑controlled smart‑home actions and private Siri AI, with pre‑orders today and shipping Nov 13.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
-      "source": "Simon Willison",
-      "published": "2026-10-12T18:15:38+00:00"
+      "relevance": 8,
+      "url": "https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/",
+      "source": "Daring Fireball",
+      "published": "2026-10-13T14:52:24+00:00"
     },
     {
-      "headline": "Kaitlyn Aurelia Smith Dives Into Drum and Bass on 'RUIN'",
-      "summary": "Experimental musician Kaitlyn Aurelia Smith shifts away from her signature ambient and New Age sounds with her latest album. Inspired by an online threat, the record leans heavily into jungle breakbeats and festival EDM. While the energetic pivot showcases fresh ambition, critics note the execution occasionally stumbles.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/kaitlyn-aurelia-smith-ruin-its-not-just-music/",
-      "source": "Pitchfork",
-      "published": "2026-10-12T04:01:00+00:00"
-    },
-    {
-      "headline": "Russia Strikes Ukrainian Energy Sites Despite Claimed Ceasefire",
-      "summary": "Russian forces hit six Ukrainian energy facilities and residential infrastructure just hours after President Trump announced an immediate energy ceasefire. Ukrainian President Volodymyr Zelensky condemned the attacks, which caused blackouts and injuries, as proof that Moscow has no intention of honoring a truce.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T21:20:51+00:00"
-    },
-    {
-      "headline": "Saudi Energy Minister Vows Severe Retaliation After Houthi Airport Strikes",
-      "summary": "Prince Abdul Aziz bin Salman promised a serious military response following Houthi drone and missile strikes that hit Saudi Arabian airports and energy infrastructure, killing multiple civilians over the past week. The latest attacks struck terminals at Riyadh's King Khalid International Airport and Dammam's King Fahd International Airport, prompting heightened security and regional escalation. The Houthis stated the strikes were retaliation for ongoing coalition air campaigns in Yemen.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-13T04:30:09+00:00"
-    },
-    {
-      "headline": "U.S. Arrests Colombian Fugitive Tied to Multi-Billion Venezuelan Welfare Scam",
-      "summary": "U.S. federal authorities detained 62-year-old Colombian national Álvaro Pulido on two federal indictments alleging he helped launder over $2 billion syphoned from Venezuelan food and medicine welfare contracts. Pulido's arrest follows the recent guilty plea of co-conspirator Alex Saab, coming in the wake of leadership shifts in Caracas.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/crp3gy0x0dd1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T13:49:05+00:00"
-    },
-    {
-      "headline": "Trump Faces Bipartisan Backlash Over Russian Diesel Import Deal",
-      "summary": "President Trump is drawing sharp criticism from both Republican and Democratic lawmakers for agreeing to import millions of tonnes of Russian diesel. Critics argue the pact violates US sanctions and provides Vladimir Putin with a financial lifeline amid the ongoing war in Ukraine. In exchange, Moscow is set to supply an initial 300,000 tonnes of fuel to help lower domestic energy prices.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-11T23:18:45+00:00"
-    },
-    {
-      "headline": "BBC Investigation Finds Kenyan Police Shot Uninvolved Mourners at Odinga Memorial",
-      "summary": "Forensic analysis by the BBC reveals that three mourners killed by police gunfire during former Prime Minister Raila Odinga's national farewell were miles away from active scuffles. While the interior minister defended the police response as restrained under heavy pressure, the victims' families await accountability. The Independent Policing Oversight Authority is still investigating the incident a year later.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-11T23:13:20+00:00"
-    },
-    {
-      "headline": "US Military Revival of Firing Squads Spotlights Execution Debate",
-      "summary": "Defense Secretary Pete Hegseth announced that the military will livestream the firing squad execution of Nidal Hasan, marking the Army's first use of the method since 1945. This decision coincides with a broader shift back to older execution methods as high-profile lethal injection failures fuel legal and medical concerns over botched capital punishment.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T14:56:43+00:00"
-    },
-    {
-      "headline": "Trump Announces Energy Ceasefire, But Moscow Tests Resolve",
-      "summary": "US President Donald Trump declared an immediate energy ceasefire between Ukraine and Russia over the weekend. Ukrainian President Volodymyr Zelensky expressed willingness to comply if Moscow follows suit, but noted that a power plant in Kharkiv was struck almost immediately afterward. The tentative deal aims to spare civilians freezing winter blackouts, though Russia has yet to officially confirm its agreement.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T15:51:30+00:00"
-    },
-    {
-      "headline": "Critical 11-Year-Old Soundness Bug Discovered in Rust Borrow Checker",
-      "summary": "A long-standing soundness flaw in the Rust programming language allows developers to bypass struct lifetime requirements via covariant field assignment. The newly identified bug affects current nightly builds as well as stable versions down to 1.85.0. When exploited, the issue can cause memory safety violations and lead to program crashes under AddressSanitizer.",
+      "headline": "Anthropic Builds Scion to Handle 30 K Daily Merges",
+      "summary": "Facing a ten‑fold rise in code merges—from 2,500 to over 30,000 per day—Anthropic replaced Git with an in‑house version‑control system called Scion, completing the migration in five months and adding custom review and search tools.",
       "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "relevance": 8,
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
       "source": "Hacker News",
-      "published": "2026-10-13T10:27:00+00:00"
+      "published": "2026-10-13T00:00:00.000Z"
+    },
+    {
+      "headline": "‘Your Game Is a Harness’: Using LLMs for Real‑World Game Development",
+      "summary": "Kyle Kukshtel’s talk outlines practical ways to integrate large language models into daily game‑dev workflows, sharing his own experiments building a mood‑boarding site and emphasizing human‑authored code over one‑off demos.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+      "source": "Hacker News",
+      "published": "2026-10-13T14:14:23+00:00"
+    },
+    {
+      "headline": "Apple TV 4K Gets Siri AI Upgrade and Full‑Screen Voice Interaction",
+      "summary": "The new Apple TV 4K launches with a conversational Siri AI, far‑field microphones, faster chips and optional HomePod mini 2 surround sound, plus enhanced HomeKit controls; pre‑orders start now, shipping Nov 13.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+      "source": "Hacker News",
+      "published": "2026-10-13Z"
     },
     {
       "headline": "Jess Williamson Embraces Outlaw Country on 'A Mile South of Heaven'",
@@ -390,31 +210,85 @@
       "published": "2026-10-13T05:54:08+00:00"
     },
     {
-      "headline": "Prisco's Week 6 NFL Power Rankings: 49ers Claim Top Spot as Packers Surge",
-      "summary": "CBS Sports has released its Week 6 NFL power rankings, placing the San Francisco 49ers at the summit as the league's best team. Meanwhile, the Green Bay Packers made a massive leap, climbing ten spots following their latest performances.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/priscos-nfl-week-6-power-rankings-49ers-packers/",
-      "source": "CBS Sports",
-      "published": "2026-10-13T09:00:45+00:00"
-    },
-    {
-      "headline": "SolidCraft Brings Open-Source Parametric CAD to Rust with MCP Support",
-      "summary": "SolidCraft is a new open-source 3D parametric CAD application written entirely in Rust, featuring desktop, web, and automation support via Model Context Protocol (MCP). Users can sketch, constrain, and modify dimensions with a feature timeline that automatically rebuilds models on the fly.",
+      "headline": "Python 3.15 Debuts Explicit Lazy Imports and Built-In Sampling Profiler",
+      "summary": "The newly released Python 3.15 introduces native lazy imports via PEP 810, allowing developers to defer module loading until symbols are actively referenced and drastically speeding up command-line tool initialization. The release also adds comprehension unpacking syntax alongside Tachyon, a low-overhead sampling profiler designed for real-time performance monitoring. With the update, long-standing Python 3.10 support officially winds down across major ecosystem projects.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://github.com/bherbruck/solidcraft",
-      "source": "Hacker News",
-      "published": "2026-10-13T00:11:04+00:00"
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "source": "Simon Willison",
+      "published": "2026-10-12T18:15:38+00:00"
     },
     {
-      "headline": "College Football Programs Brace for Major Drop-Off in 2026",
-      "summary": "Several prominent college football programs, including Oregon and Texas A&M, are projected to experience significant regression by the 2026 season. Analysts are pointing to roster turnover and heightened competition as key drivers for the expected downturn. Teams will need to rebuild effectively to avoid falling short of historical expectations.",
+      "headline": "Critical 11-Year-Old Soundness Bug Discovered in Rust Borrow Checker",
+      "summary": "A long-standing soundness flaw in the Rust programming language allows developers to bypass struct lifetime requirements via covariant field assignment. The newly identified bug affects current nightly builds as well as stable versions down to 1.85.0. When exploited, the issue can cause memory safety violations and lead to program crashes under AddressSanitizer.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "source": "Hacker News",
+      "published": "2026-10-13T10:27:00+00:00"
+    },
+    {
+      "headline": "Russia Strikes Ukrainian Energy Sites Despite Claimed Ceasefire",
+      "summary": "Russian forces hit six Ukrainian energy facilities and residential infrastructure just hours after President Trump announced an immediate energy ceasefire. Ukrainian President Volodymyr Zelensky condemned the attacks, which caused blackouts and injuries, as proof that Moscow has no intention of honoring a truce.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-12T21:20:51+00:00"
+    },
+    {
+      "headline": "Trump Announces Energy Ceasefire, But Moscow Tests Resolve",
+      "summary": "US President Donald Trump declared an immediate energy ceasefire between Ukraine and Russia over the weekend. Ukrainian President Volodymyr Zelensky expressed willingness to comply if Moscow follows suit, but noted that a power plant in Kharkiv was struck almost immediately afterward. The tentative deal aims to spare civilians freezing winter blackouts, though Russia has yet to officially confirm its agreement.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-12T15:51:30+00:00"
+    },
+    {
+      "headline": "Fernandes’ Form: Star Performer or Symptom of United’s Woes?",
+      "summary": "After a record‑tying 2025‑26 season (9 goals, 21 assists), Bruno Fernandes has logged 3 goals and 1 assist in six league games this term, with low shot‑on‑target rates, prompting debate over his impact on Manchester United’s current slump.",
       "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/college-football/news/oregon-texas-a-m-college-football-teams-regression-2026/",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-13T05:47:49.435Z"
+    },
+    {
+      "headline": "Consus Secures FedRAMP High and ITAR Compliance for Secure AI",
+      "summary": "Startup Consus offers an AI inference gateway that meets the U.S. government’s strict FedRAMP High baseline and ITAR rules, enabling aerospace and defense firms to safely route sensitive data to models like ChatGPT or Claude.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "source": "Hacker News",
+      "published": "2026-10-13T15:41:00+00:00"
+    },
+    {
+      "headline": "US Women’s Team Schedules Friendlies vs. World‑Number‑One Spain Ahead of World Cup",
+      "summary": "Coach Emma Hayes has arranged two exhibition matches against Spain to sharpen the United States squad, emphasizing that training against the top‑ranked side is essential preparation for the 2026 FIFA Women’s World Cup in Brazil.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5992892/usa-prepares-for-womens-world-cup-with-matches-against-top-team-spain",
+      "source": "NPR News",
+      "published": "2026-10-13T04:44:08-04:00"
+    },
+    {
+      "headline": "Luis Enrique Maps Out Long-Term Plan to Keep PSG at the Top",
+      "summary": "Paris St-Germain manager Luis Enrique is implementing strict continuity measures to prevent complacency as the club targets a historic third consecutive Champions League title. Alongside his newly extended contract through 2030, key players like Joao Neves and Fabian Ruiz have also signed long-term deals to cement the club's core project. Backed by an unchanged technical staff and enhanced squad depth, Enrique aims to sustain the club's dominance across all competitions.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-13T06:34:33.630Z"
+    },
+    {
+      "headline": "Delaware vs. MTSU Week 7 College Football Picks",
+      "summary": "A proven predictive model has released its betting odds, picks, and predictions for the upcoming Tuesday night college football matchup between Delaware and MTSU. Fans and bettors can access specialized analytics and expert insights ahead of Week 7 action. The detailed preview provides essential data points for navigating the betting landscape on this standalone game.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/delaware-mtsu-prediction-odds-week-7-college-football-tuesday-picks-best-bets/",
       "source": "CBS Sports",
-      "published": "2026-10-12T20:39:24+00:00"
+      "published": "2026-10-13T16:30:44+00:00"
     },
     {
       "headline": "Scotland Ends Decades-Long Stadium Alcohol Ban for World Cup Play-Off",
@@ -432,25 +306,151 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-10-13T08:12:53.332Z"
+      "published": "2026-10-13T08:12:53+00:00"
     },
     {
-      "headline": "NFL Week 6 Predictions: Seahawks, Cowboys Highlight Bold Score Projections",
-      "summary": "CBS Sports released its Week 6 NFL game picks and score predictions, forecasting a blowout win for the Seahawks over the Broncos. Other notable projections include another loss for the Eagles and a stunning upset victory by the Cowboys over the Packers.",
-      "category": "NFL",
+      "headline": "Deafheaven Surprises with Symphonic Black Metal EP",
+      "summary": "On their unexpected new release, At Work in the Fields of the Bomb, Deafheaven combines their trademark aggressive blastbeats with dramatic, gothic choral synths. The three-track EP steps away from their recent shoegaze excursions to lean heavily into mid-90s symphonic black metal aesthetics. This darker direction blends raw fury with a surprisingly polished, theatrical grandeur.",
+      "category": "Music",
       "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/breech-nfl-week-6-picks-score-predictions-odds/",
-      "source": "CBS Sports",
-      "published": "2026-10-13T10:00:55+00:00"
+      "url": "https://pitchfork.com/reviews/albums/deafheaven-at-work-in-the-fields-of-the-bomb-ep/",
+      "source": "Pitchfork",
+      "published": "2026-10-13T04:02:00+00:00"
     },
     {
-      "headline": "New Tool Lets Users Turn PDFs into Audiobooks Using Existing AI Subscriptions",
-      "summary": "A new service allows users to leverage their existing AI subscriptions—like OpenAI or Claude—via an MCP server to process documents into audiobooks. While document processing is covered by the user's current AI plan, speech generation requires connecting a separate API key from providers like OpenAI or Gemini.",
+      "headline": "Space Afrika Returns with Classical-Leaning Ambient Album",
+      "summary": "British ambient duo Space Afrika has released Quiet Storm, an introspective album born from the score of a surreal short film set in Manchester. Shifting away from heavy dub loops, the new record weaves lush layers of double bass, violin, harp, and piano. The result is a deeply atmospheric collection that uses classical instrumentation to evoke personal grief, revelry, and urban chaos.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/space-afrika-quiet-storm/",
+      "source": "Pitchfork",
+      "published": "2026-10-13T04:01:00+00:00"
+    },
+    {
+      "headline": "Google Introduces Gemini 4 Argon for Advanced Robotics",
+      "summary": "Google has announced Gemini 4 Argon, a new general-purpose physical reasoning model that achieves an 87% score on the Embodied Reasoning benchmark. Designed to accelerate progress toward physical AGI, Argon improves mobile manipulation, code generation, and visual-semantic reasoning across the robotics stack. Practical applications include controlling Boston Dynamics Spot robots to perform complex physical tasks using MuJoCo digital twins.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://pdftomp3.com/connect-ai/",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
       "source": "Hacker News",
-      "published": "2026-10-13T10:08:34+00:00"
+      "published": "2026-10-13"
+    },
+    {
+      "headline": "Taliban Suspends BBC FM Radio Transmissions in Afghanistan",
+      "summary": "Afghanistan's Taliban government has halted BBC radio broadcasts across the country, citing unspecified repeated violations by the broadcaster. The BBC, which reaches over 20% of the adult population weekly including girls barred from secondary schools, vowed to continue digital, satellite, and shortwave transmissions. This move further tightens the regime's stringent grip on domestic media operations.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-13T12:13:57.537Z"
+    },
+    {
+      "headline": "Hungarian Parliament Scrapes Orbán's Anti-LGBTQ Laws",
+      "summary": "Hungary's parliament has voted to amend child protection laws by dismantling controversial 2021 legislation that stigmatized gay and transgender people. The reform, pushed by Prime Minister Péter Magyar's Tisza party, immediately prompted the European Commission to unlock €4.2 billion in previously frozen EU funds. Human rights activists praised the repeal of the measures, which had heavily impacted education and public assembly.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-13T13:23:45.107Z"
+    },
+    {
+      "headline": "Developer's Website Hit by Massive AI Bot Traffic After Hacker News Post",
+      "summary": "After sharing his customizable feed reader project on Hacker News, a developer noticed his single-page application experiencing severe and persistent slowdowns. Server log analysis revealed that the high load was caused by a flood of aggressive AI scraping bots rather than human traffic. A majority of these automated requests bypassed JavaScript entirely, ignoring actual news articles to scrape backend endpoints.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "source": "Hacker News",
+      "published": "2026-10-13T15:25:50+00:00"
+    },
+    {
+      "headline": "Super El Niño Reaches Unprecedented Levels Ahead of Peak",
+      "summary": "Australia's Bureau of Meteorology reports that average weekly sea-surface temperatures in the central Pacific have hit record highs amid an intensifying Super El Niño. Driven by both natural cycles and human-induced climate change, current ocean temperatures have surpassed previous records set during the strong 2015 event. Scientists warn that the ongoing phenomenon is unprecedented in the historical weather record.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-13T11:18:44.877Z"
+    },
+    {
+      "headline": "Ex-President Joseph Kabila Named Leader of New DR Congo Rebel Coalition",
+      "summary": "Former Congolese President Joseph Kabila has surfaced as the leader of the Front for the Refoundation of the Nation, a new rebel coalition aiming to oust the government by force. The group's leadership was announced in Goma alongside M23 figures, marking Kabila's explicit alignment with armed movements following his 2025 treason sentencing in absentia. Kabila recently criticized President Félix Tshisekedi's administration for economic mismanagement and security failures.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-13T08:21:16.729Z"
+    },
+    {
+      "headline": "Experts say Zelensky’s claim that Ukrainian strikes cripple Russian bot networks is unsubstantiated",
+      "summary": "Ukraine has hit three of Yandex’s five data centres since early October, but Cloudflare data shows the dip in automated requests isn’t necessarily social‑media bots. Researchers say there’s no clear evidence the attacks have weakened Kremlin‑linked disinformation operations.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-13T13:27:31.595Z"
+    },
+    {
+      "headline": "Rams cut Harrison Mevis after Bills loss, add former Jets practice‑squad kicker",
+      "summary": "Following a 38‑7 defeat to Buffalo, the Los Angeles Rams released veteran placekicker Harrison Mevis and promptly signed New York Jets practice‑squad kicker Blake Grupe to compete for the job.",
+      "category": "NFL",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/nfl/news/rams-release-kicker-harrison-mevis-sign-jets-blake-grupe/",
+      "source": "CBS Sports",
+      "published": "2026-10-13T17:59:17+00:00"
+    },
+    {
+      "headline": "Geoffrey Huntley warns static OAuth scopes won’t stop AI agents, pushes pre‑commit safeguards",
+      "summary": "In a Simon Willison newsletter, Huntley argues AI coding agents can bypass security by calling observability modules directly, so he enforces a pre‑commit hook that blocks such calls and forces agents to use a diagnostics library, claiming it dramatically improves compliance.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://simonwillison.net/2026/Oct/13/geoffrey-huntley/",
+      "source": "Simon Willison",
+      "published": "2026-10-13T13:32:00+00:00"
+    },
+    {
+      "headline": "IFR chair David Kogan says he’ll resign if political pressure threatens Manchester City case",
+      "summary": "The head of England’s Independent Football Regulator warned he would step down if the government tried to influence the probe into City’s alleged financial rule breaches, after Prime Minister Andy Burnham’s comments about the club’s Abu Dhabi owners raised concerns about political interference.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-13T16:00:18.384Z"
+    },
+    {
+      "headline": "Tech journalist Robert X. Cringely, a.k.a. Mark Stephens, dies at 73",
+      "summary": "Mary Alyce Stephens announced on Cringely’s Facebook page that her husband, the longtime technology writer known as Robert X. Cringely, has passed away, and the family asked that no donations be made while providing a link to his obituary.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://www.facebook.com/story.php?story_fbid=pfbid0YbCLrAJfBirAWuPBy4a7pauaQ6gHkAPUwtbzyg2wAjeMcruFC7dWUZKQJKkNChP9l&id=536506060&_rdr",
+      "source": "Daring Fireball",
+      "published": "2026-10-12T16:43:46+00:00"
+    },
+    {
+      "headline": "Independent regulator warns 94% of English clubs operating at loss, many on brink of insolvency",
+      "summary": "The IFR’s “State of the Game” report finds almost all clubs in the top five tiers posted losses in 2025‑26, with over 60% of lower‑league teams technically insolvent and a third unable to survive more than a month without fresh owner funding, prompting calls for urgent reforms.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vgx70pzq1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-13T16:00:11.030Z"
+    },
+    {
+      "headline": "MLB playoffs won’t settle salary‑cap debate, analysts say",
+      "summary": "Experts argue that the upcoming postseason, featuring small‑market teams versus wealthy clubs, won’t resolve the long‑standing dispute over a baseball salary cap, as both owners and players are likely to spin the outcomes to back their preferred collective‑bargaining positions.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/mlb/news/mlb-playoffs-salary-cap-cba-negotations-david-goliath/",
+      "source": "CBS Sports",
+      "published": "2026-10-13T17:26:30+00:00"
+    },
+    {
+      "headline": "Massachusetts ballot could force towns to allow smaller, affordable homes",
+      "summary": "A statewide referendum will let voters decide whether municipalities must permit houses on reduced lot sizes, a measure aimed at easing the state’s severe housing shortage and high prices, with advocates citing rising debt and limited supply as drivers.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/10/13/nx-s1-5979839/massachusetts-starter-homes-ballot-affordability",
+      "source": "NPR News",
+      "published": "2026-10-13T05:00:00-04:00"
     }
   ]
 }
