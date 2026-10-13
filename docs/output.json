@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:04:54.495780+00:00",
+  "generated_at": "2026-10-13T03:31:59.931727+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,31 +57,22 @@
       "published": "2026-09-30T14:42:19+00:00"
     },
     {
-      "headline": "MKBHD Team Highlights Bizarre Gadgets Worth Testing",
-      "summary": "The Studio crew evaluates unconventional, experimental consumer tech to see which oddities actually merit real-world use. The discussion sifts through eccentric product designs to highlight fringe innovations that offer genuine practical promise.",
-      "category": "YouTube",
+      "headline": "Northwestern Leans on Elite Robber Coverage in Fast 4-1 Start",
+      "summary": "Northwestern has reached a 4-1 start under head coach David Braun largely by suffocating mid-range passing downs with their signature Robber package. Defensive coordinator Tim McGarigle rarely blitzes, instead tasking safeties with reading the seams from outside leverage to force low-percentage throws to the perimeter. Against opponents like Indiana and Penn State, the scheme has produced an exceptional -.575 EPA per play and limited completions to just 21%.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://www.youtube.com/shorts/Q7MpFTrT9Gk",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-09-24T18:12:11+00:00"
+      "url": "https://www.matchquarters.com/p/northwesterns-robber-package",
+      "source": "MatchQuarters",
+      "published": "2026-10-12T10:03:30+00:00"
     },
     {
-      "headline": "MKBHD Crew Flags Gimmicky Gadgets to Skip",
-      "summary": "The Studio team outlines consumer devices and emerging hardware trends they refuse to adopt in their daily workflows. The breakdown focuses on weeding out overhyped features, impractical designs, and tech that fails to justify its existence.",
-      "category": "YouTube",
+      "headline": "Open-Source Janas Engine Runs Oversized LLMs Directly From SSD",
+      "summary": "The newly released Janas inference framework allows local machines to run large language models that exceed available system memory by streaming experts directly from fast solid-state drives. In benchmark tests on a 32 GB laptop, the pure C engine generated 24 tokens per second on a 48.4 GB Qwen3 model, compared to just 2.8 tokens per second using llama.cpp. The project posted speedups across all 13 quantized models tested, operating without requiring dedicated GPU capacity.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.youtube.com/shorts/pjovhZ7HkNs",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-09-17T16:53:05+00:00"
-    },
-    {
-      "headline": "Inside Apple's Exclusive Private Briefings",
-      "summary": "The Studio pulls back the curtain on the strictly managed environment of Apple's in-person press events. The behind-the-scenes look examines what takes place during closed-door briefings and hands-on sessions away from the public keynote stage.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/shorts/3F9M1ttIIbU",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-09-14T18:32:10+00:00"
+      "url": "https://github.com/prabanta-dev/janas",
+      "source": "Hacker News",
+      "published": "2026-10-12T22:05:43+00:00"
     },
     {
       "headline": "Basketball Intelligence For 10/12/26",
@@ -102,6 +93,15 @@
       "published": "2026-10-11T17:24:33+00:00"
     },
     {
+      "headline": "Cowboys Add Mike Pettine to Defensive Staff",
+      "summary": "The Dallas Cowboys have brought in former NFL head coach and Green Bay Packers defensive coordinator Mike Pettine. The veteran coach joins Brian Schottenheimer's staff in an effort to turn around the team's struggling defense.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
+      "source": "CBS Sports",
+      "published": "2026-10-12T21:37:59+00:00"
+    },
+    {
       "headline": "Evaluating Week 5 Fallout Ahead of Bills-Rams Clash",
       "summary": "The weekly NFL review hands out report cards for Week 5's biggest winners and losers while evaluating trade value for Marvin Harrison Jr. The preview concludes with keys to the matchup and predictions for Monday night's showdown between Buffalo and Los Angeles.",
       "category": "NFL",
@@ -118,6 +118,15 @@
       "url": "https://www.macrumors.com/2026/10/08/apple-now-pushing-ios-27/",
       "source": "Daring Fireball",
       "published": "2026-10-11T19:02:38+00:00"
+    },
+    {
+      "headline": "AI Is a Tool That Requires Operator Skill",
+      "summary": "While some argue LLMs are mere automation rather than wieldable tools, that distinction fails to account for human direction. Operating AI effectively demands the same expertise, judgment, and feedback loops required to use traditional instruments like compilers or saws.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:40:18+00:00"
     },
     {
       "headline": "Marina Herlop Embraces the Hero's Journey on 'Dja Dja'",
@@ -201,40 +210,103 @@
       "published": "2026-10-11T17:27:24+00:00"
     },
     {
-      "headline": "Cowboys Add Mike Pettine to Defensive Staff",
-      "summary": "The Dallas Cowboys have brought in former NFL head coach and Green Bay Packers defensive coordinator Mike Pettine. The veteran coach joins Brian Schottenheimer's staff in an effort to turn around the team's struggling defense.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/cowboys-hire-mike-pettine-to-help-defense-christian-parker/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T21:37:59+00:00"
-    },
-    {
-      "headline": "AI Is a Tool That Requires Operator Skill",
-      "summary": "While some argue LLMs are mere automation rather than wieldable tools, that distinction fails to account for human direction. Operating AI effectively demands the same expertise, judgment, and feedback loops required to use traditional instruments like compilers or saws.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-      "source": "Hacker News",
-      "published": "2026-10-12"
-    },
-    {
-      "headline": "Study Finds AI Coding Agents Create Code Bottlenecks",
-      "summary": "A massive Harvard study analyzing millions of work events across hundreds of software firms reveals that AI coding assistants generate plenty of code without boosting overall software output. The efficiency gained during initial coding is largely erased by the heavy human review process required to fix mistakes and handle revisions.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-      "source": "Hacker News",
-      "published": "2026-10-09T19:43:50+00:00"
-    },
-    {
       "headline": "Analysis: Trump's global headaches worsen weeks before crucial elections",
       "summary": "",
       "category": "World",
       "relevance": 8,
       "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-12T21:07:25.610Z"
+      "published": "2026-10-12T21:07:25+00:00"
+    },
+    {
+      "headline": "SEC Implements Standardized NIL Contracts Across Member Programs",
+      "summary": "The Southeastern Conference has adopted uniform name, image, and likeness contracts for student-athletes across its athletic programs. The policy marks the league's latest step toward establishing internal governance and consistent standards within collegiate sports compensation. Further procedural details remain scarce as conferences push to regulate the shifting college athletics landscape.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/college-football/news/sec-standardized-nil-contracts-self-governance/",
+      "source": "CBS Sports",
+      "published": "2026-10-12T23:43:38+00:00"
+    },
+    {
+      "headline": "Moscow Stays Silent on Trump's Energy Truce as State Media Celebrates",
+      "summary": "The Kremlin has declined to formally confirm Donald Trump's surprise announcement of an immediate mutual ceasefire on energy infrastructure between Russia and Ukraine. While Volodymyr Zelensky expressed skepticism over the claim, Russian state outlets quickly framed the proposal as a major tactical victory that would stop damaging Ukrainian drone strikes on domestic refineries. Analysts note the pause would ease fuel supply strains across Russia while shielding Moscow's vital energy sector from further attrition.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-12T20:17:37.540Z"
+    },
+    {
+      "headline": "China Reportedly Surpassed the US in Total R&D Spending in 2024",
+      "summary": "China has overtaken the United States in overall research and development expenditures for the first time, according to data from 2024. The milestone highlights a continuing shift in global scientific and technological investment toward Chinese institutions and enterprises. Detailed sector-specific figures and historical context are examined in the referenced report.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "source": "Hacker News",
+      "published": "2026-10-13T02:25:00+00:00"
+    },
+    {
+      "headline": "Anthropic Slashes Capability Harvesting by Up to 99% With New Defenses",
+      "summary": "Anthropic revealed that newly deployed countermeasures have reduced unauthorized model distillation of Claude by 90% to 99%. The company warned that foreign developers, including Chinese firms like Zhipu and Moonshot, have routinely used coordinated fake account networks to replicate proprietary model features and bypass security safeguards. In several tracked instances, distilled model weights were stripped of safety guardrails and adapted for cyber exploit generation or integrated into foreign military surveillance pipelines.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.anthropic.com/research/distillation-defenses",
+      "source": "Hacker News",
+      "published": "2026-10-12T09:30:00.000Z"
+    },
+    {
+      "headline": "Elderly Donor Blood Cells Reprogrammed Into Youthful Stem Cells",
+      "summary": "A new research study demonstrates that blood cells collected from an 80-year-old donor were reprogrammed into stem cells exhibiting a molecular age under 20. The findings point to potential avenues for reversing cellular aging through epigenetic resetting techniques. Complete experimental protocols and biological markers are detailed in the published paper.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://doi.org/10.1111/acel.70751",
+      "source": "Hacker News",
+      "published": "2026-10-12T23:34:22+00:00"
+    },
+    {
+      "headline": "Experimental DAW Blokkily Combines Tracker Workflows With AI Integration",
+      "summary": "Blokkily is an experimental open-source digital audio workstation that lets producers compose synchronized musical patterns across a tracker, piano roll, or step sequencer. Built in C++ with Qt, the software supports CLAP and VST3 plugin architectures alongside custom generative instruments. It also incorporates native Model Context Protocol support, allowing external AI assistants to manipulate arrangement structures and generate music live inside the session.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/andrewfader/blokkily",
+      "source": "Hacker News",
+      "published": "2026-10-12T23:21:12+00:00"
+    },
+    {
+      "headline": "Intel Details D270 Data Center Accelerator With 480 GB Memory",
+      "summary": "Intel has published specifications for its D270 AI accelerator, aimed at high-density data center workloads. The hardware platform integrates up to 480 GB of high-speed LPDDR5X memory to address extensive training and inference memory requirements. Complete architectural details and product configurations are provided in Intel's technical release documentation.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "source": "Hacker News",
+      "published": "2026-10-12T21:35:35+00:00"
+    },
+    {
+      "headline": "Rams and Bills Clash in Week 5 MNF Showdown",
+      "summary": "Quarterbacks Matthew Stafford and Josh Allen prepare to face off in a high-stakes Week 5 Monday Night Football game. Bettors and fans are weighing odds and predictions as the Rams host the Bills in prime time.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
+      "source": "CBS Sports",
+      "published": "2026-10-13T00:00:38+00:00"
+    },
+    {
+      "headline": "Bills and Rams Face Off on Monday Night Football",
+      "summary": "Fantasy football managers and bettors are gearing up for the Monday Night Football matchup between the Buffalo Bills and the Los Angeles Rams. The game features elite quarterback play and crucial lineup decisions for daily fantasy sports participants.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/nfl-dfs-bills-rams-top-daily-fantasy-football-picks-draftkings-fanduel-lineups-for-monday-night-football/",
+      "source": "CBS Sports",
+      "published": "2026-10-12T22:54:48+00:00"
+    },
+    {
+      "headline": "Tracking DJ Moore's Status for Monday Night Football",
+      "summary": "Fantasy football players and sports bettors are closely monitoring wide receiver DJ Moore's availability ahead of the Bills-Rams Monday Night Football game. His active status will significantly impact roster decisions and game projections.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
+      "source": "CBS Sports",
+      "published": "2026-10-12T22:51:33+00:00"
     },
     {
       "headline": "Kaitlyn Aurelia Smith Dives Into Drum and Bass on 'RUIN'",
@@ -246,13 +318,22 @@
       "published": "2026-10-12T04:01:00+00:00"
     },
     {
+      "headline": "Russia Strikes Ukrainian Energy Sites Despite Claimed Ceasefire",
+      "summary": "Russian forces hit six Ukrainian energy facilities and residential infrastructure just hours after President Trump announced an immediate energy ceasefire. Ukrainian President Volodymyr Zelensky condemned the attacks, which caused blackouts and injuries, as proof that Moscow has no intention of honoring a truce.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-12T21:20:51+00:00"
+    },
+    {
       "headline": "Saudi Energy Minister Vows Severe Retaliation After Houthi Airport Strikes",
       "summary": "Prince Abdul Aziz bin Salman promised a serious military response following Houthi drone and missile strikes that hit Saudi Arabian airports and energy infrastructure, killing multiple civilians over the past week. The latest attacks struck terminals at Riyadh's King Khalid International Airport and Dammam's King Fahd International Airport, prompting heightened security and regional escalation. The Houthis stated the strikes were retaliation for ongoing coalition air campaigns in Yemen.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-12T20:54:09+00:00"
+      "published": "2026-10-13T01:26:02+00:00"
     },
     {
       "headline": "U.S. Arrests Colombian Fugitive Tied to Multi-Billion Venezuelan Welfare Scam",
@@ -282,22 +363,13 @@
       "published": "2026-10-11T23:13:20+00:00"
     },
     {
-      "headline": "Poland PM Blames Online Extremism for Spate of School Attacks",
-      "summary": "Polish Prime Minister Donald Tusk attributes a sudden wave of violent school stabbings to the online glorification of mass killers and far-right extremism. The attacks, which resulted in the death of a school caretaker and multiple injuries, prompted police to arrest over 117 individuals for weapon possession and threats. Authorities have stepped up security patrols nationwide to calm public fears.",
+      "headline": "US Military Revival of Firing Squads Spotlights Execution Debate",
+      "summary": "Defense Secretary Pete Hegseth announced that the military will livestream the firing squad execution of Nidal Hasan, marking the Army's first use of the method since 1945. This decision coincides with a broader shift back to older execution methods as high-profile lethal injection failures fuel legal and medical concerns over botched capital punishment.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/ckp8gyd65z2go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-11T15:18:52+00:00"
-    },
-    {
-      "headline": "Ukrainian Drone Strike Shuts Down Yandex Data Center",
-      "summary": "A Ukrainian drone strike forced Yandex to suspend operations at its data center in Vladimir, marking the third attack on the Russian tech giant's infrastructure in a single week. The facility damage disrupted several core services, including smart home devices and the company's AI chatbot, as both nations escalate attacks on critical infrastructure.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-11T14:38:10+00:00"
+      "published": "2026-10-12T14:56:43+00:00"
     },
     {
       "headline": "Riyadh Airport Attacks Mark Dangerous Escalation in Regional Conflict",
@@ -307,6 +379,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-11T15:32:32+00:00"
+    },
+    {
+      "headline": "Trump Announces Energy Ceasefire, But Moscow Tests Resolve",
+      "summary": "US President Donald Trump declared an immediate energy ceasefire between Ukraine and Russia over the weekend. Ukrainian President Volodymyr Zelensky expressed willingness to comply if Moscow follows suit, but noted that a power plant in Kharkiv was struck almost immediately afterward. The tentative deal aims to spare civilians freezing winter blackouts, though Russia has yet to officially confirm its agreement.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-12T15:51:30+00:00"
     },
     {
       "headline": "Indian Opposition Marches to Supreme Court Over Massive Voter List Purge",
@@ -336,103 +417,22 @@
       "published": "2026-10-12T08:35:16+00:00"
     },
     {
-      "headline": "Bills and Rams Face Off on Monday Night Football",
-      "summary": "Fantasy football managers and bettors are gearing up for the Monday Night Football matchup between the Buffalo Bills and the Los Angeles Rams. The game features elite quarterback play and crucial lineup decisions for daily fantasy sports participants.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-bills-rams-top-daily-fantasy-football-picks-draftkings-fanduel-lineups-for-monday-night-football/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T22:54:48+00:00"
-    },
-    {
-      "headline": "Tracking DJ Moore's Status for Monday Night Football",
-      "summary": "Fantasy football players and sports bettors are closely monitoring wide receiver DJ Moore's availability ahead of the Bills-Rams Monday Night Football game. His active status will significantly impact roster decisions and game projections.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/is-dj-moore-playing-on-mnf-bills-wrs-status-vs-rams/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T22:51:33+00:00"
-    },
-    {
-      "headline": "Russia Strikes Ukrainian Energy Sites Despite Claimed Ceasefire",
-      "summary": "Russian forces hit six Ukrainian energy facilities and residential infrastructure just hours after President Trump announced an immediate energy ceasefire. Ukrainian President Volodymyr Zelensky condemned the attacks, which caused blackouts and injuries, as proof that Moscow has no intention of honoring a truce.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T07:56:10.003Z"
-    },
-    {
-      "headline": "Rich Hickey Argues AI Does Not Qualify as a Tool",
-      "summary": "Tech commentator Rich Hickey contends that large language models lack the predictability and direct physical manipulation characteristic of true tools. Unlike hammers or saws that humans actively wield to build expertise, LLMs operate autonomously in ways that bypass traditional skill-building.",
+      "headline": "Python 3.15 Debuts Explicit Lazy Imports and Built-In Sampling Profiler",
+      "summary": "The newly released Python 3.15 introduces native lazy imports via PEP 810, allowing developers to defer module loading until symbols are actively referenced and drastically speeding up command-line tool initialization. The release also adds comprehension unpacking syntax alongside Tachyon, a low-overhead sampling profiler designed for real-time performance monitoring. With the update, long-standing Python 3.10 support officially winds down across major ecosystem projects.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
-      "source": "Hacker News",
-      "published": "2026-10-12T00:41:35.000+00:00"
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+      "source": "Simon Willison",
+      "published": "2026-10-12T18:15:38+00:00"
     },
     {
-      "headline": "Rams and Bills Clash in Week 5 MNF Showdown",
-      "summary": "Quarterbacks Matthew Stafford and Josh Allen prepare to face off in a high-stakes Week 5 Monday Night Football game. Bettors and fans are weighing odds and predictions as the Rams host the Bills in prime time.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T21:02:54+00:00"
-    },
-    {
-      "headline": "US Military Revival of Firing Squads Spotlights Execution Debate",
-      "summary": "Defense Secretary Pete Hegseth announced that the military will livestream the firing squad execution of Nidal Hasan, marking the Army's first use of the method since 1945. This decision coincides with a broader shift back to older execution methods as high-profile lethal injection failures fuel legal and medical concerns over botched capital punishment.",
+      "headline": "Federal Drone Bans Put Strain on Local Police Budgets",
+      "summary": "Federal efforts to curtail the use of affordable Chinese-made technology are inadvertently harming local law enforcement agencies. Police departments facing tight budgets now struggle to afford the costly U.S.-made alternatives necessary for tactical operations. Consequently, restrictions meant to boost domestic manufacturing are instead limiting critical aerial surveillance tools for first responders.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cmpwg28vrexzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T14:56:43.680Z"
-    },
-    {
-      "headline": "Trump Announces Energy Ceasefire, But Moscow Tests Resolve",
-      "summary": "US President Donald Trump declared an immediate energy ceasefire between Ukraine and Russia over the weekend. Ukrainian President Volodymyr Zelensky expressed willingness to comply if Moscow follows suit, but noted that a power plant in Kharkiv was struck almost immediately afterward. The tentative deal aims to spare civilians freezing winter blackouts, though Russia has yet to officially confirm its agreement.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/videos/crd9321ygqw8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T15:51:30+00:00"
-    },
-    {
-      "headline": "Scotland Ends Decades-Long Stadium Alcohol Ban for World Cup Play-Off",
-      "summary": "Spectators attending Scotland's women's World Cup play-off against the Czech Republic in Paisley will be permitted to drink alcohol at their seats. This marks the first time fans can consume alcohol in view of the pitch at a professional Scottish football match since 1981, following approvals by Renfrewshire Council for the Marbill Coaches Stadium.",
-      "category": "Other",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-12T15:01:24+00:00"
-    },
-    {
-      "headline": "John Gruber Argues X Remains the Dominant Platform Despite Musk Controversy",
-      "summary": "Apple executives like new chief executive John Ternus and marketing head Greg Joswiak continue to publish official announcements exclusively to X rather than rival services like Threads or Bluesky. Daring Fireball writer John Gruber observes that despite public backlash against Elon Musk, the platform retains an unmatched cultural pull and dynamic developer community that alternatives fail to emulate. He contends that while competing networks offer scale, their feeds lack the engaging, organic discourse that keeps mainstream users glued to X.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://daringfireball.net/2026/10/x_once_again_marks_the_spot",
-      "source": "Daring Fireball",
-      "published": "2026-10-11T21:05:33+00:00"
-    },
-    {
-      "headline": "South Africa Deputy Police Chief Resigns Amid Sexual Offence Charges",
-      "summary": "Lieutenant General Shadrack Sibiya resigned from his post as South Africa's deputy police chief during a disciplinary hearing after being charged with rape, sexual grooming, and trafficking. Sibiya, who has been in custody following a denied bail application, denies the allegations and maintains that his sexual encounter with an 18-year-old was consensual.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T16:46:49+00:00"
-    },
-    {
-      "headline": "US Immigration Agents Search Congresswoman Ilhan Omar's Washington Home",
-      "summary": "Homeland Security Investigations agents executed a search warrant at the Washington, DC-area home of Minnesota Representative Ilhan Omar as part of a federal criminal investigation. Omar's team blasted the raid as an outrageous abuse of power and political weaponization, while reports indicate the probe involves historical immigration paperwork.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-12T22:05:31+00:00"
+      "url": "https://www.npr.org/2026/10/12/nx-s1-5888604/police-chinese-drones-bans-costs",
+      "source": "NPR News",
+      "published": "2026-10-12T05:00:00-04:00"
     },
     {
       "headline": "College Football Programs Brace for Major Drop-Off in 2026",
@@ -444,13 +444,13 @@
       "published": "2026-10-12T20:39:24+00:00"
     },
     {
-      "headline": "SEC Basketball Preseason Poll Sparks Debate Over Overrated and Underrated Squads",
-      "summary": "Early projections for the 2026-27 SEC basketball season peg traditional powerhouses like Alabama and Georgia as heavily overrated. Meanwhile, squads such as LSU and Missouri are being labeled as underrated dark horses. These initial rankings set the stage for a fiercely contested conference slate.",
-      "category": "Sports",
+      "headline": "Scotland Ends Decades-Long Stadium Alcohol Ban for World Cup Play-Off",
+      "summary": "Spectators attending Scotland's women's World Cup play-off against the Czech Republic in Paisley will be permitted to drink alcohol at their seats. This marks the first time fans can consume alcohol in view of the pitch at a professional Scottish football match since 1981, following approvals by Renfrewshire Council for the Marbill Coaches Stadium.",
+      "category": "Other",
       "relevance": 6,
-      "url": "https://www.cbssports.com/college-basketball/news/sec-basketball-preseason-poll-predictions-2026-27-overrated-underrated-alabama-lsu/",
-      "source": "CBS Sports",
-      "published": "2026-10-12T20:43:44+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-12T15:01:24+00:00"
     }
   ]
 }
