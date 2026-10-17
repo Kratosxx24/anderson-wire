@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T06:06:09.610089+00:00",
+  "generated_at": "2026-10-17T10:34:17.309768+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,13 +57,13 @@
       "published": "2026-10-15T04:04:10+00:00"
     },
     {
-      "headline": "Apple Touts Trillion-Parameter AI Running on Local Mac Studio Clusters",
-      "summary": "Apple Machine Learning Research unveiled benchmarks showing its open-source MLX framework running the nearly trillion-parameter Muse Spark Open model locally across Mac Studio machines. By leveraging unified memory, M5 Ultra chips, and RDMA over Thunderbolt, a four-desktop cluster generated over 36 tokens per second. The update demonstrates how high-end Apple hardware can increasingly replace massive cloud setups for frontier-tier model inference and fine-tuning.",
-      "category": "Tech/AI",
+      "headline": "Marques Brownlee Weighs In on the New Tesla Roadster",
+      "summary": "Tech reviewer Marques Brownlee offers his candid reaction to the latest developments surrounding Tesla's flagship supercar. The video breaks down his impressions of the vehicle's promises against Tesla's recurring production delays. Brownlee assesses whether the Roadster can still make an impact in an increasingly crowded EV market.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "Hacker News",
-      "published": "2026-10-16T13:43:48+00:00"
+      "url": "https://www.youtube.com/watch?v=scwlR0QHGOk",
+      "source": "MKBHD",
+      "published": "2026-10-17T02:09:23+00:00"
     },
     {
       "headline": "Third Apron Previews 2026-27 NBA Season",
@@ -93,6 +93,15 @@
       "published": "2026-10-16T10:01:50+00:00"
     },
     {
+      "headline": "Lamar Jackson and Jalen Hurts Ruled Out for NFL Week 6",
+      "summary": "High-profile injuries are reshaping matchups heading into Week 6 of the NFL season. Starting quarterbacks Lamar Jackson and Jalen Hurts have officially been sidelined, while rookie signal-caller Caleb Williams remains questionable with a chance to return.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-lamar-jackson-jalen-hurts-caleb-williams/",
+      "source": "CBS Sports",
+      "published": "2026-10-16T21:57:37+00:00"
+    },
+    {
       "headline": "Broncos Struggle to Integrate Waddle",
       "summary": "The Denver Broncos are facing challenges incorporating speedy wide receiver Jaylen Waddle into their offense following his trade. Quarterback Bo Nix and the team are struggling with chemistry as Waddle continues to battle dropped passes.",
       "category": "NFL",
@@ -100,6 +109,15 @@
       "url": "https://www.cbssports.com/nfl/news/jaylen-waddle-trade-revisited-bo-nix-broncos/",
       "source": "CBS Sports",
       "published": "2026-10-16T18:26:41+00:00"
+    },
+    {
+      "headline": "Model Forecasts High-Stakes Big Ten Clash Between Ohio State and Indiana",
+      "summary": "Week 7 college football action features a marquee Big Ten battle as Ohio State squares off against Indiana. CBS Sports has rolled out its proprietary simulation model to deliver point spreads, betting projections, and outright winners for the matchup.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/ohio-state-indiana-prediction-odds-start-time-2026-week-7-college-football-picks/",
+      "source": "CBS Sports",
+      "published": "2026-10-16T23:42:58+00:00"
     },
     {
       "headline": "Fantasy Football Week 6: Kirk Cousins and Tre Tucker Highlight Top Sleeper Picks",
@@ -120,15 +138,6 @@
       "published": "2026-10-16T22:00:59+00:00"
     },
     {
-      "headline": "Top 25 College Football Spread Picks and Betting Lines for Week 7",
-      "summary": "Week 7 brings critical tests for ranked contenders nationwide, shifting odds and betting spreads across the board. CBS Sports evaluated the full Top 25 slate to forecast covers, totals, and potential upsets against the market. The breakdown delivers targeted predictions for fans and bettors tracking high-stakes matchups.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-7/",
-      "source": "CBS Sports",
-      "published": "2026-10-16T21:51:11+00:00"
-    },
-    {
       "headline": "Stratechery Highlights Apple, SpaceX, and NBA Previews",
       "summary": "Ben Thompson's weekly newsletter examines Apple's return to home tech with HomeView and SpaceX's aggressive expansion into primary cellular coverage via recent spectrum acquisitions. The update also previews the upcoming NBA season and the Washington Wizards' prospects.",
       "category": "Tech/AI",
@@ -138,6 +147,15 @@
       "published": "2026-10-16T17:42:42+00:00"
     },
     {
+      "headline": "Apple Cracks Down on AI Nudity and Deceptive Bait-and-Switch Apps",
+      "summary": "Apple updated its App Review Guidelines to strictly penalize apps involved in generating nonconsensual intimate imagery, specifically targeting AI \"nudification\" tools. The company is requiring developers to proactively moderate and scrub abusive material or face outright removal from the platform. The revised rules also threaten bans for bait-and-switch submissions that deliberately hide unauthorized features until after passing App Store inspection.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://developer.apple.com/news/?id=vvzx6cul",
+      "source": "Daring Fireball",
+      "published": "2026-10-17T01:00:00+00:00"
+    },
+    {
       "headline": "Ukraine Advances in Donbas Counter-Offensive Despite Starlink Limits",
       "summary": "Operation Vivaldi has successfully liberated 277 square kilometers in the eastern Donbas region while blunting Russian pincer movements. Ukrainian commanders report heavy enemy casualties and cite the critical role of drone warfare, though recent sudden restrictions on the integrated Starlink system pose new frontline challenges.",
       "category": "World",
@@ -145,6 +163,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-16T16:00:30+00:00"
+    },
+    {
+      "headline": "Top 25 College Football Spread Picks and Betting Lines for Week 7",
+      "summary": "Week 7 brings critical tests for ranked contenders nationwide, shifting odds and betting spreads across the board. CBS Sports evaluated the full Top 25 slate to forecast covers, totals, and potential upsets against the market. The breakdown delivers targeted predictions for fans and bettors tracking high-stakes matchups.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-7/",
+      "source": "CBS Sports",
+      "published": "2026-10-16T21:51:11+00:00"
     },
     {
       "headline": "AAC Rivals Memphis and Tulane Meet in Week 7 Friday Tilt",
@@ -228,6 +255,15 @@
       "published": "2026-10-16T18:00:18+00:00"
     },
     {
+      "headline": "AVIF Soundly Beats JPEG XL for General Web Use, Benchmark Shows",
+      "summary": "Web developer Jake Archibald's comprehensive testing reveals that AVIF consistently outperforms JPEG XL across standard online image formats. For lossy photography, AVIF generated files 15% to 25% smaller at default settings, while pulling even further ahead on screenshots, illustrations, and images with transparency. AVIF also proved notably faster at decoding in browsers, leaving JPEG XL as an occasional contender rather than a broad replacement.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+      "source": "Hacker News",
+      "published": "2026-10-16T16:12:02+00:00"
+    },
+    {
       "headline": "The Influence of Digital Figures on the Church",
       "summary": "This piece examines how modern influencers are impacting contemporary church culture and theology. It analyzes the shifting dynamics between digital authority and traditional religious leadership.",
       "category": "Faith",
@@ -246,6 +282,15 @@
       "published": "2026-10-15T04:00:00+00:00"
     },
     {
+      "headline": "Amazon Deforestation Plummets Over 40% Ahead of Brazilian Run-Off",
+      "summary": "Satellite monitoring shows deforestation in Brazil's Amazon dropped 41.8% in the year to July 2026, marking the largest single-year decline since tracking began in 1988. The milestone gives left-wing President Luiz Inácio Lula da Silva a significant policy boost as he works toward his pledge of zero deforestation by 2030. The environmental turnaround lands just ahead of a tight presidential run-off vote against Flavio Bolsonaro, whose father previously oversaw massive spikes in rainforest clearance.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-17T02:33:09+00:00"
+    },
+    {
       "headline": "Strait of Hormuz Attacks Hit Record High",
       "summary": "Attacks on vessels near the Strait of Hormuz reached a record 12 incidents between October 5 and 11, causing a slowdown in oil exports. While the US continues to provide protection for commercial traffic, the rising aggression has led to damaged ships and missing crew members.",
       "category": "World",
@@ -255,76 +300,22 @@
       "published": "2026-10-16T05:00:17+00:00"
     },
     {
-      "headline": "China Demands Israel Halt West Bank Settlements",
-      "summary": "During a meeting in Azerbaijan, Chinese Foreign Minister Wang Yi pressured Israeli President Isaac Herzog to immediately reverse the expansion of West Bank settlements. Wang labeled the Palestinian crisis the century's greatest historical injustice while emphasizing Beijing's push for a two-state solution and Gaza humanitarian access. In response, Herzog highlighted Israel's peace goals and ongoing security threats from Iran and its proxies.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-16T08:45:54+00:00"
-    },
-    {
-      "headline": "Houthi Missile Strike on Aden Presidential Palace Kills Five",
-      "summary": "Five people died and 16 others sustained injuries after five ballistic missiles struck al-Maashiq Presidential Palace in Aden. Yemeni officials confirmed that the prime minister and other cabinet members escaped unhurt from the attack. The internationally recognized government blamed Iran-backed Houthi forces for the escalation.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-15T23:38:46+00:00"
-    },
-    {
-      "headline": "Character.AI Files for Bankruptcy Following Founder Acqui-Hire",
-      "summary": "Following a unique deal where Google licensed its technology and hired its founders rather than making a traditional corporate buyout, Character.AI has filed for bankruptcy. The development highlights the volatile economic realities facing high-profile generative AI startups.",
+      "headline": "Open-Source Tool Simulates Local LLM Speeds Across Hardware",
+      "summary": "A new open-source simulator called Llmspeed lets developers test expected token generation speeds before buying computer hardware. The tool compares dozens of chips—ranging from Nvidia's RTX series to Apple Silicon M-series chips—running popular models like Qwen, DeepSeek, and Gemma. Data is aggregated from community benchmarks on r/LocalLLaMA and localscore.ai to give realistic local inference estimates.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.npr.org/sections/planet-money/2026/10/16/nx-s1-6001828/what-this-bankruptcy-says-about-ai-startups",
-      "source": "NPR News",
-      "published": "2026-10-16T11:00:00+00:00"
+      "url": "https://llmspeed.dev/",
+      "source": "Hacker News",
+      "published": "2026-10-17T04:36:53+00:00"
     },
     {
-      "headline": "Lamar Jackson and Jalen Hurts Ruled Out for NFL Week 6",
-      "summary": "High-profile injuries are reshaping matchups heading into Week 6 of the NFL season. Starting quarterbacks Lamar Jackson and Jalen Hurts have officially been sidelined, while rookie signal-caller Caleb Williams remains questionable with a chance to return.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/nfl-week-6-injury-report-lamar-jackson-jalen-hurts-caleb-williams/",
-      "source": "CBS Sports",
-      "published": "2026-10-16T21:57:37+00:00"
-    },
-    {
-      "headline": "Amazon Deforestation Plummets Over 40% Ahead of Brazilian Run-Off",
-      "summary": "Satellite monitoring shows deforestation in Brazil's Amazon dropped 41.8% in the year to July 2026, marking the largest single-year decline since tracking began in 1988. The milestone gives left-wing President Luiz Inácio Lula da Silva a significant policy boost as he works toward his pledge of zero deforestation by 2030. The environmental turnaround lands just ahead of a tight presidential run-off vote against Flavio Bolsonaro, whose father previously oversaw massive spikes in rainforest clearance.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-17T02:33:09.094Z"
-    },
-    {
-      "headline": "Apple Cracks Down on AI Nudity and Deceptive Bait-and-Switch Apps",
-      "summary": "Apple updated its App Review Guidelines to strictly penalize apps involved in generating nonconsensual intimate imagery, specifically targeting AI \"nudification\" tools. The company is requiring developers to proactively moderate and scrub abusive material or face outright removal from the platform. The revised rules also threaten bans for bait-and-switch submissions that deliberately hide unauthorized features until after passing App Store inspection.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://developer.apple.com/news/?id=vvzx6cul",
-      "source": "Daring Fireball",
-      "published": "2026-10-17T01:00:00+00:00"
-    },
-    {
-      "headline": "Model Forecasts High-Stakes Big Ten Clash Between Ohio State and Indiana",
-      "summary": "Week 7 college football action features a marquee Big Ten battle as Ohio State squares off against Indiana. CBS Sports has rolled out its proprietary simulation model to deliver point spreads, betting projections, and outright winners for the matchup.",
+      "headline": "Fantasy Football Week 6: Key Start-Sit Decisions for Herbert and Lloyd",
+      "summary": "CBS Sports analyst Dave Richard released his Week 6 fantasy rankings, highlighting risky lineup decisions at key positions. With Philadelphia quarterback Jalen Hurts sidelined, fantasy owners are forced to weigh volatile options like Justin Herbert. The column delivers specific start and sit recommendations to navigate bye weeks and sudden injury absences.",
       "category": "Sports",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/ohio-state-indiana-prediction-odds-start-time-2026-week-7-college-football-picks/",
+      "url": "https://www.cbssports.com/fantasy/football/news/rankings-week-6-dave-richards-tough-startsit-calls/",
       "source": "CBS Sports",
-      "published": "2026-10-16T23:42:58+00:00"
-    },
-    {
-      "headline": "AVIF Soundly Beats JPEG XL for General Web Use, Benchmark Shows",
-      "summary": "Web developer Jake Archibald's comprehensive testing reveals that AVIF consistently outperforms JPEG XL across standard online image formats. For lossy photography, AVIF generated files 15% to 25% smaller at default settings, while pulling even further ahead on screenshots, illustrations, and images with transparency. AVIF also proved notably faster at decoding in browsers, leaving JPEG XL as an occasional contender rather than a broad replacement.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "source": "Hacker News",
-      "published": "2026-10-16T16:12:02+00:00"
+      "published": "2026-10-16T21:04:10+00:00"
     },
     {
       "headline": "NBA Directs Sportsbooks to Ban Vulnerable Bets",
@@ -345,60 +336,6 @@
       "published": "2026-10-16T04:00:00+00:00"
     },
     {
-      "headline": "Saban Slams 24-Team Playoff Proposal",
-      "summary": "Legendary coach Nick Saban has come out against expanding the College Football Playoff to 24 teams. He argues that financial greed is the driving force behind the proposed format. The push for massive expansion prioritizes bottom-line revenues over player welfare and the integrity of the sport.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/college-football/news/nick-saban-24-team-college-football-playoff-expansion/",
-      "source": "CBS Sports",
-      "published": "2026-10-16T18:28:36+00:00"
-    },
-    {
-      "headline": "Study Reveals 90% of US Labor Occurs Outside AI Benchmark Coverage",
-      "summary": "An analysis by Mercor Research mapped 923 occupations against current AI benchmarks and found that 90% of American working hours are spent on tasks with little to no evaluation data. The findings indicate that the AI community heavily prioritizes high-wage tasks, leaving the vast majority of the economy unmeasured.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "source": "Hacker News",
-      "published": "2026-10-16T17:08:38+00:00"
-    },
-    {
-      "headline": "Researchers Exploit 37-Year-Old OpenBSD Kernel Bug",
-      "summary": "Security researchers uncovered a privilege escalation vulnerability in OpenBSD stemming from a shared memory attachment counter dating back 37 years. By overflowing the signed 16-bit counter and manipulating memory layouts, attackers achieved local root execution. The underlying issues have since been addressed by the project's security team.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://calif.io/research/big-fish",
-      "source": "Hacker News",
-      "published": "2026-10-16T14:44:02+00:00"
-    },
-    {
-      "headline": "Gemini 4 Argon Scores in StarCraft LLM Benchmark",
-      "summary": "Google's Gemini 4 Argon secured a third-place finish in the latest StarSkirmish benchmark, where language models write C++ StarCraft: Brood War bots within a one-hour limit. While top models like GPT-6 Astra lead the competition, human-written bots still dominate, winning the vast majority of matches against AI opponents. The benchmark evaluates long-horizon reasoning and agentic coding capabilities through iterative practice games.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://starskirmish.com/bench/v0-2/",
-      "source": "Hacker News",
-      "published": "2026-10-16T14:18:44+00:00"
-    },
-    {
-      "headline": "Masked Settlers Attack Olive Harvesters",
-      "summary": "Dozens of masked Israeli settlers assaulted Palestinian farmers and set fire to vehicles and olive trees in the West Bank village of Abu Falah. The violence left 12 Palestinians injured, including four dual US-American citizens and a foreign journalist. The US State Department condemned the criminal violence and urged thorough investigations and arrests.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-16T14:31:04+00:00"
-    },
-    {
-      "headline": "Colleague Tip-Off Foils Illinois Teen's Hindu Temple Shooting Plot",
-      "summary": "Nineteen-year-old Alexandros Paporakis of Palatine, Illinois, was arrested after a co-worker alerted authorities to electronic messages detailing a planned mass shooting. Police found a rifle, ammunition, body armor, and white supremacist writings at his home after his weapon jammed during an attempt to attack a Hindu temple in Aurora.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-15T23:27:21+00:00"
-    },
-    {
       "headline": "Quarterback Injury Opens Golden CFP Path for Lane Kiffin and LSU",
       "summary": "LSU's College Football Playoff ambitions caught a major break with Mississippi State quarterback Kamario Taylor doubtful due to injury. Head coach Lane Kiffin and his squad now face a heavily depleted opponent in what amounts to a must-win situation to keep their postseason hopes alive.",
       "category": "Sports",
@@ -406,15 +343,6 @@
       "url": "https://www.cbssports.com/college-football/news/kamario-taylor-injury-mississippi-state-lsu-lane-kiffin-cfp-chase/",
       "source": "CBS Sports",
       "published": "2026-10-17T01:48:50+00:00"
-    },
-    {
-      "headline": "Revisiting the $69 Apple TV Ahead of Expected Hardware Refreshes",
-      "summary": "A backward glance highlights the low-water mark of Apple's streaming hardware pricing, recalling when Tim Cook cut the third-generation set-top box to $69 in 2015. The historical comparison comes as recent leaks point to a forthcoming fourth-generation Apple TV 4K alongside a new smart home ecosystem. Today's hardware commands far higher prices as Apple continues positioning the device as a premium media and smart home hub.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/",
-      "source": "Daring Fireball",
-      "published": "2015-03-09T17:17:13+00:00"
     },
     {
       "headline": "Self-Learning AI Model Projects Every Week 6 NFL Outcome",
@@ -426,13 +354,58 @@
       "published": "2026-10-16T22:35:34+00:00"
     },
     {
-      "headline": "Philadelphia Duo Releases Psychedelic Folk Album Autosmile",
-      "summary": "Philadelphia duo @ return with their second album, Autosmile, blending psychedelic freak folk with enigmatic lyricism and intricate instrumentation. Composed by Stone Filipczak and Victoria Rose, the record channels a private, dreamlike language that feels simultaneously strange and deeply familiar. The project stands out for its expansive arrangements, featuring warm synth arpeggios and dueling guitars.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
-      "source": "Pitchfork",
-      "published": "2026-10-16T04:03:00+00:00"
+      "headline": "Saban Slams 24-Team Playoff Proposal",
+      "summary": "Legendary coach Nick Saban has come out against expanding the College Football Playoff to 24 teams. He argues that financial greed is the driving force behind the proposed format. The push for massive expansion prioritizes bottom-line revenues over player welfare and the integrity of the sport.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/college-football/news/nick-saban-24-team-college-football-playoff-expansion/",
+      "source": "CBS Sports",
+      "published": "2026-10-16T18:28:36+00:00"
+    },
+    {
+      "headline": "Revisiting the $69 Apple TV Ahead of Expected Hardware Refreshes",
+      "summary": "A backward glance highlights the low-water mark of Apple's streaming hardware pricing, recalling when Tim Cook cut the third-generation set-top box to $69 in 2015. The historical comparison comes as recent leaks point to a forthcoming fourth-generation Apple TV 4K alongside a new smart home ecosystem. Today's hardware commands far higher prices as Apple continues positioning the device as a premium media and smart home hub.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.macrumors.com/2015/03/09/tim-cook-apple-tv-now-costs-69/",
+      "source": "Daring Fireball",
+      "published": "2026-10-17T00:37:01+00:00"
+    },
+    {
+      "headline": "Study Reveals 90% of US Labor Occurs Outside AI Benchmark Coverage",
+      "summary": "An analysis by Mercor Research mapped 923 occupations against current AI benchmarks and found that 90% of American working hours are spent on tasks with little to no evaluation data. The findings indicate that the AI community heavily prioritizes high-wage tasks, leaving the vast majority of the economy unmeasured.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "source": "Hacker News",
+      "published": "2026-10-16T17:08:38+00:00"
+    },
+    {
+      "headline": "Masked Settlers Attack Olive Harvesters",
+      "summary": "Dozens of masked Israeli settlers assaulted Palestinian farmers and set fire to vehicles and olive trees in the West Bank village of Abu Falah. The violence left 12 Palestinians injured, including four dual US-American citizens and a foreign journalist. The US State Department condemned the criminal violence and urged thorough investigations and arrests.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-16T14:31:04+00:00"
+    },
+    {
+      "headline": "CBS Sports Unveils Week 6 NFL Betting and DFS Playbook",
+      "summary": "CBS Sports rolled out its comprehensive betting and fantasy preview for Week 6 of the NFL season. The guide packages computer model simulations, against-the-spread predictions, and curated player proposition bets across the full slate. It also provides daily fantasy lineups and recommended parlay tickets for weekend bettors.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/week-6-nfl-betting-guide-player-props-spreads-parlay-dfs-fantasy-picks/",
+      "source": "CBS Sports",
+      "published": "2026-10-16T20:47:25+00:00"
+    },
+    {
+      "headline": "Josh Jacobs and Jonathon Cooper Cleared to Return in Week 7",
+      "summary": "Running back Josh Jacobs and pass rusher Jonathon Cooper are being lifted from the NFL commissioner's exempt list. The administrative move clears both players to rejoin team activities immediately. They will be eligible for game action starting in Week 7.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/josh-jacobs-jonathon-cooper-nfl-commissioner-exempt-list-week-7-return/",
+      "source": "CBS Sports",
+      "published": "2026-10-16T20:26:38+00:00"
     },
     {
       "headline": "Djrum Blends 32 Tracks in Whirlwind 82-Minute DJ-Kicks Entry",
@@ -442,6 +415,33 @@
       "url": "https://pitchfork.com/reviews/albums/djrum-dj-kicks/",
       "source": "Pitchfork",
       "published": "2026-10-17T04:00:00+00:00"
+    },
+    {
+      "headline": "Philadelphia Duo Releases Psychedelic Folk Album Autosmile",
+      "summary": "Philadelphia duo @ return with their second album, Autosmile, blending psychedelic freak folk with enigmatic lyricism and intricate instrumentation. Composed by Stone Filipczak and Victoria Rose, the record channels a private, dreamlike language that feels simultaneously strange and deeply familiar. The project stands out for its expansive arrangements, featuring warm synth arpeggios and dueling guitars.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
+      "source": "Pitchfork",
+      "published": "2026-10-16T04:03:00+00:00"
+    },
+    {
+      "headline": "Reflecting on Charlie Munger's Candid Verdict on Tesla and Elon Musk",
+      "summary": "Daring Fireball revisits historical commentary from the late Berkshire Hathaway vice chairman Charlie Munger concerning Elon Musk and Tesla. The piece highlights Munger's trademark skepticism and unvarnished perspective on Musk's management style and valuation extremes. It captures how the legendary value investor viewed Tesla's disruptive yet volatile business model.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.cnbc.com/make-it/2020/02/14/charlie-munger-shares-opinion-of-tesla-ceo-elon-musk.html",
+      "source": "Daring Fireball",
+      "published": "2026-10-17T01:22:34+00:00"
+    },
+    {
+      "headline": "C++26 Standardizes Debugger Integration with Dedicated Header",
+      "summary": "The upcoming C++26 standard introduces the native <debugging> header, eliminating decades of fragmented compiler-specific hacks like platform macros and inline assembly. Based on proposals P2546R5 and P2810R4 by Rene Ferdinand Rivera Morell, the specification standardizes three freestanding utilities: breakpoint(), is_debugger_present(), and breakpoint_if_debugging(). The addition replaces redundant implementations found across engines like Unreal and testing frameworks like Catch2.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "source": "Hacker News",
+      "published": "2026-09-30T00:00:00+02:00"
     },
     {
       "headline": "Polymarket's Legal Status in California",
