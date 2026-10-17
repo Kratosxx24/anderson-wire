@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:03:08.514352+00:00",
+  "generated_at": "2026-10-17T19:15:29.291313+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -93,13 +93,31 @@
       "published": "2026-10-17T13:51:36+00:00"
     },
     {
-      "headline": "Apple Details Local Running of Frontier AI Models via MLX on Mac Studio",
-      "summary": "Apple Machine Learning Research has demonstrated running the massive Muse Spark Open model locally using the MLX framework on Mac Studio hardware. Utilizing the M5 Ultra chip and RDMA over Thunderbolt, a cluster of four Macs can achieve token generation speeds well above human reading rates.",
-      "category": "Tech/AI",
+      "headline": "Charlotte Hornets Face Crucial Preseason Decisions and Contract Deadlines",
+      "summary": "As the Charlotte Hornets wrap up their preseason against the Memphis Grizzlies, front-office decisions loom large. General Manager Jeff Peterson faces a tight deadline to negotiate a potential max contract extension for Brandon Miller before he hits restricted free agency. Meanwhile, the team must finalize its 15-man roster ahead of the regular season.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "source": "Hacker News",
-      "published": "2026-10-16T13:43:48+00:00"
+      "url": "https://sports.yahoo.com/articles/5-hornets-storylines-heading-final-184513913.html",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-10-16T18:45:13Z"
+    },
+    {
+      "headline": "Lakers and Bucks Discuss Trade Involving Dalton Knecht",
+      "summary": "The Los Angeles Lakers are exploring roster adjustments ahead of the NBA season. League insider Jake Fischer reports that the team has held preliminary trade discussions with the Milwaukee Bucks centering on former first-round pick Dalton Knecht.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://biztoc.com/x/ea767a92e8603251",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-10-16T18:10:30+00:00"
+    },
+    {
+      "headline": "Pope Leo XIV Discharged From Hospital Following Lung Cancer Surgery",
+      "summary": "Pope Leo XIV left Rome's Gemelli Hospital on Saturday after undergoing successful surgery to remove the lower lobe of his right lung. Medical experts rate his cancer prognosis as very good, and he is expected to lead Sunday prayers before a planned trip to Latin America in November.",
+      "category": "Faith",
+      "relevance": 9,
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery",
+      "source": "NPR News",
+      "published": "2026-10-17T11:10:14-04:00"
     },
     {
       "headline": "Third Apron Previews 2026-27 NBA Season",
@@ -129,6 +147,24 @@
       "published": "2026-10-16T10:01:50+00:00"
     },
     {
+      "headline": "Bills and Raiders Prepare for Upcoming NFL Showdown",
+      "summary": "CBS Sports provides viewing details and matchup information as the Las Vegas Raiders look to snap their losing streak against the Buffalo Bills. The broadcast covers television and live streaming options for the upcoming professional football contest.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/bills-vs-raiders-prediction-where-to-watch/",
+      "source": "CBS Sports",
+      "published": "2026-10-17T15:59:30+00:00"
+    },
+    {
+      "headline": "Steelers and Buccaneers Meet Following Week 5 Victories",
+      "summary": "CBS Sports highlights broadcast channels and kickoff times for the game between the Pittsburgh Steelers and Tampa Bay Buccaneers. Both squads enter the matchup aiming to maintain momentum after securing strong wins the previous week.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/nfl/news/where-to-watch-steelers-vs-buccaneers-prediction/",
+      "source": "CBS Sports",
+      "published": "2026-10-17T15:51:31+00:00"
+    },
+    {
       "headline": "Stratechery Highlights Apple, SpaceX, and NBA Previews",
       "summary": "Ben Thompson's weekly newsletter examines Apple's return to home tech with HomeView and SpaceX's aggressive expansion into primary cellular coverage via recent spectrum acquisitions. The update also previews the upcoming NBA season and the Washington Wizards' prospects.",
       "category": "Tech/AI",
@@ -136,6 +172,15 @@
       "url": "https://stratechery.com/2026/home-at-last/",
       "source": "Stratechery",
       "published": "2026-10-16T17:42:42+00:00"
+    },
+    {
+      "headline": "Chart Depicts Historic Apple TV Pricing Adjusted for Inflation",
+      "summary": "Glenn Fleishman has published a comprehensive price history chart for Apple TV models ranging from the original 2007 release to upcoming hardware. The data traces launch prices alongside inflation-adjusted values using Bureau of Labor Statistics consumer price indices.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
+      "source": "Daring Fireball",
+      "published": "2026-10-17T14:06:18+00:00"
     },
     {
       "headline": "Apple Cracks Down on AI Nudity and Deceptive Bait-and-Switch Apps",
@@ -183,15 +228,6 @@
       "published": "2026-10-17T04:36:53+00:00"
     },
     {
-      "headline": "Black Forest Labs Launches FLUX 3 Image Klein",
-      "summary": "Black Forest Labs has released FLUX 3 Image Klein, an open-weights text-to-image model featuring 5.6 billion parameters. The model supports native 4K generation, image editing, and multi-reference inputs while running efficiently on consumer GPUs with as little as 8GB of VRAM.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "Hacker News",
-      "published": "2026-10-16T19:47:13+00:00"
-    },
-    {
       "headline": "Exploring the Foundations of Transformer Models",
       "summary": "An educational math and machine learning piece breaks down how transformer neural network architectures can be derived from first principles. The technical walkthrough uses matrix notation to demonstrate the underlying mechanics of attention mechanisms.",
       "category": "Tech/AI",
@@ -199,42 +235,6 @@
       "url": "https://alexwang.ai/posts/associative-memory/",
       "source": "Hacker News",
       "published": "2026-10-16T19:01:17+00:00"
-    },
-    {
-      "headline": "Claude Solves Decades-Old Cryptography Mystery Behind NSA Curve Seeds",
-      "summary": "Anthropic's Frontier Red Team revealed that Claude cracked the long-disputed origin of seed parameters used in NIST's FIPS 186-2 elliptic curve cryptography standards, including P-256. Dismissing longstanding rumors of an NSA backdoor or a humorous internal passphrase, the investigation confirmed the mysterious values were generated simply using timestamps. The findings put an end to years of speculation and bounty hunts, verifying that the widely deployed cryptographic standard lacks hidden manipulation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:55:59+00:00"
-    },
-    {
-      "headline": "Run GGUF Models Natively on a Jailbroken PS5",
-      "summary": "A new open-source project called PS5LM allows users to run large language models locally via llama.cpp on a jailbroken PlayStation 5 console. Leveraging the system's RDNA 2 GPU and shared memory, the console serves OpenAI and Anthropic-compatible APIs to other devices on the local network.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/cobanov/PS5LM",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:32:35+00:00"
-    },
-    {
-      "headline": "Claude Designs More Efficient Quantum Circuits",
-      "summary": "Anthropic researchers used the Claude AI model to generate optimized quantum circuit designs for chemistry and physics simulations. The AI produced configurations that improve on published benchmarks by an order of magnitude, potentially accelerating practical quantum computing timelines.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "source": "Hacker News",
-      "published": "2026-10-16T18:00:18+00:00"
-    },
-    {
-      "headline": "AVIF Soundly Beats JPEG XL for General Web Use, Benchmark Shows",
-      "summary": "Web developer Jake Archibald's comprehensive testing reveals that AVIF consistently outperforms JPEG XL across standard online image formats. For lossy photography, AVIF generated files 15% to 25% smaller at default settings, while pulling even further ahead on screenshots, illustrations, and images with transparency. AVIF also proved notably faster at decoding in browsers, leaving JPEG XL as an occasional contender rather than a broad replacement.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "source": "Hacker News",
-      "published": "2026-10-16T16:12:02+00:00"
     },
     {
       "headline": "MKBHD Breaks Down Google's Shifting Laptop Ambitions",
@@ -264,6 +264,24 @@
       "published": "2026-10-15T04:00:00+00:00"
     },
     {
+      "headline": "Masked Settlers Injure Palestinians and US Journalist During West Bank Harvest",
+      "summary": "Draped in masks, dozens of Israeli settlers attacked olive farmers in the occupied West Bank village of Abu Falah, setting vehicles and trees ablaze. The violence left multiple individuals injured, including several Palestinian-American citizens and a foreign reporter.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-16T14:31:04+00:00"
+    },
+    {
+      "headline": "Australia Introduces Legislation Requiring Social Media Algorithm Switch",
+      "summary": "The Australian parliament has introduced sweeping tech reforms featuring a mandatory switch that lets users turn off addictive engagement algorithms in favor of chronological feeds. Lawmakers hope the legislation will protect vulnerable users from toxic content, though critics argue the rules face significant hurdles.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-16T18:11:29+00:00"
+    },
+    {
       "headline": "Ukraine Advances in Donbas Counter-Offensive Despite Starlink Limits",
       "summary": "Operation Vivaldi has successfully liberated 277 square kilometers in the eastern Donbas region while blunting Russian pincer movements. Ukrainian commanders report heavy enemy casualties and cite the critical role of drone warfare, though recent sudden restrictions on the integrated Starlink system pose new frontline challenges.",
       "category": "World",
@@ -273,58 +291,76 @@
       "published": "2026-10-16T16:00:30+00:00"
     },
     {
-      "headline": "Bills and Raiders Prepare for Upcoming NFL Showdown",
-      "summary": "CBS Sports provides viewing details and matchup information as the Las Vegas Raiders look to snap their losing streak against the Buffalo Bills. The broadcast covers television and live streaming options for the upcoming professional football contest.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/bills-vs-raiders-prediction-where-to-watch/",
-      "source": "CBS Sports",
-      "published": "2026-10-17T15:59:30+00:00"
-    },
-    {
-      "headline": "Steelers and Buccaneers Meet Following Week 5 Victories",
-      "summary": "CBS Sports highlights broadcast channels and kickoff times for the game between the Pittsburgh Steelers and Tampa Bay Buccaneers. Both squads enter the matchup aiming to maintain momentum after securing strong wins the previous week.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/nfl/news/where-to-watch-steelers-vs-buccaneers-prediction/",
-      "source": "CBS Sports",
-      "published": "2026-10-17T15:51:31+00:00"
-    },
-    {
-      "headline": "Chart Depicts Historic Apple TV Pricing Adjusted for Inflation",
-      "summary": "Glenn Fleishman has published a comprehensive price history chart for Apple TV models ranging from the original 2007 release to upcoming hardware. The data traces launch prices alongside inflation-adjusted values using Bureau of Labor Statistics consumer price indices.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://glog.glennf.com/blog/2026/10/17/apple-tv-price-history/",
-      "source": "Daring Fireball",
-      "published": "2026-10-17T01:05:52.000Z"
-    },
-    {
       "headline": "South African Families Renew Calls for Apartheid-Era Justice",
       "summary": "More than thirty years after the fall of apartheid, relatives of victims killed during historical state violence are pushing for legal accountability and reparations. As survivors and aging perpetrators dwindle, advocates face a race against time to secure historical justice.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
       "source": "NPR News",
-      "published": "2026-10-17T07:00:00-04:00"
+      "published": "2026-10-17T11:00:00+00:00"
     },
     {
-      "headline": "Masked Settlers Injure Palestinians and US Journalist During West Bank Harvest",
-      "summary": "Draped in masks, dozens of Israeli settlers attacked olive farmers in the occupied West Bank village of Abu Falah, setting vehicles and trees ablaze. The violence left multiple individuals injured, including several Palestinian-American citizens and a foreign reporter.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-16T14:31:04.326Z"
-    },
-    {
-      "headline": "Australia Introduces Legislation Requiring Social Media Algorithm Switch",
-      "summary": "The Australian parliament has introduced sweeping tech reforms featuring a mandatory switch that lets users turn off addictive engagement algorithms in favor of chronological feeds. Lawmakers hope the legislation will protect vulnerable users from toxic content, though critics argue the rules face significant hurdles.",
+      "headline": "Claude Solves Decades-Old Cryptography Mystery Behind NSA Curve Seeds",
+      "summary": "Anthropic's Frontier Red Team revealed that Claude cracked the long-disputed origin of seed parameters used in NIST's FIPS 186-2 elliptic curve cryptography standards, including P-256. Dismissing longstanding rumors of an NSA backdoor or a humorous internal passphrase, the investigation confirmed the mysterious values were generated simply using timestamps. The findings put an end to years of speculation and bounty hunts, verifying that the widely deployed cryptographic standard lacks hidden manipulation.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-16T18:11:29.554Z"
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-16T18:55:59Z"
+    },
+    {
+      "headline": "Run GGUF Models Natively on a Jailbroken PS5",
+      "summary": "A new open-source project called PS5LM allows users to run large language models locally via llama.cpp on a jailbroken PlayStation 5 console. Leveraging the system's RDNA 2 GPU and shared memory, the console serves OpenAI and Anthropic-compatible APIs to other devices on the local network.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/cobanov/PS5LM",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-16T18:32:35Z"
+    },
+    {
+      "headline": "Claude Designs More Efficient Quantum Circuits",
+      "summary": "Anthropic researchers used the Claude AI model to generate optimized quantum circuit designs for chemistry and physics simulations. The AI produced configurations that improve on published benchmarks by an order of magnitude, potentially accelerating practical quantum computing timelines.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-16T18:00:18Z"
+    },
+    {
+      "headline": "Despite Sloppy Start, Buccaneers Remain Contenders in NFC South",
+      "summary": "The Tampa Bay Buccaneers have clawed back into the NFC South race despite a dismal 1-4 start plagued by turnovers and injuries. Trailing the division-leading Panthers by just a game and a half, the Bucs control their own destiny with all six divisional matchups remaining. Historically, Tampa Bay has repeatedly rebounded from early slumps to capture the division title.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://sports.yahoo.com/articles/nfc-south-madness-somehow-way-185223752.html",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-10-16T18:52:23Z"
+    },
+    {
+      "headline": "Comprehensive Preview of 2026-27 NBA Season Analytics and Rankings",
+      "summary": "Basketball Intelligence has released an extensive breakdown of the upcoming 2026-27 NBA season. The newsletter features division previews, starting lineup rankings from worst to best, and analytical deep dives into contract-year performance.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-101726",
+      "source": "Basketball Intelligence",
+      "published": "2026-10-17T17:52:22+00:00"
+    },
+    {
+      "headline": "Broncos Edge Seahawks in Defensive Slugfest to Move to 4-2",
+      "summary": "The Denver Broncos secured a hard-fought overtime victory against the defending champion Seattle Seahawks on Thursday night. Quarterback Bo Nix and the offense struggled against a top-tier defense, but Ja'Quan McMillian's interception in overtime sealed the win. The defensive battle pushes Denver to a strong 4-2 record heading into a softer stretch of their schedule.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.milehighreport.com/denver-broncos-news/189333/broncos-stock-up-stock-down-week-6-seahawks",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-10-16T18:16:27+00:00"
+    },
+    {
+      "headline": "Ex-OpenAI Engineer Arrested for Alleged Spy Device and Flight Booking",
+      "summary": "Federal authorities arrested an OpenAI employee from Saudi Arabia following accusations of planting a covert recording device in a conference room. The suspect was reportedly booked on a flight out of the country amid rising security concerns. The incident highlights heightened scrutiny surrounding corporate espionage and tech sector security.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.foxnews.com/tech/fox-news-ai-newsletter-ai-engineer-accused-bugging-conference-room",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-16T14:18:30-04:00"
     },
     {
       "headline": "Revisiting the $69 Apple TV Ahead of Expected Hardware Refreshes",
@@ -351,25 +387,7 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-17T02:48:36.874Z"
-    },
-    {
-      "headline": "Amazon Utilizes Internal AI Tool to Monitor Unionization Risks in Warehouses",
-      "summary": "Court-released internal documents reveal that Amazon employs an in-house AI forecasting system named Atlas to calculate unionization risks at its facilities. The tool aggregates hundreds of data points, including internal survey responses and public social media posts, to score warehouse labor activity.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-      "source": "Hacker News",
-      "published": "2026-10-16T16:36:11.000Z"
-    },
-    {
-      "headline": "Zelenskyy Slams Trump's Sanctions Freeze",
-      "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump's decision to pause a sweeping U.S. sanctions package against Russia. Zelenskyy warned the move encourages ongoing aggression as winter approaches, following a wave of deadly Russian airstrikes. Trump defended the pause as being in the national interest without providing further details.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
-      "source": "NPR News",
-      "published": "2026-10-17T10:25:10-04:00"
+      "published": "2026-10-17T11:56:06+00:00"
     },
     {
       "headline": "Italy Condemns U.S. Restrictions on Ukraine",
@@ -378,7 +396,16 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-16T23:54:35.236Z"
+      "published": "2026-10-16T23:54:35+00:00"
+    },
+    {
+      "headline": "Zelenskyy Slams Trump's Sanctions Freeze",
+      "summary": "Ukrainian President Volodymyr Zelenskyy criticized Donald Trump's decision to pause a sweeping U.S. sanctions package against Russia. Zelenskyy warned the move encourages ongoing aggression as winter approaches, following a wave of deadly Russian airstrikes. Trump defended the pause as being in the national interest without providing further details.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+      "source": "NPR News",
+      "published": "2026-10-17T14:25:10+00:00"
     },
     {
       "headline": "Djrum Blends 32 Tracks in Whirlwind 82-Minute DJ-Kicks Entry",
@@ -390,22 +417,22 @@
       "published": "2026-10-17T04:00:00+00:00"
     },
     {
-      "headline": "Study Links Weight Loss Drug to Slower Biological Aging",
-      "summary": "A clinical trial involving adults with HIV found that the GLP-1 receptor agonist semaglutide slowed biological aging by nine percent. Researchers observed broad improvements across epigenetic clocks linked to metabolic, cardiovascular, and inflammatory health over a 32-week period. The findings offer early controlled evidence that the popular drug may impact cellular aging markers.",
-      "category": "World",
+      "headline": "Alabama Seeks Rebound Against Tennessee in High-Stakes College Football Matchup",
+      "summary": "The Alabama Crimson Tide prepare to face Tennessee as they look to bounce back from recent struggles. Historical series trends favor the home team, adding pressure to Alabama's campaign to avoid consecutive losses. Betting odds point to a fiercely contested SEC showdown.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
-      "source": "Hacker News",
-      "published": "2026-06-11T18:18:24-07:00"
+      "url": "https://www.cbssports.com/betting/news/alabama-vs-tennessee-odds-parlay-home-team-dominated-series-tide-try-to-avoid-back-to-back-losses/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-10-16T17:15:56Z"
     },
     {
-      "headline": "Week 6 NFL Survivor Pool Advice: Fade Pittsburgh",
-      "summary": "CBS Sports provides strategic knockout pool projections and advice for Week 6 of the NFL season. The guide highlights key matchups to navigate and recommends fading the Pittsburgh Steelers. Participants are advised on optimal survival tactics as the season progresses.",
-      "category": "NFL",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-knockout-pool-strategy-guide-advice-teams-to-avoid-for-week-6-2026/",
+      "headline": "North Carolina and Duke Set for Week 7 College Football Showdown",
+      "summary": "Rivalry week brings a high-stakes matchup between North Carolina and Duke as both teams clash on Saturday. Sportsbooks have released opening odds and best bets for the pivotal conference battle. Fans and analysts alike are weighing predictions as the midpoint of the college football season approaches.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/betting/news/north-carolina-vs-duke-odds-best-bets-picks-predictions-start-time-for-week-7-college-football-saturday/",
       "source": "CBS Sports",
-      "published": "2026-10-17T16:12:05+00:00"
+      "published": "2026-10-17T18:30:46+00:00"
     },
     {
       "headline": "Chelsea's Martinez Hospitalized After Concussion",
@@ -414,34 +441,7 @@
       "relevance": 5,
       "url": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-10-17T16:02:31.989Z"
-    },
-    {
-      "headline": "Neto Leads Chelsea Past Everton with Two Goals",
-      "summary": "Pedro Neto scored twice to propel Chelsea to a 2-0 away victory over Everton on Saturday. The goals came just 43 seconds after the restart and in the final minute, snapping Everton's unbeaten run. The win also marked Chelsea's first Premier League clean sheet of the season.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c674pzzlz8zlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-17T13:39:16.180Z"
-    },
-    {
-      "headline": "Ranking the Premier League's Greatest Super Subs",
-      "summary": "A new ranking evaluates the Premier League's all-time most impactful substitutes based on goals, assists, and clutch performances. Theo Walcott secured a spot on the list for holding the record with 14 assists as a substitute. Other notable impact players like Victor Anichebe also made the cut for their consistent late-game contributions.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqn73xe5eelgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-16T21:15:47.183Z"
-    },
-    {
-      "headline": "Joel Embiid Questions the Need to Sacrifice for 76ers",
-      "summary": "Philadelphia 76ers star Joel Embiid spoke out against the notion of sacrificing his game for a star-studded roster. The big man explained his philosophical opposition to conventional adjustment expectations. His comments highlight ongoing dynamics within the team's star-heavy lineup.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://www.cbssports.com/nba/news/joel-embiid-against-the-concept-of-sacrificing-76ers/",
-      "source": "CBS Sports",
-      "published": "2026-10-17T16:40:47+00:00"
+      "published": "2026-10-17T16:02:31+00:00"
     },
     {
       "headline": "Experiment Makes Chicken Transparent Using Dorito Dust",
