@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:51:07.924194+00:00",
+  "generated_at": "2026-10-18T23:45:10.669722+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -39,6 +39,24 @@
       "published": "2026-10-13T22:42:38+00:00"
     },
     {
+      "headline": "Hybrid AI Architecture Slashes Inference Costs While Boosting Task Accuracy",
+      "summary": "Researchers have unveiled HybridAgent, a framework that lets language models dynamically shift between latent internal reasoning and text-based tool execution. Across 11 benchmarks, the system increased task accuracy by 10.4% while reducing token consumption by up to 55% and speeding up inference by over two times. Custom training methods, HybridSFT and HybridRL, help the agent autonomously decide when to calculate silently in latent space versus when to generate plain text.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://arxiv.org/abs/2610.18861",
+      "source": "Hacker News",
+      "published": "2026-10-18T20:48:14+00:00"
+    },
+    {
+      "headline": "MKBHD Examines the Peculiar Value Proposition of the 'Googlebook'",
+      "summary": "Tech creator Marques Brownlee investigates the branding, hardware compromises, and market positioning behind a concept called the Googlebook. The review explores whether the machine solves an actual user need or merely complicates Google's existing portable lineup.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
+      "source": "MKBHD",
+      "published": "2026-10-08T21:00:40+00:00"
+    },
+    {
       "headline": "The Studio Evaluates Eccentric Tech Worth Testing",
       "summary": "The Studio crew rounded up an assortment of oddball consumer gadgets to see which unusual designs actually hold practical value. Despite bizarre form factors and quirky premises, the team flagged several experimental devices they would genuinely adopt for daily use.",
       "category": "YouTube",
@@ -46,6 +64,24 @@
       "url": "https://www.youtube.com/shorts/Q7MpFTrT9Gk",
       "source": "The Studio (MKBHD)",
       "published": "2026-09-24T18:12:11+00:00"
+    },
+    {
+      "headline": "MKBHD Crew Flags Everyday Tech Products They Refuse to Use",
+      "summary": "The Studio team evaluates a slate of consumer electronics and studio tools that fail to earn a spot in their everyday operations. The discussion focuses on gadgets with attractive marketing promises that ultimately fall short under regular production demands.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/pjovhZ7HkNs",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-17T16:53:05+00:00"
+    },
+    {
+      "headline": "Behind the Scenes of Apple's Tightly Scripted Press Briefings",
+      "summary": "A behind-the-scenes look reveals the structured media access and closed-door demonstrations Apple arranges around its major launch events. The report examines how production crews navigate strict corporate choreography to test hardware before it reaches the public.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/3F9M1ttIIbU",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-09-14T18:32:10+00:00"
     },
     {
       "headline": "Theological Debate: The Trinity in the Old Testament",
@@ -75,40 +111,13 @@
       "published": "2026-10-17T15:10:14+00:00"
     },
     {
-      "headline": "Hybrid AI Architecture Slashes Inference Costs While Boosting Task Accuracy",
-      "summary": "Researchers have unveiled HybridAgent, a framework that lets language models dynamically shift between latent internal reasoning and text-based tool execution. Across 11 benchmarks, the system increased task accuracy by 10.4% while reducing token consumption by up to 55% and speeding up inference by over two times. Custom training methods, HybridSFT and HybridRL, help the agent autonomously decide when to calculate silently in latent space versus when to generate plain text.",
-      "category": "Tech/AI",
+      "headline": "Pope Leo XIV Thanks Well-Wishers After Lung Surgery",
+      "summary": "Following a successful operation to remove a malignant tumor from his right lung, Pope Leo XIV greeted crowds from his Vatican window. Looking strong four days post-surgery, the pontiff expressed gratitude for public prayers and announced his intention to slowly return to regular duties.",
+      "category": "Faith",
       "relevance": 9,
-      "url": "https://arxiv.org/abs/2610.18861",
-      "source": "Hacker News",
-      "published": "2026-10-18T20:48:14+00:00"
-    },
-    {
-      "headline": "MKBHD Examines the Peculiar Value Proposition of the 'Googlebook'",
-      "summary": "Tech creator Marques Brownlee investigates the branding, hardware compromises, and market positioning behind a concept called the Googlebook. The review explores whether the machine solves an actual user need or merely complicates Google's existing portable lineup.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=_0G4OG39XjI",
-      "source": "MKBHD",
-      "published": "2026-10-08T21:00:40+00:00"
-    },
-    {
-      "headline": "MKBHD Crew Flags Everyday Tech Products They Refuse to Use",
-      "summary": "The Studio team evaluates a slate of consumer electronics and studio tools that fail to earn a spot in their everyday operations. The discussion focuses on gadgets with attractive marketing promises that ultimately fall short under regular production demands.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/shorts/pjovhZ7HkNs",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-09-17T16:53:05+00:00"
-    },
-    {
-      "headline": "Behind the Scenes of Apple's Tightly Scripted Press Briefings",
-      "summary": "A behind-the-scenes look reveals the structured media access and closed-door demonstrations Apple arranges around its major launch events. The report examines how production crews navigate strict corporate choreography to test hardware before it reaches the public.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/shorts/3F9M1ttIIbU",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-09-14T18:32:10+00:00"
+      "url": "https://www.npr.org/2026/10/18/g-s1-148654/pope-leo-says-he-will-gradually-resume-duties-after-cancer-surgery",
+      "source": "NPR News",
+      "published": "2026-10-18T08:55:01-04:00"
     },
     {
       "headline": "NBA Preseason Roundup Highlights Rookie Standouts and Schemes",
@@ -129,6 +138,15 @@
       "published": "2026-10-17T17:52:22+00:00"
     },
     {
+      "headline": "Simulations Project Spread and Scoring Edge for Bills vs. Raiders",
+      "summary": "CBS Sports' predictive model has generated odds, game lines, and spread analysis for the Week 6 NFL tilt between Buffalo and Las Vegas. The quantitative forecast highlights specific matchup discrepancies to identify high-value betting opportunities.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/bills-raiders-prediction-odds-spread-time-2026-nfl-week-6-picks/",
+      "source": "CBS Sports",
+      "published": "2026-10-18T19:06:53+00:00"
+    },
+    {
       "headline": "Aleksandar Nikolov Dominates with 19 Points in Lube's SuperLega Opener Sweep",
       "summary": "Outside hitter Aleksandar Nikolov carried Cucine Lube Civitanova to a 3-0 sweep over Rana Verona with a match-high 19 points and five aces, including the match-clinching serve in the third set. Lube navigated tight sets to win 25-20, 25-19, and 28-26, outpacing Verona's top scorer Paul Buchegger, who finished with 13 points. The dominant win places Lube alongside Cisterna and Piacenza at the top of the SuperLega Credem Banca standings following the season's opening round.",
       "category": "Sports",
@@ -136,6 +154,15 @@
       "url": "https://volleyballmag.com/aleksandar-nikolov-serves-cucine-lube-civitanova-past-rana-verona-in-superlega/?utm_source=rss&utm_medium=rss&utm_campaign=aleksandar-nikolov-serves-cucine-lube-civitanova-past-rana-verona-in-superlega",
       "source": "Volleyball Mag",
       "published": "2026-10-18T17:52:44+00:00"
+    },
+    {
+      "headline": "Massive Pre-Order Surge Delays Apple Duo Deliveries to January",
+      "summary": "Opening customer demand for Apple's new Duo has vastly outstripped early inventory, pushing promised delivery dates from late October into late January within hours. Major U.S. mobile carriers are seeing identical inventory shortages across their order systems as production struggles to keep pace.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f",
+      "source": "Daring Fireball",
+      "published": "2026-10-18T20:04:44+00:00"
     },
     {
       "headline": "Chart Depicts Historic Apple TV Pricing Adjusted for Inflation",
@@ -165,40 +192,22 @@
       "published": "2026-10-16T04:04:00+00:00"
     },
     {
-      "headline": "Advanced Computer Model Projects Week 6 Cowboys-Packers Clash",
-      "summary": "CBS Sports has published its algorithmic predictions, point spread calculations, and betting value picks for Sunday Night Football between Dallas and Green Bay. The simulation weighs recent offensive efficiency and injury reports to determine the highest-probability outcomes for bettors.",
+      "headline": "Cowboys vs. Packers Sunday Night Football Breakdown",
+      "summary": "An advanced predictive model has generated win probabilities, point spreads, and expert picks for the upcoming Sunday Night Football matchup between the Dallas Cowboys and Green Bay Packers. Bettors can utilize these advanced analytics to evaluate odds and make informed wagers for the Week 6 showdown.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/cowboys-packers-prediction-odds-spread-time-week-6-sunday-night-football-picks-nfl-bets/",
+      "url": "https://www.cbssports.com/betting/news/cowboys-packers-prediction-odds-spread-time-week-6-sunday-night-football-picks-nfl-best-bets/",
       "source": "CBS Sports",
-      "published": "2026-10-18T21:25:25+00:00"
+      "published": "2026-10-18T23:01:31+00:00"
     },
     {
-      "headline": "Simulations Project Spread and Scoring Edge for Bills vs. Raiders",
-      "summary": "CBS Sports' predictive model has generated odds, game lines, and spread analysis for the Week 6 NFL tilt between Buffalo and Las Vegas. The quantitative forecast highlights specific matchup discrepancies to identify high-value betting opportunities.",
+      "headline": "NFL Week 6 Team Grades Highlight Browns' Rise and Colts' Collapse",
+      "summary": "The latest NFL power rankings and performance grades for Week 6 show the Cleveland Browns capturing the AFC North lead following a strong showing. Meanwhile, the Indianapolis Colts earned a failing grade after suffering a severe collapse during their matchup.",
       "category": "NFL",
       "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/bills-raiders-prediction-odds-spread-time-2026-nfl-week-6-picks/",
+      "url": "https://www.cbssports.com/nfl/news/nfl-grades-week-6-browns-ravens-afc-colts-2026/",
       "source": "CBS Sports",
-      "published": "2026-10-18T19:06:53+00:00"
-    },
-    {
-      "headline": "Massive Pre-Order Surge Delays Apple Duo Deliveries to January",
-      "summary": "Opening customer demand for Apple's new Duo has vastly outstripped early inventory, pushing promised delivery dates from late October into late January within hours. Major U.S. mobile carriers are seeing identical inventory shortages across their order systems as production struggles to keep pace.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f",
-      "source": "Daring Fireball",
-      "published": "2026-10-18T20:04:44+00:00"
-    },
-    {
-      "headline": "Computer Model Projects Week 6 NFL Matchups",
-      "summary": "CBS Sports rolled out its Week 6 algorithmic projections, generating game score forecasts and betting odds across the full league schedule. The statistical simulations aim to identify spread value and guide wager selections ahead of kickoff.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/week-6-nfl-score-predictions-odds-betting-advice-picks-computer-model-gives-projections-every-game/",
-      "source": "CBS Sports",
-      "published": "2026-10-18T16:02:28+00:00"
+      "published": "2026-10-18T22:43:52+00:00"
     },
     {
       "headline": "Revisiting Spacemen 3's Psychedelic Masterpiece",
@@ -228,15 +237,6 @@
       "published": "2026-10-17T17:25:13+00:00"
     },
     {
-      "headline": "Trump Blocks Several Russian Sanctions Amid Rising Tensions With Zelensky",
-      "summary": "President Donald Trump has used an executive order to waive multiple congressional sanctions targeting Russia's economy, citing national interest. The decision has drawn sharp criticism from domestic lawmakers and Ukrainian President Volodymyr Zelensky amidst a deepening diplomatic rift.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-18T01:10:25+00:00"
-    },
-    {
       "headline": "Chinese Nursery Owner Jailed for Life Over Mass Lead Poisoning",
       "summary": "A court in Gansu province sentenced nursery operator Li Huifang to life in prison after kitchen staff added toxic lead-tainted paint to meals to brighten their appearance. The poisoning affected over 240 children and staff, with food samples showing lead levels thousands of times above national safety limits.",
       "category": "World",
@@ -252,16 +252,25 @@
       "relevance": 7,
       "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump",
       "source": "NPR News",
-      "published": "2026-10-18T14:38:49-04:00"
+      "published": "2026-10-18T18:38:49+00:00"
     },
     {
-      "headline": "NFL Assesses Paris Security for Steelers-Saints Showcase",
-      "summary": "The NFL is evaluating safety protocols for its upcoming Pittsburgh Steelers and New Orleans Saints matchup in France amid escalating civil unrest. League officials are coordinating with local authorities to gauge potential travel disruptions and ensure fan security as widespread demonstrations grip the capital.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/nfl-addresses-safety-concerns-steelers-saints-france-protests-paris/",
-      "source": "CBS Sports",
-      "published": "2026-10-18T16:34:26+00:00"
+      "headline": "Verizon Launches Pre-Orders for iPhone Duo Plans",
+      "summary": "Verizon has officially opened pre-orders for the new iPhone Duo, offering incentives such as waived upgrade and activation fees along with three months of Apple One. Customers can secure the new devices without needing a trade-in while earning cash back in Verizon Dollars.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.verizon.com/about/news/iphone-duo-verizon-offers",
+      "source": "Daring Fireball",
+      "published": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "headline": "Meta Revises Terms to Remove 'Train' But Keeps Broad Scraping Rules",
+      "summary": "After facing criticism over data collection policies, Meta updated its upcoming business account terms to remove the word 'train.' However, legal experts warn that the revised language still permits extensive web scraping for advertising and business products, potentially bypassing traditional robxts protocols.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "source": "Hacker News",
+      "published": "2026-10-18T10:21:51+00:00"
     },
     {
       "headline": "West Ham Pressure Swansea at Top While Norwich Slide Toward Relegation",
@@ -273,6 +282,15 @@
       "published": "2026-10-17T19:43:05+00:00"
     },
     {
+      "headline": "Gruber Rebuts Rumors of a Robotic Swiveling Apple Smart Display",
+      "summary": "Daring Fireball highlights inaccuracies in prior reporting by The Information that claimed Apple was building a smart display equipped with a motorized swiveling base. The critique points out that speculative supply-chain leaks frequently misinterpret internal prototypes for shipping consumer products.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin",
+      "source": "Daring Fireball",
+      "published": "2026-10-18T21:26:32+00:00"
+    },
+    {
       "headline": "Former OpenAI Employee Accused of Stealing Trade Secrets",
       "summary": "An OpenAI employee reportedly transferred over 100 files regarding an unreleased product to a personal account before joining Apple. The individual subsequently presented information about the technology to Apple's senior leadership.",
       "category": "Tech/AI",
@@ -280,6 +298,24 @@
       "url": "https://www.reuters.com/business/retail-consumer/openai-employee-who-left-apple-took-files-about-unreleased-device-openai-alleges-2026-10-14/",
       "source": "Daring Fireball",
       "published": "2026-10-18T00:55:42+00:00"
+    },
+    {
+      "headline": "Netflix Updates VMAF Video Quality Engine with New Evaluation Models",
+      "summary": "Netflix has released a new set of evaluation models for VMAF, its Emmy-winning perceptual video quality tool used to benchmark streaming video. Packaged as a standalone C library with Python bindings, the framework bundles standard metrics like PSNR and SSIM alongside custom training capabilities. The latest release continues Netflix's open-source push to refine codec benchmarking and optimize encoding pipelines.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://github.com/Netflix/vmaf",
+      "source": "Hacker News",
+      "published": "2026-10-18T20:43:40+00:00"
+    },
+    {
+      "headline": "Why Java Sealed Classes Turn New Subtypes into Breaking API Changes",
+      "summary": "Java's sealed classes bring algebraic datatype handling to the language, letting compilers enforce exhaustive switch statements without fallback default branches. While this eliminates unhandled edge cases at compile time, it also turns adding any new subtype into an API-breaking change for downstream consumers. Without recompiling dependent code, unhandled additions can slip past build checks and trigger runtime exceptions.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "source": "Hacker News",
+      "published": "2026-10-18T14:47:37+00:00"
     },
     {
       "headline": "Open-Source MicroManipulator Brings Sub-Micrometer Motion Control to Makers",
@@ -298,6 +334,33 @@
       "url": "https://api-docs.deepseek.com/guides/search/",
       "source": "Hacker News",
       "published": "2026-10-18T06:50:36+00:00"
+    },
+    {
+      "headline": "New Git Hook Quizzes Developers on AI-Generated Code Before Pushing",
+      "summary": "A developer tool called Sphinx intercepts Git pushes to ensure engineers understand what their AI coding assistants have generated. The tool analyzes incoming diffs and prompts the user with questions regarding failure states and edge-case behavior before permitting code into protected branches. While developers can bypass checks with a quick override command, all skipped quizzes are logged to discourage blind code shipping.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "source": "Hacker News",
+      "published": "2026-10-18T04:33:49+00:00"
+    },
+    {
+      "headline": "Macron Demands Order After Mass Cost-of-Living Protests Turn Destructive",
+      "summary": "French President Emmanuel Macron issued an urgent call for calm after weekend demonstrations over fuel prices and decaying public services devolved into nationwide looting. Roughly 550,000 citizens took to the streets, but violent clashes led to approximately 2,400 arrests and the destruction of historic sites, including the gutting of Limoges' 19th-century city hall. Police deployed tear gas and stun grenades across Paris and Lyon as isolated street fighting continued into Sunday.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-18T20:33:21+00:00"
+    },
+    {
+      "headline": "Rain Sparks Deadly Stampede at Kolkata Festival Event, Killing 17",
+      "summary": "At least 17 people, including a seven-year-old girl, died in a stampede during Durga Puja celebrations in Kolkata after sudden rain prompted crowds to rush for shelter. Witnesses and police reported that an announcement triggered widespread panic, causing people to trip and get trampled in the crush. Another 25 individuals were hospitalized as authorities face renewed scrutiny over crowd management at major religious gatherings.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-17T19:19:16+00:00"
     },
     {
       "headline": "Pope Leo XIV Makes First Public Appearance Post-Surgery",
@@ -327,67 +390,40 @@
       "published": "2026-10-17T15:57:40+00:00"
     },
     {
-      "headline": "Gruber Rebuts Rumors of a Robotic Swiveling Apple Smart Display",
-      "summary": "Daring Fireball highlights inaccuracies in prior reporting by The Information that claimed Apple was building a smart display equipped with a motorized swiveling base. The critique points out that speculative supply-chain leaks frequently misinterpret internal prototypes for shipping consumer products.",
-      "category": "Tech/AI",
+      "headline": "Ben Simmons Tears Achilles, Expected to Miss Entire Season",
+      "summary": "Sacramento Kings guard Ben Simmons suffered a torn Achilles tendon, effectively derailing his anticipated comeback before it officially began. The severe injury is expected to sideline the veteran player for the entirety of the NBA season.",
+      "category": "NBA",
       "relevance": 6,
-      "url": "https://www.theinformation.com/articles/apple-developing-ai-wearable-pin",
-      "source": "Daring Fireball",
-      "published": "2026-10-18T21:26:32+00:00"
+      "url": "https://www.cbssports.com/nba/news/ben-simmons-injury-achilles-kings-comeback-season/",
+      "source": "CBS Sports",
+      "published": "2026-10-18T23:06:26+00:00"
     },
     {
-      "headline": "Macron Demands Order After Mass Cost-of-Living Protests Turn Destructive",
-      "summary": "French President Emmanuel Macron issued an urgent call for calm after weekend demonstrations over fuel prices and decaying public services devolved into nationwide looting. Roughly 550,000 citizens took to the streets, but violent clashes led to approximately 2,400 arrests and the destruction of historic sites, including the gutting of Limoges' 19th-century city hall. Police deployed tear gas and stun grenades across Paris and Lyon as isolated street fighting continued into Sunday.",
+      "headline": "Violent Anti-Government Clashes Rock Central Tirana",
+      "summary": "Demonstrators and riot police clashed in the center of Tirana, Albania, for a fifth consecutive day amid mounting corruption scandals surrounding Prime Minister Edi Rama. Protesters pelted police with rocks and petrol bombs while security forces deployed tear gas, water cannon, and reportedly rubber bullets, resulting in numerous injuries and hundreds of arrests.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-18T19:14:10.211Z"
+      "published": "2026-10-17T20:53:00.817Z"
     },
     {
-      "headline": "Netflix Updates VMAF Video Quality Engine with New Evaluation Models",
-      "summary": "Netflix has released a new set of evaluation models for VMAF, its Emmy-winning perceptual video quality tool used to benchmark streaming video. Packaged as a standalone C library with Python bindings, the framework bundles standard metrics like PSNR and SSIM alongside custom training capabilities. The latest release continues Netflix's open-source push to refine codec benchmarking and optimize encoding pipelines.",
+      "headline": "Understanding Parser Combinators in Functional Programming",
+      "summary": "A technical breakdown explores parser combinators, demonstrating how small, modular parsing functions can be chained together to process structured text strings into typed objects. The guide illustrates how individual parsers handle specific data types like integers and whitespace before combining into complex sequences.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://github.com/Netflix/vmaf",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
       "source": "Hacker News",
-      "published": "2026-10-18T20:43:40+00:00"
+      "published": "2026-10-18T08:19:53+00:00"
     },
     {
-      "headline": "Alberta Military Base Fire Leaves 4 Dead and 19 in Critical Condition",
-      "summary": "A fast-moving grass fire at Canadian Forces Base Wainwright in Alberta killed four service members and left 19 others critically injured during live training exercises. Fierce winds rapidly redirected the blaze across the training range, triggering a mass-casualty response that deployed 22 ambulances and eight aircraft. Prime Minister Mark Carney called the incident one of the worst peacetime military tragedies in modern Canadian history as investigators work to confirm what ignited the flames.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-18T17:48:53.040Z"
-    },
-    {
-      "headline": "Why Java Sealed Classes Turn New Subtypes into Breaking API Changes",
-      "summary": "Java's sealed classes bring algebraic datatype handling to the language, letting compilers enforce exhaustive switch statements without fallback default branches. While this eliminates unhandled edge cases at compile time, it also turns adding any new subtype into an API-breaking change for downstream consumers. Without recompiling dependent code, unhandled additions can slip past build checks and trigger runtime exceptions.",
+      "headline": "Study Suggests Dogs Share Human Association of 'Bouba' and 'Kiki'",
+      "summary": "A new behavioral study conducted by University of Parma researchers indicates that domestic dogs associate rounded shapes with the sound 'bouba' and spiky shapes with 'kiki,' mirroring human psychological tendencies. Using automated video tracking, scientists observed that canine gaze patterns consistently aligned with these abstract phonetic shapes.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
       "source": "Hacker News",
-      "published": "2026-04-24T12:48:19+00:00"
-    },
-    {
-      "headline": "Rain Sparks Deadly Stampede at Kolkata Festival Event, Killing 17",
-      "summary": "At least 17 people, including a seven-year-old girl, died in a stampede during Durga Puja celebrations in Kolkata after sudden rain prompted crowds to rush for shelter. Witnesses and police reported that an announcement triggered widespread panic, causing people to trip and get trampled in the crush. Another 25 individuals were hospitalized as authorities face renewed scrutiny over crowd management at major religious gatherings.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-17T19:19:16.384Z"
-    },
-    {
-      "headline": "New Git Hook Quizzes Developers on AI-Generated Code Before Pushing",
-      "summary": "A developer tool called Sphinx intercepts Git pushes to ensure engineers understand what their AI coding assistants have generated. The tool analyzes incoming diffs and prompts the user with questions regarding failure states and edge-case behavior before permitting code into protected branches. While developers can bypass checks with a quick override command, all skipped quizzes are logged to discourage blind code shipping.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://sphinx-six-theta.vercel.app/",
-      "source": "Hacker News",
-      "published": "2026-10-18T04:33:49+00:00"
+      "published": "2026-10-13T23:00:00+00:00"
     },
     {
       "headline": "Florian Wirtz Sets Playmaking Record Despite Persistent Tactical Concerns",
@@ -399,49 +435,13 @@
       "published": "2026-10-17T20:07:40+00:00"
     },
     {
-      "headline": "NFL Week 6 Expert Betting Guide Highlights Giants, Chiefs, and Packers",
-      "summary": "Football analysts have released their top predictions and odds for Week 6 of the NFL season. Experts are showing strong confidence in backing the Giants, Chiefs, and Packers heading into Sunday's matchups. Bettors are heavily weighing these recommendations as mid-season divisional races start to heat up.",
+      "headline": "Rams Kicker Blake Grupe Suffers Knee Injury Early in Debut",
+      "summary": "Los Angeles Rams kicker Blake Grupe was ruled out for the remainder of his team debut after sustaining a knee injury just minutes into the game. The sudden injury forces the Rams to quickly reevaluate their special teams strategy mid-contest.",
       "category": "NFL",
       "relevance": 5,
-      "url": "https://www.cbssports.com/betting/news/2026-week-6-nfl-odds-picks-predictions-best-bets-experts-backing-giants-chiefs-packers-sunday/",
+      "url": "https://www.cbssports.com/nfl/news/rams-kicker-blake-grupe-suffers-knee-injury-updates/",
       "source": "CBS Sports",
-      "published": "2026-10-18T16:07:48+00:00"
-    },
-    {
-      "headline": "Neat JavaScript Trick Renders Inline Content Using document.currentScript",
-      "summary": "Web developer Lean Rada shared a clever JavaScript technique that leverages the document.currentScript property to drop self-replacing inline script elements into a webpage. By defining a simple shortcut function, developers can create a lightweight template language directly inside HTML. This allows dynamic content, such as the current year, to render inline without complex frameworks.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "source": "Simon Willison",
-      "published": "2026-10-17T21:11:12+00:00"
-    },
-    {
-      "headline": "Mitos Launches as Feature-Packed Helix Modal Text Editor Fork",
-      "summary": "Mitos has debuted as a standalone fork of the Helix modal editor, offering out-of-the-box support for multiple selections and multi-cursor workflows. The terminal-based editor integrates Language Server Protocol features, Tree-sitter syntax navigation, and Debug Adapter Protocol capabilities directly into the core experience. Users also gain terminal-native file exploration and built-in image previewing tools without needing third-party extensions.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://mitos.computer/",
-      "source": "Hacker News",
-      "published": "2026-10-18T17:19:34+00:00"
-    },
-    {
-      "headline": "System Administrator Reports Namecheap Abruptly Seized and Disabled All Registered Domains",
-      "summary": "A system administrator took to Reddit to report that domain registrar Namecheap unexpectedly took down and seized all active domains tied to their account. The incident sparked widespread discussion across the technical community regarding registrar reliability, sudden account terminations, and infrastructure risk management.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-      "source": "Hacker News",
-      "published": "2026-10-18T16:56:56+00:00"
-    },
-    {
-      "headline": "RepRapMicron Project Achieves Micron-Scale 3D Printing with Common Materials",
-      "summary": "The µRepRap project successfully demonstrates sub-micron fabrication using accessible, low-cost workshop materials. Its latest hardware iteration, dubbed PIKA V0.02, achieves repeatable positioning of roughly 1 micrometer and has successfully deposited UV resin droplets as small as 4 micrometers. The initiative builds upon open-source microscope platforms to bring high-precision manufacturing to home makers.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "source": "Hacker News",
-      "published": "2026-10-18T13:48:48+00:00"
+      "published": "2026-10-18T22:23:03+00:00"
     },
     {
       "headline": "Longtime NPR 'All Things Considered' Host Noah Adams Dies at 84",
@@ -450,7 +450,7 @@
       "relevance": 4,
       "url": "https://www.npr.org/2026/10/18/nx-s1-5556931/noah-adams-all-things-considered-has-died",
       "source": "NPR News",
-      "published": "2026-10-18T12:30:00-04:00"
+      "published": "2026-10-18T16:30:00+00:00"
     }
   ]
 }
