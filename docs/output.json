@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T17:37:12.709689+00:00",
+  "generated_at": "2026-10-25T19:56:05.111416+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -93,6 +93,15 @@
       "published": "2026-10-23T15:18:00+00:00"
     },
     {
+      "headline": "CBS Sports Previews Packers-Lions Week 7 Matchup",
+      "summary": "CBS Sports provides betting odds, start times, and advanced model predictions for the Week 7 NFL showdown between the Green Bay Packers and the Detroit Lions. Fans and bettors can check the latest spreads and analytics ahead of the divisional clash.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/betting/news/packers-lions-prediction-odds-time-spread-2026-nfl-week-7-picks/",
+      "source": "CBS Sports",
+      "published": "2026-10-25T19:23:27+00:00"
+    },
+    {
       "headline": "NBA Clarity and Early Trends",
       "summary": "A comprehensive look at recent NBA reporting highlights franchise organizational strategies and early-season adjustments. Notably, Orlando and Denver stood out on opening night as the only teams returning all five starters from the previous season.",
       "category": "NBA",
@@ -138,13 +147,49 @@
       "published": "2026-10-23T04:00:00+00:00"
     },
     {
-      "headline": "A Mathematician Examines the Trajectory of Artificial Intelligence",
-      "summary": "An Atlantic essay explores mathematical perspectives on the future development and long-term implications of artificial intelligence. The piece examines how mathematical principles might shape machine intelligence as the technology continues to advance.",
+      "headline": "Basketball Intelligence Newsletter Covers Early NBA Trends",
+      "summary": "The latest Basketball Intelligence newsletter breaks down early-season NBA storylines, featuring analysis on rookie performances from the 2026 draft class and tracking data insights from Week 1. It also highlights league-wide trends and game notes from around the association.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-102526",
+      "source": "Basketball Intelligence",
+      "published": "2026-10-25T18:01:14+00:00"
+    },
+    {
+      "headline": "The Art History Roots of iPhone Portrait Mode",
+      "summary": "Reflecting on a decade of iPhone Portrait Mode, developer Johnnie Manzari revealed that the feature's breakthrough came from studying traditional oil painting techniques rather than pure math. By using machine learning to protect subjects' eyes and strategically increasing background blur, Apple successfully masked digital depth-calculation artifacts.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+      "url": "https://x.com/johnnie/status/2114007844605612167",
+      "source": "Daring Fireball",
+      "published": "2026-10-24T14:55:21.000Z"
+    },
+    {
+      "headline": "Argus Launches Open-Source Security Platform for AI Agents",
+      "summary": "Argus has released an open-source security operations platform designed to defend cloud, identity, and network infrastructure against agentic attacks at machine speed. The self-hosted tool uses specialist AI agents for read-only triage while keeping human operators in control via automated, reversible playbooks.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/thomasunise/argus",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-24T17:13:57Z"
+    },
+    {
+      "headline": "Anthropic Quietly Nerfs Claude’s Reverse-Engineering Powers",
+      "summary": "Users report that Anthropic's Claude Opus 5.5 model has been stealthily updated to trigger safety guardrails when prompted to reverse-engineer software and intellectual property. The silent nerf follows a wave of viral projects where the AI was used to recompile games and modify smart TV firmware.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://kotaku.com/claudes-reverse-engineering-capabilities-used-to-recompile-games-may-have-been-quietly-nerfed-2000749320",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-24T16:48:26+00:00"
+    },
+    {
+      "headline": "Decade-Old CNN Beats Frontier LLMs in Skin Cancer Diagnosis",
+      "summary": "A test of 200 biopsy-proven skin lesions revealed that a fine-tuned Inception v3 convolutional neural network from 2015 outperformed cutting-edge LLMs like GPT-6 Astra and Claude Fable 5.1 in identifying skin cancer. While the 10-year-old CNN correctly diagnosed 62 percent of the cases, the frontier language models managed only 42 percent.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://lynchlab.net/llm-skin-cancer",
       "source": "Hacker News",
-      "published": "2026-10-25T16:31:21+00:00"
+      "published": "2026-10-25T17:15:38+00:00"
     },
     {
       "headline": "CBS Sports Releases Week 7 NFL Predictions and Odds",
@@ -165,13 +210,13 @@
       "published": "2026-10-25T04:00:00+00:00"
     },
     {
-      "headline": "Seven Missing After High-Rise Collapses in Nairobi",
-      "summary": "A multi-storey building under construction in Nairobi's Eastleigh neighborhood abruptly collapsed, leaving seven people feared trapped beneath the rubble. While dozens of construction workers escaped safely, officials noted that ground-floor shops had opened without proper occupancy permits, reigniting scrutiny over lax building standards.",
+      "headline": "Musk Confirms SpaceX Restricted Starlink for Ukraine Amid Military Use Dispute",
+      "summary": "Elon Musk acknowledged that SpaceX restricted Ukraine's civilian Starlink service after arguing that Kyiv violated terms of agreement by using it for offensive drone strikes. The admission follows a dispute over connectivity issues that Ukrainian officials claimed hampered defensive operations for over a week.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-24T17:25:46+00:00"
+      "published": "2026-10-25T09:00:00+00:00"
     },
     {
       "headline": "Review Highlights Ergonomic Drawbacks of the New Duo",
@@ -219,13 +264,40 @@
       "published": "2026-10-25T09:51:17+00:00"
     },
     {
-      "headline": "Creative Industries Shed Over 200K Jobs Amid AI Surge",
-      "summary": "The U.S. creative sector has lost more than 200,000 jobs over the past four years, marking one of the worst employment slumps in modern history outside of major economic recessions. While traditional digital media and movie production face unprecedented downturns, experts point to the simultaneous rise of low-cost generative AI tools as a significant disruptor.",
-      "category": "Tech/AI",
+      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "",
+      "category": "World",
       "relevance": 7,
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News",
-      "published": "2026-10-24T23:11:54+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-25T18:29:00+00:00"
+    },
+    {
+      "headline": "Serbia Faces High Voter Turnout as Opposition Seeks to Oust Longtime Leader",
+      "summary": "Serbian parliamentary elections have drawn a heavy voter turnout, with participation reaching 46% early in the day as a student-led anti-corruption movement challenges President Aleksandar Vučić. The snap vote follows years of mounting public anger sparked by the deadly 2024 train station canopy collapse in Novi Sad.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-25T19:55:15+00:00"
+    },
+    {
+      "headline": "Seven Missing After High-Rise Collapses in Nairobi",
+      "summary": "A multi-storey building under construction in Nairobi's Eastleigh neighborhood abruptly collapsed, leaving seven people feared trapped beneath the rubble. While dozens of construction workers escaped safely, officials noted that ground-floor shops had opened without proper occupancy permits, reigniting scrutiny over lax building standards.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-24T17:25:46+00:00"
+    },
+    {
+      "headline": "Venezuelan Opposition Leader María Corina Machado Returns After Ten Months in Exile",
+      "summary": "Venezuelan opposition figure María Corina Machado has returned to the country following ten months abroad, making her first public appearance at a church in Lara State. Her return creates a direct political challenge for interim President Delcy Rodríguez, who assumed power after U.S. forces captured Nicolás Maduro in January.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "source": "NPR News",
+      "published": "2026-10-25T16:18:41+00:00"
     },
     {
       "headline": "Democrats Target Western Senate Seats via Independents",
@@ -246,85 +318,13 @@
       "published": "2026-10-25T09:00:00+00:00"
     },
     {
-      "headline": "Musk Confirms SpaceX Restricted Starlink for Ukraine Amid Military Use Dispute",
-      "summary": "Elon Musk acknowledged that SpaceX restricted Ukraine's civilian Starlink service after arguing that Kyiv violated terms of agreement by using it for offensive drone strikes. The admission follows a dispute over connectivity issues that Ukrainian officials claimed hampered defensive operations for over a week.",
+      "headline": "Nigeria Village Raid Death Toll Reaches 48",
+      "summary": "Police in Taraba state confirm that the death toll from a weekend motorcycle raid by unidentified gunmen on Binnari village has climbed to 48, with Amnesty International citing 52 local deaths. The attackers spent hours looting shops and setting homes ablaze while residents fled into nearby bushes and rivers.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-25T08:15:24.611Z"
-    },
-    {
-      "headline": "Venezuelan Opposition Leader María Corina Machado Returns After Ten Months in Exile",
-      "summary": "Venezuelan opposition figure María Corina Machado has returned to the country following ten months abroad, making her first public appearance at a church in Lara State. Her return creates a direct political challenge for interim President Delcy Rodríguez, who assumed power after U.S. forces captured Nicolás Maduro in January.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-      "source": "NPR News",
-      "published": "2026-10-25T12:18:41-04:00"
-    },
-    {
-      "headline": "Venezuelan opposition leader María Machado returns after months in exile",
-      "summary": "",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-25T16:21:40.228Z"
-    },
-    {
-      "headline": "Serbia Faces High Voter Turnout as Opposition Seeks to Oust Longtime Leader",
-      "summary": "Serbian parliamentary elections have drawn a heavy voter turnout, with participation reaching 46% early in the day as a student-led anti-corruption movement challenges President Aleksandar Vučić. The snap vote follows years of mounting public anger sparked by the deadly 2024 train station canopy collapse in Novi Sad.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-25T15:07:00.187Z"
-    },
-    {
-      "headline": "Premier League Approaches Peak Manager Sacking Season",
-      "summary": "As autumn progresses, Premier League clubs historically ramp up managerial changes, with November and December accounting for nearly a third of all in-season departures. Manchester United's Michael Carrick and other struggling bosses face mounting pressure as this volatile period approaches.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-25T06:17:46+00:00"
-    },
-    {
-      "headline": "Apple Executive Greets Customers at Austin Launch",
-      "summary": "Footage shows Apple CEO Ternus welcoming customers outside an Austin, Texas, retail location to celebrate the latest product launch. Crowds gathered as the executive interacted with shoppers during the busy opening event.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/",
-      "source": "Daring Fireball",
-      "published": "2026-10-24T22:08:17+00:00"
-    },
-    {
-      "headline": "Israel Shuts West Bank Crossings and Bars Workers Amid Crackdown",
-      "summary": "The Israeli military is closing all West Bank land crossings and barring Palestinian workers from settlements during Tuesday's election. The sweeping restrictions and home demolitions in Hebron follow a deadly shooting attack that killed two Israeli soldiers.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-25T05:15:52+00:00"
-    },
-    {
-      "headline": "Nearly 1,000 Arrested During Fresh Protests Across France",
-      "summary": "French authorities arrested roughly 1,000 people as hundreds of thousands participated in widespread protests over living costs and school conditions. Police deployed tear gas and water cannons to disperse crowds after skirmishes and property damage erupted in cities like Paris and Marseille.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-25T10:38:15+00:00"
-    },
-    {
-      "headline": "Oregon Ranchers Crushed by Drought and Diesel Costs",
-      "summary": "Cattle ranchers in Harney County, Oregon, are facing immense financial pressure due to a combination of persistent drought, wildfires, and soaring diesel prices. The high cost of fuel has inflated the expense of purchasing and trucking in supplemental hay for livestock. While producers acknowledge recent executive relief efforts, operating costs remain dangerously high.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
-      "source": "NPR News",
-      "published": "2026-10-25T04:01:00+00:00"
+      "published": "2026-10-25T03:20:16.018Z"
     },
     {
       "headline": "CBS Sports Previews Sunday Night Football Clash Between Seahawks and Chiefs",
@@ -345,15 +345,6 @@
       "published": "2026-10-25T16:21:43+00:00"
     },
     {
-      "headline": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Lions-Packers, Chiefs-Seahawks",
-      "summary": "",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-odds-totals-spreads-lines/",
-      "source": "CBS Sports",
-      "published": "2026-10-25T16:20:39+00:00"
-    },
-    {
       "headline": "Week 7 Fantasy Football rankings update",
       "summary": "",
       "category": "Sports",
@@ -363,13 +354,40 @@
       "published": "2026-10-25T15:55:57+00:00"
     },
     {
-      "headline": "Israel Heads to Pivotal Polls Following Years of Post-Oct. 7 Conflict",
-      "summary": "Israelis are casting ballots in a high-stakes general election that pits longtime Prime Minister Benjamin Netanyahu against center-right challenger Gadi Eisenkot. Voters face a fundamental choice on whether to maintain Netanyahu's nationalist coalition and military campaigns or shift leadership in the wake of the October 7 attacks.",
+      "headline": "Premier League Approaches Peak Manager Sacking Season",
+      "summary": "As autumn progresses, Premier League clubs historically ramp up managerial changes, with November and December accounting for nearly a third of all in-season departures. Manchester United's Michael Carrick and other struggling bosses face mounting pressure as this volatile period approaches.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-10-25T06:17:46+00:00"
+    },
+    {
+      "headline": "Week 7 NFL betting odds, spreads, totals, lines for every game, including Lions-Packers, Chiefs-Seahawks",
+      "summary": "",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-odds-totals-spreads-lines/",
+      "source": "CBS Sports",
+      "published": "2026-10-25T16:20:39+00:00"
+    },
+    {
+      "headline": "Apple Executive Greets Customers at Austin Launch",
+      "summary": "Footage shows Apple CEO Ternus welcoming customers outside an Austin, Texas, retail location to celebrate the latest product launch. Crowds gathered as the executive interacted with shoppers during the busy opening event.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.reuters.com/business/retail-consumer/apple-bets-iphone-duo-can-remake-foldable-market-sales-begin-2026-10-22/",
+      "source": "Daring Fireball",
+      "published": "2026-10-24T22:08:17+00:00"
+    },
+    {
+      "headline": "Israel Shuts West Bank Crossings and Bars Workers Amid Crackdown",
+      "summary": "The Israeli military is closing all West Bank land crossings and barring Palestinian workers from settlements during Tuesday's election. The sweeping restrictions and home demolitions in Hebron follow a deadly shooting attack that killed two Israeli soldiers.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-      "source": "NPR News",
-      "published": "2026-10-25T12:00:00-04:00"
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-25T05:15:52+00:00"
     },
     {
       "headline": "Gabon Lifts Eight-Month Social Media Ban",
@@ -378,70 +396,43 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-25T14:39:47.606Z"
+      "published": "2026-10-25T14:39:47+00:00"
     },
     {
-      "headline": "Michael Carrick Faces Rising Pressure After Manchester United's Defeat",
-      "summary": "Manchester United manager Michael Carrick is fighting to save his job after a 3-0 home loss to Bournemouth left the team sitting 16th in the Premier League. The club has managed just one win in its opening eight league matches under Carrick. Growing internal friction and disappointing performances have severely threatened the manager's future at Old Trafford.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/crgj9wnpd1lvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-25T16:51:48.133Z"
-    },
-    {
-      "headline": "Bruno Fernandes Benched During Manchester United's Loss to Bournemouth",
-      "summary": "Manchester United captain Bruno Fernandes was left on the bench for Sunday's 3-0 defeat against Bournemouth following public criticism of manager Michael Carrick's tactics. Carrick described the controversial omission as a pure football decision rather than a disciplinary measure. The move backfired as United's winless streak extended to eight matches in all competitions.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmrlye5w3p79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-25T12:58:18.254Z"
-    },
-    {
-      "headline": "Oregon Fires Offensive Coordinator Drew Mehringer",
-      "summary": "The Oregon Ducks have dismissed offensive coordinator Drew Mehringer amid ongoing offensive struggles and stagnant scoring. The move comes as the team looks to shake up its coaching staff to revitalize production on the field. Further updates on an interim replacement are expected as the season progresses.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/college-football/news/oregon-fires-offensive-coordinator-drew-mehringer/",
-      "source": "CBS Sports",
-      "published": "2026-10-25T16:49:47+00:00"
-    },
-    {
-      "headline": "New Tool Visualizes S&P 500 Market Caps Through Employee Density",
-      "summary": "A newly created web project maps S&P 500 companies as market-cap proportional bubbles filled with stick figures representing their workforce. The visualization demonstrates the disparity in value per employee across various market sectors. Users can zoom in and inspect individual company breakdowns based on annual reports.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://bigwhalehunting.com/workforce/",
-      "source": "Hacker News",
-      "published": "2026-10-25T15:05:39+00:00"
-    },
-    {
-      "headline": "Baylor Fires Head Coach Dave Aranda",
-      "summary": "Baylor University has dismissed head coach Dave Aranda following a disappointing string of losses, including a recent defeat to Kansas. The program is already eyeing potential replacements, with coaches like Lincoln Riley and Spencer Danielson emerging as candidates. Aranda departs after seven years at the helm.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/college-football/news/baylor-fires-dave-aranda-disappointing-loss-to-kansas/",
-      "source": "CBS Sports",
-      "published": "2026-10-25T16:35:09+00:00"
-    },
-    {
-      "headline": "Suspect in Deadly Paris Suburb Shooting Under Psychiatric Evaluation",
-      "summary": "French anti-terrorism officials have transferred the suspect in a fatal racially motivated shooting near Paris to a psychiatric facility for observation. The attack left one person dead and five others injured, including a 12-year-old girl in critical condition. President Emmanuel Macron condemned the incident as a terrorist attack targeting victims based on race and religion.",
+      "headline": "Nearly 1,000 Arrested During Fresh Protests Across France",
+      "summary": "French authorities arrested roughly 1,000 people as hundreds of thousands participated in widespread protests over living costs and school conditions. Police deployed tear gas and water cannons to disperse crowds after skirmishes and property damage erupted in cities like Paris and Marseille.",
       "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-25T15:32:51.846Z"
+      "published": "2026-10-25T10:38:15+00:00"
     },
     {
-      "headline": "1505 Nuremberg Knight's Tool Book Receives First Full Digitization",
-      "summary": "The Löffelholz-Codex, a 1505 manuscript created by Nuremberg knight Martin Löffelholz, is being fully transcribed, translated, and digitized for the first time in over 500 years. The 154-page document features surprisingly modern illustrations of early engineering feats, including swiveling office chairs on casters, interchangeable drill bits, and complex crossbows. A dedicated project is now making these historical designs and their modern interpretations publicly accessible page by page.",
-      "category": "Other",
-      "relevance": 3,
-      "url": "https://loeffelholz-codex.org/en/",
-      "source": "Hacker News",
-      "published": "2026-10-25T12:37:54+00:00"
+      "headline": "Israel Heads to Pivotal Polls Following Years of Post-Oct. 7 Conflict",
+      "summary": "Israelis are casting ballots in a high-stakes general election that pits longtime Prime Minister Benjamin Netanyahu against center-right challenger Gadi Eisenkot. Voters face a fundamental choice on whether to maintain Netanyahu's nationalist coalition and military campaigns or shift leadership in the wake of the October 7 attacks.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "source": "NPR News",
+      "published": "2026-10-25T16:00:00+00:00"
+    },
+    {
+      "headline": "Celtics Navigate Early Drama and Defeat the Knicks",
+      "summary": "Jayson Tatum addressed lingering offseason chatter regarding teammate Jaylen Brown, insisting there is no rift between them after a strong home-opening victory over the New York Knicks. Tatum delivered a clutch performance down the stretch to secure the 107-103 win for Boston.",
+      "category": "NBA",
+      "relevance": 6,
+      "url": "https://www.celticsblog.com/boston-celtics-daily-links/148313/boston-celtics-daily-links-10-24-26",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-10-24T19:52:50+00:00"
+    },
+    {
+      "headline": "CBS Sports Evaluates AP Top 25 Marquee Matchups",
+      "summary": "CBS Sports reviews the current AP Top 25 college football rankings to analyze how early marquee wins have held up over the course of the season. The evaluation highlights which high-profile victories have aged well and which have lost their luster.",
+      "category": "Sports",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/college-football/news/college-football-ap-top-25-rankings-wins-well/",
+      "source": "CBS Sports",
+      "published": "2026-10-25T19:20:40+00:00"
     },
     {
       "headline": "Nikola Jokić Tells Booing Nuggets Fans They Are Not Welcome",
@@ -451,6 +442,15 @@
       "url": "https://www.cbssports.com/nba/news/nikola-jokic-nuggets-fans-boos-pelicans/",
       "source": "CBS Sports",
       "published": "2026-10-25T16:54:56+00:00"
+    },
+    {
+      "headline": "SUNNNY Introduces B2B Customer Data Consolidation Tool",
+      "summary": "SUNNNY has launched a new B2B software platform designed to aggregate, clean, and resolve customer data across disparate enterprise systems for teams and AI models. The company promises strict data privacy, allowing clients to manage their own encryption keys without training external models.",
+      "category": "Other",
+      "relevance": 2,
+      "url": "https://sunnny.com/",
+      "source": "Daring Fireball",
+      "published": "2026-10-25T19:08:05+00:00"
     }
   ]
 }
