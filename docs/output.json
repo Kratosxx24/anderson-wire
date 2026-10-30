@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:20:02.563675+00:00",
+  "generated_at": "2026-10-30T19:31:24.410996+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -45,7 +45,7 @@
       "relevance": 9,
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-8-ppr-cheat-sheet/",
       "source": "CBS Sports",
-      "published": "2026-10-30T12:26:38+00:00"
+      "published": "2026-10-30T18:55:03+00:00"
     },
     {
       "headline": "WSJ Explores Apple's Supplier Tension Tactics",
@@ -57,22 +57,13 @@
       "published": "2026-10-29T19:44:11+00:00"
     },
     {
-      "headline": "Tiny World Model Runs Playable Games on Microcontroller",
-      "summary": "A developer successfully built a tiny world model and streaming RL agent capable of generating and playing games on a Raspberry Pi Pico 2 W. The setup uses a looped transformer for the world model and an MLP for the actor, reusing weights to operate within strict memory limits.",
+      "headline": "Cursor Marketplace Serves Malicious Claude Extension",
+      "summary": "Security researchers discovered a malicious backdoor in version 2.1.313 of the official Claude Code extension on the Cursor Marketplace. The bundle attempted to drop persistent SSH access across macOS, Linux, and Windows systems. Marketplaces have since pulled the compromised release from their registries.",
       "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
       "source": "Hacker News",
-      "published": "2026-10-29T20:32:28+00:00"
-    },
-    {
-      "headline": "Deadly Russian Drone Strike Hits Dnipro Train Station",
-      "summary": "A Russian jet-powered drone struck a crowded platform at the main railway station in Dnipro, killing at least 14 people and wounding 14 others. President Volodymyr Zelensky condemned the attack on civilian infrastructure and called for tougher international sanctions against Moscow.",
-      "category": "World",
-      "relevance": 9,
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T14:17:35+00:00"
+      "published": "2026-10-30T07:09:12+00:00"
     },
     {
       "headline": "ASMR iPhone Duo Unboxing Released",
@@ -138,31 +129,13 @@
       "published": "2026-10-28T04:00:00+00:00"
     },
     {
-      "headline": "Anthropic Hit by Official Extension Backdoor",
-      "summary": "Anthropic suffered a security compromise affecting its developer tools. Attackers managed to inject malicious payloads into official Claude Code extensions.",
-      "category": "Tech/AI",
+      "headline": "Bears Land DT Jeffery Simmons in Historic Two-First-Round Pick Trade with Titans",
+      "summary": "Chicago acquired All-Pro defensive tackle Jeffery Simmons from Tennessee in exchange for two first-round draft picks and a fourth-rounder. Simmons, who signed a massive extension in June, joins a potent Bears defense to bolster their pass rush. The trade marks the first time in the common draft era that a defensive tackle has commanded multiple first-round picks.",
+      "category": "NFL",
       "relevance": 9,
-      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-      "source": "Hacker News",
-      "published": "2026-10-30T08:07:31Z"
-    },
-    {
-      "headline": "Trojan Disguised as Claude Developer Tool",
-      "summary": "An unauthorized backdoor targeting Claude developers was distributed via compromised software. The incident delivered a remote access trojan directly to laptops worldwide.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "source": "Hacker News",
-      "published": "2026-10-30T10:22:51+00:00"
-    },
-    {
-      "headline": "Cursor Marketplace Serves Malicious Claude Extension",
-      "summary": "Security researchers discovered a malicious backdoor in version 2.1.313 of the official Claude Code extension on the Cursor Marketplace. The bundle attempted to drop persistent SSH access across macOS, Linux, and Windows systems. Marketplaces have since pulled the compromised release from their registries.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "source": "Hacker News",
-      "published": "2026-10-30T00:00:00Z"
+      "url": "https://www.thebiglead.com/2026-nfl-trade-deadline-tracker-grading-every-deal-top-available-candidates/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-10-29T18:12:55+00:00"
     },
     {
       "headline": "Basketball Intelligence Highlights Early NBA Season Surprises",
@@ -183,13 +156,13 @@
       "published": "2026-10-29T10:00:00+00:00"
     },
     {
-      "headline": "Inside Apple's Long Journey to Bringing a Touchscreen to the Mac",
-      "summary": "Steven Levy explores the internal history of how Apple finally decided to incorporate a touch display into its MacBook lineup. The piece breaks down the engineering hurdles and shifting philosophies that led to the breakthrough.",
-      "category": "Tech/AI",
+      "headline": "Audio Reveals Control Center Error in Deadly Spanish Crash",
+      "summary": "Leaked audio recordings indicate that a Madrid control center mistakenly cleared a Renfe passenger train to proceed at normal speed despite a stalled train 25 kilometers ahead. The collision resulted in at least 69 deaths, prompting Spain to declare three days of national mourning.",
+      "category": "World",
       "relevance": 8,
-      "url": "https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "source": "Daring Fireball",
-      "published": "2026-10-29T04:06:15+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-29T11:07:35+00:00"
     },
     {
       "headline": "OpenAI Adds API Credits Benefit for High-Tier Subscribers",
@@ -201,33 +174,6 @@
       "published": "2026-10-29T22:48:29+00:00"
     },
     {
-      "headline": "Developer Compiles Neural Networks Into Playable DOOM Maps",
-      "summary": "A project called Doomformer compiles integer neural networks directly into ZDoom maps, utilizing voodoo dolls for arithmetic and sector properties for data storage. Running through ViZDoom, the system verifies every calculated value against NumPy with zero tolerance, though execution is significantly slower than standard hardware.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/mottopanikeiku/doomformer",
-      "source": "Hacker News",
-      "published": "2026-10-29T23:25:46+00:00"
-    },
-    {
-      "headline": "Audio Reveals Control Center Error in Deadly Spanish Crash",
-      "summary": "Leaked audio recordings indicate that a Madrid control center mistakenly cleared a Renfe passenger train to proceed at normal speed despite a stalled train 25 kilometers ahead. The collision resulted in at least 69 deaths, prompting Spain to declare three days of national mourning.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T11:07:35+00:00"
-    },
-    {
-      "headline": "Water Damage Delivers Immersive Noise on Repair",
-      "summary": "Austin ensemble Water Damage returns with Repair, a minimalist record built on roaring, infinite-loop riffs. The album expands on repetitive drone music by layering competing melodies and syncopated percussion into a dense sonic wall.",
-      "category": "Music",
-      "relevance": 8,
-      "url": "https://pitchfork.com/reviews/albums/water-damage-repair/",
-      "source": "Pitchfork",
-      "published": "2026-10-29T04:00:00+00:00"
-    },
-    {
       "headline": "Azure Cross-Tenant Flaws Exposed",
       "summary": "Security data points to critical vulnerabilities allowing full cross-tenant compromises within Azure environments. The intricate technical breakdown highlights severe architectural risks for cloud infrastructure.",
       "category": "Tech/AI",
@@ -237,22 +183,76 @@
       "published": "2026-10-30T10:06:15+00:00"
     },
     {
-      "headline": "Grizzlies Face Trail Blazers in Undefeated NBA Matchup",
-      "summary": "Portland and Memphis clash in an early-season battle of unbeaten teams. The matchup features high-stakes action as key players look to make an impact.",
+      "headline": "Basketball Intelligence For 10/30/26",
+      "summary": "",
       "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/grizzlies-vs-trail-blazers-nba-picks-portlands-ja-morant-could-get-payback-in-battle-of-unbeaten-teams/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T00:30:54+00:00"
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-103026",
+      "source": "Basketball Intelligence",
+      "published": "2026-10-30T18:51:29+00:00"
     },
     {
-      "headline": "Olivia Tremor Control Deliver a Poignant Final Album",
-      "summary": "Following the tragic deaths of founding members Bill Doss and Will Cullen Hart, the Olivia Tremor Control have released their long-awaited third album, The Same Place. Recorded primarily between 2010 and late 2024, the dark psychedelic record balances meditations on mortality with the band's signature tape-loop experimentation. The resulting swan song serves as a poignant, cyclical farewell from the core architects of the Elephant 6 collective.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
-      "source": "Pitchfork",
-      "published": "2026-10-29T04:03:00+00:00"
+      "headline": "NFL Defenses Combat Modern Run Schemes with Increased Nickel Pressures",
+      "summary": "As offenses increasingly exploit traditional defenses using 12- and 13-personnel groupings, teams are turning to Big Nickel packages and run blitzes. Heavy-safety prototypes over 220 pounds are becoming the gold standard to handle both run and pass responsibilities. Strategic run blitzing has proven effective at lowering opponent efficiency and increasing tackles for loss.",
+      "category": "NFL",
+      "relevance": 8,
+      "url": "https://www.matchquarters.com/p/patrick-graham-nickel-pressures-early-down-runs",
+      "source": "MatchQuarters",
+      "published": "2026-10-30T10:01:18+00:00"
+    },
+    {
+      "headline": "Stratechery Highlights Anthropic S-1 Filings and the Future of the Global Internet",
+      "summary": "Ben Thompson analyzed Anthropic's newly released S-1 filing to break down the economics of frontier AI labs. Additional commentary explored how artificial intelligence pressures might eventually fracture the global internet into more localized solutions. The newsletter also touched on Chinese bureaucratic pressures under Xi Jinping.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/at-long-last/",
+      "source": "Stratechery",
+      "published": "2026-10-30T17:00:00+00:00"
+    },
+    {
+      "headline": "The Gospel Coalition Examines Football Stars on World War II Front Lines",
+      "summary": "The Gospel Coalition featured historical reflections alongside its standard theological essays and commentaries. The organization provides resources on Christian history, ministry, and scripture studies. Content spans multiple categories including pastoral leadership and cultural analysis.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/mosquito-bowl-christian-movie-review/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-30T04:02:00+00:00"
+    },
+    {
+      "headline": "Prominent Russian Independent Newspaper Novaya Gazeta Shuts Down Under State Pressure",
+      "summary": "Novaya Gazeta has ceased operations after authorities issued an eviction notice and disabled its reader donation system. The renowned investigative outlet blamed the closure on relentless government crackdowns and repressive laws targeting independent journalism since the invasion of Ukraine. Over the past three decades, six journalists associated with the paper were killed for their reporting.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T11:23:06.842Z"
+    },
+    {
+      "headline": "Claude Mobile Apps Receive Multi-Account Support, iPad Multitasking, and CarPlay",
+      "summary": "Anthropic updated its iOS and Android apps with several key productivity features, including seamless account switching and Apple CarPlay compatibility. iPad users can now run Claude content alongside active chats in a split-view interface. The release also improves tablet optimization for Android devices, adding keyboard shortcuts and resizable sidebars.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://cryptobriefing.com/claude-mobile-apps-multitasking-carplay-update/",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-29T18:04:33+00:00"
+    },
+    {
+      "headline": "Spinf-Serve Launches Open-Source GPU Inference Server for Bulk Classification",
+      "summary": "Developers released spinf-serve, an Apache 2.0-licensed inference engine designed to process bulk classification tasks on a single NVIDIA GPU. The tool reads content once and answers multiple calibrated questions simultaneously in a single forward pass. Built for high throughput, it serves an OpenAI-compatible API tailored for decision models rather than chat generation.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/spinfinc/spinf-serve",
+      "source": "Hacker News",
+      "published": "2026-10-30T17:03:12+00:00"
+    },
+    {
+      "headline": "Planet Money Examines Anthropic's S-1 Risk Factors and Surprising Mahjong Boom",
+      "summary": "NPR's Planet Money highlighted key risk disclosures from Anthropic's recent S-1 filing alongside economic trends. The newsletter also reported on a surprising export boom for Chinese manufacturers producing Mahjong sets for the U.S. market. These updates offer a look at shifting financial landscapes in both tech and manufacturing.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+      "source": "NPR News",
+      "published": "2026-10-30T07:00:00-04:00"
     },
     {
       "headline": "Apple Lowers Taiwan App Store Commission Rate to 26 Percent",
@@ -291,6 +291,15 @@
       "published": "2026-10-30T12:04:02+00:00"
     },
     {
+      "headline": "China's Ruling Party Purges Record 33 Members",
+      "summary": "China's Communist Party expelled a record 33 members, including 16 from the military, during a plenum that saw unprecedented absenteeism. President Xi Jinping utilized the gathering to double down on party discipline and aggressive anti-corruption campaigns.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T03:24:12+00:00"
+    },
+    {
       "headline": "Defeated Brazilian Candidate Flávio Bolsonaro Claims Title of Brazil Leader",
       "summary": "Following his presidential runoff loss to Luiz Inácio Lula da Silva by 4.4 million votes, Flávio Bolsonaro has fled to Florida and declared himself the leader of Brazil's opposition. Bolsonaro alleges unproven electoral fraud and recently defied a Supreme Court order to surrender his passports.",
       "category": "World",
@@ -300,76 +309,31 @@
       "published": "2026-10-29T14:58:28+00:00"
     },
     {
-      "headline": "EU Chief Pushes for Closer Canada Partnership at Montreal Summit",
-      "summary": "European Commission President Ursula von der Leyen used the Montreal summit to pitch an unprecedented \"associate membership\" for Canada within the EU. While Canada welcomes the deeper ties, some EU member states like Germany have pushed back against the formal terminology.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T17:02:59+00:00"
-    },
-    {
-      "headline": "Rock Collapse in Cappadocia Tourist Site Kills Two",
-      "summary": "A fairy chimney rock formation collapsed at the Göreme open-air museum in Turkey, killing two people and injuring five others. Local reports indicate that heavy rain may have triggered the sudden structural failure.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T13:44:39+00:00"
-    },
-    {
-      "headline": "Nine SEC Teams Could Trigger CFP Chaos",
-      "summary": "College football faces potential postseason chaos if nine different SEC programs manage to finish the regular season with identical 9-3 records. Such a scenario would create a massive headache for the College Football Playoff selection committee.",
+      "headline": "Mladost Zagreb Sweeps Pafiakos to Advance in Champions League Qualifiers",
+      "summary": "Mladost Zagreb defeated Cyprus champions Pafiakos 3-1 for the second consecutive match to secure a spot in Round 2 of the CEV Champions League. Led by Jan Pokeršnik's 21 points and match MVP Ivan Zeljković, the Croatian club overcame a first-set loss. Mladost will now face Bulgaria's Levski Sofia in the next qualifying stage.",
       "category": "Sports",
       "relevance": 7,
-      "url": "https://www.cbssports.com/college-football/news/sec-armageddon-nine-teams-9-3-college-football-playoff-chaos/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T13:06:59+00:00"
+      "url": "https://volleyballmag.com/mladost-zagreb-beat-pafiakos-3-1-twice-to-set-up-levski-sofia-tie-in-champions/?utm_source=rss&utm_medium=rss&utm_campaign=mladost-zagreb-beat-pafiakos-3-1-twice-to-set-up-levski-sofia-tie-in-champions",
+      "source": "Volleyball Mag",
+      "published": "2026-10-30T13:56:56+00:00"
     },
     {
-      "headline": "Week 9 Anxiety Spotlights Ohio State and USC",
-      "summary": "College football's Week 9 pressure points focus on the debut of Ohio State's backup quarterback era and a critical junction for Lincoln Riley's USC squad. Both programs face mounting scrutiny as the season reaches its pivotal stretch.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/college-football/news/college-football-anxiety-rankings-ohio-state-lincoln-riley-usc/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T13:05:11+00:00"
-    },
-    {
-      "headline": "Evaluating Dante Moore's NFL Draft Stock After Cut-Short Season",
-      "summary": "Oregon quarterback Dante Moore remains a projected first-round pick for the 2027 NFL Draft despite dealing with an abbreviated season. Analysts continue to weigh his physical upside against questions regarding his limited playing time.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/draft/news/dante-moore-nfl-draft-stock-oregon-qb-injury/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T13:03:06+00:00"
-    },
-    {
-      "headline": "China's Ruling Party Purges Record 33 Members",
-      "summary": "China's Communist Party expelled a record 33 members, including 16 from the military, during a plenum that saw unprecedented absenteeism. President Xi Jinping utilized the gathering to double down on party discipline and aggressive anti-corruption campaigns.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T11:34:03.092Z"
-    },
-    {
-      "headline": "Anderson .Paak and Cordae Team Up for Collaborative Album",
-      "summary": "Anderson .Paak and Cordae join forces on Heavy Is the Crown, blending boom-bap and trap production across a fleet-footed tracklist. While .Paak brings seasoned charisma and versatile vocals, Cordae occasionally lags behind his partner's dynamic energy on this lopsided project.",
+      "headline": "More Eaze Refines Americana Loops on 'Valley and Structure'",
+      "summary": "Experimental artist Mari Rubio blends minimalist and ambient techniques with twangy folk elements on her latest album. Each track centers around loop-based patterns that slowly transform and diffract over their runtimes, led by the expansive 20-minute centerpiece.",
       "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
       "source": "Pitchfork",
-      "published": "2026-10-29T04:01:00+00:00"
+      "published": "2026-10-30T04:00:00+00:00"
     },
     {
-      "headline": "NFL's Most Terrifying Teams on Both Ends",
-      "summary": "The Seattle Seahawks emerge as a legitimately terrifying force for opponents in the current NFL landscape, while Tennessee Titans fans face a season of dread. Analysts break down which franchises are striking fear for the right and wrong reasons.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/nfl/news/nfls-scariest-good-bad-teams-seahawks-titans/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T12:57:57+00:00"
+      "headline": "Developer Builds Local-First Rust App for CVE Triage",
+      "summary": "A new GitHub project called cve-intel provides local security intelligence for vulnerability triage written in native Rust. It packs 40 data sources, 41 tools, risk scores, and an MCP server for AI agents while keeping operations entirely private by default.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://github.com/Fazmin/cve-intel",
+      "source": "NewsAPI:Anthropic Claude",
+      "published": "2026-10-29T17:58:41Z"
     },
     {
       "headline": "China Denies U.S. Intelligence Claims of Spy Operation Targeting Nvidia CEO",
@@ -378,7 +342,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-30T12:20:04.675Z"
+      "published": "2026-10-30T12:20:04+00:00"
     },
     {
       "headline": "Prominent Pakistani Human Rights Lawyers Sentenced to 10 Years in Prison",
@@ -387,34 +351,43 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-10-30T07:53:38.331Z"
+      "published": "2026-10-30T07:53:38+00:00"
     },
     {
-      "headline": "Tulane vs. Charlotte College Football Week 9 Preview and Betting Odds",
-      "summary": "An overview of the upcoming Week 9 college football matchup between Tulane and Charlotte, providing the latest betting odds and picks for the game.",
-      "category": "Sports",
+      "headline": "Designer Praises Detailed iPod Easter Egg on Apple Music 404 Page",
+      "summary": "Interface designer Marcin Wichary has highlighted Apple Music's 404 error page for featuring an exceptionally faithful recreation of the original iPod. Unlike many half-hearted easter eggs, this interactive homage successfully incorporates authentic interface modes and details.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/tulane-vs-charlotte-betting-odds-week-9-preview-picks-start-time-for-friday-college-football/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T12:45:35+00:00"
+      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
+      "source": "Daring Fireball",
+      "published": "2026-10-30T17:53:41+00:00"
     },
     {
-      "headline": "Jordan Love Dominates Panthers While Christian Watson Suffers Injury Exit",
-      "summary": "Quarterback Jordan Love carved up the Carolina Panthers defense in a standout performance for the Packers. The victory was marred by wide receiver Christian Watson being sent to the hospital following a midgame injury.",
-      "category": "NFL",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/nfl/news/jordan-love-picks-panthers-apart-christian-watsons-midgame-hospital-trip-top-50-mlb-free-agents/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T13:00:38+00:00"
-    },
-    {
-      "headline": "Florida Voters Face Ballot Measure Balancing Homeowner Tax Cuts and Public Services",
-      "summary": "Florida voters are deciding on a contentious property tax amendment that promises savings for homeowners but threatens funding for essential public services. The debate highlights a central tension in midterm elections between lowering the cost of living and preserving civic infrastructure. Grassroots organizations across the state have actively mobilized voters on both sides of the ballot question.",
+      "headline": "French National Assembly Approves Controversial Internet Data Tax",
+      "summary": "Lawmakers narrowly passed an amendment establishing a 0.055 euro per gigabyte tax on data volumes delivered to French users, aiming to raise up to 10 billion euros. While formally billed as a levy on content providers and content delivery networks with strict revenue caps, it targets major streaming and gaming platforms.",
       "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
+      "relevance": 6,
+      "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+      "source": "Hacker News",
+      "published": "2026-10-30T15:54:00Z"
+    },
+    {
+      "headline": "Spanish Transport Minister Refuses to Resign Following Deadly Rail Crash",
+      "summary": "Transport Minister Óscar Puente has rejected calls to step down after a high-speed train collision in central Spain killed at least 69 people. Investigators revealed the moving Renfe train was traveling up to 200 km/h when it struck a stationary Iryo train following an apparent computer failure and conflicting clearance signals.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T13:03:34.741Z"
+    },
+    {
+      "headline": "Alaska Senate Race Faces Spoiler Claims While Hegseth Ousts Army General",
+      "summary": "Alaska's governor has ordered an investigation into allegations that Democrats recruited a spoiler candidate to disrupt the state's Senate race. Meanwhile, defense leadership shifts continue as an Army general is ousted amid preparations for potential conflicts.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
       "source": "NPR News",
-      "published": "2026-10-30T05:00:00-04:00"
+      "published": "2026-10-30T07:20:26-04:00"
     },
     {
       "headline": "Fantasy Premier League Tips: Is It Time to Back Bournemouth Assets?",
@@ -423,7 +396,7 @@
       "relevance": 5,
       "url": "https://www.bbc.co.uk/sport/football/articles/cked3zen65d1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-10-30T07:51:08.037Z"
+      "published": "2026-10-30T07:51:08+00:00"
     },
     {
       "headline": "How Astrophysicists Linked Global Telescopes to Photograph a Black Hole",
@@ -432,25 +405,52 @@
       "relevance": 5,
       "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
       "source": "Hacker News",
-      "published": "2026-10-29T15:11:57+00:00"
+      "published": "2026-10-30T09:49:02+00:00"
     },
     {
-      "headline": "Packers Receiver Christian Watson Returns Following Hospitalization",
-      "summary": "Green Bay Packers wide receiver Christian Watson has made his return to the field after dealing with a recent chest injury that required a hospital visit. The update provides a welcome boost to the Packers' offensive lineup as they head into their upcoming matchup against the Panthers. Details regarding the exact nature of the medical scare were not immediately expanded upon.",
+      "headline": "CeeDee Lamb Admits Cardinals Have Cowboys' Number",
+      "summary": "Dallas Cowboys wide receiver CeeDee Lamb candidly addressed the team's ongoing struggles against the Arizona Cardinals. He noted that the Cardinals consistently manage to overpower and outplay them whenever they face off.",
+      "category": "NFL",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/nfl/news/cowboys-ceedee-lamb-long-haunted-cardinals/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T18:45:33+00:00"
+    },
+    {
+      "headline": "Arsenal Faces Form Questions for Kai Havertz Ahead of Liverpool Clash",
+      "summary": "Arsenal is grappling with a noticeable dip in form from Kai Havertz just as the club prepares for a crucial high-stakes showdown against Liverpool. Pundits and fans are questioning what is currently hindering the midfielder's output and whether he can course-correct in time.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/soccer/news/kai-havertz-fix-in-time-liverpool-vs-arsenal-showdown/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T18:54:41+00:00"
+    },
+    {
+      "headline": "Panthers and Packers Face Off in Week 8 Thursday Night Football",
+      "summary": "Betting odds, first touchdown scorer predictions, and game previews are live for the upcoming Thursday Night Football matchup between the Carolina Panthers and Green Bay Packers. Analysts weigh in on how the NFC opponents match up as Week 8 kicks off.",
       "category": "NFL",
       "relevance": 4,
-      "url": "https://www.cbssports.com/nfl/news/christian-watson-injury-update-packers-wr-hospital/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T04:02:55+00:00"
+      "url": "https://www.cbssports.com/prediction/news/panthers-vs-packers-odds-first-touchdown-scorer-picks-predictions-for-nfl-week-8-thursday-night-football/",
+      "source": "NewsAPI:NFL contract",
+      "published": "2026-10-29T18:06:43Z"
     },
     {
-      "headline": "Test Your Knowledge of This Week's Quirky Political Headlines With NPR's Quiz",
-      "summary": "NPR's weekly news quiz tests readers on the silliest pre-midterm political drama and global election stories from the past week. Participants can see how closely they followed major events and viral moments. The lighthearted challenge features questions covering a mix of pop culture and political headlines.",
+      "headline": "Binance Investigating Potential Security Issue Impacting Billions",
+      "summary": "Binance is actively investigating a potential security incident with an estimated total impact exceeding $6 billion, which could rank among the largest on record. While the exchange's founder acknowledged the event appears to be a hack, Binance assured users that their funds remain entirely safe.",
       "category": "Other",
-      "relevance": 3,
-      "url": "https://www.npr.org/2026/10/30/g-s1-150445/trump-midterms-ai-china-star-trek-dhs-news-quiz",
+      "relevance": 4,
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
       "source": "NPR News",
-      "published": "2026-10-30T05:00:00-04:00"
+      "published": "2026-10-30T07:21:56-04:00"
+    },
+    {
+      "headline": "From Awkward Silence to Historic Output: How Doncic and Reaves Conquered LA",
+      "summary": "Following Luka Doncic's shock trade to the Lakers in February 2025, his early relationship with Austin Reaves was icy and silent. The pair eventually bonded away from the court, transforming into the NBA's most lethal offensive tandem by averaging a combined 60.4 points per game. That blistering output surpasses even the peak scoring numbers of legendary Lakers duo Kobe Bryant and Shaquille O'Neal.",
+      "category": "NBA",
+      "relevance": 3,
+      "url": "https://nypost.com/2026/10/29/sports/austin-reaves-luka-doncic-friendship-nba-best-offensive-duo/",
+      "source": "NewsAPI:NBA trade",
+      "published": "2026-10-29T18:12:10+00:00"
     }
   ]
 }
