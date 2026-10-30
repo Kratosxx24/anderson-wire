@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:31:24.410996+00:00",
+  "generated_at": "2026-10-30T23:11:22.484630+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -45,7 +45,7 @@
       "relevance": 9,
       "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-8-ppr-cheat-sheet/",
       "source": "CBS Sports",
-      "published": "2026-10-30T18:55:03+00:00"
+      "published": "2026-10-30T20:42:38+00:00"
     },
     {
       "headline": "WSJ Explores Apple's Supplier Tension Tactics",
@@ -55,15 +55,6 @@
       "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
       "source": "Daring Fireball",
       "published": "2026-10-29T19:44:11+00:00"
-    },
-    {
-      "headline": "Cursor Marketplace Serves Malicious Claude Extension",
-      "summary": "Security researchers discovered a malicious backdoor in version 2.1.313 of the official Claude Code extension on the Cursor Marketplace. The bundle attempted to drop persistent SSH access across macOS, Linux, and Windows systems. Marketplaces have since pulled the compromised release from their registries.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "source": "Hacker News",
-      "published": "2026-10-30T07:09:12+00:00"
     },
     {
       "headline": "ASMR iPhone Duo Unboxing Released",
@@ -129,58 +120,22 @@
       "published": "2026-10-28T04:00:00+00:00"
     },
     {
-      "headline": "Bears Land DT Jeffery Simmons in Historic Two-First-Round Pick Trade with Titans",
-      "summary": "Chicago acquired All-Pro defensive tackle Jeffery Simmons from Tennessee in exchange for two first-round draft picks and a fourth-rounder. Simmons, who signed a massive extension in June, joins a potent Bears defense to bolster their pass rush. The trade marks the first time in the common draft era that a defensive tackle has commanded multiple first-round picks.",
-      "category": "NFL",
+      "headline": "Stratechery Expands With New Video Offerings",
+      "summary": "Ben Thompson's tech analysis platform Stratechery is expanding its reach by offering its Sharp Tech show on video across YouTube, Spotify, and its native site. Subscribers gain access to a broad suite of exclusive podcasts covering global tech, Chinese markets, sports, and media. The expansion packages multiple audio and text products under a unified $15 monthly or $150 annual subscription tier.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.thebiglead.com/2026-nfl-trade-deadline-tracker-grading-every-deal-top-available-candidates/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-10-29T18:12:55+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Highlights Early NBA Season Surprises",
-      "summary": "The latest edition of the Basketball Intelligence newsletter breaks down early-year performances across the NBA. Key topics include standout rookies, immediate payoffs from offseason trades, and early team power rankings.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-102926",
-      "source": "Basketball Intelligence",
-      "published": "2026-10-29T17:01:25+00:00"
-    },
-    {
-      "headline": "Palantir CTO Shyam Sankar Talks AI Diffusion and Safety",
-      "summary": "Palantir CTO Shyam Sankar joined Stratechery for an in-depth interview discussing the state of enterprise artificial intelligence. Topics included the tech industry's religious wars, the necessity of systems engineering for AI safety, and why companies focused on top-line growth succeed faster with AI.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+      "url": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
       "source": "Stratechery",
-      "published": "2026-10-29T10:00:00+00:00"
+      "published": "2026-10-30T10:00:00+00:00"
     },
     {
-      "headline": "Audio Reveals Control Center Error in Deadly Spanish Crash",
-      "summary": "Leaked audio recordings indicate that a Madrid control center mistakenly cleared a Renfe passenger train to proceed at normal speed despite a stalled train 25 kilometers ahead. The collision resulted in at least 69 deaths, prompting Spain to declare three days of national mourning.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T11:07:35+00:00"
-    },
-    {
-      "headline": "OpenAI Adds API Credits Benefit for High-Tier Subscribers",
-      "summary": "OpenAI has rolled out a new perk matching a recent Anthropic move, granting monthly API credits equal to the cost of $100, $200, and $500 subscription plans. Subscribers can apply these credits directly to an API organization, lowering the barrier for shipping public AI demos.",
+      "headline": "New Tool Generates FlashAttention Kernels From Brief SQL Scripts",
+      "summary": "A GitHub repository benchmark demonstrates the automatic derivation of a complex machine learning transformer operation—causal attention—using just about 25 lines of SQL. By registering Q, K, and V tables from xarray Datasets, database engines can execute the underlying math. The approach showcases how SQL engines can handle sophisticated AI primitives beyond traditional relational data.",
       "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-      "source": "Simon Willison",
-      "published": "2026-10-29T22:48:29+00:00"
-    },
-    {
-      "headline": "Azure Cross-Tenant Flaws Exposed",
-      "summary": "Security data points to critical vulnerabilities allowing full cross-tenant compromises within Azure environments. The intricate technical breakdown highlights severe architectural risks for cloud infrastructure.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "relevance": 9,
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/6debe2495dcb4e8fac20ab97df5b89baae2a31a6/benchmarks/ml/01_attention.py",
       "source": "Hacker News",
-      "published": "2026-10-30T10:06:15+00:00"
+      "published": "2026-10-30T20:09:47+00:00"
     },
     {
       "headline": "Basketball Intelligence For 10/30/26",
@@ -192,6 +147,15 @@
       "published": "2026-10-30T18:51:29+00:00"
     },
     {
+      "headline": "Basketball Intelligence Highlights Early NBA Season Surprises",
+      "summary": "The latest edition of the Basketball Intelligence newsletter breaks down early-year performances across the NBA. Key topics include standout rookies, immediate payoffs from offseason trades, and early team power rankings.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-102926",
+      "source": "Basketball Intelligence",
+      "published": "2026-10-29T17:01:25+00:00"
+    },
+    {
       "headline": "NFL Defenses Combat Modern Run Schemes with Increased Nickel Pressures",
       "summary": "As offenses increasingly exploit traditional defenses using 12- and 13-personnel groupings, teams are turning to Big Nickel packages and run blitzes. Heavy-safety prototypes over 220 pounds are becoming the gold standard to handle both run and pass responsibilities. Strategic run blitzing has proven effective at lowering opponent efficiency and increasing tackles for loss.",
       "category": "NFL",
@@ -199,6 +163,15 @@
       "url": "https://www.matchquarters.com/p/patrick-graham-nickel-pressures-early-down-runs",
       "source": "MatchQuarters",
       "published": "2026-10-30T10:01:18+00:00"
+    },
+    {
+      "headline": "Prominent Russian Independent Newspaper Novaya Gazeta Shuts Down Under State Pressure",
+      "summary": "Novaya Gazeta has ceased operations after authorities issued an eviction notice and disabled its reader donation system. The renowned investigative outlet blamed the closure on relentless government crackdowns and repressive laws targeting independent journalism since the invasion of Ukraine. Over the past three decades, six journalists associated with the paper were killed for their reporting.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T20:41:51+00:00"
     },
     {
       "headline": "Stratechery Highlights Anthropic S-1 Filings and the Future of the Global Internet",
@@ -210,6 +183,15 @@
       "published": "2026-10-30T17:00:00+00:00"
     },
     {
+      "headline": "OpenAI Adds API Credits Benefit for High-Tier Subscribers",
+      "summary": "OpenAI has rolled out a new perk matching a recent Anthropic move, granting monthly API credits equal to the cost of $100, $200, and $500 subscription plans. Subscribers can apply these credits directly to an API organization, lowering the barrier for shipping public AI demos.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "Simon Willison",
+      "published": "2026-10-29T22:48:29+00:00"
+    },
+    {
       "headline": "The Gospel Coalition Examines Football Stars on World War II Front Lines",
       "summary": "The Gospel Coalition featured historical reflections alongside its standard theological essays and commentaries. The organization provides resources on Christian history, ministry, and scripture studies. Content spans multiple categories including pastoral leadership and cultural analysis.",
       "category": "Faith",
@@ -219,40 +201,76 @@
       "published": "2026-10-30T04:02:00+00:00"
     },
     {
-      "headline": "Prominent Russian Independent Newspaper Novaya Gazeta Shuts Down Under State Pressure",
-      "summary": "Novaya Gazeta has ceased operations after authorities issued an eviction notice and disabled its reader donation system. The renowned investigative outlet blamed the closure on relentless government crackdowns and repressive laws targeting independent journalism since the invasion of Ukraine. Over the past three decades, six journalists associated with the paper were killed for their reporting.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-30T11:23:06.842Z"
-    },
-    {
-      "headline": "Claude Mobile Apps Receive Multi-Account Support, iPad Multitasking, and CarPlay",
-      "summary": "Anthropic updated its iOS and Android apps with several key productivity features, including seamless account switching and Apple CarPlay compatibility. iPad users can now run Claude content alongside active chats in a split-view interface. The release also improves tablet optimization for Android devices, adding keyboard shortcuts and resizable sidebars.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://cryptobriefing.com/claude-mobile-apps-multitasking-carplay-update/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-10-29T18:04:33+00:00"
-    },
-    {
-      "headline": "Spinf-Serve Launches Open-Source GPU Inference Server for Bulk Classification",
-      "summary": "Developers released spinf-serve, an Apache 2.0-licensed inference engine designed to process bulk classification tasks on a single NVIDIA GPU. The tool reads content once and answers multiple calibrated questions simultaneously in a single forward pass. Built for high throughput, it serves an OpenAI-compatible API tailored for decision models rather than chat generation.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/spinfinc/spinf-serve",
-      "source": "Hacker News",
-      "published": "2026-10-30T17:03:12+00:00"
-    },
-    {
       "headline": "Planet Money Examines Anthropic's S-1 Risk Factors and Surprising Mahjong Boom",
       "summary": "NPR's Planet Money highlighted key risk disclosures from Anthropic's recent S-1 filing alongside economic trends. The newsletter also reported on a surprising export boom for Chinese manufacturers producing Mahjong sets for the U.S. market. These updates offer a look at shifting financial landscapes in both tech and manufacturing.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
       "source": "NPR News",
-      "published": "2026-10-30T07:00:00-04:00"
+      "published": "2026-10-30T11:00:00+00:00"
+    },
+    {
+      "headline": "Third Apron Analyzes Early NBA Surprises and Salary Caps",
+      "summary": "Salary cap analyst Yossi Gozlan and writer Sam Quinn break down the early-season struggles of the Miami Heat alongside the hot starts for the Portland Trail Blazers and Houston Rockets. The latest podcast episode also addresses a wave of early injuries impacting teams across the league. Analysts evaluate how these early performances might force front offices into making roster adjustments.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.thirdapron.com/p/heat-struggles-blazers-and-rockets",
+      "source": "Third Apron",
+      "published": "2026-10-30T19:43:11+00:00"
+    },
+    {
+      "headline": "CBS Sports Releases Knicks vs. 76ers NBA Cup Predictions",
+      "summary": "CBS Sports has published betting odds and predictions for the upcoming 2026 NBA Cup matchup between the New York Knicks and Philadelphia 76ers. The coverage provides fans and bettors with game times, betting lines, and analytical breakdowns ahead of Friday's tip-off. The matchup highlights early-season tournament action as teams vie for group-stage dominance.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/betting/news/knicks-76ers-odds-prediction-time-2026-nba-cup-picks-friday-october-30-best-bets/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T21:30:56+00:00"
+    },
+    {
+      "headline": "US Approves $2.1 Billion Patriot Missile Sale to Ukraine",
+      "summary": "The US State Department has cleared the sale of 500 advanced PAC-3 interceptor missiles to Ukraine to help defend against intensifying Russian aerial bombardment. The $2.1 billion deal is fully funded by European allies and Canada through the JUMPSTART program, bypassing direct US funding. Lockheed Martin will build the new munitions, though rapid delivery is unlikely due to global supply constraints.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T22:20:52.976Z"
+    },
+    {
+      "headline": "Detailed Pricing and Configurations Emerge for New Apple MacBooks",
+      "summary": "John Gruber details the pricing structure and hardware tiers for Apple's newly announced M6, M5 Pro, and M5 Max MacBook Pros. The lineup introduces updated PROLED XDR models featuring lighter designs and touchscreens at a $400 premium over legacy versions. High-end configurations max out with massive 16 TB SSD storage upgrades costing an extra $7,000.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max",
+      "source": "Daring Fireball",
+      "published": "2026-10-30T21:56:10+00:00"
+    },
+    {
+      "headline": "Pope Leo XIV Casts Mail-In Ballot in US Midterms",
+      "summary": "Pope Leo XIV has submitted a mail-in ballot in Illinois for the US midterm elections, making him the first reigning pontiff to vote in an American election. The Chicago-born pope, who holds US citizenship, emphasized the civic duty of participating in democratic processes. The historic vote comes amid ongoing political friction between the Vatican and the Trump administration over foreign policy.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T14:48:22.092Z"
+    },
+    {
+      "headline": "Mladost Zagreb Sweeps Pafiakos to Advance in Champions League Qualifiers",
+      "summary": "Mladost Zagreb defeated Cyprus champions Pafiakos 3-1 for the second consecutive match to secure a spot in Round 2 of the CEV Champions League. Led by Jan Pokeršnik's 21 points and match MVP Ivan Zeljković, the Croatian club overcame a first-set loss. Mladost will now face Bulgaria's Levski Sofia in the next qualifying stage.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://volleyballmag.com/mladost-zagreb-beat-pafiakos-3-1-twice-to-set-up-levski-sofia-tie-in-champions/?utm_source=rss&utm_medium=rss&utm_campaign=mladost-zagreb-beat-pafiakos-3-1-twice-to-set-up-levski-sofia-tie-in-champions",
+      "source": "Volleyball Mag",
+      "published": "2026-10-30T13:56:56+00:00"
+    },
+    {
+      "headline": "More Eaze Refines Americana Loops on 'Valley and Structure'",
+      "summary": "Experimental artist Mari Rubio blends minimalist and ambient techniques with twangy folk elements on her latest album. Each track centers around loop-based patterns that slowly transform and diffract over their runtimes, led by the expansive 20-minute centerpiece.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
+      "source": "Pitchfork",
+      "published": "2026-10-30T04:00:00+00:00"
     },
     {
       "headline": "Apple Lowers Taiwan App Store Commission Rate to 26 Percent",
@@ -300,40 +318,67 @@
       "published": "2026-10-30T03:24:12+00:00"
     },
     {
-      "headline": "Defeated Brazilian Candidate Flávio Bolsonaro Claims Title of Brazil Leader",
-      "summary": "Following his presidential runoff loss to Luiz Inácio Lula da Silva by 4.4 million votes, Flávio Bolsonaro has fled to Florida and declared himself the leader of Brazil's opposition. Bolsonaro alleges unproven electoral fraud and recently defied a Supreme Court order to surrender his passports.",
-      "category": "World",
+      "headline": "NFL Week 8 Final Injury Report Highlights Key Player Statuses",
+      "summary": "CBS Sports provides the final injury designations and updates for prominent NFL stars ahead of Week 8 matchups. The report covers game-day availability for major playmakers like Lamar Jackson, AJ Brown, and George Pickens. Coaches and fantasy managers closely monitor these updates to adjust their game plans and lineups.",
+      "category": "NFL",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-29T14:58:28+00:00"
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T22:30:10+00:00"
     },
     {
-      "headline": "Mladost Zagreb Sweeps Pafiakos to Advance in Champions League Qualifiers",
-      "summary": "Mladost Zagreb defeated Cyprus champions Pafiakos 3-1 for the second consecutive match to secure a spot in Round 2 of the CEV Champions League. Led by Jan Pokeršnik's 21 points and match MVP Ivan Zeljković, the Croatian club overcame a first-set loss. Mladost will now face Bulgaria's Levski Sofia in the next qualifying stage.",
-      "category": "Sports",
+      "headline": "The Gospel Coalition Publishes Ministry Insights for Pastors",
+      "summary": "The Gospel Coalition's latest collection of theological essays and commentaries offers guidance for church leaders navigating modern ministry challenges. The platform features articles from prominent contributors focusing on scripture exposition, church history, and pastoral resilience. These resources aim to equip clergy with biblical frameworks for community leadership.",
+      "category": "Faith",
       "relevance": 7,
-      "url": "https://volleyballmag.com/mladost-zagreb-beat-pafiakos-3-1-twice-to-set-up-levski-sofia-tie-in-champions/?utm_source=rss&utm_medium=rss&utm_campaign=mladost-zagreb-beat-pafiakos-3-1-twice-to-set-up-levski-sofia-tie-in-champions",
-      "source": "Volleyball Mag",
-      "published": "2026-10-30T13:56:56+00:00"
-    },
-    {
-      "headline": "More Eaze Refines Americana Loops on 'Valley and Structure'",
-      "summary": "Experimental artist Mari Rubio blends minimalist and ambient techniques with twangy folk elements on her latest album. Each track centers around loop-based patterns that slowly transform and diffract over their runtimes, led by the expansive 20-minute centerpiece.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
-      "source": "Pitchfork",
+      "url": "https://www.thegospelcoalition.org/article/pastor-be-opportunistic/",
+      "source": "The Gospel Coalition",
       "published": "2026-10-30T04:00:00+00:00"
     },
     {
-      "headline": "Developer Builds Local-First Rust App for CVE Triage",
-      "summary": "A new GitHub project called cve-intel provides local security intelligence for vulnerability triage written in native Rust. It packs 40 data sources, 41 tools, risk scores, and an MCP server for AI agents while keeping operations entirely private by default.",
+      "headline": "Embraer's Atech Targets 2030 Growth Through Drone Traffic Control",
+      "summary": "Embraer defense subsidiary Atech aims to double its revenue by 2030 by expanding its international footprint in mission-critical software. CEO Rodrigo Persico points to rising global demand for digital infrastructure, particularly civilian Unmanned Aircraft System Traffic Management (UTM) solutions. The company is actively exporting its air traffic management and security integration technology to markets in Africa, India, and Latin America.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://github.com/Fazmin/cve-intel",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-10-29T17:58:41Z"
+      "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+      "source": "Hacker News",
+      "published": "2026-10-30T18:59:38.224Z"
+    },
+    {
+      "headline": "Tech Stocks Slide as AI Spending Nears $1 Trillion Mark",
+      "summary": "Major technology stocks tumbled as massive investments in artificial intelligence fail to match investor earnings expectations. Giants like Alphabet, Amazon, and Intel reported soaring cash outflows and slowing core revenue, fueling widespread fears of an overextended market bubble.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T14:50:37.797Z"
+    },
+    {
+      "headline": "G20 Scraps Family Photo After European Ministers Boycott Russian Delegate",
+      "summary": "The traditional G20 group photo was canceled at the Atlanta summit after European diplomats refused to pose alongside Russian Foreign Minister Sergei Lavrov. During the meeting, UK Foreign Secretary Ed Miliband directly confronted Lavrov over civilian casualties and the ongoing war in Ukraine.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T17:08:12.563Z"
+    },
+    {
+      "headline": "Designer Praises Detailed iPod Easter Egg on Apple Music 404 Page",
+      "summary": "Interface designer Marcin Wichary has highlighted Apple Music's 404 error page for featuring an exceptionally faithful recreation of the original iPod. Unlike many half-hearted easter eggs, this interactive homage successfully incorporates authentic interface modes and details.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
+      "source": "Daring Fireball",
+      "published": "2026-10-30T17:53:41+00:00"
+    },
+    {
+      "headline": "Spanish Transport Minister Refuses to Resign Following Deadly Rail Crash",
+      "summary": "Transport Minister Óscar Puente has rejected calls to step down after a high-speed train collision in central Spain killed at least 69 people. Investigators revealed the moving Renfe train was traveling up to 200 km/h when it struck a stationary Iryo train following an apparent computer failure and conflicting clearance signals.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T15:03:39+00:00"
     },
     {
       "headline": "China Denies U.S. Intelligence Claims of Spy Operation Targeting Nvidia CEO",
@@ -354,58 +399,31 @@
       "published": "2026-10-30T07:53:38+00:00"
     },
     {
-      "headline": "Designer Praises Detailed iPod Easter Egg on Apple Music 404 Page",
-      "summary": "Interface designer Marcin Wichary has highlighted Apple Music's 404 error page for featuring an exceptionally faithful recreation of the original iPod. Unlike many half-hearted easter eggs, this interactive homage successfully incorporates authentic interface modes and details.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
-      "source": "Daring Fireball",
-      "published": "2026-10-30T17:53:41+00:00"
-    },
-    {
-      "headline": "French National Assembly Approves Controversial Internet Data Tax",
-      "summary": "Lawmakers narrowly passed an amendment establishing a 0.055 euro per gigabyte tax on data volumes delivered to French users, aiming to raise up to 10 billion euros. While formally billed as a levy on content providers and content delivery networks with strict revenue caps, it targets major streaming and gaming platforms.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
-      "source": "Hacker News",
-      "published": "2026-10-30T15:54:00Z"
-    },
-    {
-      "headline": "Spanish Transport Minister Refuses to Resign Following Deadly Rail Crash",
-      "summary": "Transport Minister Óscar Puente has rejected calls to step down after a high-speed train collision in central Spain killed at least 69 people. Investigators revealed the moving Renfe train was traveling up to 200 km/h when it struck a stationary Iryo train following an apparent computer failure and conflicting clearance signals.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-30T13:03:34.741Z"
-    },
-    {
       "headline": "Alaska Senate Race Faces Spoiler Claims While Hegseth Ousts Army General",
       "summary": "Alaska's governor has ordered an investigation into allegations that Democrats recruited a spoiler candidate to disrupt the state's Senate race. Meanwhile, defense leadership shifts continue as an Army general is ousted amid preparations for potential conflicts.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
       "source": "NPR News",
-      "published": "2026-10-30T07:20:26-04:00"
+      "published": "2026-10-30T11:20:26+00:00"
     },
     {
-      "headline": "Fantasy Premier League Tips: Is It Time to Back Bournemouth Assets?",
-      "summary": "FPL expert Heisenberg recommends targeting Bournemouth players like midfielder Marcus Tavernier and budget forward Evanilson ahead of a favorable fixtures run. Erling Haaland remains the definitive captaincy choice despite Manchester City's recent defeat, while Nicolas Jackson presents an intriguing budget option following strong form. Meanwhile, Joao Pedro is flagged as an immediate sale after being ruled out for several weeks.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3zen65d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-10-30T07:51:08+00:00"
+      "headline": "DIIV Embraces Pop Crossover on New Album ZIRP!",
+      "summary": "Shoegaze outfit DIIV teamed up with producer A. G. Cook for their fifth studio album, introducing deconstructed rock elements and electronic spangles to their signature sound. Despite the pop-leaning production choices, the 11-track record retains the band's foundational melodic guitar noise.",
+      "category": "Music",
+      "relevance": 6,
+      "url": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+      "source": "Pitchfork",
+      "published": "2026-10-30T04:03:00+00:00"
     },
     {
-      "headline": "How Astrophysicists Linked Global Telescopes to Photograph a Black Hole",
-      "summary": "Astrophysicist Shep Doeleman details how the Event Horizon Telescope network linked radio dishes across the globe to image supermassive black holes. The massive collaborative effort effectively turned the Earth into a telescope to capture unprecedented visual evidence of the cosmic phenomena. Researchers are now looking ahead to the early 2030s with the goal of producing video footage of black holes.",
+      "headline": "Trump Administration Continues Sending Pregnant Migrant Minors to Texas",
+      "summary": "Federal authorities are continuing to place pregnant unaccompanied migrant youth in south Texas despite severe shortages in local obstetric care. Government records reveal that multiple minors had to be transferred out of state for specialized medical treatment, including abortions, unavailable locally.",
       "category": "World",
-      "relevance": 5,
-      "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-      "source": "Hacker News",
-      "published": "2026-10-30T09:49:02+00:00"
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6022578/minors-pregnant-migrant-texas-trump",
+      "source": "NPR News",
+      "published": "2026-10-30T18:06:18-04:00"
     },
     {
       "headline": "CeeDee Lamb Admits Cardinals Have Cowboys' Number",
@@ -426,31 +444,13 @@
       "published": "2026-10-30T18:54:41+00:00"
     },
     {
-      "headline": "Panthers and Packers Face Off in Week 8 Thursday Night Football",
-      "summary": "Betting odds, first touchdown scorer predictions, and game previews are live for the upcoming Thursday Night Football matchup between the Carolina Panthers and Green Bay Packers. Analysts weigh in on how the NFC opponents match up as Week 8 kicks off.",
-      "category": "NFL",
-      "relevance": 4,
-      "url": "https://www.cbssports.com/prediction/news/panthers-vs-packers-odds-first-touchdown-scorer-picks-predictions-for-nfl-week-8-thursday-night-football/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-10-29T18:06:43Z"
-    },
-    {
       "headline": "Binance Investigating Potential Security Issue Impacting Billions",
       "summary": "Binance is actively investigating a potential security incident with an estimated total impact exceeding $6 billion, which could rank among the largest on record. While the exchange's founder acknowledged the event appears to be a hack, Binance assured users that their funds remain entirely safe.",
       "category": "Other",
       "relevance": 4,
       "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
       "source": "NPR News",
-      "published": "2026-10-30T07:21:56-04:00"
-    },
-    {
-      "headline": "From Awkward Silence to Historic Output: How Doncic and Reaves Conquered LA",
-      "summary": "Following Luka Doncic's shock trade to the Lakers in February 2025, his early relationship with Austin Reaves was icy and silent. The pair eventually bonded away from the court, transforming into the NBA's most lethal offensive tandem by averaging a combined 60.4 points per game. That blistering output surpasses even the peak scoring numbers of legendary Lakers duo Kobe Bryant and Shaquille O'Neal.",
-      "category": "NBA",
-      "relevance": 3,
-      "url": "https://nypost.com/2026/10/29/sports/austin-reaves-luka-doncic-friendship-nba-best-offensive-duo/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-10-29T18:12:10+00:00"
+      "published": "2026-10-30T11:21:56+00:00"
     }
   ]
 }
