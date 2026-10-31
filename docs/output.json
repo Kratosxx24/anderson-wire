@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T02:30:35.296803+00:00",
+  "generated_at": "2026-10-31T08:48:26.504619+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -57,15 +57,6 @@
       "published": "2026-10-30T10:00:00+00:00"
     },
     {
-      "headline": "WSJ Explores Apple's Supplier Tension Tactics",
-      "summary": "A Wall Street Journal report highlights how former Apple procurement executive Blevins deliberately engineered rivalries among chip vendors. By staging back-to-back supplier meetings, Apple fostered intense competition and pressure across its supply chain.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c0084cc9?st=FNAyaT",
-      "source": "Daring Fireball",
-      "published": "2026-10-29T19:44:11+00:00"
-    },
-    {
       "headline": "ASMR iPhone Duo Unboxing Released",
       "summary": "Tech creator MKBHD has published a new ASMR unboxing video featuring the iPhone Duo. The video offers a quiet, tactile look at the devices without traditional spoken narration.",
       "category": "YouTube",
@@ -93,13 +84,22 @@
       "published": "2026-10-29T04:00:00+00:00"
     },
     {
-      "headline": "Strategies for Evangelistically Effective Churches",
-      "summary": "The Gospel Coalition outlines organizational best practices and theological essays centered on modern church growth and outreach. The collection features expert commentary, historical insights, and ministry resources for pastors and leaders.",
-      "category": "Faith",
+      "headline": "MKBHD Explores Lesser-Known Foldables",
+      "summary": "The Studio takes a closer look at unusual and lesser-known foldable devices currently on the market. The video dives into the unique hardware choices and market standing of these alternative folding phones.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://www.thegospelcoalition.org/article/best-practices-evangelism/",
-      "source": "The Gospel Coalition",
-      "published": "2026-10-28T04:00:00+00:00"
+      "url": "https://www.youtube.com/shorts/0-bQziLITuk",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-23T18:14:01+00:00"
+    },
+    {
+      "headline": "Behind the Scenes of MKBHD's Video Intro Gear",
+      "summary": "The Studio reveals the unexpected camera setup used to shoot the intro for their latest production. The team breaks down the technical details and creative choices behind the equipment selection.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/fBdy_ggh8Xc",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-21T16:06:00+00:00"
     },
     {
       "headline": "Third Apron Analyzes Early NBA Surprises and Salary Caps",
@@ -118,15 +118,6 @@
       "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-103026",
       "source": "Basketball Intelligence",
       "published": "2026-10-30T18:51:29+00:00"
-    },
-    {
-      "headline": "Basketball Intelligence Highlights Early NBA Season Surprises",
-      "summary": "The latest edition of the Basketball Intelligence newsletter breaks down early-year performances across the NBA. Key topics include standout rookies, immediate payoffs from offseason trades, and early team power rankings.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-102926",
-      "source": "Basketball Intelligence",
-      "published": "2026-10-29T17:01:25+00:00"
     },
     {
       "headline": "CBS Sports Releases Knicks vs. 76ers NBA Cup Predictions",
@@ -156,15 +147,6 @@
       "published": "2026-10-30T17:00:00+00:00"
     },
     {
-      "headline": "US Approves $2.1 Billion Patriot Missile Sale to Ukraine",
-      "summary": "The US State Department has cleared the sale of 500 advanced PAC-3 interceptor missiles to Ukraine to help defend against intensifying Russian aerial bombardment. The $2.1 billion deal is fully funded by European allies and Canada through the JUMPSTART program, bypassing direct US funding. Lockheed Martin will build the new munitions, though rapid delivery is unlikely due to global supply constraints.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-31T00:40:43+00:00"
-    },
-    {
       "headline": "Detailed Pricing and Configurations Emerge for New Apple MacBooks",
       "summary": "John Gruber details the pricing structure and hardware tiers for Apple's newly announced M6, M5 Pro, and M5 Max MacBook Pros. The lineup introduces updated PROLED XDR models featuring lighter designs and touchscreens at a $400 premium over legacy versions. High-end configurations max out with massive 16 TB SSD storage upgrades costing an extra $7,000.",
       "category": "Tech/AI",
@@ -172,6 +154,15 @@
       "url": "https://daringfireball.net/2026/10/macbook_pro_pricing_and_configurations_for_m6_m5_pro_and_m5_max",
       "source": "Daring Fireball",
       "published": "2026-10-30T21:56:10+00:00"
+    },
+    {
+      "headline": "US Approves $2.1 Billion Patriot Missile Sale to Ukraine",
+      "summary": "The US State Department has cleared the sale of 500 advanced PAC-3 interceptor missiles to Ukraine to help defend against intensifying Russian aerial bombardment. The $2.1 billion deal is fully funded by European allies and Canada through the JUMPSTART program, bypassing direct US funding. Lockheed Martin will build the new munitions, though rapid delivery is unlikely due to global supply constraints.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-31T00:40:43+00:00"
     },
     {
       "headline": "OpenAI Adds API Credits Benefit for High-Tier Subscribers",
@@ -219,13 +210,22 @@
       "published": "2026-10-30T11:00:00+00:00"
     },
     {
-      "headline": "AI Doesn't Replace SREs, It Deskills Them",
-      "summary": "Heavy reliance on AI for incident response creates a dangerous paradox for Site Reliability Engineers. When automation handles 95% of normal operations, human operators lose critical practice, leaving them dangerously unprepared to handle high-stakes crises when systems fail.",
-      "category": "Tech/AI",
+      "headline": "Tulane Faces Charlotte in Week 9 Friday Clash",
+      "summary": "CBS Sports provides comprehensive betting odds, expert picks, and a game preview for the upcoming Friday college football matchup between Tulane and Charlotte. The breakdown highlights key factors to watch as the two teams prepare to kick off.",
+      "category": "Sports",
       "relevance": 8,
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "source": "Hacker News",
-      "published": "2026-02-28T13:45:17+00:00"
+      "url": "https://www.cbssports.com/betting/news/tulane-vs-charlotte-betting-odds-week-9-preview-picks-start-time-for-friday-college-football/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T22:00:58+00:00"
+    },
+    {
+      "headline": "Breaking Down Martin Luther Through Five Latin Phrases",
+      "summary": "The Gospel Coalition explores the core theological tenets of Martin Luther using five foundational Latin phrases. The essay highlights historical theological concepts that continue to shape evangelical thought and church history.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/latin-phrases-martin-luther/",
+      "source": "The Gospel Coalition",
+      "published": "2026-10-31T04:00:00+00:00"
     },
     {
       "headline": "NFL Week 8 Final Injury Report Highlights Key Player Statuses",
@@ -235,6 +235,15 @@
       "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
       "source": "CBS Sports",
       "published": "2026-10-30T22:30:10+00:00"
+    },
+    {
+      "headline": "Budda Baker Wears Costume to Address Trade Rumors",
+      "summary": "Cardinals safety Budda Baker addressed ongoing trade speculation while dressed in a Halloween costume. The unusual media appearance gave fans a lighthearted moment amid swirling roster rumors.",
+      "category": "NFL",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/nfl/news/cardinals-budda-baker-addresses-trade-rumors-while-wearing-halloween-costume/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T21:21:53+00:00"
     },
     {
       "headline": "Mladost Zagreb Sweeps Pafiakos to Advance in Champions League Qualifiers",
@@ -255,6 +264,15 @@
       "published": "2026-10-30T04:00:00+00:00"
     },
     {
+      "headline": "Makai Lemon Emerges as Fantasy Football Week 8 Sleeper",
+      "summary": "Rookie Makai Lemon is positioned as a strong fantasy sleeper pick for Week 8. Ongoing injuries within the Eagles offense create an opportunity for him to step up and make a surprising impact.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-2026-week-8-fantasy-football-sleepers/",
+      "source": "CBS Sports",
+      "published": "2026-10-30T22:27:14+00:00"
+    },
+    {
       "headline": "Apple Lowers Taiwan App Store Commission Rate to 26 Percent",
       "summary": "Following discussions with the Taiwan Fair Trade Commission, Apple is reducing its standard App Store commission rate from 30% to 26% for iOS and iPadOS transactions in Taiwan. The adjustment takes effect on October 31, 2026.",
       "category": "Tech/AI",
@@ -264,13 +282,13 @@
       "published": "2026-10-29T21:03:42+00:00"
     },
     {
-      "headline": "AI Startup Runs Multiplayer Game Entirely via Autonomous Agents",
-      "summary": "Massively multiplayer game Spawn is developed continuously by an autonomous swarm of AI agents handling live code and bugs hourly. Operating on a model where token costs exceed payroll by 30 times, the team treats any hour without a shipped update as a severe system incident.",
+      "headline": "Developer Compiles Working NES into Qwen AI Weights",
+      "summary": "A developer successfully integrated a complete NES CPU, RAM, and game ROM directly into the weights of a stock Qwen3.5 AI model. The system uses the AI's internal state as memory, allowing it to accurately predict CPU execution logs and run classic games like Super Mario Bros.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
-      "source": "Simon Willison",
-      "published": "2026-10-29T17:00:26+00:00"
+      "url": "https://github.com/dbreunig/nesformer",
+      "source": "Hacker News",
+      "published": "2026-10-30T16:40:22+00:00"
     },
     {
       "headline": "The Gospel Coalition Publishes Ministry Insights for Pastors",
@@ -280,6 +298,15 @@
       "url": "https://www.thegospelcoalition.org/article/pastor-be-opportunistic/",
       "source": "The Gospel Coalition",
       "published": "2026-10-30T04:00:00+00:00"
+    },
+    {
+      "headline": "Hundreds Evacuated from Oleshky Under Rare Ceasefire",
+      "summary": "Hundreds of civilians were safely evacuated from the devastated Russian-occupied city of Oleshky during a frontline ceasefire brokered by US First Lady Melania Trump. A convoy of 25 buses transported residents to southern Russia, from where they will travel onward to Ukraine.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T16:26:11+00:00"
     },
     {
       "headline": "G20 Scraps Family Photo After European Ministers Boycott Russian Delegate",
@@ -309,42 +336,6 @@
       "published": "2026-10-30T06:02:23+00:00"
     },
     {
-      "headline": "Budda Baker Wears Costume to Address Trade Rumors",
-      "summary": "Cardinals safety Budda Baker addressed ongoing trade speculation while dressed in a Halloween costume. The unusual media appearance gave fans a lighthearted moment amid swirling roster rumors.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/nfl/news/cardinals-budda-baker-addresses-trade-rumors-while-wearing-halloween-costume/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T21:21:53+00:00"
-    },
-    {
-      "headline": "Makai Lemon Emerges as Fantasy Football Week 8 Sleeper",
-      "summary": "Rookie Makai Lemon is positioned as a strong fantasy sleeper pick for Week 8. Ongoing injuries within the Eagles offense create an opportunity for him to step up and make a surprising impact.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-2026-week-8-fantasy-football-sleepers/",
-      "source": "CBS Sports",
-      "published": "2026-10-30T22:27:14+00:00"
-    },
-    {
-      "headline": "Hundreds Evacuated from Oleshky Under Rare Ceasefire",
-      "summary": "Hundreds of civilians were safely evacuated from the devastated Russian-occupied city of Oleshky during a frontline ceasefire brokered by US First Lady Melania Trump. A convoy of 25 buses transported residents to southern Russia, from where they will travel onward to Ukraine.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-30T10:32:06.215Z"
-    },
-    {
-      "headline": "Developer Compiles Working NES into Qwen AI Weights",
-      "summary": "A developer successfully integrated a complete NES CPU, RAM, and game ROM directly into the weights of a stock Qwen3.5 AI model. The system uses the AI's internal state as memory, allowing it to accurately predict CPU execution logs and run classic games like Super Mario Bros.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://github.com/dbreunig/nesformer",
-      "source": "Hacker News",
-      "published": "2026-10-30T16:40:22+00:00"
-    },
-    {
       "headline": "Inside the Oleshky Evacuation and Ceasefire",
       "summary": "Following a ceasefire brokered by Melania Trump, residents in Oleshky were given a four-hour window to evacuate the war-torn city. While hundreds utilized the 25-bus convoy to escape, others chose to remain despite severe infrastructure shortages.",
       "category": "World",
@@ -352,6 +343,24 @@
       "url": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "published": "2026-10-30T23:19:17+00:00"
+    },
+    {
+      "headline": "Revisiting Aphex Twin's Drukqs on its 25th Anniversary",
+      "summary": "Pitchfork reviews the 25th-anniversary edition of Aphex Twin's sprawling 2001 electronic double album, Drukqs. The retrospective examines how the 100-minute release bridges academic rigor with club-ready rave culture.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
+      "source": "Pitchfork",
+      "published": "2026-10-31T04:00:00+00:00"
+    },
+    {
+      "headline": "Designer Praises Detailed iPod Easter Egg on Apple Music 404 Page",
+      "summary": "Interface designer Marcin Wichary has highlighted Apple Music's 404 error page for featuring an exceptionally faithful recreation of the original iPod. Unlike many half-hearted easter eggs, this interactive homage successfully incorporates authentic interface modes and details.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
+      "source": "Daring Fireball",
+      "published": "2026-10-30T17:53:41+00:00"
     },
     {
       "headline": "DIIV Embraces Pop Crossover on New Album ZIRP!",
@@ -363,13 +372,22 @@
       "published": "2026-10-30T04:03:00+00:00"
     },
     {
-      "headline": "Designer Praises Detailed iPod Easter Egg on Apple Music 404 Page",
-      "summary": "Interface designer Marcin Wichary has highlighted Apple Music's 404 error page for featuring an exceptionally faithful recreation of the original iPod. Unlike many half-hearted easter eggs, this interactive homage successfully incorporates authentic interface modes and details.",
-      "category": "Tech/AI",
+      "headline": "Binance Freezes Half of Record $6.3B Crypto Heist",
+      "summary": "Binance suffered a massive $6.3 billion security breach utilizing self-destruct mechanisms to erase hacker footprints. The exchange has frozen roughly $3 billion of the stolen funds and pledged company reserves to cover all user losses.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://unsung.aresluna.org/apples-ipod-recreation/",
-      "source": "Daring Fireball",
-      "published": "2026-10-30T17:53:41+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-30T21:13:14+00:00"
+    },
+    {
+      "headline": "North Korean Hackers Linked to Massive Binance Heist",
+      "summary": "Blockchain intelligence firms TRM Labs and Chainalysis attribute the record-breaking $6.3 billion Binance hack to North Korea's state-backed Lazarus Group. Experts warn that Pyongyang increasingly relies on advanced cybercrime and virtual asset theft to fund its regime.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-10-31T02:12:19+00:00"
     },
     {
       "headline": "Spanish Transport Minister Refuses to Resign Following Deadly Rail Crash",
@@ -408,40 +426,13 @@
       "published": "2026-10-30T22:06:18+00:00"
     },
     {
-      "headline": "Alaska Senate Race Faces Spoiler Claims While Hegseth Ousts Army General",
-      "summary": "Alaska's governor has ordered an investigation into allegations that Democrats recruited a spoiler candidate to disrupt the state's Senate race. Meanwhile, defense leadership shifts continue as an Army general is ousted amid preparations for potential conflicts.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
-      "source": "NPR News",
-      "published": "2026-10-30T11:20:26+00:00"
-    },
-    {
-      "headline": "Binance Freezes Half of Record $6.3B Crypto Heist",
-      "summary": "Binance suffered a massive $6.3 billion security breach utilizing self-destruct mechanisms to erase hacker footprints. The exchange has frozen roughly $3 billion of the stolen funds and pledged company reserves to cover all user losses.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-30T16:03:48.376Z"
-    },
-    {
-      "headline": "North Korean Hackers Linked to Massive Binance Heist",
-      "summary": "Blockchain intelligence firms TRM Labs and Chainalysis attribute the record-breaking $6.3 billion Binance hack to North Korea's state-backed Lazarus Group. Experts warn that Pyongyang increasingly relies on advanced cybercrime and virtual asset theft to fund its regime.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-10-31T02:12:19.988Z"
-    },
-    {
       "headline": "Blockchain Firms Trace $6.3B Binance Hack to North Korea",
       "summary": "Blockchain analytics firms have linked a devastating $6.3 billion breach at Binance to North Korean state-backed hackers. Binance reported that it has successfully frozen about $3 billion in affected assets while working alongside global law enforcement to recover the rest.",
       "category": "World",
       "relevance": 6,
       "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
       "source": "NPR News",
-      "published": "2026-10-30T09:01:22-04:00"
+      "published": "2026-10-30T13:01:22+00:00"
     },
     {
       "headline": "Binance Investigating Potential Security Issue Impacting Billions",
@@ -451,6 +442,15 @@
       "url": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
       "source": "NPR News",
       "published": "2026-10-30T11:21:56+00:00"
+    },
+    {
+      "headline": "Warriors Poised for Potential Upset Against Lakers in NBA Cup Opener",
+      "summary": "CBS Sports breaks down the betting odds and predictions for the upcoming matchup between the Los Angeles Lakers and the Golden State Warriors. Analysts suggest the Warriors have a solid shot at pulling off an upset as NBA Cup play begins.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://www.cbssports.com/betting/news/lakers-vs-warriors-picks-odds-golden-state-could-pull-off-upset-to-begin-nba-cup-play/",
+      "source": "CBS Sports",
+      "published": "2026-10-31T01:00:59+00:00"
     }
   ]
 }
