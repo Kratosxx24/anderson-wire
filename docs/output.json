@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T02:55:14.813501+00:00",
+  "generated_at": "2026-11-05T10:45:00.203829+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -75,6 +75,15 @@
       "published": "2026-11-03T23:58:49+00:00"
     },
     {
+      "headline": "Anthropic Advances Cryptographic Proofs for AI Inference",
+      "summary": "Anthropic has introduced FlashProve, a system designed to provide cryptographic verification that a specific AI model generated a given response. By leveraging zkSNARKs, the team achieved significant speed improvements, allowing for efficient proof generation while maintaining model security and privacy.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "source": "Hacker News",
+      "published": "2026-11-04T17:17:46+00:00"
+    },
+    {
       "headline": "Moving Beyond Justice Advocacy to Embrace the Whole Gospel",
       "summary": "An essay from The Gospel Coalition reflects on the author's past as an aggressive justice warrior. The piece argues that social activism must be grounded in a deeper, more holistic understanding of Christian theology. It calls for believers to look past political movements and anchor their faith in foundational spiritual truths.",
       "category": "Faith",
@@ -93,22 +102,49 @@
       "published": "2026-11-03T05:00:00+00:00"
     },
     {
-      "headline": "NBA Elo Forecasts and Player Ratings Return for 2026-27",
-      "summary": "Neil Paine has launched his 2026-27 NBA season projections, utilizing an Elo-based model that simulates thousands of outcomes to predict standings and championship odds. The updated system now features distinct regular-season and playoff ratings, both recalibrated using historical data from every game since 1946.",
-      "category": "NBA",
+      "headline": "MacBook Pro XDR Display Impressions",
+      "summary": "Marques Brownlee shares his hands-on impressions of the MacBook Pro's XDR display technology. The video highlights how the screen performs in real-world usage, challenging previous skepticism about its capabilities.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://neilpaine.substack.com/p/2026-27-nba-elo-forecast-and-player",
-      "source": "Neil Paine",
-      "published": "2026-11-04T11:44:00+00:00"
+      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
+      "source": "MKBHD",
+      "published": "2026-10-29T02:50:34+00:00"
     },
     {
-      "headline": "Anthropic Advances Cryptographic Proofs for AI Inference",
-      "summary": "Anthropic has introduced FlashProve, a system designed to provide cryptographic verification that a specific AI model generated a given response. By leveraging zkSNARKs, the team achieved significant speed improvements, allowing for efficient proof generation while maintaining model security and privacy.",
-      "category": "Tech/AI",
+      "headline": "Marques Brownlee Ranks Halloween Candy",
+      "summary": "Marques Brownlee and his team conduct a lighthearted ranking of various Halloween candies. The group evaluates popular treats to determine which ones deserve the top spots.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "source": "Hacker News",
-      "published": "2026-11-02T00:00:00.000Z"
+      "url": "https://www.youtube.com/shorts/v92XR6RwB9Q",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-31T21:56:10+00:00"
+    },
+    {
+      "headline": "Exploring Technology That Visualizes Sound",
+      "summary": "This video showcases innovative technology capable of translating sound into visual data. It explores how this sensory-bridging tool functions and its potential practical applications.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/ai1gIWacf0I",
+      "source": "MKBHD",
+      "published": "2026-10-27T20:14:55+00:00"
+    },
+    {
+      "headline": "Testing Knowledge of Modern Foldable Phones",
+      "summary": "The MKBHD team puts their knowledge of the current foldable smartphone market to the test. They discuss various devices and the rapid evolution of foldable form factors.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/0-bQziLITuk",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-23T18:14:01+00:00"
+    },
+    {
+      "headline": "Behind the Scenes: The Studio Intro Setup",
+      "summary": "The MKBHD team reveals the specific camera gear and setup used to film their studio intro. They highlight the technical choices made to achieve their signature aesthetic.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/fBdy_ggh8Xc",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-21T16:06:00+00:00"
     },
     {
       "headline": "Defending the Low Red Zone",
@@ -138,40 +174,13 @@
       "published": "2026-11-03T23:45:18+00:00"
     },
     {
-      "headline": "Basketball Intelligence Roundup Covers NBA Rookies and Contract-Year Standouts",
-      "summary": "The latest edition of the newsletter spotlights early performances from the 2026 NBA rookie class alongside evaluations of players chasing paydays in their contract years. It also aggregates the top league-wide reporting following a busy slate of 15 games.",
-      "category": "NBA",
-      "relevance": 8,
-      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-11326-3ce",
-      "source": "Basketball Intelligence",
-      "published": "2026-11-03T19:08:06+00:00"
-    },
-    {
-      "headline": "Apple Tests Vertical Tabs and Adaptive Dark Mode in Safari Beta",
-      "summary": "The latest beta updates for iOS, iPadOS, and macOS introduce a space-saving vertical tab layout and an Adaptive Dark Mode that automatically adjusts bright website backgrounds. Additionally, the update expands Siri's capabilities to manage tabs, windows, and deep webpage comprehension using AI.",
+      "headline": "Qualcomm Debuts Cloud AI 100 Ultra Accelerator",
+      "summary": "Qualcomm has released the Cloud AI 100 Ultra, a high-performance AI inference accelerator card. The hardware features 128GB of memory and delivers 548GB/s of bandwidth, designed to handle demanding AI workloads at a 150W power envelope.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.macrumors.com/2026/11/03/ios-27-3-safari/",
-      "source": "Daring Fireball",
-      "published": "2026-11-03T19:26:41+00:00"
-    },
-    {
-      "headline": "Steve Jobs Dismisses Platform Debates",
-      "summary": "During his final quarterly earnings call in late 2010, Apple CEO Steve Jobs dismissed open versus closed platform arguments as a smokescreen. Jobs highlighted the iPhone's massive unit growth and asserted that competitors like RIM would struggle to transition into software platform companies.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.macworld.com/article/208438/jobs_transcript.html",
-      "source": "Daring Fireball",
-      "published": "2026-11-03T15:40:34+00:00"
-    },
-    {
-      "headline": "Qwen Model Natively Interprets Weights",
-      "summary": "Recent research demonstrates that frontier language models can read and modify raw neural network weights directly without executing code. Developer Simon Willison notes that a 27B Qwen model running locally on a laptop successfully replicates this weight-space programming capability.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "source": "Simon Willison",
-      "published": "2026-11-03T16:29:48+00:00"
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "Hacker News",
+      "published": "2026-11-04T19:55:14+00:00"
     },
     {
       "headline": "Ricursive Intelligence Launches Ripple-65B Preview for Agentic Coding",
@@ -210,31 +219,22 @@
       "published": "2026-11-03T05:04:09+00:00"
     },
     {
-      "headline": "Navigating Healthy Teen Tech Habits",
-      "summary": "Samuel D. James's review of 'Scroll Less, Live More' addresses the growing challenge of managing adolescent screen time. The piece highlights practical approaches for fostering balanced digital habits among teenagers in a hyper-connected era.",
+      "headline": "Adopting a Missionary Model for Inner-City Church Planting",
+      "summary": "This essay argues that inner-city church plants require a shift toward a missionary model to achieve long-term sustainability. It suggests that traditional methods often fall short in urban contexts, necessitating a more intentional, cross-cultural approach.",
       "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/reviews/help-teen-healthy-tech-habits/",
+      "url": "https://www.thegospelcoalition.org/article/inner-city-church-missionary/",
       "source": "The Gospel Coalition",
-      "published": "2026-11-02T05:02:00+00:00"
+      "published": "2026-11-05T05:02:00+00:00"
     },
     {
-      "headline": "Effective Altruists and the ‘Spreadsheet Gospel’ Essay",
-      "summary": "The Gospel Coalition publishes an essay examining how the effective‑altruism movement relies on data‑driven, spreadsheet‑style reasoning, questioning whether such an approach captures the full spiritual and moral dimensions of Christian faith.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/effective-altruists-spreadsheet-gospel/",
-      "source": "The Gospel Coalition",
-      "published": "2026-11-02T05:00:00+00:00"
-    },
-    {
-      "headline": "Qualcomm Debuts Cloud AI 100 Ultra Accelerator",
-      "summary": "Qualcomm has released the Cloud AI 100 Ultra, a high-performance AI inference accelerator card. The hardware features 128GB of memory and delivers 548GB/s of bandwidth, designed to handle demanding AI workloads at a 150W power envelope.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "source": "Hacker News",
-      "published": "2026-11-04T19:55:14+00:00"
+      "headline": "Jonah Coleman Emerges as Fantasy Football Week 9 Priority",
+      "summary": "Jonah Coleman has become a focal point for fantasy managers heading into Week 9 as his stock continues to rise. The latest start-or-sit analysis highlights his growing role and potential impact for upcoming matchups.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-9-start-em-sit-em/",
+      "source": "CBS Sports",
+      "published": "2026-11-05T01:09:48+00:00"
     },
     {
       "headline": "Week 10 MACtion Preview: Ball State Meets UMass",
@@ -264,13 +264,22 @@
       "published": "2026-11-04T05:03:00+00:00"
     },
     {
-      "headline": "Hungary Opens Communist-Era Secret Police Files",
-      "summary": "Hungary has released secret police files containing the personal data of roughly 60,000 individuals recruited under communist rule. Prime Minister Péter Magyar defended the long-delayed move as a necessary step for societal healing, though critics warn the incomplete records may cause unnecessary pain. The publication coincides symbolically with the anniversary of the 1956 Soviet crackdown in Budapest.",
+      "headline": "Niagara Explores Minimalist Techno on Catedral Gótica",
+      "summary": "The Lisbon-based trio Niagara has returned with Catedral Gótica, an album that pivots away from their earlier disco-influenced roots toward skeletal ambient and machine-driven minimalism. The record captures a frantic, disembodied sound that reflects the group's evolution into more experimental electronic territory.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/",
+      "source": "Pitchfork",
+      "published": "2026-11-04T05:02:00+00:00"
+    },
+    {
+      "headline": "Democrats Ride Surge of Women and Hispanic Voters to Congressional Wins",
+      "summary": "A wave of Democratic victories in the midterm elections handed the party control of both the Senate and the House of Representatives, driven by unexpected gains in states like South Carolina, Texas, and Kansas. Exit polls indicate that high voter turnout among women heavily favored Democratic candidates, alongside a notable shift among Hispanic voters in key areas like Florida. Voters nationwide identified the economy and the state of democracy as their primary concerns.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-04T15:28:18+00:00"
+      "published": "2026-11-04T09:53:18+00:00"
     },
     {
       "headline": "AI Data Centers Become a Flashpoint in Elections",
@@ -300,31 +309,31 @@
       "published": "2026-11-04T00:29:36+00:00"
     },
     {
-      "headline": "AMD Projected to Outsell Intel in Q4",
-      "summary": "AMD has issued $17 billion in Q4 guidance, putting the company on track to outsell Intel for the first time in history. This milestone reflects shifting momentum in the semiconductor market as AMD's projections eclipse its rival.",
+      "headline": "Coding Agent Startup Conductor Acquired by Meta",
+      "summary": "The AI coding agent platform Conductor is shutting down its cloud services following an acquisition by Meta. While the cloud platform will go read-only on November 13 and shut down on November 20, the local version of the software will remain supported with updates until early 2027.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "url": "https://www.conductor.build/announcement",
       "source": "Hacker News",
-      "published": "2026-11-04T15:38:34+00:00"
+      "published": "2026-11-04T18:22:40+00:00"
     },
     {
-      "headline": "ANC Faces Severe Voter Pressure in South African Local Elections",
-      "summary": "South Africa's governing African National Congress is bracing for substantial vote losses in municipal elections as citizens express deep frustration over rampant corruption, high unemployment, and failing basic services. Despite the party's plummeting national support—dropping from 70 percent in 2004 to 40 percent recently—President Cyril Ramaphosa has dismissed predictions of a downward spiral. Voters across nearly 300 municipalities are deciding the leadership responsible for local water, electricity, and refuse collection.",
-      "category": "World",
+      "headline": "Kino AI Launches Collaborative, Code-First Video Editor",
+      "summary": "Kino AI has introduced a collaborative video editing platform that allows human editors and AI agents to work on the same timeline simultaneously. Built on Remotion, the tool treats editing and motion graphics as code, enabling real-time teamwork and integration with professional media formats.",
+      "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T11:47:44+00:00"
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "source": "Hacker News",
+      "published": "2026-11-04T17:31:53+00:00"
     },
     {
-      "headline": "Democrats Ride Surge of Women and Hispanic Voters to Congressional Wins",
-      "summary": "A wave of Democratic victories in the midterm elections handed the party control of both the Senate and the House of Representatives, driven by unexpected gains in states like South Carolina, Texas, and Kansas. Exit polls indicate that high voter turnout among women heavily favored Democratic candidates, alongside a notable shift among Hispanic voters in key areas like Florida. Voters nationwide identified the economy and the state of democracy as their primary concerns.",
+      "headline": "Democrats Secure Congressional Control in Midterm Elections",
+      "summary": "The Democratic Party has won control of both the US Senate and the House of Representatives, marking a significant shift for the remainder of Donald Trump's presidency. The results included historic victories in traditionally Republican strongholds, such as Texas and Kansas.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-04T09:53:18+00:00"
+      "published": "2026-11-04T14:05:42+00:00"
     },
     {
       "headline": "Voters Decide 146 State Ballot Measures Across U.S. Midterms",
@@ -336,58 +345,40 @@
       "published": "2026-11-04T21:49:17+00:00"
     },
     {
-      "headline": "Jonah Coleman Emerges as Fantasy Football Week 9 Priority",
-      "summary": "Jonah Coleman has become a focal point for fantasy managers heading into Week 9 as his stock continues to rise. The latest start-or-sit analysis highlights his growing role and potential impact for upcoming matchups.",
+      "headline": "OpenSSH 10.6p2 Released with Security Fix",
+      "summary": "OpenSSH has released version 10.6p2 to address a critical vulnerability. Users are encouraged to update their systems to implement the provided workaround.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+      "source": "Hacker News",
+      "published": "2026-11-05T09:46:17+00:00"
+    },
+    {
+      "headline": "Baidu Releases ERNIE 5.5 Flash Base Model",
+      "summary": "Baidu has launched ERNIE 5.5 Flash Base, a 280B parameter sparse Mixture-of-Experts model. It features a 1M-token context window for inference and was trained on 33.5T tokens, providing an open starting point for developers to pursue domain-specific fine-tuning.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "source": "Hacker News",
+      "published": "2026-11-05T09:29:12+00:00"
+    },
+    {
+      "headline": "Why Behavioral Checklists Cannot Change the Heart",
+      "summary": "This article explores the spiritual limitation of focusing solely on outward actions or 'report cards' of behavior. It emphasizes that true transformation must occur at the heart level rather than through mere compliance with external rules.",
+      "category": "Faith",
+      "relevance": 7,
+      "url": "https://www.thegospelcoalition.org/article/report-cards-fix-heart/",
+      "source": "The Gospel Coalition",
+      "published": "2026-11-05T05:00:00+00:00"
+    },
+    {
+      "headline": "Week 9 Fantasy Football WR Advice",
+      "summary": "CBS Sports provides Week 9 start and sit recommendations for wide receivers in fantasy football. The analysis highlights Luther Burden III and Rome Odunze as emerging options for fantasy managers.",
       "category": "Sports",
       "relevance": 7,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-2026-week-9-start-em-sit-em/",
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-start-em-sit-em-wr-in-week-9/",
       "source": "CBS Sports",
-      "published": "2026-11-05T01:09:48+00:00"
-    },
-    {
-      "headline": "Niagara Explores Minimalist Techno on Catedral Gótica",
-      "summary": "The Lisbon-based trio Niagara has returned with Catedral Gótica, an album that pivots away from their earlier disco-influenced roots toward skeletal ambient and machine-driven minimalism. The record captures a frantic, disembodied sound that reflects the group's evolution into more experimental electronic territory.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/",
-      "source": "Pitchfork",
-      "published": "2026-11-04T05:02:00+00:00"
-    },
-    {
-      "headline": "LLM Command-Line Tool Receives 0.37.1 Bugfix Update",
-      "summary": "Simon Willison has released version 0.37.1 of the LLM command-line utility. This update serves as a maintenance release, incorporating contributions from several developers to improve the tool's stability.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Nov/3/llm/",
-      "source": "Simon Willison",
-      "published": "2026-11-03T21:41:42+00:00"
-    },
-    {
-      "headline": "Coding Agent Startup Conductor Acquired by Meta",
-      "summary": "The AI coding agent platform Conductor is shutting down its cloud services following an acquisition by Meta. While the cloud platform will go read-only on November 13 and shut down on November 20, the local version of the software will remain supported with updates until early 2027.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.conductor.build/announcement",
-      "source": "Hacker News",
-      "published": "2026-11-04T18:22:40+00:00"
-    },
-    {
-      "headline": "Democrats Secure Congressional Control in Midterm Elections",
-      "summary": "The Democratic Party has won control of both the US Senate and the House of Representatives, marking a significant shift for the remainder of Donald Trump's presidency. The results included historic victories in traditionally Republican strongholds, such as Texas and Kansas.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-04T04:41:12.450Z"
-    },
-    {
-      "headline": "Kino AI Launches Collaborative, Code-First Video Editor",
-      "summary": "Kino AI has introduced a collaborative video editing platform that allows human editors and AI agents to work on the same timeline simultaneously. Built on Remotion, the tool treats editing and motion graphics as code, enabling real-time teamwork and integration with professional media formats.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "source": "Hacker News",
-      "published": "2026-11-04T17:31:53+00:00"
+      "published": "2026-11-05T00:09:03+00:00"
     },
     {
       "headline": "Butler vs. Fairleigh Dickinson College Basketball Betting Breakdown",
@@ -441,7 +432,16 @@
       "relevance": 5,
       "url": "https://www.cbssports.com/nfl/news/nfl-week-9-injury-report-micah-parsons-jaylen-watson-rams/",
       "source": "CBS Sports",
-      "published": "2026-11-05T01:01:12+00:00"
+      "published": "2026-11-05T03:07:09+00:00"
+    },
+    {
+      "headline": "CBS Sports Drops Model-Based Predictions for 76ers-Pistons Matchup",
+      "summary": "CBS Sports has released its betting odds, game time, and predictive model picks for the upcoming Wednesday night matchup between the Philadelphia 76ers and the Detroit Pistons. The analysis aims to guide bettors looking for an edge on the hardwood. Fans and gamblers can consult the platform for the latest projections ahead of tip-off.",
+      "category": "NBA",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/betting/news/76ers-pistons-prediction-odds-time-2026-nba-picks-best-bets-wednesday-november-4/",
+      "source": "CBS Sports",
+      "published": "2026-11-04T21:45:45+00:00"
     },
     {
       "headline": "Why LEDs Cut Out the Bug Swarms",
