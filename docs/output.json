@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T23:54:59.868820+00:00",
+  "generated_at": "2026-11-08T05:51:51.398666+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -39,42 +39,6 @@
       "published": "2026-11-06T05:00:00+00:00"
     },
     {
-      "headline": "Meta's Sleek Wearables Point the Way Forward for Spatial Tech",
-      "summary": "Marques Brownlee analyzes Meta's latest smart glasses prototype as a direct counter to the bulky Apple Vision Pro form factor. The hands-on breakdown weighs lightweight ergonomics against sheer spatial computing power, questioning whether Apple miscalculated the public's appetite for heavy headsets.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=_x58r9TBois",
-      "source": "MKBHD",
-      "published": "2026-11-06T21:29:30+00:00"
-    },
-    {
-      "headline": "OLED iPad Mini Marks Apple's Classic Upgrade Playbook",
-      "summary": "Marques Brownlee breaks down Apple's anticipated move to bring OLED display technology to the diminutive iPad Mini form factor. The analysis critiques Apple's trademark strategy of gatekeeping premium panel upgrades until market pressures demand a hardware refresh.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
-      "source": "MKBHD",
-      "published": "2026-11-03T14:01:31+00:00"
-    },
-    {
-      "headline": "How to Disable the Illuminated MacBook Pro Logo",
-      "summary": "The new MacBook Pro with a PROLED XDR display features an Apple logo that automatically adjusts its brightness based on ambient light. Users can manually disable this illumination at any time by running a specific command in the macOS Terminal.",
-      "category": "Tech/AI",
-      "relevance": 9,
-      "url": "https://support.apple.com/en-us/149248",
-      "source": "Daring Fireball",
-      "published": "2026-11-06T15:03:51+00:00"
-    },
-    {
-      "headline": "MacBook Pro Embraces Display Tech Apple Resisted for Years",
-      "summary": "Marques Brownlee tests out Apple's redesigned MacBook Pro display, scrutinizing panel performance after earlier skepticism over whether the hardware overhaul was necessary. The review focuses on brightness ceilings, black levels, and power consumption across demanding creative tasks.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "source": "MKBHD",
-      "published": "2026-10-29T02:50:34+00:00"
-    },
-    {
       "headline": "Full Stack Creator Discusses New MacBook Pros",
       "summary": "The Full Stack Creator podcast features a detailed conversation about Apple's latest MacBook Pro models equipped with PROLED XDR displays. The discussion dives deep into the hardware upgrades and what these new screens mean for professional workflows.",
       "category": "Tech/AI",
@@ -84,13 +48,22 @@
       "published": "2026-11-07T21:14:09+00:00"
     },
     {
-      "headline": "CBS Sports Model Unveils High-Value 5-Leg Parlay for NFL Week 9",
-      "summary": "A proven statistical model from CBS Sports has put together a lucrative 5-leg parlay for Week 9 of the NFL season, offering potential payouts approaching 30-1. The breakdown evaluates key game matchups and spreads to identify the strongest value bets across the slate.",
+      "headline": "Computer Model Projects Week 9 NFL Winners",
+      "summary": "CBS Sports runs 10,000 computer simulations to generate Week 9 NFL predictions and betting odds. The analytical model specifically points toward backing the Chiefs and Commanders.",
       "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-parlay-picks-best-bets-game-predictions-for-week-9-2026/",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-game-predictions-best-bets-for-week-9-2026/",
       "source": "CBS Sports",
-      "published": "2026-11-07T20:04:10+00:00"
+      "published": "2026-11-08T00:45:42+00:00"
+    },
+    {
+      "headline": "Dave Richard's Week 9 Start and Sit Advice",
+      "summary": "CBS Sports fantasy expert Dave Richard breaks down critical start and sit decisions for Week 9. His targeted recommendations aim to help managers navigate difficult flex position choices.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-9-dave-richards-tough-startsit-calls-clear-up-your-toughest-flex-decisions/",
+      "source": "CBS Sports",
+      "published": "2026-11-07T21:41:59+00:00"
     },
     {
       "headline": "Microsoft Research Dissolves AI Frontiers Sub-Organization in Reorganization Move",
@@ -102,6 +75,15 @@
       "published": "2026-11-07T18:02:17+00:00"
     },
     {
+      "headline": "Apple's Predictive Text Grey List Blocks Over 100K Terms",
+      "summary": "Independent researcher Derik Kauffman discovered that Apple maintains a grey list preventing swipe-typing and autocomplete for over 100,000 words and phrases. The restricted terms range from drugs and profanity to politically sensitive phrases like 'Dictator Trump' and 'Trayvon Martin'.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "Hacker News",
+      "published": "2026-11-07T17:06:36+00:00"
+    },
+    {
       "headline": "Tech Landscape Faces Post-Election Uncertainty",
       "summary": "The recent Democratic Congressional majority has introduced significant regulatory uncertainty regarding the future of AI infrastructure. Analysts suggest that tech giants, particularly Google, face a challenging road ahead as they attempt to monetize AI amid shifting political and market conditions.",
       "category": "World",
@@ -111,15 +93,6 @@
       "published": "2026-11-06T18:14:42+00:00"
     },
     {
-      "headline": "Video Rebirth Shrinks 31B Audio-Visual Diffusion Model Down to 14B Parameters",
-      "summary": "Video Rebirth has released HyperFlow H3 Flash, a heavily compressed 13.7-parameter version of the MiniMax-H3 joint video and audio generation model that runs in just 4 to 8 steps. The optimized model supports INT8 and GGUF runtimes, enabling it to operate efficiently on consumer hardware like 24GB and 32GB GPUs.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "source": "Hacker News",
-      "published": "2026-11-07T15:16:01+00:00"
-    },
-    {
       "headline": "Internalizing Christ's Sermon Reshapes Daily Spiritual Habits",
       "summary": "A reflection for The Gospel Coalition examines how memorizing the Sermon on the Mount directly affects an individual's spiritual alignment and heart posture. Committing Jesus's teachings in Matthew 5–7 to memory provides believers with an enduring mental framework to navigate conflict and temptation.",
       "category": "Faith",
@@ -127,15 +100,6 @@
       "url": "https://www.thegospelcoalition.org/article/memorize-sermon-mount-heart/",
       "source": "The Gospel Coalition",
       "published": "2026-11-07T05:00:00+00:00"
-    },
-    {
-      "headline": "Adopting a Missionary Model for Inner-City Church Planting",
-      "summary": "This essay argues that inner-city church plants require a shift toward a missionary model to achieve long-term sustainability. It suggests that traditional methods often fall short in urban contexts, necessitating a more intentional, cross-cultural approach.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/inner-city-church-missionary/",
-      "source": "The Gospel Coalition",
-      "published": "2026-11-05T05:02:00+00:00"
     },
     {
       "headline": "Tech Stocks Rebound After Massive Sell-Off",
@@ -156,31 +120,13 @@
       "published": "2026-11-07T01:27:47+00:00"
     },
     {
-      "headline": "Dave Richard's Week 9 Start and Sit Advice",
-      "summary": "CBS Sports fantasy expert Dave Richard breaks down critical start and sit decisions for Week 9. His targeted recommendations aim to help managers navigate difficult flex position choices.",
-      "category": "Sports",
+      "headline": "Inside Donald Fagen's Post-Steely Dan Solo Debut",
+      "summary": "Pitchfork reviews Donald Fagen's 1982 solo album, The Nightfly, examining its thematic ties to Steely Dan's turbulent history. The record arrived after the grueling sessions for Gaucho and the temporary dissolution of his long-running partnership with Walter Becker.",
+      "category": "Music",
       "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-9-dave-richards-tough-startsit-calls-clear-up-your-toughest-flex-decisions/",
-      "source": "CBS Sports",
-      "published": "2026-11-07T21:41:59+00:00"
-    },
-    {
-      "headline": "Week 9 Fantasy Football Projections and Lineup Picks",
-      "summary": "A proven predictive model delivers comprehensive Week 9 fantasy football rankings, sleeper picks, and lineup advice. The insights provide a data-driven edge for managers setting their rosters this week.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineups-sleepers-streamers-start-sit-advice-week-9-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-07T21:37:15+00:00"
-    },
-    {
-      "headline": "Apple's Predictive Text Grey List Blocks Over 100K Terms",
-      "summary": "Independent researcher Derik Kauffman discovered that Apple maintains a grey list preventing swipe-typing and autocomplete for over 100,000 words and phrases. The restricted terms range from drugs and profanity to politically sensitive phrases like 'Dictator Trump' and 'Trayvon Martin'.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "source": "Hacker News",
-      "published": "2026-11-06T16:12:41.000Z"
+      "url": "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/",
+      "source": "Pitchfork",
+      "published": "2026-11-08T05:00:00+00:00"
     },
     {
       "headline": "Los Angeles Orbit Unveils 2026-27 LOVB Schedule Highlighted by Intuit Dome Opener",
@@ -192,6 +138,15 @@
       "published": "2026-11-07T17:43:22+00:00"
     },
     {
+      "headline": "Jonah Coleman Rises in Week 9 PPR Cheat Sheet",
+      "summary": "Jonah Coleman emerges as a borderline must-start option in the latest Week 9 PPR fantasy cheat sheet. The breakdown helps managers narrow down tight roster decisions across every position.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-9-ppr-cheat-sheet-jonah-coleman-vaults-into-borderline-must-start-territory/",
+      "source": "CBS Sports",
+      "published": "2026-11-07T21:49:35+00:00"
+    },
+    {
       "headline": "Reflections on Los Angeles, San Francisco, and Apple's Event Spaces",
       "summary": "John Gruber shares his contrasting thoughts on the immense geographic sprawl of Los Angeles and the walkable, weather-punished charm of San Francisco. He also reminisces about Apple's historic product unveilings in San Francisco compared to the polished perfection of the Steve Jobs Theater.",
       "category": "Tech/AI",
@@ -201,6 +156,15 @@
       "published": "2026-11-06T19:50:46+00:00"
     },
     {
+      "headline": "MaxxBench Puts Coding Agents to the Test",
+      "summary": "A new coding benchmark called MaxxBench evaluates frontier agents by introducing small requirement mutations into 89 DeepSWE tasks. The benchmark uncovers a peculiar habit where models talk themselves out of correct solutions when familiar constraints change.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "source": "Hacker News",
+      "published": "2026-11-07T17:19:00+00:00"
+    },
+    {
       "headline": "The Gospel Coalition Examines Inspiration Behind 'I Play Rocky'",
       "summary": "The Gospel Coalition website features ongoing commentary, essays, and theological discussions exploring faith, history, and cultural topics. The platform serves as a hub for contemporary religious writing and media resources.",
       "category": "Faith",
@@ -208,15 +172,6 @@
       "url": "https://www.thegospelcoalition.org/article/i-play-rocky-christian-movie-review/",
       "source": "The Gospel Coalition",
       "published": "2026-11-06T05:02:00+00:00"
-    },
-    {
-      "headline": "Why Behavioral Checklists Cannot Change the Heart",
-      "summary": "This article explores the spiritual limitation of focusing solely on outward actions or 'report cards' of behavior. It emphasizes that true transformation must occur at the heart level rather than through mere compliance with external rules.",
-      "category": "Faith",
-      "relevance": 7,
-      "url": "https://www.thegospelcoalition.org/article/report-cards-fix-heart/",
-      "source": "The Gospel Coalition",
-      "published": "2026-11-05T05:00:00+00:00"
     },
     {
       "headline": "US Offers $20 Million Reward for Intelligence on Iran's Nuclear Program",
@@ -255,49 +210,22 @@
       "published": "2026-11-07T12:23:28+00:00"
     },
     {
-      "headline": "US Midterm Results Trigger Alarm in Israel Over Alliance Future",
-      "summary": "The outcome of the US midterm elections has sparked deep concern among Israeli officials and political analysts regarding the future of bilateral relations. Criticism from both Democrats and Republicans over Israel's military actions and the joint war on Iran has exposed growing political toxicity surrounding Prime Minister Benjamin Netanyahu's leadership.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-06T13:23:44+00:00"
-    },
-    {
       "headline": "Exploring the History of Economic Populism in Texas",
       "summary": "Political commentator David Griscom discusses his book 'The Myth of Red Texas' with NPR, shedding light on the state's often-forgotten history of economic populism. The conversation explores political movements in Texas that challenge the traditional single-party narrative.",
       "category": "World",
       "relevance": 7,
       "url": "https://www.npr.org/2026/11/07/nx-s1-6030759/the-surprising-and-often-forgotten-history-of-texas-tradition-of-economic-populism",
       "source": "NPR News",
-      "published": "2026-11-07T17:12:07-05:00"
+      "published": "2026-11-07T22:12:07+00:00"
     },
     {
-      "headline": "MaxxBench Puts Coding Agents to the Test",
-      "summary": "A new coding benchmark called MaxxBench evaluates frontier agents by introducing small requirement mutations into 89 DeepSWE tasks. The benchmark uncovers a peculiar habit where models talk themselves out of correct solutions when familiar constraints change.",
-      "category": "Tech/AI",
+      "headline": "Bengals Head to Madrid Seeking First International Win",
+      "summary": "The Cincinnati Bengals travel to Madrid to face the Atlanta Falcons in an upcoming NFL international series matchup. Cincinnati will be hunting for its first-ever victory outside of the United States.",
+      "category": "NFL",
       "relevance": 7,
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "source": "Hacker News",
-      "published": "2026-11-07T17:19:00+00:00"
-    },
-    {
-      "headline": "Jonah Coleman Rises in Week 9 PPR Cheat Sheet",
-      "summary": "Jonah Coleman emerges as a borderline must-start option in the latest Week 9 PPR fantasy cheat sheet. The breakdown helps managers narrow down tight roster decisions across every position.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-9-ppr-cheat-sheet-jonah-coleman-vaults-into-borderline-must-start-territory/",
+      "url": "https://www.cbssports.com/nfl/news/falcons-vs-bengals-prediction-odds-where-to-watch/",
       "source": "CBS Sports",
-      "published": "2026-11-07T21:49:35+00:00"
-    },
-    {
-      "headline": "Discord's New Rust Client Outperforms Electron",
-      "summary": "A preview of Discord's upcoming Rust-based Windows client shows dramatic performance improvements over the current Electron app, featuring instant boot times and 70% lower RAM usage. CTO Stanislav Vishnevskiy shared a side-by-side clip demonstrating that the new app loaded its interface while the Electron version was still stuck on the loading screen.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "source": "Hacker News",
-      "published": "2026-11-06T15:00:44+00:00"
+      "published": "2026-11-08T00:01:11+00:00"
     },
     {
       "headline": "Revisiting Dylan's Rolling Thunder Revue",
@@ -307,15 +235,6 @@
       "url": "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/",
       "source": "Pitchfork",
       "published": "2026-11-07T05:00:00+00:00"
-    },
-    {
-      "headline": "The Verge's Nilay Patel Criticizes AI Industry Costs",
-      "summary": "In a recent podcast appearance, Nilay Patel argued that the current AI industry is failing to produce products that justify their massive financial and environmental costs. He characterized the sector as being driven by 'slop' and corporate corruption rather than genuine utility for the average user.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
-      "source": "Simon Willison",
-      "published": "2026-11-06T17:13:12+00:00"
     },
     {
       "headline": "Building a Ten-Dollar Homelab",
@@ -336,6 +255,24 @@
       "published": "2026-11-07T16:21:36+00:00"
     },
     {
+      "headline": "Six Killed in Gun Attack in Central Krakow",
+      "summary": "A gunman opened fire in Krakow's Main Market Square, killing six people and injuring sixteen others before being shot and arrested by police. Three additional bodies were later discovered during a search of the far-right suspect's home.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-08T01:47:41+00:00"
+    },
+    {
+      "headline": "Israel Tasks Opposition Leader Eisenkot with Forming Government",
+      "summary": "Israeli President Isaac Herzog has asked opposition leader Gadi Eisenkot to form a new coalition government following an inconclusive election. Eisenkot faces a 28-day window to build a government after neither major bloc secured an outright majority in the Knesset.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-07T22:19:59+00:00"
+    },
+    {
       "headline": "New Zealand Election Ends in Deadlock",
       "summary": "New Zealand's general election concluded without a clear majority as Prime Minister Christopher Luxon's National Party secured 42 seats, falling 19 short of a straightforward victory. Both major parties now face high-stakes coalition negotiations alongside opposition leader Chris Hipkins, whose Labour Party claimed 36 seats.",
       "category": "World",
@@ -351,7 +288,16 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-07T17:09:24+00:00"
+      "published": "2026-11-08T04:03:12+00:00"
+    },
+    {
+      "headline": "Barnier Warns UK Against Cherry-Picking EU Single Market Access",
+      "summary": "Former EU Brexit negotiator Michel Barnier has stated that the UK cannot selectively choose elements of the single market to rejoin without accepting all conditions. Responding to Prime Minister Andy Burnham's push for closer economic ties, Barnier emphasized that access requires committing to the \"four freedoms,\" including the free movement of people. European officials maintain that while the door to rejoining remains open, the terms must apply equally to all participants.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-07T15:19:35+00:00"
     },
     {
       "headline": "Houston Mayor Orders Police to Limit ICE Cooperation",
@@ -363,13 +309,13 @@
       "published": "2026-11-07T08:15:55+00:00"
     },
     {
-      "headline": "Tesla Winds Down Cybertruck Production in Texas to Focus on Cybercab",
-      "summary": "Tesla CEO Elon Musk announced that Cybertruck manufacturing at the Austin, Texas facility is winding down as the company pivots resources toward its autonomous Cybercab vehicles. The electric pickup truck struggled with polarized public reception, disappointing sales figures, and multiple safety recalls since its 2023 launch. Musk did not confirm whether production would shift to another location or permanently end.",
-      "category": "Tech/AI",
+      "headline": "Israeli President Taps Opposition Challenger Gadi Eisenkot to Form Government",
+      "summary": "Israeli President Isaac Herzog has selected opposition leader Gadi Eisenkot to form the next government after Prime Minister Benjamin Netanyahu failed to secure a parliamentary majority. Netanyahu's Likud party won 27 seats in the general election, six more than Eisenkot's Yashar party, but neither secured the numbers needed to rule alone. Eisenkot, a former military chief of staff who briefly joined Netanyahu's wartime cabinet, will officially receive the mandate on Sunday.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-06T15:02:03+00:00"
+      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "source": "NPR News",
+      "published": "2026-11-07T20:18:18+00:00"
     },
     {
       "headline": "Ousted Paraguayan Leader Faces Prosecutors",
@@ -381,49 +327,49 @@
       "published": "2026-11-07T17:14:36+00:00"
     },
     {
-      "headline": "Democrats Claim Victory on Cost-of-Living Concerns, Face Divided Government Hurdles",
-      "summary": "Congressional Democrats secured midterm victories fueled by voter frustration over economic affordability and the high cost of living. However, coming into power in January, they will encounter legislative roadblocks from a divided government, including a Republican-controlled Congress and a presidential veto.",
-      "category": "World",
+      "headline": "The Gospel Coalition Spotlights New Children's Books",
+      "summary": "The Gospel Coalition's latest editor's pick highlights a fresh selection of children's picture books. The curated titles center around Christian themes and foundational faith concepts for young readers.",
+      "category": "Faith",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-      "source": "NPR News",
-      "published": "2026-11-06T21:53:10+00:00"
+      "url": "https://www.thegospelcoalition.org/reviews/picture-books-fall-2026/",
+      "source": "The Gospel Coalition",
+      "published": "2026-11-07T05:02:00+00:00"
     },
     {
-      "headline": "Six Killed in Gun Attack in Central Krakow",
-      "summary": "A gunman opened fire in Krakow's Main Market Square, killing six people and injuring sixteen others before being shot and arrested by police. Three additional bodies were later discovered during a search of the far-right suspect's home.",
-      "category": "World",
+      "headline": "Delap Brace Lifts Forest Past Manchester City",
+      "summary": "Liam Delap scored a brilliant double to lead Nottingham Forest to a stunning 3-1 victory over Manchester City. The win marks Forest's first Premier League home victory at the City Ground this season.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-07T17:48:29.701Z"
+      "url": "https://www.bbc.co.uk/sport/football/videos/crp3gewxj77eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-07T20:02:25+00:00"
     },
     {
-      "headline": "Israel Tasks Opposition Leader Eisenkot with Forming Government",
-      "summary": "Israeli President Isaac Herzog has asked opposition leader Gadi Eisenkot to form a new coalition government following an inconclusive election. Eisenkot faces a 28-day window to build a government after neither major bloc secured an outright majority in the Knesset.",
-      "category": "World",
+      "headline": "Odegaard Penalty Extends Arsenal's League Lead",
+      "summary": "Captain Martin Odegaard secured a narrow 1-0 victory for Arsenal against Hull City. The crucial three points allow the Gunners to further pad their lead at the top of the Premier League table.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-07T21:51:12.951Z"
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx230ke2gzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-07T19:59:31+00:00"
     },
     {
-      "headline": "Israeli President Taps Opposition Challenger Gadi Eisenkot to Form Government",
-      "summary": "Israeli President Isaac Herzog has selected opposition leader Gadi Eisenkot to form the next government after Prime Minister Benjamin Netanyahu failed to secure a parliamentary majority. Netanyahu's Likud party won 27 seats in the general election, six more than Eisenkot's Yashar party, but neither secured the numbers needed to rule alone. Eisenkot, a former military chief of staff who briefly joined Netanyahu's wartime cabinet, will officially receive the mandate on Sunday.",
-      "category": "World",
+      "headline": "Week 10 College Football Shakes Up Bowl Projections",
+      "summary": "CBS Sports maps out updated bowl projections covering all 47 postseason games following a pivotal Week 10 slate. The latest reshuffling heavily impacts the projected College Football Playoff bracket.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-      "source": "NPR News",
-      "published": "2026-11-07T15:18:18-05:00"
+      "url": "https://www.cbssports.com/college-football/news/college-football-bowl-projections-week-10-cfp-bracket-2026/",
+      "source": "CBS Sports",
+      "published": "2026-11-08T04:20:26+00:00"
     },
     {
-      "headline": "Barnier Warns UK Against Cherry-Picking EU Single Market Access",
-      "summary": "Former EU Brexit negotiator Michel Barnier has stated that the UK cannot selectively choose elements of the single market to rejoin without accepting all conditions. Responding to Prime Minister Andy Burnham's push for closer economic ties, Barnier emphasized that access requires committing to the \"four freedoms,\" including the free movement of people. European officials maintain that while the door to rejoining remains open, the terms must apply equally to all participants.",
-      "category": "World",
+      "headline": "Leeds Ends Winless Skid With Upset Over Spurs",
+      "summary": "Noah Okafor scored the game's lone goal as Leeds United edged Tottenham Hotspur 1-0 in Premier League action. The hard-fought victory snaps a five-game winless drought that dates back to mid-September.",
+      "category": "Sports",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-07T13:02:21.857Z"
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz7x4jlypq3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-07T19:59:34+00:00"
     },
     {
       "headline": "NFL Fines Jaquan Brisker and Two Others for Illegal Week 8 Hits",
@@ -435,6 +381,60 @@
       "published": "2026-11-07T22:01:31+00:00"
     },
     {
+      "headline": "Georgia Retakes No. 1 Spot in Latest Top 25",
+      "summary": "Georgia has reclaimed the top spot in the college football rankings following the latest slate of games. Meanwhile, a strong performance pushes Tennessee into the elite top ten of the AP poll.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/college-football/news/college-football-rankings-tomorrows-top-25-ap-poll-week-11/",
+      "source": "CBS Sports",
+      "published": "2026-11-08T04:56:37+00:00"
+    },
+    {
+      "headline": "U.S. Homelessness Registers Largest Drop in a Decade",
+      "summary": "The U.S. homeless population dropped by over 6% last year, marking the largest single-year decline in more than a decade. While housing and urban development officials credit border and safety policies for the drop, advocacy groups point to alternative driving factors.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year",
+      "source": "NPR News",
+      "published": "2026-11-07T19:19:52-05:00"
+    },
+    {
+      "headline": "Former Champ Argues Jeremiah Smith Should Bench Himself",
+      "summary": "A former national champion suggests that Ohio State star Jeremiah Smith should sit out the remainder of the season. The analyst argues that a player of his caliber has nothing left to gain and too much to lose by continuing to play.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/college-football/news/jeremiah-smith-should-skip-rest-of-ohio-states-season-former-national-champion-says-nothing-to-gain/",
+      "source": "CBS Sports",
+      "published": "2026-11-08T04:24:02+00:00"
+    },
+    {
+      "headline": "New Tool Packs Gemma 4 26B Onto 6GB GPUs",
+      "summary": "Developer Aman Sachan has released MAPLE, a pruning technique that compresses Mixture-of-Experts LLMs to under 2 bits per parameter. The method shrinks the Gemma 4 26B model down to 4.75 GB, allowing it to run entirely in VRAM on consumer laptops at 45 tokens per second.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://github.com/AmSach/maple",
+      "source": "Hacker News",
+      "published": "2026-11-08T03:48:04+00:00"
+    },
+    {
+      "headline": "Italian Foreign Minister's Data Leaked by Hackers",
+      "summary": "Italian Foreign Minister Antonio Tajani announced that cybercriminals leaked his personal information on the dark web alongside data targeting his family. Prime Minister Giorgia Meloni blamed pro-Russian hackers, linking the breach to Italy's ongoing political and military support for Ukraine.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-07T16:50:06.017Z"
+    },
+    {
+      "headline": "Kyle Whittingham's Michigan Buyout Details Under Scrutiny",
+      "summary": "Following a damaging loss to Michigan State, questions are swirling regarding the financial cost of firing first-year football coach Kyle Whittingham. CBS Sports details the contract terms and buyout figures associated with the struggling program's leadership.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/college-football/news/kyle-whittingham-buyout-cost-michigan-fire/",
+      "source": "CBS Sports",
+      "published": "2026-11-08T04:16:05+00:00"
+    },
+    {
       "headline": "CBS Sports Releases Week 9 NFL Score Predictions and Best Bets",
       "summary": "Analysts have dropped their comprehensive game-by-game predictions and betting lines for the Week 9 NFL slate. The expert preview offers exact projected scores and top value picks for bettors heading into the weekend matchups. Fans and gamblers can use the breakdown to gauge spreads and potential upsets.",
       "category": "NFL",
@@ -444,13 +444,13 @@
       "published": "2026-11-07T22:20:38+00:00"
     },
     {
-      "headline": "Shadow of the Sun (2021)",
-      "summary": "",
+      "headline": "Dana White Headed to Washington for White House Meeting",
+      "summary": "UFC CEO Dana White is scheduled for a Monday meeting with the President, sparking widespread speculation about a potential transition to White House press secretary. The high-profile meetup bridges the worlds of combat sports politics and the administration.",
       "category": "Other",
       "relevance": 2,
-      "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-      "source": "Hacker News",
-      "published": "2021-07-27T17:01:30+00:00"
+      "url": "https://www.cbssports.com/ufc/news/dana-white-white-house-press-secretary-ufc-president-donald-trump/",
+      "source": "CBS Sports",
+      "published": "2026-11-08T00:18:49+00:00"
     }
   ]
 }
