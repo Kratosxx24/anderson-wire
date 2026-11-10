@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T19:15:58.578607+00:00",
-  "story_count": 47,
+  "generated_at": "2026-11-10T02:18:24.673005+00:00",
+  "story_count": 46,
   "stories": [
     {
       "headline": "Thunder Add Wing Depth in Nique Clifford Trade",
@@ -10,42 +10,6 @@
       "url": "https://www.thirdapron.com/p/nique-clifford-trade-luka-raising",
       "source": "Third Apron",
       "published": "2026-11-09T04:54:46+00:00"
-    },
-    {
-      "headline": "Advanced Metrics Fuel Debate Over Jaylen Brown's True Value",
-      "summary": "Following his trade to the Philadelphia 76ers, Boston Celtics star Jaylen Brown has become the center of a major league debate. Despite stellar traditional stats like a career-high 28.7 points per game and a sixth-place MVP finish in 2026, advanced analytics paint a more skeptical picture of his overall impact. This clash between raw production and data-driven evaluation has front offices and fans deeply divided.",
-      "category": "NBA",
-      "relevance": 9,
-      "url": "https://gamedaytimes.com/jaylen-brown-trade-why-advanced-stats-sparked-a-major-debate/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-11-08T13:33:22-05:00"
-    },
-    {
-      "headline": "The Gospel Coalition Publishes Guidance on Contending Without Contentiousness",
-      "summary": "The Gospel Coalition highlights theological essays and commentary focused on maintaining faith and conviction without resorting to hostility. The resource page directs readers to articles addressing Christian conduct, doctrine, and respectful discourse.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/contend-not-contentious/",
-      "source": "The Gospel Coalition",
-      "published": "2026-11-08T05:00:00+00:00"
-    },
-    {
-      "headline": "Internalizing Christ's Sermon Reshapes Daily Spiritual Habits",
-      "summary": "A reflection for The Gospel Coalition examines how memorizing the Sermon on the Mount directly affects an individual's spiritual alignment and heart posture. Committing Jesus's teachings in Matthew 5–7 to memory provides believers with an enduring mental framework to navigate conflict and temptation.",
-      "category": "Faith",
-      "relevance": 8,
-      "url": "https://www.thegospelcoalition.org/article/memorize-sermon-mount-heart/",
-      "source": "The Gospel Coalition",
-      "published": "2026-11-07T05:00:00+00:00"
-    },
-    {
-      "headline": "Custom C Extension Outpaces Rust in SQLite Numeric Parsing Benchmark",
-      "summary": "Simon Willison tested C and Rust implementations of a custom SQLite parse_number() function designed to strip currency formatting and convert complex strings into decimals. While Rust initially beat standard C due to a faster strtod alternative, an optimized C routine incorporating a compact fast path ultimately clocked the best performance at 16 to 19 nanoseconds per row. The fine-tuned C binary occupied just 14 KB while running twice as fast as the 300 KB Rust extensions across 8 million fuzz checks.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
-      "source": "Simon Willison",
-      "published": "2026-11-08T22:26:00+00:00"
     },
     {
       "headline": "Warriors Withhold Salary as Kristaps Porzingis Situation Escalates",
@@ -75,49 +39,31 @@
       "published": "2026-11-09T11:02:49+00:00"
     },
     {
-      "headline": "Jets Shut Down Trade Inquiries for Running Back Breece Hall",
-      "summary": "The New York Jets have firmly rejected external trade interest in running back Breece Hall ahead of their matchup against the Kansas City Chiefs. Head coach Aaron Glenn confirmed that Hall remains a cornerstone of the roster's long-term plans, backed by a lucrative three-year, $43.5 million contract extension signed in May. Despite increased production from Braelon Allen during Hall's absence, New York intends to build its ground game around both players.",
-      "category": "NFL",
+      "headline": "The Gospel Coalition Publishes Guidance on Contending Without Contentiousness",
+      "summary": "The Gospel Coalition highlights theological essays and commentary focused on maintaining faith and conviction without resorting to hostility. The resource page directs readers to articles addressing Christian conduct, doctrine, and respectful discourse.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://www.thebiglead.com/jets-stance-clear-breece-hall-trade-chiefs-game/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-11-08T18:23:51+00:00"
+      "url": "https://www.thegospelcoalition.org/article/contend-not-contentious/",
+      "source": "The Gospel Coalition",
+      "published": "2026-11-08T05:00:00+00:00"
     },
     {
-      "headline": "Analyst Proposes Falcons Star Jessie Bates as Next Target for Bengals",
-      "summary": "Following a decisive victory over the Atlanta Falcons, the Cincinnati Bengals are being urged to pursue a trade for safety Jessie Bates. The brief advisory highlights an opportunistic chance for the Bengals to bolster their roster using assets from Atlanta.",
-      "category": "NFL",
+      "headline": "Internalizing Christ's Sermon Reshapes Daily Spiritual Habits",
+      "summary": "A reflection for The Gospel Coalition examines how memorizing the Sermon on the Mount directly affects an individual's spiritual alignment and heart posture. Committing Jesus's teachings in Matthew 5–7 to memory provides believers with an enduring mental framework to navigate conflict and temptation.",
+      "category": "Faith",
       "relevance": 8,
-      "url": "https://bengalswire.usatoday.com/story/sports/nfl/bengals/2026/11/08/bengals-next-move-beating-falcons-jessie-bates-trade/92679025007/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-11-08T18:21:22Z"
+      "url": "https://www.thegospelcoalition.org/article/memorize-sermon-mount-heart/",
+      "source": "The Gospel Coalition",
+      "published": "2026-11-07T05:00:00+00:00"
     },
     {
-      "headline": "Giants Stall Pursuit of Colts Running Back Jonathan Taylor",
-      "summary": "The New York Giants have temporarily pulled their trade offer for Indianapolis Colts running back Jonathan Taylor after failing to agree on compensation. New York previously offered second and fifth-round draft picks to solve their backfield struggles, but refuses to meet the current asking price. Taylor, who carries a career-low 4.1 yards per carry this season, remains a trade target for several other playoff-hunting franchises.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://nypost.com/2026/11/08/sports/giants-pull-jonathan-taylor-offer-in-latest-nfl-trade-deadline-twist/",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-11-08T18:20:01+00:00"
-    },
-    {
-      "headline": "Browser-Based Tool Generates Custom Claude Code Status Lines",
-      "summary": "Developers can now use a local browser utility to design custom status lines and permissions for Claude Code. The tool outputs a local Python script and a settings JSON block based on standard input variables like workspace directory, repository name, and session cost. All configuration generation runs entirely client-side without requiring network connections or external accounts.",
+      "headline": "Custom C Extension Outpaces Rust in SQLite Numeric Parsing Benchmark",
+      "summary": "Simon Willison tested C and Rust implementations of a custom SQLite parse_number() function designed to strip currency formatting and convert complex strings into decimals. While Rust initially beat standard C due to a faster strtod alternative, an optimized C routine incorporating a compact fast path ultimately clocked the best performance at 16 to 19 nanoseconds per row. The fine-tuned C binary occupied just 14 KB while running twice as fast as the 300 KB Rust extensions across 8 million fuzz checks.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://orbtile.com/tools/claude-code-statusline-builder",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-11-08T17:47:39Z"
-    },
-    {
-      "headline": "South Korean City Adopts U.S. College Curriculum to Navigate AI Era",
-      "summary": "The public Toegye elementary school in Chuncheon, South Korea, has integrated St. John's College's discussion-based \"Great Books\" model into its classrooms. Educators hope that close textual analysis of works like Mary Shelley's Frankenstein will foster critical thinking and civic resilience against the backdrop of rising artificial intelligence. Students engage in Socratic seminars to debate complex human questions and the boundaries of modern technology.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
-      "source": "NPR News",
-      "published": "2026-11-09T05:47:00-05:00"
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "source": "Simon Willison",
+      "published": "2026-11-08T22:26:00+00:00"
     },
     {
       "headline": "Muse Ember Debuts as High-Efficiency Model for Agentic Workflows",
@@ -126,16 +72,34 @@
       "relevance": 8,
       "url": "https://research.meta.ai/blog/muse-ember",
       "source": "Hacker News",
-      "published": "2026-11-09T00:00:00.000Z"
+      "published": "2026-11-09T17:58:46+00:00"
     },
     {
-      "headline": "Anthropic Locks In $3.4 Billion Power Deal for AI Infrastructure",
-      "summary": "Anthropic has agreed to a massive $3.4 billion generator agreement to power its expanding artificial intelligence data centers. The financial Times reports that the deal aims to secure the heavy energy supplies required to support upcoming compute demands. This infrastructure push underscores the massive power scaling challenges facing top AI labs.",
+      "headline": "South Korean City Adopts U.S. College Curriculum to Navigate AI Era",
+      "summary": "The public Toegye elementary school in Chuncheon, South Korea, has integrated St. John's College's discussion-based \"Great Books\" model into its classrooms. Educators hope that close textual analysis of works like Mary Shelley's Frankenstein will foster critical thinking and civic resilience against the backdrop of rising artificial intelligence. Students engage in Socratic seminars to debate complex human questions and the boundaries of modern technology.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.cnbc.com/2026/11/08/anthropic-generator-deal-ai-data-centers.html",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-11-08T13:50:05Z"
+      "url": "https://www.npr.org/2026/11/09/g-s1-151519/why-a-south-korean-city-is-turning-to-a-u-s-college-to-outsmart-ai",
+      "source": "NPR News",
+      "published": "2026-11-09T10:47:00+00:00"
+    },
+    {
+      "headline": "Tom Haberstroh Deep Dives into Miami's Defensive Woes",
+      "summary": "The early season struggles of the Miami Heat defense have emerged as one of the NBA's biggest surprises. Analyst Tom Haberstroh examines these glaring early defensive lapses alongside updated title contenders tiers. The breakdown pairs objective data from Dunks & Threes with film study to evaluate the current landscape.",
+      "category": "NBA",
+      "relevance": 7,
+      "url": "https://www.tomthefinder.com/p/why-cant-the-giannis-heat-defend",
+      "source": "The Finder",
+      "published": "2026-11-09T18:13:38+00:00"
+    },
+    {
+      "headline": "Dream Unending Shifts Toward Ambient Psychedelia on 'Certain Uncertainties'",
+      "summary": "On their third album, the dream-doom duo Dream Unending leans further into gentle psychedelia, mixing cowboy jazz and spiritual elements with their traditional metal roots. While restrained tracks like the title piece and \"I Carry Your Burden\" deliver sublime results, heavier songs occasionally struggle to seamlessly blend the divergent styles. Ultimately, the record captures a patient, adventurous approach to genre-blending.",
+      "category": "Music",
+      "relevance": 7,
+      "url": "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/",
+      "source": "Pitchfork",
+      "published": "2026-11-09T05:00:00+00:00"
     },
     {
       "headline": "NBA Intelligence: Celtics Dominate, Bulls Struggle",
@@ -153,79 +117,34 @@
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-09T15:46:20+00:00"
+      "published": "2026-11-09T23:51:22+00:00"
     },
     {
-      "headline": "Goldman Sachs Restricts AI Coding Tools",
-      "summary": "Goldman Sachs updated its internal guidance to strip non-technical staff like bankers and traders of access to AI coding agents like Anthropic's Claude Code and GitHub. The bank is reserving the tools exclusively for its 12,000 engineers following productivity reviews and risk assessments.",
+      "headline": "Nvidia CEO Jensen Huang Faces Scrutiny After Affair Admission",
+      "summary": "Nvidia CEO Jensen Huang has admitted to having an affair with a Chinese spy. Industry analysts note that while he may weather the personal fallout, his long-term influence and standing will likely take a permanent hit.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-11-08T18:16:07Z"
+      "url": "https://stratechery.com/2026/jensen-huangs-affair-the-culper-report-huangs-righteousness/",
+      "source": "Stratechery",
+      "published": "2026-11-09T11:00:00+00:00"
     },
     {
-      "headline": "Dream Unending Shifts Toward Ambient Psychedelia on 'Certain Uncertainties'",
-      "summary": "On their third album, the dream-doom duo Dream Unending leans further into gentle psychedelia, mixing cowboy jazz and spiritual elements with their traditional metal roots. While restrained tracks like the title piece and \"I Carry Your Burden\" deliver sublime results, heavier songs occasionally struggle to seamlessly blend the divergent styles. Ultimately, the record captures a patient, adventurous approach to genre-blending.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/",
-      "source": "Pitchfork",
-      "published": "2026-11-09T05:00:00+00:00"
+      "headline": "Nine Zimbabweans Arrested in South Africa for Alleged Mercenary Activity",
+      "summary": "South African authorities arrested nine Zimbabwean nationals aged 20 to 26 near Johannesburg for allegedly attempting to leave the country to join the Russia-Ukraine war. Police caught the suspects preparing to board flights, violating South Africa's Regulation of Foreign Military Assistance Act. Interpol and other international agencies assisted in the operation, highlighting broader concerns over illegal foreign recruitment.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-09T17:06:18+00:00"
     },
     {
-      "headline": "Tom Haberstroh Deep Dives into Miami's Defensive Woes",
-      "summary": "The early season struggles of the Miami Heat defense have emerged as one of the NBA's biggest surprises. Analyst Tom Haberstroh examines these glaring early defensive lapses alongside updated title contenders tiers. The breakdown pairs objective data from Dunks & Threes with film study to evaluate the current landscape.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.tomthefinder.com/p/why-cant-the-giannis-heat-defend",
-      "source": "The Finder",
-      "published": "2026-11-09T18:13:38+00:00"
-    },
-    {
-      "headline": "Vikings-Bills Monday Night Football DFS Strategy Guide",
-      "summary": "Fantasy analysts break down the top DraftKings and FanDuel options for the upcoming Monday Night Football matchup between the Vikings and Bills. The guide offers optimal lineup builds and value plays for daily fantasy players. Key player projections highlight crucial roster decisions for tonight's slate.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-vikings-bills-daily-fantasy-picks-draftkings-fanduel-lineups-monday-night-football/",
-      "source": "CBS Sports",
-      "published": "2026-11-09T18:38:55+00:00"
-    },
-    {
-      "headline": "Thunder Trade for Kings Guard Nique Clifford",
-      "summary": "The OKC Thunder are trading two second-round draft picks to the Sacramento Kings in exchange for second-year guard Nique Clifford. The move comes as Oklahoma City looks to reinforce its depleted backcourt following multiple injuries.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.oklahoman.com/story/sports/nba/thunder/2026/11/08/nique-clifford-trade-okc-thunder-sacramento-kings/92678944007/",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-11-08T18:23:19Z"
-    },
-    {
-      "headline": "Fantasy Basketball Week 4: Jeremiah Fears Rises as Rudy Gobert Struggles",
-      "summary": "Jeremiah Fears is generating early fantasy momentum as managers head into Week 4 of the NBA season. Meanwhile, Rudy Gobert's sluggish start is sparking concerns among fantasy basketball managers. The latest start-and-sit report identifies key risers and fallers to target on the waiver wire.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-week-4-startsit-jeremiah-fears-heats-up/",
-      "source": "CBS Sports",
-      "published": "2026-11-09T18:38:37+00:00"
-    },
-    {
-      "headline": "Thunder Acquire Nique Clifford from Kings to Ease Injury Crunch",
-      "summary": "The Oklahoma City Thunder have traded two second-round picks to acquire guard Nique Clifford from the Sacramento Kings. OKC is moving quickly to shore up its rotation after suffering long-term injuries to key players like Jalen Williams, Cason Wallace, and Chet Holmgren. Clifford originally spent draft night with the Thunder in 2025 before being traded to Sacramento.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://sports.yahoo.com/nba/breaking-news/article/thunder-reportedly-trade-for-kings-nique-clifford-in-wake-of-injuries-185731868.html",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-11-08T18:15:38Z"
-    },
-    {
-      "headline": "Thunder Trade for Kings' Nique Clifford Amid Injury Wave",
-      "summary": "The Oklahoma City Thunder have acquired 24-year-old guard Nique Clifford from the Sacramento Kings in exchange for a pair of second-round draft picks. The roster move addresses an urgent depth need following severe injuries to core players including Chet Holmgren, Jalen Williams, and Cason Wallace. Clifford previously spent time with OKC after being selected 24th overall in the 2025 draft.",
-      "category": "NBA",
-      "relevance": 7,
-      "url": "https://sports.yahoo.com/nba/breaking-news/article/thunder-reportedly-trade-for-kings-g-nique-clifford-in-wake-of-injuries-183202831.html",
-      "source": "NewsAPI:NBA trade",
-      "published": "2026-11-08T18:15:38Z"
+      "headline": "Infineon Achieves Breakthrough With 300mm Silicon Carbide Power Wafer",
+      "summary": "Infineon Technologies has reached a major manufacturing milestone by producing the world's first 300mm power silicon carbide wafer. The advanced semiconductor development is poised to boost efficiency in power conversion and automotive systems. The breakthrough expands the company's robust catalog of specialized power management and microelectronic solutions.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "source": "Hacker News",
+      "published": "2026-11-09T18:25:01+00:00"
     },
     {
       "headline": "The Gospel Coalition Spotlights New Children's Books",
@@ -243,52 +162,61 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-09T15:37:43.851Z"
+      "published": "2026-11-09T17:47:29+00:00"
     },
     {
-      "headline": "Infineon Achieves Breakthrough With 300mm Silicon Carbide Power Wafer",
-      "summary": "Infineon Technologies has reached a major manufacturing milestone by producing the world's first 300mm power silicon carbide wafer. The advanced semiconductor development is poised to boost efficiency in power conversion and automotive systems. The breakthrough expands the company's robust catalog of specialized power management and microelectronic solutions.",
+      "headline": "Bloomberg Spotlighted Singapore AI Firm Megaspeed Last Year",
+      "summary": "Last December, Bloomberg reporters Mackenzie Hawkins, Andy Lin, and Kari Soo Lindberg investigated Megaspeed International. The piece highlighted how the obscure Singapore AI firm quickly drew intense industry attention within three years of operating.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "source": "Hacker News",
-      "published": "2026-11-09T18:25:01+00:00"
+      "url": "https://www.bloomberg.com/news/features/2025-12-22/nvidia-partner-megaspeed-draws-china-chip-smuggling-concerns-in-us",
+      "source": "Daring Fireball",
+      "published": "2026-11-09T23:46:17+00:00"
     },
     {
-      "headline": "scotlis-mcp Published to PyPI",
-      "summary": "The scotlis-mcp package has officially been added to the Python Package Index. The tool expands accessibility for developers utilizing the ecosystem. Further details remain limited due to browser access restrictions on the source page.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://pypi.org/project/scotlis-mcp/",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-11-08T14:22:59Z"
-    },
-    {
-      "headline": "Write GitHub Actions in Any Language With Loopt",
-      "summary": "Loopt is a new tool enabling developers to write GitHub Actions workflows in languages like TypeScript, Python, Go, and Rust. It automatically generates standard workflow YAML files from source directories using prebuilt binaries. The system provides a streamlined alternative that supports custom language plugins and local project setups.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://github.com/preloopdev/loopt",
-      "source": "Hacker News",
-      "published": "2026-11-09T17:59:05+00:00"
-    },
-    {
-      "headline": "Nine Zimbabweans Arrested in South Africa for Alleged Mercenary Activity",
-      "summary": "South African authorities arrested nine Zimbabwean nationals aged 20 to 26 near Johannesburg for allegedly attempting to leave the country to join the Russia-Ukraine war. Police caught the suspects preparing to board flights, violating South Africa's Regulation of Foreign Military Assistance Act. Interpol and other international agencies assisted in the operation, highlighting broader concerns over illegal foreign recruitment.",
+      "headline": "Novaya Gazeta Shuts Down Following Office Eviction",
+      "summary": "Russia's premier independent newspaper, Novaya Gazeta, has officially closed its doors after being evicted from its offices amid escalating state pressure. Co-founder and Nobel Peace Prize winner Dmitry Muratov spoke with the BBC following the final editorial meeting, marking the end of 30 years of investigative journalism into corruption.",
       "category": "World",
       "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-09T12:33:24.549Z"
+      "published": "2026-11-09T18:08:07+00:00"
     },
     {
-      "headline": "Philip Rivers Nears Deal to Become NC State Head Coach",
-      "summary": "Former NFL quarterback Philip Rivers is finalizing an agreement to return to NC State as the Wolfpack's new head coach. The high-profile move brings the legendary program alumnus back to college football leadership. Details of the upcoming appointment surfaced amidst a busy weekend of sports news.",
-      "category": "NFL",
+      "headline": "CUI Introduces Native UI Components for C",
+      "summary": "A new project called CUI has emerged on Hacker News, offering native user interface components specifically designed for the C programming language. The release provides developers working in lower-level environments with specialized tools for building graphical interfaces.",
+      "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.foxnews.com/outkick-sports/philip-rivers-finalizing-agreement-return-nc-state-wolfpack-head-coach-remarkable-move",
-      "source": "NewsAPI:NFL contract",
-      "published": "2026-11-08T13:02:49-05:00"
+      "url": "https://yappologistic.github.io/CUI/",
+      "source": "Hacker News",
+      "published": "2026-11-09T19:35:16+00:00"
+    },
+    {
+      "headline": "Ben White Stands by Past England Absence",
+      "summary": "Arsenal defender Ben White maintains he has no regrets regarding his self-imposed exile from the England national team following the 2022 World Cup. Now included in Thomas Tuchel's squad for upcoming fixtures, White acknowledges that the full story remains private out of respect for all involved. He previously made his return in March during a match against Uruguay.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-09T19:00:10+00:00"
+    },
+    {
+      "headline": "Premier League VAR Faces Intense Scrutiny After Chaotic Weekend",
+      "summary": "Following a stretch of matches with unusually high referee controversy, the Premier League faces renewed questions over video assistant referee consistency. The Key Match Incidents Panel previously reported only two errors across the first eight rounds, but the latest weekend featured multiple high-profile disputed calls. Analysts are closely evaluating whether recent decisions will add to the official error tally.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-09T14:34:19+00:00"
+    },
+    {
+      "headline": "Aberdeen Dismisses Manager Stephen Robinson Following Dismal Run",
+      "summary": "Aberdeen has sacked head coach Stephen Robinson after just eight months in charge following a 4-0 home defeat to Hibernian. The team sits second-bottom in the Scottish Premiership with only three wins from 12 league matches this season. Stuart Duff has been placed in interim charge while the club searches for a permanent replacement.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-09T16:46:11+00:00"
     },
     {
       "headline": "Brighton Climbs to Second in Premier League",
@@ -309,6 +237,24 @@
       "published": "2026-11-08T18:20:56+00:00"
     },
     {
+      "headline": "GOP Lawmaker Forces Impeachment Vote Against Defense Secretary Hegseth",
+      "summary": "Republican Representative Thomas Massie plans to force a House vote to impeach Defense Secretary Pete Hegseth over unauthorized military involvement in Iran. Massie aims to push President Trump to replace Hegseth before Democrats assume control of Congress next year. Hegseth has dismissed the impending resolution as he prepares to address the media.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-10T01:38:49+00:00"
+    },
+    {
+      "headline": "Deadly Blast at Turkish Steel Factory Kills 16",
+      "summary": "An explosion at the Habas iron and steel facility near Izmir, Turkey, left at least 16 workers dead and 13 injured. The blast occurred during scheduled maintenance when a crane collapsed and dropped materials into an electric arc furnace. President Recep Tayyip Erdoğan confirmed ongoing search and rescue operations alongside a formal investigation into the workplace disaster.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-09T20:42:04+00:00"
+    },
+    {
       "headline": "Krakow Surgeon Defends Treating the Shooter",
       "summary": "Professor Michal Pędziwiatr was having lunch near Krakow's Main Market Square when a random mass shooting left six dead and 15 injured. He and another surgeon rushed to treat victims, police officers, and the gunman alike before emergency services arrived.",
       "category": "World",
@@ -318,49 +264,13 @@
       "published": "2026-11-08T22:05:12+00:00"
     },
     {
-      "headline": "Ben White Stands by Past England Absence",
-      "summary": "Arsenal defender Ben White maintains he has no regrets regarding his self-imposed exile from the England national team following the 2022 World Cup. Now included in Thomas Tuchel's squad for upcoming fixtures, White acknowledges that the full story remains private out of respect for all involved. He previously made his return in March during a match against Uruguay.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-09T19:00:10.151Z"
-    },
-    {
       "headline": "Trump Appoints Stephen Miller Chief of Staff Amid Congressional Shift",
       "summary": "President Trump has named Stephen Miller as his new chief of staff, replacing Susie Wiles in the administration's first major personnel shakeup following the midterms. Miller, previously a deputy chief of staff, is known for driving hardline immigration policies. The appointment comes as Republicans face their final weeks in control of Congress.",
       "category": "World",
       "relevance": 5,
       "url": "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31",
       "source": "NPR News",
-      "published": "2026-11-09T07:45:14-05:00"
-    },
-    {
-      "headline": "Premier League VAR Faces Intense Scrutiny After Chaotic Weekend",
-      "summary": "Following a stretch of matches with unusually high referee controversy, the Premier League faces renewed questions over video assistant referee consistency. The Key Match Incidents Panel previously reported only two errors across the first eight rounds, but the latest weekend featured multiple high-profile disputed calls. Analysts are closely evaluating whether recent decisions will add to the official error tally.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n9r93dnr9do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-09T14:34:19.617Z"
-    },
-    {
-      "headline": "Deadly Blast at Turkish Steel Factory Kills 16",
-      "summary": "An explosion at the Habas iron and steel facility near Izmir, Turkey, left at least 16 workers dead and 13 injured. The blast occurred during scheduled maintenance when a crane collapsed and dropped materials into an electric arc furnace. President Recep Tayyip Erdoğan confirmed ongoing search and rescue operations alongside a formal investigation into the workplace disaster.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-09T18:04:01.989Z"
-    },
-    {
-      "headline": "GOP Lawmaker Forces Impeachment Vote Against Defense Secretary Hegseth",
-      "summary": "Republican Representative Thomas Massie plans to force a House vote to impeach Defense Secretary Pete Hegseth over unauthorized military involvement in Iran. Massie aims to push President Trump to replace Hegseth before Democrats assume control of Congress next year. Hegseth has dismissed the impending resolution as he prepares to address the media.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-09T18:19:19.736Z"
+      "published": "2026-11-09T12:45:14+00:00"
     },
     {
       "headline": "Democrats Eye ICE Oversight After Midterm Wins",
@@ -369,25 +279,7 @@
       "relevance": 5,
       "url": "https://www.npr.org/2026/11/09/nx-s1-6032870/immigration-enforcement-ice-democrats-election",
       "source": "NPR News",
-      "published": "2026-11-09T05:00:00-05:00"
-    },
-    {
-      "headline": "Evaluating the Top College Football Contenders Under the Traditional BCS System",
-      "summary": "CBS Sports breaks down how elite college football programs like Georgia, Notre Dame, and Alabama would currently stack up under the historical Bowl Championship Series rankings format. The analysis provides an alternative perspective to the modern College Football Playoff top 25 structure.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/college-football/news/bcs-rankings-georgia-notre-dame-alabama-cfp-top-25/",
-      "source": "CBS Sports",
-      "published": "2026-11-09T18:36:46+00:00"
-    },
-    {
-      "headline": "Aberdeen Dismisses Manager Stephen Robinson Following Dismal Run",
-      "summary": "Aberdeen has sacked head coach Stephen Robinson after just eight months in charge following a 4-0 home defeat to Hibernian. The team sits second-bottom in the Scottish Premiership with only three wins from 12 league matches this season. Stuart Duff has been placed in interim charge while the club searches for a permanent replacement.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k2z5p00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-09T16:46:11.336Z"
+      "published": "2026-11-09T10:00:00+00:00"
     },
     {
       "headline": "Proposed Land Swap on Cumberland Island Sparks Preservation Debate",
@@ -396,25 +288,124 @@
       "relevance": 5,
       "url": "https://www.npr.org/2026/11/09/nx-s1-5981341/cumberland-island-national-park-service-proposal",
       "source": "NPR News",
+      "published": "2026-11-09T10:00:00+00:00"
+    },
+    {
+      "headline": "McGonigle and Stewart Claim 2026 Rookie of the Year Honors",
+      "summary": "Detroit Tigers infielder Kevin McGonigle and Cincinnati Reds player Sal Stewart have been awarded the 2026 BBWAA Rookie of the Year titles. The pair secured the prestigious baseball honors following standout debut seasons in the major leagues.",
+      "category": "Sports",
+      "relevance": 5,
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-rookie-of-the-year/",
+      "source": "CBS Sports",
+      "published": "2026-11-10T01:12:46+00:00"
+    },
+    {
+      "headline": "USPS Releases Official ZIP Code Boundary Polygons",
+      "summary": "The United States Postal Service now offers official national ZIP Code boundary datasets based on actual delivery address data. Industries such as real estate, logistics, and insurance can utilize these quarterly updated GeoJSON polygons for routing, demographic mapping, and data correction.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://postalpro.usps.com/zcb",
+      "source": "Hacker News",
+      "published": "2026-11-09T19:58:59+00:00"
+    },
+    {
+      "headline": "Qantas Outsources 850 Jobs to Accenture, Shifting Roles to India",
+      "summary": "Qantas is cutting 850 Australian corporate jobs and outsourcing the work to Accenture, with most roles relocating to India as part of an aggressive AI and IT modernization push. CEO Vanessa Hudson apologized to staff for the uncertainty, noting that the airline relies on decades of fragmented legacy technology that requires radical simplification.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-10T01:38:19.877Z"
+    },
+    {
+      "headline": "Nebraska Patient Loses Medicaid Amid Cancer Diagnosis",
+      "summary": "Eli McCreary of Omaha was notified that his Medicaid coverage had been abruptly canceled due to newly enforced work requirements shortly after being diagnosed with kidney cancer. Advocacy groups report widespread confusion and distress among low-income patients navigating the rollout of the state's new employment mandates.",
+      "category": "World",
+      "relevance": 5,
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6032732/trump-medicaid-health-nebraska-work-insurance",
+      "source": "NPR News",
       "published": "2026-11-09T05:00:00-05:00"
     },
     {
-      "headline": "Monday Night Club Analyzes Manchester United's Wild Draw and Managerial Changes",
-      "summary": "Mark Chapman and his panel on BBC Radio 5 Live discuss Manchester United's chaotic 4-4 draw against Aston Villa and Crystal Palace's potential dismissal of Pierre Sage. The episode also covers Ben White's recent international U-turn and West Midlands clubs dominating the Championship standings. Additionally, the show previews England's upcoming white-ball tour of Australia.",
-      "category": "Sports",
-      "relevance": 4,
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-09T21:00:00+00:00"
+      "headline": "Parking App Convenience Fees Average $0.35 Across U.S. Cities",
+      "summary": "A review of parking apps across 312 U.S. cities reveals that convenience fees typically range from zero to $0.70 per session, with a median cost of $0.35. ParkMobile accounts for the majority of the tracked locations, while a small minority of municipalities currently charge no app fees at all.",
+      "category": "Tech/AI",
+      "relevance": 5,
+      "url": "https://parkgraph.com/parking-app-fees",
+      "source": "Hacker News",
+      "published": "2026-11-09T19:55:53+00:00"
     },
     {
-      "headline": "A Snapshot of Life in Early 1945 Through Betty and Fred's Parallel Story",
-      "summary": "This narrative installment follows the parallel lives of Betty and Fred during the spring of 1945. The piece explores their daily experiences and relationship against the backdrop of a changing world.",
-      "category": "Other",
+      "headline": "Alisson Becker Expresses Desire to Extend Liverpool Stay",
+      "summary": "Liverpool goalkeeper Alisson Becker has stated his desire to remain at the club beyond the expiration of his current contract this summer. The 34-year-old Brazilian confirmed that his agent is currently in talks with club management as he looks to maintain his top-level form at Anfield.",
+      "category": "Sports",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw62ypepq2m7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-09T12:00:11.188Z"
+    },
+    {
+      "headline": "Lucy Bronze Makes History with Ninth Fifpro World 11 Selection",
+      "summary": "England defender Lucy Bronze has secured her record-breaking ninth appearance in the Fifpro Women's World 11, voted on by over 6,500 players globally. She is joined by four international teammates, while Zambia's Barbra Banda stands as the sole representative based outside Europe.",
+      "category": "Sports",
+      "relevance": 4,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgeg2z4dlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-09T14:55:32.267Z"
+    },
+    {
+      "headline": "Nvidia Investigates CEO Jensen Huang Over Ties to Alleged Chinese Spy",
+      "summary": "Nvidia is launching a formal internal investigation into co-founder and CEO Jensen Huang. The probe follows Huang's disclosure to the board regarding an intimate relationship with a business executive flagged by U.S. intelligence as a Beijing operative.",
+      "category": "Tech/AI",
+      "relevance": 3,
+      "url": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html?unlocked_article_code=1.O1E.Soow.6UjrM7Ch-C8L",
+      "source": "Daring Fireball",
+      "published": "2026-11-08T21:50:31+00:00"
+    },
+    {
+      "headline": "Atletico Madrid Target Arsenal's Zubimendi Amid European Transfer Rumors",
+      "summary": "Atletico Madrid has set its sights on Arsenal midfielder Martin Zubimendi for a potential January transfer. Meanwhile, Arsenal is working to balance its finances, which could impact the futures of Viktor Gyokeres and Mikel Merino while closing in on extensions for core stars.",
+      "category": "Sports",
+      "relevance": 3,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-09T21:13:37.469Z"
+    },
+    {
+      "headline": "FanDuel Offers $200 in Bonus Bets for Monday Night Football",
+      "summary": "Sportsbook operator FanDuel is running a promotional campaign offering $200 in bonus bets for users wagering on the upcoming Monday Night Football matchup between the Bills and the Vikings. The offer targets football bettors looking to capitalize on NFL betting markets.",
+      "category": "NFL",
       "relevance": 2,
-      "url": "https://www.blogger.com/comment/fullpage/post/26204193/6323649256312391176",
-      "source": "NewsAPI:Anthropic Claude",
-      "published": "2026-11-08T14:06:00Z"
+      "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-200-bonus-bets-bills-vs-vikings-monday-night-football-nfl-betting/",
+      "source": "CBS Sports",
+      "published": "2026-11-10T00:18:31+00:00"
+    },
+    {
+      "headline": "AI-Powered Parlay Picks Released for Bills-Vikings Clash",
+      "summary": "SportsLine AI has published self-learning algorithmic predictions, player props, and same-game parlay bets for Monday Night Football's showdown between the Buffalo Bills and Minnesota Vikings. The data-driven insights aim to guide bettors through complex prop markets.",
+      "category": "NFL",
+      "relevance": 2,
+      "url": "https://www.cbssports.com/betting/news/bills-vikings-sgp-monday-night-football-same-game-parlay-picks-best-bets-player-props/",
+      "source": "CBS Sports",
+      "published": "2026-11-10T00:15:40+00:00"
+    },
+    {
+      "headline": "BetMGM Launches $1,500 Bonus Offer for Monday Night Football",
+      "summary": "BetMGM is rolling out a $1,500 bonus bet promotion utilizing code CBSSPORTS for the Bills and Vikings Monday Night Football game. The sportsbook aims to attract football bettors with the high-value sign-up incentive ahead of kickoff.",
+      "category": "NFL",
+      "relevance": 2,
+      "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-bills-vs-vikings-nfl-monday-night-football/",
+      "source": "CBS Sports",
+      "published": "2026-11-10T00:13:13+00:00"
+    },
+    {
+      "headline": "Russell Brand Sentenced to Ten and a Half Years for Rape and Sexual Assault",
+      "summary": "British comedian and media personality Russell Brand has been sentenced to ten years and six months in prison after a London court found him guilty of one count of rape and three counts of sexual assault. Justice Bennathan handed down the sentence at Southwark Crown Court following testimony from six women.",
+      "category": "World",
+      "relevance": 2,
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
+      "source": "NPR News",
+      "published": "2026-11-09T09:36:54-05:00"
     },
     {
       "headline": "BBC Sport Launches Daily Football Quizzes",
