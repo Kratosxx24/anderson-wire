@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-11-11T17:28:02.726690+00:00",
+  "generated_at": "2026-11-11T23:42:26.748652+00:00",
   "story_count": 50,
   "stories": [
+    {
+      "headline": "MatchQuarters Releases Week 9 NFL Defensive Analytics and Metrics",
+      "summary": "MatchQuarters has published its comprehensive Week 9 NFL defensive diagnostic report, breaking down unit performance using proprietary metrics. The weekly release utilizes data from PFF and FTN to analyze coverage execution, run defense, pass rush, and blitz statistics. These micro-trends pave the way for macro-schematic shifts detailed in the upcoming winter off-season study guide.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.matchquarters.com/p/nfl-defensive-data-download-week-9",
+      "source": "MatchQuarters",
+      "published": "2026-11-11T15:21:11+00:00"
+    },
     {
       "headline": "Addressing Veteran Suicide and the Sanctity of Life",
       "summary": "This essay explores the heavy psychological toll veterans face after leaving the military and examines the deeper theological value of human life. It serves as a pastoral reflection on the ongoing crisis of veteran suicide.",
@@ -39,13 +48,13 @@
       "published": "2026-11-03T14:01:31+00:00"
     },
     {
-      "headline": "Unpacking the MacBook Pro LED XDR Claims",
-      "summary": "A technical breakdown examines Apple's latest MacBook Pro display performance and engineering choices. The commentary evaluates whether the hardware lives up to the company's ambitious display marketing and industry expectations.",
-      "category": "YouTube",
+      "headline": "Apple Researchers Propose Amortized MIPS for Efficient RAG Systems",
+      "summary": "Apple machine learning researchers presented an ICML 2026 paper introducing a faster Maximum Inner Product Search method for retrieval-augmented generation. Traditional MIPS approaches often ignore the structural differences between short user queries and long informational keys. By training small neural networks offline to route queries, the new approach amortizes upfront costs to drastically speed up inference-time retrieval.",
+      "category": "Tech/AI",
       "relevance": 9,
-      "url": "https://www.youtube.com/watch?v=2reQut8WNGc",
-      "source": "MKBHD",
-      "published": "2026-10-29T02:50:34+00:00"
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "source": "Hacker News",
+      "published": "2026-11-11T16:57:45+00:00"
     },
     {
       "headline": "Marques Brownlee Rates Halloween Candy",
@@ -102,22 +111,22 @@
       "published": "2026-11-09T05:04:36+00:00"
     },
     {
-      "headline": "MatchQuarters Releases Week 9 NFL Defensive Analytics and Metrics",
-      "summary": "MatchQuarters has published its comprehensive Week 9 NFL defensive diagnostic report, breaking down unit performance using proprietary metrics. The weekly release utilizes data from PFF and FTN to analyze coverage execution, run defense, pass rush, and blitz statistics. These micro-trends pave the way for macro-schematic shifts detailed in the upcoming winter off-season study guide.",
-      "category": "NFL",
+      "headline": "CBS Sports Drops Expert NBA Betting Picks for Knicks vs. Cavaliers",
+      "summary": "CBS Sports has released its analytical predictions and betting odds for the upcoming Wednesday night matchup between the New York Knicks and the Cleveland Cavaliers. The guide highlights proven modeling techniques to help bettors navigate point spreads and game totals. Fans and gamblers can use these data-driven insights to inform their wagers for the November 11 game.",
+      "category": "NBA",
       "relevance": 9,
-      "url": "https://www.matchquarters.com/p/nfl-defensive-data-download-week-9",
-      "source": "MatchQuarters",
-      "published": "2026-11-11T15:21:11+00:00"
+      "url": "https://www.cbssports.com/betting/news/knicks-cavaliers-prediction-odds-time-2026-nba-picks-best-bets-wednesday-november-11/",
+      "source": "CBS Sports",
+      "published": "2026-11-11T21:58:47+00:00"
     },
     {
-      "headline": "Apple Researchers Propose Amortized MIPS for Efficient RAG Systems",
-      "summary": "Apple machine learning researchers presented an ICML 2026 paper introducing a faster Maximum Inner Product Search method for retrieval-augmented generation. Traditional MIPS approaches often ignore the structural differences between short user queries and long informational keys. By training small neural networks offline to route queries, the new approach amortizes upfront costs to drastically speed up inference-time retrieval.",
-      "category": "Tech/AI",
+      "headline": "MKBHD Deconstructs MacBook Pro Display Tech",
+      "summary": "Marques Brownlee dives past surface-level specifications to evaluate the actual real-world performance of Apple's latest MacBook Pro screen. The technical deep dive examines display brightness, panel longevity, and everyday usability factors that standard spec sheets miss. Creator workflows and visual fidelity take center stage as the review tests how the hardware performs under heavy professional loads.",
+      "category": "YouTube",
       "relevance": 9,
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "source": "Hacker News",
-      "published": "2026-11-11T16:57:45+00:00"
+      "url": "https://www.youtube.com/watch?v=hdMszZ2ah5Q",
+      "source": "MKBHD",
+      "published": "2026-11-11T18:43:56+00:00"
     },
     {
       "headline": "NBA Analytical Roundup Highlights Trade Evaluations and Defensive Metrics",
@@ -129,6 +138,15 @@
       "published": "2026-11-10T17:35:06+00:00"
     },
     {
+      "headline": "Diverging Earnings Reports Highlight Historical Contrasts Between Intel and AMD",
+      "summary": "Recent quarterly earnings reports from Intel and AMD reveal widening operational and strategic divergences between the two semiconductor giants. This financial split underscores deep-seated historical differences in their business models and execution. Observers are questioning whether Intel needs to completely reevaluate its long-term strategic roadmap.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
+      "source": "Stratechery",
+      "published": "2026-11-11T11:00:00+00:00"
+    },
+    {
       "headline": "Gary Marcus Warns Against Investing in Anthropic’s IPO",
       "summary": "AI researcher Gary Marcus argues that Anthropic’s upcoming public offering lacks a defensible moat, noting the company’s need for ever‑increasing capital to make modest quality gains in a cut‑throat market while carrying debt far exceeding revenue.",
       "category": "Tech/AI",
@@ -136,6 +154,15 @@
       "url": "https://garymarcus.substack.com/p/just-say-no-to-anthropics-ipo?r=3k69a0",
       "source": "Daring Fireball",
       "published": "2026-11-10T22:16:25+00:00"
+    },
+    {
+      "headline": "Trilateral Peace Talks in Abu Dhabi End Without Major Breakthrough",
+      "summary": "High-stakes negotiations between Russia, Ukraine, and the United States in Abu Dhabi concluded after two days without a definitive breakthrough on ending the nearly five-year war. Officials cited rigid opposing stances on European security architecture and NATO's regional influence. However, both sides confirmed that a substantial prisoner of war exchange is actively being planned.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-11T18:04:58+00:00"
     },
     {
       "headline": "Nvidia Allegedly Provided Incomplete Business Records During U.S. Chip Smuggling Probe",
@@ -165,13 +192,13 @@
       "published": "2026-11-10T20:09:44+00:00"
     },
     {
-      "headline": "Meta Launches Muse Ember for Efficient AI Reasoning",
-      "summary": "Meta has introduced Muse Ember, a compact model optimized for tasks like coding subtasks, tool calls, and document parsing. Positioned as a cost-effective alternative to GPT-6 Luna and Claude Haiku, it offers competitive pricing and sits on the efficiency frontier of the Artificial Analysis leaderboard.",
+      "headline": "Pomerado Launches Self-Serve Platform to Turn Websites into Agent APIs",
+      "summary": "Ex-McKinsey and Scale AI operators have launched Pomerado, a YC F26 startup that builds deterministic, self-healing APIs for legacy websites in minutes. Designed to solve bottlenecks in AI agent workflows, the tool allows developers to generate MCPs using natural language descriptions rather than relying on slow browser automation. This enables agents to seamlessly interact with complex portals lacking native APIs.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
-      "source": "Simon Willison",
-      "published": "2026-11-10T07:28:21+00:00"
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "source": "Hacker News",
+      "published": "2026-11-11T17:11:56+00:00"
     },
     {
       "headline": "Midlife Is a Crossroads, Not a Crisis",
@@ -201,121 +228,85 @@
       "published": "2026-11-09T05:00:00+00:00"
     },
     {
-      "headline": "CBS Sports Publishes Week 10 NFL Expert Score Predictions and Best Bets",
-      "summary": "CBS Sports has released its comprehensive expert predictions and betting lines for every matchup on the Week 10 NFL schedule. Analysts provide exact game scores and betting recommendations as teams navigate the middle stretch of the season. Bettors can utilize these insights to evaluate point spreads, totals, and head-to-head outcomes.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-today-week-10-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-11T16:02:10+00:00"
-    },
-    {
-      "headline": "Trade Deadline Reshapes Fantasy Football QB Landscape Ahead of Week 10",
-      "summary": "Recent trade deadline deals have shifted the fantasy football quarterback landscape as managers prepare lineups for Week 10. Analysts recommend keeping C.J. Stroud active as he maintains strong momentum on the field. Managers must evaluate these roster changes and recent performances when deciding who to start or sit.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-10-start-em-sit-em-quarterbacks-trade-deadline-deals-reshape-the-qb-landscape/",
-      "source": "CBS Sports",
-      "published": "2026-11-11T17:01:52+00:00"
-    },
-    {
-      "headline": "Trilateral Peace Talks in Abu Dhabi End Without Major Breakthrough",
-      "summary": "High-stakes negotiations between Russia, Ukraine, and the United States in Abu Dhabi concluded after two days without a definitive breakthrough on ending the nearly five-year war. Officials cited rigid opposing stances on European security architecture and NATO's regional influence. However, both sides confirmed that a substantial prisoner of war exchange is actively being planned.",
-      "category": "World",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-11T15:05:11.691Z"
-    },
-    {
-      "headline": "Diverging Earnings Reports Highlight Historical Contrasts Between Intel and AMD",
-      "summary": "Recent quarterly earnings reports from Intel and AMD reveal widening operational and strategic divergences between the two semiconductor giants. This financial split underscores deep-seated historical differences in their business models and execution. Observers are questioning whether Intel needs to completely reevaluate its long-term strategic roadmap.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
-      "source": "Stratechery",
-      "published": "2026-11-11T11:00:00+00:00"
-    },
-    {
-      "headline": "Pomerado Launches Self-Serve Platform to Turn Websites into Agent APIs",
-      "summary": "Ex-McKinsey and Scale AI operators have launched Pomerado, a YC F26 startup that builds deterministic, self-healing APIs for legacy websites in minutes. Designed to solve bottlenecks in AI agent workflows, the tool allows developers to generate MCPs using natural language descriptions rather than relying on slow browser automation. This enables agents to seamlessly interact with complex portals lacking native APIs.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://news.ycombinator.com/item?id=50455811",
-      "source": "Hacker News",
-      "published": "2026-11-11T17:11:56+00:00"
-    },
-    {
       "headline": "Russia and Ukraine Agree to Massive Prisoner Swap Amid Stalled Peace Talks",
       "summary": "During U.S.-mediated talks in Abu Dhabi, Russian and Ukrainian officials agreed to a large-scale exchange of prisoners of war. While the agreement marks the largest humanitarian release since the conflict began in 2022, the discussions yielded no major breakthrough toward a permanent peace settlement. Delegations remain sharply divided over territorial and security demands.",
       "category": "World",
       "relevance": 8,
       "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
       "source": "NPR News",
-      "published": "2026-11-11T08:30:00-05:00"
+      "published": "2026-11-11T13:30:00+00:00"
     },
     {
-      "headline": "Apple Shuts Down Support Community Forum After Decades of Operation",
-      "summary": "Apple has officially placed its dedicated Support Community discussion forum into read-only mode ahead of a permanent shutdown on November 20. Dating back to 1998 as the Apple Tech Exchange, the platform served as a long-standing hub for user-to-user troubleshooting and advice. Apple has not clarified whether historical user posts will be archived or permanently deleted.",
+      "headline": "Basketball Intelligence Newsletter Highlights Season Standouts and Strategy",
+      "summary": "The November 11 edition of Basketball Intelligence covers a wide array of top-tier NBA reporting, ranging from early power rankings to deep analytical scouting notes. Notable pieces examine the enduring elite play of veterans like Steph Curry and Kevin Durant alongside tactical breakdowns from recent matchups. The newsletter also spotlights behind-the-scenes cultural dynamics, including an inside look at Black NBA coaches.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-111126",
+      "source": "Basketball Intelligence",
+      "published": "2026-11-11T18:42:37+00:00"
+    },
+    {
+      "headline": "Early Fantasy Basketball Breakouts Spotlighted by CBS Sports",
+      "summary": "CBS Sports identifies early-season fantasy basketball standouts, pointing to players like Davion Mitchell and Naz Reid as crucial league-winning waiver wire additions. The analysis helps fantasy managers distinguish between sustainable early production and flash-in-the-pan performances. It also highlights slow starters who might present prime buy-low or sell-low trade opportunities as the season unfolds.",
+      "category": "NBA",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/basketball/news/fantasy-basketball-early-season-breakouts-davion-mitchell-naz-reid-lead-early-league-winners/",
+      "source": "CBS Sports",
+      "published": "2026-11-11T21:47:23+00:00"
+    },
+    {
+      "headline": "Exploring the Missional Impact of Families Sitting Together in Church",
+      "summary": "The Gospel Coalition examines the theological and practical opportunities that arise when entire families sit together during congregational worship services. The essay discusses how intergenerational participation fosters deeper community engagement and discipleship within the church. It offers guidance for church leaders looking to leverage family integration as a tool for outreach and spiritual formation.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/article/sit-family-church-missional/",
+      "source": "The Gospel Coalition",
+      "published": "2026-11-11T21:10:20+00:00"
+    },
+    {
+      "headline": "Austin Mann Puts the iPhone Duo Through Its Paces in Iceland",
+      "summary": "Renowned photographer Austin Mann tests Apple's new folding iPhone Duo during a trip to Iceland, evaluating its capabilities for creative workflows. While the hardware features a strong camera, Mann emphasizes that its true value lies in the software ecosystem for planning, editing, and sharing content on the go. The review highlights a standout moment capturing the northern lights using Night mode without a physical tripod.",
       "category": "Tech/AI",
       "relevance": 8,
-      "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-      "source": "Hacker News",
-      "published": "2026-11-11T12:19:10+00:00"
-    },
-    {
-      "headline": "Jensen Huang Faces Mounting Governance Pressures Amid Fresh Washington Scrutiny",
-      "summary": "Nvidia CEO Jensen Huang is confronting escalating corporate governance challenges alongside broader geopolitical flashpoints in Washington and Silicon Valley. Analysts suggest these internal oversight hurdles pose a greater long-term risk to the company than traditional national security concerns.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
-      "source": "Stratechery",
-      "published": "2026-11-10T11:00:00+00:00"
-    },
-    {
-      "headline": "Andrew Emerson Follows Up Altar I with Kickstarter Keyboard",
-      "summary": "Electronic Materials Office creator Andrew Emerson is returning to Kickstarter with the Altar II mechanical keyboard. The project follows his 2023 Altar I release, which was known for its ultra-thin profile and striking industrial design. Enthusiasts are watching to see if the new iteration addresses criticisms of its predecessor.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.kickstarter.com/projects/electronicamaterials/altar-ii/",
+      "url": "https://www.austinmann.com/trek/iphone-duo",
       "source": "Daring Fireball",
-      "published": "2026-11-10T20:59:25+00:00"
+      "published": "2026-10-21"
     },
     {
-      "headline": "Apple Brings Global Privacy Control to Safari 27.3",
-      "summary": "Apple's upcoming Safari 27.3 update quietly introduces support for Global Privacy Control. The standards-based feature allows users to signal their data-tracking preferences automatically, though the current beta buries the setting in the advanced menu.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://pxlnv.com/linklog/safari-global-privacy-control/",
-      "source": "Daring Fireball",
-      "published": "2026-11-10T14:47:10+00:00"
-    },
-    {
-      "headline": "Prompting Claude Fable 5.2 for Better Code Ownership",
-      "summary": "Anthropic's documentation suggests that Claude Fable 5.2 performs better at improving code structure when explicitly told the codebase belongs to it. Without this instruction, the model tends to merely append new code to existing structures rather than optimizing them.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/",
-      "source": "Simon Willison",
-      "published": "2026-11-10T05:34:14+00:00"
-    },
-    {
-      "headline": "US Charges Three Iran-Backed Operatives Over European and UK Plots",
-      "summary": "The US Department of Justice has unsealed an indictment charging three Iran-backed operatives linked to nearly 20 attempted attacks in Europe and the UK. Officials specifically connected the suspects to a major September incident at RAF Fairford and a near-fatal stabbing in London. The accused allegedly directed operations on behalf of the Islamic Revolutionary Guard Corps and Kataib Hezbollah.",
+      "headline": "National Average Gas Prices Drop Below $4 a Sparkling Threshold",
+      "summary": "US gasoline prices have dipped under the $4 per gallon mark for the first time in months, bringing welcome relief to drivers nationwide. Industry experts attribute the roughly 40-cent decline over the past month to standard seasonal shifts in demand rather than political influence. While fuel costs are easing, broader economic inflation continues to remain stubbornly high for consumers.",
       "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-11T16:59:34+00:00"
+      "relevance": 8,
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+      "source": "NPR News",
+      "published": "2026-11-11T14:59:14-05:00"
     },
     {
-      "headline": "CBS Sports Recommends Fading the Packers in Week 10 Survivor Pools",
-      "summary": "CBS Sports has released its knockout pool strategy and survival advice for Week 10 of the NFL season. Analysts specifically advise pool participants to fade the Green Bay Packers this week. Navigating survivor pools at this stage requires careful avoidance of trap matchups and high-risk favorites.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-picks-knockout-strategy-revival-advice-for-week-10-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-11T16:05:43+00:00"
+      "headline": "Developer Creates TinyGPT Visualizer to Inspect LLM Inner Workings",
+      "summary": "A new developer tool called the TinyGPT Visualizer aims to make mechanistic interpretability more accessible by allowing users to peer directly inside a working language model. The project provides an X-ray-style view of numeric matrices and activation states while the AI processes information. This visual approach addresses the growing demand for transparency and safety research within the artificial intelligence community.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+      "source": "Hacker News",
+      "published": "2026-10-29T00:00:00+00:00"
+    },
+    {
+      "headline": "US Treasury Secretary Scott Bessent Relocated Following Iran Threats",
+      "summary": "US Treasury Secretary Scott Bessent has been moved from his Washington home to a secure military base due to credible threats linked to Iran. The security protocol was triggered after the Wall Street Journal published a photo that allowed his Georgetown residence to be easily geolocated. Despite the threats, the Treasury Department maintains that Bessent will not be deterred from enforcing economic sanctions against Iran.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-11T16:24:06.017Z"
+    },
+    {
+      "headline": "Huawei Open-Sources MACaQ Quantizer for Local Model Inference",
+      "summary": "Huawei has released MACaQ, a model-agnostic quantization tool designed to optimize text, image, video, and audio models for local execution across various backends. The system can compress a massive 122-billion parameter model in just 64 minutes while utilizing only 32.5 GB of device memory. It achieves superior or comparable perplexity to existing frameworks while drastically reducing required quantization time.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "source": "Hacker News",
+      "published": "2026-11-11T20:23:57+00:00"
     },
     {
       "headline": "Sufjan Stevens Recycles Holiday Hits",
@@ -336,6 +327,24 @@
       "published": "2026-11-11T05:02:00+00:00"
     },
     {
+      "headline": "Andrew Emerson Follows Up Altar I with Kickstarter Keyboard",
+      "summary": "Electronic Materials Office creator Andrew Emerson is returning to Kickstarter with the Altar II mechanical keyboard. The project follows his 2023 Altar I release, which was known for its ultra-thin profile and striking industrial design. Enthusiasts are watching to see if the new iteration addresses criticisms of its predecessor.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.kickstarter.com/projects/electronicamaterials/altar-ii/",
+      "source": "Daring Fireball",
+      "published": "2026-11-10T20:59:25+00:00"
+    },
+    {
+      "headline": "Apple Brings Global Privacy Control to Safari 27.3",
+      "summary": "Apple's upcoming Safari 27.3 update quietly introduces support for Global Privacy Control. The standards-based feature allows users to signal their data-tracking preferences automatically, though the current beta buries the setting in the advanced menu.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://pxlnv.com/linklog/safari-global-privacy-control/",
+      "source": "Daring Fireball",
+      "published": "2026-11-10T14:47:10+00:00"
+    },
+    {
       "headline": "Anthropic Reveals Multi-Chip Strategy in IPO Roadshow",
       "summary": "Anthropic’s recent IPO roadshow video highlights the company's unconventional strategy of training and serving Claude across four different chip families: AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. By focusing on 'compute multipliers' and efficient software stacks, the company claims to have significantly reduced the time and human intervention required to port models to new hardware.",
       "category": "Tech/AI",
@@ -343,15 +352,6 @@
       "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
       "source": "Simon Willison",
       "published": "2026-11-11T15:11:59+00:00"
-    },
-    {
-      "headline": "Spain Paralyzed by First General Strike in 14 Years",
-      "summary": "Spain is facing widespread transport and public service disruptions due to its first general strike in over a decade, driven by public anger over soaring housing costs and the death of an elderly woman evicted from her home. With national elections approaching on November 29, unions and business organizations remain divided on the strike's overall impact and participation levels.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-11T14:06:22.494Z"
     },
     {
       "headline": "Daine Debuts with Genre-Bending LP",
@@ -372,76 +372,76 @@
       "published": "2026-11-11T05:00:00+00:00"
     },
     {
-      "headline": "Scotland's Scott McTominay Reveals Emergency Heart Procedure Prior to World Cup",
-      "summary": "Napoli midfielder Scott McTominay disclosed that he underwent an ablation procedure to correct an irregular heartbeat just two days before Scotland's World Cup opener against Haiti. The 29-year-old was placed under anesthesia in Manchester before receiving medical clearance to play the full match. Despite the abrupt health scare, McTominay has since recovered fully and returned to both club and international action.",
+      "headline": "Spain Paralyzed by First General Strike in 14 Years",
+      "summary": "Spain is facing widespread transport and public service disruptions due to its first general strike in over a decade, driven by public anger over soaring housing costs and the death of an elderly woman evicted from her home. With national elections approaching on November 29, unions and business organizations remain divided on the strike's overall impact and participation levels.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-11T22:07:37+00:00"
+    },
+    {
+      "headline": "US Charges Three Iran-Backed Operatives Over European and UK Plots",
+      "summary": "The US Department of Justice has unsealed an indictment charging three Iran-backed operatives linked to nearly 20 attempted attacks in Europe and the UK. Officials specifically connected the suspects to a major September incident at RAF Fairford and a near-fatal stabbing in London. The accused allegedly directed operations on behalf of the Islamic Revolutionary Guard Corps and Kataib Hezbollah.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-11T16:59:34+00:00"
+    },
+    {
+      "headline": "Transfer Market Shortage Looms as Top College QBs Stay Put",
+      "summary": "College football programs searching for veteran signal-callers in the transfer portal will face a severe shortage this cycle. The talent pool is drying up as the nation's premier passers opt to remain with their current teams.",
       "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynynx204zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-10T16:46:31+00:00"
-    },
-    {
-      "headline": "Manchester City Struggles Amid Tactical and Psychological Pressure",
-      "summary": "Manchester City is facing a slump under manager Enzo Maresca, suffering three consecutive defeats following a record-breaking start to the season. Experts suggest the team's decline may be linked to a loss of 'collective efficacy' exacerbated by the uncertainty surrounding the club's ongoing legal battle over alleged financial rule breaches.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw30e0yz0p04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-11T11:47:09.483Z"
-    },
-    {
-      "headline": "OurCal Integrates Messaging into Shared Calendars",
-      "summary": "OurCal is a shared calendar application that embeds chat threads directly into events, allowing users to coordinate plans without switching between messaging apps. The platform emphasizes privacy with ANSSI-certified end-to-end encryption and features automatic change tracking to keep groups in sync.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://ourcal.com/?utm_source=daringfireball&utm_medium=sponsorship&utm_content=post-thankyou",
-      "source": "Daring Fireball",
-      "published": "2026-11-10T15:15:17+00:00"
-    },
-    {
-      "headline": "Nvidia CEO Linked to Chinese Intelligence Asset",
-      "summary": "Reports have surfaced regarding a past romantic relationship between Nvidia CEO Jensen Huang and a Chinese businesswoman identified as an asset for Beijing’s Ministry of State Security. The revelation has sparked significant concern and curiosity within Silicon Valley circles.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.theatlantic.com/technology/2026/11/jensen-huang-chinese-spy/689357/?gift=aQyUJR7AIw1mJWdQ6Ed6yPI8n1FlV88MR9f9IZruvFA&",
-      "source": "Daring Fireball",
-      "published": "2026-11-10T14:36:18+00:00"
-    },
-    {
-      "headline": "Democratic Socialists Gain Ground in Midterms",
-      "summary": "Historian Jill Lepore explores the recent electoral successes of the Democratic Socialists of America, noting that the organization has moved from the political fringe to a more mainstream presence. The discussion highlights the evolving history of socialism in the U.S. and the factors contributing to its current political resurgence.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-      "source": "NPR News",
-      "published": "2026-11-11T11:41:48-05:00"
-    },
-    {
-      "headline": "Critical 0-Days Found in Danfoss Controllers",
-      "summary": "Midnight Blue researcher Carlo Meijer discovered multiple pre-authentication remote code execution zero-days in the Danfoss AK-SM800A in under an hour. These flaws follow a wave of attacks on internet-exposed refrigeration controllers across Europe that spoiled millions in food and sparked fires. Security experts advise asset owners to immediately drop internet exposure via VPNs or ACLs rather than wasting scarce resources on patching.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
-      "source": "Hacker News",
-      "published": "2026-11-11T16:08:14+00:00"
-    },
-    {
-      "headline": "Iran-Backed Trio Charged in Terror Plot Against UK Base",
-      "summary": "Federal prosecutors in New York have indicted three men linked to Iran over a campaign of nearly 20 attacks and attempted strikes across the U.S. and Europe. The charges detail a September plot targeting a British air base housing American military forces. The unsealed indictment names three dual-national or foreign suspects directing the transnational terrorism operation.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-      "source": "NPR News",
-      "published": "2026-11-11T05:02:54-05:00"
-    },
-    {
-      "headline": "CBS Sports Releases Week 10 NFL Betting Odds and Spreads",
-      "summary": "CBS Sports has published comprehensive betting lines, totals, and point spreads for every matchup on the Week 10 NFL slate. Key games highlighted in the early odds include divisional clashes like Commanders-Giants and high-profile matchups such as 49ers-Cowboys. Bettors can use these updated lines to track market movements across the league.",
-      "category": "NFL",
-      "relevance": 5,
-      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-odds-lines-totals-spreads/",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/college-football/news/college-football-transfer-qb-market-shortage/",
       "source": "CBS Sports",
-      "published": "2026-11-11T17:13:58+00:00"
+      "published": "2026-11-11T23:30:33+00:00"
+    },
+    {
+      "headline": "College Hoops Wednesday Picks Back Michigan and Cal",
+      "summary": "Betting experts and analytical models are aligning behind Michigan and California for Wednesday's college basketball slate. Bettors looking for an edge can utilize these consensus projections to guide their mid-week wagering strategy.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/betting/news/college-basketball-odds-picks-predictions-best-bets-wednesday-model-experts-backing-michigan-cal/",
+      "source": "CBS Sports",
+      "published": "2026-11-11T22:40:42+00:00"
+    },
+    {
+      "headline": "Scotland Loses Captain Weir Ahead of Sweden Play-Off",
+      "summary": "Scotland will be without injured captain Caroline Weir and forward Mia McAulay for their crucial World Cup play-off final against Sweden. Head coach Melissa Andreatta's squad must navigate the absence of their influential midfielder as they vie for a spot at Brazil 2027 across two legs in December.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/sport/football/articles/c64gnlevgj1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-11T11:59:18.330Z"
+    },
+    {
+      "headline": "Apple Pulls Plug on Decades-Old Support Community Forums",
+      "summary": "Apple is permanently closing its user-to-user support forum on November 20 after running various iterations of the platform since 1998. The company cited strategic evaluations in pulling the plug on boards frequently criticized for outdated formats and unhelpful user interactions.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://sixcolors.com/link/2026/11/ding-dong-the-apple-support-community-is-dead/",
+      "source": "Daring Fireball",
+      "published": "2026-11-11T07:13:39-08:00"
+    },
+    {
+      "headline": "Google Enters Decision Model Space with Gemini Decision 1",
+      "summary": "Google has launched its Gemini Decision 1 API, joining OpenAI and Jev in the specialized decision-making model market. Priced at 10 cents per million input tokens with free outputs, the new model uniquely supports multimodal inputs like video and audio to evaluate probabilistic questions.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "source": "Simon Willison",
+      "published": "2026-11-11T22:03:25+00:00"
+    },
+    {
+      "headline": "Democrat Scott Colom Pulls Off Shock Senate Win in Mississippi",
+      "summary": "Democrat Scott Colom narrowly defeated incumbent Republican Cindy Hyde-Smith in a razor-thin Mississippi Senate race. Colom's historic victory marks the first time a Democrat has won a Senate seat in the state since 1982, expanding the Democratic majority in the chamber following midterm backlash over the economy and foreign policy.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-11T23:05:25.775Z"
     },
     {
       "headline": "Reflections on Leadership and the Myth of the Indispensable Figure",
