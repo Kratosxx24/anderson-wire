@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:54:03.191928+00:00",
+  "generated_at": "2026-11-14T20:39:51.685526+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -48,15 +48,6 @@
       "published": "2026-11-11T18:43:56+00:00"
     },
     {
-      "headline": "Marques Brownlee Blind-Ranks Halloween Candy on The Studio",
-      "summary": "The Studio crew puts popular seasonal treats to the test in a blind taste-test elimination challenge. Marques ranks various Halloween confections without knowing their identities until the final standings are locked in.",
-      "category": "YouTube",
-      "relevance": 9,
-      "url": "https://www.youtube.com/shorts/v92XR6RwB9Q",
-      "source": "The Studio (MKBHD)",
-      "published": "2026-10-31T21:56:10+00:00"
-    },
-    {
       "headline": "MKBHD Previews Meta VR Tech",
       "summary": "Tech creator Marques Brownlee explores advanced Meta VR hardware features that rival Apple's ecosystem. The overview highlights what the next generation of mixed-reality headsets could achieve if they adopted these design choices.",
       "category": "YouTube",
@@ -64,6 +55,15 @@
       "url": "https://www.youtube.com/watch?v=_x58r9TBois",
       "source": "MKBHD",
       "published": "2026-11-06T21:29:30+00:00"
+    },
+    {
+      "headline": "Marques Brownlee Blind-Ranks Halloween Candy on The Studio",
+      "summary": "The Studio crew puts popular seasonal treats to the test in a blind taste-test elimination challenge. Marques ranks various Halloween confections without knowing their identities until the final standings are locked in.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/v92XR6RwB9Q",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-31T21:56:10+00:00"
     },
     {
       "headline": "The Studio Tests Obscure Foldables",
@@ -75,6 +75,51 @@
       "published": "2026-10-23T18:14:01+00:00"
     },
     {
+      "headline": "Basketball Intelligence Drops Latest NBA Analysis and G League Insights",
+      "summary": "The November 14 newsletter compiles the best current NBA reporting and analysis from across the web. Features include league-wide assessments of struggling teams, power rankings, star duos, and spotlights on G League prospects and tryout economics.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-111426",
+      "source": "Basketball Intelligence",
+      "published": "2026-11-14T20:03:38+00:00"
+    },
+    {
+      "headline": "Lions Chase Fifth Straight Win Against Patriots in Munich",
+      "summary": "Detroit looks to extend its four-game winning streak as they face New England overseas in Munich. The Patriots are heading into the matchup searching for a crucial bounce-back performance.",
+      "category": "NFL",
+      "relevance": 9,
+      "url": "https://www.cbssports.com/nfl/news/lions-vs-patriots-prediction-odds-where-to-watch-munich/",
+      "source": "CBS Sports",
+      "published": "2026-11-14T19:51:21+00:00"
+    },
+    {
+      "headline": "Developer Recreates DeepSeek V3 Architecture in 190 Lines of Pure JAX",
+      "summary": "A developer has built a functioning DeepSeek V3 model implementation using just 190 lines of pure JAX code, trained locally on a MacBook Air using public-domain detective fiction. The minimalist code incorporates key architecture features like Multi-head Latent Attention, DeepSeekMoE, and auxiliary-loss-free balancing without relying on heavy frameworks like PyTorch.",
+      "category": "Tech/AI",
+      "relevance": 9,
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "source": "Hacker News",
+      "published": "2026-11-14T15:04:15+00:00"
+    },
+    {
+      "headline": "MKBHD Examines the Quintessentially Apple OLED iPad Mini",
+      "summary": "Tech creator Marques Brownlee reviews the new OLED iPad Mini, evaluating how its design and features embody Apple's trademark product philosophy. The hardware refresh brings long-awaited display upgrades to the compact tablet form factor.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/watch?v=g6Die8gVFn0",
+      "source": "MKBHD",
+      "published": "2026-11-03T14:01:31+00:00"
+    },
+    {
+      "headline": "The Studio Breaks Down Unusual Gear Behind Their Latest Video Intro",
+      "summary": "The MKBHD studio team reveals the unexpected equipment and technical setup used to shoot the intro sequence for their latest video production. The behind-the-scenes look highlights the creative gear choices happening behind the camera.",
+      "category": "YouTube",
+      "relevance": 9,
+      "url": "https://www.youtube.com/shorts/fBdy_ggh8Xc",
+      "source": "The Studio (MKBHD)",
+      "published": "2026-10-21T16:06:00+00:00"
+    },
+    {
       "headline": "Jensen Huang Out at Nvidia",
       "summary": "Jensen Huang has stepped down as CEO of Nvidia after 32 years, marking a massive shift for the tech industry. Meanwhile, Intel continues to struggle with foundry challenges and weak consumer demand compared to its competitors.",
       "category": "Tech/AI",
@@ -82,6 +127,24 @@
       "url": "https://stratechery.com/2026/the-end-of-jensen/",
       "source": "Stratechery",
       "published": "2026-11-13T18:00:00+00:00"
+    },
+    {
+      "headline": "Serving GLM-5.3 Across Dual DGX Stations",
+      "summary": "A technical breakdown demonstrates how to run the 753-billion-parameter GLM-5.3 model using vLLM across two NVIDIA DGX Stations. By leveraging ConnectX-8 RDMA and tensor parallelism, the setup achieves an output throughput of 607.8 tokens per second at concurrency 16.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "source": "Hacker News",
+      "published": "2026-11-14T14:09:25+00:00"
+    },
+    {
+      "headline": "A Visual Guide to Reinforcement Learning",
+      "summary": "Authors Aatish Bhatia and Arkarup Banerjee present an interactive visual explanation of how reinforcement learning works. Readers can guide a simple digital creature through trial and error to understand how neural circuitry adapts to new behaviors.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://aatishb.com/myriad/how-brains-learn/",
+      "source": "Hacker News",
+      "published": "2026-11-14T13:31:06+00:00"
     },
     {
       "headline": "The Festive Attire We Really Need",
@@ -129,49 +192,49 @@
       "published": "2026-11-11T21:10:20+00:00"
     },
     {
-      "headline": "CBS Sports Releases Week 10 Betting Guide",
-      "summary": "CBS Sports drops its comprehensive Week 10 NFL betting package, featuring expert picks, player props, and DFS lineup advice. Bettors can utilize the latest model predictions and fantasy rankings ahead of this weekend's matchups.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-guide-props-parlay-dfs-fantasy-picks/",
-      "source": "CBS Sports",
-      "published": "2026-11-14T15:10:35+00:00"
-    },
-    {
-      "headline": "Serving GLM-5.3 Across Dual DGX Stations",
-      "summary": "A technical breakdown demonstrates how to run the 753-billion-parameter GLM-5.3 model using vLLM across two NVIDIA DGX Stations. By leveraging ConnectX-8 RDMA and tensor parallelism, the setup achieves an output throughput of 607.8 tokens per second at concurrency 16.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-      "source": "Hacker News",
-      "published": "2026-11-13T17:00:00+00:00"
-    },
-    {
-      "headline": "A Visual Guide to Reinforcement Learning",
-      "summary": "Authors Aatish Bhatia and Arkarup Banerjee present an interactive visual explanation of how reinforcement learning works. Readers can guide a simple digital creature through trial and error to understand how neural circuitry adapts to new behaviors.",
-      "category": "Tech/AI",
-      "relevance": 8,
-      "url": "https://aatishb.com/myriad/how-brains-learn/",
-      "source": "Hacker News",
-      "published": "2026-11-13"
-    },
-    {
-      "headline": "Wales Reveal Tactics to Neutralize Erling Haaland Ahead of Norway Clash",
-      "summary": "BBC Sport details how Wales’ coach Craig Bellamy used a high‑line, collective pressing strategy to limit Haaland’s influence, building on a 2‑1 victory in Cardiff that offers a blueprint for containing the prolific striker.",
+      "headline": "England Faces Ultimate Test Against Spain Under Tuchel",
+      "summary": "England travels to Madrid to face European champions Spain in a high-stakes Nations League match that will test their progress under manager Thomas Tuchel. Spain enters the fixture on an imposing 43-game unbeaten run, offering the visiting squad a definitive benchmark of their current standing.",
       "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Football",
-      "published": "2026-11-13T08:05:12+00:00"
+      "published": "2026-11-14T20:22:00.305Z"
     },
     {
-      "headline": "Putin Revives Cold War-Era Demands on European Security During US Talks",
-      "summary": "Following meetings with US envoys Steve Witkoff and Jared Kushner, Russian President Vladimir Putin reiterated demands to block NATO enlargement and roll back alliance infrastructure in Eastern Europe. Moscow is pushing for a total rewrite of European security architecture, reviving proposals initially rejected before the 2022 invasion.",
+      "headline": "US Floats Ukraine Ceding Donbas for NATO Membership, Says Zelensky",
+      "summary": "US negotiators have raised the possibility of Ukraine withdrawing remaining forces from the eastern Donbas region in exchange for NATO membership during talks in Dublin. Ukrainian President Volodymyr Zelensky stated he would put any formal proposal containing robust security guarantees and rebuilding funds to a public referendum.",
       "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-13T16:40:31+00:00"
+      "published": "2026-11-14T10:30:38.165Z"
+    },
+    {
+      "headline": "Reviewing Paul C. Gutjahr’s 'Faith in Space'",
+      "summary": "The Gospel Coalition reviews Paul C. Gutjahr’s book 'Faith in Space,' exploring theological perspectives on extraterrestrial life. The piece is part of the publication's ongoing essays addressing faith, history, and modern cultural questions.",
+      "category": "Faith",
+      "relevance": 8,
+      "url": "https://www.thegospelcoalition.org/reviews/faith-in-space-extraterrestrial/",
+      "source": "The Gospel Coalition",
+      "published": "2026-11-14T05:00:00+00:00"
+    },
+    {
+      "headline": "Analyst Suggests Apple’s Johny Srouji as Ideal Successor for NVIDIA",
+      "summary": "Commentary highlights Apple hardware chief Johny Srouji as a prime candidate to lead NVIDIA should the top job open up. Analysts note his extensive silicon expertise and past consideration for major executive roles make him a formidable contender for the position.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://x.com/patrickmcgee_/status/2120799867140550999",
+      "source": "Daring Fireball",
+      "published": "2026-11-12T08:44:25.000Z"
+    },
+    {
+      "headline": "Trump, Putin, and Xi Plan Historic Trilateral Meeting in China",
+      "summary": "The White House announced that President Donald Trump, Russian President Vladimir Putin, and Chinese President Xi Jinping will hold a historic joint meeting during the APEC summit in Shenzhen next week. Discussions are expected to focus on global nuclear weapons reduction, though no formal agreements are anticipated from the talks.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-14T02:05:55.266Z"
     },
     {
       "headline": "Jensen Huang’s Final Days at Nvidia",
@@ -183,40 +246,85 @@
       "published": "2026-11-13T19:19:47+00:00"
     },
     {
-      "headline": "Cabinet Infighting Erupts Over Nvidia Export Scandal",
-      "summary": "US Treasury Secretary Scott Bessent is publicly blaming the Commerce Department for failing to restrict Nvidia chip exports to Megaspeed, a firm linked to a Chinese intelligence scandal. The controversy has intensified following the ousting of CEO Jensen Huang, with lawmakers now demanding records from the department regarding its oversight process.",
+      "headline": "Putin Revives Cold War-Era Demands on European Security During US Talks",
+      "summary": "Following meetings with US envoys Steve Witkoff and Jared Kushner, Russian President Vladimir Putin reiterated demands to block NATO enlargement and roll back alliance infrastructure in Eastern Europe. Moscow is pushing for a total rewrite of European security architecture, reviving proposals initially rejected before the 2022 invasion.",
       "category": "World",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-13T19:53:57+00:00"
+      "published": "2026-11-13T16:40:31+00:00"
     },
     {
-      "headline": "Germany Expands Intelligence Powers to Combat Hybrid Threats",
-      "summary": "The German parliament has approved a major legislative overhaul granting foreign and domestic intelligence agencies new powers to conduct covert operations abroad. Agents can now engage in sabotage, disrupt cyber-attacks, and perform more intrusive digital surveillance to counter foreign-backed threats.",
-      "category": "World",
+      "headline": "Hiroshi Yoshimura's Quiet Forest Captures Ambient Playfulness",
+      "summary": "Inspired by a tranquil visit to the Hoh Rainforest on Washington's Olympic Peninsula, the late Japanese ambient composer crafted Quiet Forest in 1996 as his final lifetime release. The album trades rigid industrial soundscapes for wistful synth melodies and pulsing vibraphones, offering a uniquely playful twist on his pioneering environmental music.",
+      "category": "Music",
       "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-13T15:42:52+00:00"
+      "url": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+      "source": "Pitchfork",
+      "published": "2026-11-14T05:00:00+00:00"
     },
     {
-      "headline": "Pro-Kremlin Aide Injured in Moscow Car Bombing",
-      "summary": "Sergei Zavorotny, a former aide to a pro-Kremlin Ukrainian ex-prime minister, was critically wounded in a remote-detonated car bombing in Moscow. The attack follows a similar assassination of a Russian military officer in St. Petersburg, marking a violent escalation in strikes against figures linked to the invasion of Ukraine.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-13T13:11:23+00:00"
-    },
-    {
-      "headline": "NVIDIA Allegedly Funded AI Startups to Boost GPU Sales",
-      "summary": "A leaked Wall Street Journal report claims NVIDIA artificially inflated demand by investing in small cloud startups that purchased its GPUs. Former CEO Jensen Huang reportedly pushed the strategy to offload an oversupply of semiconductors from TSMC.",
+      "headline": "Joanna Stern Reviews Apple's New HomeView",
+      "summary": "A detailed technical review highlights the real-world performance and design of Apple's latest smart home entry. The evaluation covers daily usability, hardware build quality, and integration within the broader Apple ecosystem.",
       "category": "Tech/AI",
       "relevance": 7,
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "url": "https://www.youtube.com/watch?v=yVTcVtLn2o4",
+      "source": "Daring Fireball",
+      "published": "2026-11-14T17:50:00+00:00"
+    },
+    {
+      "headline": "Jason Snell Reviews the $299 Apple HomeView",
+      "summary": "Apple's $299 HomeView finalmente arrives as a 5.73-inch square kitchen display that easily outperforms sluggish competitors like the Google Nest and Amazon Echo Show. While its interface borrows heavily from watchOS, iOS, and tvOS, the snappy hardware and stellar touchscreen make it a keeper despite early software quirks.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://sixcolors.com/post/2026/11/homeview-review-a-late-arrival-with-promise-but-still-showing-some-seams/",
+      "source": "Daring Fireball",
+      "published": "2026-11-12T06:00:00-08:00"
+    },
+    {
+      "headline": "Microsoft Blames Network Upgrade for Major Cloud Outage",
+      "summary": "Microsoft confirmed that a recent cloud outage was triggered by complications during an earlier network capacity upgrade that surfaced after a fresh network change. The company explicitly ruled out cyberattacks or AI agent involvement, opting for a gradual, stability-validated recovery process.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://x.com/microsoft/status/2121282013600907325",
+      "source": "Daring Fireball",
+      "published": "2026-11-13T16:40:18.000Z"
+    },
+    {
+      "headline": "Can Orbiting Data Centers Solve AI's Energy Crunch?",
+      "summary": "Tech firms are eyeing orbital data centers to tap into constant space solar power and bypass terrestrial regulatory hurdles. However, cost competitiveness relies heavily on SpaceX achieving Starship reusability down to roughly $50 per kilogram to orbit.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
       "source": "Hacker News",
-      "published": "2026-11-14T02:52:59+00:00"
+      "published": "2026-11-14T17:35:33+00:00"
+    },
+    {
+      "headline": "Failed Hegseth Impeachment Vote Tests Democratic Discipline",
+      "summary": "House Democrats stumbled in their first post-election test when an effort to impeach Defense Secretary Pete Hegseth failed due to eleven missing Democratic lawmakers. The misfire highlights mounting strategic and disciplinary hurdles for the party despite controlling congressional majorities.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
+      "source": "NPR News",
+      "published": "2026-11-14T05:00:00-05:00"
+    },
+    {
+      "headline": "Formalizing the US Tax Code Uncovers 138 Drafting Faults",
+      "summary": "Researchers translated Title 26 of the US Code into the Lean proof assistant language to hunt for legislative bugs and tax loopholes. The automated checker flagged 138 real statutory faults, including outdated cross-references and broken citations.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://lexifina.com/blog/formalizing-the-us-tax-code",
+      "source": "Hacker News",
+      "published": "2026-11-10T00:00:00.000Z"
+    },
+    {
+      "headline": "Hungarian Authorities Seize $20M in Probe of Orbán-Era Minister",
+      "summary": "Hungarian investigators uncovered nearly $20 million in cash hidden in farm buildings and buried in forests during a corruption probe into former national development minister Miklós Seszták. The raids form part of Prime Minister Péter Magyar's sweeping anti-corruption crackdown following a landslide election.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-14T10:42:20.490Z"
     },
     {
       "headline": "UCLA’s Defense Dominates with Aggressive Blitz Scheme",
@@ -226,33 +334,6 @@
       "url": "https://www.matchquarters.com/p/ucla-defense-hitschler-blitz-menu",
       "source": "MatchQuarters",
       "published": "2026-11-13T11:02:13+00:00"
-    },
-    {
-      "headline": "Virgil van Dijk Nears Contract Crossroads at Liverpool",
-      "summary": "Liverpool captain Virgil van Dijk faces an expiring contract next summer, leaving his long-term future at Anfield uncertain as he weighs a potential extension against finishing his career elsewhere. The 35-year-old defender remains an elite presence and integral leader, having played every Premier League minute since last season. Both the player and club are evaluating their next move to avoid a repeat of past high-profile departures.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-13T06:57:25+00:00"
-    },
-    {
-      "headline": "Armand Hammer Returns with Lyrical Masterclass on Snakes & Ladders",
-      "summary": "Rap duo billy woods and Elucid are back with a surprise-released album on Backwoodz Studioz that doubles as a sharp socio-political critique. Featuring production from indie rap mainstays like clipping. and Sebb Bash, the project blends dense, fragmented witticisms with immersive jazz-inflected instrumentation. It cements the duo's reputation for mining profound cultural commentary from everyday settings.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/armand-hammer-snakes-and-ladders/",
-      "source": "Pitchfork",
-      "published": "2026-11-13T05:03:00+00:00"
-    },
-    {
-      "headline": "Rosalía scoops historic third best album award at Latin Grammys",
-      "summary": "",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-13T11:38:54+00:00"
     },
     {
       "headline": "The Inevitable Fall of Jensen Huang",
@@ -291,6 +372,15 @@
       "published": "2026-11-13T15:31:22+00:00"
     },
     {
+      "headline": "Tech Giants Are Redefining the Boundaries of Privacy",
+      "summary": "The Electronic Frontier Foundation warns that new always-on consumer tech, such as AI-equipped smart glasses and continuous transcription pendants, forces users to surrender their privacy to the choices of strangers. These devices record and summarize physical surroundings, shifting privacy from an individual decision to a collective hazard.",
+      "category": "Tech/AI",
+      "relevance": 6,
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "Hacker News",
+      "published": "2026-11-14T12:45:45+00:00"
+    },
+    {
       "headline": "Microsoft Apologizes for Massive 24-Hour Global Outage",
       "summary": "Microsoft has issued an apology after a botched network capacity upgrade crippled services like Outlook and Teams for nearly 24 hours across 74 countries. While the company reports encouraging recovery progress, the incident disrupted critical infrastructure, including hospitals, government agencies, and transportation networks worldwide.",
       "category": "Tech/AI",
@@ -300,157 +390,67 @@
       "published": "2026-11-14T06:42:27+00:00"
     },
     {
-      "headline": "Pope Leo Welcomed by Jubilant Crowds in Peruvian City of Chiclayo",
-      "summary": "Pope Leo XIV celebrated an open-air Mass in northern Peru near Chiclayo, where he previously served as a bishop and lived for years. Over a million pilgrims gathered to greet the pontiff during his Latin American tour, expressing deep emotional support as he continues recovering from lung cancer surgery. The visit highlights the Pope's enduring personal ties to the region, where he was granted citizenship in 2015.",
-      "category": "Faith",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-13T18:34:45+00:00"
-    },
-    {
-      "headline": "Republican State AGs Appeal Block on Mail-In Voting Limits for 2028",
-      "summary": "Twelve Republican state attorneys general are fighting to reinstate mail-in voting restrictions in time for the 2028 presidential election. The coalition filed an appeal against a federal judge's ruling that previously blocked the U.S. Postal Service from enforcing revised ballot rules.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
-      "source": "NPR News",
-      "published": "2026-11-13T22:18:55+00:00"
-    },
-    {
-      "headline": "Fernando Mendoza's First NFL Start Analyzed",
-      "summary": "CBS Sports breaks down the best bets and player prop predictions for quarterback Fernando Mendoza ahead of his first career NFL start against the Seahawks. Analysts evaluate his outlook for the upcoming matchup.",
-      "category": "NFL",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/fernando-mendoza-picks-predictions-best-bets-props-for-first-nfl-start-versus-seahawks-revealed/",
-      "source": "CBS Sports",
-      "published": "2026-11-14T15:12:37+00:00"
-    },
-    {
-      "headline": "Estonia Joins Ban on Russian and Belarusian Athletes",
-      "summary": "Estonia has refused entry to Russian and Belarusian athletes following Norway, Finland, and Canada in opposing the International Ski Federation's neutral athlete policy. The government argues that allowing competitors would undermine support for Ukraine and serve as propaganda.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-13T17:54:33.476Z"
-    },
-    {
-      "headline": "Chuck Schumer Faces Leadership Challenge from Chris Van Hollen",
-      "summary": "Democratic Senator Chris Van Hollen announced a challenge to Senate Majority Leader Chuck Schumer as the party prepares to control Congress. Van Hollen argues the party needs fresh leadership to deliver meaningful economic change for working Americans.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-13T15:48:07.508Z"
-    },
-    {
-      "headline": "Tech Giants Are Redefining the Boundaries of Privacy",
-      "summary": "The Electronic Frontier Foundation warns that new always-on consumer tech, such as AI-equipped smart glasses and continuous transcription pendants, forces users to surrender their privacy to the choices of strangers. These devices record and summarize physical surroundings, shifting privacy from an individual decision to a collective hazard.",
+      "headline": "LinkedIn and Monster Purge 1,500 Fake Job Postings Linked to MLM",
+      "summary": "Major job boards removed over 1,500 fraudulent listings for remote travel agent roles after a CBC investigation revealed they funneled applicants into an American multi-level marketing scheme. The nonexistent positions falsely promised salaries up to $75,000 before demanding upfront fees and monthly subscriptions.",
       "category": "Tech/AI",
       "relevance": 6,
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
       "source": "Hacker News",
-      "published": "2026-11-13T13:29:31-08:00"
+      "published": "2026-11-12T09:00:00.000Z"
     },
     {
-      "headline": "Ohio State vs. Northwestern Week 11 Modeling and Odds",
-      "summary": "CBS Sports provides proven model predictions, odds, and game times for the upcoming Week 11 college football matchup between Ohio State and Northwestern. Bettors can review the latest point spreads and statistical breakdowns ahead of kickoff.",
-      "category": "Sports",
+      "headline": "Copper Wire Upgrade Triggered Nationwide US Flight Ground Stop",
+      "summary": "Transport Secretary Sean Duffy revealed that Friday's unprecedented nationwide US airspace shutdown stemmed from a router glitch during a copper wire-to-fiber upgrade by contractor L3Harris. The faulty equipment flooded air traffic control systems with bad data, though officials confirmed zero evidence of a cyberattack or AI involvement.",
+      "category": "World",
       "relevance": 6,
-      "url": "https://www.cbssports.com/betting/news/ohio-state-northwestern-odds-prediction-game-time-2026-week-11-college-football-picks-best-bets/",
-      "source": "CBS Sports",
-      "published": "2026-11-14T15:05:46+00:00"
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-14T08:42:50.233Z"
     },
     {
-      "headline": "Datasette Cluster Map 0.19 Adds Support for Version 1.0 and Leaflet",
-      "summary": "Simon Willison has released version 0.19 of the datasette-cluster-map plugin, bringing compatibility with Datasette 1.0a42. The update integrates the new datasette-leaflet package to securely request OpenStreetMap tiles with proper referrer headers.",
+      "headline": "IRS Open-Sources Direct File Codebase",
+      "summary": "The IRS has published the open-source repository for Direct File, its web-based tax preparation service built for Tax Year 2024. The platform converts complex federal tax code into plain-language interview questions and relies on a Scala-based knowledge graph called the Fact Graph. Developers and agencies can utilize the code and logic to interpret tax regulations and build business rules engines.",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
-      "source": "Simon Willison",
-      "published": "2026-11-13T23:02:45+00:00"
+      "relevance": 6,
+      "url": "https://github.com/IRS-Public/direct-file",
+      "source": "Hacker News",
+      "published": "2026-11-14T17:48:20+00:00"
     },
     {
-      "headline": "DIY Rock Band Krill Returns With First Album in a Decade",
-      "summary": "Indie rock cult favorites Krill are back with Secret Language, their first new album since disbanding in 2015. The record infuses the band's signature existential lyricism with a newfound perspective, optimism, and evolved musical arrangements.",
-      "category": "Music",
-      "relevance": 5,
-      "url": "https://pitchfork.com/reviews/albums/krill-secret-language/",
-      "source": "Pitchfork",
-      "published": "2026-11-13T05:02:00+00:00"
+      "headline": "Democrats Gather in Denver Following Midterm Wins",
+      "summary": "Democrats converged in Denver for the two-day What's Next conference to strategize following their strongest midterm performance since Watergate. Bringing together rising political stars, lawmakers, and organizers, the event focused heavily on proving the party can deliver on voter priorities. Speakers emphasized that despite recent electoral success, officials must actively work to rebuild public trust.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+      "source": "NPR News",
+      "published": "2026-11-14T14:13:54-05:00"
     },
     {
-      "headline": "Simon Willison Releases datasette-leaflet 0.3",
-      "summary": "The new datasette-leaflet 0.3 plugin bundles Leaflet for other Datasette extensions to use. It updates tile requests to use strict-origin-when-cross-origin referrer policies, keeping OpenStreetMap integration compliant without breaking map rendering.",
+      "headline": "Tracing the Evolution of Tech Roles in a New Software Job Title Family Tree",
+      "summary": "A newly compiled interactive visualization maps 104 tech job titles from the 1940s to the present day across seven specialized categories. Spanning from early clerical computer operators to modern AI and context engineers, the project highlights how roles like DevOps, SRE, and platform engineering evolved. Created using Graphviz, the open reference traces the historical lineage and career connections of software professions.",
       "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
-      "source": "Simon Willison",
-      "published": "2026-11-13T22:30:54+00:00"
+      "relevance": 6,
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "source": "Hacker News",
+      "published": "2026-11-14T17:45:19+00:00"
     },
     {
-      "headline": "Goalkeeper Gets 12-Game Ban After Fatal Collision",
-      "summary": "FC Andorra goalkeeper Jesus Owono received a 12-match suspension from the Spanish football federation following a challenge that resulted in the death of Tenerife forward Jesus de Miguel. The referee's report cited excessive force, and the abandoned match's 2-2 scoreline will stand.",
+      "headline": "UFC 334 Expert Predictions: Josh Hokit vs. Ciryl Gane",
+      "summary": "Combat sports analysts share their top predictions, expert picks, and odds for the UFC 334 fight card headlined by Josh Hokit and Ciryl Gane. The breakdown highlights key matchups and expectations for tonight's high-stakes event. Fans can review professional forecasts to gauge likely outcomes across the night's fights.",
       "category": "Sports",
       "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-13T22:37:30.883Z"
-    },
-    {
-      "headline": "DHS Assures No U.S. Threat Amid Nationwide FAA Ground Stop",
-      "summary": "Department of Homeland Security Secretary Markwayne Mullin addressed the public at the White House following a sudden nationwide FAA ground stop caused by communication difficulties. Mullin explicitly confirmed there is no evidence of a terrorist attack and urged travelers not to panic.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
-      "source": "NPR News",
-      "published": "2026-11-13T17:36:46-05:00"
-    },
-    {
-      "headline": "Google Expands Antigravity Teamwork for Advanced AI Research",
-      "summary": "Google Research has released its Antigravity /teamwork multiagent systems to help researchers tackle complex open-ended problems in math, chemistry, and software engineering. Powered by Gemini 4 models, the tool pairs parallel exploration with rigorous automated verification checkers.",
-      "category": "Tech/AI",
-      "relevance": 5,
-      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-      "source": "Hacker News",
-      "published": "2026-11-14T13:20:43+00:00"
-    },
-    {
-      "headline": "FAA Lifts Nationwide Ground Stop Following Telecom Failures",
-      "summary": "The Federal Aviation Administration halted all flight departures nationwide due to a major telecommunications failure, stranding millions of passengers at airports. Transportation Secretary Sean Duffy and DHS officials later confirmed the ground stop was lifted as systems slowly recovered.",
-      "category": "World",
-      "relevance": 5,
-      "url": "https://www.npr.org/2026/11/13/nx-s1-6040388/what-we-know-about-the-faa-nationwide-ground-stop",
-      "source": "NPR News",
-      "published": "2026-11-13T17:27:38-05:00"
-    },
-    {
-      "headline": "Bompastor Reunion Revives Malard's Striker Form at Chelsea",
-      "summary": "Melvine Malard has quickly established herself as a key player for Chelsea after reuniting with manager Sonia Bompastor, mirroring the mentorship that began at Clairefontaine when Malard was just 14. The French forward has stepped up to fill the scoring void left by Sam Kerr's departure.",
-      "category": "Sports",
-      "relevance": 5,
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyey8p8yv4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-14T06:37:49.362Z"
-    },
-    {
-      "headline": "Week 10 NFL Betting Lines, Spreads, and Totals",
-      "summary": "CBS Sports delivers comprehensive betting odds, point spreads, and game totals for every matchup on the Week 10 NFL slate. Key games highlighted include high-profile clashes like Cowboys-49ers and Steelers-Bengals.",
-      "category": "NFL",
-      "relevance": 3,
-      "url": "https://www.cbssports.com/betting/news/week-10-nfl-betting-lines-odds-totals-spreads/",
+      "url": "https://www.cbssports.com/ufc/news/ufc-334-predictions-picks-odds/",
       "source": "CBS Sports",
-      "published": "2026-11-14T15:47:57+00:00"
+      "published": "2026-11-14T20:30:48+00:00"
     },
     {
-      "headline": "Side-by-Side Comparison of All 13 Monkey Island Versions",
-      "summary": "A new interactive tool captures twelve classic moments from The Secret of Monkey Island across 13 different platform ports using ScummVM and Hatari. Each version is rendered with precise aspect correction and native pixel scaling to let users visually compare the classic game across hardware.",
-      "category": "Other",
-      "relevance": 2,
-      "url": "https://monkeyisland.pages.dev/",
-      "source": "Hacker News",
-      "published": "1990"
+      "headline": "Knicks Struggle Out of the Gate Amid Josh Hart's Early-Season Slump",
+      "summary": "New York Knicks guard Josh Hart admits to being in a poor headspace as the team navigates a rocky, uneven start to the season. The squad is attempting to shake off early struggles and find their footing after a demanding schedule. Both players and staff are looking to recalibrate quickly to avoid lingering championship hangover effects.",
+      "category": "NBA",
+      "relevance": 4,
+      "url": "https://www.cbssports.com/nba/news/knicks-struggles-josh-hart-championship-hangover/",
+      "source": "CBS Sports",
+      "published": "2026-11-14T20:20:07+00:00"
     }
   ]
 }
