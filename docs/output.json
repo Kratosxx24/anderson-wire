@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:34:54.955607+00:00",
+  "generated_at": "2026-11-21T21:04:48.118706+00:00",
   "story_count": 50,
   "stories": [
     {
@@ -93,6 +93,15 @@
       "published": "2026-10-21T16:06:00+00:00"
     },
     {
+      "headline": "NBA Daily Digest: Latest Analysis, Standings, and Trade Intel",
+      "summary": "Basketball Intelligence's November 21 newsletter highlights key league developments, including reports on top-performing teams, early-season disappointments, and upcoming trade eligibility dates. The dispatch also covers team-specific storylines such as Onyeka Okongwu's rising role in Atlanta and the Brooklyn Nets' defensive struggles.",
+      "category": "NBA",
+      "relevance": 9,
+      "url": "https://www.basketballintelligence.net/p/basketball-intelligence-for-112126",
+      "source": "Basketball Intelligence",
+      "published": "2026-11-21T19:19:22+00:00"
+    },
+    {
       "headline": "How to Fire Someone at a Christian Organization",
       "summary": "",
       "category": "Faith",
@@ -100,15 +109,6 @@
       "url": "https://www.thegospelcoalition.org/article/fire-christian-organization/",
       "source": "The Gospel Coalition",
       "published": "2026-11-20T05:02:00+00:00"
-    },
-    {
-      "headline": "Mikel Arteta Warns Arsenal Players Over Fantasy Premier League Leaks",
-      "summary": "Arsenal manager Mikel Arteta has addressed his squad regarding confidentiality after winger Christos Tzolis accidentally leaked team news by selecting himself in his Fantasy Premier League lineup before playing Liverpool. The club is implementing new internal measures, including restrictions that bar players from picking themselves, to prevent future lineup disclosures.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62pz5r16pro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-20T14:08:55+00:00"
     },
     {
       "headline": "Stratechery Expands Coverage with New Video Format for Sharp Tech",
@@ -174,49 +174,58 @@
       "published": "2026-11-21T09:40:55+00:00"
     },
     {
-      "headline": "Computer Model Backs Cowboys and Saints for Week 11",
-      "summary": "CBS Sports' weekly simulation model has locked in its picks and betting projections for the upcoming NFL slate. The computer algorithm specifically favors the Cowboys and Saints to cover their respective spreads in Week 11.",
-      "category": "NFL",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/nfl-odds-game-picks-spreads-betting-lines-predictions-week-11-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-21T14:35:57+00:00"
-    },
-    {
-      "headline": "Predicting Week 12 College Football: Model Backs USC Over Maryland",
-      "summary": "As the college football regular season nears its close, predictive modeling has turned its attention to Week 12 matchups. The algorithm specifically highlights USC as a strong play carrying a 17.5-point spread against Maryland.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/college-football-score-predictions-top-picks-best-bets-for-week-12-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-21T14:40:48+00:00"
-    },
-    {
-      "headline": "Computer Model Highlights Texas and Indiana for Week 12 Best Bets",
-      "summary": "CBS Sports' computerized betting model released its top predictions and point-spread projections for Week 12 of the college football season. The algorithm's data favors both Texas and Indiana among its primary recommended plays.",
-      "category": "Sports",
-      "relevance": 8,
-      "url": "https://www.cbssports.com/betting/news/college-football-odds-picks-lines-spreads-top-predictions-best-bets-week-12-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-21T14:31:49+00:00"
-    },
-    {
       "headline": "Anthropic Mathematician Claims AI-Assisted Proof of Riemann Hypothesis",
       "summary": "A technical staff member at AI firm Anthropic has published a four-page explanation claiming to have solved the Riemann Hypothesis using the company's Claude model. This marks the second recent instance of an AI-linked researcher claiming a breakthrough on a historic math problem.",
       "category": "Tech/AI",
       "relevance": 8,
       "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
       "source": "NPR News",
-      "published": "2026-11-21T07:30:16-05:00"
+      "published": "2026-11-21T12:30:16+00:00"
     },
     {
-      "headline": "Kim Deal Expands Solo Debut with Orchestral Live Album",
-      "summary": "Indie rock veteran Kim Deal follows up her acclaimed solo debut with a live concert album recorded at London's Barbican venue. Backed by a 13-piece orchestra, choir, and guest musicians, the 18-track set largely recreates her recent studio work. The subtle polish of the live arrangements adds fresh depth to her catalog.",
-      "category": "Music",
+      "headline": "Caleb Douglas Highlights CBS Sports' Week 11 Fantasy PPR Cheat Sheet",
+      "summary": "CBS Sports released its Week 11 PPR fantasy football cheat sheet to help managers navigate tricky lineup decisions. The latest installment focuses heavily on wide receiver Caleb Douglas as he builds momentum alongside quarterback Kyle McCord.",
+      "category": "Sports",
+      "relevance": 8,
+      "url": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-11-ppr-cheat-sheet-caleb-douglas-primed-to-build-on-budding-rapport-with-kyle-mccord/",
+      "source": "CBS Sports",
+      "published": "2026-11-21T20:57:27+00:00"
+    },
+    {
+      "headline": "macOS 27.3 Privacy Overhaul Earns High Marks After One-Week Test",
+      "summary": "John Gruber shares a positive verdict on the redesigned privacy controls in the latest macOS beta, praising the shift toward folder-specific Full Disk Access. While acknowledging the prompts are intentionally jarring, he argues the transparent UI design successfully empowers users without sacrificing security.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://daringfireball.net/2026/11/a_week_with_the_new_privacy_controls_in_macos_273",
+      "source": "Daring Fireball",
+      "published": "2026-11-21T20:09:57+00:00"
+    },
+    {
+      "headline": "Apple Implements iCloud+ Tier Limits for Advanced AI Features",
+      "summary": "Apple has outlined new daily usage caps for advanced Siri AI and Apple Intelligence features, which roll out in the 2027 software releases. Users needing higher limits for complex server-side tasks like intelligent photo editing or third-party cloud tools can upgrade their iCloud+ plans.",
+      "category": "Tech/AI",
+      "relevance": 8,
+      "url": "https://support.apple.com/en-us/127901",
+      "source": "Daring Fireball",
+      "published": "2026-11-21T18:02:51+00:00"
+    },
+    {
+      "headline": "Deadly Russian Missile Barrage Targets Kyiv Bridges and Railway Stations",
+      "summary": "Russian forces launched a massive nationwide missile assault overnight, striking critical infrastructure in Kyiv and killing at least nine people. President Volodymyr Zelensky condemned the onslaught as one of the heaviest of the war, which followed closely on the heels of a damaging attack on the Crimean Bridge.",
+      "category": "World",
+      "relevance": 8,
+      "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-20T15:14:01+00:00"
+    },
+    {
+      "headline": "Manchester United's Managerial Turnover Costs Nearing £100m",
+      "summary": "Manchester United has borrowed another £10m following the appointment of Mauricio Pochettino, pushing the club's total debt to £240m on its rolling credit limit. The £7.5m payout to release Pochettino from US Soccer brings total spending on hiring and firing managers since 2013 to £95m. That figure is expected to cross the £100m threshold once staff costs and the sacking of Michael Carrick are finalized.",
+      "category": "Sports",
       "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/kim-deal-live-at-the-barbican/",
-      "source": "Pitchfork",
-      "published": "2026-11-20T05:03:00+00:00"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Football",
+      "published": "2026-11-20T23:18:16+00:00"
     },
     {
       "headline": "ClawDOS Brings an AI Coding Agent to Vintage DOS Hardware",
@@ -237,33 +246,6 @@
       "published": "2026-11-19T05:02:00+00:00"
     },
     {
-      "headline": "RÓIS Reclaims Ancient Irish Mourning Rituals on Expanded Reissue 'MO LÉAN'",
-      "summary": "Domino is giving an international reissue to 'MO LÉAN,' the acclaimed second LP from Northern Irish composer and multi-instrumentalist Rose Connolly. The record blends experimental electronics with traditional instrumentation to resurrect communal wake customs historically suppressed by the Catholic Church and British rule. Field sounds like local radio funeral notices and warped Angelus church bells provide a haunting spine to the album's examination of grief.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/rois-mo-lean/",
-      "source": "Pitchfork",
-      "published": "2026-11-20T05:01:00+00:00"
-    },
-    {
-      "headline": "Nickolas Mohanna Strips Down Chaos for Focused Guitars on 'Whistler'",
-      "summary": "Moving away from the sprawling, overstuffed noise collages of his previous records, New York sound artist Nickolas Mohanna adopts a more sculpted approach on his self-released album 'Whistler.' Across six tracks and 37 minutes, Mohanna uses fractured acoustic and electric guitar work to trace an emotional arc moving from despair to hope. Guest drummers Greg Fox and Ryan Jewell provide subtle, unobtrusive percussive backing to ground the abstract compositions.",
-      "category": "Music",
-      "relevance": 7,
-      "url": "https://pitchfork.com/reviews/albums/nickolas-mohanna-whistler/",
-      "source": "Pitchfork",
-      "published": "2026-11-20T05:00:00+00:00"
-    },
-    {
-      "headline": "Manchester United's Managerial Turnover Costs Nearing £100m",
-      "summary": "Manchester United has borrowed another £10m following the appointment of Mauricio Pochettino, pushing the club's total debt to £240m on its rolling credit limit. The £7.5m payout to release Pochettino from US Soccer brings total spending on hiring and firing managers since 2013 to £95m. That figure is expected to cross the £100m threshold once staff costs and the sacking of Michael Carrick are finalized.",
-      "category": "Sports",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Football",
-      "published": "2026-11-20T23:18:16+00:00"
-    },
-    {
       "headline": "Anthropic Shares Slide 12% Amid Broader Tech Market Sell-Off",
       "summary": "Anthropic shares retreated roughly 12% to $85 on Friday, nearing their $83 IPO price following a massive opening day debut. The pullback coincided with a severe broader tech sector sell-off that pushed major indices toward correction territory. Wall Street investors are increasingly shifting focus from pure growth metrics toward cash flow and pathways to profitability.",
       "category": "Tech/AI",
@@ -273,76 +255,13 @@
       "published": "2026-11-20T22:42:47+00:00"
     },
     {
-      "headline": "Inside the Houthi Siege of Taiz",
-      "summary": "Houthi forces have fully encircled the Yemeni city of Taiz, cutting off roughly one million residents from essential medicine, fuel, and food supplies while doubling staple prices. Local government officials report that attacks have killed 148 civilians since August, leaving the trapped population to navigate dwindling resources and toxic smoke from burning garbage.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "published": "2026-11-20T22:14:17+00:00"
-    },
-    {
-      "headline": "Top Daily Fantasy NFL Lineups and Strategies for Week 11",
-      "summary": "CBS Sports provides dedicated lineup advice, player values, and roster construction strategies for the main Sunday slate of NFL DFS contests. Players can utilize these optimized recommendations across both FanDuel and DraftKings platforms.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/nfl-dfs-week-11-daily-fantasy-picks-fanduel-draftkings-picks-lineups-strategy-sunday-main-slate/",
-      "source": "CBS Sports",
-      "published": "2026-11-21T14:49:09+00:00"
-    },
-    {
-      "headline": "Week 11 Survivor Pool Strategy Advises Fading the Steelers",
-      "summary": "Football pool participants navigating Week 11 knockout leagues are advised to avoid picking the Pittsburgh Steelers. Strategic analysis points toward alternative teams to keep survivor pool runs alive through the weekend.",
-      "category": "NFL",
-      "relevance": 7,
-      "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-revival-pool-knockout-strategy-for-week-11-2026/",
-      "source": "CBS Sports",
-      "published": "2026-11-21T14:30:52+00:00"
-    },
-    {
-      "headline": "UN Autonomous Weapons Talks End Without Binding Rules",
-      "summary": "Geneva-based United Nations negotiations concluded with a compromise allowing countries two years to propose optional or legally binding regulations on killer robots. Humanitarian organizations and the Red Cross criticized the timeline, arguing military AI is advancing much faster than diplomacy.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-      "source": "NPR News",
-      "published": "2026-11-21T09:18:17-05:00"
-    },
-    {
-      "headline": "National Popular Vote Compact Nears 270 Electoral Vote Threshold",
-      "summary": "Buoyed by midterm election gains, Democrats are poised to control five additional state legislatures that could soon join the National Popular Vote Interstate Compact. If enacted, participating states would pledge their electoral votes to the national popular vote winner, bypassing the traditional Electoral College system.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-      "source": "NPR News",
-      "published": "2026-11-21T05:00:00-05:00"
-    },
-    {
-      "headline": "AI Stocks Plunge as Markets Fear a Bubbling Tech Sector",
-      "summary": "Wall Street suffered a brutal sell-off driven by growing investor anxiety that the prolonged artificial intelligence boom may be forming an unsustainable bubble. The market downturn arrived alongside calls from tech executives to pump the brakes on rapid AI scaling.",
-      "category": "Tech/AI",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
-      "source": "NPR News",
-      "published": "2026-11-21T05:00:00-05:00"
-    },
-    {
       "headline": "Trump Threatens Heavy Penalties for US Firms Building Overseas Data Centers",
       "summary": "President Donald Trump stated he will ban US technology companies from constructing AI data centers abroad and threatened a tremendous tax for non-compliance. The remarks follow tighter export restrictions on advanced computer chips meant to prevent Chinese access to foreign processing power.",
       "category": "Tech/AI",
       "relevance": 7,
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-20T19:51:52.870Z"
-    },
-    {
-      "headline": "UN Talks on Killer Robots Extended Without Binding Restrictions",
-      "summary": "U.N.-backed negotiations in Geneva concluded with nations agreeing to extend discussions on lethal autonomous weapons for another two years. Despite pushback from activists and U.N. leadership seeking enforceable constraints, major military powers avoided making binding commitments. The outcome highlights ongoing diplomatic friction in regulating military artificial intelligence.",
-      "category": "World",
-      "relevance": 7,
-      "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-      "source": "NPR News",
-      "published": "2026-11-21T03:08:01-05:00"
+      "published": "2026-11-20T20:54:12+00:00"
     },
     {
       "headline": "UK and EU Reach Post-Brexit Deal Strengthening Ties",
@@ -363,22 +282,76 @@
       "published": "2026-11-20T16:45:34+00:00"
     },
     {
-      "headline": "Dodgers Add Infield Depth with Royce Lewis",
-      "summary": "The Los Angeles Dodgers have added infielder Royce Lewis to bolster their aging roster during the offseason. The move provides valuable depth and youth to the team's infield as they prepare for the upcoming campaign.",
-      "category": "Sports",
-      "relevance": 6,
-      "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-offseason-tracker-royce-lewis-provides-depth-for-dodgers-aging-infield/",
-      "source": "CBS Sports",
-      "published": "2026-11-21T01:31:44+00:00"
+      "headline": "Inside the Houthi Siege of Taiz",
+      "summary": "Houthi forces have fully encircled the Yemeni city of Taiz, cutting off roughly one million residents from essential medicine, fuel, and food supplies while doubling staple prices. Local government officials report that attacks have killed 148 civilians since August, leaving the trapped population to navigate dwindling resources and toxic smoke from burning garbage.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-20T22:14:17+00:00"
     },
     {
-      "headline": "Donato Dozzy Channels Childhood Anime Nostalgia on New Techno Album Astro",
-      "summary": "Italian electronic producer Donato Dozzy draws on vintage anime soundtracks from his 1970s childhood for his latest Tresor release, Astro. The album blends retro prog-pop melodies with expansive, transportive techno soundscapes. It successfully bridges whimsical childhood memories with the ecstatic energy of a modern dancefloor.",
-      "category": "Music",
-      "relevance": 6,
-      "url": "https://pitchfork.com/reviews/albums/donato-dozzy-astro/",
-      "source": "Pitchfork",
-      "published": "2026-11-20T05:02:00+00:00"
+      "headline": "UN Autonomous Weapons Talks End Without Binding Rules",
+      "summary": "Geneva-based United Nations negotiations concluded with a compromise allowing countries two years to propose optional or legally binding regulations on killer robots. Humanitarian organizations and the Red Cross criticized the timeline, arguing military AI is advancing much faster than diplomacy.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "source": "NPR News",
+      "published": "2026-11-21T14:18:17+00:00"
+    },
+    {
+      "headline": "AI Stocks Plunge as Markets Fear a Bubbling Tech Sector",
+      "summary": "Wall Street suffered a brutal sell-off driven by growing investor anxiety that the prolonged artificial intelligence boom may be forming an unsustainable bubble. The market downturn arrived alongside calls from tech executives to pump the brakes on rapid AI scaling.",
+      "category": "Tech/AI",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+      "source": "NPR News",
+      "published": "2026-11-21T10:00:00+00:00"
+    },
+    {
+      "headline": "CBS Sports Publishes Latest Dynasty Rankings and 2026 League-Winners",
+      "summary": "CBS Sports has updated its football coverage with fresh dynasty rankings and strategy guides aimed at securing 2026 fantasy football championships. The latest hub provides analysis to help managers evaluate long-term roster value and identify high-upside players.",
+      "category": "Sports",
+      "relevance": 7,
+      "url": "https://www.cbssports.com/",
+      "source": "CBS Sports",
+      "published": "2026-11-21T18:10:37+00:00"
+    },
+    {
+      "headline": "Drone Strike Hits Russia-Bound Cargo Ship in the Gulf of Finland",
+      "summary": "The sanctioned Russian cargo vessel Sparta II caught fire after being struck by two drones in eastern Finnish waters on Saturday morning. Finnish officials suspect Ukrainian involvement in the attack, while the crew was safely evacuated to another nearby vessel.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-21T18:22:09.834Z"
+    },
+    {
+      "headline": "Bayer Finalizes Massive Settlement Up to $7.25 Billion Over Roundup Cancer Lawsuits",
+      "summary": "A Missouri judge has approved a nationwide settlement requiring Bayer to pay up to $7.25 billion over claims that its herbicide Roundup causes non-Hodgkin lymphoma. Affected individuals will receive between $10,000 and $165,000 depending on their level of glyphosate exposure, diagnosis age, and occupational background.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+      "source": "NPR News",
+      "published": "2026-11-21T15:37:35-05:00"
+    },
+    {
+      "headline": "New York Mayor Zohran Mamdani Unveils Plan to Close Rikers Island by 2032",
+      "summary": "New York City has announced a renewed initiative to shutter the notorious Rikers Island jail complex by 2032 and replace it with four new borough-based facilities. The proposal aims to slash the detained population down to 4,100, though the correction officers' union has strongly criticized the arbitrary cap as a threat to public safety.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-21T00:01:39.879Z"
+    },
+    {
+      "headline": "ANC Scrambles for Coalition Deals After Historic Local Election Losses in South Africa",
+      "summary": "The ruling African National Congress is racing against a November 27 deadline to form local government coalitions after suffering its worst electoral defeat since 1994. While the ANC retained the most votes nationally with 31%, it lost ground in major urban centers to the pro-business Democratic Alliance and former President Jacob Zuma's MK Party.",
+      "category": "World",
+      "relevance": 7,
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-21T00:34:51.223Z"
     },
     {
       "headline": "Zelensky Defends Crimean Bridge Strikes Amid Escalating Russian Attacks",
@@ -387,7 +360,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-21T11:53:38.937Z"
+      "published": "2026-11-21T13:17:38+00:00"
     },
     {
       "headline": "COP31 Climate Summit Stalls Over Fossil Fuel Disagreements",
@@ -396,34 +369,7 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-21T07:31:05.664Z"
-    },
-    {
-      "headline": "Senate Permitting Bill Accelerates Renewables While Dividing Environmentalists",
-      "summary": "A newly introduced Senate permitting reform bill aims to fast-track renewable energy infrastructure development across the United States. However, the legislation has sparked friction among environmental groups due to provisions that benefit the oil and gas sector. The split highlights the ongoing policy tension between expanding green energy and accommodating traditional fossil fuel interests.",
-      "category": "World",
-      "relevance": 6,
-      "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-      "source": "NPR News",
-      "published": "2026-11-21T07:40:17-05:00"
-    },
-    {
-      "headline": "FBI Investigates Apparent Breach of National Crime Database",
-      "summary": "Federal authorities are investigating an alleged cyberattack targeting the National Crime Information Center database used by law enforcement for warrants and background checks. This security scare follows a series of recent technological outages across US banking and air traffic sectors. It also comes on the heels of a previous incident where hackers claimed to have leaked personal data on thousands of bureau staff.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-      "source": "Hacker News",
-      "published": "2026-11-21T09:34:20.418Z"
-    },
-    {
-      "headline": "Investigators Suspect Wealthy Backers Behind Major Cyberattack",
-      "summary": "Security analysts indicate that a recent serious cyberattack appears to have been financed and orchestrated by highly affluent operators. The sophisticated nature of the operation points to well-resourced backers rather than typical rogue hacking collectives. Authorities continue to examine the scope and origin of the breach.",
-      "category": "Tech/AI",
-      "relevance": 6,
-      "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-      "source": "Hacker News",
-      "published": "2026-11-20T14:37:50.357418Z"
+      "published": "2026-11-21T19:33:49+00:00"
     },
     {
       "headline": "Zelensky Slams Putin as a Killer Following Trump's Friendly Remarks",
@@ -432,7 +378,52 @@
       "relevance": 6,
       "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "published": "2026-11-21T04:32:50.737Z"
+      "published": "2026-11-21T08:10:25+00:00"
+    },
+    {
+      "headline": "Senate Permitting Bill Accelerates Renewables While Dividing Environmentalists",
+      "summary": "A newly introduced Senate permitting reform bill aims to fast-track renewable energy infrastructure development across the United States. However, the legislation has sparked friction among environmental groups due to provisions that benefit the oil and gas sector. The split highlights the ongoing policy tension between expanding green energy and accommodating traditional fossil fuel interests.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+      "source": "NPR News",
+      "published": "2026-11-21T12:40:17+00:00"
+    },
+    {
+      "headline": "CBS Sports Drops Week 11 Pro Football Predictions and Expert Bets",
+      "summary": "CBS Sports has released its comprehensive breakdown of Week 11 NFL matchups, featuring point spreads and expert score predictions for every game. Bettors and fans can consult the platform's dedicated hub to track odds and find the best betting value for the slate.",
+      "category": "NFL",
+      "relevance": 6,
+      "url": "https://www.cbssports.com/betting/news/nfl-score-predictions-picks-best-bets-today-for-week-11-2026/",
+      "source": "CBS Sports",
+      "published": "2026-11-21T21:00:59+00:00"
+    },
+    {
+      "headline": "US Loses Measles Elimination Status Amid Public Health Failure",
+      "summary": "The United States has officially lost its measles-elimination status, marking a significant public health setback. According to medical experts cited in the Wall Street Journal, reclaiming this designation could take up to five years based on international precedent.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.wsj.com/health/measles-is-back-it-will-take-years-to-eliminate-it-again-9971736e?st=GKiu3E",
+      "source": "Daring Fireball",
+      "published": "2026-11-21T18:28:22+00:00"
+    },
+    {
+      "headline": "FBI Investigates Apparent Breach of National Crime Information Center",
+      "summary": "The FBI is investigating an apparent hack of the National Crime Information Center database, which law enforcement uses for warrants and background checks. President Donald Trump acknowledged the breach, while the agency faces additional scrutiny following recent cyberattacks targeting federal agricultural systems and previous staff data compromises.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-21T09:34:20.418Z"
+    },
+    {
+      "headline": "Top FBI Most-Wanted Mexican Drug Lord Captured After Shoot-Out",
+      "summary": "Mexican special forces arrested high-profile cartel leader Fausto Isidro Meza Flores in Sinaloa following a violent shoot-out involving explosives and gunfire. Wanted by the FBI for flooding the US with fentanyl and other deadly drugs, Meza Flores was flown to Mexico City to face prosecution and potential extradition.",
+      "category": "World",
+      "relevance": 6,
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "published": "2026-11-21T13:15:21.478Z"
     },
     {
       "headline": "Cambridge Dictionary Declares 'Human' the 2026 Word of the Year",
@@ -441,16 +432,25 @@
       "relevance": 5,
       "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
       "source": "NPR News",
-      "published": "2026-11-21T08:00:00-05:00"
+      "published": "2026-11-21T13:00:00+00:00"
     },
     {
-      "headline": "DraftKings Offers $200 Bonus and Free NBA League Pass Promotion",
-      "summary": "DraftKings is running a sports betting promotion tied to upcoming college football matchups like Georgia-South Carolina and SMU-Notre Dame. New users can secure a $200 bonus alongside a free subscription to NBA League Pass by utilizing the specific promo code. The offer targets bettors looking to capitalize on major weekend sporting events.",
+      "headline": "NINLive Archive Adds Long-Awaited Audio Streaming for Decades of Concerts",
+      "summary": "The fan-run Nine Inch Nails archive, NINLive, has rolled out a major platform update allowing users to stream live concert recordings spanning from 1988 to 2026. Fans can now log in via Discord to organize favorites, while the site continues to process new tape transfers and collect historical ticket stubs.",
+      "category": "Music",
+      "relevance": 4,
+      "url": "https://ninlive.com/",
+      "source": "Hacker News",
+      "published": "2026-11-20T22:30:47+00:00"
+    },
+    {
+      "headline": "Carmelo Anthony Pushes Back Against Marlon Humphrey Over Baltimore Remarks",
+      "summary": "Former NBA star Carmelo Anthony has publicly criticized Baltimore Ravens player Marlon Humphrey following controversial remarks the NFL defensive back made regarding criminals in Baltimore. The exchange has sparked notable local and sports-media discussion regarding representation of the city.",
       "category": "NBA",
-      "relevance": 2,
-      "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-georgia-south-carolina-smu-notre-dame-college-football/",
+      "relevance": 3,
+      "url": "https://www.cbssports.com/nba/news/carmelo-anthony-marlon-humphrey-controversial-baltimore-criminals-comment/",
       "source": "CBS Sports",
-      "published": "2026-11-21T14:50:25+00:00"
+      "published": "2026-11-21T18:50:04+00:00"
     }
   ]
 }
